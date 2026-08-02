@@ -364,5 +364,60 @@
     },
     "sourceNote": "日本語版Wikipedia『南條範夫』記事(2026-08-02閲覧)で経歴・直木賞受賞歴・生没年(1908-2004年)・『駿河城御前試合』の内容を確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kanazawa-nobuaki",
+    "name": "金沢伸明",
+    "nameKana": "かなざわのぶあき",
+    "description": "小説家。広島県呉市出身。ケータイ小説『王様ゲーム』の原作者。",
+    "birthYear": 1982,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/金沢伸明"
+    },
+    "sourceNote": "日本語版Wikipedia『金沢伸明』記事(2026-08-02閲覧)で生年・出身地・『王様ゲーム』原作者であることを確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kawakami-ryo",
+    "name": "川上亮",
+    "nameKana": "かわかみりょう",
+    "description": "小説家・ゲームデザイナー。ホラー小説『人狼ゲーム』シリーズの著者。",
+    "birthYear": 1976,
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaでは別ペンネーム「秋口ぎぐる」名義の記事は確認できたが「川上亮」単独記事は未確認。生年・経歴はnote.com掲載記事、竹書房文庫・BOOK☆WALKER等の書誌情報(2026-08-02閲覧)で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "welzard",
+    "name": "ウェルザード",
+    "nameKana": "うぇるざーど",
+    "description": "小説家。福井県出身。ケータイ小説投稿サイト『エブリスタ』発のホラー小説『カラダ探し』の原作者。",
+    "birthYear": 1979,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ウェルザード"
+    },
+    "sourceNote": "日本語版Wikipedia『ウェルザード』記事(2026-08-02閲覧)で生年・出身地・『カラダ探し』原作者であることを確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kawashima-tadashi",
+    "name": "河島正",
+    "nameKana": "かわしまただし",
+    "description": "漫画原作者。愛媛県出身。『アライブ-最終進化的少年-』の原作を手がけた。2010年没。",
+    "birthYear": 1969,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/河島正"
+    },
+    "sourceNote": "日本語版Wikipedia『河島正』記事(2026-08-02閲覧)で生没年・出身地・『アライブ-最終進化的少年-』原作者であることを確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "oku-shou",
+    "name": "オクショウ",
+    "nameKana": "おくしょう",
+    "description": "漫画原作者。『リアルアカウント』の原作・原案を担当。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『リアルアカウント』記事および講談社公式書誌情報(2026-08-02閲覧)で原作(原案)クレジットを確認。個人プロフィールの詳細(生年等)は確認できず。",
+    "updatedAt": "2026-08-02"
   }
 ]

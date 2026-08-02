@@ -155,5 +155,30 @@
     },
     "sourceNote": "日本語版Wikipedia『扶桑社』記事(2026-08-02閲覧)で設立年・事業内容を確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shinchosha",
+    "name": "新潮社",
+    "nameKana": "しんちょうしゃ",
+    "description": "1904年創業の総合出版社。文芸誌『新潮』を中心に文芸書・雑誌を刊行するほか、『月刊コミックバンチ』『月刊コミック@バンチ』などのコミック誌・レーベルで『BTOOOM!』等の漫画作品も手がける。",
+    "foundedYear": 1904,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/新潮社",
+      "officialUrl": "https://www.shinchosha.co.jp/"
+    },
+    "sourceNote": "日本語版Wikipedia『新潮社』記事(2026-08-02閲覧)で創業年(1904年)を確認。『BTOOOM!』の出版元であることは新潮社公式サイトの書誌ページ(2026-08-02閲覧)で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "takeshobo",
+    "name": "竹書房",
+    "nameKana": "たけしょぼう",
+    "description": "1972年創業の出版社。麻雀専門誌『近代麻雀』のほか、バンブーコミックスなどのコミックレーベルを展開する。",
+    "foundedYear": 1972,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/竹書房"
+    },
+    "sourceNote": "日本語版Wikipedia『竹書房』記事(2026-08-02閲覧)で創業年(1972年)を確認。『人狼ゲーム』(川上亮/小独活)の出版レーベル(バンブーコミックス)であることを竹書房公式サイト・電子書店の書誌情報(2026-08-02閲覧)で確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

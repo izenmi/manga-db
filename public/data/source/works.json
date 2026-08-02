@@ -4483,5 +4483,386 @@
     },
     "sourceNote": "日本語版Wikipedia『あさきゆめみし』記事(2026-08-02閲覧)で作者(大和和紀)・掲載誌(mimi等、講談社)・連載期間(1979-1993年)・既刊巻数(全13巻)・完結を確認。原作は紀元11世紀の古典『源氏物語』(紫式部)であり、本サイトのoriginalAuthorIdsが想定する「コミカライズ元の原作者」の枠組み(現代の小説・ゲーム等)には該当しない古典の翻案作品と判断し、大和和紀によるオリジナル脚色作品としてoriginalAuthorIdsは空配列とした。明記された漫画賞の受賞歴は確認できずawardResultsは空とした。あらすじは独自要約。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "imawa-no-kuni-no-alice",
+    "title": "今際の国のアリス",
+    "titleKana": "いまわのくにのアリス",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "aso-haro"
+    ],
+    "publisherId": "shogakukan",
+    "themeIds": [
+      "death-game",
+      "suspense-psychological",
+      "horror",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2010,
+    "latestPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 18,
+    "synopsis": "無気力な日々を送っていたゲーマー青年アリスは、親友2人とともに人影の消えた異世界の渋谷に迷い込む。そこでは失敗すれば即死という理不尽なルールの「げぇむ」への参加が強いられ、トランプの絵柄で示される難易度ごとに命を懸けた駆け引きが展開される。生き残りをかけたプレイヤー同士の心理戦と絆を描くサバイバル作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/今際の国のアリス"
+    },
+    "sourceNote": "日本語版Wikipedia『今際の国のアリス』記事(2026-08-02閲覧)で連載期間(週刊少年サンデーS/週刊少年サンデー、2010年12月号～2016年14号)・全18巻・完結・出版社(小学館)を確認。あらすじは同記事の事実関係を独自要約(コピペなし)。このマンガがすごい!等の受賞歴は確認できず空配列とした。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ousama-game",
+    "title": "王様ゲーム",
+    "titleKana": "おうさまゲーム",
+    "originalAuthorIds": [
+      "kanazawa-nobuaki"
+    ],
+    "artistIds": [
+      "renda-hitori"
+    ],
+    "publisherId": "futabasha",
+    "themeIds": [
+      "death-game",
+      "suspense-psychological",
+      "horror"
+    ],
+    "firstPublishedYear": 2011,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "「王様」を名乗る差出人から届く一通のメールをきっかけに、高校生たちは絶対服従を強いられる理不尽な命令ゲームに巻き込まれる。命令を拒めば残酷な死が待ち受け、命令の内容は次第にエスカレートしていく。誰が仕組んだのかも分からないまま、クラスメイト同士が互いを疑い、追い詰められていく。金沢伸明のケータイ小説を原作とする学園デスゲームサスペンス。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {},
+    "sourceNote": "原作は日本語版Wikipedia『王様ゲーム(小説)』記事(2026-08-02閲覧)で確認。漫画版(連打一人作画、双葉社アクションコミックス、全5巻完結)は同作の日本語版Wikipediaに独立記事がなかったため、BOOK☆WALKER・ebookjapan等の電子書店書誌情報および連打一人の日本語版Wikipedia記事(2026-08-02閲覧)で作画者・出版社・巻数・完結状況を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "btooom",
+    "title": "BTOOOM!",
+    "titleKana": "ブトゥーム",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "inoue-junya"
+    ],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "death-game",
+      "battle-action",
+      "suspense-psychological",
+      "sci-fi"
+    ],
+    "firstPublishedYear": 2009,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 26,
+    "synopsis": "社会に馴染めないニート青年・坂本竜太は、目覚めると見知らぬ孤島に置かれ、得意なオンラインゲーム「BTOOOM!」さながらに爆弾を武器とした実戦への参加を強いられる。参加者は他プレイヤーを倒して体内に埋め込まれたICチップを奪い、規定数を集めて脱出を目指す。極限状況での殺し合いを通し、坂本は自らの過去や引きこもりに至った経緯とも向き合っていくサバイバルアクション。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/BTOOOM!"
+    },
+    "sourceNote": "日本語版Wikipedia『BTOOOM!』記事および井上淳哉の日本語版Wikipedia記事(いずれも2026-08-02閲覧)で連載期間(週刊コミックバンチ→月刊コミック@バンチ、2009年～2018年)・全26巻・完結・出版社(新潮社)を確認。あらすじは独自要約。スピンオフ『BTOOOM! U-18』は別作品のため巻数に含めていない。受賞歴は確認できず空配列とした。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "limit",
+    "title": "リミット",
+    "titleKana": "リミット",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "suenobu-keiko"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "death-game",
+      "suspense-psychological",
+      "school",
+      "horror"
+    ],
+    "firstPublishedYear": 2009,
+    "latestPublishedYear": 2011,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "人気者グループに属する女子高生・水城美月は、修学旅行のバスが事故で崖から転落し、クラスメイトのほとんどを失う。生き残った少数の少女たちは救助を待ちながら孤立した山中でのサバイバル生活を強いられるが、日頃のスクールカーストが崩壊し、力を持つ者が他者を支配し始める。友情と信頼が音を立てて崩れていく極限心理を描く学園サスペンス。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "すえのぶけいこの日本語版Wikipedia記事(2026-08-02閲覧)で『別冊フレンド』2009年11月号より連載開始したことを確認。連載期間(2009年10月～2011年9月)・全6巻・完結・出版社(講談社)は電子書店の書誌情報(2026-08-02閲覧)で確認。あらすじは独自要約。受賞歴は確認できず空配列とした。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kamisama-no-iutoori",
+    "title": "神さまの言うとおり",
+    "titleKana": "かみさまのいうとおり",
+    "originalAuthorIds": [
+      "kaneshiro-muneyuki"
+    ],
+    "artistIds": [
+      "fujimura-akeji"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "death-game",
+      "horror",
+      "suspense-psychological",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2011,
+    "latestPublishedYear": 2012,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "平凡な高校生活を送っていた少年少女たちのもとに、ある日突然「だるまさんがころんだ」など童謡や遊びをモチーフにした死のゲームが襲いかかる。教室の生徒たちが次々と理不尽なルールで命を落としていく状況の中、生き残った者たちは協力や裏切りを重ねながら、なぜこんな事態が起きているのかという真相にも迫っていく学園デスゲーム。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/神さまの言うとおり"
+    },
+    "sourceNote": "日本語版Wikipedia『神さまの言うとおり』記事(2026-08-02閲覧)で連載誌(別冊少年マガジン)・連載期間(2011年3月～2012年11月)・全5巻・完結・原作(金城宗幸、既存id kaneshiro-muneyukiを再利用)・作画(藤村緋二)・出版社(講談社)を確認。あらすじは独自要約。続編『神さまの言うとおり弐』(2013年～2017年、週刊少年マガジン)は別タイトルのため本エントリの巻数・期間には含めていない。受賞歴は確認できず空配列とした。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "mirai-nikki",
+    "title": "未来日記",
+    "titleKana": "みらいにっき",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "esuno-sakae"
+    ],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "death-game",
+      "suspense-psychological",
+      "battle-action",
+      "sci-fi"
+    ],
+    "firstPublishedYear": 2006,
+    "latestPublishedYear": 2011,
+    "status": "completed",
+    "volumeCount": 12,
+    "synopsis": "時間と空間を司る神・デウスによって、12人の人間が未来を予知する日記を与えられ、最後の一人になるまで殺し合う後継者選定ゲームに巻き込まれる。傍観者に徹して穏便に暮らすことを望む中学生・天野雪輝は、常軌を逸した執着と行動力を見せるストーカー少女とともに、他の日記所有者との過酷な争いへと否応なく身を投じていくことになる。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2008,
+        "result": "少年部門候補(第32回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/未来日記_(漫画)"
+    },
+    "sourceNote": "日本語版Wikipedia『未来日記(漫画)』記事(2026-08-02閲覧)で連載期間(月刊少年エース、2006年3月号～2011年2月号)・本編全12巻・完結・出版社(角川書店)・第32回講談社漫画賞少年部門候補であることを確認。あらすじは独自要約。外伝(全3巻)は本編と別カウントのため巻数に含めていない。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "deadman-wonderland",
+    "title": "デッドマン・ワンダーランド",
+    "titleKana": "デッドマン・ワンダーランド",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kataoka-jinsei",
+      "kondo-kazuma"
+    ],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "death-game",
+      "battle-action",
+      "suspense-psychological",
+      "sci-fi"
+    ],
+    "firstPublishedYear": 2007,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 13,
+    "synopsis": "大震災から10年後の東京。クラスメイト殺害の無実の罪で死刑判決を受けた少年ガンタは、生き残った囚人たちが見世物として殺し合わされる民営刑務所「デッドマン・ワンダーランド」に送られる。自らの血を武器に変える特殊能力に目覚めた彼は、そこで再会した幼馴染とともに、施設の裏に潜む陰謀と事件の真犯人に立ち向かっていく監獄サバイバルアクション。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/デッドマン・ワンダーランド"
+    },
+    "sourceNote": "日本語版Wikipedia『デッドマン・ワンダーランド』記事(2026-08-02閲覧)で連載期間(月刊少年エース、2007年4月26日～2013年7月26日)・全13巻・完結・出版社(角川書店)を確認。片岡人生・近藤一馬による共作であることは同記事および両名の日本語版Wikipedia記事で確認したが、原作/作画の役割分担を明記した情報源が見当たらなかったため、原作者ID空・両名を作画(artistIds)として登録した。あらすじは独自要約。受賞歴は確認できず空配列とした。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "jinrou-game",
+    "title": "人狼ゲーム",
+    "titleKana": "じんろうゲーム",
+    "originalAuthorIds": [
+      "kawakami-ryo"
+    ],
+    "artistIds": [
+      "kodo"
+    ],
+    "publisherId": "takeshobo",
+    "themeIds": [
+      "death-game",
+      "suspense-psychological",
+      "horror"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "下校途中に何者かに拉致された女子高生は、目を覚ますと見知らぬ高校生たちとともに密閉された空間に閉じ込められていた。人狼と村人に分かれて殺し合う「人狼ゲーム」への強制参加を告げられた生徒たちが、誰が人狼なのか分からない疑心暗鬼の中で、生き残りをかけた騙し合いと駆け引きを繰り広げる。川上亮の小説を原作とするデスゲームサスペンス。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "川上亮のホラー小説『人狼ゲーム』シリーズのコミカライズ版。原作は日本語版Wikipedia『人狼ゲーム(小説)』記事で確認したが、漫画版自体には独立記事がなかったため、竹書房公式サイト・BOOK☆WALKER等の電子書店書誌情報(いずれも2026-08-02閲覧)で作画(小独活)・連載誌(月刊キスカ)・連載期間(2014年2月号～2015年7月号)・全3巻・完結・出版社(竹書房)を確認。あらすじは独自要約。同シリーズの他タイトル(クレイジーフォックス等)は別作品のため対象外とした。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "doubt",
+    "title": "Doubt -ダウト-",
+    "titleKana": "ダウト",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tonogai-yoshiki"
+    ],
+    "publisherId": "square-enix",
+    "themeIds": [
+      "death-game",
+      "suspense-psychological",
+      "horror",
+      "detective-mystery"
+    ],
+    "firstPublishedYear": 2007,
+    "latestPublishedYear": 2009,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "見知らぬ場所に集められた6人の男女は、携帯ゲーム「うさぎのダウト」を模した施設に監禁され、仲間内に紛れ込んだ「人狼」役を見つけ出さなければ全滅するという脱出ゲームを強いられる。バーコード式の鍵で管理された扉に阻まれながら、互いへの疑念が渦巻く中、参加者たちは限られた手がかりを頼りに真相へと迫っていく密室デスゲーム。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Doubt_(漫画)"
+    },
+    "sourceNote": "日本語版Wikipedia『Doubt(漫画)』記事(2026-08-02閲覧)で連載期間(月刊少年ガンガン、2007年8月号～2009年3月号)・全4巻・完結・出版社(スクウェア・エニックス)・オリジナル作品(原作・作画とも外海良基本人)であることを確認。あらすじは独自要約。受賞歴は確認できず空配列とした。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "judge",
+    "title": "Judge -ジャッジ-",
+    "titleKana": "ジャッジ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tonogai-yoshiki"
+    ],
+    "publisherId": "square-enix",
+    "themeIds": [
+      "death-game",
+      "suspense-psychological",
+      "horror",
+      "detective-mystery"
+    ],
+    "firstPublishedYear": 2010,
+    "latestPublishedYear": 2012,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "見知らぬ廃墟の裁判所に集められた9人の男女は、動物を模した仮面をかぶせられ、12時間ごとに1人を投票で処刑しなければ全員が死ぬという理不尽なゲームに参加させられる。生き残るために誰を犠牲にするかを迫られる極限状況の中、前作『Doubt』と同じ作者による密室デスゲームとして、疑心と裏切りが渦巻くサバイバル劇が展開される。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/JUDGE_(漫画)"
+    },
+    "sourceNote": "日本語版Wikipedia『JUDGE(漫画)』記事(2026-08-02閲覧)で連載期間(月刊少年ガンガン、2010年2月号～2012年9月号)・全6巻・完結・出版社(スクウェア・エニックス)・前作『Doubt』と同じく外海良基によるオリジナル作品であることを確認。あらすじは独自要約。受賞歴は確認できず空配列とした。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "karada-sagashi",
+    "title": "カラダ探し",
+    "titleKana": "カラダさがし",
+    "originalAuthorIds": [
+      "welzard"
+    ],
+    "artistIds": [
+      "murase-katsutoshi"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "death-game",
+      "horror",
+      "suspense-psychological",
+      "school"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 17,
+    "synopsis": "深夜の校舎に現れる血まみれの少女の霊に追われて命を落とすたび、前日の朝に時間を巻き戻される呪いにかかった高校生たち。ループから抜け出すには、バラバラにされ校内に隠された少女の遺体パーツをすべて仲間と協力して探し出すしかない。何度も殺されては生き返る恐怖と絶望が繰り返される中での脱出劇を描くホラーサバイバル。",
+    "awardResults": [],
+    "webComicSource": {
+      "platform": "shonenjump-plus"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/カラダ探し"
+    },
+    "sourceNote": "日本語版Wikipedia『カラダ探し』記事(2026-08-02閲覧)でウェルザードのケータイ小説が原作であること、村瀬克俊による漫画版が少年ジャンプ+で2014年9月26日～2017年12月8日に連載(全17巻、完結)されたことを確認。あらすじは独自要約。派生作品『解』『異』『THE LAST NIGHT』は別タイトルのため対象外とした。受賞歴は確認できず空配列とした。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "alive-saishu-shinkateki-shonen",
+    "title": "アライブ-最終進化的少年-",
+    "titleKana": "アライブ さいしゅうしんかてきしょうねん",
+    "originalAuthorIds": [
+      "kawashima-tadashi"
+    ],
+    "artistIds": [
+      "adachitoka"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "death-game",
+      "sci-fi",
+      "suspense-psychological",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2003,
+    "latestPublishedYear": 2010,
+    "status": "completed",
+    "volumeCount": 21,
+    "synopsis": "世界各地で若者が理由もなく次々と命を絶つ「悪夢の一週間」という現象が発生した後、生き残った者の一部が人智を超えた特殊な能力に目覚めていく。両親を亡くした過去を持つ高校生・叶太輔は、親友の失踪や学校の屋上で起きた殺人事件をきっかけに、覚醒した超能力者たちが繰り広げる争いと現代人の狂気に満ちた本能へと巻き込まれていくSFバトル作品。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アライブ-最終進化的少年-"
+    },
+    "sourceNote": "日本語版Wikipedia『アライブ-最終進化的少年-』記事(2026-08-02閲覧)で連載誌(月刊少年マガジン)・連載期間(2003年5月号～2010年3月号)・全21巻・完結・出版社(講談社)・原作(河島正)・作画(あだちとか)を確認。作画のあだちとかは既存artists.jsonの『フェアリーテイル』作画id(adachitoka)と同一人物であることを確認し、新規id作成を避けて再利用した。あらすじは独自要約。受賞歴は確認できず空配列とした。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "real-account",
+    "title": "リアルアカウント",
+    "titleKana": "リアルアカウント",
+    "originalAuthorIds": [
+      "oku-shou"
+    ],
+    "artistIds": [
+      "watanabe-shizumu"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "death-game",
+      "sci-fi",
+      "suspense-psychological",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 24,
+    "synopsis": "フォロワー数が0になった瞬間に現実世界でも死亡するというルールのSNS「リアルアカウント」に、ある日突然1億人が強制的に招待される。フォロワーを増やし続けなければ生き残れない理不尽なデスゲームに巻き込まれた主人公アタルたちが、頭脳戦と友情を武器に過酷な争いへ挑んでいく、3部構成で展開される頭脳バトル作品。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/リアルアカウント"
+    },
+    "sourceNote": "日本語版Wikipedia『リアルアカウント』記事(2026-08-02閲覧)で連載期間(別冊少年マガジン→週刊少年マガジン→別冊少年マガジン、2014年2月号～2019年12月号)・全24巻・完結・出版社(講談社)・原作(オクショウ)・作画(渡辺静)を確認。あらすじは独自要約。受賞歴は確認できず空配列とした。",
+    "updatedAt": "2026-08-02"
   }
 ]

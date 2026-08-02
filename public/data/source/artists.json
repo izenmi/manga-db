@@ -1393,5 +1393,137 @@
     },
     "sourceNote": "日本語版Wikipedia『大和和紀』記事(2026-08-02閲覧)で経歴・生年・代表作・受賞歴を確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "aso-haro",
+    "name": "麻生羽呂",
+    "nameKana": "あそうはろ",
+    "description": "漫画家。大阪府出身。デスゲームサバイバル『今際の国のアリス』の作者(原作・作画とも本人)。",
+    "birthYear": 1980,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/麻生羽呂"
+    },
+    "sourceNote": "日本語版Wikipedia『麻生羽呂』記事(2026-08-02閲覧)で生年・出身地・『今際の国のアリス』作者であることを確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "renda-hitori",
+    "name": "連打一人",
+    "nameKana": "れんだひとり",
+    "description": "漫画家。大阪府出身。『王様ゲーム』(原作:金沢伸明)の作画を担当。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/連打一人"
+    },
+    "sourceNote": "日本語版Wikipedia『連打一人』記事(2026-08-02閲覧)で出身地・読み方・『王様ゲーム』作画担当であることを確認。生年は確認できず。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "inoue-junya",
+    "name": "井上淳哉",
+    "nameKana": "いのうえじゅんや",
+    "description": "漫画家。高知県四万十市出身。ゲーム業界を経て漫画家に転身し、『BTOOOM!』を手がけた。",
+    "birthYear": 1971,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/井上淳哉"
+    },
+    "sourceNote": "日本語版Wikipedia『井上淳哉』記事(2026-08-02閲覧)で生年・出身地・経歴・『BTOOOM!』作者であることを確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "suenobu-keiko",
+    "name": "すえのぶけいこ",
+    "nameKana": "すえのぶけいこ",
+    "description": "漫画家。福岡県北九州市出身。『ライフ』『リミット』など学園サスペンス作品で知られる。",
+    "birthYear": 1979,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/すえのぶけいこ"
+    },
+    "sourceNote": "日本語版Wikipedia『すえのぶけいこ』記事(2026-08-02閲覧)で生年・出身地・『リミット』作者(原作・作画とも本人)であることを確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "fujimura-akeji",
+    "name": "藤村緋二",
+    "nameKana": "ふじむらあけじ",
+    "description": "漫画家。熊本県宇城市出身。『神さまの言うとおり』シリーズの作画を担当。",
+    "birthYear": 1992,
+    "externalLinks": {},
+    "sourceNote": "地元紙(熊本日日新聞)記事および漫画情報サイトの本人インタビュー記事(2026-08-02閲覧)で生年・出身地・『神さまの言うとおり』作画担当であることを確認。日本語版Wikipediaに独立記事は未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "esuno-sakae",
+    "name": "えすのサカエ",
+    "nameKana": "えすのさかえ",
+    "description": "漫画家。デスゲームサバイバル『未来日記』の作者(原作・作画とも本人)。",
+    "birthYear": 1973,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/えすのサカエ"
+    },
+    "sourceNote": "日本語版Wikipedia『えすのサカエ』記事(2026-08-02閲覧)で生年・『未来日記』作者であることを確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kataoka-jinsei",
+    "name": "片岡人生",
+    "nameKana": "かたおかじんせい",
+    "description": "漫画家・イラストレーター。近藤一馬とともに『デッドマン・ワンダーランド』を手がけた。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/片岡人生"
+    },
+    "sourceNote": "日本語版Wikipedia『片岡人生』記事(2026-08-02閲覧)で『デッドマン・ワンダーランド』共作者であることを確認。近藤一馬との原作/作画の役割分担を明記した情報源が確認できなかったため、本サイトでは便宜上2名とも作画(artistIds)として扱う。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kondo-kazuma",
+    "name": "近藤一馬",
+    "nameKana": "こんどうかずま",
+    "description": "漫画家・イラストレーター。片岡人生とともに『デッドマン・ワンダーランド』を手がけた。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/近藤一馬"
+    },
+    "sourceNote": "日本語版Wikipedia『近藤一馬』記事(2026-08-02閲覧)で『デッドマン・ワンダーランド』共作者であることを確認。役割分担の詳細は片岡人生と同様に未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kodo",
+    "name": "小独活",
+    "nameKana": "こうど",
+    "description": "漫画家。川上亮のホラー小説『人狼ゲーム』シリーズのコミカライズ作画を担当。",
+    "externalLinks": {},
+    "sourceNote": "竹書房公式サイト著者ページおよび各電子書店(BOOK☆WALKER等)の書誌情報(2026-08-02閲覧)で読み方・『人狼ゲーム』作画担当であることを確認。日本語版Wikipediaに独立記事は未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tonogai-yoshiki",
+    "name": "外海良基",
+    "nameKana": "とのがいよしき",
+    "description": "漫画家。デスゲームサスペンス『Doubt -ダウト-』『JUDGE』の作者。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/外海良基"
+    },
+    "sourceNote": "日本語版Wikipedia『外海良基』記事(2026-08-02閲覧)で経歴・『Doubt』『JUDGE』作者(原作・作画とも本人)であることを確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "murase-katsutoshi",
+    "name": "村瀬克俊",
+    "nameKana": "むらせかつとし",
+    "description": "漫画家。神奈川県出身。ウェルザード原作『カラダ探し』の作画を担当。",
+    "birthYear": 1979,
+    "externalLinks": {},
+    "sourceNote": "漫画情報サイト掲載の本人インタビュー記事(このマンガがすごい!Web、2026-08-02閲覧)で生年・出身地・『カラダ探し』作画担当であることを確認。日本語版Wikipediaに独立記事は未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "watanabe-shizumu",
+    "name": "渡辺静",
+    "nameKana": "わたなべしずむ",
+    "description": "漫画家。愛媛県出身。『リアルアカウント』(原作:オクショウ)の作画を担当。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/渡辺静"
+    },
+    "sourceNote": "日本語版Wikipedia『渡辺静』記事(2026-08-02閲覧)で出身地・読み方・『リアルアカウント』作画担当であることを確認。生年は確認できず。",
+    "updatedAt": "2026-08-02"
   }
 ]
