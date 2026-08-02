@@ -4,7 +4,9 @@
     "name": "小畑健",
     "nameKana": "おばたたけし",
     "description": "漫画家。「ヒカルの碁」「DEATH NOTE」「バクマン。」等で作画を担当。緻密な作画に定評がある。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/小畑健" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/小畑健"
+    },
     "sourceNote": "日本語版Wikipedia『小畑健』記事(2026-08-02閲覧)で経歴・代表作を確認。",
     "updatedAt": "2026-08-02"
   },
@@ -13,7 +15,9 @@
     "name": "村田雄介",
     "nameKana": "むらたゆうすけ",
     "description": "漫画家。「アイシールド21」の作画、Web発の「ワンパンマン」のリメイク版作画を担当。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/村田雄介" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/村田雄介"
+    },
     "sourceNote": "日本語版Wikipedia『村田雄介』記事(2026-08-02閲覧)で経歴・代表作を確認。",
     "updatedAt": "2026-08-02"
   },
@@ -22,7 +26,9 @@
     "name": "遠藤達哉",
     "nameKana": "えんどうたつや",
     "description": "漫画家。原作・作画を兼任し「SPY×FAMILY」を少年ジャンプ+で連載。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/遠藤達哉" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/遠藤達哉"
+    },
     "sourceNote": "日本語版Wikipedia『遠藤達哉』記事(2026-08-02閲覧)で経歴・代表作を確認。",
     "updatedAt": "2026-08-02"
   },
@@ -31,7 +37,9 @@
     "name": "諫山創",
     "nameKana": "いさやまはじめ",
     "description": "漫画家。原作・作画を兼任し「進撃の巨人」を別冊少年マガジンで連載、完結させた。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/諫山創" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/諫山創"
+    },
     "sourceNote": "日本語版Wikipedia『諫山創』記事(2026-08-02閲覧)で経歴・代表作を確認。",
     "updatedAt": "2026-08-02"
   },
@@ -40,8 +48,154 @@
     "name": "荒川弘",
     "nameKana": "あらかわひろむ",
     "description": "漫画家。原作・作画を兼任し「鋼の錬金術師」を月刊少年ガンガンで連載、完結させた。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/荒川弘" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/荒川弘"
+    },
     "sourceNote": "日本語版Wikipedia『荒川弘』記事(2026-08-02閲覧)で経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kishimoto-masashi",
+    "name": "岸本斉史",
+    "nameKana": "きしもとまさし",
+    "description": "漫画家。『NARUTO -ナルト-』の作者。忍者をテーマにしたバトル漫画で世界的な人気を博した。",
+    "birthYear": 1974,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/岸本斉史"
+    },
+    "sourceNote": "日本語版Wikipedia『岸本斉史』記事および生年月日を確認する複数の情報源(2026-08-02閲覧)で経歴・代表作・生年(1974年)を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "oda-eiichiro",
+    "name": "尾田栄一郎",
+    "nameKana": "おだえいいちろう",
+    "description": "漫画家。『ONE PIECE』の作者。海賊を題材にした長編冒険漫画を1997年から連載しており、発行部数世界一の記録を持つ。",
+    "birthYear": 1975,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/尾田栄一郎"
+    },
+    "sourceNote": "日本語版Wikipedia『尾田栄一郎』記事および生年月日を確認する複数の情報源(2026-08-02閲覧)で経歴・代表作・生年(1975年)を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "gotouge-koyoharu",
+    "name": "吾峠呼世晴",
+    "nameKana": "ごとうげこよはる",
+    "description": "漫画家。『鬼滅の刃』の作者。大正時代を舞台にした和風剣戟ダークファンタジーで大きな社会現象を巻き起こした。性別など詳しい経歴の一部は非公表。",
+    "birthYear": 1989,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/吾峠呼世晴"
+    },
+    "sourceNote": "日本語版Wikipedia『吾峠呼世晴』記事および複数の情報源(2026-08-02閲覧)で経歴・代表作・生年(1989年)を確認。性別は公式に非公表。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "akutami-gege",
+    "name": "芥見下々",
+    "nameKana": "あくたみげげ",
+    "description": "漫画家。『呪術廻戦』の作者。呪霊と呪術師の戦いを描く学園ダークファンタジーで人気を博した。",
+    "birthYear": 1992,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/芥見下々"
+    },
+    "sourceNote": "日本語版Wikipedia『芥見下々』記事および複数の情報源(2026-08-02閲覧)で経歴・代表作・生年(1992年)を確認。性別は公式に非公表。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kubo-tite",
+    "name": "久保帯人",
+    "nameKana": "くぼたいと",
+    "description": "漫画家。『BLEACH』の作者。死神と虚の戦いを描くバトル漫画で国内外に多くのファンを持つ。",
+    "birthYear": 1977,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/久保帯人"
+    },
+    "sourceNote": "日本語版Wikipedia『久保帯人』記事および複数の情報源(2026-08-02閲覧)で経歴・代表作・生年(1977年)を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "togashi-yoshihiro",
+    "name": "冨樫義博",
+    "nameKana": "とがしよしひろ",
+    "description": "漫画家。『幽☆遊☆白書』『HUNTER×HUNTER』の作者。緻密な設定と心理描写を得意とし、不定期休載を挟みながら長期連載を続けている。",
+    "birthYear": 1966,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/冨樫義博"
+    },
+    "sourceNote": "日本語版Wikipedia『冨樫義博』記事および複数の情報源(2026-08-02閲覧)で経歴・代表作・生年(1966年)を確認。『幽☆遊☆白書』『HUNTER×HUNTER』両作の作者であることも確認済み。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "horikoshi-kohei",
+    "name": "堀越耕平",
+    "nameKana": "ほりこしこうへい",
+    "description": "漫画家。『僕のヒーローアカデミア』の作者。超能力「個性」を持つ人々の世界を舞台にしたヒーロー学園漫画で人気を博した。",
+    "birthYear": 1986,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/堀越耕平"
+    },
+    "sourceNote": "日本語版Wikipedia『堀越耕平』記事および複数の情報源(2026-08-02閲覧)で経歴・代表作・生年(1986年)を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hara-yasuhisa",
+    "name": "原泰久",
+    "nameKana": "はらやすひさ",
+    "description": "漫画家。『キングダム』の作者。中国春秋戦国時代を舞台にした歴史群像劇を『週刊ヤングジャンプ』で連載している。",
+    "birthYear": 1975,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/原泰久"
+    },
+    "sourceNote": "日本語版Wikipedia『原泰久』記事および複数の情報源(2026-08-02閲覧)で経歴・代表作・生年(1975年)を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "toriyama-akira",
+    "name": "鳥山明",
+    "nameKana": "とりやまあきら",
+    "description": "漫画家。『Dr.スランプ』『ドラゴンボール』の作者。世界的に大きな影響を与えた冒険バトル漫画を手がけた。2024年3月に逝去。",
+    "birthYear": 1955,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/鳥山明"
+    },
+    "sourceNote": "日本語版Wikipedia『鳥山明』記事および複数の報道(2026-08-02閲覧)で経歴・代表作・生年(1955年)、および2024年3月1日の逝去を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "watsuki-nobuhiro",
+    "name": "和月伸宏",
+    "nameKana": "わつきのぶひろ",
+    "description": "漫画家。『るろうに剣心』の作者。幕末・明治期を舞台にした時代劇バトル漫画で人気を博した。",
+    "birthYear": 1970,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/和月伸宏"
+    },
+    "sourceNote": "日本語版Wikipedia『和月伸宏』記事および複数の情報源(2026-08-02閲覧)で経歴・代表作・生年(1970年)を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "sorachi-hideaki",
+    "name": "空知英秋",
+    "nameKana": "そらちひであき",
+    "description": "漫画家。『銀魂』の作者。江戸時代とSFを融合させたギャグ・バトル漫画を長期連載した。",
+    "birthYear": 1979,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/空知英秋"
+    },
+    "sourceNote": "日本語版Wikipedia『空知英秋』記事および複数の情報源(2026-08-02閲覧)で経歴・代表作・生年(1979年)を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "araki-hirohiko",
+    "name": "荒木飛呂彦",
+    "nameKana": "あらきひろひこ",
+    "description": "漫画家。『ジョジョの奇妙な冒険』の作者。世代を越えた大河バトル漫画を1986年から現在まで連載し続けている。",
+    "birthYear": 1960,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/荒木飛呂彦"
+    },
+    "sourceNote": "日本語版Wikipedia『荒木飛呂彦』記事および複数の情報源(2026-08-02閲覧)で経歴・代表作・生年(1960年)を確認。",
     "updatedAt": "2026-08-02"
   }
 ]

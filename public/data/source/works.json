@@ -3,18 +3,36 @@
     "id": "death-note",
     "title": "DEATH NOTE",
     "titleKana": "ですのーと",
-    "originalAuthorIds": ["oba-tsugumi"],
-    "artistIds": ["obata-takeshi"],
+    "originalAuthorIds": [
+      "oba-tsugumi"
+    ],
+    "artistIds": [
+      "obata-takeshi"
+    ],
     "publisherId": "shueisha",
-    "themeIds": ["suspense-psychological", "detective-mystery"],
+    "themeIds": [
+      "suspense-psychological",
+      "detective-mystery"
+    ],
     "firstPublishedYear": 2003,
     "latestPublishedYear": 2006,
     "status": "completed",
     "volumeCount": 12,
     "synopsis": "死神が落としたノートに名前を書けば人が死ぬ。それを拾った高校生・夜神月は、犯罪者を次々と裁いて理想の世界を作ろうとし、いつしか「キラ」と呼ばれ崇拝と恐怖の対象になる。天才探偵Lはキラの正体を暴くべく捜査を進め、互いの正体を探り合う緊迫した頭脳戦が世界を巻き込みながら展開する。",
-    "awardResults": [{ "awardId": "kono-manga-ga-sugoi", "year": 2007, "result": "オトコ編2位" }],
-    "mediaMix": { "anime": true, "novelization": true },
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/DEATH_NOTE" },
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2007,
+        "result": "オトコ編2位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/DEATH_NOTE"
+    },
     "sourceNote": "日本語版Wikipedia『DEATH NOTE』記事(2026-08-02閲覧)で原作者・作画者・掲載誌・連載期間・受賞歴・アニメ化/小説版の有無を確認。既刊巻数は本編12巻(別途短編集1巻あり、volumeCountには含めていない)。あらすじは独自要約(コピペなし)。scaffold用サンプルデータ。",
     "updatedAt": "2026-08-02"
   },
@@ -22,18 +40,38 @@
     "id": "one-punch-man",
     "title": "ワンパンマン",
     "titleKana": "わんぱんまん",
-    "originalAuthorIds": ["one"],
-    "artistIds": ["murata-yusuke"],
+    "originalAuthorIds": [
+      "one"
+    ],
+    "artistIds": [
+      "murata-yusuke"
+    ],
     "publisherId": "shueisha",
-    "themeIds": ["battle-action", "comedy"],
+    "themeIds": [
+      "battle-action",
+      "comedy"
+    ],
     "firstPublishedYear": 2012,
     "status": "ongoing",
     "volumeCount": 37,
     "synopsis": "平凡な会社員だったサイタマは、怪人から少年を助けたことをきっかけにヒーローを志し、3年間の過酷な自主トレーニングの末、あらゆる敵を一撃で倒せる圧倒的な力を手に入れる。しかし強すぎるがゆえに戦いに手応えを感じられなくなり、無名のヒーローとして怪人が跋扈する世界を飄々と歩いていく姿を描く。",
-    "awardResults": [{ "awardId": "sugoi-japan-award", "year": 2016, "result": "マンガ部門1位" }],
-    "webComicSource": { "platform": "tonari-young-jump" },
-    "mediaMix": { "anime": true, "novelization": false },
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/ワンパンマン" },
+    "awardResults": [
+      {
+        "awardId": "sugoi-japan-award",
+        "year": 2016,
+        "result": "マンガ部門1位"
+      }
+    ],
+    "webComicSource": {
+      "platform": "tonari-young-jump"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ワンパンマン"
+    },
     "sourceNote": "日本語版Wikipedia『ワンパンマン』記事(2026-08-02閲覧)で確認。原作者ONEによるWeb発の原作版(2009年〜)が先行するが、村田雄介作画によるリメイク版がとなりのヤングジャンプで連載され単行本展開の主軸のため、firstPublishedYearはリメイク版連載開始の2012年、既刊巻数もリメイク版(2026年7月時点37巻)を採用。あらすじは独自要約(コピペなし)。scaffold用サンプルデータ。",
     "updatedAt": "2026-08-02"
   },
@@ -42,17 +80,35 @@
     "title": "SPY×FAMILY",
     "titleKana": "すぱいふぁみりー",
     "originalAuthorIds": [],
-    "artistIds": ["endo-tatsuya"],
+    "artistIds": [
+      "endo-tatsuya"
+    ],
     "publisherId": "shueisha",
-    "themeIds": ["spy-action", "comedy"],
+    "themeIds": [
+      "spy-action",
+      "comedy"
+    ],
     "firstPublishedYear": 2019,
     "status": "ongoing",
     "volumeCount": 17,
     "synopsis": "凄腕スパイのロイドは、東西の緊張緩和を目的とした極秘任務のため急遽「家族」を用意することになる。血のつながりのない父・母・娘がそれぞれスパイ・暗殺者・エスパーという秘密を抱えたまま偽りの家族生活を始めるが、互いの正体を知らないまま次第に本物の絆を育んでいくホームコメディ。",
-    "awardResults": [{ "awardId": "nihon-mangaka-kyokai-sho", "year": 2023, "result": "コミック部門大賞" }],
-    "webComicSource": { "platform": "shonenjump-plus" },
-    "mediaMix": { "anime": true, "novelization": true },
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/SPY%C3%97FAMILY" },
+    "awardResults": [
+      {
+        "awardId": "nihon-mangaka-kyokai-sho",
+        "year": 2023,
+        "result": "コミック部門大賞"
+      }
+    ],
+    "webComicSource": {
+      "platform": "shonenjump-plus"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/SPY%C3%97FAMILY"
+    },
     "sourceNote": "日本語版Wikipedia『SPY×FAMILY』記事(2026-08-02閲覧)で確認。原作・作画とも遠藤達哉が単独で手がけるオリジナル作品のためoriginalAuthorIdsは空配列。あらすじは独自要約(コピペなし)。scaffold用サンプルデータ。",
     "updatedAt": "2026-08-02"
   },
@@ -61,20 +117,39 @@
     "title": "進撃の巨人",
     "titleKana": "しんげきのきょじん",
     "originalAuthorIds": [],
-    "artistIds": ["isayama-hajime"],
+    "artistIds": [
+      "isayama-hajime"
+    ],
     "publisherId": "kodansha",
-    "themeIds": ["battle-action", "dark-fantasy", "suspense-psychological"],
+    "themeIds": [
+      "battle-action",
+      "dark-fantasy",
+      "suspense-psychological"
+    ],
     "firstPublishedYear": 2009,
     "latestPublishedYear": 2021,
     "status": "completed",
     "volumeCount": 34,
     "synopsis": "人喰い巨人の脅威から逃れるため、人類は三重の壁の内側で暮らしていた。ある日、壁を超える超大型巨人の出現によって壁が破られ、故郷と母を失った少年エレンは巨人への復讐を誓い調査兵団に入団する。やがて自身が巨人化する力を持つことが判明し、世界の真実と人類の存亡を賭けた壮大な物語が始まる。",
     "awardResults": [
-      { "awardId": "kodansha-manga-award", "year": 2011, "result": "少年部門" },
-      { "awardId": "sugoi-japan-award", "year": 2015, "result": "マンガ部門グランプリ" }
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2011,
+        "result": "少年部門"
+      },
+      {
+        "awardId": "sugoi-japan-award",
+        "year": 2015,
+        "result": "マンガ部門グランプリ"
+      }
     ],
-    "mediaMix": { "anime": true, "novelization": true },
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/進撃の巨人" },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/進撃の巨人"
+    },
     "sourceNote": "日本語版Wikipedia『進撃の巨人』記事(2026-08-02閲覧)で原作者・掲載誌・連載期間・巻数・受賞歴・アニメ化/小説版の有無を確認。原作・作画とも諫山創が単独で手がけるオリジナル作品のためoriginalAuthorIdsは空配列。あらすじは独自要約(コピペなし)。scaffold用サンプルデータ。",
     "updatedAt": "2026-08-02"
   },
@@ -83,21 +158,459 @@
     "title": "鋼の錬金術師",
     "titleKana": "はがねのれんきんじゅつし",
     "originalAuthorIds": [],
-    "artistIds": ["arakawa-hiromu"],
+    "artistIds": [
+      "arakawa-hiromu"
+    ],
     "publisherId": "square-enix",
-    "themeIds": ["battle-action", "dark-fantasy", "adventure"],
+    "themeIds": [
+      "battle-action",
+      "dark-fantasy",
+      "adventure"
+    ],
     "firstPublishedYear": 2001,
     "latestPublishedYear": 2010,
     "status": "completed",
     "volumeCount": 27,
     "synopsis": "禁忌とされる人体錬成に手を出し、母親の蘇生に失敗したエルリック兄弟は、弟の身体と自身の右腕・左脚を失う。失った肉体を取り戻すため、あらゆる願いを叶えるという「賢者の石」を求めて旅立つ二人は、国家の陰謀やホムンクルスたちの暗躍に巻き込まれていく。",
     "awardResults": [
-      { "awardId": "shogakukan-manga-award", "year": 2004, "result": "少年向け部門" },
-      { "awardId": "tezuka-osamu-culture-award", "year": 2011, "result": "新生賞" }
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2004,
+        "result": "少年向け部門"
+      },
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2011,
+        "result": "新生賞"
+      }
     ],
-    "mediaMix": { "anime": true, "novelization": true },
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/鋼の錬金術師" },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/鋼の錬金術師"
+    },
     "sourceNote": "日本語版Wikipedia『鋼の錬金術師』記事(2026-08-02閲覧)で原作者・掲載誌・連載期間・巻数・受賞歴・アニメ化/小説版の有無を確認。原作・作画とも荒川弘が単独で手がけるオリジナル作品のためoriginalAuthorIdsは空配列。あらすじは独自要約(コピペなし)。scaffold用サンプルデータ。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "naruto",
+    "title": "NARUTO -ナルト-",
+    "titleKana": "なると",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kishimoto-masashi"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "battle-action",
+      "adventure",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 1999,
+    "latestPublishedYear": 2014,
+    "status": "completed",
+    "volumeCount": 72,
+    "synopsis": "忍の里・木ノ葉隠れに住む落ちこぼれ忍者うずまきナルトは、体内に強大な妖狐・九尾を封印された孤独な少年だった。仲間との出会いや厳しい修行を経て力をつけ、里の頂点である火影を目指す。幼なじみとの対立や大規模な忍界大戦を経験しながら、力による支配ではなく対話による平和の実現を模索していく成長物語。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2015,
+        "result": "「マンガ大賞」最終候補(第19回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/NARUTO_-ナルト-"
+    },
+    "sourceNote": "日本語版Wikipedia『NARUTO -ナルト-』記事(2026-08-02閲覧)で作者・掲載誌・連載期間(1999-2014年、全72巻)・完結・アニメ化・受賞歴を確認。手塚治虫文化賞は「最終候補」であり受賞ではない点をresultに明記。あらすじは独自要約。novelization等の詳細は未確認のためmediaMixに含めていない。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "one-piece",
+    "title": "ONE PIECE",
+    "titleKana": "わんぴーす",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "oda-eiichiro"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "battle-action",
+      "adventure",
+      "comedy"
+    ],
+    "firstPublishedYear": 1997,
+    "status": "ongoing",
+    "volumeCount": 115,
+    "synopsis": "海賊王ゴール・D・ロジャーが残した秘宝「ひとつなぎの大秘宝」を求め、少年モンキー・D・ルフィが海賊王を目指して大海原へ漕ぎ出す。仲間を集めて麦わらの一味を結成し、東の海から偉大なる航路グランドラインを渡り歩きながら、各地の海賊や海軍、世界政府との衝突を経て新世界の謎に迫っていく長編冒険活劇。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ONE_PIECE"
+    },
+    "sourceNote": "日本語版Wikipedia『ONE PIECE』記事(2026-08-02閲覧)で作者・掲載誌・連載開始年(1997年、連載中)・既刊巻数(115巻、2026年7月時点)・アニメ化を確認。ギネス世界記録(発行部数)は本サイトの受賞対象(kono-manga-ga-sugoi等既存賞)に該当しないため未記載。今回調査した既存6賞での受賞は確認できず、awardResultsは空とした。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kimetsu-no-yaiba",
+    "title": "鬼滅の刃",
+    "titleKana": "きめつのやいば",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "gotouge-koyoharu"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "battle-action",
+      "dark-fantasy",
+      "historical",
+      "adventure"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 23,
+    "synopsis": "大正時代の日本を舞台に、炭を売って暮らす心優しい少年・竈門炭治郎は、家族を鬼に殺され、唯一生き残った妹の禰豆子も鬼へと変えられてしまう。妹を人間に戻す方法を探すため、鬼を狩る組織「鬼殺隊」に入り、仲間たちと共に鬼との死闘を繰り広げながら、鬼を生み出す元凶との対決に挑んでいく和風剣戟譚。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/鬼滅の刃"
+    },
+    "sourceNote": "日本語版Wikipedia『鬼滅の刃』記事(2026-08-02閲覧)で作者・掲載誌・連載期間(2016-2020年、全23巻)・完結・アニメ化を確認。『このマンガがすごい!2020』オトコ編ランクイン自体は複数の情報源で確認できたが、正確な順位を裏取りできなかったためawardResultsには含めていない(要追加調査)。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "jujutsu-kaisen",
+    "title": "呪術廻戦",
+    "titleKana": "じゅじゅつかいせん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "akutami-gege"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "battle-action",
+      "dark-fantasy",
+      "suspense-psychological",
+      "school"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2024,
+    "status": "completed",
+    "volumeCount": 30,
+    "synopsis": "人の負の感情から生まれる怪異「呪霊」を祓う呪術師たちの世界を描く学園ダークファンタジー。高校生・虎杖悠仁は特級の呪いである両面宿儺の指を飲み込んだことで宿儺の器となり、死刑を免れる代わりに呪術高専に入学する。仲間たちと共闘しながら、体内に巣くう宿儺に飲み込まれず全ての指を集め祓うことを目指す。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2019,
+        "result": "オトコ編1位"
+      },
+      {
+        "awardId": "sugoi-japan-award",
+        "year": 2021,
+        "result": "マンガ部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/呪術廻戦"
+    },
+    "sourceNote": "日本語版Wikipedia『呪術廻戦』記事(2026-08-02閲覧)で作者・掲載誌・連載期間(2018-2024年、全30巻)・完結・受賞歴(このマンガがすごい!2019オトコ編1位、SUGOI JAPAN Award 2021)・アニメ化を確認。前身読み切り『東京都立呪術高等専門学校』は前日譚『呪術廻戦0』として本編とは別に扱った。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "bleach",
+    "title": "BLEACH",
+    "titleKana": "ぶりーち",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kubo-tite"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "battle-action",
+      "dark-fantasy",
+      "school"
+    ],
+    "firstPublishedYear": 2001,
+    "latestPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 74,
+    "synopsis": "霊感を持つ平凡な高校生・黒崎一護はある日、死神の少女・朽木ルキアと出会い、瀕死の彼女から力を譲り受けたことで死神代行として悪霊「虚」を斬る使命を負う。死神たちが治める尸魂界での戦い、仲間の裏切りと再会、そして見えざる帝国との最終決戦まで、愛用の斬魄刀を武器に数々の強敵と渡り合いながら成長していく一護の姿を描くバトル活劇。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2005,
+        "result": "少年向け部門受賞(第50回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/BLEACH"
+    },
+    "sourceNote": "日本語版Wikipedia『BLEACH』記事(2026-08-02閲覧)で作者・掲載誌・連載期間(2001-2016年、全74巻)・完結・第50回小学館漫画賞(少年向け部門、2005年)・アニメ化(千年血戦篇含む)を確認。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hunter-x-hunter",
+    "title": "HUNTER×HUNTER",
+    "titleKana": "はんたーはんたー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "togashi-yoshihiro"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "battle-action",
+      "adventure",
+      "dark-fantasy",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 1998,
+    "status": "ongoing",
+    "volumeCount": 39,
+    "synopsis": "山奥育ちの少年ゴンは、伝説のハンターである失踪した父親を捜すため、自らもハンター試験に挑む。試験で出会ったクラピカ、レオリオ、キルアらと固い絆を結び、超能力「念」を習得しながら、ゲームアイランドの探索や凶悪なキメラアントとの戦い、未知の暗黒大陸への遠征など過酷な冒険に身を投じていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/HUNTER×HUNTER"
+    },
+    "sourceNote": "日本語版Wikipedia『HUNTER×HUNTER』記事(2026-08-02閲覧)で作者・掲載誌・連載開始(1998年)・不定期休載を挟みつつ連載中であること・既刊巻数(39巻、2026年7月時点)・アニメ化を確認。既存6賞での明確な受賞記録は本記事からは確認できず、awardResultsは空とした。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "boku-no-hero-academia",
+    "title": "僕のヒーローアカデミア",
+    "titleKana": "ぼくのひーろーあかでみあ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "horikoshi-kohei"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "battle-action",
+      "school",
+      "adventure"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2024,
+    "status": "completed",
+    "volumeCount": 42,
+    "synopsis": "大多数の人間が超常的な力「個性」を持つ世界で、無個性に生まれた少年・緑谷出久は、最高のヒーロー・オールマイトにその力を託され、ヒーロー養成校・雄英高校に入学する。個性豊かなクラスメイトたちと切磋琢磨し、悪意を持つヴィランたちとの戦いを通して、真のヒーロー像を追い求めていく学園バトル漫画。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/僕のヒーローアカデミア"
+    },
+    "sourceNote": "日本語版Wikipedia『僕のヒーローアカデミア』記事(2026-08-02閲覧)で作者・掲載誌・連載期間(2014-2024年、全42巻)・完結・アニメ化を確認。米ハーベイ賞等海外の賞は本サイトの既存6賞に該当せず、このマンガがすごい!でのランクインも正確な年・順位を裏取りできなかったため、awardResultsは空とした(要追加調査)。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kingdom",
+    "title": "キングダム",
+    "titleKana": "きんぐだむ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hara-yasuhisa"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "battle-action",
+      "historical",
+      "adventure"
+    ],
+    "firstPublishedYear": 2006,
+    "status": "ongoing",
+    "volumeCount": 79,
+    "synopsis": "中国大陸が七国に分かれて争う春秋戦国時代末期、戦災孤児の少年・信は、下僕として仕える身から中華統一を志す秦王・嬴政と出会い、「天下の大将軍」になるという夢を掲げて秦の軍に身を投じる。若き部隊長として数々の戦場を駆け上がりながら、嬴政が掲げる中華統一という大事業を武功によって支えていく中国歴史群像劇。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2013,
+        "result": "マンガ大賞受賞(第17回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/キングダム_(漫画)"
+    },
+    "sourceNote": "日本語版Wikipedia『キングダム(漫画)』記事(2026-08-02閲覧)で作者・掲載誌(週刊ヤングジャンプ、集英社)・連載開始(2006年、連載中)・既刊巻数(79巻、2026年5月時点)・第17回手塚治虫文化賞マンガ大賞(2013年)・アニメ化を確認。このマンガがすごい!では複数年ランクインしているが1位獲得の記録は確認できずawardResultsには含めていない。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "dragon-ball",
+    "title": "ドラゴンボール",
+    "titleKana": "どらごんぼーる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "toriyama-akira"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "battle-action",
+      "adventure",
+      "comedy",
+      "sci-fi"
+    ],
+    "firstPublishedYear": 1984,
+    "latestPublishedYear": 1995,
+    "status": "completed",
+    "volumeCount": 42,
+    "synopsis": "地球のどこかに散らばる七つの珠を集めると神龍が現れ願いを一つ叶えてくれる「ドラゴンボール」を巡り、尻尾の生えた少年・孫悟空が仲間たちと共に旅を続ける。修行を重ねて武術大会で腕を磨き、やがて宇宙からやってくる強大な戦士たちとの死闘を通して、地球の平和を守るため最強の戦士へと成長していく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ドラゴンボール"
+    },
+    "sourceNote": "日本語版Wikipedia『ドラゴンボール』記事(2026-08-02閲覧)で作者・掲載誌・連載期間(1984-1995年、全42巻)・完結・アニメ化(Z/GT/改/超/DAIMA等)を確認。ギネス世界記録・日本アカデミー賞(映画版)は本サイトの既存6賞に該当せず、既存6賞での受賞は確認できなかったためawardResultsは空とした。2024年に作者が逝去している点はartistsのdescriptionに明記。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yu-yu-hakusho",
+    "title": "幽☆遊☆白書",
+    "titleKana": "ゆうゆうはくしょ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "togashi-yoshihiro"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "battle-action",
+      "dark-fantasy",
+      "comedy",
+      "adventure"
+    ],
+    "firstPublishedYear": 1990,
+    "latestPublishedYear": 1994,
+    "status": "completed",
+    "volumeCount": 19,
+    "synopsis": "喧嘩に明け暮れる不良少年・浦飯幽助は、子供を助けようとして交通事故で命を落とすが、霊界の裁定により生き返る機会を得る。その後、霊界探偵として人間界で起こる妖怪絡みの事件の解決を任され、元盗賊の妖狐蔵馬や氷使いの飛影らと固い絆を結びながら、暗黒武術会や魔界統一トーナメントなど、人間と妖怪が入り乱れる激しい戦いに身を投じていく。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1993,
+        "result": "受賞(第39回、部門詳細は要確認)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/幽☆遊☆白書"
+    },
+    "sourceNote": "日本語版Wikipedia『幽☆遊☆白書』記事(2026-08-02閲覧)で作者・掲載誌・連載期間(1990-1994年、全19巻)・完結・第39回小学館漫画賞(1993年)受賞・アニメ化を確認。小学館漫画賞の部門(少年向け等)までは本記事からは特定できずresultに明記。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "rurouni-kenshin",
+    "title": "るろうに剣心",
+    "titleKana": "るろうにけんしん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "watsuki-nobuhiro"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "battle-action",
+      "historical",
+      "adventure"
+    ],
+    "firstPublishedYear": 1994,
+    "latestPublishedYear": 1999,
+    "status": "completed",
+    "volumeCount": 28,
+    "synopsis": "幕末に「人斬り抜刀斎」として恐れられた凄腕の剣客・緋村剣心は、明治維新後、二度と人を斬らないと誓い、逆刃刀を携えて流浪人として各地を旅していた。剣術道場の師範代・神谷薫と出会い東京に居を構えるが、剣心の過去を知る宿敵たちが次々と現れ、贖罪と新しい生き方を懸けた剣戟が繰り広げられる。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/るろうに剣心"
+    },
+    "sourceNote": "日本語版Wikipedia『るろうに剣心』記事(2026-08-02閲覧)で作者・掲載誌・連載期間(1994-1999年、新書版全28巻)・完結・アニメ化を確認。記事内に明確な既存6賞の受賞記載はなくawardResultsは空とした(オリコン週間コミックチャート1位獲得の記録はあるが本サイトの受賞対象の枠組みに該当しないため未記載)。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "gintama",
+    "title": "銀魂",
+    "titleKana": "ぎんたま",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "sorachi-hideaki"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "comedy",
+      "sci-fi",
+      "historical",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2004,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 77,
+    "synopsis": "宇宙人「天人」の来航により開国した江戸を舞台に、かつて攘夷志士だった坂田銀時は、廃刀令下でも刀を捨てず「万事屋」を営みながら日銭を稼いでいる。新八や神楽ら個性的な仲間と共に、江戸の町で起こる騒動やギャグに巻き込まれつつ、物語後半では幕府と天人勢力を巡る大きな陰謀にも立ち向かっていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/銀魂"
+    },
+    "sourceNote": "日本語版Wikipedia『銀魂』記事(2026-08-02閲覧)で作者・掲載誌(週刊少年ジャンプ、後半はジャンプGIGA等にも掲載)・連載期間(2004-2018年、完結編2019年、全77巻)・完結・アニメ化を確認。記事内に既存6賞の受賞記載はなくawardResultsは空とした。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "jojo-no-kimyou-na-bouken",
+    "title": "ジョジョの奇妙な冒険",
+    "titleKana": "じょじょのきみょうなぼうけん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "araki-hirohiko"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "battle-action",
+      "suspense-psychological",
+      "adventure"
+    ],
+    "firstPublishedYear": 1986,
+    "status": "ongoing",
+    "synopsis": "ジョースター家の人々を中心に、時代や国を越えて世代交代しながら描かれる大河バトル活劇。第一部ではイギリス貴族の青年ジョナサン・ジョースターと、養子として引き取られた野心家ディオ・ブランドーの因縁が「石仮面」の力を巡って対立へと発展する。以降シリーズは各部の主人公が「スタンド」等の超能力で強敵と対峙する形で続いていく。",
+    "awardResults": [
+      {
+        "awardId": "bunkacho-media-geijutsusai",
+        "year": 2013,
+        "result": "マンガ部門大賞受賞(第17回、『ジョジョリオン』=Part8)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ジョジョの奇妙な冒険"
+    },
+    "sourceNote": "日本語版Wikipedia『ジョジョの奇妙な冒険』記事(2026-08-02閲覧)で作者・掲載誌(1986-2004年週刊少年ジャンプ、2005年以降ウルトラジャンプに移籍、いずれも集英社)・連載開始(1986年)・第9部『The JOJOLands』連載中であることを確認。第17回文化庁メディア芸術祭マンガ部門大賞(2013年、『ジョジョリオン』)受賞はコミックナタリー・文化庁公式サイト等の複数情報源(2026-08-02閲覧)で確認。全9部・約40年に及ぶ長期連載で巻数の集計方法が版によって大きく異なる(新書版・文庫版等)ため、volumeCountは今回未入力とした(第9部単独では2026年3月時点で8巻)。あらすじは独自要約(第一部を中心に記述)。",
     "updatedAt": "2026-08-02"
   }
 ]

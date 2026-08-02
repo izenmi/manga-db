@@ -5,7 +5,9 @@
     "nameKana": "しゅうえいしゃ",
     "description": "「週刊少年ジャンプ」「少年ジャンプ+」「となりのヤングジャンプ」等を擁する大手出版社。少年漫画を中心に多数のヒット作を刊行する。",
     "foundedYear": 1926,
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/集英社" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/集英社"
+    },
     "sourceNote": "日本語版Wikipedia『集英社』記事(2026-08-02閲覧)で創業年・事業内容を確認。",
     "updatedAt": "2026-08-02"
   },
@@ -15,7 +17,9 @@
     "nameKana": "こうだんしゃ",
     "description": "「週刊少年マガジン」「別冊少年マガジン」等を擁する大手出版社。講談社漫画賞を主催する。",
     "foundedYear": 1909,
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/講談社" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/講談社"
+    },
     "sourceNote": "日本語版Wikipedia『講談社』記事(2026-08-02閲覧)で創業年・事業内容を確認。",
     "updatedAt": "2026-08-02"
   },
@@ -25,7 +29,9 @@
     "nameKana": "すくうぇあえにっくす",
     "description": "「月刊少年ガンガン」「ガンガンONLINE」等を擁する出版社。ゲーム会社スクウェア・エニックス・ホールディングスの出版部門。",
     "foundedYear": 2003,
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/スクウェア・エニックス" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/スクウェア・エニックス"
+    },
     "sourceNote": "日本語版Wikipedia『スクウェア・エニックス』記事(2026-08-02閲覧)で設立年・事業内容を確認。",
     "updatedAt": "2026-08-02"
   }

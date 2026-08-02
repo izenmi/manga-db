@@ -5,7 +5,9 @@
     "organizer": "宝島社",
     "description": "宝島社が発行するムック『このマンガがすごい!』のランキングで選出される賞。オトコ編・オンナ編に分かれる。",
     "firstYear": 2004,
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/このマンガがすごい!" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/このマンガがすごい!"
+    },
     "sourceNote": "日本語版Wikipedia『このマンガがすごい!』記事(2026-08-02閲覧)で概要を確認。",
     "updatedAt": "2026-08-02"
   },
@@ -25,7 +27,9 @@
     "organizer": "日本漫画家協会",
     "description": "日本漫画家協会が主催する漫画賞。大賞・文部科学大臣賞等の部門がある。",
     "firstYear": 1972,
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/日本漫画家協会賞" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/日本漫画家協会賞"
+    },
     "sourceNote": "日本語版Wikipedia『日本漫画家協会賞』記事(2026-08-02閲覧)で概要を確認。",
     "updatedAt": "2026-08-02"
   },
@@ -35,7 +39,9 @@
     "organizer": "講談社",
     "description": "講談社が主催する漫画賞。少年・少女・一般・児童の各部門がある。",
     "firstYear": 1977,
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/講談社漫画賞" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/講談社漫画賞"
+    },
     "sourceNote": "日本語版Wikipedia『講談社漫画賞』記事(2026-08-02閲覧)で概要を確認。",
     "updatedAt": "2026-08-02"
   },
@@ -45,7 +51,9 @@
     "organizer": "小学館",
     "description": "小学館が主催する漫画賞。少年・少女・一般・児童の各部門がある。",
     "firstYear": 1955,
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/小学館漫画賞" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/小学館漫画賞"
+    },
     "sourceNote": "日本語版Wikipedia『小学館漫画賞』記事(2026-08-02閲覧)で概要を確認。",
     "updatedAt": "2026-08-02"
   },
@@ -55,8 +63,22 @@
     "organizer": "朝日新聞社",
     "description": "朝日新聞社が主催する漫画賞。マンガ大賞・新生賞・短編賞等の部門がある。",
     "firstYear": 1997,
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/手塚治虫文化賞" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/手塚治虫文化賞"
+    },
     "sourceNote": "日本語版Wikipedia『手塚治虫文化賞』記事(2026-08-02閲覧)で概要を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "bunkacho-media-geijutsusai",
+    "name": "文化庁メディア芸術祭賞(マンガ部門)",
+    "organizer": "文化庁",
+    "description": "文化庁が主催するメディア芸術祭のマンガ部門で選出される賞。大賞・優秀賞等の部門がある。",
+    "firstYear": 1997,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/文化庁メディア芸術祭"
+    },
+    "sourceNote": "日本語版Wikipedia『文化庁メディア芸術祭』記事、およびコミックナタリー等の受賞発表記事(2026-08-02閲覧)で第17回(2013年)マンガ部門大賞に荒木飛呂彦『ジョジョリオン』(『ジョジョの奇妙な冒険』Part8)が選出されたことを確認。",
     "updatedAt": "2026-08-02"
   }
 ]

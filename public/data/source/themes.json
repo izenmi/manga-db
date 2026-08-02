@@ -1,9 +1,52 @@
 [
-  { "id": "suspense-psychological", "name": "サスペンス・心理戦", "description": "騙し合いや駆け引きが物語の軸になる作品。" },
-  { "id": "detective-mystery", "name": "探偵・推理", "description": "謎解きや犯人当てが軸になる作品。" },
-  { "id": "battle-action", "name": "バトル・アクション", "description": "戦闘・格闘が物語の中心となる作品。" },
-  { "id": "comedy", "name": "コメディ", "description": "笑いの要素が強い作品。" },
-  { "id": "spy-action", "name": "スパイ・アクション", "description": "諜報活動やスパイ組織を題材にした作品。" },
-  { "id": "dark-fantasy", "name": "ダークファンタジー", "description": "暗く重厚な世界観のファンタジー作品。" },
-  { "id": "adventure", "name": "冒険", "description": "旅や探索が物語の軸になる作品。" }
+  {
+    "id": "suspense-psychological",
+    "name": "サスペンス・心理戦",
+    "description": "騙し合いや駆け引きが物語の軸になる作品。"
+  },
+  {
+    "id": "detective-mystery",
+    "name": "探偵・推理",
+    "description": "謎解きや犯人当てが軸になる作品。"
+  },
+  {
+    "id": "battle-action",
+    "name": "バトル・アクション",
+    "description": "戦闘・格闘が物語の中心となる作品。"
+  },
+  {
+    "id": "comedy",
+    "name": "コメディ",
+    "description": "笑いの要素が強い作品。"
+  },
+  {
+    "id": "spy-action",
+    "name": "スパイ・アクション",
+    "description": "諜報活動やスパイ組織を題材にした作品。"
+  },
+  {
+    "id": "dark-fantasy",
+    "name": "ダークファンタジー",
+    "description": "暗く重厚な世界観のファンタジー作品。"
+  },
+  {
+    "id": "adventure",
+    "name": "冒険",
+    "description": "旅や探索が物語の軸になる作品。"
+  },
+  {
+    "id": "historical",
+    "name": "歴史",
+    "description": "実在の歴史上の時代や出来事を題材にした作品。"
+  },
+  {
+    "id": "sci-fi",
+    "name": "SF",
+    "description": "科学技術や未来社会、宇宙などを題材にした作品。"
+  },
+  {
+    "id": "school",
+    "name": "学園",
+    "description": "学校を主な舞台にした作品。"
+  }
 ]
