@@ -7630,5 +7630,433 @@
     },
     "sourceNote": "日本語版Wikipedia『SKET DANCE』『篠原健太』記事(2026-08-02閲覧)で作者・掲載誌(週刊少年ジャンプ)・連載期間(2007-2013年、全32巻)・小学館漫画賞受賞・アニメ化(2011-2012年、全77話)を確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "dungeon-meshi",
+    "title": "ダンジョン飯",
+    "titleKana": "だんじょんめし",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kui-ryoko"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "harta",
+    "themeIds": [
+      "adventure",
+      "gourmet",
+      "comedy"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2023,
+    "status": "completed",
+    "volumeCount": 14,
+    "synopsis": "魔物に妹を喰われ命を落とさせてしまった青年ライオスのパーティは、資金も食料も尽きた状態で迷宮の奥深くへ再び潜ることになる。妹の遺体が魔物に消化される前に救出すべく、道中に現れる魔物を捕獲して調理し食べながら進むという型破りな方針を掲げ、個性豊かな仲間たちと共に危険な階層を踏破していくグルメファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2016,
+        "result": "オトコ編1位"
+      },
+      {
+        "awardId": "seiun-award",
+        "year": 2024,
+        "result": "第55回コミック部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ダンジョン飯"
+    },
+    "sourceNote": "日本語版Wikipedia『ダンジョン飯』記事(2026-08-02閲覧)で作者・連載誌(月刊ハルタ、前身Fellows!)・連載期間(2014-2023)・既刊14巻・受賞歴・アニメ化を確認。オリジナル作品のためoriginalAuthorIdsは空配列。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "dandadan",
+    "title": "ダンダダン",
+    "titleKana": "だんだだん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tatsu-yukinobu"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonenjump-plus",
+    "themeIds": [
+      "comedy",
+      "horror",
+      "sci-fi",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2021,
+    "status": "ongoing",
+    "volumeCount": 24,
+    "synopsis": "幽霊の実在は信じるが宇宙人は信じない女子高生モモと、宇宙人の実在は信じるが幽霊は信じないオカルト少年オカルン。互いの信念を賭けた肝試しをきっかけに、二人はそれぞれ本物の怪異と宇宙人に遭遇してしまう。怪奇現象と超常存在が入り乱れる騒動に巻き込まれながら、反発しつつも次第に惹かれ合っていく王道ラブコメ要素も持つオカルトバトル作品。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2026,
+        "result": "第71回受賞"
+      }
+    ],
+    "webComicSource": {
+      "platform": "shonenjump-plus"
+    },
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ダンダダン"
+    },
+    "sourceNote": "日本語版Wikipedia『ダンダダン』記事(2026-08-02閲覧)で作者・連載開始(2021年、少年ジャンプ+のオリジナル作品であることを確認済み)・既刊巻数(2026年6月時点24巻、連載継続中のため今後変動しうる)・受賞歴・アニメ化を確認。オリジナル作品のためoriginalAuthorIdsは空配列。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "chainsaw-man",
+    "title": "チェンソーマン",
+    "titleKana": "ちぇんそーまん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "fujimoto-tatsuki"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "battle-action",
+      "dark-fantasy",
+      "horror"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2026,
+    "status": "completed",
+    "volumeCount": 24,
+    "synopsis": "借金のかたにチェンソーの悪魔ポチタと暮らしていた青年デンジは、非合法デビルハンターとして働くうちに命を落とすが、ポチタと一体化しチェンソーマンとして蘇る。公安のデビルハンターとなり異形の敵と戦う日々の中、ささやかな幸せへの渇望と凄惨な暴力が同居する世界を生き抜いていく、少年の成長と喪失を描くダークアクション。第2部では高校生となったデンジと、戦争の悪魔と一心同体の少女アサとの関わりが描かれる。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2020,
+        "result": "オトコ編1位"
+      },
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2020,
+        "result": "受賞"
+      },
+      {
+        "awardId": "harvey-award",
+        "year": 2021,
+        "result": "ベストマンガ部門受賞(2021-2023年連続受賞)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/チェンソーマン"
+    },
+    "sourceNote": "日本語版Wikipedia『チェンソーマン』記事(2026-08-02閲覧)で確認。第1部は週刊少年ジャンプ(2018-2020)、第2部は少年ジャンプ+(2022-2026年3月に連載完結、2026年6月に単行本最終24巻発売)で、labelIdは連載開始時点の初出媒体である週刊少年ジャンプを採用(webComicSourceは設定しない)。オリジナル作品のためoriginalAuthorIdsは空配列。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "chi-chikyu-no-undou-ni-tsuite",
+    "title": "チ。―地球の運動について―",
+    "titleKana": "ちー ちきゅうのうんどうについて",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "uoto"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-spirits",
+    "themeIds": [
+      "historical",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 8,
+    "synopsis": "地動説を唱えることが死罪に値する異端とされる十五世紀ヨーロッパのとある国。天文学に魅せられた神学生ラファウは、異端の研究者フベルトとの出会いをきっかけに、禁じられた地動説の真理探究へとのめり込んでいく。命がけで知を追い求めた者たちの意志が、迫害を受けながらも世代を超えて次の担い手へと受け継がれていく姿を描く歴史群像劇。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2021,
+        "result": "2位"
+      },
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2022,
+        "result": "マンガ大賞受賞"
+      },
+      {
+        "awardId": "seiun-award",
+        "year": 2023,
+        "result": "コミック部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/チ。-地球の運動について-"
+    },
+    "sourceNote": "日本語版Wikipedia『チ。-地球の運動について-』記事(2026-08-02閲覧)で作者・連載誌(ビッグコミックスピリッツ)・連載期間(2020-2022)・既刊8巻・受賞歴・アニメ化(2024-2025年NHK総合)を確認。オリジナル作品のためoriginalAuthorIdsは空配列。あらすじは独自要約(コピペなし)。手塚治虫文化賞は部門名(マンガ大賞)まで確認したが、他の受賞の細かい部門名は一部未確認の可能性あり。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "theseus-no-fune",
+    "title": "テセウスの船",
+    "titleKana": "てせうすのふね",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "higashimoto-toshiya"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning",
+    "themeIds": [
+      "suspense-psychological",
+      "detective-mystery",
+      "sci-fi"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "警察官だった父が起こしたとされる小学校での毒物殺人事件から30年。父の無実を信じ続ける息子・田村心は、ある日突然、事件前夜の1989年へとタイムスリップしてしまう。過去の世界で若き日の家族や関係者たちと関わりながら、事件当時の真相を探り、迫りくる悲劇を何とか回避して真犯人を突き止めようと奔走する、家族の絆を軸にしたタイムリープサスペンス。",
+    "awardResults": [],
+    "mediaMix": {},
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/テセウスの船_(漫画)"
+    },
+    "sourceNote": "日本語版Wikipedia『テセウスの船(漫画)』記事(2026-08-02閲覧)で作者(東元俊哉単独、原作者は別に存在しない)・連載誌(モーニング)・連載期間(2017-2019)・既刊10巻を確認。TVドラマ化(2020年TBS系)は確認したが、mediaMix型はanime/novelizationのみのためドラマ化の事実はsourceNoteへの記載に留め、アニメ化・小説化は未確認のためmediaMixは空とした。オリジナル作品のためoriginalAuthorIdsは空配列。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "devilman",
+    "title": "デビルマン",
+    "titleKana": "でびるまん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nagai-go"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "dark-fantasy",
+      "horror",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1972,
+    "latestPublishedYear": 1973,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "太古の地球を支配していたデーモン族が氷河期の眠りから目覚め、人類滅亡を狙い動き出す。心優しき少年・不動明はデーモンの一体アモンと合体し、悪魔の力を持ちながら人間の心を保つ「デビルマン」となる。人間社会の醜さとデーモンの脅威の間で葛藤しながら、仲間と共にデーモン軍団の総攻撃に立ち向かい、黙示録的な最終戦争へと突き進んでいく永井豪の代表作。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/デビルマン"
+    },
+    "sourceNote": "日本語版Wikipedia『デビルマン』記事(2026-08-02閲覧)で1972年6月-1973年6月に週刊少年マガジンで連載されたオリジナル版(全5巻)の情報を確認。デビルマンレディー・新デビルマン・violence jack等の後年のリメイク/派生作品とは区別し、本エントリでは1972-73年の最初の連載版のみを登録した。オリジナル作品のためoriginalAuthorIdsは空配列。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tomodachi-game",
+    "title": "トモダチゲーム",
+    "titleKana": "ともだちげーむ",
+    "originalAuthorIds": [
+      "yamaguchi-mikoto"
+    ],
+    "artistIds": [
+      "sato-yuki"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "bessatsu-shonen-magazine",
+    "themeIds": [
+      "death-game",
+      "suspense-psychological",
+      "school"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2024,
+    "status": "completed",
+    "volumeCount": 26,
+    "synopsis": "友情に絶対の自信を持つ5人の高校生グループは、修学旅行の積立金が何者かに横領されたことをきっかけに、2000万円もの借金返済を賭けた謎のゲームへ強制的に参加させられる。「友情さえあれば余裕」と説明されるゲームの裏には仲間同士の疑心暗鬼と裏切りが渦巻き、金と友情の狭間で人間の本性が暴かれていくデスゲームサスペンス。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/トモダチゲーム"
+    },
+    "sourceNote": "日本語版Wikipedia『トモダチゲーム』記事(2026-08-02閲覧)で原作(山口ミコト、既存id yamaguchi-mikotoを再利用)・作画(佐藤友生)・連載誌(別冊少年マガジン)・連載期間(2014-2024)・既刊26巻・アニメ化を確認。友人グループが借金返済を賭けた心理戦ゲームに強制参加させられるプロットのためdeath-gameテーマを付与。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "dragon-head",
+    "title": "ドラゴンヘッド",
+    "titleKana": "どらごんへっど",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mochizuki-minetaro"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "young-magazine",
+    "themeIds": [
+      "death-game",
+      "horror",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 1994,
+    "latestPublishedYear": 2000,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "修学旅行帰りの新幹線がトンネル内で謎の大規模事故に遭い、暗闇に閉じ込められた中学生の少年少女たち。辛くも脱出を果たした3人が地上に出ると、そこは大災害によって変わり果てた日本だった。極限状況の中で徐々に均衡を失っていく仲間の精神、そして得体の知れない他の生存者たちとの遭遇を通じて、生き延びるための過酷なサバイバルを描くパニックホラー。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1997,
+        "result": "一般部門受賞"
+      },
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2000,
+        "result": "マンガ優秀賞受賞(第4回)"
+      }
+    ],
+    "mediaMix": {},
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ドラゴンヘッド"
+    },
+    "sourceNote": "日本語版Wikipedia『ドラゴンヘッド』記事(2026-08-02閲覧)で作者・連載誌(週刊ヤングマガジン)・連載期間(1994年-2000年)・既刊10巻・受賞歴を確認。実写映画化(2003年)は確認したがアニメ化・小説化は未確認のためmediaMixは空とした。大規模災害後にトンネル内・変わり果てた日本で極限のサバイバルを強いられるプロットのためdeath-gameテーマを付与。オリジナル作品のためoriginalAuthorIdsは空配列。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nisekoi",
+    "title": "ニセコイ",
+    "titleKana": "にせこい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "komi-naoshi"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "romance",
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 2011,
+    "latestPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 25,
+    "synopsis": "ヤクザの息子である高校生・一条楽は、対立する組の娘・桐崎千棘と偽の恋人関係を演じることになり、組同士の抗争回避のため交際するふりを何年も続ける羽目になる。幼い頃に交わした約束のロケットとその鍵を持つ相手を探る中、千棘をはじめとする複数の女の子たちとの関係が複雑に絡み合っていく、誰が本命なのか最後までわからない学園ラブコメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ニセコイ"
+    },
+    "sourceNote": "日本語版Wikipedia『ニセコイ』記事(2026-08-02閲覧)で作者・連載誌(週刊少年ジャンプ)・連載期間(2011-2016)・既刊25巻・アニメ化・小説版刊行を確認。オリジナル作品のためoriginalAuthorIdsは空配列。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hajime-no-ippo",
+    "title": "はじめの一歩",
+    "titleKana": "はじめのいっぽ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "morikawa-george"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "sports"
+    ],
+    "firstPublishedYear": 1989,
+    "status": "ongoing",
+    "volumeCount": 145,
+    "synopsis": "気弱でいじめられがちな高校生・幕之内一歩は、プロボクサー・鷹村守に助けられたことをきっかけにボクシングジムへ通い始める。過酷なトレーニングとスパーリングに耐えながら持ち前の打たれ強さと才能を開花させ、個性的なライバルたちとの数々の死闘を重ね、真のボクサーとして人間的にも成長していく王道ボクシング作品。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1991,
+        "result": "第15回少年部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/はじめの一歩"
+    },
+    "sourceNote": "日本語版Wikipedia『はじめの一歩』記事(2026-08-02閲覧)で作者・連載誌(週刊少年マガジン)・連載開始(1989年、現在も連載中)・既刊巻数(2026年1月時点145巻、連載継続中のため今後変動しうる)・受賞歴・アニメ化を確認。オリジナル作品のためoriginalAuthorIdsは空配列。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hataraku-saibou",
+    "title": "はたらく細胞",
+    "titleKana": "はたらくさいぼう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "shimizu-akane"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-sirius",
+    "themeIds": [
+      "comedy",
+      "slice-of-life",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2021,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "ある人間の体内で働く三十七兆個もの細胞たちを擬人化して描く医療エンターテインメント。新米の赤血球AE3803が道に迷いながらも酸素や栄養を運ぶ配達業務に奮闘する一方、白血球U-1146をはじめとする免疫細胞たちは体内に侵入する細菌やウイルスと日々死闘を繰り広げる。1話完結形式でコミカルかつ丁寧に人体の仕組みを描く作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/はたらく細胞"
+    },
+    "sourceNote": "日本語版Wikipedia『はたらく細胞』記事(2026-08-02閲覧)で作者・連載誌(月刊少年シリウス)・連載期間(2015-2021)・既刊6巻・アニメ化を確認。読切版が第27回少年シリウス新人賞大賞を受賞しているが、これは新人賞であり作品自体のawardResultsとしては採用しなかった。オリジナル作品のためoriginalAuthorIdsは空配列。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "patariro",
+    "title": "パタリロ!",
+    "titleKana": "ぱたりろ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "maya-mineo"
+    ],
+    "publisherId": "hakusensha",
+    "labelId": "hana-to-yume",
+    "themeIds": [
+      "comedy",
+      "spy-action"
+    ],
+    "firstPublishedYear": 1978,
+    "status": "ongoing",
+    "volumeCount": 104,
+    "synopsis": "バミューダトライアングルに浮かぶ小国マリネラ王国の幼い国王パタリロと、彼を護衛する美貌の英国情報部員バンコランらが繰り広げる騒動を描くギャグコメディ。スパイ映画さながらの陰謀劇や事件がシリアスに展開する一方で、パタリロの奇天烈なギャグやブラックユーモアが同居する独特の世界観を長年にわたり築き上げている。",
+    "awardResults": [
+      {
+        "awardId": "nihon-mangaka-kyokai-sho",
+        "year": 1999,
+        "result": "第28回優秀賞受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/パタリロ!"
+    },
+    "sourceNote": "日本語版Wikipedia『パタリロ!』記事(2026-08-02閲覧)で作者・連載誌(花とゆめ、他に別冊花とゆめ・MELODY・マンガPark等にも掲載実績あり)・連載開始(1978年、現在も連載中)・既刊巻数(2022年6月時点104巻、それ以降未確認のため増えている可能性あり)・受賞歴・アニメ化を確認。オリジナル作品のためoriginalAuthorIdsは空配列。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
   }
 ]

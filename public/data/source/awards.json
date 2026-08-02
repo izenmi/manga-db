@@ -116,5 +116,17 @@
     },
     "sourceNote": "日本語版Wikipedia『星雲賞』記事(2026-08-02閲覧)で概要・創設年(1970年)・コミック部門の開始(1978年、第9回)を確認。『カードキャプターさくら』が2001年第32回星雲賞コミック部門を受賞したことをWeb検索(複数情報源、2026-08-02閲覧)で確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "harvey-award",
+    "name": "ハーベイ賞",
+    "organizer": "AWA (Awards for the Wow-factor in comic Art)",
+    "description": "アメリカン・コミックス業界の権威ある賞の一つ。ベストマンガ部門を含み、翻訳出版された海外マンガも対象となる。",
+    "firstYear": 1988,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ハーベイ賞"
+    },
+    "sourceNote": "日本語版Wikipedia『ハーベイ賞』およびチェンソーマンの受賞報道記事(2026-08-02閲覧)を参照して概要を記載。",
+    "updatedAt": "2026-08-02"
   }
 ]

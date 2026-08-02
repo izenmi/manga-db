@@ -2266,5 +2266,126 @@
     },
     "sourceNote": "日本語版Wikipedia『高松美咲』記事(2026-08-02閲覧)で生年・経歴・代表作・受賞歴を確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kui-ryoko",
+    "name": "九井諒子",
+    "nameKana": "くいりょうこ",
+    "description": "漫画家。緻密な世界観構築とファンタジー考証に定評があり、代表作に『ダンジョン飯』『竜の学校は山の上』など。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/九井諒子"
+    },
+    "sourceNote": "日本語版Wikipedia『九井諒子』『ダンジョン飯』記事(2026-08-02閲覧)で経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tatsu-yukinobu",
+    "name": "龍幸伸",
+    "nameKana": "たつゆきのぶ",
+    "description": "漫画家。『ダンダダン』の原作・作画を単独で手がける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/龍幸伸"
+    },
+    "sourceNote": "日本語版Wikipedia『龍幸伸』記事(2026-08-02閲覧)で読み(たつ ゆきのぶ)・経歴を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "uoto",
+    "name": "魚豊",
+    "nameKana": "うおと",
+    "description": "漫画家。『チ。―地球の運動について―』『後世』などで知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/魚豊"
+    },
+    "sourceNote": "日本語版Wikipedia『チ。-地球の運動について-』記事(2026-08-02閲覧)で作者名を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "higashimoto-toshiya",
+    "name": "東元俊哉",
+    "nameKana": "ひがしもととしや",
+    "description": "漫画家。代表作に『テセウスの船』。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/東元俊哉"
+    },
+    "sourceNote": "日本語版Wikipedia『東元俊哉』記事(2026-08-02閲覧)で読み・経歴を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nagai-go",
+    "name": "永井豪",
+    "nameKana": "ながいごう",
+    "description": "漫画家。『デビルマン』『マジンガーZ』『けっこう仮面』など多数の代表作を持つ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/永井豪"
+    },
+    "sourceNote": "日本語版Wikipedia『永井豪』『デビルマン』記事(2026-08-02閲覧)で経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "sato-yuki",
+    "name": "佐藤友生",
+    "nameKana": "さとうゆうき",
+    "description": "漫画家。『トモダチゲーム』の作画を担当。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/佐藤友生"
+    },
+    "sourceNote": "日本語版Wikipedia『佐藤友生』記事(2026-08-02閲覧)で読み・経歴を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "mochizuki-minetaro",
+    "name": "望月峯太郎",
+    "nameKana": "もちづきみねたろう",
+    "description": "漫画家。『ドラゴンヘッド』『まぶらほ』(原作)などで知られる。「望月ミネタロウ」名義でも活動。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/望月峯太郎"
+    },
+    "sourceNote": "日本語版Wikipedia『望月峯太郎』記事(2026-08-02閲覧)で経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "komi-naoshi",
+    "name": "古味直志",
+    "nameKana": "こみなおし",
+    "description": "漫画家。代表作に『ニセコイ』。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/古味直志"
+    },
+    "sourceNote": "日本語版Wikipedia『古味直志』記事(2026-08-02閲覧)で経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "morikawa-george",
+    "name": "森川ジョージ",
+    "nameKana": "もりかわじょーじ",
+    "description": "漫画家。代表作に『はじめの一歩』。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/森川ジョージ"
+    },
+    "sourceNote": "日本語版Wikipedia『森川ジョージ』記事(2026-08-02閲覧)で経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shimizu-akane",
+    "name": "清水茜",
+    "nameKana": "しみずあかね",
+    "description": "漫画家。代表作に『はたらく細胞』。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/清水茜"
+    },
+    "sourceNote": "日本語版Wikipedia『はたらく細胞』記事(2026-08-02閲覧)で作者名を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "maya-mineo",
+    "name": "魔夜峰央",
+    "nameKana": "まやみねお",
+    "description": "漫画家。代表作に『パタリロ!』『翔んで埼玉』。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔夜峰央"
+    },
+    "sourceNote": "日本語版Wikipedia『魔夜峰央』記事(2026-08-02閲覧)で経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
   }
 ]
