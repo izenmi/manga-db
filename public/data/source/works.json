@@ -2443,5 +2443,453 @@
     },
     "sourceNote": "日本語版Wikipedia『うずまき(漫画)』記事(2026-08-02閲覧)で作者(伊藤潤二、オリジナル作品)・週刊ビッグコミックスピリッツ(小学館)連載(1998-1999)・全3巻・完結を確認。米国アイズナー賞受賞歴があるが本DB未登録(国内賞中心)の賞のため今回は記載せず。2024年に海外向けアニメ化された既知情報によりmediaMix.animeをtrueとした。あらすじは独自要約。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "crayon-shinchan",
+    "title": "クレヨンしんちゃん",
+    "titleKana": "くれよんしんちゃん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "usui-yoshito"
+    ],
+    "publisherId": "futabasha",
+    "themeIds": [
+      "comedy",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 1990,
+    "status": "ongoing",
+    "volumeCount": 50,
+    "synopsis": "埼玉県春日部市に暮らす5歳児・野原しんのすけの言動に、両親をはじめ周囲の大人たちが振り回される様子を描くギャグ漫画。下品でませた発言や独特な行動で騒動を巻き起こしながらも、家族の温かさも随所に描かれる。作者急逝後も「新クレヨンしんちゃん」として連載が継続している。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/クレヨンしんちゃん"
+    },
+    "sourceNote": "日本語版Wikipedia『クレヨンしんちゃん』『臼井儀人』記事(2026-08-02閲覧)で原作者・出版社・掲載誌・連載開始年・巻数・作者没後の連載継続状況を確認。作品自体への漫画賞受賞歴は情報源上確認できず(アニメ版の文化庁メディア芸術祭受賞はアニメ限定のため対象外)。既刊巻数はオリジナル版全50巻を採用(新クレヨンしんちゃんの巻数は既刊16巻で別カウント)。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kochikame",
+    "title": "こちら葛飾区亀有公園前派出所",
+    "titleKana": "こちらかつしかくかめありこうえんまえはしゅつじょ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "akimoto-osamu"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "comedy",
+      "slice-of-life",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 1976,
+    "latestPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 201,
+    "synopsis": "東京・葛飾区亀有の派出所に勤める型破りな巡査・両津勘吉を中心に、金儲けの企てや騒動を巻き起こしながらも下町の人情を見せる姿を描くギャグ漫画。週刊少年ジャンプで40年間休載なく連載され、単行本200巻(後の追加巻を含め201巻)を刊行した長寿シリーズ。",
+    "awardResults": [
+      {
+        "awardId": "nihon-mangaka-kyokai-sho",
+        "year": 2001,
+        "result": "大賞"
+      },
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2004,
+        "result": "特別賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/こちら葛飾区亀有公園前派出所"
+    },
+    "sourceNote": "日本語版Wikipedia『こちら葛飾区亀有公園前派出所』記事(2026-08-02閲覧)で原作者・出版社・掲載誌・連載期間・巻数・受賞歴・アニメ化を確認。原作・作画とも秋本治が単独で手がけるオリジナル作品のためoriginalAuthorIdsは空配列。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "doraemon",
+    "title": "ドラえもん",
+    "titleKana": "どらえもん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "fujiko-f-fujio"
+    ],
+    "publisherId": "shogakukan",
+    "themeIds": [
+      "comedy",
+      "slice-of-life",
+      "sci-fi",
+      "school"
+    ],
+    "firstPublishedYear": 1969,
+    "latestPublishedYear": 1996,
+    "status": "completed",
+    "volumeCount": 45,
+    "synopsis": "22世紀からやってきた猫型ロボット・ドラえもんが、勉強も運動も苦手な小学生・野比のび太の元に現れ、四次元ポケットの未来の道具で日々のトラブルを助ける。道具の悪用でかえって騒動が広がる笑いを軸にしつつ、友情や成長を描く国民的児童漫画。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1982,
+        "result": "児童向け部門"
+      },
+      {
+        "awardId": "nihon-mangaka-kyokai-sho",
+        "year": 1994,
+        "result": "文部大臣賞"
+      },
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 1997,
+        "result": "マンガ大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ドラえもん"
+    },
+    "sourceNote": "日本語版Wikipedia『ドラえもん』記事(2026-08-02閲覧)で原作者・出版社・連載期間・てんとう虫コミックス巻数(全45巻)・受賞歴・アニメ化を確認。作者藤子・F・不二雄が原作・作画を単独で手がけるオリジナル作品のためoriginalAuthorIdsは空配列。1996年の作者没により連載終了、statusはcompleted扱い。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ansatsu-kyoshitsu",
+    "title": "暗殺教室",
+    "titleKana": "あんさつきょうしつ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "matsui-yusei"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "comedy",
+      "school",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 21,
+    "synopsis": "月の7割を破壊した謎の超生物が、進学校の落ちこぼれクラスの担任として赴任してくる。生徒たちは政府から巨額の報酬と引き換えにその教師の「暗殺」を命じられ、卒業までの1年間、殺意と師弟愛が入り混じる特異な学園生活を送る。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2014,
+        "result": "オトコ編1位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/暗殺教室"
+    },
+    "sourceNote": "日本語版Wikipedia『暗殺教室』記事・Web検索(このマンガがすごい!2014受賞、2026-08-02閲覧)で原作者・出版社・掲載誌・連載期間・巻数・受賞歴・アニメ化を確認。原作・作画とも松井優征が単独で手がけるオリジナル作品のためoriginalAuthorIdsは空配列。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "saiki-kusuo-no-psi-nan",
+    "title": "斉木楠雄のΨ難",
+    "titleKana": "さいきくすおのさいなん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "aso-shuichi"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "comedy",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 26,
+    "synopsis": "生まれつき万能の超能力を持つ高校生・斉木楠雄は、能力を隠して目立たない平穏な日常を送りたいと願っている。しかし個性的すぎるクラスメイトたちに次々と巻き込まれ、超能力を使ってなんとか穏便に事態を収めようとする姿がコミカルに描かれる学園ギャグ漫画。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/斉木楠雄のΨ難"
+    },
+    "sourceNote": "日本語版Wikipedia『斉木楠雄のΨ難』記事(2026-08-02閲覧)で原作者・出版社・掲載誌・連載期間・巻数・アニメ化を確認。原作・作画とも麻生周一が単独で手がけるオリジナル作品のためoriginalAuthorIdsは空配列。作品自体の正式な漫画賞受賞は情報源上確認できず(ニュージャンプ内選定「NPG」は本サイトの定義する賞に該当しないため不採用)、awardResultsは空配列。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "osomatsu-san",
+    "title": "おそ松さん",
+    "titleKana": "おそまつさん",
+    "originalAuthorIds": [
+      "akatsuka-fujio"
+    ],
+    "artistIds": [
+      "shitara-masako"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "comedy",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "赤塚不二夫の代表作「おそ松くん」の六つ子が、そのまま大人になって帰ってきたコメディ。テレビアニメ「おそ松さん」のヒットを受けてシタラマサコの作画でコミカライズされた作品で、いい歳をした無職の六つ子たちのぐだぐだな日常が繰り広げられる。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {},
+    "sourceNote": "Web検索(集英社「月刊YOU」公式サイト・電子書籍販売サイト各種、2026-08-02閲覧)で原作(赤塚不二夫)・作画(シタラマサコ)・出版社・掲載誌(月刊YOU→Cookie)・連載期間・巻数を確認。アニメ『おそ松さん』(2015年放送開始)が先行し、その後に本作がコミカライズされた経緯を確認。日本語版Wikipedia記事は同名アニメ記事のみでこの漫画版の直接記載は限定的だったため、主に電子書籍販売サイトの著者・作品情報で裏取りした。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "chukan-kanri-roku-tonegawa",
+    "title": "中間管理録トネガワ",
+    "titleKana": "ちゅうかんかんりろくとねがわ",
+    "originalAuthorIds": [
+      "hagiwara-tensei"
+    ],
+    "artistIds": [
+      "hashimoto-tomohiro",
+      "miyoshi-tomoki"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "comedy",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "福本伸行「カイジ」シリーズのキャラクター・利根川幸雄を主人公にしたスピンオフ。帝愛グループの中間管理職として、暴君の会長の思いつきに振り回されながら部下を統率し、退屈しのぎの企画を遂行していく利根川の奮闘を、原作の緊迫した死闘とは対照的な会社員コメディとして描く。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2017,
+        "result": "オトコ編1位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/中間管理録トネガワ"
+    },
+    "sourceNote": "日本語版Wikipedia『中間管理録トネガワ』記事・講談社コミックス公式商品ページ・Web検索(このマンガがすごい!2017受賞、2026-08-02閲覧)で原作・作画クレジット・出版社・掲載誌・連載期間・巻数・受賞歴・アニメ化を確認。原作クレジットは萩原天晴、福本伸行は「協力」クレジットのためoriginalAuthorIdsには含めていない。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "gin-no-saji",
+    "title": "銀の匙 Silver Spoon",
+    "titleKana": "ぎんのさじ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "arakawa-hiromu"
+    ],
+    "publisherId": "shogakukan",
+    "themeIds": [
+      "school",
+      "slice-of-life",
+      "comedy"
+    ],
+    "firstPublishedYear": 2011,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 15,
+    "synopsis": "受験に失敗して北海道の農業高校に進学した都会育ちの八軒勇吾が、実家が農家でない唯一の生徒として戸惑いながらも、酪農実習や部活動を通じて個性豊かなクラスメイトたちと交流し、自分の将来を模索していく青春群像劇。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2012,
+        "result": "少年向け部門"
+      },
+      {
+        "awardId": "sugoi-japan-award",
+        "year": 2015,
+        "result": "マンガ部門2位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/銀の匙_Silver_Spoon"
+    },
+    "sourceNote": "Web検索(コミックナタリー・オリコン等、2026-08-02閲覧)で出版社・掲載誌(週刊少年サンデー)・連載期間・完結巻数(全15巻)・受賞歴(小学館漫画賞2012少年向け部門、SUGOI JAPAN Award 2015マンガ部門2位)・アニメ化を確認。マンガ大賞2012大賞も受賞しているが本サイトの既存awardリストに該当賞がないため不採用。artistIdsは既存の荒川弘(arakawa-hiromu)をそのまま再利用し、原作・作画とも荒川弘単独のオリジナル作品のためoriginalAuthorIdsは空配列(指示通り新規artist作成せず)。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yotsubato",
+    "title": "よつばと!",
+    "titleKana": "よつばと",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "azuma-kiyohiko"
+    ],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "slice-of-life",
+      "comedy"
+    ],
+    "firstPublishedYear": 2003,
+    "status": "ongoing",
+    "volumeCount": 16,
+    "synopsis": "ちょっと風変わりな5歳の女の子・よつばが、父親と新しい町に引っ越してきたところから始まる日常コメディ。近所の家族や友人たちとの交流を通じて、よつばの目に映る世界のささやかな驚きや発見を丁寧に描く。",
+    "awardResults": [
+      {
+        "awardId": "bunkacho-media-geijutsusai",
+        "year": 2006,
+        "result": "マンガ部門優秀賞"
+      },
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2016,
+        "result": "マンガ大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/よつばと!"
+    },
+    "sourceNote": "日本語版Wikipedia『よつばと!』記事・Web検索(既刊16巻、2025年2月発売、2026-08-02閲覧)で作者・出版社(メディアワークス→アスキー・メディアワークス→KADOKAWA)・掲載誌・連載開始年・巻数・受賞歴を確認。作者が明言する通りアニメ化はされていない。原作・作画とも単独オリジナル作品のためoriginalAuthorIdsは空配列。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "karakai-jouzu-no-takagi-san",
+    "title": "からかい上手の高木さん",
+    "titleKana": "からかいじょうずのたかぎさん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yamamoto-souichirou"
+    ],
+    "publisherId": "shogakukan",
+    "themeIds": [
+      "school",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2023,
+    "status": "completed",
+    "volumeCount": 20,
+    "synopsis": "中学校の隣の席同士である西片と高木さん。何をやってもすぐ見抜かれてからかわれてしまう西片が、なんとか高木さんをやり返そうと奮闘するも毎回失敗に終わる。からかいの応酬を通じて少しずつ距離が縮まっていく二人を、じれったくも微笑ましく描く学園ラブコメ。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2021,
+        "result": "少年向け部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/からかい上手の高木さん"
+    },
+    "sourceNote": "日本語版Wikipedia『からかい上手の高木さん』記事(2026-08-02閲覧)で作者・出版社・掲載誌・連載期間・完結巻数(全20巻)・受賞歴(小学館漫画賞2021少年向け部門)・アニメ化を確認。原作・作画とも山本崇一朗単独のオリジナル作品のためoriginalAuthorIdsは空配列。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "sazae-san",
+    "title": "サザエさん",
+    "titleKana": "さざえさん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hasegawa-machiko"
+    ],
+    "publisherId": "asahi-shimbun-shuppan",
+    "themeIds": [
+      "comedy",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 1946,
+    "latestPublishedYear": 1974,
+    "status": "completed",
+    "volumeCount": 68,
+    "synopsis": "磯野家の長女・サザエとその一家の日常を描く4コマ中心の家庭漫画。連続したストーリーよりも独立した日常のひとコマを積み重ねる構成で、季節の行事や近所付き合いなど、戦後日本の庶民生活をユーモラスに切り取った国民的作品。",
+    "awardResults": [
+      {
+        "awardId": "nihon-mangaka-kyokai-sho",
+        "year": 1991,
+        "result": "文部大臣賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/サザエさん"
+    },
+    "sourceNote": "日本語版Wikipedia『サザエさん』『長谷川町子』記事・Web検索(2026-08-02閲覧)で作者・連載期間(1946-1974)・単行本巻数(全68巻)・受賞歴(1991年日本漫画家協会賞文部大臣賞)・アニメ化を確認。単行本の刊行元は連載当時の姉妹社(1993年廃業)から現在は朝日新聞出版に引き継がれているため、publisherIdは現行の朝日新聞出版(asahi-shimbun-shuppan)を採用。国民栄誉賞・紫綬褒章は個人への叙勲であり作品自体の賞でないためawardResultsには含めていない。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ajin-chan-wa-kataritai",
+    "title": "亜人ちゃんは語りたい",
+    "titleKana": "あじんちゃんはかたりたい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "petos"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "comedy",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2023,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "吸血鬼やデュラハン、雪女といった「亜人(デミ)」と呼ばれる特異体質の人々が社会に受け入れられている世界を舞台に、亜人生徒に強い興味を持つ生物教師・高橋鉄男が、彼女たちの体質ゆえの悩みや日常に向き合っていく学園コメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/亜人ちゃんは語りたい"
+    },
+    "sourceNote": "日本語版Wikipedia『亜人ちゃんは語りたい』記事(2026-08-02閲覧)で作者(ペトス)・出版社・掲載誌・連載期間・完結巻数(全11巻)・アニメ化を確認。「次にくるマンガ大賞」2位選出はランキング企画だが本サイトの既存awardリスト・追加候補にも該当賞がないため不採用、awardResultsは空配列。原作・作画とも単独オリジナル作品のためoriginalAuthorIdsは空配列。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "suki-na-ko-ga-megane-wo-wasureta",
+    "title": "好きな子がめがねを忘れた",
+    "titleKana": "すきなこがめがねをわすれた",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "fujichika-koume"
+    ],
+    "publisherId": "square-enix",
+    "themeIds": [
+      "school",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2024,
+    "status": "completed",
+    "volumeCount": 12,
+    "synopsis": "隣の席の女子・小村美衣が眼鏡をよく忘れてほとんど何も見えなくなってしまうことをきっかけに、内気な男子・小村君との距離が急接近していくゼロ距離ラブコメ。眼鏡を忘れるたび繰り広げられる二人のやり取りをコミカルに描く。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/好きな子がめがねを忘れた"
+    },
+    "sourceNote": "日本語版Wikipedia『好きな子がめがねを忘れた』記事・Web検索(2026-08-02閲覧)で作者・出版社(スクウェア・エニックス)・掲載誌(月刊ガンガンJOKER)・連載期間(2018-2024)・完結巻数(全12巻)・アニメ化を確認。「次にくるマンガ大賞2019」コミックス部門12位は本サイトの既存awardリスト・追加候補に該当賞がないため不採用、awardResultsは空配列。原作・作画とも単独オリジナル作品のためoriginalAuthorIdsは空配列。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
   }
 ]

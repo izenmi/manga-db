@@ -83,5 +83,29 @@
     },
     "sourceNote": "日本語版Wikipedia『双葉社』記事(2026-08-02閲覧)で設立年・主要事業を確認。orangeの単行本主要巻(月刊アクション/アクションコミックス、全7巻)の発行元として登録。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kadokawa",
+    "name": "KADOKAWA",
+    "nameKana": "かどかわ",
+    "description": "「月刊コミック電撃大王」等を刊行する総合出版社。前身の角川書店(1945年創業)を源流とし、2013年にアスキー・メディアワークス(電撃大王刊行元)等を統合して現在の株式会社KADOKAWAとなった。",
+    "foundedYear": 1945,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/KADOKAWA"
+    },
+    "sourceNote": "日本語版Wikipedia『アスキー・メディアワークス』『メディアワークス』記事(2026-08-02閲覧)で「月刊コミック電撃大王」刊行元の変遷(メディアワークス→アスキー・メディアワークス→2013年KADOKAWAに吸収合併)を確認。foundedYearは角川書店創業年(一般に流布する1945年)を暫定採用、株式会社KADOKAWA自体の設立(2013年等の組織再編)とは異なる点に留意。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "asahi-shimbun-shuppan",
+    "name": "朝日新聞出版",
+    "nameKana": "あさひしんぶんしゅっぱん",
+    "description": "朝日新聞社の出版部門を2008年に分社化した出版社。長谷川町子の作品(「サザエさん」等)の単行本を刊行する。",
+    "foundedYear": 2008,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/朝日新聞出版"
+    },
+    "sourceNote": "Web検索結果・複数の企業情報サイト(2026-08-02閲覧)で分社化の経緯・設立年(2008年)を確認。「サザエさん」は姉妹社(1993年廃業)刊行後、朝日新聞社→朝日新聞出版が単行本・文庫版を継続刊行していることを確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

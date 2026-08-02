@@ -710,5 +710,154 @@
     },
     "sourceNote": "各種プロフィール紹介記事(2026-08-02閲覧)で経歴・生年月日を確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "usui-yoshito",
+    "name": "臼井儀人",
+    "nameKana": "うすいよしひと",
+    "description": "漫画家。原作・作画を兼任し「クレヨンしんちゃん」を漫画アクションで連載。2009年に登山中の事故で死去したが、後継作「新クレヨンしんちゃん」として作品自体は継続している。",
+    "birthYear": 1958,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/臼井儀人"
+    },
+    "sourceNote": "日本語版Wikipedia『臼井儀人』記事(2026-08-02閲覧)で経歴・生年・没年を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "akimoto-osamu",
+    "name": "秋本治",
+    "nameKana": "あきもとおさむ",
+    "description": "漫画家。原作・作画を兼任し「こちら葛飾区亀有公園前派出所」を週刊少年ジャンプで40年間連載した。",
+    "birthYear": 1952,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/秋本治"
+    },
+    "sourceNote": "日本語版Wikipedia『秋本治』記事(2026-08-02閲覧)で経歴・生年を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "fujiko-f-fujio",
+    "name": "藤子・F・不二雄",
+    "nameKana": "ふじこえふふじお",
+    "description": "漫画家。本名・藤本弘。原作・作画を兼任し「ドラえもん」「パーマン」等の児童向けSF漫画を多数手がけた。1996年没。",
+    "birthYear": 1933,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/藤子・F・不二雄"
+    },
+    "sourceNote": "日本語版Wikipedia『藤子・F・不二雄』記事(2026-08-02閲覧)で経歴・生年・没年を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "matsui-yusei",
+    "name": "松井優征",
+    "nameKana": "まついゆうせい",
+    "description": "漫画家。原作・作画を兼任し「暗殺教室」を週刊少年ジャンプで連載。他に「魔人探偵脳噛ネウロ」「逃げ上手の若君」。",
+    "birthYear": 1979,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/松井優征"
+    },
+    "sourceNote": "日本語版Wikipedia『松井優征』記事(2026-08-02閲覧)で経歴・生年・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "aso-shuichi",
+    "name": "麻生周一",
+    "nameKana": "あそうしゅういち",
+    "description": "漫画家。原作・作画を兼任し「斉木楠雄のΨ難」を週刊少年ジャンプで連載。",
+    "birthYear": 1985,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/麻生周一"
+    },
+    "sourceNote": "日本語版Wikipedia『麻生周一』記事(2026-08-02閲覧)で経歴・生年・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shitara-masako",
+    "name": "シタラマサコ",
+    "nameKana": "したらまさこ",
+    "description": "漫画家。埼玉県秩父市出身。「おそ松さん」で赤塚不二夫原作の作画を担当。",
+    "externalLinks": {},
+    "sourceNote": "電子書籍販売サイト(コミックシーモア等、2026-08-02閲覧)のプロフィール・著者クレジットで経歴・「おそ松さん」作画担当を確認。日本語版Wikipedia記事は未確認(該当記事の直接取得に失敗)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hashimoto-tomohiro",
+    "name": "橋本智広",
+    "nameKana": "はしもととものひろ",
+    "description": "漫画家。福本伸行のアシスタントを経て、「中間管理録トネガワ」で三好智樹と共に作画を担当。",
+    "birthYear": 1976,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/橋本智広"
+    },
+    "sourceNote": "日本語版Wikipedia『橋本智広』記事および講談社コミックス公式商品ページ(2026-08-02閲覧)で経歴・「中間管理録トネガワ」作画担当を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "miyoshi-tomoki",
+    "name": "三好智樹",
+    "nameKana": "みよしともき",
+    "description": "漫画家。「中間管理録トネガワ」で橋本智広と共に作画を担当。",
+    "externalLinks": {},
+    "sourceNote": "講談社コミックス公式商品ページ・マンガペディア(2026-08-02閲覧)の著者クレジットで「中間管理録トネガワ」作画担当を確認。生年等の詳細プロフィールは未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "azuma-kiyohiko",
+    "name": "あずまきよひこ",
+    "nameKana": "あずまきよひこ",
+    "description": "漫画家。原作・作画を兼任し「よつばと!」を月刊コミック電撃大王で連載。他に「あずまんが大王」。",
+    "birthYear": 1968,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/あずまきよひこ"
+    },
+    "sourceNote": "日本語版Wikipedia『あずまきよひこ』記事(2026-08-02閲覧)で経歴・生年・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yamamoto-souichirou",
+    "name": "山本崇一朗",
+    "nameKana": "やまもとそういちろう",
+    "description": "漫画家。香川県出身。原作・作画を兼任し「からかい上手の高木さん」をゲッサンで連載、完結させた。",
+    "birthYear": 1986,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/山本崇一朗"
+    },
+    "sourceNote": "日本語版Wikipedia『山本崇一朗』記事(2026-08-02閲覧)で経歴・生年・代表作・受賞歴を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hasegawa-machiko",
+    "name": "長谷川町子",
+    "nameKana": "はせがわまちこ",
+    "description": "漫画家。日本初の女性プロ漫画家とされる。原作・作画を兼任し「サザエさん」を新聞連載、単行本化した。1992年没。",
+    "birthYear": 1920,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/長谷川町子"
+    },
+    "sourceNote": "日本語版Wikipedia『長谷川町子』記事(2026-08-02閲覧)で経歴・生年・没年・受賞歴を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "petos",
+    "name": "ペトス",
+    "nameKana": "ぺとす",
+    "description": "漫画家。東京都府中市在住。原作・作画を兼任し「亜人ちゃんは語りたい」を月刊ヤングマガジンで連載、完結させた。",
+    "birthYear": 1987,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ペトス"
+    },
+    "sourceNote": "コミックナタリー著者プロフィール・Web検索結果(2026-08-02閲覧)で生年・経歴・「亜人ちゃんは語りたい」担当を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "fujichika-koume",
+    "name": "藤近小梅",
+    "nameKana": "ふじちかこうめ",
+    "description": "漫画家。原作・作画を兼任し「好きな子がめがねを忘れた」を月刊ガンガンJOKERで連載、完結させた。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/好きな子がめがねを忘れた"
+    },
+    "sourceNote": "電子書籍販売サイト(コミックシーモア等)・日本語版Wikipedia『好きな子がめがねを忘れた』記事(2026-08-02閲覧)で経歴・代表作を確認。生年は情報源で確認できず未記載。",
+    "updatedAt": "2026-08-02"
   }
 ]
