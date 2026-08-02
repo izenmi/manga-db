@@ -2731,5 +2731,105 @@
     },
     "sourceNote": "日本語版Wikipedia『楳図かずお』記事(2026-08-02閲覧)で生年・経歴・代表作・没年を確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "musashino-sou",
+    "name": "武蔵野創",
+    "nameKana": "むさしのはじめ",
+    "birthYear": 1980,
+    "description": "漫画家。東京生まれ、カリフォルニア育ち。2010年デビュー。『灼熱カバディ』の原作・作画を単独で担当するオリジナル作品の作者。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/灼熱カバディ"
+    },
+    "sourceNote": "Web検索結果(マンガペディア・ピクシブ百科事典等、2026-08-02閲覧)で生年・出身・経歴・『灼熱カバディ』作者であることを確認。本人単独のWikipedia記事は確認できず。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "toka-sosuke",
+    "name": "十日草輔",
+    "nameKana": "とおかそうすけ",
+    "birthYear": 1975,
+    "description": "漫画家。東洋美術学校卒業。会社員を経て2016年に脱サラ、2017年より Web漫画投稿サイト「マンガハック」で『王様ランキング』の連載を開始した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/十日草輔"
+    },
+    "sourceNote": "日本語版Wikipedia『十日草輔』記事(2026-08-02閲覧)で生年・経歴・『王様ランキング』作者であることを確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "furuya-minoru",
+    "name": "古谷実",
+    "nameKana": "ふるやみのる",
+    "birthYear": 1972,
+    "description": "漫画家。埼玉県浦和市(現さいたま市)出身。1993年『週刊ヤングマガジン』の『行け!稲中卓球部』でデビュー。代表作に『僕といっしょ』『ヒミズ』『シガテラ』等。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/古谷実"
+    },
+    "sourceNote": "日本語版Wikipedia『古谷実』記事(2026-08-02閲覧)で生年・出身地・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "takeuchi-naoko",
+    "name": "武内直子",
+    "nameKana": "たけうちなおこ",
+    "birthYear": 1967,
+    "description": "漫画家。山梨県甲府市出身。共立薬科大学薬学部卒。『美少女戦士セーラームーン』の原作・作画を単独で担当するオリジナル作品の作者。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/武内直子"
+    },
+    "sourceNote": "日本語版Wikipedia『武内直子』記事等(2026-08-02閲覧)で生年・出身地・経歴を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nakamura-hikaru",
+    "name": "中村光",
+    "nameKana": "なかむらひかる",
+    "birthYear": 1984,
+    "description": "漫画家。静岡県田方郡中伊豆町(現・伊豆市)出身。『荒川アンダー ザ ブリッジ』の原作・作画を単独で担当するオリジナル作品の作者。『聖☆おにいさん』の作者としても知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/中村光_(漫画家)"
+    },
+    "sourceNote": "Web検索結果(講談社モーニング公式サイト・ピクシブ百科事典等、2026-08-02閲覧)で生年・出身地・『荒川アンダー ザ ブリッジ』作者であることを確認。既存artistの『仲村佳樹』(id: nakamura-yoshiki、『スキップ・ビート!』作者)とは氏名の漢字が異なる別人のため区別して新規追加。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kasahara-maki",
+    "name": "笠原真樹",
+    "nameKana": "かさはらまさき",
+    "description": "漫画家。埼玉県在住。2010年・2011年にMANGAグランプリを受賞。『群青戦記 グンジョーセンキ』の原作・作画を単独で担当するオリジナル作品の作者。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/笠原真樹"
+    },
+    "sourceNote": "Web検索結果(週刊ヤングジャンプ公式サイト・ピクシブ百科事典等、2026-08-02閲覧)で経歴・『群青戦記』作者であることを確認。生年は確認できず。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "abe-tsukasa",
+    "name": "アベツカサ",
+    "nameKana": "あべつかさ",
+    "description": "漫画家。『葬送のフリーレン』(原作:山田鐘人)の作画を担当。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/葬送のフリーレン"
+    },
+    "sourceNote": "日本語版Wikipedia『葬送のフリーレン』記事およびWeb検索結果(2026-08-02閲覧)で作画担当であることを確認。生年・出身地等の個人情報は確認できず、本人単独のWikipedia記事も未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "neko-kurage",
+    "name": "ねこクラゲ",
+    "nameKana": "ねこくらげ",
+    "description": "漫画家・イラストレーター。女性。2009年『ガンガンJOKER』新人マンガ賞佳作、2010年第2回スクウェア・エニックス漫画大賞準大賞を受賞。『薬屋のひとりごと』(原作:日向夏、月刊ビッグガンガン版)の作画を担当。",
+    "externalLinks": {},
+    "sourceNote": "Web検索結果(BOOK☆WALKER書誌情報・まんがseek等、2026-08-02閲覧)で経歴・『薬屋のひとりごと』(スクウェア・エニックス/ビッグガンガン版)作画担当であることを確認。本人単独のWikipedia記事は確認できず。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nanao-kazuki",
+    "name": "七緒一綺",
+    "nameKana": "なないちかずき",
+    "description": "漫画家。『薬屋のひとりごと』(原作:日向夏、月刊ビッグガンガン版)で作画のねこクラゲと共にストーリー構成を担当。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER等の電子書店書誌情報(2026-08-02閲覧)で『薬屋のひとりごと』(スクウェア・エニックス/ビッグガンガン版)の構成担当としてクレジットされていることを確認。読み仮名は推定(未確認、要検証)。本人単独のWikipedia記事は確認できず。",
+    "updatedAt": "2026-08-02"
   }
 ]

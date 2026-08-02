@@ -1178,5 +1178,15 @@
     "externalLinks": {},
     "sourceNote": "講談社が発行していた『週刊ヤングマガジン』の増刊(不定期刊)。『攻殻機動隊』が1989年に連載を開始した初出媒体としてWeb検索(公式攻殻機動隊グローバルサイトの記事、コミックシーモア等の書誌情報、2026-08-02閲覧)で確認。通常の週刊ヤングマガジン本誌(id: young-magazine)とは別の増刊として区別して登録。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "manga-hack",
+    "name": "マンガハック",
+    "nameKana": "まんがはっく",
+    "publisherId": "echoes",
+    "description": "エコーズが運営するオリジナルWeb漫画投稿サイト。『王様ランキング』(十日草輔)が2017年5月20日より連載開始した媒体。",
+    "externalLinks": {},
+    "sourceNote": "Web検索結果(コミックナタリー・KADOKAWA公式サイト・エコーズ公式サイト等、2026-08-02閲覧)で『王様ランキング』が2017年よりマンガハックで連載開始し、単行本はKADOKAWA(ビームコミックス)より刊行されていることを確認。運営元(エコーズ)と現行の単行本発行元(KADOKAWA)が異なるため、labelのpublisherIdはechoesとした(work.publisherIdはkadokawaのまま)。単独のWikipedia記事は確認できず。",
+    "updatedAt": "2026-08-02"
   }
 ]

@@ -9243,5 +9243,388 @@
     },
     "sourceNote": "日本語版Wikipedia『漂流教室』記事(2026-08-02閲覧)で作者・掲載誌(週刊少年サンデー)・連載期間(1972-1974)・巻数(11巻)・あらすじ・1975年第20回小学館漫画賞受賞を確認。依頼メモの通り、明確な『ゲームルールで命を懸ける』デスゲーム的仕組みは存在せず、地震によるタイムスリップ後の純粋なサバイバルホラー(公害・環境破壊への警鐘、時を超えた母子の絆がテーマ)と確認できたため、death-gameタグは付与せずhorror/sci-fiを採用した。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shakunetsu-kabaddi",
+    "title": "灼熱カバディ",
+    "titleKana": "しゃくねつカバディ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "musashino-sou"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "manga-one",
+    "themeIds": [
+      "sports",
+      "school"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2024,
+    "status": "completed",
+    "volumeCount": 31,
+    "synopsis": "元サッカー選手の高校1年生・宵越竜哉は、マイナー競技とされる「カバディ」を見下していたが、ひょんなことから部活動として体験し、その奥深さと魅力に引き込まれていく。経験もルールもろくに知らない寄せ集めの部員たちと共に、未経験の弱小チームから関東大会出場を目指し、経験者揃いの強豪校との真剣勝負を通じて自らも仲間もチームとして成長していく競技青春漫画。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2025,
+        "result": "受賞(第70回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/灼熱カバディ"
+    },
+    "sourceNote": "日本語版Wikipedia『灼熱カバディ』記事(2026-08-02閲覧)で連載期間(2015年7月2日～2024年7月23日)・全31巻・完結・アニメ化(2021年)・第70回小学館漫画賞受賞(2025年)を確認。連載開始はマンガワン・裏サンデーでほぼ同時(裏サンデーは1週遅れとの記述もあり)だが、記述順で先行するマンガワンをlabelIdに採用。原作者は武蔵野創本人(原作・作画とも自身が担当するオリジナル作品)。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ousama-ranking",
+    "title": "王様ランキング",
+    "titleKana": "おうさまランキング",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "toka-sosuke"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "manga-hack",
+    "themeIds": [
+      "adventure",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2017,
+    "status": "ongoing",
+    "volumeCount": 22,
+    "synopsis": "巨人の両親のもとに生まれながら小柄で耳が聞こえず、剣の力も弱いために王位継承者として侮られてきた王子ボッジ。彼は影のような存在カゲと出会い、深い友情を育みながら、自分を認めない周囲の人々を見返すべく、真の王を目指して困難な道を歩んでいく。血のつながらない兄弟や家臣たちとの複雑な人間関係も絡み合いながら王位継承をめぐる争いへと発展していくファンタジー物語。",
+    "awardResults": [
+      {
+        "awardId": "next-manga-award",
+        "year": 2019,
+        "result": "コミックス部門1位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/王様ランキング"
+    },
+    "sourceNote": "日本語版Wikipedia『王様ランキング』記事(2026-08-02閲覧)で2017年5月20日にWeb漫画投稿サイト「マンガハック」(運営:エコーズ、新規publisher追加)で連載開始したことを確認。単行本はKADOKAWA(ビームコミックス)刊行のため、work.publisherIdはkadokawa、labelId(初出媒体)のpublisherIdはechoesとした。2026年8月時点で既刊22巻・連載継続中(第3部が2024年12月より連載中)。次にくるマンガ大賞2019コミックス部門1位はコミックナタリー記事(2026-08-02閲覧)で確認。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kamisama-no-iutoori-ni",
+    "title": "神さまの言うとおり弐",
+    "titleKana": "かみさまのいうとおりに",
+    "originalAuthorIds": [
+      "kaneshiro-muneyuki"
+    ],
+    "artistIds": [
+      "fujimura-akeji"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "death-game",
+      "horror",
+      "suspense-psychological",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 21,
+    "synopsis": "前作の死のゲームを生き延びた高校生たちのもとに、新たな刺客と謎めいた敵が次々と現れる。童謡や遊びを模した理不尽なルールの殺戮ゲームが今度は全国規模で展開され、正体を隠した黒幕の思惑も絡み合う中、生存者たちは新たな仲間や因縁の相手と手を組み、あるいは裏切り合いながら、事件の真相と自らの生き残る道を追い求めていく続編デスゲームサバイバル。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/神さまの言うとおり弐"
+    },
+    "sourceNote": "日本語版Wikipedia『神さまの言うとおり』関連記事(2026-08-02閲覧)で、前作『神さまの言うとおり』(2011-2012年、別冊少年マガジン、全5巻)の続編として2013年7号～2017年4・5合併号まで『週刊少年マガジン』で連載、全21巻・完結したことを確認。原作(金城宗幸)・作画(藤村緋二)とも前作から既存id(kaneshiro-muneyuki/fujimura-akeji)を再利用。実写映画(2014年公開)は主に第壱部を原作としており本作固有のメディアミックスとして断定できないためmediaMixは記載せず。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ike-inachu-takkyubu",
+    "title": "行け!稲中卓球部",
+    "titleKana": "いけいなちゅうたっきゅうぶ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "furuya-minoru"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "young-magazine",
+    "themeIds": [
+      "comedy",
+      "sports",
+      "school"
+    ],
+    "firstPublishedYear": 1993,
+    "latestPublishedYear": 1996,
+    "status": "completed",
+    "volumeCount": 13,
+    "synopsis": "稲豊市立稲豊中学校の卓球部を舞台にしたギャグ漫画。強豪ではないながらも個性(という名の下品さ)にあふれた部員・前野たちが、恋愛や部活動、日常の些細な出来事を巡って繰り広げる暴走とドタバタを、思春期特有の生々しさと容赦のない下ネタギャグで描く群像コメディ。中学生らしい馬鹿馬鹿しさと切なさが同居する青春模様も随所に散りばめられている。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1996,
+        "result": "一般部門受賞(第20回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/行け!稲中卓球部"
+    },
+    "sourceNote": "日本語版Wikipedia『行け!稲中卓球部』記事(2026-08-02閲覧)で連載期間(1993年14号～1996年47号、週刊ヤングマガジン)・全13巻・完結・アニメ化(1995年)・第20回講談社漫画賞一般部門受賞(1996年)を確認。作者・古谷実は原作・作画とも自身が担当するオリジナル作品のためoriginalAuthorIdsは空欄。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hanma-baki",
+    "title": "範馬刃牙",
+    "titleKana": "はんまばき",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "itagaki-keisuke"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "shonen-champion",
+    "themeIds": [
+      "battle-action",
+      "sports"
+    ],
+    "firstPublishedYear": 2006,
+    "latestPublishedYear": 2012,
+    "status": "completed",
+    "volumeCount": 37,
+    "synopsis": "地下闘技場の元最年少チャンピオン・範馬刃牙が、脱獄囚たちとの死闘や野人・軍人など規格外の戦士たちとの激突を経て、ついに「地上最強の生物」と恐れられる実の父・範馬勇次郎との直接対決へと突き進んでいく。刃牙シリーズ第3部にあたる格闘漫画で、板垣恵介による『グラップラー刃牙』の正統な続編にあたり、親子の因縁に決着をつける物語として描かれる。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/範馬刃牙"
+    },
+    "sourceNote": "日本語版Wikipedia『範馬刃牙』記事はキャラクター解説が中心で書誌情報が限定的だったため、Web検索結果(複数の電子書店・まとめサイト、2026-08-02閲覧)で2006年～2012年『週刊少年チャンピオン』連載・全37巻・完結・作者は前作『グラップラー刃牙』と同じ板垣恵介(オリジナル作品、既存id itagaki-keisukeを再利用)であることを確認。出版社は既存のグラップラー刃牙エントリに倣い秋田書店とした。Netflixアニメ『BAKI』(2018年～)が本作のストーリーを含むためmediaMix.animeはtrueとした。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "bishoujo-senshi-sailor-moon",
+    "title": "美少女戦士セーラームーン",
+    "titleKana": "びしょうじょせんしセーラームーン",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "takeuchi-naoko"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "nakayoshi",
+    "themeIds": [
+      "battle-action",
+      "romance",
+      "adventure"
+    ],
+    "firstPublishedYear": 1992,
+    "latestPublishedYear": 1997,
+    "status": "completed",
+    "volumeCount": 18,
+    "synopsis": "ごく普通の中学生・月野うさぎが、しゃべる黒猫ルナと出会い、正義のセーラー戦士セーラームーンに変身する力を得る。同じ運命を持つ仲間たちと共にダーク・キングダムなどの敵と戦いながら、前世の記憶や月のプリンセスとしての宿命、幻の銀水晶を巡る壮大な物語へと発展していく。恋人との前世からの因縁や仲間との絆も物語の軸となる魔法少女バトル漫画。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1993,
+        "result": "少女部門受賞(第17回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/美少女戦士セーラームーン"
+    },
+    "sourceNote": "日本語版Wikipedia『美少女戦士セーラームーン』記事(2026-08-02閲覧)で連載期間(1992年2月号～1997年3月号、なかよし)・アニメ化・第17回講談社漫画賞少女部門受賞(1993年)を確認。単行本巻数は版によって異なる(旧版全18巻/新装版全12巻/完全版全10巻)ため、初刊行時の巻数(全18巻)をvolumeCountに採用。作者・武内直子は原作・作画とも自身が担当するオリジナル作品のためoriginalAuthorIdsは空欄。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "gunjo-senki",
+    "title": "群青戦記",
+    "titleKana": "ぐんじょうせんき",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kasahara-maki"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "young-jump",
+    "themeIds": [
+      "historical",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 22,
+    "synopsis": "滋賀県のある高校が校舎ごと戦国時代へタイムスリップしてしまう。生徒たちは現代の知識や体力を武器に、戦国武将たちとの争いに巻き込まれながら生き延びる道を模索していく。第1部は運動部の高校生たちが戦国武将と渡り合う姿を、第2部は境遇の異なる者たちが再び戦国の世に挑む姿を描く二部構成のタイムスリップ戦記漫画。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/群青戦記"
+    },
+    "sourceNote": "日本語版Wikipedia『群青戦記』記事(2026-08-02閲覧)で第1部(2013年8月29日～2017年6月15日、全17巻)・第2部(2021年1月7日～2022年3月17日、全5巻)いずれも『週刊ヤングジャンプ』連載・完結、実写映画化(2021年)を確認。volumeCountは第1部+第2部の合計(22巻)。作者・笠原真樹は原作・作画とも自身が担当するオリジナル作品のためoriginalAuthorIdsは空欄。テレビアニメ化は確認できずmediaMixは記載せず。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "arakawa-under-the-bridge",
+    "title": "荒川アンダー ザ ブリッジ",
+    "titleKana": "あらかわアンダーザブリッジ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nakamura-hikaru"
+    ],
+    "publisherId": "square-enix",
+    "labelId": "young-gangan",
+    "themeIds": [
+      "comedy",
+      "romance",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2004,
+    "latestPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 15,
+    "synopsis": "大企業の御曹司・市ノ宮行は、川に落ちたところを「金星から来た」と名乗る少女ニノに助けられる。恩を返すためニノの恋人になり、荒川の河川敷で暮らす個性的な住人たちとの共同生活を始めることに。「リクルート」と名付けられた行が、常識の通じない変わり者揃いの河川敷コミュニティを通じて、これまで知らなかった人との本当のつながりを学んでいくハートフルコメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/荒川アンダーザブリッジ"
+    },
+    "sourceNote": "日本語版Wikipedia『荒川アンダー ザ ブリッジ』記事(2026-08-02閲覧)で2004年ヤングガンガン創刊号から2015年No.14(2015年7月3日)まで連載・全15巻・完結・アニメ化(2010年、第1期・第2期)を確認。作者・中村光は原作・作画とも自身が担当するオリジナル作品のためoriginalAuthorIdsは空欄。既存artistの『仲村佳樹』(id: nakamura-yoshiki、スキップ・ビート!作者)とは別人(漢字表記が異なる)のため新規artistとして登録。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "sousou-no-frieren",
+    "title": "葬送のフリーレン",
+    "titleKana": "そうそうのフリーレン",
+    "originalAuthorIds": [
+      "yamada-kanehito"
+    ],
+    "artistIds": [
+      "abe-tsukasa"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "adventure",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2020,
+    "status": "ongoing",
+    "volumeCount": 15,
+    "synopsis": "魔王を打倒した勇者一行の冒険が終わった後の物語。長命なエルフの魔法使いフリーレンは、共に旅した仲間たちの死や別れを経て、人間の一生の短さと大切さに気づき始める。かつての仲間ヒンメルが遺した約束を胸に、若い弟子や新たな仲間たちと共に再び旅立ったフリーレンが、魔族との戦いも交えながら人と時間の重みに向き合っていくファンタジー作品。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2021,
+        "result": "大賞(第14回)"
+      },
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2021,
+        "result": "新生賞(第25回)"
+      },
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2023,
+        "result": "受賞(第69回)"
+      },
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2024,
+        "result": "少年部門受賞(第48回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/葬送のフリーレン"
+    },
+    "sourceNote": "日本語版Wikipedia『葬送のフリーレン』記事(2026-08-02閲覧)で2020年22・23合併号より『週刊少年サンデー』で連載開始・連載中・受賞歴(第14回マンガ大賞2021/第25回手塚治虫文化賞新生賞2021/第69回小学館漫画賞2023/第48回講談社漫画賞少年部門2024)を確認。原作:山田鐘人(新規追加)、作画:アベツカサ(新規追加)。既刊巻数は2026年8月時点で15巻(継続中のため今後増加見込み)。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kusuriya-no-hitorigoto",
+    "title": "薬屋のひとりごと",
+    "titleKana": "くすりやのひとりごと",
+    "originalAuthorIds": [
+      "hyuga-natsu"
+    ],
+    "artistIds": [
+      "neko-kurage",
+      "nanao-kazuki"
+    ],
+    "publisherId": "square-enix",
+    "labelId": "big-gangan",
+    "themeIds": [
+      "detective-mystery",
+      "historical",
+      "romance"
+    ],
+    "firstPublishedYear": 2017,
+    "status": "ongoing",
+    "volumeCount": 17,
+    "synopsis": "後宮に下働きとして売られた元薬師の少女・猫猫が、持ち前の薬学知識と観察力で宮中の毒殺未遂事件や体調不良の謎を次々と解き明かしていく。皇帝の後宮を舞台に、身分を隠した美形宦官・壬氏との関わりを交えながら、猫猫が知恵と薬学を武器に権謀術数渦巻く宮廷の難事件へ挑んでいく後宮謎解きミステリー。本人は目立つことを望まないが、その才覚ゆえに次第に周囲から頼られる存在になっていく。",
+    "awardResults": [
+      {
+        "awardId": "next-manga-award",
+        "year": 2019,
+        "result": "コミックス部門1位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/薬屋のひとりごと"
+    },
+    "sourceNote": "日本語版Wikipedia『薬屋のひとりごと』記事およびWeb検索結果(2026-08-02閲覧)で、本作には少なくとも2種類の漫画版が存在することを確認: (1)原作:日向夏、漫画:ねこクラゲ、構成:七緒一綺による『月刊ビッグガンガン』(スクウェア・エニックス)版(2017年5月25日連載開始、既刊17巻)、(2)倉田三ノ路による『月刊サンデーGX』(小学館)版(2017年8月19日連載開始、既刊22巻)。アニメ化(2023年)・次にくるマンガ大賞2019コミックス部門1位はいずれも(1)のビッグガンガン版が対象であり、こちらがより広く知られる主流版と判断し(1)を登録した。依頼メモにあった『小学館ビッグガンガン版・作画倉田三ノ路』という組み合わせは実際には存在せず(ビッグガンガンはスクウェア・エニックス発行、倉田三ノ路は小学館サンデーGX版の担当)、事実関係を訂正した上で登録した。原作者・日向夏は既存original-authorに未登録のため新規追加。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "chi-no-wadachi",
+    "title": "血の轍",
+    "titleKana": "ちのわだち",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "oshimi-shuzo"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-superior",
+    "themeIds": [
+      "suspense-psychological",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2023,
+    "status": "completed",
+    "volumeCount": 17,
+    "synopsis": "母・静子から深い愛情を注がれ、平穏な日々を送っていた中学2年生の少年・七海静一。しかしある夏を境に、母子の関係は少しずつ歪み始め、過剰な愛情と支配が親子の絆を蝕んでいく。「毒親」との共依存関係を軸に、閉塞した家庭の中で少年が受ける心理的な支配と抑圧、そこから抜け出そうともがく姿をじわじわと描くサスペンス作品。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2018,
+        "result": "オトコ編9位"
+      },
+      {
+        "awardId": "angouleme-award",
+        "year": 2023,
+        "result": "連続作品賞(第50回)"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/血の轍_(漫画)"
+    },
+    "sourceNote": "日本語版Wikipedia『血の轍(漫画)』記事およびWeb検索結果(2026-08-02閲覧)で、2017年2017年6号～2023年19号まで『ビッグコミックスペリオール』(小学館)連載・全17巻・完結、『このマンガがすごい!2018』オトコ編9位、第50回アングレーム国際漫画祭連続作品賞(2023年)受賞を確認。作者・押見修造は既存artist(id: oshimi-shuzo、既存descriptionに『血の轍』が代表作として既に記載済み)を再利用、原作・作画とも自身が担当するオリジナル作品のためoriginalAuthorIdsは空欄。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
   }
 ]
