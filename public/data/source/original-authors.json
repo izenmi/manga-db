@@ -316,5 +316,53 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipedia「食糧人類-Starving Anonymous-」項目・講談社公式製品ページで原作クレジットを確認。個人の経歴詳細(生年等)は情報源が乏しく未確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ryu-keiichiro",
+    "name": "隆慶一郎",
+    "nameKana": "りゅうけいいちろう",
+    "description": "小説家・脚本家(本名:池田一朗)。長く映画・テレビドラマの脚本家として活動した後、還暦を過ぎてから時代小説家に転身。『一夢庵風流記』『影武者徳川家康』『吉原御免状』等を執筆した。",
+    "birthYear": 1923,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/隆慶一郎"
+    },
+    "sourceNote": "日本語版Wikipedia『隆慶一郎』記事(2026-08-02閲覧)で本名・経歴・代表作・没年(1989年)を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "i-hagin",
+    "name": "李學仁",
+    "nameKana": "イ・ハギン",
+    "description": "映画監督・漫画原作者。韓国慶尚南道出身の在日二世。映画監督を経て、1994年から漫画原作者として『蒼天航路』を手がけたが、連載中の1998年に死去した。",
+    "birthYear": 1945,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/李學仁"
+    },
+    "sourceNote": "日本語版Wikipedia『李學仁』記事(2026-08-02閲覧)で経歴・生没年(1945-1998年)・『蒼天航路』原作者としての活動を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yumemakura-baku",
+    "name": "夢枕獏",
+    "nameKana": "ゆめまくらばく",
+    "description": "小説家。伝奇バイオレンスや格闘小説を得意とし、冒険・歴史ファンタジー・SF・山岳小説など幅広く執筆する。『陰陽師』シリーズ、『餓狼伝』、『神々の山嶺』等の作者。",
+    "birthYear": 1951,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/夢枕獏"
+    },
+    "sourceNote": "日本語版Wikipedia『夢枕獏』記事(2026-08-02閲覧)で経歴・代表作・『陰陽師』シリーズ原作者としての活動を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nanjou-norio",
+    "name": "南條範夫",
+    "nameKana": "なんじょうのりお",
+    "description": "小説家・経済学者。大学教授の傍ら時代小説を執筆し、1956年『燈台鬼』で直木賞受賞。残酷物と呼ばれる独特の作風や剣豪小説で知られ、『駿河城御前試合』は複数の漫画の原作にもなった。",
+    "birthYear": 1908,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/南條範夫"
+    },
+    "sourceNote": "日本語版Wikipedia『南條範夫』記事(2026-08-02閲覧)で経歴・直木賞受賞歴・生没年(1908-2004年)・『駿河城御前試合』の内容を確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

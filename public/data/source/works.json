@@ -4048,5 +4048,440 @@
     },
     "sourceNote": "日本語版Wikipedia「自殺島」で森恒二作、白泉社『ヤングアニマル』2008-2016年連載、全17巻(ジェッツコミックス1-14巻+ヤングアニマルコミックス15-17巻)、前日譚『無法島』(2019-2022、全6巻・別シリーズ)の存在を確認。組織的なゲームではなく漂流サバイバルのため戦闘系テーマでなくworkplace-drama(群像劇)を付与。受賞歴は確認できず。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hana-no-keiji",
+    "title": "花の慶次",
+    "titleKana": "はなのけいじ",
+    "originalAuthorIds": [
+      "ryu-keiichiro"
+    ],
+    "artistIds": [
+      "hara-tetsuo"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "battle-action",
+      "adventure",
+      "historical"
+    ],
+    "firstPublishedYear": 1990,
+    "latestPublishedYear": 1993,
+    "status": "completed",
+    "volumeCount": 18,
+    "synopsis": "戦国末期、加賀前田家の傍流に生まれながら常識にとらわれぬ「傾奇者」として生きた武将・前田慶次の生涯を描く時代活劇。派手な装いと豪胆な行動で周囲を驚かせつつ、義理人情に厚く己の美学を貫く慶次が、豊臣秀吉ら時代の権力者とも対等に渡り合いながら乱世を駆け抜ける。隆慶一郎の歴史小説『一夢庵風流記』を原哲夫が力強い劇画タッチで漫画化した。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/花の慶次"
+    },
+    "sourceNote": "日本語版Wikipedia『花の慶次』記事(2026-08-02閲覧)で原作(隆慶一郎『一夢庵風流記』)・作画(原哲夫)・掲載誌(週刊少年ジャンプ、集英社)・連載期間(1990-1993年)・既刊巻数(全18巻)・完結を確認。明記された漫画賞の受賞歴は確認できずawardResultsは空とした。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "heuge-mono",
+    "title": "へうげもの",
+    "titleKana": "へうげもの",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yamada-yoshihiro"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "historical",
+      "arts",
+      "comedy"
+    ],
+    "firstPublishedYear": 2005,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 25,
+    "synopsis": "安土桃山時代、織田信長・豊臣秀吉に仕えた武将にして茶人・古田織部を主人公に、天下人としての「出世」と、茶器や美への「数寄」という二つの欲望の間で揺れ動く生き様を描く異色の歴史漫画。時に滑稽なまでに物欲に振り回されながらも、独自の美意識を貫き新たな茶道文化を切り拓いていく織部の姿を、シニカルな笑いを交えて描く。",
+    "awardResults": [
+      {
+        "awardId": "bunkacho-media-geijutsusai",
+        "year": 2009,
+        "result": "マンガ部門優秀賞(第13回)"
+      },
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2010,
+        "result": "マンガ大賞(第14回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/へうげもの"
+    },
+    "sourceNote": "日本語版Wikipedia『へうげもの』記事および文化庁メディア芸術祭・手塚治虫文化賞の受賞発表記事(2026-08-02閲覧)で作者・掲載誌(モーニング、講談社)・連載期間(2005-2017年)・既刊巻数(全25巻)・完結・第13回文化庁メディア芸術祭マンガ部門優秀賞(2009年)・第14回手塚治虫文化賞マンガ大賞(2010年)・2011年アニメ化を確認。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "sengoku",
+    "title": "センゴク",
+    "titleKana": "せんごく",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "miyashita-hideki"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "battle-action",
+      "historical",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2004,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 72,
+    "synopsis": "美濃の一武将・仙石秀久を主人公に、織田信長、豊臣秀吉に仕えながら幾度も大敗と挫折を味わい、それでも不屈の精神で武功を重ねて大名へと成り上がっていく戦国群像劇。『センゴク』『センゴク天正記』『センゴク一統記』『センゴク権兵衛』の全4部作からなり、通説にとらわれない新解釈の合戦描写で知られる。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/センゴク"
+    },
+    "sourceNote": "日本語版Wikipedia『センゴク』記事(2026-08-02閲覧)で作者・掲載誌(週刊ヤングマガジン、講談社)・連載期間(2004-2022年、全4部作)・既刊巻数(4部合計72巻)・完結を確認。第32回講談社漫画賞一般部門の候補に挙がった旨の記述はあるが受賞明記ではないためawardResultsには含めていない。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nige-jouzu-no-wakagimi",
+    "title": "逃げ上手の若君",
+    "titleKana": "にげじょうずのわかぎみ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "matsui-yusei"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "battle-action",
+      "adventure",
+      "historical"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2026,
+    "status": "completed",
+    "volumeCount": 26,
+    "synopsis": "1333年、鎌倉幕府滅亡の混乱の中、北条得宗家の遺児・北条時行は父祖の仇である足利尊氏から命懸けで逃げ延びる。信濃で諏訪頼重らに匿われた時行は、戦わず逃げることこそ最大の武器と捉えて力を蓄え、いつか天下を取り戻すべく再起を図っていく。『暗殺教室』の松井優征が手がける、逃走そのものを主題に据えた異色の南北朝時代群像劇。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2023,
+        "result": "受賞(第69回、部門制廃止後の受賞4作品の一つ)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/逃げ上手の若君"
+    },
+    "sourceNote": "日本語版Wikipedia『逃げ上手の若君』記事および第69回小学館漫画賞発表記事(2026-08-02閲覧)で作者・掲載誌(週刊少年ジャンプ、集英社)・連載期間(2021年8号-2026年12号、完結)・第69回小学館漫画賞受賞(2023年度、2024年1月発表。同回から部門制が廃止され4作品が受賞)・アニメ化(2024年・2026年)を確認。既刊巻数は2026年5月時点で25巻・完結後の最終巻を含めた巻数は集英社サイトで26巻の存在を確認したが正確な最終巻数は未確定のため概数として扱う。「全国書店員が選んだおすすめコミック2022」8位の記録もあるが、本サイトが採用する賞リストに含まれないため未記載。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "otoyome-gatari",
+    "title": "乙嫁語り",
+    "titleKana": "おとよめがたり",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mori-kaoru"
+    ],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "historical",
+      "slice-of-life",
+      "romance",
+      "adventure"
+    ],
+    "firstPublishedYear": 2008,
+    "status": "ongoing",
+    "volumeCount": 15,
+    "synopsis": "19世紀後半の中央アジアを舞台に、12歳の少年カルルクのもとへ嫁いだ20歳の花嫁アミルの新婚生活を軸に、遊牧民や定住民など様々な民族・家族の暮らしと結婚のかたちを丁寧な取材と緻密な描写で描く連作群像劇。異文化を旅するイギリス人青年スミスの視点も交え、各地に生きる女性たちの人生模様を紡いでいく。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2011,
+        "result": "2位"
+      },
+      {
+        "awardId": "manga-taisho",
+        "year": 2013,
+        "result": "2位"
+      },
+      {
+        "awardId": "manga-taisho",
+        "year": 2014,
+        "result": "大賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/乙嫁語り"
+    },
+    "sourceNote": "日本語版Wikipedia『乙嫁語り』記事(2026-08-02閲覧)で作者・掲載誌の変遷(Fellows!→ハルタ→青騎士)・連載開始(2008年)・連載継続中・既刊巻数(15巻、2024年11月時点)・マンガ大賞2014大賞および2011年・2013年2位を確認。2025年10月に新レーベル「雪割草」へ移行した旨も確認したが、単行本の発行元表記は本データ作成時点で確認しきれず、直近まで発行していたKADOKAWAを暫定的にpublisherIdとした。アングレーム国際漫画祭世代間賞(2012年)は本サイトの受賞対象外のため未記載。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "thermae-romae",
+    "title": "テルマエ・ロマエ",
+    "titleKana": "てるまえろまえ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yamazaki-mari"
+    ],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "comedy",
+      "historical",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2008,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "古代ローマ、皇帝ハドリアヌスの治世に浴場設計技師として働くルシウスは、仕事に行き詰まるたび現代日本の銭湯へタイムスリップしてしまう。日本の入浴文化から着想を得て次々と斬新な浴場を生み出すルシウスの奮闘を通じ、古代ローマと現代日本の風呂文化の違いを比較しながら描くタイムスリップコメディ。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2010,
+        "result": "大賞"
+      },
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2010,
+        "result": "短編賞(第14回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/テルマエ・ロマエ"
+    },
+    "sourceNote": "日本語版Wikipedia『テルマエ・ロマエ』記事(2026-08-02閲覧)で作者・掲載誌(コミックビーム、エンターブレイン→KADOKAWA)・連載期間(2008-2013年)・既刊巻数(全6巻)・完結・マンガ大賞2010受賞・第14回手塚治虫文化賞短編賞・2012年アニメ化を確認。掲載誌のエンターブレインは2010年にKADOKAWAグループへ統合されたためpublisherIdはkadokawaとした。2024年開始の続編『続テルマエ・ロマエ』は別作品として本エントリには含めていない。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "historie",
+    "title": "ヒストリエ",
+    "titleKana": "ひすとりえ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "iwaaki-hitoshi"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "historical",
+      "adventure",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2003,
+    "status": "ongoing",
+    "volumeCount": 12,
+    "synopsis": "紀元前4世紀、古代ギリシア・マケドニア王国を舞台に、後にアレクサンドロス大王の書記官として仕えることになる実在の人物エウメネスの波乱に満ちた前半生を描く歴史冒険譚。身分の低い生まれでありながら卓越した知略と胆力で数々の困難を切り拓いていくエウメネスの姿を、限られた史料の隙間を大胆な創作で埋めながら重厚に描く。",
+    "awardResults": [
+      {
+        "awardId": "bunkacho-media-geijutsusai",
+        "year": 2010,
+        "result": "マンガ部門大賞(第14回)"
+      },
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2012,
+        "result": "マンガ大賞(第16回)"
+      },
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2025,
+        "result": "総合部門受賞(第49回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ヒストリエ"
+    },
+    "sourceNote": "日本語版Wikipedia『ヒストリエ』記事(2026-08-02閲覧)で作者・掲載誌(月刊アフタヌーン、講談社)・連載開始(2003年)・長期休載中で連載継続中の扱い・既刊巻数(12巻、2024年6月時点)・第14回文化庁メディア芸術祭マンガ部門大賞(2010年)・第16回手塚治虫文化賞マンガ大賞(2012年)・第49回講談社漫画賞総合部門(2025年)・2027年放送予定のアニメ化決定を確認。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "souten-kouro",
+    "title": "蒼天航路",
+    "titleKana": "そうてんこうろ",
+    "originalAuthorIds": [
+      "i-hagin"
+    ],
+    "artistIds": [
+      "kingu-gonta"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "battle-action",
+      "historical",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 1994,
+    "latestPublishedYear": 2005,
+    "status": "completed",
+    "volumeCount": 36,
+    "synopsis": "後漢末から三国時代にかけて、悪役として語られがちな武将・曹操を「人間くさく魅力あふれる英雄」として新解釈で描いた歴史漫画。正史『三国志』と『三国志演義』双方の逸話を大胆に再構成し、乱世を駆け抜ける曹操の野望と孤独を骨太に描く。連載中に原作者が病没した後は、作画者が一人で構想を引き継ぎ完結させた。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1998,
+        "result": "一般部門受賞(第22回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/蒼天航路"
+    },
+    "sourceNote": "日本語版Wikipedia『蒼天航路』『李學仁』『王欣太』の各記事(2026-08-02閲覧)で原作(李學仁)・作画(王欣太)・掲載誌(モーニング、講談社)・連載期間(1994-2005年)・既刊巻数(全36巻)・完結・第22回講談社漫画賞一般部門受賞(1998年)・原作者の1998年病没とその後の単独執筆・2009年アニメ化を確認。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tenjou-no-niji",
+    "title": "天上の虹",
+    "titleKana": "てんじょうのにじ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "satonaka-machiko"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "historical",
+      "romance",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 1983,
+    "latestPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 23,
+    "synopsis": "飛鳥時代、天智天皇の娘・鵜野讃良皇女(後の持統天皇)が、大海人皇子(後の天武天皇)に嫁いでから壬申の乱を経て自ら皇位に就くまでの半生を描く古代ロマン。父と夫の対立に翻弄され数々の悲恋も経験しながら卓越した政治手腕を発揮し、女性でありながら権力の頂点に上り詰めていく讃良の生き様を丹念に描く。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/天上の虹"
+    },
+    "sourceNote": "日本語版Wikipedia『天上の虹』記事(2026-08-02閲覧)で作者・掲載誌(mimi等、講談社)・連載期間(1983-2015年)・既刊巻数(全23巻)・完結を確認。明記された漫画賞の受賞歴は確認できずawardResultsは空とした。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "onmyouji",
+    "title": "陰陽師",
+    "titleKana": "おんみょうじ",
+    "originalAuthorIds": [
+      "yumemakura-baku"
+    ],
+    "artistIds": [
+      "okano-reiko"
+    ],
+    "publisherId": "hakusensha",
+    "themeIds": [
+      "historical",
+      "dark-fantasy",
+      "detective-mystery"
+    ],
+    "firstPublishedYear": 1993,
+    "latestPublishedYear": 2005,
+    "status": "completed",
+    "volumeCount": 13,
+    "synopsis": "平安時代の京を舞台に、稀代の陰陽師・安倍晴明が友人の貴族・源博雅とともに、都で起こる怪異や物の怪にまつわる事件を鮮やかに解決していく伝奇譚。夢枕獏の小説を原作としつつ、連載が進むにつれて作画者独自の解釈と幻想的な絵作りが色濃くなり、雅楽や陰陽道の知識を織り交ぜながら平安の宮廷世界を美麗かつ幻想的に描き出していく。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/陰陽師_(漫画)"
+    },
+    "sourceNote": "日本語版Wikipedia『陰陽師(漫画)』記事(2026-08-02閲覧)で原作(夢枕獏)・作画(岡野玲子)・掲載誌の変遷(コミックバーガー等→月刊メロディ、白泉社)・連載期間(1993-2005年)・既刊巻数(全13巻)・完結を確認。第37回星雲賞コミック部門(2006年)受賞の記録はあるが、本サイトが採用する賞リストに含まれないため未記載。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shigurui",
+    "title": "シグルイ",
+    "titleKana": "しぐるい",
+    "originalAuthorIds": [
+      "nanjou-norio"
+    ],
+    "artistIds": [
+      "yamaguchi-takayuki"
+    ],
+    "publisherId": "akita-shoten",
+    "themeIds": [
+      "historical",
+      "battle-action",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2003,
+    "latestPublishedYear": 2010,
+    "status": "completed",
+    "volumeCount": 15,
+    "synopsis": "江戸時代初期、駿府城で催された将軍上覧の御前試合に臨むのは、片腕を失った剣士・藤木源之助と、盲目かつ跛の剣士・伊良子清玄。二人が学んだ虎眼流道場で起きた凄惨な因縁が交錯し、命を賭けた真剣勝負「無明逆流れ」に至るまでの過程を過激かつ耽美な作風で描く。南條範夫の時代小説『駿河城御前試合』の一挿話を原作とする。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/シグルイ"
+    },
+    "sourceNote": "日本語版Wikipedia『シグルイ』記事(2026-08-02閲覧)で原作(南條範夫『駿河城御前試合』)・作画(山口貴由)・掲載誌(チャンピオンRED、秋田書店)・連載期間(2003-2010年)・既刊巻数(チャンピオンREDコミックス全15巻)・完結・2007年アニメ化(WOWOW)を確認。明記された漫画賞の受賞歴は確認できずawardResultsは空とした。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kaze-hikaru",
+    "title": "風光る",
+    "titleKana": "かぜひかる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "watanabe-taeko"
+    ],
+    "publisherId": "shogakukan",
+    "themeIds": [
+      "historical",
+      "romance",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1997,
+    "latestPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 45,
+    "synopsis": "幕末の京都、尊皇攘夷派に父と兄を殺された富永セイは、兄になりすまし「神谷清三郎」として壬生浪士組(後の新選組)に入隊し、復讐の機会をうかがう。剣の才を見出され沖田総司の下で稽古に励むうち、セイは隊士たちとの絆や芽生える恋心の間で葛藤しながら、女であることを隠したまま動乱の時代を懸命に生き抜いていく。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2002,
+        "result": "少女向け部門受賞(第48回)"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/風光る_(渡辺多恵子の漫画)"
+    },
+    "sourceNote": "日本語版Wikipedia『風光る(渡辺多恵子の漫画)』記事(2026-08-02閲覧)で作者・掲載誌(別冊少女コミック→月刊フラワーズ、小学館)・連載期間(1997-2020年)・既刊巻数(全45巻)・完結・第48回小学館漫画賞少女向け部門受賞(2002年)を確認。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "asaki-yume-mishi",
+    "title": "あさきゆめみし",
+    "titleKana": "あさきゆめみし",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yamato-waki"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "historical",
+      "romance",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 1979,
+    "latestPublishedYear": 1993,
+    "status": "completed",
+    "volumeCount": 13,
+    "synopsis": "平安時代の宮廷を舞台にした紫式部の古典『源氏物語』を、綿密な時代考証と美麗な絵柄のもとに少女漫画として翻案した作品。主人公・光源氏の恋愛遍歴とその栄華、そして晩年の苦悩までを、続編にあたる宇治十帖まで含めて丁寧に描き切り、原典の雅やかな世界観を現代の読者にも親しみやすい形で伝える不朽の名作。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/あさきゆめみし"
+    },
+    "sourceNote": "日本語版Wikipedia『あさきゆめみし』記事(2026-08-02閲覧)で作者(大和和紀)・掲載誌(mimi等、講談社)・連載期間(1979-1993年)・既刊巻数(全13巻)・完結を確認。原作は紀元11世紀の古典『源氏物語』(紫式部)であり、本サイトのoriginalAuthorIdsが想定する「コミカライズ元の原作者」の枠組み(現代の小説・ゲーム等)には該当しない古典の翻案作品と判断し、大和和紀によるオリジナル脚色作品としてoriginalAuthorIdsは空配列とした。明記された漫画賞の受賞歴は確認できずawardResultsは空とした。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
   }
 ]

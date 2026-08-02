@@ -1261,5 +1261,137 @@
     },
     "sourceNote": "日本語版Wikipedia「森恒二」で生年・経歴・代表作(自殺島含む)を確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hara-tetsuo",
+    "name": "原哲夫",
+    "nameKana": "はらてつお",
+    "description": "漫画家。『北斗の拳』の大ヒットで知られ、『花の慶次-雲のかなたに-』『蒼天の拳』等を手がける。2000年に集英社から独立しコアミックスを設立。",
+    "birthYear": 1961,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/原哲夫"
+    },
+    "sourceNote": "日本語版Wikipedia『原哲夫』記事(2026-08-02閲覧)で経歴・生年・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yamada-yoshihiro",
+    "name": "山田芳裕",
+    "nameKana": "やまだよしひろ",
+    "description": "漫画家。1987年『大正野郎』でデビュー。戦国武将・古田織部を主人公にした『へうげもの』で手塚治虫文化賞マンガ大賞等を受賞。",
+    "birthYear": 1968,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/山田芳裕"
+    },
+    "sourceNote": "日本語版Wikipedia『山田芳裕』記事(2026-08-02閲覧)で経歴・生年・代表作・デビュー作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "miyashita-hideki",
+    "name": "宮下英樹",
+    "nameKana": "みやしたひでき",
+    "description": "漫画家。2001年第44回ちばてつや賞大賞受賞。仙石秀久を主人公にした歴史漫画『センゴク』シリーズ(全4部作)で知られる。",
+    "birthYear": 1976,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/宮下英樹"
+    },
+    "sourceNote": "日本語版Wikipedia『宮下英樹』記事(2026-08-02閲覧)で経歴・生年・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "mori-kaoru",
+    "name": "森薫",
+    "nameKana": "もりかおる",
+    "description": "漫画家。2002年『エマ』でデビューし文化庁メディア芸術祭マンガ部門優秀賞受賞。中央アジアを舞台にした『乙嫁語り』でマンガ大賞2014等を受賞。",
+    "birthYear": 1978,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/森薫"
+    },
+    "sourceNote": "日本語版Wikipedia『森薫』記事(2026-08-02閲覧)で経歴・生年・代表作・受賞歴を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yamazaki-mari",
+    "name": "ヤマザキマリ",
+    "nameKana": "やまざきまり",
+    "description": "漫画家。イタリア留学・在住経験を持ち、古代ローマを題材にした『テルマエ・ロマエ』でマンガ大賞2010等を受賞。『プリニウス』(とり・みきとの共作)等も手がける。",
+    "birthYear": 1967,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ヤマザキマリ"
+    },
+    "sourceNote": "日本語版Wikipedia『ヤマザキマリ』記事(2026-08-02閲覧)で経歴・生年・代表作・受賞歴を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kingu-gonta",
+    "name": "王欣太",
+    "nameKana": "きんぐごんた",
+    "description": "漫画家。1989年アフタヌーン四季賞でデビュー。李學仁との共作『蒼天航路』で1998年講談社漫画賞受賞、原作者の死後は一人で完結まで描き切った。",
+    "birthYear": 1962,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/王欣太"
+    },
+    "sourceNote": "日本語版Wikipedia『王欣太』記事(2026-08-02閲覧)で経歴・生年・名前の読み方(きんぐごんた)・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "satonaka-machiko",
+    "name": "里中満智子",
+    "nameKana": "さとなかまちこ",
+    "description": "漫画家。16歳で講談社新人漫画賞に入賞しデビュー。古代日本を題材にした歴史漫画を多く手がけ、『天上の虹』で持統天皇の生涯を描いた。日本漫画家協会理事長を務める。",
+    "birthYear": 1948,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/里中満智子"
+    },
+    "sourceNote": "日本語版Wikipedia『里中満智子』記事(2026-08-02閲覧)で経歴・生年・代表作・現職を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "okano-reiko",
+    "name": "岡野玲子",
+    "nameKana": "おかのれいこ",
+    "description": "漫画家。1982年デビュー。『ファンシィダンス』で小学館漫画賞受賞。夢枕獏原作『陰陽師』の作画を担当し、後半は独自の解釈で物語を発展させた。",
+    "birthYear": 1960,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/岡野玲子"
+    },
+    "sourceNote": "日本語版Wikipedia『岡野玲子』記事(2026-08-02閲覧)で経歴・生年・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yamaguchi-takayuki",
+    "name": "山口貴由",
+    "nameKana": "やまぐちたかゆき",
+    "description": "漫画家。劇画村塾出身。『覚悟のススメ』でグロテスクかつ独特な作風を確立し、南條範夫原作『シグルイ』では過激で耽美な時代劇を描いた。",
+    "birthYear": 1966,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/山口貴由"
+    },
+    "sourceNote": "日本語版Wikipedia『山口貴由』記事(2026-08-02閲覧)で経歴・生年・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "watanabe-taeko",
+    "name": "渡辺多恵子",
+    "nameKana": "わたなべたえこ",
+    "description": "漫画家。1979年デビュー。少女漫画の分野で活躍し、新選組を題材にした『風光る』を23年間にわたり連載、第48回小学館漫画賞少女向け部門を受賞した。",
+    "birthYear": 1960,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/渡辺多恵子"
+    },
+    "sourceNote": "日本語版Wikipedia『渡辺多恵子』記事(2026-08-02閲覧)で経歴・生年・代表作・受賞歴を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yamato-waki",
+    "name": "大和和紀",
+    "nameKana": "やまとわき",
+    "description": "漫画家。1966年デビュー。『はいからさんが通る』で第1回講談社漫画賞少女部門受賞。『源氏物語』を翻案した『あさきゆめみし』の作者としても知られる。",
+    "birthYear": 1948,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/大和和紀"
+    },
+    "sourceNote": "日本語版Wikipedia『大和和紀』記事(2026-08-02閲覧)で経歴・生年・代表作・受賞歴を確認。",
+    "updatedAt": "2026-08-02"
   }
 ]
