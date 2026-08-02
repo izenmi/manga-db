@@ -1020,5 +1020,149 @@
     },
     "sourceNote": "日本語版Wikipedia『結界師』記事(2026-08-02閲覧)で作者クレジットを確認。生年等の個人情報は非公開のため未確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hanasaki-akira",
+    "name": "花咲アキラ",
+    "nameKana": "はなさきあきら",
+    "description": "漫画家。「美味しんぼ」の作画を雁屋哲とのコンビで手がける。",
+    "birthYear": 1956,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/花咲アキラ"
+    },
+    "sourceNote": "日本語版Wikipedia『花咲アキラ』記事(2026-08-02閲覧)で読み・生年を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "taniguchi-jiro",
+    "name": "谷口ジロー",
+    "nameKana": "たにぐちじろー",
+    "description": "漫画家。「孤独のグルメ」の作画を久住昌之とのコンビで手がけた。2017年没。",
+    "birthYear": 1947,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/谷口ジロー"
+    },
+    "sourceNote": "日本語版Wikipedia『谷口ジロー』記事(2026-08-02閲覧)で生年没年(2017年没)を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "abe-yaro",
+    "name": "安倍夜郎",
+    "nameKana": "あべよろう",
+    "description": "漫画家。「深夜食堂」の作者(原作・作画とも自身が担当するオリジナル作品)。",
+    "birthYear": 1963,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/安倍夜郎"
+    },
+    "sourceNote": "日本語版Wikipedia『安倍夜郎』記事(2026-08-02閲覧)で生年を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kubo-mitsurou",
+    "name": "久保ミツロウ",
+    "nameKana": "くぼみつろう",
+    "description": "漫画家。「モテキ」の作者(オリジナル作品)。",
+    "birthYear": 1975,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/久保ミツロウ"
+    },
+    "sourceNote": "日本語版Wikipedia『久保ミツロウ』記事(2026-08-02閲覧)で生年を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "koyama-chuya",
+    "name": "小山宙哉",
+    "nameKana": "こやまちゅうや",
+    "description": "漫画家。「宇宙兄弟」の作者(オリジナル作品)。",
+    "birthYear": 1978,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/小山宙哉"
+    },
+    "sourceNote": "日本語版Wikipedia『小山宙哉』記事(2026-08-02閲覧)で生年を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yukimura-makoto",
+    "name": "幸村誠",
+    "nameKana": "ゆきむらまこと",
+    "description": "漫画家。「ヴィンランド・サガ」の作者(オリジナル作品)。",
+    "birthYear": 1976,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/幸村誠"
+    },
+    "sourceNote": "日本語版Wikipedia『幸村誠』記事(2026-08-02閲覧)で生年を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "miura-kentaro",
+    "name": "三浦建太郎",
+    "nameKana": "みうらけんたろう",
+    "description": "漫画家。「ベルセルク」の作者(オリジナル作品)。2021年没後はスタジオ我画が森恒二の監修のもと制作を引き継いでいる。",
+    "birthYear": 1966,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/三浦建太郎"
+    },
+    "sourceNote": "日本語版Wikipedia『三浦建太郎』記事(2026-08-02閲覧)で生年没年(2021年没)を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "haneno-chika",
+    "name": "羽海野チカ",
+    "nameKana": "はねのちか",
+    "description": "漫画家。「3月のライオン」の作者(オリジナル作品)。",
+    "birthYear": 1965,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/羽海野チカ"
+    },
+    "sourceNote": "日本語版Wikipedia『羽海野チカ』記事(2026-08-02閲覧)で生年を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tezuka-osamu",
+    "name": "手塚治虫",
+    "nameKana": "てづかおさむ",
+    "description": "漫画家。「火の鳥」「ブラック・ジャック」等多数のオリジナル作品を手がけた、「漫画の神様」と称される作家。",
+    "birthYear": 1928,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/手塚治虫"
+    },
+    "sourceNote": "日本語版Wikipedia『手塚治虫』記事(2026-08-02閲覧)で生年没年(1989年没)を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "chiba-tetsuya",
+    "name": "ちばてつや",
+    "nameKana": "ちばてつや",
+    "description": "漫画家。「あしたのジョー」の作画を高森朝雄(原作)とのコンビで手がける。",
+    "birthYear": 1939,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ちばてつや"
+    },
+    "sourceNote": "日本語版Wikipedia『ちばてつや』記事(2026-08-02閲覧)で生年を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "otomo-katsuhiro",
+    "name": "大友克洋",
+    "nameKana": "おおともかつひろ",
+    "description": "漫画家・映画監督。「AKIRA」の作者(オリジナル作品)。",
+    "birthYear": 1954,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/大友克洋"
+    },
+    "sourceNote": "日本語版Wikipedia『大友克洋』記事(2026-08-02閲覧)で生年を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "oku-hiroya",
+    "name": "奥浩哉",
+    "nameKana": "おくひろや",
+    "description": "漫画家。「GANTZ」の作者(オリジナル作品)。",
+    "birthYear": 1967,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/奥浩哉"
+    },
+    "sourceNote": "日本語版Wikipedia『奥浩哉』記事(2026-08-02閲覧)で生年を確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

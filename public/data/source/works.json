@@ -3308,5 +3308,462 @@
     },
     "sourceNote": "日本語版Wikipedia『結界師』記事(2026-08-02閲覧)で作者・掲載誌(週刊少年サンデー/小学館)・連載期間・巻数・受賞歴を確認。オリジナル作品のためoriginalAuthorIdsは空配列。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "oishinbo",
+    "title": "美味しんぼ",
+    "titleKana": "おいしんぼ",
+    "originalAuthorIds": [
+      "kariya-tetsu"
+    ],
+    "artistIds": [
+      "hanasaki-akira"
+    ],
+    "publisherId": "shogakukan",
+    "themeIds": [
+      "gourmet",
+      "workplace-drama",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 1983,
+    "latestPublishedYear": 2014,
+    "status": "unknown",
+    "volumeCount": 111,
+    "synopsis": "新聞記者の山岡士郎と同僚・栗田ゆう子が、社の企画「究極のメニュー」作りに挑む食漫画。山岡と犬猿の仲だった美食家・海原雄山が実の父であると判明し、二人は「至高のメニュー」を掲げる雄山と対決する。全国の郷土料理や食文化論、時に食品業界や社会問題への言及も織り交ぜながら、親子の確執と和解、山岡とゆう子の結婚などを長期にわたり描いた作品。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1987,
+        "result": "第32回青年一般部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/美味しんぼ"
+    },
+    "sourceNote": "日本語版Wikipedia『美味しんぼ』記事(2026-08-02閲覧)で原作者・作画者・掲載誌(ビッグコミックスピリッツ/小学館)・連載期間・既刊巻数(111巻、2014年12月時点)・受賞歴・アニメ化を確認。2014年25号を最後に長期休載が続き正式な完結発表は確認できなかったためstatusはunknownとした。小説化の有無は記事に記載なく未確認のためmediaMix.novelizationは省略。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kodoku-no-gurume",
+    "title": "孤独のグルメ",
+    "titleKana": "こどくのぐるめ",
+    "originalAuthorIds": [
+      "kusumi-masayuki"
+    ],
+    "artistIds": [
+      "taniguchi-jiro"
+    ],
+    "publisherId": "fusosha",
+    "themeIds": [
+      "gourmet",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 1994,
+    "latestPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "輸入雑貨商を営む中年男性・井之頭五郎が、仕事の合間にふらりと立ち寄った飲食店で一人静かに食事を楽しむ様子を描く。事件らしい事件は起きず、五郎の心の中の独白と料理の描写が中心となる。東京圏の実在する庶民的な飲食店を主なモデルとし、各話は五郎が偶然入った店で悩みながら料理を選び満足して店を後にする流れで完結する、ドキュメンタリータッチの淡々とした食漫画として知られる。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/孤独のグルメ"
+    },
+    "sourceNote": "日本語版Wikipedia『孤独のグルメ』記事(2026-08-02閲覧)で原作者・作画者・掲載誌(月刊PANJA/SPA!、扶桑社)・連載期間・単行本巻数(全2巻、1997年・2015年刊)を確認。作品自体の受賞歴の記載は見当たらず空配列とした。実写ドラマ化(2012年〜、テレビ東京)が主要なメディア展開だが、スマホ向け「タテアニメ」配信(2017年〜)もありmediaMix.animeはtrue、小説版(2019年)も確認できたためnovelizationもtrueとした。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shinya-shokudo",
+    "title": "深夜食堂",
+    "titleKana": "しんやしょくどう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "abe-yaro"
+    ],
+    "publisherId": "shogakukan",
+    "themeIds": [
+      "gourmet",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2006,
+    "status": "ongoing",
+    "volumeCount": 30,
+    "synopsis": "新宿ゴールデン街の路地裏で深夜0時から朝7時ごろまで営業する小さな食堂「めしや」を舞台にしたオムニバス作品。メニューは豚汁定食と酒類が基本だが、頼めば店主が作れる範囲で好きな料理を出してくれる。訳ありの常連客たちがそれぞれの事情を抱えながら食事をする様子を通じ、無口で多くを語らないマスターのさりげない気遣いと、人々が静かに心を通わせていく過程を描く。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2009,
+        "result": "第55回一般向け部門"
+      },
+      {
+        "awardId": "nihon-mangaka-kyokai-sho",
+        "year": 2010,
+        "result": "第39回大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/深夜食堂"
+    },
+    "sourceNote": "日本語版Wikipedia『深夜食堂』記事(2026-08-02閲覧)で作者(原作・作画とも安倍夜郎によるオリジナル作品)・掲載誌(ビッグコミックオリジナル/小学館)・連載期間・既刊巻数(30巻、2025年9月時点)・受賞歴(小学館漫画賞・日本漫画家協会賞大賞)を確認。記事に明記の通りアニメ化はなく(実写ドラマ・映画が主なメディア展開)、映画化に伴う小説版は確認できたためmediaMixはanime:false, novelization:trueとした。マンガ大賞・富川漫画大賞・ACBDアジア賞等の海外賞・ランキングはこのサイトの対象賞リストにないため不採用。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "moteki",
+    "title": "モテキ",
+    "titleKana": "もてき",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kubo-mitsurou"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "romance",
+      "slice-of-life",
+      "comedy"
+    ],
+    "firstPublishedYear": 2008,
+    "latestPublishedYear": 2010,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "29歳の派遣社員でこれといった恋愛経験のない藤本幸世が、ある日突然複数の女性から連絡が来る「モテ期」を迎え戸惑いながら振り回されるラブコメディ。サブカルチャーへの言及を交えつつ、自信のなさから恋愛のチャンスを空回りさせがちな主人公の内面をリアルに描き、幸世が土井亜紀と交際するまでの過程を軸に展開する。終盤では都合よく訪れた「モテ期」の代償や自分本位な選択の結果とも向き合うことになり、甘さだけに留まらない苦みも描かれる。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/モテキ"
+    },
+    "sourceNote": "日本語版Wikipedia『モテキ』記事(2026-08-02閲覧)で作者(久保ミツロウによるオリジナル作品)・掲載誌(イブニング/講談社)・連載期間(2008年〜2010年)・巻数(本編4巻+ファンブック4.5巻の計5冊)を確認。作品自体の漫画賞受賞の記載は見当たらず空配列とした(新語・流行語大賞ノミネートは漫画賞ではないため不採用)。テレビドラマ化・映画化(実写)は確認できたが、アニメ化・小説化についての明記がなく未確認のためmediaMixフィールドは省略した。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "uchuu-kyoudai",
+    "title": "宇宙兄弟",
+    "titleKana": "うちゅうきょうだい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "koyama-chuya"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "sci-fi",
+      "adventure",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2007,
+    "latestPublishedYear": 2026,
+    "status": "completed",
+    "volumeCount": 46,
+    "synopsis": "幼い頃に宇宙飛行士になることを誓い合った兄弟、六太と日々人。弟の日々人が先に夢を叶え宇宙飛行士となる一方、勤めていた会社を辞めた兄・六太もJAXAの宇宙飛行士選抜試験に挑戦し合格する。宇宙飛行士選抜試験の過酷さや訓練の様子が緻密に描かれ、六太が仲間や後輩とぶつかり合いながら少しずつ自信を取り戻していく過程を通じ、夢への向き合い方や家族の絆を描く群像劇。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2011,
+        "result": "第56回一般向け部門"
+      },
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2011,
+        "result": "第35回一般部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/宇宙兄弟"
+    },
+    "sourceNote": "日本語版Wikipedia『宇宙兄弟』記事(2026-08-02閲覧)で作者(小山宙哉によるオリジナル作品)・掲載誌(モーニング/講談社)・連載期間(2007年〜2026年6月完結)・既刊巻数(全46巻)・受賞歴(小学館漫画賞・講談社漫画賞)・アニメ化を確認。受賞の回次年は各賞のWikipedia記事の記載年に合わせた。マンガ大賞2位(2009・2010年度)はこのサイトの対象賞リストにないため不採用。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "vinland-saga",
+    "title": "ヴィンランド・サガ",
+    "titleKana": "う゛ぃんらんど・さが",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yukimura-makoto"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "historical",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2005,
+    "latestPublishedYear": 2025,
+    "status": "completed",
+    "volumeCount": 29,
+    "synopsis": "11世紀初頭の北ヨーロッパを舞台にしたヴァイキング時代劇。少年トルフィンは父を殺した傭兵団長アシェラッドへの復讐を誓い、その配下として戦場を渡り歩く。復讐を果たした後は奴隷としての生活を経て、暴力によらない理想の地「ヴィンランド」建国を目指すようになる。物語後半では農場経営や開拓を通じ、暴力に頼らず生きる道を模索するトルフィンの葛藤が中心となる、少年の成長と赦しを描いた歴史アクション。",
+    "awardResults": [
+      {
+        "awardId": "bunkacho-media-geijutsusai",
+        "year": 2009,
+        "result": "第13回マンガ部門大賞"
+      },
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2012,
+        "result": "第36回一般部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ヴィンランド・サガ"
+    },
+    "sourceNote": "日本語版Wikipedia『ヴィンランド・サガ』記事(2026-08-02閲覧)で作者(幸村誠によるオリジナル作品)・掲載誌の変遷(週刊少年マガジン→月刊アフタヌーン、いずれも講談社)・連載期間(2005年〜2025年完結)・既刊巻数(全29巻)・受賞歴(文化庁メディア芸術祭マンガ部門大賞・講談社漫画賞)・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "berserk",
+    "title": "ベルセルク",
+    "titleKana": "べるせるく",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "miura-kentaro"
+    ],
+    "publisherId": "hakusensha",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action",
+      "adventure",
+      "horror"
+    ],
+    "firstPublishedYear": 1989,
+    "status": "ongoing",
+    "volumeCount": 43,
+    "synopsis": "中世ヨーロッパ風の世界を舞台にしたダークファンタジー。剣士ガッツは傭兵団「鷹の団」で仲間との絆を得るが、団は「蝕」と呼ばれる悪魔の儀式によって壊滅し、多くの仲間を失う。以後ガッツは「黒い剣士」として人ならざる者たちを狩る旅を続ける。旅の中で得た新たな仲間との関係や、彼を狙う超自然的な脅威との戦いも並行して描かれ、暴力性と幻想的な恐怖が色濃く漂う世界観が特徴となっている。作者の死後もスタジオが引き継ぎ連載が続いている。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2002,
+        "result": "第6回マンガ優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ベルセルク_(漫画)"
+    },
+    "sourceNote": "日本語版Wikipedia『ベルセルク(漫画)』記事(2026-08-02閲覧)で作者(三浦建太郎によるオリジナル作品、2021年没)・掲載誌の変遷(月刊アニマルハウス→ヤングアニマル、いずれも白泉社)・連載開始(1989年)・既刊巻数(43巻、2025年8月時点)・受賞歴(手塚治虫文化賞マンガ優秀賞)・アニメ化・小説化を確認。2022年6月より原作:三浦建太郎、作画:スタジオ我画、監修:森恒二の体制で連載再開しているためstatusはongoingとした。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "3-gatsu-no-lion",
+    "title": "3月のライオン",
+    "titleKana": "さんがつのらいおん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "haneno-chika"
+    ],
+    "publisherId": "hakusensha",
+    "themeIds": [
+      "workplace-drama",
+      "slice-of-life",
+      "school"
+    ],
+    "firstPublishedYear": 2007,
+    "status": "ongoing",
+    "volumeCount": 18,
+    "synopsis": "中学生でプロ棋士になった天涯孤独の少年・桐山零が主人公。育ての親元を離れて一人暮らしを始めた零は、将棋会館近くに住む川本家の三姉妹と交流するうちに、心を閉ざしがちだった生活に少しずつ変化が生まれていく。勝負の世界で孤独や重圧と向き合う棋士たちの姿を通じ、それでも人と関わることで救われていく零の心の変化を丁寧に描く人間ドラマ。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2011,
+        "result": "第35回一般部門"
+      },
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2014,
+        "result": "第18回マンガ大賞"
+      },
+      {
+        "awardId": "bunkacho-media-geijutsusai",
+        "year": 2021,
+        "result": "第24回マンガ部門大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/3月のライオン"
+    },
+    "sourceNote": "日本語版Wikipedia『3月のライオン』記事(2026-08-02閲覧)で作者(羽海野チカによるオリジナル作品)・掲載誌(ヤングアニマル/白泉社)・連載期間(2007年〜連載中)・既刊巻数(18巻、2025年9月時点)・受賞歴(講談社漫画賞・手塚治虫文化賞マンガ大賞・文化庁メディア芸術祭マンガ部門大賞)・アニメ化を確認。マンガ大賞(2011年)・ダ・ヴィンチBOOK OF THE YEAR・将棋ペンクラブ大賞はこのサイトの対象賞リストにないため不採用。作品の正式タイトルは算用数字「3月のライオン」のため候補作リストの「三月のライオン」表記から修正した。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hi-no-tori",
+    "title": "火の鳥",
+    "titleKana": "ひのとり",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tezuka-osamu"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "sci-fi",
+      "historical",
+      "adventure"
+    ],
+    "firstPublishedYear": 1954,
+    "latestPublishedYear": 1988,
+    "status": "unknown",
+    "volumeCount": 11,
+    "synopsis": "不死の力を持つとされる火の鳥をめぐり、古代から遠い未来までさまざまな時代を舞台にした複数の物語からなるオムニバス作品。「黎明編」「未来編」「鳳凰編」など時代の異なる複数編が並行して描かれ、輪廻転生する登場人物たちを通じて生と死、文明と自然、人間の欲望といった普遍的なテーマを追求する。作者の死により「現代編」は未完のまま連載が終わっている。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/火の鳥_(漫画)"
+    },
+    "sourceNote": "日本語版Wikipedia『火の鳥(漫画)』記事(2026-08-02閲覧)で作者(手塚治虫によるオリジナル作品)・掲載誌の変遷(漫画少年→少女クラブ→COM→マンガ少年→野性時代)・連載期間(1954年〜1988年)・標準版既刊巻数(全11巻)・映像化(実写映画・アニメ映画・TVアニメ等)を確認。原作は手塚治虫没後「現代編」が未完のまま終わっており正式な完結ではないためstatusはunknownとした。掲載誌が複数出版社にまたがるため、publisherIdは現行の代表的な文庫版全集(手塚治虫文庫全集)を刊行する講談社を採用(既存publisherと重複させないための便宜的な選択、sourceNoteに明記)。受賞歴の記載は見当たらず空配列とした。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "black-jack",
+    "title": "ブラック・ジャック",
+    "titleKana": "ぶらっく・じゃっく",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tezuka-osamu"
+    ],
+    "publisherId": "akita-shoten",
+    "themeIds": [
+      "workplace-drama",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 1973,
+    "latestPublishedYear": 1983,
+    "status": "completed",
+    "volumeCount": 25,
+    "synopsis": "医師免許を持たない天才外科医ブラック・ジャックが、法外な報酬と引き換えに患者を治療していく一話完結形式の医療漫画。金銭至上主義に見える一方で弱者には無償で手を差し伸べることもあり、生命の尊さや医療倫理を問う物語が展開する。人造人間の少女ピノコをはじめ個性的な脇役も多数登場し、金銭にシビアな一面と患者への深い献身という相反する人物像が本作最大の魅力となっている。",
+    "awardResults": [
+      {
+        "awardId": "nihon-mangaka-kyokai-sho",
+        "year": 1975,
+        "result": "第4回特別優秀賞"
+      },
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1977,
+        "result": "第1回受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ブラック・ジャック"
+    },
+    "sourceNote": "日本語版Wikipedia『ブラック・ジャック』記事(2026-08-02閲覧)で作者(手塚治虫によるオリジナル作品)・掲載誌(週刊少年チャンピオン/秋田書店)・連載期間(定期連載1973-1978年、不定期連載1979-1983年)・既刊巻数(少年チャンピオンコミックス版全25巻)・受賞歴(日本漫画家協会賞特別優秀賞・第1回講談社漫画賞)・アニメ化/小説化等多数のメディアミックスを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ashita-no-joe",
+    "title": "あしたのジョー",
+    "titleKana": "あしたのじょー",
+    "originalAuthorIds": [
+      "takamori-asao"
+    ],
+    "artistIds": [
+      "chiba-tetsuya"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "sports",
+      "workplace-drama",
+      "historical"
+    ],
+    "firstPublishedYear": 1968,
+    "latestPublishedYear": 1973,
+    "status": "completed",
+    "volumeCount": 20,
+    "synopsis": "天涯孤独の不良少年・矢吹丈が、元ボクサーの丹下段平と出会いボクシングの才能を見出される。少年院での力石徹との出会いと死闘、その後のプロボクサーとしての激しい戦いを通じ、燃え尽きるまで戦い続ける丈の生き様を描く。作中でライバル・力石徹が減量の末に命を落とす展開は当時大きな社会現象となり、実際に合同葬儀が営まれるほどの反響を呼んだ、昭和のドヤ街を舞台にした熱血ボクシング漫画の代表作。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/あしたのジョー"
+    },
+    "sourceNote": "日本語版Wikipedia『あしたのジョー』記事(2026-08-02閲覧)で原作(梶原一騎が『高森朝雄』名義で担当、『巨人の星』との併載を隠す目的等の経緯あり)・作画(ちばてつや)・掲載誌(週刊少年マガジン/講談社)・連載期間(1968年1月〜1973年5月)・既刊巻数(20巻)・アニメ化を確認。連載開始が講談社漫画賞創設(1977年)以前のため作品自体の漫画賞受賞は確認できず空配列とした。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "akira",
+    "title": "AKIRA",
+    "titleKana": "あきら",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "otomo-katsuhiro"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "sci-fi",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 1982,
+    "latestPublishedYear": 1990,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "第三次世界大戦後に再建された近未来都市ネオ東京を舞台に、暴走族の少年・金田正太郎と親友の鉄雄が、政府が極秘に研究する超能力者「アキラ」をめぐる陰謀に巻き込まれていくSFアクション。鉄雄が超能力に覚醒し暴走していく様を中心に、軍・カルト教団・反政府ゲリラなど複数勢力の思惑が絡み合う群像劇として、崩壊と再生を繰り返す都市の姿を緻密な作画で描く。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1984,
+        "result": "第8回一般部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/AKIRA_(漫画)"
+    },
+    "sourceNote": "日本語版Wikipedia『AKIRA(漫画)』記事(2026-08-02閲覧)で作者(大友克洋によるオリジナル作品)・掲載誌(週刊ヤングマガジン/講談社)・連載期間(1982年〜1990年)・既刊巻数(全6巻)・受賞歴(講談社漫画賞)・アニメ映画化を確認。米国アイズナー賞はこのサイトの対象賞リストにないため不採用。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "gantz",
+    "title": "GANTZ",
+    "titleKana": "がんつ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "oku-hiroya"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "sci-fi",
+      "battle-action",
+      "death-game"
+    ],
+    "firstPublishedYear": 2000,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 37,
+    "synopsis": "死んだはずの高校生・玄野計たちが、黒い球体「ガンツ」の部屋に転送され、正体不明の敵を殲滅する殺し合いのミッションに強制参加させられる。参加者はミッションのたびに死の危険にさらされ、規定のポイントを稼げば解放されるが、命を落とせば別人に転生させられる。残酷な暴力描写やグロテスクな敵デザインを通じ、極限状態に置かれた登場人物たちの人間性や恐怖心をリアルに描く生存を懸けたデスゲームSF。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/GANTZ"
+    },
+    "sourceNote": "日本語版Wikipedia『GANTZ』記事(2026-08-02閲覧)で作者(奥浩哉によるオリジナル作品)・掲載誌(週刊ヤングジャンプ/集英社)・連載期間(2000年〜2013年)・既刊巻数(全37巻)・アニメ化/実写映画化を確認。作品自体の漫画賞受賞の記載は見当たらず空配列とした。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
   }
 ]

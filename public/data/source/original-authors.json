@@ -206,5 +206,41 @@
     },
     "sourceNote": "日本語版Wikipedia『魔法少女まどか☆マギカの漫画作品』記事(2026-08-02閲覧)でコミカライズ版の原作クレジット表記を確認。個人名ではなく制作ユニット名義であることに注意。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kariya-tetsu",
+    "name": "雁屋哲",
+    "nameKana": "かりやてつ",
+    "description": "漫画原作者。「美味しんぼ」の原作を花咲アキラとのコンビで手がける。",
+    "birthYear": 1941,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/雁屋哲"
+    },
+    "sourceNote": "日本語版Wikipedia『雁屋哲』記事(2026-08-02閲覧)で読み・生年・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kusumi-masayuki",
+    "name": "久住昌之",
+    "nameKana": "くすみまさゆき",
+    "description": "漫画原作者・エッセイスト。「孤独のグルメ」の原作を谷口ジローとのコンビで手がける。",
+    "birthYear": 1958,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/久住昌之"
+    },
+    "sourceNote": "日本語版Wikipedia『久住昌之』記事(2026-08-02閲覧)で生年・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "takamori-asao",
+    "name": "高森朝雄",
+    "nameKana": "たかもりあさお",
+    "description": "漫画原作者・梶原一騎(本名:高森朝樹)の別名義。「あしたのジョー」の原作をちばてつやとのコンビで手がける。",
+    "birthYear": 1936,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/梶原一騎"
+    },
+    "sourceNote": "日本語版Wikipedia『梶原一騎』記事(2026-08-02閲覧)で生年没年(1987年没)、『あしたのジョー』を高森朝雄名義で連載した経緯(『巨人の星』と同一誌併載を隠すため等)を確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

@@ -143,5 +143,17 @@
     },
     "sourceNote": "日本語版Wikipedia『芳文社』記事(2026-08-02閲覧)で設立年・沿革を確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "fusosha",
+    "name": "扶桑社",
+    "nameKana": "ふそうしゃ",
+    "description": "フジ・メディア・ホールディングス傘下の出版社。「SPA!」等の雑誌を刊行する。",
+    "foundedYear": 1987,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/扶桑社"
+    },
+    "sourceNote": "日本語版Wikipedia『扶桑社』記事(2026-08-02閲覧)で設立年・事業内容を確認。",
+    "updatedAt": "2026-08-02"
   }
 ]
