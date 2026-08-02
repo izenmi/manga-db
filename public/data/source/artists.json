@@ -437,5 +437,158 @@
     },
     "sourceNote": "日本語版Wikipedia『春場ねぎ』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "takaya-natsuki",
+    "name": "高屋奈月",
+    "nameKana": "たかやなつき",
+    "description": "漫画家。1992年に『花とゆめ』掲載作でデビュー。代表作『フルーツバスケット』は少女漫画として異例のヒットとなり、第25回講談社漫画賞少女部門を受賞した。",
+    "birthYear": 1973,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/高屋奈月"
+    },
+    "sourceNote": "日本語版Wikipedia『高屋奈月』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yazawa-ai",
+    "name": "矢沢あい",
+    "nameKana": "やざわあい",
+    "description": "漫画家。兵庫県尼崎市出身。1985年デビュー。『天使なんかじゃない』『ご近所物語』『パラダイス・キス』等を経て『NANA』を『Cookie』誌上で連載、2002年に第48回小学館漫画賞少女向け部門を受賞した。2009年より療養のため休載中。",
+    "birthYear": 1967,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/矢沢あい"
+    },
+    "sourceNote": "日本語版Wikipedia『矢沢あい』記事(2026-08-02閲覧)で生年・経歴・代表作・休載状況を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ninomiya-tomoko",
+    "name": "二ノ宮知子",
+    "nameKana": "にのみやともこ",
+    "description": "漫画家。埼玉県在住。1989年デビュー。クラシック音楽を題材にした代表作『のだめカンタービレ』(『Kiss』連載)で2004年第28回講談社漫画賞少女部門を受賞した。",
+    "birthYear": 1969,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/二ノ宮知子"
+    },
+    "sourceNote": "日本語版Wikipedia『二ノ宮知子』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "suetsugu-yuki",
+    "name": "末次由紀",
+    "nameKana": "すえつぐゆき",
+    "description": "漫画家。1992年デビュー。競技かるたを題材にした代表作『ちはやふる』(『BE・LOVE』連載)で第2回マンガ大賞、2011年第35回講談社漫画賞少女部門を受賞した。",
+    "birthYear": 1975,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/末次由紀"
+    },
+    "sourceNote": "日本語版Wikipedia『末次由紀』記事(2026-08-02閲覧)で生年・経歴・代表作・受賞歴を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shiina-karuho",
+    "name": "椎名軽穂",
+    "nameKana": "しいなかるほ",
+    "description": "漫画家。北海道出身。1991年デビュー。代表作『君に届け』(『別冊マーガレット』連載)で2008年第32回講談社漫画賞少女部門を受賞した。",
+    "birthYear": 1975,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/椎名軽穂"
+    },
+    "sourceNote": "日本語版Wikipedia『椎名軽穂』記事(2026-08-02閲覧)で生年・経歴・代表作・受賞歴を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "akasaka-aka",
+    "name": "赤坂アカ",
+    "nameKana": "あかさかあか",
+    "description": "漫画家・漫画原作者。2011年デビュー。代表作『かぐや様は告らせたい』(『週刊ヤングジャンプ』連載)で2020年第65回小学館漫画賞一般向け部門を受賞。2022年に作画からの引退を表明し、以後は原作・シナリオ制作に専念している。",
+    "birthYear": 1988,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/赤坂アカ"
+    },
+    "sourceNote": "日本語版Wikipedia『赤坂アカ』記事(2026-08-02閲覧)で生年・経歴・代表作・受賞歴を確認。オリジナル作品のためoriginalAuthorIdsではなくartistIdsに登録。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hagiwara-daisuke",
+    "name": "萩原ダイスケ",
+    "nameKana": "はぎわらだいすけ",
+    "description": "漫画家。HERO原作のWeb漫画『堀さんと宮村くん』を『ホリミヤ』としてコミカライズし、月刊Gファンタジー(スクウェア・エニックス)で連載。2025年には自身初のオリジナル連載も開始している。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/萩原ダイスケ"
+    },
+    "sourceNote": "日本語版Wikipedia『萩原ダイスケ』記事(2026-08-02閲覧)で経歴・代表作を確認。生年は記事に記載なし(誕生日8月25日のみ記載)のため未入力。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kamio-yoko",
+    "name": "神尾葉子",
+    "nameKana": "かみおようこ",
+    "description": "漫画家。1986年デビュー。代表作『花より男子』(『マーガレット』連載)は少女漫画屈指の大ヒット作となり、第41回小学館漫画賞少女向け部門を受賞した。",
+    "birthYear": 1966,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/神尾葉子"
+    },
+    "sourceNote": "日本語版Wikipedia『神尾葉子』記事(2026-08-02閲覧)で生年・経歴・代表作・受賞歴を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "takano-ichigo",
+    "name": "高野苺",
+    "nameKana": "たかのいちご",
+    "description": "漫画家。2007年『別冊マーガレット』掲載作でデビュー。代表作『orange』は『別冊マーガレット』(集英社)から『月刊アクション』(双葉社)に移って連載を継続した。",
+    "birthYear": 1986,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/高野苺"
+    },
+    "sourceNote": "日本語版Wikipedia『高野苺』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hatori-bisco",
+    "name": "葉鳥ビスコ",
+    "nameKana": "はとりびすこ",
+    "description": "漫画家。埼玉県出身。1999年デビュー。代表作『桜蘭高校ホスト部』(『LaLa』連載)はアニメ化・実写ドラマ化・映画化・ミュージカル化など幅広くメディア展開された。",
+    "birthYear": 1975,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/葉鳥ビスコ"
+    },
+    "sourceNote": "日本語版Wikipedia『葉鳥ビスコ』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ikeno-koi",
+    "name": "池野恋",
+    "nameKana": "いけのこい",
+    "description": "漫画家。岩手県花巻市出身。1979年デビュー。代表作『ときめきトゥナイト』(『りぼん』連載)はシリーズ累計3000万部超のヒット作となった。",
+    "birthYear": 1959,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/池野恋"
+    },
+    "sourceNote": "日本語版Wikipedia『池野恋』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nakamura-yoshiki",
+    "name": "仲村佳樹",
+    "nameKana": "なかむらよしき",
+    "description": "漫画家。徳島県出身。1993年デビュー。代表作『スキップ・ビート!』(『花とゆめ』連載)は2002年の連載開始以来、長期にわたり連載が続いている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/仲村佳樹"
+    },
+    "sourceNote": "日本語版Wikipedia『仲村佳樹』記事(2026-08-02閲覧)で経歴・代表作を確認。生年は記事に記載なし(誕生日6月17日のみ記載)のため未入力。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "murata-mayu",
+    "name": "村田真優",
+    "nameKana": "むらたまゆ",
+    "description": "漫画家。熊本県出身。2005年デビュー。代表作『ハニーレモンソーダ』(『りぼん』連載)は累計発行部数400万部を超えるヒット作となり、アニメ化・実写映画化された。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/村田真優"
+    },
+    "sourceNote": "日本語版Wikipedia『村田真優』記事(2026-08-02閲覧)で経歴・代表作を確認。生年は記事に記載なし(誕生日1月24日のみ記載)のため未入力。",
+    "updatedAt": "2026-08-02"
   }
 ]

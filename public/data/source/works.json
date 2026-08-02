@@ -1506,5 +1506,462 @@
     },
     "sourceNote": "日本語版Wikipedia『五等分の花嫁』記事(2026-08-02閲覧)で原作者・掲載誌・連載期間・巻数・受賞歴・アニメ化/小説版の有無を確認。原作・作画とも春場ねぎが単独で手がけるオリジナル作品のためoriginalAuthorIdsは空配列。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "fruits-basket",
+    "title": "フルーツバスケット",
+    "titleKana": "ふるーつばすけっと",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "takaya-natsuki"
+    ],
+    "publisherId": "hakusensha",
+    "themeIds": [
+      "romance",
+      "comedy",
+      "school",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 1998,
+    "latestPublishedYear": 2006,
+    "status": "completed",
+    "volumeCount": 23,
+    "synopsis": "母を亡くした女子高生・本田透は、偶然のことから十二支の「呪い」を背負う草摩一族の屋敷で居候生活を始めることになる。異性に抱きつかれると動物の姿に変身してしまうという秘密を抱えた一族の面々と関わるうち、透は彼らがそれぞれ抱える孤独や過去の傷、家族間の複雑な確執に触れていく。明るく前向きな透の存在が、少しずつ一族の心を溶かし、本当の家族のような絆を育んでいく様子を丁寧に描く。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2001,
+        "result": "少女部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/フルーツバスケット_(漫画)"
+    },
+    "sourceNote": "日本語版Wikipedia『フルーツバスケット (漫画)』記事(2026-08-02閲覧)で作者・掲載誌・連載期間・既刊巻数・受賞歴・アニメ化を確認。既刊巻数は通常版23巻(愛蔵版12巻は別カウント)。ノベライズの有無は記事上で確認できず未記載。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nana",
+    "title": "NANA",
+    "titleKana": "なな",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yazawa-ai"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "romance",
+      "music",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2000,
+    "latestPublishedYear": 2009,
+    "status": "unknown",
+    "volumeCount": 21,
+    "synopsis": "上京してきた同い年の女性二人が新幹線で偶然出会う。恋人を追って上京した平凡な小松奈々と、ロックバンドのボーカルとして成功を目指す大崎ナナ、同じ「ナナ」という名を持つ対照的な二人はひとつの部屋で同居を始める。奈々の恋人が所属するバンドと、ナナ自身が組むバンドの仲間たちを巻き込みながら、東京での生活の中で友情・恋愛・夢がすれ違い絡み合っていく群像劇。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2002,
+        "result": "少女向け部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/NANA"
+    },
+    "sourceNote": "日本語版Wikipedia『NANA』記事(2026-08-02閲覧)で作者・掲載誌(Cookie/集英社)・受賞歴・既刊巻数(21巻、2009年3月刊)を確認。2009年8月号より作者療養のため休載が続いており未完結のためstatusは'unknown'とした。ノベライズの有無は未確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nodame-cantabile",
+    "title": "のだめカンタービレ",
+    "titleKana": "のだめかんたーびれ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ninomiya-tomoko"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "romance",
+      "music",
+      "comedy"
+    ],
+    "firstPublishedYear": 2001,
+    "latestPublishedYear": 2010,
+    "status": "completed",
+    "volumeCount": 25,
+    "synopsis": "指揮者を目指すエリート音大生・千秋真一は、隣室に住む風変わりなピアノ科の同級生・野田恵、通称「のだめ」と出会う。ずぼらでゴミ屋敷のような部屋に暮らしながらも圧倒的な才能を秘めたのだめに振り回されつつ、千秋は次第に彼女の可能性を引き出そうとするようになる。オーケストラでの活動やコンクール挑戦を通して、正反対の二人がそれぞれ音楽家として成長していく姿を描く。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2004,
+        "result": "少女部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/のだめカンタービレ"
+    },
+    "sourceNote": "日本語版Wikipedia『のだめカンタービレ』記事(2026-08-02閲覧)で作者・掲載誌(Kiss/講談社)・連載期間・既刊巻数(本編23巻+番外編2巻=25巻)・受賞歴・アニメ化/ノベライズ(高里椎奈著、2006年12月)を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "chihayafuru",
+    "title": "ちはやふる",
+    "titleKana": "ちはやふる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "suetsugu-yuki"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "romance",
+      "sports",
+      "school",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2007,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 50,
+    "synopsis": "競技かるたの魅力に幼い頃出会った綾瀬千早は、高校進学とともにかるた部を新設し、幼なじみの綿谷新・真島太一とともに全国大会優勝、そして最強の女性「クイーン」の座を目指す。個性豊かな部員たちとの友情や、三人の間に生まれる淡い恋心も絡めながら、一枚の札に本気で向き合い続ける若者たちの姿を描いた競技かるた青春群像劇。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2010,
+        "result": "オンナ編1位"
+      },
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2011,
+        "result": "少女部門受賞"
+      },
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2012,
+        "result": "第16回最終候補"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ちはやふる"
+    },
+    "sourceNote": "日本語版Wikipedia『ちはやふる』記事(2026-08-02閲覧)で作者・掲載誌(BE・LOVE/講談社)・連載期間(2007年12月～2022年8月)・既刊巻数(本編50巻)・受賞歴・アニメ化/ノベライズを確認。手塚治虫文化賞の回次から開催年を2012年と推定。第2回マンガ大賞受賞は当サイトの賞リストに存在しないため未収録(存在しない賞のでっち上げ回避)。続編『ちはやふる plus きみがため』(既刊6巻)は別作品として本entryには含めていない。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kimi-ni-todoke",
+    "title": "君に届け",
+    "titleKana": "きみにとどけ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "shiina-karuho"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "romance",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2006,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 30,
+    "synopsis": "陰気な見た目から「貞子」というあだ名で恐れられ、クラスで浮いた存在だった黒沼爽子は、明るく誰からも人望のあるクラスメイト・風早翔太との出会いをきっかけに、少しずつ人と関わることを覚えていく。不器用ながらもまっすぐに人と向き合おうとする爽子の成長と、翔太との恋の行方、そして少しずつ増えていく友人たちとの絆を高校生活を通して丁寧に描く。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2008,
+        "result": "少女部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/君に届け"
+    },
+    "sourceNote": "日本語版Wikipedia『君に届け』記事(2026-08-02閲覧)で作者・掲載誌(別冊マーガレット/集英社)・連載期間(2006年連載開始～2017年)・既刊巻数(本編30巻、番外編3巻は別カウント)・受賞歴・アニメ化/ノベライズを確認。2005年掲載の読み切り版は連載開始に含めずfirstPublishedYearは2006年とした。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kaguya-sama-wa-kokurasetai",
+    "title": "かぐや様は告らせたい〜天才たちの恋愛頭脳戦〜",
+    "titleKana": "かぐやさまはこくらせたい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "akasaka-aka"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "romance",
+      "comedy",
+      "school",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 28,
+    "synopsis": "名門・秀知院学園の生徒会で肩を並べる副会長・四宮かぐやと会長・白銀御行は、互いに強く惹かれ合いながらも、それぞれのプライドの高さゆえに素直に告白できずにいる。「先に相手から告白させた方が勝ち」という独自のルールのもと、周囲の生徒会メンバーたちを巻き込みながら繰り広げられる、駆け引きだらけの恋愛頭脳戦コメディ。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2020,
+        "result": "一般向け部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/かぐや様は告らせたい"
+    },
+    "sourceNote": "日本語版Wikipedia『かぐや様は告らせたい』記事(2026-08-02閲覧)で作者・掲載誌(ミラクルジャンプ→週刊ヤングジャンプ/集英社)・連載期間(2015年～2022年)・既刊巻数(28巻)・受賞歴・アニメ化/ノベライズを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "horimiya",
+    "title": "ホリミヤ",
+    "titleKana": "ほりみや",
+    "originalAuthorIds": [
+      "hero"
+    ],
+    "artistIds": [
+      "hagiwara-daisuke"
+    ],
+    "publisherId": "square-enix",
+    "themeIds": [
+      "romance",
+      "comedy",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2011,
+    "latestPublishedYear": 2021,
+    "status": "completed",
+    "volumeCount": 17,
+    "synopsis": "学校では目立たない優等生として振る舞う宮村伊澄と、放課後は幼い弟妹の世話に追われる堀京子。ひょんなきっかけから互いの知られざる素顔を知ることになった二人は、秘密を共有したことをきっかけに次第に距離を縮めていく。個性豊かなクラスメイトたちを交えながら、学校の顔と家庭での顔、それぞれの素顔をさらけ出した高校生たちの日常と恋愛模様を描く。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ホリミヤ"
+    },
+    "sourceNote": "日本語版Wikipedia『ホリミヤ』記事(2026-08-02閲覧)で原作(HEROのWeb漫画『堀さんと宮村くん』)・作画(萩原ダイスケ)・掲載誌(月刊Gファンタジー/スクウェア・エニックス)・連載期間(2011年～2021年)・既刊巻数(17巻)を確認。原作Web漫画はshonenjump-plus/tonari-young-jump以外のサイトのためwebComicSourceは未設定。『ホリミヤ -piece-』のクランチロール・アニメアワード2024受賞はアニメ版のみが対象の賞のため対象外、awardResultsは空。ノベライズの有無は記事上で確認できず未記載。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hana-yori-dango",
+    "title": "花より男子",
+    "titleKana": "はなよりだんご",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kamio-yoko"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "romance",
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 1992,
+    "latestPublishedYear": 2004,
+    "status": "completed",
+    "volumeCount": 37,
+    "synopsis": "庶民育ちの女子高生・牧野つくしは、成り行きで富裕層の子弟が集う名門・英徳学園に入学するが、学園を裏で支配するエリート集団「F4」に逆らったことをきっかけにいじめの標的にされてしまう。それでもひるまず立ち向かうつくしは、F4のリーダー格である傲慢な御曹司・道明寺司と何度も対立を重ねながら、次第にお互いの本当の姿に気づき惹かれ合っていく。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1995,
+        "result": "少女向け部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/花より男子"
+    },
+    "sourceNote": "日本語版Wikipedia『花より男子』記事(2026-08-02閲覧)で作者・掲載誌(マーガレット/集英社)・連載期間(1992年～2004年)・既刊巻数(37巻)・受賞歴(第41回小学館漫画賞少女向け部門)・アニメ化/ノベライズを確認。2023年ギネス世界記録認定は漫画賞ではないためawardResultsに含めず。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "orange",
+    "title": "orange",
+    "titleKana": "おれんじ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "takano-ichigo"
+    ],
+    "publisherId": "futabasha",
+    "themeIds": [
+      "romance",
+      "sci-fi",
+      "school"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 9,
+    "synopsis": "高校2年生の菜穂のもとに、ある日「10年後の自分」を名乗る差出人から一通の手紙が届く。そこには同じクラスに転校してくる梶が近い将来命を落とすことと、後悔を取り除くために取るべき行動が記されていた。半信半疑ながらも手紙を信じた菜穂たち友人グループは、力を合わせて梶の運命を変えようと奮闘していく、切なさを帯びたSF要素のある青春群像劇。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2015,
+        "result": "オトコ編15位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Orange_(高野苺の漫画)"
+    },
+    "sourceNote": "日本語版Wikipedia『Orange (高野苺の漫画)』記事(2026-08-02閲覧)および双葉社公式orange特設サイトで作者・掲載誌(別冊マーガレット/集英社→月刊アクション/双葉社)・連載期間(2012年～2016年、番外編含む)・受賞歴・アニメ化/ノベライズを確認。単行本は集英社2巻+双葉社7巻の計9巻(発行元が分かれるためpublisherIdは主要巻数の双葉社を採用)。「全国書店員が選んだおすすめコミック2015」「次にくるマンガ大賞」は当サイトの賞リストに存在しないため未収録。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ouran-koukou-host-club",
+    "title": "桜蘭高校ホスト部",
+    "titleKana": "おうらんこうこうほすとぶ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hatori-bisco"
+    ],
+    "publisherId": "hakusensha",
+    "themeIds": [
+      "romance",
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 2002,
+    "latestPublishedYear": 2010,
+    "status": "completed",
+    "volumeCount": 18,
+    "synopsis": "特待生として名門・桜蘭学院に通う藤岡ハルヒは、勉強場所を探しているうちにうっかり高価な花瓶を壊してしまい、その弁償として学内で人気の男子集団「ホスト部」の雑用係として働くことになる。手違いから自分が女性であることを隠したまま個性的な部員たちと過ごすうち、ハルヒとホスト部員たちそれぞれの関係が少しずつ変化していく学園ラブコメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/桜蘭高校ホスト部"
+    },
+    "sourceNote": "日本語版Wikipedia『桜蘭高校ホスト部』記事(2026-08-02閲覧)で作者・掲載誌(LaLa/白泉社)・連載期間(2002年～2010年)・既刊巻数(18巻)・アニメ化/ノベライズ(全2巻)を確認。作品自体の漫画賞受賞は記事上確認できず、awardResultsは空。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tokimeki-tonight",
+    "title": "ときめきトゥナイト",
+    "titleKana": "ときめきとぅないと",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ikeno-koi"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "romance",
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 1982,
+    "latestPublishedYear": 1994,
+    "status": "completed",
+    "volumeCount": 30,
+    "synopsis": "吸血鬼の父と狼女の母を持つ魔界の少女・江藤蘭世は、自分の正体を隠して人間界の中学校に通いながら、同級生の真壁俊にひそかに片想いしている。ある日、実は俊が魔界の王子であることが判明し、驚きながらも蘭世は彼への想いをさらに募らせていく。個性的な魔界の住人たちや恋のライバルも巻き込みながら展開する、魔界と人間界をまたぐファンタジーラブコメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ときめきトゥナイト"
+    },
+    "sourceNote": "日本語版Wikipedia『ときめきトゥナイト』記事(2026-08-02閲覧)で作者・掲載誌(りぼん/集英社)・連載期間(1982年～1994年)・既刊巻数(本編30巻。完結編『星のゆくえ』全1巻、続編『それから』既刊6巻は別カウントで本entryには含めず)・アニメ化/ノベライズを確認。「このマンガがすごい!」2014年オンナ編2位はスピンオフ『真壁俊の事情』に対する評価であり本作自体の受賞ではないためawardResultsに含めず、空とした。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "skip-beat",
+    "title": "スキップ・ビート!",
+    "titleKana": "すきっぷびーと",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nakamura-yoshiki"
+    ],
+    "publisherId": "hakusensha",
+    "themeIds": [
+      "romance",
+      "comedy",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2002,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 53,
+    "synopsis": "幼なじみのミュージシャン・不破尚を追って上京した最上キョーコは、自分が彼にとって単なる都合のいい存在に過ぎなかったと知り、絶望と怒りから見返してやろうと芸能界入りを決意する。復讐心だけを原動力に芸能プロダクションのオーディションに挑んだキョーコだったが、活動を続けるうちに演技そのものの奥深さに目覚めていき、一人の女優として着実に成長していく姿を描く。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/スキップ・ビート!"
+    },
+    "sourceNote": "日本語版Wikipedia『スキップ・ビート!』記事(2026-08-02閲覧)で作者・掲載誌(花とゆめ/白泉社)・連載期間(2002年～連載中)・既刊巻数(53巻、2026年6月20日時点)・アニメ化/ノベライズを確認。連載中のためlatestPublishedYearは既刊最新巻の発行年として2026年とした。作品自体の漫画賞受賞は記事上確認できず、awardResultsは空。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "honey-lemon-soda",
+    "title": "ハニーレモンソーダ",
+    "titleKana": "はにーれもんそーだ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "murata-mayu"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "romance",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2026,
+    "status": "completed",
+    "volumeCount": 33,
+    "synopsis": "中学時代に受けたいじめが原因で他人と関わることを恐れるようになっていた石森羽花は、高校進学を機に校則の緩い自由な校風の高校へ進学し、そこで出会った三浦界の飾らないまっすぐな言葉に救われる。明るく人気者の界やクラスメイトたちと過ごす日々の中で、少しずつ心を開き自分を変えていく羽花の成長と、界との淡い恋の行方をみずみずしく描く青春ラブストーリー。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2021,
+        "result": "少女部門ノミネート"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ハニーレモンソーダ"
+    },
+    "sourceNote": "日本語版Wikipedia『ハニーレモンソーダ』記事(2026-08-02閲覧)で作者・掲載誌(りぼん/集英社)・連載期間(2015年12月～2026年4月完結)・既刊巻数(本編31巻+番外編2巻=33巻)・受賞歴・アニメ化/ノベライズを確認。『セブンティーン』読者投票1位は当サイトの賞リストに存在しないため未収録。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
   }
 ]

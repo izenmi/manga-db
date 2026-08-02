@@ -77,5 +77,16 @@
     },
     "sourceNote": "日本語版Wikipedia『綱本将也』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hero",
+    "name": "HERO",
+    "nameKana": "ひーろー",
+    "description": "Web漫画発の原作者。日本アニメ・マンガ専門学校卒業後、2007年頃から個人サイト「同化阿片」等でオリジナルWeb漫画の発表を開始。代表作『堀さんと宮村くん』が萩原ダイスケの作画でコミカライズされ『ホリミヤ』となった。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/HERO_(漫画家)"
+    },
+    "sourceNote": "日本語版Wikipedia『HERO (漫画家)』記事(2026-08-02閲覧)で経歴・代表作を確認。生年は記事に記載なし(誕生日5月10日のみ記載)のため未入力。",
+    "updatedAt": "2026-08-02"
   }
 ]

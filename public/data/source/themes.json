@@ -68,5 +68,10 @@
     "id": "slice-of-life",
     "name": "日常",
     "description": "日常生活の機微を描く作品。"
+  },
+  {
+    "id": "music",
+    "name": "音楽",
+    "description": "音楽活動や音楽家を題材にした作品。"
   }
 ]

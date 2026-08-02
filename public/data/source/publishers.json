@@ -58,5 +58,30 @@
     },
     "sourceNote": "日本語版Wikipedia『秋田書店』記事(2026-08-02閲覧)で創業年・事業内容を確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hakusensha",
+    "name": "白泉社",
+    "nameKana": "はくせんしゃ",
+    "parentCompany": "集英社",
+    "description": "『花とゆめ』『LaLa』『MELODY』等の少女・女性漫画誌、『ヤングアニマル』等の青年漫画誌を発行する出版社。集英社を主要株主とする一ツ橋グループの一員。",
+    "foundedYear": 1973,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/白泉社"
+    },
+    "sourceNote": "日本語版Wikipedia『白泉社』記事(2026-08-02閲覧)で設立年・親会社・発行雑誌を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "futabasha",
+    "name": "双葉社",
+    "nameKana": "ふたばしゃ",
+    "description": "『週刊大衆』『漫画アクション』(日本初の週刊青年漫画誌)等を刊行する総合出版社。漫画・文庫・新書など幅広いジャンルの出版を手がける。",
+    "foundedYear": 1948,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/双葉社"
+    },
+    "sourceNote": "日本語版Wikipedia『双葉社』記事(2026-08-02閲覧)で設立年・主要事業を確認。orangeの単行本主要巻(月刊アクション/アクションコミックス、全7巻)の発行元として登録。",
+    "updatedAt": "2026-08-02"
   }
 ]
