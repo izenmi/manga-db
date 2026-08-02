@@ -324,5 +324,64 @@
     },
     "sourceNote": "日本語版Wikipedia『イースト・プレス』記事およびWeb検索(2026-08-02閲覧)で設立年(1989年)・『まんがで読破』シリーズの刊行元であることを確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "overlap",
+    "name": "オーバーラップ",
+    "nameKana": "おーばーらっぷ",
+    "description": "ライトノベルレーベル「オーバーラップ文庫」やWebコミックサイト「コミックガルド」を運営する出版社。2011年設立。",
+    "foundedYear": 2011,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/オーバーラップ_(企業)"
+    },
+    "sourceNote": "日本語版Wikipedia『オーバーラップ(企業)』記事、gamebiz記事(2026-08-02閲覧)で設立年(2011年)・コミックガルド運営元であることを確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "alphapolis",
+    "name": "アルファポリス",
+    "nameKana": "あるふぁぽりす",
+    "description": "投稿サイト「アルファポリス」上で人気を得た小説・漫画を書籍化する出版社。2000年設立。",
+    "foundedYear": 2000,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アルファポリス"
+    },
+    "sourceNote": "日本語版Wikipedia『アルファポリス』記事、株式会社アルファポリス公式サイト会社概要ページ(2026-08-02閲覧)で設立年(2000年)・事業モデルを確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tobooks",
+    "name": "TOブックス",
+    "nameKana": "てぃーおーぶっくす",
+    "description": "ライトノベルレーベル「TOブックス」やWebコミック媒体「comicコロナ」「コロナEX」を運営する出版社。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/本好きの下剋上"
+    },
+    "sourceNote": "日本語版Wikipedia『本好きの下剋上』記事、TOブックス公式サイト(tobooks.jp、2026-08-02閲覧)で『本好きの下剋上』の刊行元・コミック媒体(comicコロナ/コロナEX)運営元であることを確認。設立年は明確な出典を確認できず未記載。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "dwango",
+    "name": "ドワンゴ",
+    "nameKana": "どわんご",
+    "description": "「niconico(ニコニコ動画)」を運営するインターネット関連企業。Web漫画投稿・閲覧サービス「ニコニコ静画(ニコニコ漫画)」も運営する。1997年設立。",
+    "foundedYear": 1997,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ドワンゴ"
+    },
+    "sourceNote": "日本語版Wikipedia『ドワンゴ』『ニコニコ静画』記事(2026-08-02閲覧)で設立年(1997年)・ニコニコ静画(ニコニコ漫画)運営元であることを確認。『本好きの下剋上』コミカライズ第一部が2015年連載開始当時ニコニコ静画に掲載されていたことを確認(当時の運営元として登録。2025年以降の運営元異動には触れない)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shufu-to-seikatsusha",
+    "name": "主婦と生活社",
+    "nameKana": "しゅふとせいかつしゃ",
+    "description": "雑誌『週刊女性』等を刊行する出版社。ライトノベルレーベル「PASH!文庫」やWebコミック媒体「PASH UP!(旧コミックPASH!)」も展開する。",
+    "foundedYear": 1935,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/主婦と生活社"
+    },
+    "sourceNote": "日本語版Wikipedia『主婦と生活社』記事(2026-08-02閲覧)で設立年(1935年)・事業内容を確認。『くまクマ熊ベアー』コミカライズ掲載媒体「コミックPASH!」(現PASH UP!)の運営元であることをWikipedia『くまクマ熊ベアー』記事(2026-08-02閲覧)で確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

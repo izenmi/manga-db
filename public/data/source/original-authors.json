@@ -788,5 +788,168 @@
     },
     "sourceNote": "日本語版Wikipedia『夢野久作』記事(2026-08-02閲覧)で生没年(1889-1936年)・出身・経歴・『ドグラ・マグラ』(1935年)刊行の経緯を確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "aneko-yusagi",
+    "name": "アネコユサギ",
+    "nameKana": "あねこゆさぎ",
+    "description": "ライトノベル『盾の勇者の成り上がり』の原作者。「小説家になろう」出身のなろう系転生・異世界召喚ものの代表的な書き手の一人。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/盾の勇者の成り上がり"
+    },
+    "sourceNote": "日本語版Wikipedia『盾の勇者の成り上がり』記事(2026-08-02閲覧)で原作者名を確認。個人の詳細プロフィール(生年等)は確認できず未記載。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "akatsuki-natsume",
+    "name": "暁なつめ",
+    "nameKana": "あかつきなつめ",
+    "description": "ライトノベル『この素晴らしい世界に祝福を!』の原作者。「小説家になろう」発のコメディ寄り異世界転生ものを手がける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/この素晴らしい世界に祝福を!"
+    },
+    "sourceNote": "日本語版Wikipedia『この素晴らしい世界に祝福を!』記事(2026-08-02閲覧)で原作者名・小説連載期間(2013年10月～2023年9月)を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "rifujin-na-magonote",
+    "name": "理不尽な孫の手",
+    "nameKana": "りふじんなまごのて",
+    "description": "ライトノベル『無職転生 〜異世界行ったら本気だす〜』の原作者。「小説家になろう」における異世界転生ジャンル(なろう系)の草分け的存在とされる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/無職転生"
+    },
+    "sourceNote": "日本語版Wikipedia『無職転生』記事(2026-08-02閲覧)で原作者名・「なろう系」の代名詞的作品と評される点を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "baba-okina",
+    "name": "馬場翁",
+    "nameKana": "ばばおきな",
+    "description": "ライトノベル『蜘蛛ですが、なにか?』の原作者。「小説家になろう」出身。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/蜘蛛ですが、なにか?"
+    },
+    "sourceNote": "日本語版Wikipedia『蜘蛛ですが、なにか?』記事(2026-08-02閲覧)で原作者名を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tanaka-yuu",
+    "name": "棚架ユウ",
+    "nameKana": "たなかゆう",
+    "description": "ライトノベル『転生したら剣でした』の原作者。「小説家になろう」出身で、同作は第4回ネット小説大賞受賞作。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/転生したら剣でした"
+    },
+    "sourceNote": "日本語版Wikipedia『転生したら剣でした』記事(2026-08-02閲覧)で原作者名・第4回ネット小説大賞受賞歴を確認。読み仮名(なめカナ)は公式な読み仮名の明記を確認できず、一般に流通する読みを暫定採用(要再確認)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "karuro-zen",
+    "name": "カルロ・ゼン",
+    "nameKana": "かるろぜん",
+    "description": "ライトノベル『幼女戦記』の原作者。ペンネームはイタリア語由来のカタカナ表記。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/幼女戦記"
+    },
+    "sourceNote": "日本語版Wikipedia『幼女戦記』記事(2026-08-02閲覧)で原作者名を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kazuki-miya",
+    "name": "香月美夜",
+    "nameKana": "かづきみや",
+    "description": "ライトノベル『本好きの下剋上』の原作者。TOブックスより刊行。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/本好きの下剋上"
+    },
+    "sourceNote": "日本語版Wikipedia『本好きの下剋上』記事(2026-08-02閲覧)で原作者名・「小説家になろう」連載期間(2013年9月～2017年3月)を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shirakome-ryou",
+    "name": "白米良",
+    "nameKana": "しらこめりょう",
+    "description": "ライトノベル『ありふれた職業で世界最強』の原作者。「小説家になろう」では「厨二好き」の名で活動していた。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/白米良"
+    },
+    "sourceNote": "日本語版Wikipedia『白米良』記事、およびオーバーラップ公式サイト内『オーバーラップラボ』著者プロフィールページ(over-lap.co.jp、2026-08-02閲覧)で「しらこめ・りょう」という読み仮名を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yoshioka-tsuyoshi",
+    "name": "吉岡剛",
+    "nameKana": "よしおかつよし",
+    "description": "ライトノベル『賢者の孫』の原作者。「小説家になろう」出身。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/賢者の孫"
+    },
+    "sourceNote": "日本語版Wikipedia『賢者の孫』記事(2026-08-02閲覧)で原作者名・連載期間を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kanagiri-kogitsune",
+    "name": "金斬児狐",
+    "nameKana": "かなぎりこぎつね",
+    "description": "ライトノベル『Re:Monster』の原作者。アルファポリスの投稿サイトで連載を開始した。",
+    "externalLinks": {},
+    "sourceNote": "コミックナタリー特集記事、BOOK☆WALKER・版元ドットコム等の書誌情報(2026-08-02閲覧)で原作者名・アルファポリスでの連載開始を確認。単独のWikipedia記事・公式な読み仮名の明記は見当たらず、読みは一般に流通するものを暫定採用(要再確認)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "y-a",
+    "name": "Y.A",
+    "nameKana": "わいえー",
+    "description": "ライトノベル『八男って、それはないでしょう!』の原作者。「小説家になろう」出身。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/八男って、それはないでしょう!"
+    },
+    "sourceNote": "日本語版Wikipedia『八男って、それはないでしょう!』記事(2026-08-02閲覧)で原作者名(アルファベット表記のペンネーム)を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "morita-kisetsu",
+    "name": "森田季節",
+    "nameKana": "もりたきせつ",
+    "description": "ライトノベル『スライム倒して300年、知らないうちにレベルMAXになってました』の原作者。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/スライム倒して300年、知らないうちにレベルMAXになってました"
+    },
+    "sourceNote": "日本語版Wikipedia『スライム倒して300年、知らないうちにレベルMAXになってました』記事(2026-08-02閲覧)で原作者名を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yamaguchi-satoru",
+    "name": "山口悟",
+    "nameKana": "やまぐちさとる",
+    "description": "ライトノベル『乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…』の原作者。一迅社文庫アイリスより刊行。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…"
+    },
+    "sourceNote": "日本語版Wikipedia『乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…』記事(2026-08-02閲覧)で原作者名を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kuma-nano",
+    "name": "くまなの",
+    "nameKana": "くまなの",
+    "description": "ライトノベル『くまクマ熊ベアー』の原作者。「小説家になろう」出身。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/くまクマ熊ベアー"
+    },
+    "sourceNote": "日本語版Wikipedia『くまクマ熊ベアー』記事(2026-08-02閲覧)で原作者名を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "aishichi-hiro",
+    "name": "愛七ひろ",
+    "nameKana": "あいしちひろ",
+    "description": "ライトノベル『デスマーチからはじまる異世界狂想曲』の原作者。「小説家になろう」出身。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/デスマーチからはじまる異世界狂想曲"
+    },
+    "sourceNote": "日本語版Wikipedia『デスマーチからはじまる異世界狂想曲』記事、およびカクヨム著者ページ(2026-08-02閲覧)で原作者名・読み仮名を確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

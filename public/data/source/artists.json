@@ -3457,5 +3457,190 @@
     },
     "sourceNote": "日本語版Wikipedia『丸尾末広』記事(2026-08-02閲覧)で生年・出身・経歴・代表作・受賞歴を確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "aiya-kyuu",
+    "name": "藍屋球",
+    "nameKana": "あいやきゅう",
+    "description": "漫画家。『盾の勇者の成り上がり』のコミカライズ作画を担当。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/盾の勇者の成り上がり"
+    },
+    "sourceNote": "日本語版Wikipedia『盾の勇者の成り上がり』記事、BOOK☆WALKER書誌情報(2026-08-02閲覧)で作画担当者名を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "watari-masahito",
+    "name": "渡真仁",
+    "nameKana": "わたりまさひと",
+    "description": "漫画家。『この素晴らしい世界に祝福を!』のコミカライズ作画を担当。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/渡真仁"
+    },
+    "sourceNote": "日本語版Wikipedia『渡真仁』記事、マンガペディア(2026-08-02閲覧)で作画担当者名・読み仮名(わたりまさひと)・月刊ドラゴンエイジでの連載開始(2014年10月)を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "fujikawa-yuka",
+    "name": "フジカワユカ",
+    "nameKana": "ふじかわゆか",
+    "description": "漫画家。『無職転生 〜異世界行ったら本気だす〜』のコミカライズ作画を担当。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/無職転生"
+    },
+    "sourceNote": "日本語版Wikipedia『無職転生』記事(2026-08-02閲覧)で作画担当者名を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kakashi-asahiro",
+    "name": "かかし朝浩",
+    "nameKana": "かかしあさひろ",
+    "description": "漫画家。『蜘蛛ですが、なにか?』のコミカライズ作画を担当。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/蜘蛛ですが、なにか?"
+    },
+    "sourceNote": "日本語版Wikipedia『蜘蛛ですが、なにか?』記事(2026-08-02閲覧)で作画担当者名・ヤングエースUPでの連載開始(2015年12月)を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "maruyama-asao",
+    "name": "丸山朝ヲ",
+    "nameKana": "まるやまあさを",
+    "description": "漫画家。『転生したら剣でした』のコミカライズ作画を担当。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/丸山朝ヲ"
+    },
+    "sourceNote": "日本語版Wikipedia『丸山朝ヲ』『転生したら剣でした』各記事(2026-08-02閲覧)で作画担当者名を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tojo-chika",
+    "name": "東條チカ",
+    "nameKana": "とうじょうちか",
+    "description": "漫画家。『幼女戦記』のコミカライズ作画を担当。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/東條チカ"
+    },
+    "sourceNote": "日本語版Wikipedia『東條チカ』記事(2026-08-02閲覧)で作画担当者名・読み仮名・月刊コンプエースでの連載開始(2016年6月)を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "suzuka",
+    "name": "鈴華",
+    "nameKana": "すずか",
+    "description": "漫画家。『本好きの下剋上』第一部・第二部・第五部のコミカライズ作画を担当。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/本好きの下剋上"
+    },
+    "sourceNote": "日本語版Wikipedia『本好きの下剋上』記事、コロナEX公式サイト(to-corona-ex.com、2026-08-02閲覧)で担当部・連載期間を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "namino-ryou",
+    "name": "波野涼",
+    "nameKana": "なみのりょう",
+    "description": "漫画家。『本好きの下剋上』第三部のコミカライズ作画を担当。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/波野涼"
+    },
+    "sourceNote": "日本語版Wikipedia『波野涼』記事(2026-08-02閲覧)で作画担当者名・読み仮名・担当部を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "katsuki-hikaru",
+    "name": "勝木光",
+    "nameKana": "かつきひかる",
+    "description": "漫画家。代表作『ベイビーステップ』。『本好きの下剋上』第四部のコミカライズ作画を担当。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/勝木光"
+    },
+    "sourceNote": "日本語版Wikipedia『勝木光』記事、コミックナタリー記事(2026-08-02閲覧)で作画担当者名・読み仮名・担当部(2020年開始)を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "roga",
+    "name": "RoGa",
+    "nameKana": "ろが",
+    "description": "漫画家。『ありふれた職業で世界最強』のコミカライズ作画を担当。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ありふれた職業で世界最強"
+    },
+    "sourceNote": "日本語版Wikipedia『ありふれた職業で世界最強』記事、コミックガルド公式サイト(comic-gardo.com、2026-08-02閲覧)で作画担当者名を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ogata-shunsuke",
+    "name": "緒方俊輔",
+    "nameKana": "おがたしゅんすけ",
+    "description": "漫画家。『賢者の孫』のコミカライズ作画を担当。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/賢者の孫"
+    },
+    "sourceNote": "日本語版Wikipedia『賢者の孫』記事(2026-08-02閲覧)で作画担当者名・ヤングエースUPでの連載開始(2016年3月)を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kobayakawa-haruyoshi",
+    "name": "小早川ハルヨシ",
+    "nameKana": "こばやかわはるよし",
+    "description": "漫画家。『Re:Monster』のコミカライズ作画を担当。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER・版元ドットコム等の書誌情報(2026-08-02閲覧)で作画担当者名を確認。単独のWikipedia記事は確認できず。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kusumoto-hiroki",
+    "name": "楠本弘樹",
+    "nameKana": "くすもとひろき",
+    "description": "漫画家。『八男って、それはないでしょう!』主流版のコミカライズ作画を担当。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/八男って、それはないでしょう!"
+    },
+    "sourceNote": "日本語版Wikipedia『八男って、それはないでしょう!』記事、ニコニコ漫画掲載ページ(2026-08-02閲覧)で作画担当者名・連載開始(2015年4月、カドコミ)を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shiba-yuusuke",
+    "name": "シバユウスケ",
+    "nameKana": "しばゆうすけ",
+    "description": "漫画家。『スライム倒して300年、知らないうちにレベルMAXになってました』のコミカライズ作画を担当。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/スライム倒して300年、知らないうちにレベルMAXになってました"
+    },
+    "sourceNote": "日本語版Wikipedia『スライム倒して300年、知らないうちにレベルMAXになってました』記事(2026-08-02閲覧)で作画担当者名・ガンガンONLINEでの連載開始(2017年6月)を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hidaka-nami",
+    "name": "ひだかなみ",
+    "nameKana": "ひだかなみ",
+    "description": "漫画家。『乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…』のコミカライズ作画を担当。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…"
+    },
+    "sourceNote": "日本語版Wikipedia『乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…』記事(2026-08-02閲覧)で作画担当者名・コミックZERO-SUMでの連載開始(2017年10月号)を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "serugei",
+    "name": "せるげい",
+    "nameKana": "せるげい",
+    "description": "漫画家。『くまクマ熊ベアー』メイン連載版のコミカライズ作画を担当。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/くまクマ熊ベアー"
+    },
+    "sourceNote": "日本語版Wikipedia『くまクマ熊ベアー』記事(2026-08-02閲覧)で作画担当者名・連載開始(2018年3月)を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ayamegumu",
+    "name": "あやめぐむ",
+    "nameKana": "あやめぐむ",
+    "description": "漫画家。『デスマーチからはじまる異世界狂想曲』のコミカライズ作画を担当。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/デスマーチからはじまる異世界狂想曲"
+    },
+    "sourceNote": "日本語版Wikipedia『デスマーチからはじまる異世界狂想曲』記事(2026-08-02閲覧)で作画担当者名・エイジプレミアムでの連載開始(2014年12月)を確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

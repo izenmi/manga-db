@@ -11841,5 +11841,521 @@
     },
     "sourceNote": "日本語版Wikipedia『少女椿』『丸尾末広』記事(2026-08-02閲覧)で作者・初出(官能劇画誌『漫画エロス』司書房、1983年8月号-1984年7月号連載)・単行本(全1巻、全8話)・あらすじ・1992年アニメ映画化(海外ではMIDORIのタイトルでDVD化)・2016年実写映画化を確認。現行の単行本刊行元は青林堂ではなく1997年設立の別法人・青林工藝舎(2003年版)であるため、work.publisherIdはseirin-kogeishaとした。初出誌『漫画エロス』の発行元(司書房)は既に倒産済みのためlabels.json側にのみpublisherIdとして設定し、CLAUDE.mdのレーベル入力ルールに従い経緯を明記した。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tate-no-yuusha-no-narikagari",
+    "title": "盾の勇者の成り上がり",
+    "titleKana": "たてのゆうしゃのなりあがり",
+    "originalAuthorIds": [
+      "aneko-yusagi"
+    ],
+    "artistIds": [
+      "aiya-kyuu"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "comic-flapper",
+    "themeIds": [
+      "isekai",
+      "dark-fantasy",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 30,
+    "synopsis": "図書館で異世界召喚に巻き込まれた大学生・岩谷尚文は、四聖武器の一つ「盾」を託された勇者として召喚される。最弱と蔑まれる盾しか使えないうえ、心を許した仲間に濡れ衣を着せられ人々から敵視されてしまう。絶望の中、購入した亜人の少女ラフタリアとともに、世界を襲う災厄「波」に立ち向かっていく異世界成り上がりファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "piccoma-award",
+        "year": 2019,
+        "result": "AQUA賞(コミック部門)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/盾の勇者の成り上がり"
+    },
+    "sourceNote": "日本語版Wikipedia『盾の勇者の成り上がり』記事、BOOK☆WALKER・ebookjapan等の書誌情報(2026-08-02閲覧)で原作者・作画担当者・掲載誌(コミックフラッパー、2014年3月号連載開始)・既刊巻数(30巻、2026年5月時点)・現在も連載中であること(2026年7月に最新話更新確認)・アニメ化・ピッコマAWARD 2019 AQUA賞受賞歴を確認。あらすじは自分の言葉で要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kono-subarashii-sekai-ni-shukufuku-wo",
+    "title": "この素晴らしい世界に祝福を!",
+    "titleKana": "このすばらしいせかいにしゅくふくを",
+    "originalAuthorIds": [
+      "akatsuki-natsume"
+    ],
+    "artistIds": [
+      "watari-masahito"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "dragon-age",
+    "themeIds": [
+      "isekai",
+      "comedy",
+      "adventure"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 11,
+    "synopsis": "不慮の事故で命を落とした引きこもりの青年カズマは、女神アクアとともに異世界へ転生するチャンスを得るが、選んだのは強力な武器ではなくポンコツな女神本人だった。金欠と生活苦にあえぎながら、爆裂魔法しか使えない少女や残念な十字騎士など、個性的すぎる仲間たちに振り回されるドタバタ異世界コメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/この素晴らしい世界に祝福を!"
+    },
+    "sourceNote": "日本語版Wikipedia『この素晴らしい世界に祝福を!』記事、渡真仁関連の書誌情報(2026-08-02閲覧)で原作者・作画担当者・掲載誌(月刊ドラゴンエイジ、2014年10月連載開始)・アニメ化(複数期・劇場版)を確認。既刊巻数は2020年発売の11巻の情報を確認できたが最新巻数は要再確認。あらすじは自分の言葉で要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "mushoku-tensei",
+    "title": "無職転生 〜異世界行ったら本気だす〜",
+    "titleKana": "むしょくてんせい いせかいいったらほんきだす",
+    "originalAuthorIds": [
+      "rifujin-na-magonote"
+    ],
+    "artistIds": [
+      "fujikawa-yuka"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "comic-flapper",
+    "themeIds": [
+      "isekai",
+      "adventure",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 24,
+    "synopsis": "34歳の無職・ひきこもり男性は階段から転落死し、中世ヨーロッパ風の異世界でルーデウス・グレイラットとして生まれ変わる。前世の後悔を抱えたまま赤子の頃から魔術と剣術の鍛錬に励み、家族や師、仲間との出会いを通じて人として少しずつ成長していく。なろう系転生ジャンルの草分けとされる作品のコミカライズ版。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/無職転生"
+    },
+    "sourceNote": "日本語版Wikipedia『無職転生』記事(2026-08-02閲覧)で原作者・作画担当者・掲載誌(コミックフラッパー、2014年5月連載開始)・既刊巻数(24巻、2026年2月時点)・アニメ化・シリーズ累計1800万部突破を確認。あらすじは自分の言葉で要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kumo-desu-ga-nani-ka",
+    "title": "蜘蛛ですが、なにか?",
+    "titleKana": "くもですが、なにか",
+    "originalAuthorIds": [
+      "baba-okina"
+    ],
+    "artistIds": [
+      "kakashi-asahiro"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "young-ace-up",
+    "themeIds": [
+      "isekai",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 16,
+    "synopsis": "突然の爆発に巻き込まれ命を落とした日本の高校生たちは、それぞれ異世界の様々な存在に転生する。主人公は迷宮最下層で蜘蛛の魔物として目覚め、天敵だらけの過酷な環境を生き延びるべく進化を重ねていく。人族として転生した級友たちが勇者として戦う世界の運命と、蜘蛛の視点による生存劇が交錯していく異色の異世界サバイバル。",
+    "awardResults": [
+      {
+        "awardId": "piccoma-award",
+        "year": 2022,
+        "result": "IGNIS賞(コミック部門)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/蜘蛛ですが、なにか?"
+    },
+    "sourceNote": "日本語版Wikipedia『蜘蛛ですが、なにか?』記事(2026-08-02閲覧)で原作者・作画担当者・掲載誌(ヤングエースUP、2015年12月連載開始)・既刊巻数(16巻、2026年2月時点)・アニメ化(2021年)・ピッコマAWARD 2022 IGNIS賞受賞歴を確認。あらすじは自分の言葉で要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tensei-shitara-ken-deshita",
+    "title": "転生したら剣でした",
+    "titleKana": "てんせいしたらけんでした",
+    "originalAuthorIds": [
+      "tanaka-yuu"
+    ],
+    "artistIds": [
+      "maruyama-asao"
+    ],
+    "publisherId": "gentosha",
+    "labelId": "denshi-birz",
+    "themeIds": [
+      "isekai",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 19,
+    "synopsis": "気づくと剣に転生していた男は、迷宮の最奥で行き倒れていた猫耳少女フランに拾われ、彼女の得物として旅を共にすることになる。しゃべる剣という異形の身でありながら、フランの武器として、また保護者のような存在として各地を巡り、強敵との死闘を通じてともに成長していく。人ならざる者となった主人公と幼い相棒との絆を描く異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/転生したら剣でした"
+    },
+    "sourceNote": "日本語版Wikipedia『転生したら剣でした』記事、コミックシーモア・BOOK☆WALKER等の書誌情報(2026-08-02閲覧)で原作者・作画担当者・掲載媒体(でんしバーズ、2016年12月連載開始、後にcomicブーストへ移行)・単行本レーベル(バーズコミックス、幻冬舎コミックス)・既刊巻数(19巻程度、2025-2026年時点)・アニメ化(2022年、第2期2026年予定)を確認。あらすじは自分の言葉で要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "youjo-senki",
+    "title": "幼女戦記",
+    "titleKana": "ようじょせんき",
+    "originalAuthorIds": [
+      "karuro-zen"
+    ],
+    "artistIds": [
+      "tojo-chika"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "comp-ace",
+    "themeIds": [
+      "isekai",
+      "battle-action",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 34,
+    "synopsis": "成果至上主義の日本人サラリーマンは何者かに殺害された末、幼女ターニャ・デグレチャフとして魔法が存在する異世界に転生する。安全な軍属としての人生を望むも、卓越した才覚ゆえに前線への配属を繰り返され、世界大戦さながらの過酷な戦場で生き抜くことになる。転生ものと戦記ものを融合させた異色作。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/幼女戦記"
+    },
+    "sourceNote": "日本語版Wikipedia『幼女戦記』記事(2026-08-02閲覧)で原作者・作画担当者・掲載誌(月刊コンプエース、2016年6月連載開始)・既刊巻数(34巻、2026年3月時点)・アニメ化(TV版2017年、劇場版2019年)・シリーズ累計950万部超を確認。あらすじは自分の言葉で要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "honzuki-no-gekokujou",
+    "title": "本好きの下剋上",
+    "titleKana": "ほんずきのげこくじょう",
+    "originalAuthorIds": [
+      "kazuki-miya"
+    ],
+    "artistIds": [
+      "suzuka",
+      "namino-ryou",
+      "katsuki-hikaru"
+    ],
+    "publisherId": "tobooks",
+    "labelId": "niconico-manga",
+    "themeIds": [
+      "isekai",
+      "adventure"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 42,
+    "synopsis": "本に囲まれて死んだ女子大学院生は、貧しい家庭に生まれた病弱な少女マインとして異世界に転生する。この世界では本は貴重な奢侈品であり、読書好きだった前世の記憶を頼りに紙作りや印刷技術を一から生み出しながら、本のある生活を実現しようと奮闘する。司書を目指す少女の下剋上を描く異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/本好きの下剋上"
+    },
+    "sourceNote": "日本語版Wikipedia『本好きの下剋上』記事、コロナEX公式サイト(to-corona-ex.com、2026-08-02閲覧)で原作者・各部作画担当者(第一部・第二部・第五部:鈴華、第三部:波野涼、第四部:勝木光)・連載開始媒体(ニコニコ静画/ニコニコ漫画、2015年10月30日、後にcomicコロナ→コロナEXへ移行)・既刊巻数(第一部7+第二部13+第三部9+第四部12+第五部1=42巻、2026年時点)・アニメ化を確認。単行本刊行元はTOブックスだが連載開始媒体の運営元はドワンゴ(当時)のため、レーベルのpublisherIdとwork.publisherIdが一致しない(ハチミツとクローバー方式)。あらすじは自分の言葉で要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "arifureta",
+    "title": "ありふれた職業で世界最強",
+    "titleKana": "ありふれたしょくぎょうでせかいさいきょう",
+    "originalAuthorIds": [
+      "shirakome-ryou"
+    ],
+    "artistIds": [
+      "roga"
+    ],
+    "publisherId": "overlap",
+    "labelId": "comic-gardo",
+    "themeIds": [
+      "isekai",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 17,
+    "synopsis": "クラスメイトごと異世界に召喚された地味な高校生・南雲ハジメは、仲間に裏切られダンジョンの奈落へ突き落とされる。絶望の底で「錬成」という地味な能力を武器に魔物を喰らって生き延び、非情なまでに強靭な戦闘者へと変貌していく。囚われの少女ユエとの出会いを経て、仲間とともに元の世界への帰還を目指す物語。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ありふれた職業で世界最強"
+    },
+    "sourceNote": "日本語版Wikipedia『ありふれた職業で世界最強』記事、コミックガルド公式サイト・BOOK☆WALKER・ebookjapan等(2026-08-02閲覧)で原作者・作画担当者・掲載媒体(コミックガルド、2016年12月連載開始)・既刊巻数(主軸シリーズ17巻、2026年8月時点)・連載中であること・アニメ化(3期)を確認。スピンオフ・外伝巻は主軸シリーズと別集計のため既刊巻数には含めていない。あらすじは自分の言葉で要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kenja-no-mago",
+    "title": "賢者の孫",
+    "titleKana": "けんじゃのまご",
+    "originalAuthorIds": [
+      "yoshioka-tsuyoshi"
+    ],
+    "artistIds": [
+      "ogata-shunsuke"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "young-ace-up",
+    "themeIds": [
+      "isekai",
+      "comedy",
+      "battle-action",
+      "school"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 28,
+    "synopsis": "交通事故で命を落とした青年は赤ん坊として異世界に転生するが、拾われた先の育ての祖父母である賢者夫妻から、常識を教わらぬまま強力な魔法だけを叩き込まれてしまう。桁外れの魔法の腕前を持ちながら世間知らずな青年シンが、王都の魔法学院に進学し個性的な仲間たちと出会い成長していく学園異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/賢者の孫"
+    },
+    "sourceNote": "日本語版Wikipedia『賢者の孫』記事(2026-08-02閲覧)で原作者・作画担当者・掲載誌(ヤングエースUP、2016年3月連載開始)・既刊巻数(28巻、2026年2月時点)・アニメ化(2019年)を確認。あらすじは自分の言葉で要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "re-monster",
+    "title": "Re:Monster",
+    "titleKana": "りもんすたー",
+    "originalAuthorIds": [
+      "kanagiri-kogitsune"
+    ],
+    "artistIds": [
+      "kobayakawa-haruyoshi"
+    ],
+    "publisherId": "alphapolis",
+    "labelId": "alphapolis-comics",
+    "themeIds": [
+      "isekai",
+      "battle-action",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 14,
+    "synopsis": "何者かに刺殺された青年は、数ある魔物の中でも最弱とされるゴブリンとして異世界に転生してしまう。しかし他者を捕食することで能力を吸収する特殊体質に目覚め、次々と強力な魔物を喰らって進化を重ねていく。やがて配下となった多種多様な魔物たちを率い、種族の垣根を越えた一大勢力を築き上げていく、弱肉強食の異世界転生譚。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {},
+    "sourceNote": "コミックナタリー特集記事、BOOK☆WALKER・版元ドットコム・アルファポリス公式サイト(2026-08-02閲覧)で原作者・作画担当者・掲載媒体(アルファポリス公式Web漫画/アルファポリスCOMICS、2014年3月連載開始)・既刊巻数(14巻、2026年時点)・アニメ化(2024年、第2期制作決定)を確認。単独のWikipedia記事は確認できず。あらすじは自分の言葉で要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hachinan-tte-sore-wa-nai-deshou",
+    "title": "八男って、それはないでしょう!",
+    "titleKana": "はちなんって、それはないでしょう",
+    "originalAuthorIds": [
+      "y-a"
+    ],
+    "artistIds": [
+      "kusumoto-hiroki"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "kadocomi",
+    "themeIds": [
+      "isekai",
+      "adventure",
+      "comedy"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 16,
+    "synopsis": "貧乏貴族の八男として異世界に転生した日本人青年ヴェンデリンは、実家からの援助が期待できない立場ながら独学で魔法の才能を開花させる。師匠のもとで修行を積んだのち冒険者として身を立て、やがて縁あって辺境の領地を任される領主となり、開拓や人々との交流を通じて成長していく異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/八男って、それはないでしょう!"
+    },
+    "sourceNote": "日本語版Wikipedia『八男って、それはないでしょう!』記事、ニコニコ漫画・comic-walker.com掲載ページ(2026-08-02閲覧)で原作者・主流版作画担当者(楠本弘樹)・掲載媒体(カドコミ、2015年4月連載開始)・既刊巻数(楠本版16巻、2025年10月時点)・アニメ化(2020年)を確認。あらすじは自分の言葉で要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "slime-taoshite-300-nen",
+    "title": "スライム倒して300年、知らないうちにレベルMAXになってました",
+    "titleKana": "すらいむたおして300ねん、しらないうちにれべるまっくすになってました",
+    "originalAuthorIds": [
+      "morita-kisetsu"
+    ],
+    "artistIds": [
+      "shiba-yuusuke"
+    ],
+    "publisherId": "square-enix",
+    "labelId": "gangan-online",
+    "themeIds": [
+      "isekai",
+      "slice-of-life",
+      "comedy"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 17,
+    "synopsis": "過労死したOLは、不老不死の魔女アズサとして異世界に転生し、山奥でスライムを倒し続ける生活を300年間続けていた。ある日、経験値が上限に達し最強の存在になっていたことに気づく。強すぎるがゆえに大抵の危機を穏やかに解決しながら、増えていく弟子や家族とともに賑やかなスローライフを送る異世界コメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/スライム倒して300年、知らないうちにレベルMAXになってました"
+    },
+    "sourceNote": "日本語版Wikipedia『スライム倒して300年、知らないうちにレベルMAXになってました』記事(2026-08-02閲覧)で原作者・作画担当者・掲載誌(ガンガンONLINE、2017年6月連載開始)・既刊巻数(17巻、2025年12月時点)・アニメ化(2021年、第2期予定)を確認。あらすじは自分の言葉で要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hamefura",
+    "title": "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…",
+    "titleKana": "おとめげーむのはめつふらぐしかないあくやくれいじょうにてんせいしてしまった",
+    "originalAuthorIds": [
+      "yamaguchi-satoru"
+    ],
+    "artistIds": [
+      "hidaka-nami"
+    ],
+    "publisherId": "ichijinsha",
+    "labelId": "comic-zero-sum",
+    "themeIds": [
+      "isekai",
+      "romance",
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 13,
+    "synopsis": "転倒した拍子に前世の記憶を取り戻した公爵令嬢カタリナは、自分が愛読していた乙女ゲームの世界に転生し、しかもプレイヤーを破滅させる「悪役令嬢」であることに気づく。待ち受ける数々のバッドエンドを回避すべく奔走するうち、持ち前の明るさで攻略対象や周囲の人々から次第に慕われていく学園ラブコメディ。",
+    "awardResults": [
+      {
+        "awardId": "next-manga-award",
+        "year": 2019,
+        "result": "コミックス部門第4位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…"
+    },
+    "sourceNote": "日本語版Wikipedia『乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…』記事(2026-08-02閲覧)で原作者・作画担当者・掲載誌(コミックZERO-SUM、2017年10月号連載開始)・既刊巻数(13巻、2026年5月時点)・アニメ化(2期・劇場版)・次にくるマンガ大賞2019コミックス部門第4位を確認。あらすじは自分の言葉で要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kuma-kuma-kuma-bear",
+    "title": "くまクマ熊ベアー",
+    "titleKana": "くまくまくまべあー",
+    "originalAuthorIds": [
+      "kuma-nano"
+    ],
+    "artistIds": [
+      "serugei"
+    ],
+    "publisherId": "shufu-to-seikatsusha",
+    "labelId": "comic-pash",
+    "themeIds": [
+      "isekai",
+      "comedy",
+      "slice-of-life",
+      "adventure"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 14,
+    "synopsis": "VRMMOゲームの廃人プレイヤーだった引きこもりの少女ユナは、ゲーム内の運営特典であった「くまの着ぐるみ」一式を装備したまま、ゲーム世界そのものである異世界に召喚されてしまう。見た目こそ着ぐるみ姿だが凄まじい性能を誇る装備を活かし、冒険者として活動しながら異世界でスローライフを満喫していく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/くまクマ熊ベアー"
+    },
+    "sourceNote": "日本語版Wikipedia『くまクマ熊ベアー』記事(2026-08-02閲覧)で原作者・メイン連載版作画担当者(せるげい)・掲載媒体(コミックPASH!、2018年3月連載開始、後にPASH UP!へ改称)・既刊巻数(メイン連載14巻、2026年6月時点)・アニメ化(2期)を確認。あらすじは自分の言葉で要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "death-march-kara-hajimaru-isekai-kyousoukyoku",
+    "title": "デスマーチからはじまる異世界狂想曲",
+    "titleKana": "ですまーちからはじまるいせかいきょうそうきょく",
+    "originalAuthorIds": [
+      "aishichi-hiro"
+    ],
+    "artistIds": [
+      "ayamegumu"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "age-premium",
+    "themeIds": [
+      "isekai",
+      "adventure",
+      "comedy"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 19,
+    "synopsis": "ゲーム開発会社のプログラマーだった青年は、長時間労働の末に眠りに落ち、そのままかつて自身が関わっていたゲームそっくりの異世界に転移してしまう。初心者救済システムのおかげで規格外の強さを得た主人公は、争いを避けたい性分から、戦闘よりも異世界各地の観光やグルメを楽しむことを優先しながら旅を続けていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/デスマーチからはじまる異世界狂想曲"
+    },
+    "sourceNote": "日本語版Wikipedia『デスマーチからはじまる異世界狂想曲』記事(2026-08-02閲覧)で原作者・作画担当者・連載開始媒体(エイジプレミアム、2014年12月)・単行本レーベル(ドラゴンコミックスエイジ)・既刊巻数(19巻以上、2026年時点)・アニメ化(2018年)・シリーズ累計850万部突破を確認。あらすじは自分の言葉で要約。",
+    "updatedAt": "2026-08-02"
   }
 ]

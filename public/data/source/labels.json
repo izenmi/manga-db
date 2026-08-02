@@ -1366,5 +1366,113 @@
     },
     "sourceNote": "日本語版Wikipedia『まんがで読破』記事(2026-08-02閲覧)で刊行期間(2007-2020年)・刊行元(イースト・プレス)を確認。『ドグラ・マグラ』(夢野久作原作)は同シリーズの1冊として2008年刊行。単行本描き下ろしのため連載媒体ではなくレーベル(叢書)扱いとした。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "comic-flapper",
+    "name": "コミックフラッパー",
+    "nameKana": "こみっくふらっぱー",
+    "publisherId": "kadokawa",
+    "description": "KADOKAWAが刊行する漫画雑誌。前身はメディアファクトリー発行の同名誌。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/コミックフラッパー"
+    },
+    "sourceNote": "日本語版Wikipedia『盾の勇者の成り上がり』『無職転生』各記事(2026-08-02閲覧)の掲載誌情報より、両作のコミカライズ初出誌として存在を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "dragon-age",
+    "name": "月刊ドラゴンエイジ",
+    "nameKana": "げっかんどらごんえいじ",
+    "publisherId": "kadokawa",
+    "description": "KADOKAWAが刊行する漫画雑誌。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ドラゴンコミックスエイジ"
+    },
+    "sourceNote": "日本語版Wikipedia『この素晴らしい世界に祝福を!』記事、KADOKAWA公式サイト(2026-08-02閲覧)で『このすば』コミカライズ(渡真仁版)の連載開始誌(2014年10月)であることを確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "denshi-birz",
+    "name": "でんしバーズ",
+    "nameKana": "でんしばーず",
+    "publisherId": "gentosha",
+    "description": "幻冬舎コミックスが運営していたWebコミック配信サイト。後にリニューアルし「comicブースト」となった。",
+    "externalLinks": {},
+    "sourceNote": "コミックシーモア・BOOK☆WALKER等の書誌情報(2026-08-02閲覧)で『転生したら剣でした』が2016年12月にでんしバーズで連載開始し、後にcomicブーストへ移行したことを確認。単独のWikipedia記事は確認できず。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "comic-gardo",
+    "name": "コミックガルド",
+    "nameKana": "こみっくがると",
+    "publisherId": "overlap",
+    "description": "オーバーラップが運営するWebコミックサイト。2016年12月に前身の「オーバーラップComicONLINE」をリニューアルする形で創刊。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/コミックガルド"
+    },
+    "sourceNote": "日本語版Wikipedia『コミックガルド』記事(2026-08-02閲覧)で運営元・創刊経緯(2016年12月)を確認。『ありふれた職業で世界最強』コミカライズの連載開始(2016年12月)と時期が一致することを確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "alphapolis-comics",
+    "name": "アルファポリスCOMICS",
+    "nameKana": "あるふぁぽりすこみっくす",
+    "publisherId": "alphapolis",
+    "description": "アルファポリスの漫画単行本レーベル。同社運営の公式Web漫画サイト掲載作品を中心に刊行する。",
+    "externalLinks": {},
+    "sourceNote": "アルファポリス公式サイト内『Re:Monster』公式Web漫画ページ、BOOK☆WALKER書誌情報(2026-08-02閲覧)でレーベル名・刊行元を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kadocomi",
+    "name": "カドコミ",
+    "nameKana": "かどこみ",
+    "publisherId": "kadokawa",
+    "description": "KADOKAWAが運営するWebコミック閲覧サービス(コミックウォーカー内のブランドの一つ)。",
+    "externalLinks": {},
+    "sourceNote": "ニコニコ漫画掲載ページ・comic-walker.com内の作品ページ(2026-08-02閲覧)で『八男って、それはないでしょう!』の連載開始媒体(2015年4月)であることを確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "comic-zero-sum",
+    "name": "コミックZERO-SUM",
+    "nameKana": "こみっくぜろさむ",
+    "publisherId": "ichijinsha",
+    "description": "一迅社が刊行する漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…』記事(2026-08-02閲覧)の掲載誌情報より、連載開始誌(2017年10月号)として存在を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "comic-pash",
+    "name": "コミックPASH!",
+    "nameKana": "こみっくぱっしゅ",
+    "publisherId": "shufu-to-seikatsusha",
+    "description": "主婦と生活社が運営していたWebコミック媒体。後にリニューアルし「PASH UP!」となった。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『くまクマ熊ベアー』記事(2026-08-02閲覧)で『くまクマ熊ベアー』コミカライズの連載開始媒体(2018年3月、当時の誌名コミックPASH!)であることを確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "age-premium",
+    "name": "エイジプレミアム",
+    "nameKana": "えいじぷれみあむ",
+    "publisherId": "kadokawa",
+    "description": "KADOKAWAが運営していたWebコミック媒体。",
+    "externalLinks": {},
+    "sourceNote": "コミックシーモア・BOOK☆WALKER等の書誌情報(2026-08-02閲覧)で『デスマーチからはじまる異世界狂想曲』コミカライズの連載開始媒体(2014年12月)であることを確認。単行本は現在ドラゴンコミックスエイジ(月刊ドラゴンエイジと同じKADOKAWA系列)から刊行されている。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "niconico-manga",
+    "name": "ニコニコ静画(ニコニコ漫画)",
+    "nameKana": "にこにこせいが",
+    "publisherId": "dwango",
+    "description": "ドワンゴが運営するイラスト・漫画投稿閲覧サービス。「ニコニコ漫画」はサイト内の漫画投稿カテゴリの呼称。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ニコニコ静画"
+    },
+    "sourceNote": "日本語版Wikipedia『ニコニコ静画』記事(2026-08-02閲覧)で運営元(ドワンゴ)・サービス概要を確認。『本好きの下剋上』コミカライズ第一部の連載開始媒体(2015年10月30日)であることをWikipedia『本好きの下剋上』記事で確認。",
+    "updatedAt": "2026-08-02"
   }
 ]
