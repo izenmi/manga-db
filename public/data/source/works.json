@@ -5810,5 +5810,442 @@
     },
     "sourceNote": "日本語版Wikipedia『富江』記事(2026-08-02閲覧)で確認。『月刊ハロウィン』(朝日ソノラマ)の第1回楳図かずお賞佳作入選作としてデビューし、1987年〜2000年に同誌・『ネムキ』等で断続連載。単行本は『伊藤潤二傑作集』(朝日新聞出版)全2巻(上・下)。作画家は既存id ito-junji(うずまき登録済み)を再利用、オリジナル作品のためoriginalAuthorIdsは空配列。楳図かずお賞は既存賞パレット外のため受賞歴には未登録(空配列)。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kinou-nani-tabeta",
+    "title": "きのう何食べた?",
+    "titleKana": "きのうなにたべた",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yoshinaga-fumi"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "gourmet",
+      "slice-of-life",
+      "romance"
+    ],
+    "firstPublishedYear": 2007,
+    "status": "ongoing",
+    "volumeCount": 25,
+    "synopsis": "倹約家の弁護士・筧史朗と美容師の恋人・矢吹賢二による同性カップルの日常を、丁寧な自炊料理とともに描く連作。仕事帰りにスーパーで安売り食材を選び手早く美味しい献立を作る史朗の姿を軸に、親との関係や老いへの不安、周囲のカミングアウトなど現実的なテーマも静かに織り込んでいく。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2019,
+        "result": "第43回一般部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/きのう何食べた?"
+    },
+    "sourceNote": "日本語版Wikipedia『きのう何食べた?』記事(2026-08-02閲覧)で作者(よしながふみ、オリジナル作品)・モーニング(講談社)にて2007年12号から連載中・既刊25巻(2026年2月時点)・第43回講談社漫画賞一般部門受賞(2019年)を確認。テレビアニメ化はされておらず実写ドラマ(2019年・2023年)・映画化(2021年)のみであることも確認したためmediaMix.anime:falseとした。『芸術選奨文部科学大臣新人賞』(2022年)受賞の記載もあったが本DBの登録対象賞リストにある文化庁メディア芸術祭とは別の賞のため不採用。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shirokuma-cafe",
+    "title": "しろくまカフェ",
+    "titleKana": "しろくまかふぇ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "higa-aloha"
+    ],
+    "publisherId": "shogakukan",
+    "themeIds": [
+      "slice-of-life",
+      "comedy"
+    ],
+    "firstPublishedYear": 2006,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "synopsis": "のんびり屋のしろくまが営む喫茶店を舞台に、パンダやペンギンなど個性豊かな動物たちが繰り広げる脱力系の日常コメディ。動物園に就職したばかりのパンダ青年を狂言回しに、駄洒落好きなしろくまマスターとの掛け合いや常連客との他愛ない会話を通じ、ゆるく笑える一話完結の物語が続く。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/しろくまカフェ"
+    },
+    "sourceNote": "日本語版Wikipedia『しろくまカフェ』記事(2026-08-02閲覧)で作者(ヒガアロハ、オリジナル作品、本作がデビュー作)・月刊flowers(小学館)にて2006年4月号〜2013年5月号連載・テレビアニメ化(2012年〜2013年、全50話)を確認。2014年9月からCocohana(集英社)にて続編『しろくまカフェ today's special』が別題で連載中だが本エントリとは別作品として扱い、元連載終了時点(2013年)をlatestPublishedYearとしstatus:completedとした。作品自体の漫画賞受賞は確認できず(2006年の『コミックオーディション銀の花賞』はデビュー新人賞のため本DB対象外)、awardResultsは空欄。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yuru-camp",
+    "title": "ゆるキャン△",
+    "titleKana": "ゆるきゃん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "afro"
+    ],
+    "publisherId": "houbunsha",
+    "themeIds": [
+      "slice-of-life",
+      "adventure",
+      "comedy"
+    ],
+    "firstPublishedYear": 2015,
+    "status": "ongoing",
+    "volumeCount": 18,
+    "synopsis": "一人でのんびりキャンプを楽しむのが好きな女子高生・各務原なでしこが、同好の志摩リンや野外活動サークルの仲間たちと出会い、山梨・静岡周辺の実在するキャンプ場を巡っていく。焚き火や野外調理などキャンプの具体的な手順を丁寧に描きながら、少女たちの穏やかな友情を描く日常もの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゆるキャン△"
+    },
+    "sourceNote": "日本語版Wikipedia『ゆるキャン△』記事(2026-08-02閲覧)で作者(あfろ、オリジナル作品)・まんがタイムきららフォワード(芳文社)にて2015年開始、2019年からはCOMIC FUZ(Web)に移行して連載中・既刊18巻(2025年11月時点)・テレビアニメ化(複数シーズン)を確認。一部情報源に『マンガ大賞2018』受賞との記載があったが、日本語版Wikipedia『マンガ大賞』記事の第1回〜第19回の受賞・ノミネート全リストを確認したところ『ゆるキャン△』は一切登場せず誤情報と判断し不採用とした(awardResultsは空欄)。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "asobi-asobase",
+    "title": "あそびあそばせ",
+    "titleKana": "あそびあそばせ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "suzukawa-rin"
+    ],
+    "publisherId": "hakusensha",
+    "themeIds": [
+      "comedy",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 15,
+    "synopsis": "リア充になりたい一心で「遊び人研究会」を設立した本田華子が、帰国子女のオリヴィアや無口な野村香純を巻き込み、変顔や罰ゲームまみれの遊びに興じる女子中学生3人組のドタバタコメディ。可憐な絵柄とは裏腹に繰り出される容赦ないシュールギャグが持ち味。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/あそびあそばせ"
+    },
+    "sourceNote": "日本語版Wikipedia『あそびあそばせ』記事(2026-08-02閲覧)で作者(涼川りん、オリジナル作品)・ヤングアニマル系列(白泉社)にて2015年5月〜2022年11月連載・全15巻完結・テレビアニメ化(2018年、全12話+OVA3話)を確認。作品自体の漫画賞受賞の記載は見当たらずawardResultsは空欄。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yowamushi-pedal",
+    "title": "弱虫ペダル",
+    "titleKana": "よわむしぺだる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "watanabe-wataru"
+    ],
+    "publisherId": "akita-shoten",
+    "themeIds": [
+      "sports",
+      "school"
+    ],
+    "firstPublishedYear": 2008,
+    "status": "ongoing",
+    "synopsis": "アニメオタクの小野田坂道は、アニメショップ通いのため培った驚異的な脚力を同級生に見出され、総北高校自転車競技部に入部する。個性的なライバルたちとしのぎを削りながらインターハイ優勝を目指す、坂道たちの成長を描く自転車ロードレース青春譚。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2015,
+        "result": "第39回少年部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/弱虫ペダル"
+    },
+    "sourceNote": "日本語版Wikipedia『弱虫ペダル』記事(2026-08-02閲覧)で作者(渡辺航、オリジナル作品)・週刊少年チャンピオン(秋田書店)にて2008年12号から連載中・第39回講談社漫画賞少年部門受賞(2015年、秋田書店作品としては1977年『ブラック・ジャック』以来の受賞と記事に記載)・テレビアニメ化を確認。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "high-score-girl",
+    "title": "ハイスコアガール",
+    "titleKana": "はいすこあがーる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "oshikiri-rensuke"
+    ],
+    "publisherId": "square-enix",
+    "themeIds": [
+      "romance",
+      "slice-of-life",
+      "comedy"
+    ],
+    "firstPublishedYear": 2010,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "1990年代のゲームセンター文化を背景に、ゲームだけが取り柄の小学生・矢口春雄が、成績優秀なお嬢様・大野晶と対戦格闘ゲームを通じて出会う。言葉を発しない晶との不思議な交流を軸に、当時実在したゲームタイトルへの愛情とともに二人の関係の変化を長年にわたり描く。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2013,
+        "result": "オトコ編2位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ハイスコアガール"
+    },
+    "sourceNote": "日本語版Wikipedia『ハイスコアガール』記事(2026-08-02閲覧)で作者(押切蓮介、オリジナル作品)・増刊ヤングガンガン等(スクウェア・エニックス)にて2010年〜2018年連載・完結・『このマンガがすごい!2013』オトコ編2位・テレビアニメ化(2018年・2019年、Netflix配信あり)を確認。2012年『ブロスコミックアワード』大賞の情報もあったが本DB対象賞リストにないため不採用。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "relife",
+    "title": "ReLIFE",
+    "titleKana": "りらいふ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yayoi-sou"
+    ],
+    "publisherId": "earth-star-entertainment",
+    "themeIds": [
+      "slice-of-life",
+      "school",
+      "comedy",
+      "romance"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 15,
+    "synopsis": "就職に失敗し無職のまま27歳になった海崎新太は、謎の研究機関から高校生に若返る薬を渡され、1年間限定で高校生活をやり直す社会復帰実験に参加する。年齢を偽り新入生として通うクラスで同級生たちと関わりながら、新太自身が自分の将来と向き合っていく姿を描く。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2015,
+        "result": "第39回一般部門ノミネート"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ReLIFE"
+    },
+    "sourceNote": "日本語版Wikipedia『ReLIFE』記事(2026-08-02閲覧)で作者(夜宵草、オリジナル作品)・スマホ漫画アプリcomicoにて2013年10月〜2018年3月連載・単行本(アース・スターコミックス)全15巻・第39回講談社漫画賞一般部門ノミネート(2015年、受賞は逃す)・テレビアニメ化(2016年7月〜9月、全13話+OVA4話)を確認。出版社『アース・スター エンターテイメント』は本DB初登録のためnewPublishersに追加。comicoはWeb漫画プラットフォームとして本DBのWebComicPlatform型に未実装のためwebComicSourceは設定せず。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "domestic-na-kanojo",
+    "title": "ドメスティックな彼女",
+    "titleKana": "どめすてぃっくなかのじょ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "sasuga-kei"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "romance",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 28,
+    "synopsis": "小説家を志す高校生・藤井夏生は、新任教師となった片想いの相手・橘陽菜と、合コンで一夜を共にした橘瑠衣の間で揺れ動く。まもなく夏生の父と瑠衣の母が再婚し、夏生と瑠衣・陽菜は義理の家族となってしまう。禁じられた三角関係を軸に、不倫やLGBTなど重いテーマも扱う恋愛作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ドメスティックな彼女"
+    },
+    "sourceNote": "日本語版Wikipedia『ドメスティックな彼女』記事(2026-08-02閲覧)で作者(流石景、オリジナル作品)・週刊少年マガジン(講談社)にて2014年4月〜2020年6月連載・全28巻完結・累計発行部数500万部突破・テレビアニメ化(2019年1月〜3月、全12話)を確認。作品自体の漫画賞受賞の記載は見当たらずawardResultsは空欄。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ao-no-hako",
+    "title": "アオのハコ",
+    "titleKana": "あおのはこ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "miura-kouji"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "sports",
+      "school",
+      "romance"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2026,
+    "status": "completed",
+    "synopsis": "バドミントン部の高校生・猪股大喜は、憧れの先輩でバスケ部の鹿野珠代と同じ家に下宿することになり、日々の暮らしの中で淡い恋心を募らせていく。それぞれ異なる部活動で全国大会を目指す二人の青春と、じれったい恋の行方を並行して描くスポーツ×恋愛作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アオのハコ"
+    },
+    "sourceNote": "日本語版Wikipedia『アオのハコ』記事およびWeb検索(2026-08-02閲覧)で作者(三浦糀、オリジナル作品)・週刊少年ジャンプ(集英社、少年ジャンプ+ではなく紙の本誌)にて2020年35号の読切掲載を経て2021年19号から連載開始・2026年33号で完結・テレビアニメ化(クランチロール・アニメアワード2025でBest Romance Work受賞)を確認。連載媒体が少年ジャンプ+ではないためwebComicSourceは設定せず。『次にくるマンガ大賞』『TSUTAYAコミック大賞』『三洋堂書店コミックアワード』はいずれも本DB未登録の賞のため不採用。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "akagi",
+    "title": "アカギ",
+    "titleKana": "あかぎ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "fukumoto-nobuyuki"
+    ],
+    "publisherId": "takeshobo",
+    "themeIds": [
+      "gambling",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 1992,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 36,
+    "synopsis": "麻雀のいかさま師と疑われ命を狙われたヤクザの賭場に、家出中の中学生・赤木しげるが単身乗り込む。並外れた読みと胆力で圧倒的な強さを見せつけた赤木は、以後も命を賭けた麻雀勝負を渡り歩いていく。『賭博黙示録カイジ』と同じ作者による、麻雀を通じた極限の心理戦を描く伝説的作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アカギ_(漫画)"
+    },
+    "sourceNote": "日本語版Wikipedia『アカギ〜闇に降り立った天才〜』記事(2026-08-02閲覧)で作者(福本伸行、既存artist id『fukumoto-nobuyuki』を再利用、オリジナル作品)・近代麻雀(竹書房)にて1992年4月〜2018年3月連載・全36巻完結・テレビアニメ化(2005年〜2006年『闘牌伝説アカギ』全26話)を確認。出版社『竹書房』・テーマ『gambling』は並行実行中の他バッチで既に本DBに追加済みのため既存idをそのまま再利用した。『賭博黙示録カイジ』と同一作者だが別作品として新規登録し、原作者・作画家の重複登録はしていない。作品自体の漫画賞受賞の記載は見当たらずawardResultsは空欄。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "saki",
+    "title": "咲-Saki-",
+    "titleKana": "さき",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kobayashi-ritsu"
+    ],
+    "publisherId": "square-enix",
+    "themeIds": [
+      "gambling",
+      "school",
+      "sports"
+    ],
+    "firstPublishedYear": 2006,
+    "status": "ongoing",
+    "volumeCount": 27,
+    "synopsis": "麻雀が苦手だと嘘をつき本気を隠して生きてきた女子高生・宮永咲は、清澄高校麻雀部に誘われたことをきっかけに実力を解放していく。全国大会出場を目指す部員たちとの絆を深めながら、常識外れの手役や個性的な能力を持つ強豪校のライバルたちと激突する、麻雀を競技として描く学園部活もの。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/咲-Saki-"
+    },
+    "sourceNote": "日本語版Wikipedia『咲-Saki-』記事(2026-08-02閲覧)で作者(小林立、オリジナル作品)・ヤングガンガン(スクウェア・エニックス)にて2006年開始、既刊27巻(2026年3月時点)で連載中・テレビアニメ化(2009年本編、2012年『阿知賀編』、2014年『全国編』)を確認。作品本編の漫画賞・ランキング受賞(実写映画ランキング等ではなく)の記載は見当たらずawardResultsは空欄。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "meshi-ni-shimashou",
+    "title": "めしにしましょう",
+    "titleKana": "めしにしましょう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kobayashi-douchuu"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "gourmet",
+      "workplace-drama",
+      "comedy"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 8,
+    "synopsis": "売れっ子漫画家のもとでチーフアシスタントを務める青梅川栄治は、締切に追われるアシスタントたちのため、限られた時間と道具で工夫を凝らした「やりすぎ」なほど本格的な料理を振る舞う。仕事場の一角で繰り広げられる調理描写に徹した、実践的なレシピ漫画。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/めしにしましょう"
+    },
+    "sourceNote": "日本語版Wikipedia『めしにしましょう』記事(2026-08-02閲覧)で作者(小林銅蟲、オリジナル作品、商業連載デビュー作)・イブニング(講談社)にて2016年6月〜2019年6月連載・全8巻・全80話完結を確認。テレビアニメ化の記載はなくmediaMix.anime:falseとした。作品自体の受賞歴の記載は見当たらずawardResultsは空欄。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ousama-tachi-no-viking",
+    "title": "王様達のヴァイキング",
+    "titleKana": "おうさまたちのばいきんぐ",
+    "originalAuthorIds": [
+      "fukami-makoto"
+    ],
+    "artistIds": [
+      "sadayasu"
+    ],
+    "publisherId": "shogakukan",
+    "themeIds": [
+      "workplace-drama",
+      "adventure"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 19,
+    "synopsis": "天才的なハッキング技術を持ちながら人付き合いが苦手な是枝紅麻は、資産家の投資家・咲坂晃と出会い、その資金力を武器にIT業界での成り上がりを目指す。既得権益にしがみつく既存企業を出し抜きながら、ネットとリアルの両面でビジネス戦争を仕掛けていく、頭脳戦型の経済アクション。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2015,
+        "result": "第8回ノミネート(上位10作品、35P)"
+      },
+      {
+        "awardId": "bunkacho-media-geijutsusai",
+        "year": 2014,
+        "result": "第18回マンガ部門審査委員会推薦作品"
+      }
+    ],
+    "mediaMix": {
+      "anime": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/王様達のヴァイキング"
+    },
+    "sourceNote": "日本語版Wikipedia『王様達のヴァイキング』記事(2026-08-02閲覧)で作画:さだやす/ストーリー協力:深見真というクレジット・ビッグコミックスピリッツ(小学館)にて2013年14号〜2019年39号連載・全19巻完結・第18回文化庁メディア芸術祭マンガ部門審査委員会推薦作品を確認。深見真は単行本上『ストーリー協力』表記だが作画者と別人の原作担当者であるためoriginalAuthorIdsに計上し新規登録(fukami-makoto)。日本語版Wikipedia『マンガ大賞』記事(2026-08-02閲覧)で第8回(2015年)マンガ大賞のノミネート作品(35P、上位10作品相当)として掲載されていることも確認した。賞『manga-taisho』は並行実行中の他バッチで既に本DBに追加済みのため既存idをそのまま再利用した。テレビアニメ化の記載はなく(映像化はdTVムービーコミックのみ)mediaMix.anime:falseとした。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hachiwan-diver",
+    "title": "ハチワンダイバー",
+    "titleKana": "はちわんだいばー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "shibata-yokusaru"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "suspense-psychological",
+      "sports"
+    ],
+    "firstPublishedYear": 2006,
+    "latestPublishedYear": 2014,
+    "status": "completed",
+    "volumeCount": 35,
+    "synopsis": "将棋のプロ養成機関「奨励会」を年齢制限で退会した菅田天正は、賞金を賭けた非公式の真剣師として将棋を指しながら生計を立てていた。裏社会の匂いが漂う真剣勝負の世界で腕を磨く天正は、やがて将棋界の暗部を牛耳る謎の組織の存在に近づいていく、将棋を題材にした異色の勝負劇画。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2008,
+        "result": "オトコ編1位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ハチワンダイバー"
+    },
+    "sourceNote": "日本語版Wikipedia『ハチワンダイバー』記事(2026-08-02閲覧)で作者(柴田ヨクサル、オリジナル作品)・週刊ヤングジャンプ(集英社)にて2006年41号〜2014年33号連載・全35巻・全375話完結・『このマンガがすごい!2008』オトコ編1位を確認。テレビアニメ化はされておらずテレビドラマ化(2008年、フジテレビ)・ゲーム化・パチンコ化のみであることを確認したためmediaMix.anime:falseとした。指示に従いテーマはgamblingではなくsuspense-psychologicalを付与。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
   }
 ]

@@ -1787,5 +1787,147 @@
     "externalLinks": {},
     "sourceNote": "講談社コミックプラス公式サイト・書誌情報サイト(2026-08-02閲覧)で「リング」の作画者名・掲載誌情報を確認。詳細な経歴・生年は未確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yoshinaga-fumi",
+    "name": "よしながふみ",
+    "nameKana": "よしながふみ",
+    "description": "「大奥」「きのう何食べた?」等で知られる漫画家。少女漫画・青年漫画双方で活躍し、LGBTQを扱う作品でも高く評価されている。",
+    "birthYear": 1971,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/よしながふみ"
+    },
+    "sourceNote": "日本語版Wikipedia『よしながふみ』記事(2026-08-02閲覧)で生年(1971年)・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "higa-aloha",
+    "name": "ヒガアロハ",
+    "nameKana": "ひがあろは",
+    "description": "『しろくまカフェ』が漫画家デビュー作の漫画家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『しろくまカフェ』記事(2026-08-02閲覧)で作者名およびデビュー作である旨(2006年第22回コミックオーディション銀の花賞受賞)を確認。個人プロフィールの詳細は確認できず。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "afro",
+    "name": "あfろ",
+    "nameKana": "あふろ",
+    "description": "『ゆるキャン△』の作者。キャンプなどアウトドア題材を得意とする漫画家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『ゆるキャン△』記事(2026-08-02閲覧)で作者名を確認。個人プロフィールの詳細は未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "suzukawa-rin",
+    "name": "涼川りん",
+    "nameKana": "すずかわりん",
+    "description": "『あそびあそばせ』の作者。可愛らしい絵柄とシュールなギャグの落差が持ち味の漫画家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/あそびあそばせ"
+    },
+    "sourceNote": "日本語版Wikipedia『あそびあそばせ』記事(2026-08-02閲覧)で作者名を確認。生年等個人プロフィールは記事に記載なく未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "watanabe-wataru",
+    "name": "渡辺航",
+    "nameKana": "わたなべわたる",
+    "description": "『弱虫ペダル』の作者。自転車ロードレースを題材にした青春漫画で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/弱虫ペダル"
+    },
+    "sourceNote": "日本語版Wikipedia『弱虫ペダル』記事(2026-08-02閲覧)で作者名を確認。個人の生年等プロフィール詳細は未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "oshikiri-rensuke",
+    "name": "押切蓮介",
+    "nameKana": "おしきりれんすけ",
+    "description": "『ハイスコアガール』『でろでろ』等で知られる漫画家。90年代ゲーム文化への深い愛着を作品に反映させている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ハイスコアガール"
+    },
+    "sourceNote": "日本語版Wikipedia『ハイスコアガール』記事(2026-08-02閲覧)で作者名を確認。個人の生年等プロフィール詳細は未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yayoi-sou",
+    "name": "夜宵草",
+    "nameKana": "やよいそう",
+    "description": "『ReLIFE』の作者。スマホ漫画アプリ「comico」出身の漫画家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/夜宵草"
+    },
+    "sourceNote": "日本語版Wikipedia『夜宵草』および『ReLIFE』記事(2026-08-02閲覧)で作者名・comico連載であることを確認。生年等個人プロフィール詳細は記事に記載なく未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "sasuga-kei",
+    "name": "流石景",
+    "nameKana": "さすがけい",
+    "birthYear": 1981,
+    "description": "『ドメスティックな彼女』の作者。禁じられた三角関係を描く恋愛漫画で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/流石景"
+    },
+    "sourceNote": "日本語版Wikipedia『流石景』記事(2026-08-02閲覧)で生年(1981年10月6日)・読み方・代表作を確認。既存登録の原作者id『sasuga-yuu』(貴家悠、テラフォーマーズ原作者)とは別人であることを確認済み。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "miura-kouji",
+    "name": "三浦糀",
+    "nameKana": "みうらこうじ",
+    "description": "『アオのハコ』の作者。週刊少年ジャンプでスポーツ×恋愛を描く漫画家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アオのハコ"
+    },
+    "sourceNote": "日本語版Wikipedia『アオのハコ』記事(2026-08-02閲覧)で作者名・週刊少年ジャンプ連載であることを確認。個人の生年等プロフィール詳細は未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kobayashi-ritsu",
+    "name": "小林立",
+    "nameKana": "こばやしりつ",
+    "description": "『咲-Saki-』の作者。麻雀を題材にした学園競技漫画で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/咲-Saki-"
+    },
+    "sourceNote": "日本語版Wikipedia『咲-Saki-』記事(2026-08-02閲覧)で作者名・ヤングガンガン(スクウェア・エニックス)連載であることを確認。個人の生年等プロフィール詳細は未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kobayashi-douchuu",
+    "name": "小林銅蟲",
+    "nameKana": "こばやしどうちゅう",
+    "description": "『めしにしましょう』の作者。漫画家アシスタント経験を活かした料理漫画で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/めしにしましょう"
+    },
+    "sourceNote": "日本語版Wikipedia『めしにしましょう』記事(2026-08-02閲覧)で作者名を確認。個人の生年等プロフィール詳細は未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "sadayasu",
+    "name": "さだやす",
+    "nameKana": "さだやす",
+    "description": "『王様達のヴァイキング』の作画を担当する漫画家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/王様達のヴァイキング"
+    },
+    "sourceNote": "日本語版Wikipedia『王様達のヴァイキング』記事(2026-08-02閲覧)で作画担当者名を確認。個人の生年等プロフィール詳細は未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shibata-yokusaru",
+    "name": "柴田ヨクサル",
+    "nameKana": "しばたよくさる",
+    "birthYear": 1972,
+    "description": "『エアマスター』『ハチワンダイバー』等で知られる漫画家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/柴田ヨクサル"
+    },
+    "sourceNote": "日本語版Wikipedia『柴田ヨクサル』記事(2026-08-02閲覧)で生年(1972年7月1日)・代表作を確認。",
+    "updatedAt": "2026-08-02"
   }
 ]
