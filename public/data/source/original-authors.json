@@ -729,5 +729,17 @@
     },
     "sourceNote": "日本語版Wikipedia『監査役野崎修平』記事(2026-08-02閲覧)で原作者としてのクレジットを確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kawahara-kazune",
+    "name": "河原和音",
+    "nameKana": "かわはらかずね",
+    "description": "漫画家(原作者)。北海道滝川市出身。1991年『別冊マーガレット』掲載の読切「彼のいちばん好きな人」でデビュー。『先生!』『高校デビュー』『青空エール』等を執筆し、『俺物語!!』では作画のアルコと組んで原作を担当した。",
+    "birthYear": 1972,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/河原和音"
+    },
+    "sourceNote": "日本語版Wikipedia『河原和音』記事(2026-08-02閲覧)で生年・出身・代表作・『俺物語!!』での原作担当を確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

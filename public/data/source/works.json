@@ -10339,5 +10339,389 @@
     },
     "sourceNote": "日本語版Wikipedia『監査役野崎修平』記事(2026-08-02閲覧)で原作周良貨・作画能田茂、MANGAオールマン(集英社)1998年17号連載開始、全12巻、同誌休刊(2002年)後はビジネスジャンプに移籍し2003年完結(その後『銀行大合併編』全4巻・続編『頭取野崎修平』全10巻)、2018年WOWOWでテレビドラマ化(織田裕二主演)、2020年続編ドラマ化を確認。漫画賞の受賞歴は確認できずawardResultsは空。firstPublishedYear/latestPublishedYear/volumeCountは第1部『監査役野崎修平』(1998〜2003年、全12巻)のみを対象とし、後続の『銀行大合併編』『頭取野崎修平』は含めていない。あらすじは自分の言葉で要約(コピペなし)。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ore-monogatari",
+    "title": "俺物語!!",
+    "titleKana": "おれものがたり",
+    "originalAuthorIds": [
+      "kawahara-kazune"
+    ],
+    "artistIds": [
+      "aruko"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "bessatsu-margaret",
+    "themeIds": [
+      "school",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 14,
+    "synopsis": "体格も気合いも規格外の高校1年生・剛田猛男は、義理堅く優しい性格で男子には慕われるが、強面ゆえに女子には縁がない。痴漢から助けた大和凛子に恋するも、当初は端正な容姿の親友・砂川誠が想い人だと勘違いしてしまう。誤解が解けて交際が始まった後も、不器用ながら一途にお互いを想い合い、初めてのデートや記念日を一つずつ大切に重ねていく二人の初々しい恋愛模様を描く。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2013,
+        "result": "少女部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/俺物語!!"
+    },
+    "sourceNote": "日本語版Wikipedia『俺物語!!』記事およびWeb検索(2026-08-02閲覧)で、原作河原和音・作画アルコ、掲載誌『別冊マーガレット』、連載期間(2012年1月号-2016年8月号)、全14巻、2013年講談社漫画賞少女部門受賞、2015年アニメ化を確認。あらすじは独自要約(コピペなし)。一部情報源にあった『2016年小学館漫画賞』受賞の記載は河原和音の別作品『素敵な彼氏』(2019年受賞)との混同の可能性が高く裏取りできなかったため不採用とした。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kaichou-wa-maid-sama",
+    "title": "会長はメイド様!",
+    "titleKana": "かいちょうはめいどさま",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "fujiwara-hiro"
+    ],
+    "publisherId": "hakusensha",
+    "labelId": "lala",
+    "themeIds": [
+      "school",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2006,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 18,
+    "synopsis": "男子が大多数を占める元男子校・星華高校で、初の女生徒会長となった美咲は「男子の横暴から女子を守る」べく日々奮闘している。だが家計を助けるため隣町のメイド喫茶でこっそりアルバイトをしている秘密があり、学校一のモテ男・碓氷拓海にその現場を目撃されてしまう。秘密を握られた美咲と拓海の距離が少しずつ縮まっていく様子を描く学園ラブコメ。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/会長はメイド様!"
+    },
+    "sourceNote": "日本語版Wikipedia『会長はメイド様!』記事(2026-08-02閲覧)で作者・掲載誌(LaLa/白泉社)・連載期間(2006-2013年)・全18巻+特別編1巻・2010年アニメ化を確認。あらすじは独自要約(コピペなし)。受賞歴に関する記載は見当たらず不採用。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "marmalade-boy",
+    "title": "ママレード・ボーイ",
+    "titleKana": "ままれーどぼーい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yoshizumi-wataru"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "ribon",
+    "themeIds": [
+      "school",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 1992,
+    "latestPublishedYear": 1995,
+    "status": "completed",
+    "volumeCount": 8,
+    "synopsis": "中学生の小石川光希はある日、両親から突然の離婚を告げられる。さらに両親はハワイで知り合った松浦夫妻とパートナーを交換して再婚するという前代未聞の提案をしてきた。戸惑いながらも松浦家の息子・遊との同居生活が始まり、複雑に絡み合う新しい家族関係や周囲の恋愛模様に振り回されながら、二人は反発と信頼を繰り返し徐々に惹かれ合っていく。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ママレード・ボーイ"
+    },
+    "sourceNote": "日本語版Wikipedia『ママレード・ボーイ』記事(2026-08-02閲覧)で作者・掲載誌(りぼん/集英社)・連載期間(1992年5月号-1995年10月号)・全8巻・1994年アニメ化(劇場版含む)を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kareshi-kanojo-no-jijou",
+    "title": "彼氏彼女の事情",
+    "titleKana": "かれしかのじょのじじょう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tsuda-masami"
+    ],
+    "publisherId": "hakusensha",
+    "labelId": "lala",
+    "themeIds": [
+      "school",
+      "romance"
+    ],
+    "firstPublishedYear": 1996,
+    "latestPublishedYear": 2005,
+    "status": "completed",
+    "volumeCount": 21,
+    "synopsis": "何でも完璧にこなす優等生を演じる宮沢雪野と、学年一の人気者を演じる有馬総一郎。互いに見せかけの仮面を被って生きていた二人だが、ふとした拍子にお互いの素顔を知ってしまう。ライバル関係から始まった二人の関係は次第に信頼と恋愛へと変わり、それぞれが抱える家庭の事情や心の傷、将来への迷いにも向き合いながら少しずつ大人になっていく長編青春ドラマ。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/彼氏彼女の事情"
+    },
+    "sourceNote": "日本語版Wikipedia『彼氏彼女の事情』記事(2026-08-02閲覧)で作者・掲載誌(LaLa/白泉社)・連載期間(1996年2月-2005年4月)・全21巻・1998-1999年アニメ化(庵野秀明監督)を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tenshi-nanka-janai",
+    "title": "天使なんかじゃない",
+    "titleKana": "てんしなんかじゃない",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yazawa-ai"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "ribon",
+    "themeIds": [
+      "school",
+      "romance"
+    ],
+    "firstPublishedYear": 1991,
+    "latestPublishedYear": 1994,
+    "status": "completed",
+    "volumeCount": 8,
+    "synopsis": "新設校である聖学園高校の第一期生として入学した冴島翠は、なりゆきで生徒会副会長に選ばれる。生徒会長には、リーゼント頭で見た目とは裏腹に心優しい須藤晃が就任し、二人は反発し合いながらも次第に惹かれていく。個性的な生徒会メンバーたちとの友情や恋愛模様、進学や卒業といった節目を交えながら描かれる、3年間の学園生活を追う青春群像劇。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/天使なんかじゃない"
+    },
+    "sourceNote": "日本語版Wikipedia『天使なんかじゃない』記事(2026-08-02閲覧)で作者(矢沢あい、既存artistId yazawa-aiを再利用)・掲載誌(りぼん/集英社)・連載期間(1991-1994年)・全8巻・1994年OVA化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "koko-wa-greenwood",
+    "title": "ここはグリーンウッド",
+    "titleKana": "ここはぐりーんうっど",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nasu-yukie"
+    ],
+    "publisherId": "hakusensha",
+    "labelId": "hana-to-yume",
+    "themeIds": [
+      "school",
+      "comedy"
+    ],
+    "firstPublishedYear": 1986,
+    "latestPublishedYear": 1991,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "片想いの相手が兄と結婚するという失恋を経験した高校生・蓮川一也は、男子寮「緑林寮」に入寮する。女性的な容姿の先輩や女装趣味の同室者など、個性豊かな寮生たちに振り回されながらも次第に居場所を見つけていく一也の姿を、ドタバタコメディを交えて描く学園青春もの。恋愛未満の淡い感情も物語の重要な軸になっている。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ここはグリーンウッド"
+    },
+    "sourceNote": "日本語版Wikipedia『ここはグリーン・ウッド』記事(2026-08-02閲覧)で作者・掲載誌(花とゆめ/白泉社)・連載期間(1986-1991年)・全11巻・1991-1993年OVA化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "himechan-no-ribbon",
+    "title": "姫ちゃんのリボン",
+    "titleKana": "ひめちゃんのりぼん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mizusawa-megumi"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "ribon",
+    "themeIds": [
+      "school",
+      "romance"
+    ],
+    "firstPublishedYear": 1990,
+    "latestPublishedYear": 1994,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "おてんばな中学生・野々原ひめ子は、魔法の国の王女エリカから不思議なリボンを託される。このリボンを使うと姿を自由に変身できるが、あくまで正体は秘密にしなければならない。変身の力を使って大人びた自分になったり友人の代わりを務めたりしながら、友情や初恋に悩む学校生活を送るうち、幼なじみの大地にだけは正体を知られてしまう。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/姫ちゃんのリボン"
+    },
+    "sourceNote": "日本語版Wikipedia『姫ちゃんのリボン』記事(2026-08-02閲覧)で作者・掲載誌(りぼん/集英社)・連載期間(1990年8月号-1994年1月号)・全10巻+番外編1巻・1992-1993年アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "suki-tte-ii-na-yo",
+    "title": "好きっていいなよ。",
+    "titleKana": "すきっていいなよ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hazuki-kanae"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "dessert",
+    "themeIds": [
+      "school",
+      "romance"
+    ],
+    "firstPublishedYear": 2008,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 18,
+    "synopsis": "友達も彼氏もいたことがなく、周囲から誤解されて孤立してきた高校生・橘めいは、ある日誤って蹴ってしまった学校一の人気者・黒澤大和から興味を持たれる。人と関わることに臆病だっためいだが、まっすぐな大和や新しくできた友人たちとの交流を通じて少しずつ心を開き、初めての友情や恋、そして自分を大切にすることを知っていく。",
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/好きっていいなよ。"
+    },
+    "sourceNote": "日本語版Wikipedia『好きっていいなよ。』記事(2026-08-02閲覧)で作者・掲載誌(デザート/講談社)・連載期間(2008-2017年)・全18巻・2012年アニメ化・2014年実写映画化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tonikaku-kawaii",
+    "title": "トニカクカワイイ",
+    "titleKana": "とにかくかわいい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hata-kenjirou"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "romance",
+      "comedy",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2018,
+    "status": "ongoing",
+    "volumeCount": 36,
+    "synopsis": "交通事故に遭った天才高校生・由崎ナサは、命の恩人である謎めいた美少女・司に「結婚してくれるなら助けてあげる」と告げられ、その場で即答してしまう。物語は交際や告白といった過程を描くのではなく、すでに夫婦となった二人が始める同居生活そのものに焦点を当て、司の秘密や周囲を巻き込みながら、じれったくも幸せな新婚生活を積み重ねていく異色のラブコメディ。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/トニカクカワイイ"
+    },
+    "sourceNote": "日本語版Wikipedia『トニカクカワイイ』記事およびWeb検索(2026-08-02閲覧)で作者・掲載誌(週刊少年サンデー/小学館)・連載開始(2018年2月)・連載継続中・既刊36巻(2026年6月時点)・2020年/2023年アニメ化を確認。あらすじは独自要約(コピペなし)。掲載誌は少年誌だが学園・結婚生活を舞台にしたラブコメとして本バッチに含めた。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "gekkan-shoujo-nozaki-kun",
+    "title": "月刊少女野崎くん",
+    "titleKana": "げっかんしょうじょのざきくん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tsubaki-izumi"
+    ],
+    "publisherId": "square-enix",
+    "labelId": "gangan-online",
+    "themeIds": [
+      "school",
+      "comedy",
+      "romance"
+    ],
+    "firstPublishedYear": 2011,
+    "status": "ongoing",
+    "volumeCount": 18,
+    "synopsis": "野崎梅太郎に片想いしていた女子高生・佐倉千代は、勇気を出して告白したところ「ファンです」と勘違いされてしまう。実は野崎は覆面で活動する人気少女漫画家で、成り行きから千代は彼の漫画制作を手伝うアシスタントになる。千代の恋心は一向に進展しないまま、野崎の作品のモデルとなる個性的な友人たちを巻き込んだドタバタコメディが繰り広げられる。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/月刊少女野崎くん"
+    },
+    "sourceNote": "日本語版Wikipedia『月刊少女野崎くん』記事およびWeb検索(2026-08-02閲覧)で作者・Web媒体『ガンガンONLINE』(スクウェア・エニックス)での連載開始(2011年8月)・連載継続中・既刊18巻(2026年8月刊行分まで)・2014年アニメ化を確認。ガンガンONLINEは少年ジャンプ+/となりのヤングジャンプ以外のWeb漫画プラットフォームのためwebComicSourceは設定していない。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "akagami-no-shirayukihime",
+    "title": "赤髪の白雪姫",
+    "titleKana": "あかがみのしらゆきひめ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "akizuki-sorata"
+    ],
+    "publisherId": "hakusensha",
+    "labelId": "lala-dx",
+    "themeIds": [
+      "romance",
+      "adventure"
+    ],
+    "firstPublishedYear": 2006,
+    "status": "ongoing",
+    "volumeCount": 27,
+    "synopsis": "珍しい赤い髪を理由に他国の王子から側室にと望まれた薬草店の娘・白雪は、故郷を捨てて逃げ出す途中、隣国の第二王子ゼンと出会う。彼を追って王城のある国へ移り住んだ白雪は、努力の末に宮廷薬師としての地位を得ながら、身分の差や周囲の思惑を越えてゼンを支え、恋人としてだけでなく対等な立場で生きようと自らの信念を貫いていく。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/赤髪の白雪姫"
+    },
+    "sourceNote": "日本語版Wikipedia『赤髪の白雪姫』『あきづき空太』記事およびWeb検索(2026-08-02閲覧)で作者・掲載誌の変遷(2006年『LaLa DX』で読切→2007年より連載→2011年11月号より『LaLa』へ移行)・連載継続中・既刊27巻(2025年5月時点、2026年6月時点でも27巻のまま)・2015-2016年アニメ化を確認。labelIdは連載開始時点の初出媒体である『LaLa DX』(新規追加)を採用した。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ao-haru-ride",
+    "title": "アオハライド",
+    "titleKana": "あおはらいど",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "sakisaka-io"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "bessatsu-margaret",
+    "themeIds": [
+      "school",
+      "romance"
+    ],
+    "firstPublishedYear": 2011,
+    "latestPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 13,
+    "synopsis": "中学時代に淡い想いを寄せていた同級生と高校で再会した双葉。しかし相手はかつての柔らかい雰囲気から一変し、皮肉屋で素っ気ない態度をとるようになっていた。変わってしまった彼の理由を知りたいと願う双葉は、彼の変化の裏に隠された過去や本当の気持ちに触れながら、周囲の友人たちとの関係も含めて自分自身の気持ちに向き合っていく。",
+    "awardResults": [
+      {
+        "awardId": "zenkoku-shoten-in-osusume-comic",
+        "year": 2012,
+        "result": "3位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アオハライド"
+    },
+    "sourceNote": "日本語版Wikipedia『アオハライド』記事(2026-08-02閲覧)で作者・掲載誌(別冊マーガレット/集英社)・連載期間(2011-2015年)・全13巻・『全国書店員が選んだおすすめコミック2012』3位・2014年アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hanazakari-no-kimitachie",
+    "title": "花ざかりの君たちへ",
+    "titleKana": "はなざかりのきみたちへ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nakajou-hisaya"
+    ],
+    "publisherId": "hakusensha",
+    "labelId": "hana-to-yume",
+    "themeIds": [
+      "school",
+      "comedy",
+      "romance"
+    ],
+    "firstPublishedYear": 1996,
+    "latestPublishedYear": 2004,
+    "status": "completed",
+    "volumeCount": 23,
+    "synopsis": "アメリカ育ちの少女・大蔵瑞稀は、憧れの走り高跳び選手に会うため、男装して全寮制の名門男子校に転入する。あこがれの相手と同室になり素性を隠しながらの寮生活を送る中、周囲の個性的なクラスメートたちとの友情や淡い恋心、正体がばれることへの緊張感を交えつつ、部活動や学校行事も絡めたドタバタの学園生活を描く。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/花ざかりの君たちへ"
+    },
+    "sourceNote": "日本語版Wikipedia『花ざかりの君たちへ』『中条比紗也』記事およびWeb検索(2026-08-02閲覧)で作者・掲載誌(花とゆめ/白泉社)・連載期間(1996-2004年)・全23巻+番外編2巻・2007年実写ドラマ化・2026年1月より初のテレビアニメ化(Signal.MD制作、同年7月より第2期)を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
   }
 ]

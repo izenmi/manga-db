@@ -3030,5 +3030,142 @@
     },
     "sourceNote": "日本語版Wikipedia『監査役野崎修平』記事(2026-08-02閲覧)で作画担当としてのクレジットを確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "aruko",
+    "name": "アルコ",
+    "nameKana": "あるこ",
+    "description": "漫画家。石川県出身。1999年『雨ノチ晴レ』でデビュー。『俺物語!!』で河原和音と組んで作画を担当し、『消えた初恋』で2021年度第67回小学館漫画賞少女向け部門を受賞した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アルコ_(漫画家)"
+    },
+    "sourceNote": "日本語版Wikipedia『アルコ(漫画家)』記事(2026-08-02閲覧)で出身・デビュー経緯・『俺物語!!』での作画担当・受賞歴を確認。生年は非公開のため未記載。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "fujiwara-hiro",
+    "name": "藤原ヒロ",
+    "nameKana": "ふじわらひろ",
+    "description": "漫画家。兵庫県神河町出身。京都精華大学卒業後、2004年に投稿作品でデビュー。2006年開始の『会長はメイド様!』で白泉社アテナ新人大賞を受賞し、同作が代表作となった。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/藤原ヒロ"
+    },
+    "sourceNote": "日本語版Wikipedia『藤原ヒロ』記事(2026-08-02閲覧)で出身・経歴・『会長はメイド様!』での受賞歴を確認。生年(年)は非公開のため未記載。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yoshizumi-wataru",
+    "name": "吉住渉",
+    "nameKana": "よしずみわたる",
+    "description": "漫画家。一橋大学卒業後、NEC勤務を経て1988年秋より漫画家専業に。『りぼん』を中心に少女漫画を執筆し、『ママレード・ボーイ』はテレビアニメ化され大ヒットした代表作となった。",
+    "birthYear": 1963,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/吉住渉"
+    },
+    "sourceNote": "日本語版Wikipedia『吉住渉』記事(2026-08-02閲覧)で生年・経歴・『ママレード・ボーイ』の代表作としての位置づけを確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tsuda-masami",
+    "name": "津田雅美",
+    "nameKana": "つだまさみ",
+    "description": "漫画家。神奈川県出身。1992年『会えてよかった』で第17回白泉社アテナ新人大賞を受賞し翌年デビュー。『LaLa』を中心に活動し、『彼氏彼女の事情』(通称カレカノ)が代表作。",
+    "birthYear": 1970,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/津田雅美"
+    },
+    "sourceNote": "日本語版Wikipedia『津田雅美』記事(2026-08-02閲覧)で生年・出身・デビュー経緯・『彼氏彼女の事情』の連載期間を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nasu-yukie",
+    "name": "那州雪絵",
+    "nameKana": "なすゆきえ",
+    "description": "漫画家。元アニメーター。1985年『U.F.チャンス』でデビュー。『花とゆめ』掲載の『ここはグリーンウッド』が代表作で、他に『月光』『魔法使いの娘』等の長期連載がある。",
+    "birthYear": 1965,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/那州雪絵"
+    },
+    "sourceNote": "日本語版Wikipedia『那州雪絵』記事(2026-08-02閲覧)で生年・経歴・『ここはグリーンウッド』の連載期間(1986-1991年)を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "mizusawa-megumi",
+    "name": "水沢めぐみ",
+    "nameKana": "みずさわめぐみ",
+    "description": "漫画家。大阪府出身、早稲田大学教育学部卒業。1979年『りぼん』でデビューし、以後40年以上活動を続ける。『姫ちゃんのリボン』『ポニーテール白書』等の代表作がある。",
+    "birthYear": 1963,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/水沢めぐみ"
+    },
+    "sourceNote": "日本語版Wikipedia『水沢めぐみ』記事(2026-08-02閲覧)で生年・出身・デビュー経緯・『姫ちゃんのリボン』の連載期間を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hazuki-kanae",
+    "name": "葉月かなえ",
+    "nameKana": "はづきかなえ",
+    "description": "漫画家。神奈川県出身。恋愛ジャンルを中心に活動し、『デザート』誌に連載した『好きっていいなよ。』が代表作。実写映画化・アニメ化もされた。",
+    "birthYear": 1980,
+    "externalLinks": {},
+    "sourceNote": "英語版Wikipedia『Suki-tte Ii na yo.』関連記事等(2026-08-02閲覧)で出身・生年・代表作を確認。日本語版Wikipediaに単独の人物記事が見当たらなかったため参照情報源が限定的。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hata-kenjirou",
+    "name": "畑健二郎",
+    "nameKana": "はたけんじろう",
+    "description": "漫画家。福岡県生まれ、兵庫県育ち。大阪芸術大学中退後、久米田康治のアシスタントを5年間務める。2004年開始の『ハヤテのごとく!』で人気を博し、2018年より『トニカクカワイイ』を連載中。",
+    "birthYear": 1975,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/畑健二郎"
+    },
+    "sourceNote": "日本語版Wikipedia『畑健二郎』記事(2026-08-02閲覧)で生年・出身・経歴・『トニカクカワイイ』連載開始時期を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tsubaki-izumi",
+    "name": "椿いづみ",
+    "nameKana": "つばきいづみ",
+    "description": "漫画家。埼玉県出身。小・中・高の教員免許を保持。2002年『花とゆめ』でデビュー。少女漫画・ラブコメディ・学園漫画を得意とし、『俺様ティーチャー』『月刊少女野崎くん』が代表作。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/椿いづみ"
+    },
+    "sourceNote": "日本語版Wikipedia『椿いづみ』記事(2026-08-02閲覧)で出身・経歴・デビュー経緯・代表作を確認。生年(年)は非公開のため未記載。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "akizuki-sorata",
+    "name": "あきづき空太",
+    "nameKana": "あきづきそらた",
+    "description": "漫画家。愛知県出身。2002年、翌年『LaLa DX』掲載の「ユートピア」でデビューし第31回ララまんがグランプリ ゴールドデビュー賞を受賞。代表作『赤髪の白雪姫』は現在も『LaLa』で連載中。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/あきづき空太"
+    },
+    "sourceNote": "日本語版Wikipedia『あきづき空太』記事(2026-08-02閲覧、Web検索で人物名を『秋月尚太』ではなく正しくは『あきづき空太』と再確認)で出身・デビュー経緯・『赤髪の白雪姫』の連載開始経緯(2006年『LaLa DX』読切→2011年11月号より『LaLa』へ移行)を確認。生年(年)は非公開のため未記載。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "sakisaka-io",
+    "name": "咲坂伊緒",
+    "nameKana": "さきさかいお",
+    "description": "漫画家。東京都在住。1999年『別冊マーガレット』掲載の「桜、散る」でデビュー。『ストロボ・エッジ』『アオハライド』『思い、思われ、ふり、ふられ』等の青春ものを手がけ、後者で第63回小学館漫画賞を受賞。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/咲坂伊緒"
+    },
+    "sourceNote": "日本語版Wikipedia『咲坂伊緒』記事(2026-08-02閲覧)でデビュー経緯・代表作・受賞歴を確認。生年(年)は非公開のため未記載。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nakajou-hisaya",
+    "name": "中条比紗也",
+    "nameKana": "なかじょうひさや",
+    "description": "漫画家。大阪府出身。1994年『花とゆめ』でデビュー。代表作『花ざかりの君たちへ』はテレビドラマ化・2026年にはテレビアニメ化もされた。2023年10月、心臓の病気のため50歳で逝去。",
+    "birthYear": 1973,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/中条比紗也"
+    },
+    "sourceNote": "日本語版Wikipedia『中条比紗也』記事(2026-08-02閲覧)で生年・出身・経歴・没年(2023年)を確認。",
+    "updatedAt": "2026-08-02"
   }
 ]
