@@ -2831,5 +2831,72 @@
     "externalLinks": {},
     "sourceNote": "BOOK☆WALKER等の電子書店書誌情報(2026-08-02閲覧)で『薬屋のひとりごと』(スクウェア・エニックス/ビッグガンガン版)の構成担当としてクレジットされていることを確認。読み仮名は推定(未確認、要検証)。本人単独のWikipedia記事は確認できず。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "fukuyama-ryoko",
+    "name": "福山リョウコ",
+    "nameKana": "ふくやまりょうこ",
+    "description": "漫画家。和歌山県出身。「花とゆめ」を中心に活動。「覆面系ノイズ」の作者。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/福山リョウコ"
+    },
+    "sourceNote": "日本語版Wikipedia『福山リョウコ』記事(2026-08-02閲覧)で出身地・経歴・代表作を確認。生年は非公表(誕生日は1月5日のみ判明)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hirokane-kenshi",
+    "name": "弘兼憲史",
+    "nameKana": "ひろかねけんじ",
+    "description": "漫画家。山口県岩国市出身。松下電器産業(現パナソニック)勤務を経て漫画家に転身。「島耕作」シリーズ、「人間交差点」等の作者。",
+    "birthYear": 1947,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/弘兼憲史"
+    },
+    "sourceNote": "日本語版Wikipedia『弘兼憲史』記事(2026-08-02閲覧)で生年・出身地・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "saiki-kei",
+    "name": "斎木桂",
+    "nameKana": "さいきけい",
+    "description": "漫画家。「賭ケグルイ」(原作:河本ほむら)のスピンオフ「賭ケグルイ双」で作画を担当。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaに独立記事が見当たらないため、コミックスペース・マンガペディア・まんがseek等の作者情報ページ(2026-08-02閲覧)、および『賭ケグルイ双』単行本(月刊ガンガンJOKER連載、河本ほむら原作/斎木桂作画)の書誌情報(BOOK☆WALKER・ブックライブ等)で確認。生年等の詳細プロフィールは確認できず。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kishiro-yukito",
+    "name": "木城ゆきと",
+    "nameKana": "きしろゆきと",
+    "description": "漫画家。東京都大田区蒲田出身。1984年小学館新人コミック大賞受賞でデビュー。SF漫画「銃夢」シリーズの作者。",
+    "birthYear": 1967,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/木城ゆきと"
+    },
+    "sourceNote": "日本語版Wikipedia『木城ゆきと』記事(2026-08-02閲覧)で生年・出身地・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "saeki-shun",
+    "name": "佐伯俊",
+    "nameKana": "さえきしゅん",
+    "description": "漫画家。2011年「ジャンプNEXT!」掲載の読切でデビュー。「食戟のソーマ」(原作:附田祐斗)で作画を担当。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/佐伯俊_(漫画家)"
+    },
+    "sourceNote": "日本語版Wikipedia『佐伯俊 (漫画家)』記事(2026-08-02閲覧、同名の俳優との曖昧さ回避ページ経由)で経歴・代表作を確認。生年月日は非公表。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "miyashita-akira",
+    "name": "宮下あきら",
+    "nameKana": "みやしたあきら",
+    "description": "漫画家。東京都三鷹市出身。不良・スポ根的な学園バトル漫画「魁!!男塾」の作者。",
+    "birthYear": 1953,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/宮下あきら"
+    },
+    "sourceNote": "日本語版Wikipedia『宮下あきら』記事(2026-08-02閲覧)で生年・出身地・代表作を確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

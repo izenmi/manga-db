@@ -662,5 +662,17 @@
     },
     "sourceNote": "日本語版Wikipedia『日向夏(小説家)』記事およびWeb検索結果(2026-08-02閲覧)で経歴・『薬屋のひとりごと』原作者であることを確認。姓名の区別のないペンネームである点も確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tsukuda-yuto",
+    "name": "附田祐斗",
+    "nameKana": "つくだゆうと",
+    "description": "漫画原作者。福岡県北九州市出身。大阪芸術大学卒業。「食戟のソーマ」の原作を担当。",
+    "birthYear": 1986,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/附田祐斗"
+    },
+    "sourceNote": "日本語版Wikipedia『附田祐斗』記事(2026-08-02閲覧)で生年・出身地・経歴・代表作(食戟のソーマ、作画:佐伯俊)を確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

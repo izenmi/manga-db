@@ -9626,5 +9626,311 @@
     },
     "sourceNote": "日本語版Wikipedia『血の轍(漫画)』記事およびWeb検索結果(2026-08-02閲覧)で、2017年2017年6号～2023年19号まで『ビッグコミックスペリオール』(小学館)連載・全17巻・完結、『このマンガがすごい!2018』オトコ編9位、第50回アングレーム国際漫画祭連続作品賞(2023年)受賞を確認。作者・押見修造は既存artist(id: oshimi-shuzo、既存descriptionに『血の轍』が代表作として既に記載済み)を再利用、原作・作画とも自身が担当するオリジナル作品のためoriginalAuthorIdsは空欄。あらすじは独自要約。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "fukumenkei-noizu",
+    "title": "覆面系ノイズ",
+    "titleKana": "ふくめんけいのいず",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "fukuyama-ryoko"
+    ],
+    "publisherId": "hakusensha",
+    "labelId": "hana-to-yume",
+    "themeIds": [
+      "romance",
+      "music",
+      "school"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 18,
+    "synopsis": "幼い頃、初恋の相手・桃と歌の得意な柚子との三人で過ごした記憶を胸に、有安杏子(ニノ)は「歌う」ことだけを心の支えに生きてきた。高校生になり再会した柚子のロックバンドにボーカルとして誘われたニノは、消えてしまった初恋の相手への想いと新しく芽生えつつある恋の狭間で揺れながら、音楽を通して自分自身の本当の声を少しずつ取り戻していく青春音楽ラブストーリー。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/覆面系ノイズ"
+    },
+    "sourceNote": "日本語版Wikipedia『覆面系ノイズ』記事(2026-08-02閲覧)で作者(福山リョウコ、オリジナル作品)・花とゆめ(白泉社)にて2013年4月20日〜2019年1月19日連載・全18巻・2017年テレビアニメ化(ブレインズ・ベース)・2017年実写映画化を確認。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kachou-shimakousaku",
+    "title": "課長島耕作",
+    "titleKana": "かちょうしまこうさく",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hirokane-kenshi"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning",
+    "themeIds": [
+      "business",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 1983,
+    "latestPublishedYear": 1992,
+    "status": "completed",
+    "volumeCount": 17,
+    "synopsis": "大手電機メーカー・初芝電器産業に勤める中間管理職、島耕作の日々を描くサラリーマン漫画。連載当初は上司や同僚との人間関係や社内恋愛といった身近な職場模様が中心だったが、物語が進むにつれ派閥抗争や企業買収戦略など経営の裏側へと軸が移っていく。以後、部長・取締役・社長へと出世していく長編「島耕作」シリーズの記念すべき第一作。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1991,
+        "result": "一般部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/島耕作"
+    },
+    "sourceNote": "日本語版Wikipedia『島耕作』記事(2026-08-02閲覧)で作者(弘兼憲史)・モーニング(講談社)にて1983年6号〜1992年1・2合併号連載・全17巻・1991年度第15回講談社漫画賞一般部門受賞を確認。2011年に短編アニメ『週刊シマコー』としてアニメ化された旨も確認。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kakegurui-sou",
+    "title": "賭ケグルイ双",
+    "titleKana": "かけぐるいそう",
+    "originalAuthorIds": [
+      "kawamoto-homura"
+    ],
+    "artistIds": [
+      "saiki-kei"
+    ],
+    "publisherId": "square-enix",
+    "labelId": "gangan-joker",
+    "themeIds": [
+      "gambling",
+      "suspense-psychological",
+      "school"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2023,
+    "status": "completed",
+    "volumeCount": 15,
+    "synopsis": "名門・私立百花王学園がギャンブルによる階級制度に支配されるようになる、その少し前の日々を描く『賭ケグルイ』の前日譚。生徒会の実権を握る蛇喰命や礼奈をはじめとする面々が、まだ穏やかだった学園を賭博支配の場へと少しずつ変えていく過程や、後に本編に登場する生徒会メンバーそれぞれの過去と因縁を、多彩な賭け勝負のエピソードを通して丁寧に描く。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/賭ケグルイ"
+    },
+    "sourceNote": "『賭ケグルイ双』は『賭ケグルイ』(既存work: kakegurui、原作:河本ほむら/作画:尚村透)のスピンオフ・前日譚。原作は同じ河本ほむら(既存originalAuthorId『kawamoto-homura』を再利用)だが、作画は本編と異なり斎木桂(新規artist)が担当していることをWeb検索(booklive.jp・BOOK☆WALKER等の書誌情報、SQUARE ENIX公式コミックサイト、2026-08-02閲覧)で確認。月刊ガンガンJOKER(スクウェア・エニックス)にて2015年〜2023年連載・全15巻完結。テレビアニメは本編『賭ケグルイ』のみが対象でスピンオフ単独のアニメ化は確認できずmediaMixは未設定。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tobaku-hakairoku-kaiji",
+    "title": "賭博破戒録カイジ",
+    "titleKana": "とばくはかいろくかいじ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "fukumoto-nobuyuki"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "young-magazine",
+    "themeIds": [
+      "gambling",
+      "death-game",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2000,
+    "latestPublishedYear": 2004,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "限定じゃんけん船での死闘の果てに大敗したカイジは、借金のかたに地下の強制労働施設へと送り込まれる。逃げ場のない過酷な環境の中で仲間との友情や裏切りに翻弄されながら、わずかな希望を頼りに脱出の糸口を探るうち、やがて再び命を賭けたギャンブル勝負の舞台へと身を投じていく。福本伸行による『賭博黙示録カイジ』直接の続編。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/賭博破戒録カイジ"
+    },
+    "sourceNote": "日本語版Wikipedia『賭博黙示録カイジ』記事(2026-08-02閲覧)で作者(福本伸行、既存artist id『fukumoto-nobuyuki』を再利用)・週刊ヤングマガジン(講談社)にて『賭博破戒録カイジ』が2000年22号〜2004年9号連載・全10巻であることを確認(『賭博黙示録カイジ』からの直接の続編で、以後『賭博堕天録カイジ』等にさらに続く)。2011年テレビアニメ(本作部分を含む)を確認。ユーザー指示によりテーマ『gambling』(既存id)を付与。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "gin-to-kin",
+    "title": "銀と金",
+    "titleKana": "ぎんときん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "fukumoto-nobuyuki"
+    ],
+    "publisherId": "futabasha",
+    "labelId": "action-pizazz",
+    "themeIds": [
+      "gambling",
+      "suspense-psychological",
+      "business"
+    ],
+    "firstPublishedYear": 1992,
+    "latestPublishedYear": 1996,
+    "status": "unknown",
+    "volumeCount": 11,
+    "synopsis": "裏社会に精通した凄腕のフィクサー・平井銀二、通称「銀星王」は、若きギャンブラー・森田鉄雄をスカウトし、株の仕手戦や政界の闇に絡む巨大な陰謀へと引き込んでいく。麻雀やポーカーなど命を賭けた勝負を積み重ねる中で、鉄雄が師である銀二を超える「金」の存在へと成長を目指す姿を描く、株式市場の攻防と頭脳戦を主題にした経済ギャンブル漫画。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/銀と金"
+    },
+    "sourceNote": "日本語版Wikipedia『銀と金』記事(2026-08-02閲覧)で作者(福本伸行、既存artist id『fukumoto-nobuyuki』を再利用、オリジナル作品)・アクションピザッツ(双葉社)にて1992〜1996年連載・単行本全11巻を確認。物語が明確な完結を迎えないまま連載が中断し、以後30年以上再開していない(2017年にテレビドラマ化のみ)ため、statusは「completed」ではなく「unknown」とした。アニメ化は確認できずmediaMix.animeはfalseとした。ユーザー指示によりテーマ『gambling』(既存id)を付与。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "gunnm",
+    "title": "銃夢",
+    "titleKana": "がんむ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kishiro-yukito"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "business-jump",
+    "themeIds": [
+      "sci-fi",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1991,
+    "latestPublishedYear": 1995,
+    "status": "completed",
+    "volumeCount": 9,
+    "synopsis": "巨大な天空都市ザレムの真下に広がる廃墟の街「屑鉄町」。サイボーグ技術者イドに瓦礫の中で発見された、記憶を失った少女ガリィは、格闘技術「パンツァークンスト」を武器に、賞金稼ぎとして数々の強敵と死闘を繰り広げていく。戦いを重ねるたびに自らの過去とザレムに隠された秘密へと少しずつ迫っていくサイバーパンクアクション。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/銃夢"
+    },
+    "sourceNote": "日本語版Wikipedia『銃夢』記事(2026-08-02閲覧)で作者(木城ゆきと、オリジナル作品)・ビジネスジャンプ(集英社)にて1991年3号〜1995年10号連載・単行本全9巻(標準版)・1993年OVA化(全2話)を確認。続編『銃夢LastOrder』を巡るトラブルにより作者は講談社へ移籍し、2018年11月以降は本編『銃夢』も講談社イブニングKCDXの新装版が現行の主要な刊行版となっているため、work側のpublisherIdは現行刊行元の講談社とし、初出誌レーベル(ビジネスジャンプ)側のpublisherIdは連載当時の発行元である集英社とした。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "denei-shoujo",
+    "title": "電影少女",
+    "titleKana": "でんえいしょうじょ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "katsura-masakazu"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "romance",
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 1989,
+    "latestPublishedYear": 1992,
+    "status": "completed",
+    "volumeCount": 15,
+    "synopsis": "失恋に沈む高校生・洋太の部屋に、深夜のレンタルビデオ店から間違って届いた一本のビデオテープ。再生すると画面から女性・天野あいが飛び出してきて、洋太を立ち直らせるために現実世界であれこれと奮闘を始める。ビデオの中の存在であるあいとの不思議な交流を通じ、失恋の痛手を抱えた洋太は少しずつ立ち直り、本当の恋と真剣に向き合っていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/電影少女"
+    },
+    "sourceNote": "日本語版Wikipedia『電影少女』記事(2026-08-02閲覧)で作者(桂正和、既存artist id『katsura-masakazu』を再利用、オリジナル作品)・週刊少年ジャンプ(集英社)にて1989年51号〜1992年31号連載・ジャンプ・コミックス全15巻・1992年OVA化(全6巻)・2018/2019年実写ドラマ化を確認。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shokugeki-no-souma",
+    "title": "食戟のソーマ",
+    "titleKana": "しょくげきのそーま",
+    "originalAuthorIds": [
+      "tsukuda-yuto"
+    ],
+    "artistIds": [
+      "saeki-shun"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "gourmet",
+      "school",
+      "battle-action",
+      "comedy"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 36,
+    "synopsis": "下町の定食屋の息子・幸平創真は、父の命令で卒業率一割という超名門の料理学校「遠月茶寮料理學園」へ編入する。学園を長年牛耳ってきた「食の魔王」の孫娘・薙切えりなをはじめとする個性豊かなライバルたちと、料理の腕を競い合う一対一の対決「食戟」を通して幾度もぶつかり合いながら、真の料理人を目指して成長していく青春料理漫画。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/食戟のソーマ"
+    },
+    "sourceNote": "日本語版Wikipedia『食戟のソーマ』記事(2026-08-02閲覧)で原作:附田祐斗(新規original-author)/作画:佐伯俊(新規artist)・週刊少年ジャンプ(集英社)にて2012年52号〜2019年29号連載・全36巻・2015年テレビアニメ化(全5期)を確認。『みんなが選ぶTSUTAYAコミック大賞』は本DB未登録の賞のためawardResultsには含めず。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "sakigake-otokojuku",
+    "title": "魁!!男塾",
+    "titleKana": "さきがけおとこじゅく",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "miyashita-akira"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "battle-action",
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 1985,
+    "latestPublishedYear": 1991,
+    "status": "completed",
+    "volumeCount": 34,
+    "synopsis": "全国から集められた不良少年たちが集う超スパルタ教育機関・男塾。塾頭・江田島平八の指導の下、命がけの入塾試験や上級生との一騎打ち、他流派の学校との激しい抗争を乗り越えながら、主人公・剣桃太郎ら塾生たちが友情と誇りをかけて成長していく。奇天烈な必殺技と過剰なまでの熱血描写で長く人気を博したバトル学園漫画。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/魁!!男塾"
+    },
+    "sourceNote": "日本語版Wikipedia『魁!!男塾』記事(2026-08-02閲覧)で作者(宮下あきら、オリジナル作品)・週刊少年ジャンプ(集英社)にて1985年22号〜1991年35号連載・ジャンプ・コミックス全34巻・1988年テレビアニメ化(全34話)・2008年実写映画化を確認。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "mahou-sensei-negima",
+    "title": "魔法先生ネギま!",
+    "titleKana": "まほうせんせいねぎま",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "akamatsu-ken"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "school",
+      "battle-action",
+      "comedy",
+      "romance"
+    ],
+    "firstPublishedYear": 2003,
+    "latestPublishedYear": 2012,
+    "status": "completed",
+    "volumeCount": 38,
+    "synopsis": "魔法学校を首席で卒業した10歳の少年ネギ・スプリングフィールドは、見習い魔法使いとして日本の女子中学校の英語教師に赴任する。31人の個性豊かな教え子たちとのラブコメ的な学園生活を送る一方、行方不明の父である伝説の魔法使いの足跡を追う中で数々の強敵との魔法戦闘にも巻き込まれていく、少年の成長を描く物語。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔法先生ネギま!"
+    },
+    "sourceNote": "日本語版Wikipedia『魔法先生ネギま!』記事(2026-08-02閲覧)で作者(赤松健、既存artist id『akamatsu-ken』を再利用、オリジナル作品)・週刊少年マガジン(講談社)にて2003年2月26日〜2012年3月14日連載・全38巻・テレビアニメ2期/OVA/劇場版『ANIME FINAL』化を確認。第50回小学館漫画賞は「最終候補」止まりで受賞・順位確定には至っていないためawardResultsには含めず。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
   }
 ]

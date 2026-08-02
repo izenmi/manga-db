@@ -1188,5 +1188,29 @@
     "externalLinks": {},
     "sourceNote": "Web検索結果(コミックナタリー・KADOKAWA公式サイト・エコーズ公式サイト等、2026-08-02閲覧)で『王様ランキング』が2017年よりマンガハックで連載開始し、単行本はKADOKAWA(ビームコミックス)より刊行されていることを確認。運営元(エコーズ)と現行の単行本発行元(KADOKAWA)が異なるため、labelのpublisherIdはechoesとした(work.publisherIdはkadokawaのまま)。単独のWikipedia記事は確認できず。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "action-pizazz",
+    "name": "アクションピザッツ",
+    "nameKana": "あくしょんぴざっつ",
+    "publisherId": "futabasha",
+    "description": "双葉社が1991年に創刊した青年漫画雑誌。「銀と金」の連載誌。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アクションピザッツ"
+    },
+    "sourceNote": "日本語版Wikipedia『アクションピザッツ』記事(2026-08-02閲覧)で1991年創刊・双葉社発行・現行誌であることを確認。『銀と金』(福本伸行)が1992年から本誌で連載されたことをWeb検索(Wikipedia『銀と金』記事、booklive.jp等の書誌情報、2026-08-02閲覧)で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "business-jump",
+    "name": "ビジネスジャンプ",
+    "nameKana": "びじねすじゃんぷ",
+    "publisherId": "shueisha",
+    "description": "集英社が1985年から2011年まで発行していた、社会人男性向けの青年漫画雑誌。「銃夢」の初出誌。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ビジネスジャンプ"
+    },
+    "sourceNote": "日本語版Wikipedia『ビジネスジャンプ』記事(2026-08-02閲覧)で1985年創刊・集英社発行・2011年休刊(後継誌はグランドジャンプ)を確認。『銃夢』(木城ゆきと)は1991年3号から本誌で連載開始したことを同記事および『銃夢』記事(2026-08-02閲覧)で確認。なお続編『銃夢LastOrder』での表現変更を巡るトラブルにより作者は講談社へ移籍し、2018年11月からは『銃夢』本編も講談社イブニングKCDXの新装版が現行の主要な単行本として刊行されている。そのためwork側のpublisherIdは現行刊行元の講談社(kodansha)とし、本レーベル(初出誌)側のpublisherIdのみ連載開始当時の発行元である集英社とした(ハチミツとクローバー/CUTiEcomicと同様のパターン)。",
+    "updatedAt": "2026-08-02"
   }
 ]
