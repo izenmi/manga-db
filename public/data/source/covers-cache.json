@@ -1,4 +1,147 @@
 {
+  "20th-century-boys": {
+    "title": "20世紀少年",
+    "isbn": "9784091855381",
+    "matchedTitle": "20世紀少年（8）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0918/09185538.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:04:02.401Z"
+  },
+  "3-gatsu-no-lion": {
+    "title": "3月のライオン",
+    "isbn": "9784592145110",
+    "matchedTitle": "3月のライオン 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5110/9784592145110.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:05:04.346Z"
+  },
+  "ajin": {
+    "title": "亜人",
+    "isbn": null,
+    "matchedTitle": "亜人（１）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8688/2000000108688.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-02T09:04:05.905Z"
+  },
+  "ajin-chan-wa-kataritai": {
+    "title": "亜人ちゃんは語りたい",
+    "isbn": null,
+    "matchedTitle": "亜人ちゃんは語りたい（１）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4973/2000002884973.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-02T09:04:30.168Z"
+  },
+  "akira": {
+    "title": "AKIRA",
+    "isbn": "9784061037113",
+    "matchedTitle": "AKIRA（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7113/9784061037113_1_7.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:05:12.562Z"
+  },
+  "ansatsu-kyoshitsu": {
+    "title": "暗殺教室",
+    "isbn": "9784088705965",
+    "matchedTitle": "暗殺教室 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5965/9784088705965.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:04:16.351Z"
+  },
+  "ashita-no-joe": {
+    "title": "あしたのジョー",
+    "isbn": null,
+    "matchedTitle": "あしたのジョー（３）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5070/2000000005070.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-02T09:05:11.376Z"
+  },
+  "berserk": {
+    "title": "ベルセルク",
+    "isbn": "9784592135746",
+    "matchedTitle": "ベルセルク 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5746/9784592135746.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:05:03.178Z"
+  },
+  "black-jack": {
+    "title": "ブラック・ジャック",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-02T09:05:09.037Z",
+    "note": "Rakuten/Koboの検索結果が別作品と誤マッチしたため手動でプレースホルダーに戻した(2026-08-02)"
+  },
+  "bleach": {
+    "title": "BLEACH",
+    "isbn": "9784088732138",
+    "matchedTitle": "BLEACH 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0887/08873213.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:02:34.848Z"
+  },
+  "blue-lock": {
+    "title": "ブルーロック",
+    "isbn": null,
+    "matchedTitle": "ブルーロック（１）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4021/2000006894021.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-02T09:02:55.861Z"
+  },
+  "boku-no-hero-academia": {
+    "title": "僕のヒーローアカデミア",
+    "isbn": "9784088802640",
+    "matchedTitle": "僕のヒーローアカデミア 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2640/9784088802640_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:02:38.460Z"
+  },
+  "bokurano": {
+    "title": "ぼくらの",
+    "isbn": null,
+    "matchedTitle": "ぼくらの（１１）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6163/2000000186163.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-02T09:04:49.222Z"
+  },
+  "captain-tsubasa": {
+    "title": "キャプテン翼",
+    "isbn": "9784088512815",
+    "matchedTitle": "キャプテン翼 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2815/9784088512815.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:02:50.049Z"
+  },
+  "chihayafuru": {
+    "title": "ちはやふる",
+    "isbn": "9784063192391",
+    "matchedTitle": "ちはやふる（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2391/9784063192391.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:03:40.011Z"
+  },
+  "chukan-kanri-roku-tonegawa": {
+    "title": "中間管理録トネガワ",
+    "isbn": null,
+    "matchedTitle": "中間管理録トネガワ（１）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7211/2000004547211.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-02T09:04:22.117Z"
+  },
+  "crayon-shinchan": {
+    "title": "クレヨンしんちゃん",
+    "isbn": "9784575932928",
+    "matchedTitle": "クレヨンしんちゃん（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2928/9784575932928.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:04:12.858Z"
+  },
+  "d-gray-man": {
+    "title": "D.Gray-man",
+    "isbn": "9784088736914",
+    "matchedTitle": "D.Gray-man 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6914/9784088736914.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:04:45.751Z"
+  },
   "death-note": {
     "title": "DEATH NOTE",
     "isbn": "9784088736211",
@@ -6,6 +149,66 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0887/08873621.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-02T08:30:05.007Z"
+  },
+  "detective-conan": {
+    "title": "名探偵コナン",
+    "isbn": "9784091233714",
+    "matchedTitle": "名探偵コナン 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3714/9784091233714.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:03:08.691Z"
+  },
+  "diamond-no-a": {
+    "title": "ダイヤのA",
+    "isbn": "9784063955477",
+    "matchedTitle": "ダイヤのA　act2（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5477/9784063955477.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:02:53.517Z"
+  },
+  "doraemon": {
+    "title": "ドラえもん",
+    "isbn": "9784091400017",
+    "matchedTitle": "ドラえもん（1)",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0017/9784091400017_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:04:15.191Z"
+  },
+  "dorohedoro": {
+    "title": "ドロヘドロ",
+    "isbn": "9784091882714",
+    "matchedTitle": "ドロヘドロ（1)",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2714/9784091882714_1_25.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:04:07.060Z"
+  },
+  "dragon-ball": {
+    "title": "ドラゴンボール",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-02T09:02:41.921Z"
+  },
+  "eyeshield-21": {
+    "title": "アイシールド21",
+    "isbn": "9784088733708",
+    "matchedTitle": "アイシールド21 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3708/9784088733708.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:02:51.207Z"
+  },
+  "fairy-tail": {
+    "title": "フェアリーテイル",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-02T09:03:27.414Z"
+  },
+  "fruits-basket": {
+    "title": "フルーツバスケット",
+    "isbn": "9784592171645",
+    "matchedTitle": "フルーツバスケット（4）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/45921/4592171640.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:03:33.907Z"
   },
   "fullmetal-alchemist": {
     "title": "鋼の錬金術師",
@@ -15,6 +218,367 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-02T08:30:09.708Z"
   },
+  "gantz": {
+    "title": "GANTZ",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-02T09:05:14.913Z"
+  },
+  "giant-killing": {
+    "title": "GIANT KILLING",
+    "isbn": "9784063725933",
+    "matchedTitle": "GIANT KILLING（01）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5933/9784063725933.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:03:22.801Z"
+  },
+  "gin-no-saji": {
+    "title": "銀の匙 Silver Spoon",
+    "isbn": "9784091231802",
+    "matchedTitle": "銀の匙 Silver Spoon（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1802/9784091231802_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:04:23.283Z"
+  },
+  "ginga-tetsudo-999": {
+    "title": "銀河鉄道999",
+    "isbn": null,
+    "matchedTitle": "銀河鉄道999（６）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8529/2000003368529.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-02T09:04:42.218Z"
+  },
+  "gintama": {
+    "title": "銀魂",
+    "isbn": "9784088736235",
+    "matchedTitle": "銀魂ーぎんたまー 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0887/08873623.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:02:45.382Z"
+  },
+  "golden-kamuy": {
+    "title": "ゴールデンカムイ",
+    "isbn": "9784088900827",
+    "matchedTitle": "ゴールデンカムイ 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0827/9784088900827.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:04:09.373Z"
+  },
+  "gotoubun-no-hanayome": {
+    "title": "五等分の花嫁",
+    "isbn": "9784065102497",
+    "matchedTitle": "五等分の花嫁（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2497/9784065102497_1_18.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:03:32.755Z"
+  },
+  "grappler-baki": {
+    "title": "グラップラー刃牙",
+    "isbn": "9784253053099",
+    "matchedTitle": "グラップラー刃牙（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2530/25305309.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:03:00.444Z"
+  },
+  "gto": {
+    "title": "GTO(グレート・ティーチャー・オニヅカ)",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-02T09:03:17.956Z"
+  },
+  "h2": {
+    "title": "H2",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-02T09:03:05.190Z",
+    "note": "Rakuten/Koboの検索結果が別作品と誤マッチしたため手動でプレースホルダーに戻した(2026-08-02)"
+  },
+  "haikyu": {
+    "title": "ハイキュー!!",
+    "isbn": "9784088704531",
+    "matchedTitle": "ハイキュー!! 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4531/9784088704531.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:02:48.868Z"
+  },
+  "hana-yori-dango": {
+    "title": "花より男子",
+    "isbn": "9784088480282",
+    "matchedTitle": "花より男子 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0884/08848028.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:03:45.804Z"
+  },
+  "hi-no-tori": {
+    "title": "火の鳥",
+    "isbn": null,
+    "matchedTitle": "火の鳥",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6952/2000000156952.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-02T09:05:06.682Z"
+  },
+  "higanjima": {
+    "title": "彼岸島",
+    "isbn": "9784065349144",
+    "matchedTitle": "彼岸島　48日後…（43）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9144/9784065349144_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:04:10.529Z"
+  },
+  "honey-lemon-soda": {
+    "title": "ハニーレモンソーダ",
+    "isbn": "9784088674162",
+    "matchedTitle": "ハニーレモンソーダ 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4162/9784088674162.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:03:52.952Z"
+  },
+  "horimiya": {
+    "title": "ホリミヤ",
+    "isbn": "9784757535435",
+    "matchedTitle": "ホリミヤ（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5435/9784757535435_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:03:44.660Z"
+  },
+  "hunter-x-hunter": {
+    "title": "HUNTER×HUNTER",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-02T09:02:37.295Z"
+  },
+  "inuyasha": {
+    "title": "犬夜叉",
+    "isbn": null,
+    "matchedTitle": "犬夜叉（５１）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3492/2000005023492.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-02T09:03:15.647Z"
+  },
+  "jojo-no-kimyou-na-bouken": {
+    "title": "ジョジョの奇妙な冒険",
+    "isbn": "9784088511269",
+    "matchedTitle": "ジョジョの奇妙な冒険 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1269/9784088511269.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:02:46.549Z"
+  },
+  "jujutsu-kaisen": {
+    "title": "呪術廻戦",
+    "isbn": "9784088815169",
+    "matchedTitle": "呪術廻戦 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5169/9784088815169_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:02:33.613Z"
+  },
+  "kaguya-sama-wa-kokurasetai": {
+    "title": "かぐや様は告らせたい〜天才たちの恋愛頭脳戦〜",
+    "isbn": null,
+    "matchedTitle": "かぐや様は告らせたい〜天才たちの恋愛頭脳戦〜 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2101/2000004052101.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-02T09:03:43.495Z"
+  },
+  "kakegurui": {
+    "title": "賭ケグルイ",
+    "isbn": "9784757544499",
+    "matchedTitle": "賭ケグルイ（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4499/9784757544499.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:03:58.749Z"
+  },
+  "karakai-jouzu-no-takagi-san": {
+    "title": "からかい上手の高木さん",
+    "isbn": "9784091250155",
+    "matchedTitle": "からかい上手の高木さん 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0155/9784091250155_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:04:25.582Z"
+  },
+  "karakuri-circus": {
+    "title": "からくりサーカス",
+    "isbn": "9784091795007",
+    "matchedTitle": "『からくりサーカス 完全版』全26巻 専用ボックス入り全巻セット",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5007/9784091795007_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:04:44.554Z"
+  },
+  "kaze-no-tani-no-nausicaa": {
+    "title": "風の谷のナウシカ",
+    "isbn": "9784197735815",
+    "matchedTitle": "風の谷のナウシカ（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5815/9784197735815.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:04:43.382Z"
+  },
+  "kekkaishi": {
+    "title": "結界師",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-02T09:04:51.542Z",
+    "note": "Rakuten/Koboの検索結果が別作品と誤マッチしたため手動でプレースホルダーに戻した(2026-08-02)"
+  },
+  "kimetsu-no-yaiba": {
+    "title": "鬼滅の刃",
+    "isbn": "9784088807232",
+    "matchedTitle": "鬼滅の刃 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7232/9784088807232.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:02:32.434Z"
+  },
+  "kimi-ni-todoke": {
+    "title": "君に届け",
+    "isbn": "9784088460611",
+    "matchedTitle": "君に届け 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0884/08846061.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:03:41.160Z"
+  },
+  "kindaichi-shonen-no-jikenbo": {
+    "title": "金田一少年の事件簿",
+    "isbn": "9784770040411",
+    "matchedTitle": "金田一少年の事件簿（オペラ座館殺人事件）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7700/77004041.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:03:19.125Z"
+  },
+  "kingdom": {
+    "title": "キングダム",
+    "isbn": "9784088770796",
+    "matchedTitle": "キングダム 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0796/9784088770796.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:02:39.618Z"
+  },
+  "kiseiju": {
+    "title": "寄生獣",
+    "isbn": "9784063770483",
+    "matchedTitle": "寄生獣（1）新装版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0483/9784063770483.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:03:54.112Z"
+  },
+  "kochikame": {
+    "title": "こちら葛飾区亀有公園前派出所",
+    "isbn": "9784088528113",
+    "matchedTitle": "こちら葛飾区亀有公園前派出所 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0885/08852811.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:04:14.022Z"
+  },
+  "kodoku-no-gurume": {
+    "title": "孤独のグルメ",
+    "isbn": null,
+    "matchedTitle": "孤独のグルメ【新装版】",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0558/2000000130558.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-02T09:04:56.192Z"
+  },
+  "kuroko-no-basuke": {
+    "title": "黒子のバスケ",
+    "isbn": "9784088746944",
+    "matchedTitle": "黒子のバスケ 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0887/08874694.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:02:57.018Z"
+  },
+  "mahou-shoujo-madoka-magica": {
+    "title": "魔法少女まどか☆マギカ",
+    "isbn": "9784832279902",
+    "matchedTitle": "魔法少女まどか☆マギカ（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9902/9784832279902.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:04:50.380Z"
+  },
+  "mahoujin-guruguru": {
+    "title": "魔法陣グルグル",
+    "isbn": "9784757540071",
+    "matchedTitle": "魔法陣グルグル2（01）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0071/9784757540071.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:04:37.577Z"
+  },
+  "major": {
+    "title": "MAJOR",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-02T09:03:21.568Z",
+    "note": "Rakuten/Koboの検索結果が別作品と誤マッチしたため手動でプレースホルダーに戻した(2026-08-02)"
+  },
+  "monster": {
+    "title": "MONSTER",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-02T09:04:01.228Z"
+  },
+  "moteki": {
+    "title": "モテキ",
+    "isbn": null,
+    "matchedTitle": "モテキ（１）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2879/2000000062879.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-02T09:04:59.677Z"
+  },
+  "nana": {
+    "title": "NANA",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-02T09:03:36.524Z"
+  },
+  "nanatsu-no-taizai": {
+    "title": "七つの大罪",
+    "isbn": null,
+    "matchedTitle": "七つの大罪（３）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6869/2000000116869.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-02T09:03:25.106Z"
+  },
+  "naruto": {
+    "title": "NARUTO -ナルト-",
+    "isbn": "9784088728407",
+    "matchedTitle": "NARUTO-ナルトー 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0887/08872840.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:02:28.878Z"
+  },
+  "nodame-cantabile": {
+    "title": "のだめカンタービレ",
+    "isbn": null,
+    "matchedTitle": "のだめカンタービレ（１）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7553/2000000167553.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-02T09:03:38.853Z"
+  },
+  "noragami": {
+    "title": "ノラガミ",
+    "isbn": null,
+    "matchedTitle": "ノラガミ（２）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9113/2000001679113.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-02T09:03:31.598Z"
+  },
+  "oishinbo": {
+    "title": "美味しんぼ",
+    "isbn": null,
+    "matchedTitle": "美味しんぼ（１３）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8685/2000000148685.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-02T09:04:53.873Z"
+  },
+  "oke-no-monshou": {
+    "title": "王家の紋章",
+    "isbn": "9784253070638",
+    "matchedTitle": "王家の紋章　4",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0638/9784253070638.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:04:46.893Z"
+  },
+  "one-piece": {
+    "title": "ONE PIECE",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-02T09:02:31.256Z"
+  },
   "one-punch-man": {
     "title": "ワンパンマン",
     "isbn": "9784088707020",
@@ -22,6 +586,98 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7020/9784088707020.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-02T08:30:06.160Z"
+  },
+  "orange": {
+    "title": "orange",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-02T09:03:48.325Z"
+  },
+  "osomatsu-san": {
+    "title": "おそ松さん",
+    "isbn": null,
+    "matchedTitle": "おそ松さん公式アンソロジーコミック 【キレイ】",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5479/2000004435479.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-02T09:04:19.829Z"
+  },
+  "ouran-koukou-host-club": {
+    "title": "桜蘭高校ホスト部",
+    "isbn": "9784592174486",
+    "matchedTitle": "桜蘭高校ホスト部(クラブ) 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5921/59217448.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:03:49.487Z"
+  },
+  "overlord": {
+    "title": "オーバーロード",
+    "isbn": null,
+    "matchedTitle": "オーバーロード(1)",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8541/2000003238541.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-02T09:04:36.010Z"
+  },
+  "ping-pong": {
+    "title": "ピンポン",
+    "isbn": null,
+    "matchedTitle": "ピンポン（２）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1428/2000000121428.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-02T09:02:59.326Z"
+  },
+  "pluto": {
+    "title": "PLUTO",
+    "isbn": "9784091874313",
+    "matchedTitle": "PLUTO（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4313/9784091874313_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:04:03.591Z"
+  },
+  "ranma-1-2": {
+    "title": "らんま1/2",
+    "isbn": null,
+    "matchedTitle": "らんま1/2〔新装版〕（１１）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2305/2000000172305.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-02T09:03:13.342Z"
+  },
+  "re-zero": {
+    "title": "Re:ゼロから始める異世界生活",
+    "isbn": "9784040668758",
+    "matchedTitle": "Re：ゼロから始める異世界生活　第一章　王都の一日編1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8758/9784040668758.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:04:33.672Z"
+  },
+  "real": {
+    "title": "リアル",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-02T09:03:02.819Z"
+  },
+  "rurouni-kenshin": {
+    "title": "るろうに剣心",
+    "isbn": "9784088714998",
+    "matchedTitle": "るろうに剣心 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4998/9784088714998_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:02:44.223Z"
+  },
+  "saiki-kusuo-no-psi-nan": {
+    "title": "斉木楠雄のΨ難",
+    "isbn": "9784088705040",
+    "matchedTitle": "斉木楠雄のΨ難 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5040/9784088705040.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:04:17.512Z"
+  },
+  "sazae-san": {
+    "title": "サザエさん",
+    "isbn": "9784022609946",
+    "matchedTitle": "サザエさん（44）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/noimage_01.gif?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:04:27.006Z"
   },
   "shingeki-no-kyojin": {
     "title": "進撃の巨人",
@@ -31,6 +687,38 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-02T08:30:08.548Z"
   },
+  "shinya-shokudo": {
+    "title": "深夜食堂",
+    "isbn": "9784091817075",
+    "matchedTitle": "深夜食堂 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7075/9784091817075_1_10.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:04:57.357Z"
+  },
+  "skip-beat": {
+    "title": "スキップ・ビート!",
+    "isbn": "9784592178217",
+    "matchedTitle": "スキップ・ビート！（第1巻）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8217/9784592178217.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:03:51.793Z"
+  },
+  "slam-dunk": {
+    "title": "SLAM DUNK",
+    "isbn": "9784088716114",
+    "matchedTitle": "SLAM DUNK 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6114/9784088716114_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:02:47.715Z"
+  },
+  "soul-eater": {
+    "title": "ソウルイーター",
+    "isbn": null,
+    "matchedTitle": "ソウルイーター6巻",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1075/2000006731075.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-02T09:04:39.914Z"
+  },
   "spy-x-family": {
     "title": "SPY×FAMILY",
     "isbn": "9784088820118",
@@ -38,5 +726,123 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0118/9784088820118_1_2.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-02T08:30:07.369Z"
+  },
+  "suki-na-ko-ga-megane-wo-wasureta": {
+    "title": "好きな子がめがねを忘れた",
+    "isbn": "9784757560260",
+    "matchedTitle": "好きな子がめがねを忘れた（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0260/9784757560260_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:04:31.334Z"
+  },
+  "tennis-no-oujisama": {
+    "title": "テニスの王子様",
+    "isbn": "9784088728155",
+    "matchedTitle": "テニスの王子様 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0887/08872815.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:02:52.355Z"
+  },
+  "tensei-shitara-slime-datta-ken": {
+    "title": "転生したらスライムだった件",
+    "isbn": "9784063765786",
+    "matchedTitle": "転生したらスライムだった件（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5786/9784063765786.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:04:32.502Z"
+  },
+  "terra-formars": {
+    "title": "テラフォーマーズ",
+    "isbn": "9784088792705",
+    "matchedTitle": "テラフォーマーズ 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2705/9784088792705.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:04:08.211Z"
+  },
+  "tobaku-mokushiroku-kaiji": {
+    "title": "賭博黙示録カイジ",
+    "isbn": null,
+    "matchedTitle": "賭博黙示録カイジ 2",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0647/2000000100647.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-02T09:03:57.568Z"
+  },
+  "tokimeki-tonight": {
+    "title": "ときめきトゥナイト",
+    "isbn": "9784088671574",
+    "matchedTitle": "ときめきトゥナイト（2）新装版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1574/9784088671574.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:03:50.643Z"
+  },
+  "tokyo-revengers": {
+    "title": "東京卍リベンジャーズ",
+    "isbn": "9784063959383",
+    "matchedTitle": "東京卍リベンジャーズ（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9383/9784063959383_1_31.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:03:28.587Z"
+  },
+  "touch": {
+    "title": "タッチ",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-02T09:03:07.526Z"
+  },
+  "uchuu-kyoudai": {
+    "title": "宇宙兄弟",
+    "isbn": "9784063726749",
+    "matchedTitle": "宇宙兄弟（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6749/9784063726749.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:05:00.856Z"
+  },
+  "urusei-yatsura": {
+    "title": "うる星やつら",
+    "isbn": null,
+    "matchedTitle": "うる星やつら〔新装版〕（３）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0220/2000000100220.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-02T09:03:11.004Z"
+  },
+  "uzumaki": {
+    "title": "うずまき",
+    "isbn": "9784091832429",
+    "matchedTitle": "うずまき",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2429/9784091832429_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:04:11.693Z"
+  },
+  "vinland-saga": {
+    "title": "ヴィンランド・サガ",
+    "isbn": "9784063144239",
+    "matchedTitle": "ヴィンランド・サガ（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4239/9784063144239.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:05:02.025Z"
+  },
+  "yakusoku-no-neverland": {
+    "title": "約束のネバーランド",
+    "isbn": "9784088808727",
+    "matchedTitle": "約束のネバーランド 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8727/9784088808727.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:03:55.269Z"
+  },
+  "yotsubato": {
+    "title": "よつばと!",
+    "isbn": "9784048690669",
+    "matchedTitle": "よつばと！（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0669/9784048690669.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:04:24.426Z"
+  },
+  "yu-yu-hakusho": {
+    "title": "幽☆遊☆白書",
+    "isbn": "9784088737188",
+    "matchedTitle": "幽☆遊☆白書完全版（9）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0887/08873718.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T09:02:43.068Z"
   }
 }
