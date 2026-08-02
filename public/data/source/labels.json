@@ -1212,5 +1212,65 @@
     },
     "sourceNote": "日本語版Wikipedia『ビジネスジャンプ』記事(2026-08-02閲覧)で1985年創刊・集英社発行・2011年休刊(後継誌はグランドジャンプ)を確認。『銃夢』(木城ゆきと)は1991年3号から本誌で連載開始したことを同記事および『銃夢』記事(2026-08-02閲覧)で確認。なお続編『銃夢LastOrder』での表現変更を巡るトラブルにより作者は講談社へ移籍し、2018年11月からは『銃夢』本編も講談社イブニングKCDXの新装版が現行の主要な単行本として刊行されている。そのためwork側のpublisherIdは現行刊行元の講談社(kodansha)とし、本レーベル(初出誌)側のpublisherIdのみ連載開始当時の発行元である集英社とした(ハチミツとクローバー/CUTiEcomicと同様のパターン)。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "super-jump",
+    "name": "スーパージャンプ",
+    "nameKana": "スーパージャンプ",
+    "publisherId": "shueisha",
+    "description": "集英社が発行していた青年漫画誌。2004年から『バーテンダー』が連載開始した。2019年休刊。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/スーパージャンプ"
+    },
+    "sourceNote": "日本語版Wikipedia『バーテンダー(漫画)』記事(2026-08-02閲覧)で2004年にスーパージャンプ(集英社)で連載開始したことを確認。既存labels.jsonに同誌の登録がなかったため新規追加。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "grand-jump",
+    "name": "グランドジャンプ",
+    "nameKana": "グランドジャンプ",
+    "publisherId": "shueisha",
+    "description": "集英社が発行する青年漫画誌。2019年から『Shrink〜精神科医ヨワイ〜』が連載開始した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/グランドジャンプ"
+    },
+    "sourceNote": "日本語版Wikipedia『Shrink〜精神科医ヨワイ〜』記事および集英社グランドジャンプ公式サイト(2026-08-02閲覧)で2019年にグランドジャンプで連載開始したことを確認。既存labels.jsonに同誌の登録がなかったため新規追加。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "gekkan-spirits",
+    "name": "月刊!スピリッツ",
+    "nameKana": "ゲッカンスピリッツ",
+    "publisherId": "shogakukan",
+    "description": "小学館が発行していた月刊青年漫画誌(『ビッグコミックスピリッツ』とは別の月刊誌)。2012年から『重版出来!』が連載開始した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/月刊!スピリッツ"
+    },
+    "sourceNote": "日本語版Wikipedia『重版出来!』記事(2026-08-02閲覧)で2012年11月号(月刊!スピリッツ、小学館)で連載開始したことを確認。既存の『ビッグコミックスピリッツ』とは別誌のため安易に同一視せず新規レーベルとして追加した(CLAUDE.mdの類似誌名注意方針に沿う)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "big-comic-original-zokan",
+    "name": "ビッグコミックオリジナル増刊",
+    "nameKana": "ビッグコミックオリジナルゾウカン",
+    "publisherId": "shogakukan",
+    "description": "小学館『ビッグコミックオリジナル』の増刊号。1984年に『味いちもんめ』(初回タイトル『アヒル物語』)が連載開始した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/味いちもんめ"
+    },
+    "sourceNote": "Web検索結果(マンバ通信の紹介記事等、2026-08-02閲覧)で、1984年10月15日号の『ビッグコミックオリジナル増刊』に『アヒル物語』のタイトルで初回掲載され、第2回から『味いちもんめ』に改題、1987年に『ビッグコミックスペリオール』創刊とともに同誌へ移籍したことを確認。本レーベルは増刊であり本誌『ビッグコミックオリジナル』(big-comic-original)とは別レーベルとして扱う(既存の『モーニングオープン増刊』と同様のパターン)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "manga-all-man",
+    "name": "MANGAオールマン",
+    "nameKana": "マンガオールマン",
+    "publisherId": "shueisha",
+    "description": "集英社が発行していた青年漫画誌。1998年から『監査役野崎修平』が連載開始したが、2002年に休刊し、その後の連載は『ビジネスジャンプ』(既存レーベル)に引き継がれた。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/監査役野崎修平"
+    },
+    "sourceNote": "日本語版Wikipedia『監査役野崎修平』記事(2026-08-02閲覧)で1998年17号にMANGAオールマン(集英社)で連載開始し、同誌休刊(2002年)後はビジネスジャンプに移籍して2003年に完結したことを確認。labelIdは連載開始時点の初出媒体の方針に従いMANGAオールマンを採用。",
+    "updatedAt": "2026-08-02"
   }
 ]

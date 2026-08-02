@@ -9932,5 +9932,412 @@
     },
     "sourceNote": "日本語版Wikipedia『魔法先生ネギま!』記事(2026-08-02閲覧)で作者(赤松健、既存artist id『akamatsu-ken』を再利用、オリジナル作品)・週刊少年マガジン(講談社)にて2003年2月26日〜2012年3月14日連載・全38巻・テレビアニメ2期/OVA/劇場版『ANIME FINAL』化を確認。第50回小学館漫画賞は「最終候補」止まりで受賞・順位確定には至っていないためawardResultsには含めず。あらすじは独自要約。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shota-no-sushi",
+    "title": "将太の寿司",
+    "titleKana": "しょうたのすし",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "terasawa-daisuke"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "gourmet"
+    ],
+    "firstPublishedYear": 1992,
+    "latestPublishedYear": 1997,
+    "status": "completed",
+    "volumeCount": 27,
+    "synopsis": "北海道の小さな食堂で育った関口将太は、抜群の味覚と負けん気の強さを武器に、上京して東京の江戸前寿司の名店「江戸政」に弟子入りし修業を始める。ライバル店・富士見鮨との対決や全国規模の寿司コンクールへの挑戦を通じて、伝統の技と客をもてなす心を少しずつ身につけ、若くして一人前の寿司職人へと成長していく姿を描いた王道の青春料理漫画。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1996,
+        "result": "少年部門受賞(第20回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/将太の寿司"
+    },
+    "sourceNote": "日本語版Wikipedia『将太の寿司』記事(2026-08-02閲覧)で作者(寺沢大介、原作・作画とも本人)、週刊少年マガジン(講談社)1992〜1997年連載・全27巻、1996年第20回講談社漫画賞少年部門受賞、1999年アニメ化(単発)を確認。あらすじは自分の言葉で要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "moyashimon",
+    "title": "もやしもん",
+    "titleKana": "もやしもん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ishikawa-masayuki"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "evening",
+    "themeIds": [
+      "gourmet",
+      "comedy"
+    ],
+    "firstPublishedYear": 2004,
+    "latestPublishedYear": 2014,
+    "status": "completed",
+    "volumeCount": 13,
+    "synopsis": "菌やカビを肉眼で見て会話までできてしまう特異体質を持つ大学生・沢木惣右衛門直保は、農業大学の応用微生物学研究室に入学する。個性豊かな学生たちや変人揃いの教授陣に振り回されながら、日本酒や味噌、チーズといった発酵食品づくりの現場を巡り、目には見えない微生物の世界の奥深さと面白さを学んでいく学園コメディ。菌のキャラクターたちがコミカルに動き回るのも特徴。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2008,
+        "result": "マンガ大賞(第12回)"
+      },
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2008,
+        "result": "一般部門受賞(第32回)"
+      },
+      {
+        "awardId": "seiun-award",
+        "year": 2015,
+        "result": "コミック部門受賞(第46回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/もやしもん"
+    },
+    "sourceNote": "日本語版Wikipedia『もやしもん』記事(2026-08-02閲覧)で作者、イブニング(講談社)2004〜2013年連載・全13巻(後に月刊モーニングtwoで完結、2025年から続編『もやしもん+』を月刊アフタヌーンで連載中)、2008年第12回手塚治虫文化賞マンガ大賞・第32回講談社漫画賞一般部門、2015年第46回星雲賞コミック部門受賞、2007年・2012年アニメ化を確認。あらすじは自分の言葉で要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "cooking-papa",
+    "title": "クッキングパパ",
+    "titleKana": "クッキングパパ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ueyama-tochi"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning",
+    "themeIds": [
+      "gourmet",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 1985,
+    "status": "ongoing",
+    "volumeCount": 178,
+    "synopsis": "福岡在住の会社員・荒岩一味は、屈強な体格に似合わぬ繊細な料理の腕を持つ家庭料理好きの父親。妻や娘のために毎日台所に立つだけでなく、職場の同僚や近所の人々が抱える悩みごとにも料理でひと肌脱いでいく。旬の食材を活かした簡単で美味しい家庭料理のレシピを、ほのぼのとした日常のエピソードとともに紹介し続けている長寿国民的グルメ漫画。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2015,
+        "result": "特別賞(第39回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/クッキングパパ"
+    },
+    "sourceNote": "日本語版Wikipedia『クッキングパパ』記事(2026-08-02閲覧)で作者、モーニング(講談社)1985年連載開始・現在も連載継続中、単行本178巻(2026年7月時点)、2015年第39回講談社漫画賞特別賞受賞、1992〜1995年アニメ化を確認。あらすじは自分の言葉で要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "aji-ichimonme",
+    "title": "味いちもんめ",
+    "titleKana": "あじいちもんめ",
+    "originalAuthorIds": [
+      "abe-zenta"
+    ],
+    "artistIds": [
+      "kurata-yoshimi"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-original-zokan",
+    "themeIds": [
+      "gourmet",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 1984,
+    "latestPublishedYear": 1999,
+    "status": "completed",
+    "volumeCount": 33,
+    "synopsis": "東京の老舗料亭「藤村」に見習いとして入った鼻っ柱の強い若き調理師は、腕は立つものの人情の機微には疎く、頑固な板長や口うるさい先輩たちにたびたび叱られては壁にぶつかる。客や仲間との衝突を重ねる中で、素材の見極め方や和食の奥深さ、料理人としての心構えを少しずつ学び、一人前の板前へと成長していく人情味あふれる板前修業ものの元祖的作品。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1999,
+        "result": "一般向け部門受賞(第44回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/味いちもんめ"
+    },
+    "sourceNote": "日本語版Wikipedia『味いちもんめ』記事およびマンバ通信の紹介記事(2026-08-02閲覧)で、原作あべ善太・作画倉田よしみ、初回は1984年10月15日号のビッグコミックオリジナル増刊に『アヒル物語』として掲載され第2回から改題、1987年よりビッグコミックスペリオールに移籍、あべ善太の死去(1999年3月)により原作は途中巻で終了(全33巻中途)、1999年第44回小学館漫画賞一般向け部門受賞、アニメ化なしを確認。work側publisherIdは現行刊行元の小学館とした。labelIdは連載開始時点の初出媒体であるビッグコミックオリジナル増刊を採用(1987年移籍後のビッグコミックスペリオールではない)。あらすじは自分の言葉で要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "bartender",
+    "title": "Bartender(バーテンダー)",
+    "titleKana": "バーテンダー",
+    "originalAuthorIds": [
+      "jo-araki"
+    ],
+    "artistIds": [
+      "nagatomo-kenji"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "super-jump",
+    "themeIds": [
+      "gourmet"
+    ],
+    "firstPublishedYear": 2004,
+    "latestPublishedYear": 2011,
+    "status": "completed",
+    "volumeCount": 22,
+    "synopsis": "フランスでの修業を終えて帰国した若き腕利きバーテンダー・佐々倉溜は、六本木の裏路地・暗闇坂にひっそりと佇むバー「イーデンホール」のカウンターに立つ。仕事や恋愛に疲れ、悩みを抱えて訪れる客一人ひとりの事情に静かに耳を傾け、その夜の心情にふさわしい一杯の「神の雫」を作り上げていく、大人のための洋酒とカクテルの蘊蓄あふれる物語。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/バーテンダー_(漫画)"
+    },
+    "sourceNote": "日本語版Wikipedia『バーテンダー(漫画)』記事(2026-08-02閲覧)で原作城アラキ・作画長友健篩、スーパージャンプ(集英社)2004〜2011年連載・全22巻(その後もグランドジャンプ等で断続的に続編)、2006年・2024年アニメ化、2011年テレビドラマ化(相葉雅紀主演)、累計発行部数360万部超(2022年時点)を確認。漫画賞の受賞歴は確認できなかったためawardResultsは空。labelIdは連載開始時点の初出媒体であるスーパージャンプを採用。あらすじは自分の言葉で要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yama-to-shokuyoku-to-watashi",
+    "title": "山と食欲と私",
+    "titleKana": "やまとしょくよくとわたし",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "shinanogawa-hideo"
+    ],
+    "publisherId": "shinchosha",
+    "labelId": "kurage-bunch",
+    "themeIds": [
+      "gourmet",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2015,
+    "status": "ongoing",
+    "volumeCount": 20,
+    "synopsis": "単独登山を趣味とする27歳の会社員・日々野鮎美は、休日になると重い荷物を背負って一人で山へ出かけていく。険しい登山道を登り切った山頂や山小屋で、小さなコンロひとつで作る簡単な自炊メシを味わうひとときが何よりの楽しみ。四季折々に移ろう山の景色と、疲れた体に染み渡る料理の美味しさをじっくりと丁寧に描いた登山グルメ漫画。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/山と食欲と私"
+    },
+    "sourceNote": "日本語版Wikipedia『山と食欲と私』記事(2026-08-02閲覧)で作者、Web媒体くらげバンチ(新潮社)2015年9月連載開始、既刊20巻(2025年11月時点)、2016年エンタミクスコレ読んで漫画ランキング2位・Amazon Kindleランキング1位獲得、累計160万部超(2021年時点)を確認。アニメ化の記載は確認できず。ランキング系の実績は正式な漫画賞・アワードと言い難いためawardResultsには含めなかった。labelIdは既存の『くらげバンチ』レーベルを再利用。あらすじは自分の言葉で要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "boukyaku-no-sachiko",
+    "title": "忘却のサチコ",
+    "titleKana": "ぼうきゃくのサチコ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "abe-jun"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-spirits",
+    "themeIds": [
+      "gourmet",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2014,
+    "status": "ongoing",
+    "volumeCount": 26,
+    "synopsis": "結婚式当日に婚約者に逃げられ、心に深い傷を負ったまま日々を過ごす文芸誌編集者・佐々木幸子は、ある日、美味しいものを夢中で食べている間だけ嫌な記憶を忘れられることに気づく。彼を忘れるための「究極の一皿」を求めて都内の名店や意外なB級グルメを食べ歩きながら、少しずつ前を向いていく姿を描いた美食グルメ漫画。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/忘却のサチコ"
+    },
+    "sourceNote": "日本語版Wikipedia『忘却のサチコ』記事(2026-08-02閲覧)で作者、ビッグコミックスピリッツ(小学館)2014年8月連載開始・連載中、既刊26巻(2026年3月時点)、2018年・2020年テレビ東京でドラマ化(高畑充希主演)、アニメ化なしを確認。漫画賞の受賞歴は確認できずawardResultsは空。labelIdは既存の『ビッグコミックスピリッツ』レーベルを再利用。あらすじは自分の言葉で要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "juuhan-shuttai",
+    "title": "重版出来!",
+    "titleKana": "じゅうはんしゅったい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "matsuda-naoko"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "gekkan-spirits",
+    "themeIds": [
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2023,
+    "status": "completed",
+    "volumeCount": 20,
+    "synopsis": "柔道のオリンピック候補として将来を嘱望されながら、怪我によって選手生命を絶たれた黒沢心は、大手出版社の週刊漫画誌編集部に新人編集者として入社する。才能ある新人漫画家の発掘や、担当作品を世に送り出すための地道な奮闘を通じて、増刷を意味する「重版出来!」の声が響く瞬間を目指していく姿を描いた出版業界のお仕事漫画。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2017,
+        "result": "一般向け部門受賞(第62回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/重版出来!"
+    },
+    "sourceNote": "日本語版Wikipedia『重版出来!』記事(2026-08-02閲覧)で作者、月刊!スピリッツ(小学館)2012年11月号(2012年9月27日)連載開始・2023年8月号(2023年6月27日)完結・全20巻、2014年日本経済新聞仕事マンガランキング1位、2017年第62回小学館漫画賞一般向け部門受賞、2016年TBS系でテレビドラマ化(黒木華主演)、アニメ化なしを確認。あらすじは自分の言葉で要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shrink-seishinka-i-yowai",
+    "title": "Shrink〜精神科医ヨワイ〜",
+    "titleKana": "シュリンクせいしんかいヨワイ",
+    "originalAuthorIds": [
+      "nanami-jin"
+    ],
+    "artistIds": [
+      "tsukiko"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "grand-jump",
+    "themeIds": [
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2019,
+    "status": "ongoing",
+    "volumeCount": 18,
+    "synopsis": "新宿のひだまりクリニックに勤める精神科医・弱井幸之助は、少々頼りない見た目とは裏腹に、患者一人ひとりの言葉にじっくりと耳を傾け真摯に向き合う。うつ病や双極性障害、発達障害、パニック障害など様々な悩みを抱えて訪れる人々の物語を、診断名を早い段階で示しながら丁寧に描き、現代日本の精神医療への理解を広げていく医療漫画。",
+    "awardResults": [
+      {
+        "awardId": "saito-takao-award",
+        "year": 2021,
+        "result": "受賞(第5回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Shrink〜精神科医ヨワイ〜"
+    },
+    "sourceNote": "日本語版Wikipedia『Shrink〜精神科医ヨワイ〜』記事(2026-08-02閲覧)で原作七海仁・作画月子、グランドジャンプ(集英社)2019年13号連載開始、既刊18巻(2026年5月時点)、2021年12月第5回さいとう・たかを賞受賞、2024年NHKでテレビドラマ化(中村倫也主演)、累計170万部超(2026年5月時点)を確認。アニメ化の記載は確認できず。あらすじは自分の言葉で要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "fragile",
+    "title": "フラジャイル 病理医岸京一郎の所見",
+    "titleKana": "フラジャイルびょうりいきしきょういちろうのしょけん",
+    "originalAuthorIds": [
+      "kusamizu-bin"
+    ],
+    "artistIds": [
+      "megumi-saburo"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "afternoon",
+    "themeIds": [
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2014,
+    "status": "ongoing",
+    "volumeCount": 31,
+    "synopsis": "患者を直接診ることのない病理医・岸京一郎は、他の診療科から届く組織検体を顕微鏡で調べ上げ、病名を突き止める「病気の裁判官」のような存在。的確な所見を出す腕は確かだが口が悪く敬遠されがちな彼が、根拠のない見立てで診断を下してしまう臨床医たちの誤りに鋭く切り込み、正しい診断へと導いていく異色の医療漫画。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2018,
+        "result": "一般部門受賞(第42回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/フラジャイル_病理医岸京一郎の所見"
+    },
+    "sourceNote": "日本語版Wikipedia『フラジャイル 病理医岸京一郎の所見』記事(2026-08-02閲覧)で原作草水敏・作画恵三朗、月刊アフタヌーン(講談社)2014年8月連載開始・連載中、既刊31巻(2026年3月時点)、2018年第42回講談社漫画賞一般部門受賞、2016年フジテレビでテレビドラマ化(永瀬廉主演)を確認。当初の候補メモにあった副題「解剖録」は誤りで、正式タイトルは「所見」であることをWikipedia記事タイトルで確認・訂正した。あらすじは自分の言葉で要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kounodori",
+    "title": "コウノドリ",
+    "titleKana": "コウノドリ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "suzunoki-yu"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning",
+    "themeIds": [
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 32,
+    "synopsis": "かつてジャズピアニストを目指していた過去を持つ産婦人科医・鴻鳥サクラは、総合病院の産婦人科医局で日々出産の現場に立ち会う。切迫流産や不妊治療、若年妊娠、障害を持つ子の誕生、周産期医療の限界など、出産をめぐる様々な事情を抱えた患者やその家族と真摯に向き合う姿を、医療の現実を交えながら丁寧に描いた医療漫画。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2016,
+        "result": "一般部門受賞(第40回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/コウノドリ"
+    },
+    "sourceNote": "日本語版Wikipedia『コウノドリ』記事(2026-08-02閲覧)で作者、モーニング(講談社)2012年7月26日〜2020年5月7日連載・全32巻(+新型コロナ編1巻)、2015年・2017年TBSでテレビドラマ化(綾野剛主演)、2016年第40回講談社漫画賞一般部門受賞、累計940万部超(2022年4月時点)を確認。あらすじは自分の言葉で要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kansayaku-nozaki-shuuhei",
+    "title": "監査役野崎修平",
+    "titleKana": "かんさやくのざきしゅうへい",
+    "originalAuthorIds": [
+      "shu-ryouka"
+    ],
+    "artistIds": [
+      "noda-shigeru"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "manga-all-man",
+    "themeIds": [
+      "business",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 1998,
+    "latestPublishedYear": 2003,
+    "status": "completed",
+    "volumeCount": 12,
+    "synopsis": "地方支店長から本店の監査役へ異例の栄転を果たした野崎修平は、名ばかりの閑職と見られがちな監査役という職務に真正面から取り組み始める。バブル崩壊後の銀行内部に隠された不良債権の隠蔽工作や不正融資、経営陣の派閥抗争に、たった一人の監査役として敢然と立ち向かっていく姿を描いた金融業界を舞台にした経済ドラマ漫画。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/監査役野崎修平"
+    },
+    "sourceNote": "日本語版Wikipedia『監査役野崎修平』記事(2026-08-02閲覧)で原作周良貨・作画能田茂、MANGAオールマン(集英社)1998年17号連載開始、全12巻、同誌休刊(2002年)後はビジネスジャンプに移籍し2003年完結(その後『銀行大合併編』全4巻・続編『頭取野崎修平』全10巻)、2018年WOWOWでテレビドラマ化(織田裕二主演)、2020年続編ドラマ化を確認。漫画賞の受賞歴は確認できずawardResultsは空。firstPublishedYear/latestPublishedYear/volumeCountは第1部『監査役野崎修平』(1998〜2003年、全12巻)のみを対象とし、後続の『銀行大合併編』『頭取野崎修平』は含めていない。あらすじは自分の言葉で要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
   }
 ]

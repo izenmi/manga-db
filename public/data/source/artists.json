@@ -2898,5 +2898,137 @@
     },
     "sourceNote": "日本語版Wikipedia『宮下あきら』記事(2026-08-02閲覧)で生年・出身地・代表作を確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "terasawa-daisuke",
+    "name": "寺沢大介",
+    "nameKana": "てらさわだいすけ",
+    "description": "漫画家。『将太の寿司』『ミスター味っ子』など料理を題材にした作品で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/将太の寿司"
+    },
+    "sourceNote": "日本語版Wikipedia『将太の寿司』記事(2026-08-02閲覧)で作者としてのクレジットを確認。オリジナル作品(作画家自身が原作も担当)のためoriginalAuthorIdsには入れずartistIdsのみに登録。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ishikawa-masayuki",
+    "name": "石川雅之",
+    "nameKana": "いしかわまさゆき",
+    "description": "漫画家。『もやしもん』で第12回手塚治虫文化賞マンガ大賞・第32回講談社漫画賞一般部門を受賞。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/石川雅之"
+    },
+    "sourceNote": "日本語版Wikipedia『もやしもん』『石川雅之』記事(2026-08-02閲覧)で作者・受賞歴を確認。オリジナル作品のためoriginalAuthorIdsは空。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ueyama-tochi",
+    "name": "うえやまとち",
+    "nameKana": "うえやまとち",
+    "description": "漫画家。福岡を舞台にした料理漫画『クッキングパパ』を1985年から現在まで長期連載している。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/クッキングパパ"
+    },
+    "sourceNote": "日本語版Wikipedia『クッキングパパ』記事(2026-08-02閲覧)で作者・連載期間を確認。オリジナル作品のためoriginalAuthorIdsは空。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kurata-yoshimi",
+    "name": "倉田よしみ",
+    "nameKana": "くらたよしみ",
+    "description": "漫画家。あべ善太との共作『味いちもんめ』の作画を担当し、あべの死後も続編シリーズの作画を継続している。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/味いちもんめ"
+    },
+    "sourceNote": "日本語版Wikipedia『味いちもんめ』記事および小学館ビッコミ公式作品ページ(2026-08-02閲覧)で作画担当としてのクレジットを確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nagatomo-kenji",
+    "name": "長友健篩",
+    "nameKana": "ながともけんじ",
+    "description": "漫画家。城アラキ原作『バーテンダー』の作画を担当し、バーやカクテルの精緻な描写で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/バーテンダー_(漫画)"
+    },
+    "sourceNote": "日本語版Wikipedia『バーテンダー(漫画)』記事(2026-08-02閲覧)で作画担当としてのクレジットを確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shinanogawa-hideo",
+    "name": "信濃川日出雄",
+    "nameKana": "しなのがわひでお",
+    "description": "漫画家。登山とグルメを組み合わせた『山と食欲と私』の作者。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/山と食欲と私"
+    },
+    "sourceNote": "日本語版Wikipedia『山と食欲と私』記事(2026-08-02閲覧)で作者・連載媒体を確認。オリジナル作品のためoriginalAuthorIdsは空。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "abe-jun",
+    "name": "阿部潤",
+    "nameKana": "あべじゅん",
+    "description": "漫画家。グルメをテーマにした『忘却のサチコ』の作者。同作はテレビドラマ化もされた。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/忘却のサチコ"
+    },
+    "sourceNote": "日本語版Wikipedia『忘却のサチコ』記事(2026-08-02閲覧)で作者・連載媒体を確認。オリジナル作品のためoriginalAuthorIdsは空。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "matsuda-naoko",
+    "name": "松田奈緒子",
+    "nameKana": "まつだなおこ",
+    "description": "漫画家。出版業界を題材にした『重版出来!』の作者。同作は第62回小学館漫画賞を受賞、テレビドラマ化もされた。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/重版出来!"
+    },
+    "sourceNote": "日本語版Wikipedia『重版出来!』記事(2026-08-02閲覧)で作者・受賞歴を確認。オリジナル作品のためoriginalAuthorIdsは空。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tsukiko",
+    "name": "月子",
+    "nameKana": "つきこ",
+    "description": "漫画家。七海仁原作『Shrink〜精神科医ヨワイ〜』の作画を担当。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Shrink〜精神科医ヨワイ〜"
+    },
+    "sourceNote": "日本語版Wikipedia『Shrink〜精神科医ヨワイ〜』記事(2026-08-02閲覧)で作画担当としてのクレジットを確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "megumi-saburo",
+    "name": "恵三朗",
+    "nameKana": "めぐみさぶろう",
+    "description": "漫画家。草水敏原作『フラジャイル 病理医岸京一郎の所見』の作画を担当。同作は第42回講談社漫画賞一般部門を受賞。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/フラジャイル_病理医岸京一郎の所見"
+    },
+    "sourceNote": "日本語版Wikipedia『フラジャイル 病理医岸京一郎の所見』記事(2026-08-02閲覧)で作画担当・受賞歴を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "suzunoki-yu",
+    "name": "鈴ノ木ユウ",
+    "nameKana": "すずのきゆう",
+    "description": "漫画家。産婦人科医療を題材にした『コウノドリ』の作者。同作は第40回講談社漫画賞一般部門を受賞。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/コウノドリ"
+    },
+    "sourceNote": "日本語版Wikipedia『コウノドリ』記事(2026-08-02閲覧)で作者・受賞歴を確認。オリジナル作品のためoriginalAuthorIdsは空。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "noda-shigeru",
+    "name": "能田茂",
+    "nameKana": "のだしげる",
+    "description": "漫画家。銀行を舞台にした企業漫画『監査役野崎修平』シリーズの作画を周良貨との共作で手がける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/監査役野崎修平"
+    },
+    "sourceNote": "日本語版Wikipedia『監査役野崎修平』記事(2026-08-02閲覧)で作画担当としてのクレジットを確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

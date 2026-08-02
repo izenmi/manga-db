@@ -674,5 +674,60 @@
     },
     "sourceNote": "日本語版Wikipedia『附田祐斗』記事(2026-08-02閲覧)で生年・出身地・経歴・代表作(食戟のソーマ、作画:佐伯俊)を確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "abe-zenta",
+    "name": "あべ善太",
+    "nameKana": "あべぜんた",
+    "description": "漫画原作者。『味いちもんめ』の原作を倉田よしみとのコンビで手がけた。1999年3月14日に死去し、以後の続編は久部緑郎らが原作を引き継いでいる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/味いちもんめ"
+    },
+    "sourceNote": "日本語版Wikipedia『味いちもんめ』記事(2026-08-02閲覧)およびビッグコミックBROS.NET等の作品情報で、原作者としてクレジットされていることを確認。生没年の詳細プロフィール記事は未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "jo-araki",
+    "name": "城アラキ",
+    "nameKana": "じょうあらき",
+    "description": "漫画原作者。立教大学在学中からライター業を始め、コピーライターを経て漫画原作者に転身。酒をテーマにした作品を多く手がけ、『ソムリエ』『バーテンダー』などが代表作。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/城アラキ"
+    },
+    "sourceNote": "日本語版Wikipedia『城アラキ』『バーテンダー(漫画)』記事(2026-08-02閲覧)で経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nanami-jin",
+    "name": "七海仁",
+    "nameKana": "ななみじん",
+    "description": "漫画原作者。『Shrink〜精神科医ヨワイ〜』の原作を月子との共作で手がける。精神医療をテーマにした題材選びで知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Shrink〜精神科医ヨワイ〜"
+    },
+    "sourceNote": "日本語版Wikipedia『Shrink〜精神科医ヨワイ〜』記事(2026-08-02閲覧)で原作者としてのクレジットを確認。読み仮名は本人SNSアカウント表記(jin7seas)等を参考にしたが、公式ふりがな表記までは確認できておらず未確定要素として付記する。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kusamizu-bin",
+    "name": "草水敏",
+    "nameKana": "くさみずびん",
+    "description": "漫画原作者。医療関係者としての知見を活かし、病理医を主人公にした『フラジャイル 病理医岸京一郎の所見』の原作を恵三朗との共作で手がける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/フラジャイル_病理医岸京一郎の所見"
+    },
+    "sourceNote": "日本語版Wikipedia『フラジャイル 病理医岸京一郎の所見』記事および医学書院医学界新聞インタビュー記事(2026-08-02閲覧)で原作者としてのクレジットを確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shu-ryouka",
+    "name": "周良貨",
+    "nameKana": "しゅうりょうか",
+    "description": "漫画原作者。銀行・金融業界を題材にした企業漫画を多く手がけ、能田茂との共作『監査役野崎修平』シリーズが代表作。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/監査役野崎修平"
+    },
+    "sourceNote": "日本語版Wikipedia『監査役野崎修平』記事(2026-08-02閲覧)で原作者としてのクレジットを確認。",
+    "updatedAt": "2026-08-02"
   }
 ]
