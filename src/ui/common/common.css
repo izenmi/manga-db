@@ -25,7 +25,7 @@
   font-weight: 800;
   font-size: 1.05rem;
   text-decoration: none;
-  color: var(--color-blue-deep);
+  color: var(--color-orange-deep);
   margin-right: 4px;
   letter-spacing: 0.02em;
 }
@@ -53,7 +53,7 @@
 .top-nav__links a.active,
 .top-nav__links a:hover {
   background: var(--color-surface);
-  color: var(--color-blue-deep);
+  color: var(--color-orange-deep);
 }
 
 h1 {
@@ -97,7 +97,7 @@ h1 {
 }
 
 .entity-list__item a:hover {
-  border-color: var(--color-blue-strong);
+  border-color: var(--color-orange-strong);
 }
 
 .entity-list__count {
@@ -129,8 +129,8 @@ h1 {
 }
 
 .chip:hover {
-  background: var(--color-blue);
-  border-color: var(--color-blue-strong);
+  background: var(--color-orange);
+  border-color: var(--color-orange-strong);
   color: var(--color-ink-on-accent);
 }
 
@@ -207,7 +207,7 @@ h1 {
 }
 
 .pager__page:hover {
-  border-color: var(--color-blue-strong);
+  border-color: var(--color-orange-strong);
 }
 
 .pager__page--active,
@@ -244,11 +244,11 @@ h1 {
 
 .pager__prev:not(:disabled):hover,
 .pager__next:not(:disabled):hover {
-  border-color: var(--color-blue-strong);
+  border-color: var(--color-orange-strong);
 }
 
 .work-card:hover {
-  border-color: var(--color-blue-strong);
+  border-color: var(--color-orange-strong);
 }
 
 .work-card__cover-link {
@@ -420,7 +420,7 @@ h1 {
 }
 
 .filter-clear-btn:hover {
-  border-color: var(--color-blue-strong);
+  border-color: var(--color-orange-strong);
   color: var(--color-text);
 }
 
@@ -434,7 +434,7 @@ h1 {
 .home-hero h1 {
   font-size: 1.9rem;
   margin: 0;
-  color: var(--color-blue-deep);
+  color: var(--color-orange-deep);
   letter-spacing: 0.03em;
 }
 
