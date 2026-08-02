@@ -88,5 +88,55 @@
     },
     "sourceNote": "日本語版Wikipedia『HERO (漫画家)』記事(2026-08-02閲覧)で経歴・代表作を確認。生年は記事に記載なし(誕生日5月10日のみ記載)のため未入力。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shirai-kaiu",
+    "name": "白井カイウ",
+    "nameKana": "しらいかいう",
+    "description": "「約束のネバーランド」の原作を担当する漫画原作者。岐阜県出身。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/白井カイウ"
+    },
+    "sourceNote": "日本語版Wikipedia『白井カイウ』記事(2026-08-02閲覧)で経歴を確認。生年月日は非公表。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kawamoto-homura",
+    "name": "河本ほむら",
+    "nameKana": "かわもとほむら",
+    "description": "「賭ケグルイ」の原作を担当する漫画原作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『賭ケグルイ』記事(2026-08-02閲覧)のクレジット表記(原作:河本ほむら)で確認。個人プロフィールの詳細は確認できず。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "miura-tsuina",
+    "name": "三浦追儺",
+    "nameKana": "みうらついな",
+    "description": "「亜人」第1巻の原作を担当した漫画原作者。第2巻以降は桜井画門が原作・作画を単独で担当している。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『亜人(漫画)』記事および関連報道(2026-08-02閲覧)でクレジット(1巻のみ原作担当)を確認。生年等の詳細プロフィールは確認できず。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tezuka-osamu",
+    "name": "手塚治虫",
+    "nameKana": "てづかおさむ",
+    "description": "「鉄腕アトム」等で知られる漫画家。「PLUTO」は代表作中のエピソード「地上最大のロボット」を原作としたリメイク作品。",
+    "birthYear": 1928,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/手塚治虫"
+    },
+    "sourceNote": "日本語版Wikipedia『PLUTO』『手塚治虫』記事(2026-08-02閲覧)で、PLUTOが「鉄腕アトム」内エピソード「地上最大のロボット」を原作とすることを確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "sasuga-yuu",
+    "name": "貴家悠",
+    "nameKana": "きがゆう",
+    "description": "「テラフォーマーズ」の原作を担当する漫画原作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『テラフォーマーズ』記事(2026-08-02閲覧)のクレジット表記(原作:貴家悠)で確認。個人プロフィール詳細は確認できず。",
+    "updatedAt": "2026-08-02"
   }
 ]

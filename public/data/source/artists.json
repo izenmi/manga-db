@@ -590,5 +590,125 @@
     },
     "sourceNote": "日本語版Wikipedia『村田真優』記事(2026-08-02閲覧)で経歴・代表作を確認。生年は記事に記載なし(誕生日1月24日のみ記載)のため未入力。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "iwaaki-hitoshi",
+    "name": "岩明均",
+    "nameKana": "いわあきひとし",
+    "description": "「寄生獣」「ヒストリエ」等で知られる漫画家。",
+    "birthYear": 1960,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/岩明均"
+    },
+    "sourceNote": "日本語版Wikipedia『岩明均』記事(2026-08-02閲覧)で経歴・生年を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "izumi-posuka",
+    "name": "出水ぽすか",
+    "nameKana": "いずみぽすか",
+    "description": "「約束のネバーランド」の作画を担当する漫画家・イラストレーター。",
+    "birthYear": 1988,
+    "externalLinks": {},
+    "sourceNote": "各種プロフィール紹介記事(2026-08-02閲覧)で生年月日等を確認。日本語版Wikipedia単独記事は未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "fukumoto-nobuyuki",
+    "name": "福本伸行",
+    "nameKana": "ふくもとのぶゆき",
+    "description": "「賭博黙示録カイジ」「アカギ」等ギャンブル・心理サスペンス漫画で知られる漫画家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/福本伸行"
+    },
+    "sourceNote": "日本語版Wikipedia『福本伸行』記事(2026-08-02閲覧)で経歴を確認。生年月日は情報源により確認できず。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shoumura-tooru",
+    "name": "尚村透",
+    "nameKana": "しょうむらとおる",
+    "description": "「賭ケグルイ」の作画を担当する漫画家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『賭ケグルイ』記事(2026-08-02閲覧)のクレジット表記(作画:尚村透)で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "urasawa-naoki",
+    "name": "浦沢直樹",
+    "nameKana": "うらさわなおき",
+    "description": "「YAWARA!」「MONSTER」「20世紀少年」「PLUTO」等を手掛ける漫画家。",
+    "birthYear": 1960,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/浦沢直樹"
+    },
+    "sourceNote": "日本語版Wikipedia『浦沢直樹』記事(2026-08-02閲覧)で経歴・生年を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "sakurai-gamon",
+    "name": "桜井画門",
+    "nameKana": "さくらいがもん",
+    "description": "「亜人」の作画を担当する漫画家。第2巻以降は原作・作画を単独で担当している。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/桜井画門"
+    },
+    "sourceNote": "日本語版Wikipedia『桜井画門』記事(2026-08-02閲覧)で経歴を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hayashida-kyuu",
+    "name": "林田球",
+    "nameKana": "はやしだきゅう",
+    "description": "「ドロヘドロ」で知られる漫画家。東京都出身。",
+    "birthYear": 1977,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/林田球"
+    },
+    "sourceNote": "日本語版Wikipedia『林田球』記事(2026-08-02閲覧)で経歴・生年を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tachibana-kenichi",
+    "name": "橘賢一",
+    "nameKana": "たちばなけんいち",
+    "description": "「テラフォーマーズ」の作画を担当する漫画家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『テラフォーマーズ』記事(2026-08-02閲覧)のクレジット表記(作画:橘賢一)で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "noda-satoru",
+    "name": "野田サトル",
+    "nameKana": "のださとる",
+    "description": "「ゴールデンカムイ」で知られる漫画家。北海道出身。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/野田サトル"
+    },
+    "sourceNote": "日本語版Wikipedia『野田サトル』記事(2026-08-02閲覧)で経歴を確認。生年月日は非公表。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "matsumoto-kouji",
+    "name": "松本光司",
+    "nameKana": "まつもとこうじ",
+    "description": "「彼岸島」シリーズで知られる漫画家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/彼岸島"
+    },
+    "sourceNote": "日本語版Wikipedia『彼岸島』記事(2026-08-02閲覧)のクレジット表記(作者:松本光司)で確認。個人プロフィールの詳細は確認できず。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ito-junji",
+    "name": "伊藤潤二",
+    "nameKana": "いとうじゅんじ",
+    "description": "「うずまき」「富江」等のホラー漫画で国際的に知られる漫画家。岐阜県出身。",
+    "birthYear": 1963,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/伊藤潤二"
+    },
+    "sourceNote": "各種プロフィール紹介記事(2026-08-02閲覧)で経歴・生年月日を確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

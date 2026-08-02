@@ -73,5 +73,20 @@
     "id": "music",
     "name": "音楽",
     "description": "音楽活動や音楽家を題材にした作品。"
+  },
+  {
+    "id": "horror",
+    "name": "ホラー",
+    "description": "恐怖や不気味さを主題とした作品。"
+  },
+  {
+    "id": "death-game",
+    "name": "デスゲーム",
+    "description": "命を懸けたゲームや極限状況でのサバイバルを描く作品。"
+  },
+  {
+    "id": "gourmet",
+    "name": "グルメ",
+    "description": "食事や料理が物語の重要な要素になる作品。"
   }
 ]

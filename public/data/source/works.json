@@ -1963,5 +1963,485 @@
     },
     "sourceNote": "日本語版Wikipedia『ハニーレモンソーダ』記事(2026-08-02閲覧)で作者・掲載誌(りぼん/集英社)・連載期間(2015年12月～2026年4月完結)・既刊巻数(本編31巻+番外編2巻=33巻)・受賞歴・アニメ化/ノベライズを確認。『セブンティーン』読者投票1位は当サイトの賞リストに存在しないため未収録。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kiseiju",
+    "title": "寄生獣",
+    "titleKana": "きせいじゅう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "iwaaki-hitoshi"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "horror",
+      "sci-fi",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 1989,
+    "latestPublishedYear": 1995,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "地球に飛来した謎の生物が人間の脳を乗っ取り、擬態して人を捕食し始める。高校生・泉新一は寄生に失敗した生物「ミギー」と右手だけを共有し、人間でも寄生生物でもない存在として、命の奪い合いの渦中に投げ込まれていく。捕食者と人間の境界を通じて、生命や共生の意味を問いかけるSFホラーの傑作。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1993,
+        "result": "一般部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/寄生獣"
+    },
+    "sourceNote": "日本語版Wikipedia『寄生獣』記事(2026-08-02閲覧)で作者・掲載誌(月刊アフタヌーン/講談社)・連載期間(1989-1995)・既刊10巻・1993年講談社漫画賞受賞を確認。星雲賞(1996年)受賞歴もあるが本DB未登録の賞のため今回は記載せず。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yakusoku-no-neverland",
+    "title": "約束のネバーランド",
+    "titleKana": "やくそくのねばーらんど",
+    "originalAuthorIds": [
+      "shirai-kaiu"
+    ],
+    "artistIds": [
+      "izumi-posuka"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "suspense-psychological",
+      "horror",
+      "death-game",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 20,
+    "synopsis": "孤児院で幸せに暮らす子どもたちは、実は「鬼」に食料として出荷されるための存在だった。真実を知った少女エマたちは、仲間を守るため脱獄と生存戦略を練り上げていく。知略と裏切りが渦巻く中、子どもたちの絆と成長を描くサバイバルサスペンス。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2017,
+        "result": "少年向け部門受賞"
+      },
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2018,
+        "result": "オトコ編1位"
+      },
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2021,
+        "result": "マンガ大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/約束のネバーランド"
+    },
+    "sourceNote": "日本語版Wikipedia『約束のネバーランド』記事(2026-08-02閲覧)で原作・作画者名、週刊少年ジャンプ連載(2016-2020)、全20巻、2017年小学館漫画賞・2018年このマンガがすごい!オトコ編1位・2021年手塚治虫文化賞マンガ大賞を確認。マンガ大賞2018等その他の本DB未登録の賞は今回省略。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tobaku-mokushiroku-kaiji",
+    "title": "賭博黙示録カイジ",
+    "titleKana": "とばくもくしろくかいじ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "fukumoto-nobuyuki"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "death-game",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 1996,
+    "status": "ongoing",
+    "synopsis": "気弱な青年・伊藤開司は友人の借金の保証人にされ、莫大な借金を背負う。人生一発逆転を狙い、闇のカジノ船で行われる命がけの心理戦ギャンブルに挑む。限定じゃんけんやEカードなど独創的な頭脳戦を通じ、人間の欲望と狡猾さが赤裸々に描かれる。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1998,
+        "result": "一般部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/賭博黙示録カイジ"
+    },
+    "sourceNote": "日本語版Wikipedia『賭博黙示録カイジ』記事(2026-08-02閲覧)で作者(福本伸行、オリジナル作品)・週刊ヤングマガジン(講談社)連載・1998年講談社漫画賞受賞を確認。シリーズは『賭博破戒録カイジ』以降複数の続編作に分かれ2026年現在も連載中のため、latestPublishedYear/volumeCountは特定せず未記入。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kakegurui",
+    "title": "賭ケグルイ",
+    "titleKana": "かけぐるい",
+    "originalAuthorIds": [
+      "kawamoto-homura"
+    ],
+    "artistIds": [
+      "shoumura-tooru"
+    ],
+    "publisherId": "square-enix",
+    "themeIds": [
+      "death-game",
+      "suspense-psychological",
+      "school"
+    ],
+    "firstPublishedYear": 2014,
+    "status": "ongoing",
+    "volumeCount": 21,
+    "synopsis": "上流階級の子女が集う私立百花王学園では、ギャンブルの勝敗が生徒の身分序列を決定する。転校生・蛇喰夢子は勝敗そのものより賭けの興奮を愛する異常なギャンブラーとして、生徒会が牛耳る学園の秩序に次々と挑み、その裏に潜む秘密を暴いていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/賭ケグルイ"
+    },
+    "sourceNote": "日本語版Wikipedia『賭ケグルイ』記事(2026-08-02閲覧)で原作:河本ほむら/作画:尚村透、月刊ガンガンJOKER(スクウェア・エニックス)連載、2014年開始・既刊21巻(2026年3月時点)・連載中であることを確認。『次にくるマンガ大賞』は本DB未登録の賞のため受賞歴は空欄とした。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "monster",
+    "title": "MONSTER",
+    "titleKana": "もんすたー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "urasawa-naoki"
+    ],
+    "publisherId": "shogakukan",
+    "themeIds": [
+      "suspense-psychological",
+      "detective-mystery",
+      "horror"
+    ],
+    "firstPublishedYear": 1994,
+    "latestPublishedYear": 2001,
+    "status": "completed",
+    "volumeCount": 18,
+    "synopsis": "西ドイツの病院に勤める天才外科医テンマは、上司の指示に背いて瀕死の少年ヨハンを救う。9年後、テンマは成長したヨハンが冷酷な連続殺人者となっていたことを知り、自らが救った命の責任を取るべく単身追跡を始める。善悪の境界を問う心理サスペンス。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 1999,
+        "result": "マンガ大賞"
+      },
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2000,
+        "result": "一般部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/MONSTER_(漫画)"
+    },
+    "sourceNote": "日本語版Wikipedia『MONSTER(漫画)』記事(2026-08-02閲覧)で作者(浦沢直樹、オリジナル作品)・ビッグコミックオリジナル(小学館)連載(1994-2001)・既刊18巻・1999年手塚治虫文化賞マンガ大賞・2000年小学館漫画賞一般部門受賞を確認。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "20th-century-boys",
+    "title": "20世紀少年",
+    "titleKana": "にじゅっせいきしょうねん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "urasawa-naoki"
+    ],
+    "publisherId": "shogakukan",
+    "themeIds": [
+      "suspense-psychological",
+      "detective-mystery",
+      "sci-fi",
+      "adventure"
+    ],
+    "firstPublishedYear": 1999,
+    "latestPublishedYear": 2007,
+    "status": "completed",
+    "volumeCount": 24,
+    "synopsis": "少年時代に仲間と描いた「よげんの書」の内容が、大人になった後の世界で次々と現実になっていく。謎の教祖“ともだち”による世界征服計画に気づいた主人公ケンヂは、かつての仲間たちと共に、正体不明の脅威に立ち向かう長大なサスペンス群像劇。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2001,
+        "result": "一般部門受賞"
+      },
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2002,
+        "result": "青年一般部門受賞"
+      },
+      {
+        "awardId": "nihon-mangaka-kyokai-sho",
+        "year": 2008,
+        "result": "大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/20世紀少年"
+    },
+    "sourceNote": "日本語版Wikipedia『20世紀少年』記事(2026-08-02閲覧)で作者(浦沢直樹、オリジナル作品)・ビッグコミックスピリッツ(小学館)連載(20世紀少年1999-2006、21世紀少年2007)・全24巻(22+2)・完結、2001年講談社漫画賞一般部門・2002年小学館漫画賞青年一般部門・2008年日本漫画家協会賞大賞を確認。星雲賞・アングレーム国際漫画祭賞・米国アイズナー賞は本DB未登録の賞のため今回は省略。実写映画版はあるがアニメ化・小説化は未確認のためmediaMixはfalseとした。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "pluto",
+    "title": "PLUTO",
+    "titleKana": "ぷるうと",
+    "originalAuthorIds": [
+      "tezuka-osamu"
+    ],
+    "artistIds": [
+      "urasawa-naoki"
+    ],
+    "publisherId": "shogakukan",
+    "themeIds": [
+      "sci-fi",
+      "detective-mystery",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2003,
+    "latestPublishedYear": 2009,
+    "status": "completed",
+    "volumeCount": 8,
+    "synopsis": "手塚治虫「鉄腕アトム」の名エピソード「地上最大のロボット」を浦沢直樹が再構築。世界最高性能を誇るロボットたちが次々と殺害される猟奇事件を、ドイツの捜査官ロボット・ゲジヒトが追う。憎悪や喪失を抱える“心”の物語として描かれるSFミステリー。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2005,
+        "result": "マンガ大賞"
+      },
+      {
+        "awardId": "bunkacho-media-geijutsusai",
+        "year": 2005,
+        "result": "マンガ部門優秀賞"
+      },
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2006,
+        "result": "オトコ編1位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/PLUTO"
+    },
+    "sourceNote": "日本語版Wikipedia『PLUTO』記事(2026-08-02閲覧)で原作:手塚治虫(「鉄腕アトム」内エピソードのリメイク)・作画:浦沢直樹、ビッグコミックオリジナル(小学館)連載(2003-2009)・全8巻・2005年手塚治虫文化賞マンガ大賞/文化庁メディア芸術祭マンガ部門優秀賞・2006年このマンガがすごい!オトコ編1位を確認。プロデューサー長崎尚志ら他の制作クレジットは本DBのデータモデル上省略。2023年Netflixアニメ化(既知情報)によりmediaMix.animeをtrueとした。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ajin",
+    "title": "亜人",
+    "titleKana": "あじん",
+    "originalAuthorIds": [
+      "miura-tsuina"
+    ],
+    "artistIds": [
+      "sakurai-gamon"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "battle-action",
+      "suspense-psychological",
+      "horror",
+      "sci-fi"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2021,
+    "status": "completed",
+    "volumeCount": 17,
+    "synopsis": "交通事故で命を落としたはずの高校生・永井圭は、死なない新種の生命体「亜人」であることが判明し、政府の追跡対象になる。同じ亜人でありながら人類への復讐を企てるテロリスト・佐藤の存在を知った圭は、その野望を止めるため戦いに身を投じる。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/亜人_(漫画)"
+    },
+    "sourceNote": "日本語版Wikipedia『亜人(漫画)』記事(2026-08-02閲覧)でgood!アフタヌーン(講談社)連載(2012-2021)・全17巻・完結を確認。原作クレジットは第1巻のみ三浦追儺、第2巻以降は桜井画門が原作・作画を単独で担当する変則的な体制だが、本DBでは初期クレジットに準じてoriginalAuthorIds/artistIdsを分けて登録した。受賞歴は確認できず空欄。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "dorohedoro",
+    "title": "ドロヘドロ",
+    "titleKana": "どろへどろ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hayashida-kyuu"
+    ],
+    "publisherId": "shogakukan",
+    "themeIds": [
+      "dark-fantasy",
+      "horror",
+      "comedy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2000,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 23,
+    "synopsis": "魔法使いの実験により頭を爬虫類状に変えられ、記憶を失った男カイマンは、相棒ニカイドウと共に自らを元に戻す方法と失われた記憶を求め、人間を狩る魔法使いたちに立ち向かう。退廃した世界を舞台にグロテスクな笑いとバイオレンスが同居する異色ダークファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ドロヘドロ"
+    },
+    "sourceNote": "日本語版Wikipedia『ドロヘドロ』記事(2026-08-02閲覧)で作者(林田球、オリジナル作品)・小学館の複数誌(月刊IKKI等)での連載(2000-2018)・全23巻・完結を確認。受賞歴の記載は見つからず空欄。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "terra-formars",
+    "title": "テラフォーマーズ",
+    "titleKana": "てらふぉーまーず",
+    "originalAuthorIds": [
+      "sasuga-yuu"
+    ],
+    "artistIds": [
+      "tachibana-kenichi"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "sci-fi",
+      "battle-action",
+      "horror",
+      "adventure"
+    ],
+    "firstPublishedYear": 2011,
+    "status": "ongoing",
+    "volumeCount": 23,
+    "synopsis": "26世紀、火星のテラフォーミング計画で送り込んだゴキブリが異常進化し、人類に匹敵する知性と戦闘力を持つ「テラフォーマー」となっていた。昆虫の能力を移植された精鋭部隊が火星に送られ、過酷な生存戦を繰り広げるバイオSFアクション。原作者の療養による長期休載を経て連載中。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2013,
+        "result": "オトコ編1位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/テラフォーマーズ"
+    },
+    "sourceNote": "日本語版Wikipedia記事および2025-2026年時点のニュース記事(まんたんウェブ等、2026-08-02閲覧)で原作:貴家悠/作画:橘賢一、週刊ヤングジャンプ(集英社)連載・既刊23巻(2024年7月時点)・原作者の体調不良により2018年末から約5年半休載後2024年4月再開、2025年12月にも再開報道があり2026年時点でも連載中(第3部進行中)であることを確認。2013年このマンガがすごい!オトコ編1位を確認。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "golden-kamuy",
+    "title": "ゴールデンカムイ",
+    "titleKana": "ごーるでんかむい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "noda-satoru"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "adventure",
+      "historical",
+      "battle-action",
+      "gourmet"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 31,
+    "synopsis": "日露戦争の帰還兵・杉元佐一は、アイヌの莫大な埋蔵金の在り処を示す暗号が刻まれた脱獄囚たちの刺青を巡る争奪戦に、アイヌの少女アシㇼパと共に身を投じる。明治期の北海道を舞台に、サバイバル知識や郷土料理の描写も交えながら壮大な冒険が繰り広げられる。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2016,
+        "result": "オトコ編2位"
+      },
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2018,
+        "result": "マンガ大賞"
+      },
+      {
+        "awardId": "nihon-mangaka-kyokai-sho",
+        "year": 2022,
+        "result": "大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゴールデンカムイ"
+    },
+    "sourceNote": "日本語版Wikipedia『ゴールデンカムイ』記事(2026-08-02閲覧)で作者(野田サトル、オリジナル作品)・週刊ヤングジャンプ(集英社)連載(2014-2022)・全31巻・完結、2018年手塚治虫文化賞マンガ大賞・2022年日本漫画家協会賞大賞を確認。2016年このマンガがすごい!オトコ編2位は追加検索(2026-08-02)で確認。『マンガ大賞2016』は本DB未登録の賞のため今回は省略。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "higanjima",
+    "title": "彼岸島",
+    "titleKana": "ひがんじま",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "matsumoto-kouji"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "horror",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2002,
+    "status": "ongoing",
+    "synopsis": "行方不明になった兄を捜すため、雅は吸血鬼が支配する孤島・彼岸島に上陸する。感染すると鬼と化す吸血鬼のルールと戦いながら生き延び、やがて島を出て日本全土を覆う脅威に立ち向かうシリーズへと発展していく、吸血鬼サバイバルホラーの長編作。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/彼岸島"
+    },
+    "sourceNote": "日本語版Wikipedia『彼岸島』記事および関連ニュース(2026-08-02閲覧)で作者(松本光司、オリジナル作品)・週刊ヤングマガジン(講談社)、『彼岸島』(2002-2010・全33巻)→『彼岸島 最後の47日間』(2010-2014・全16巻)→『彼岸島 48日後…』(2014年-連載中、2026年6月時点既刊54巻)と3部構成でシリーズが続き2026年現在も連載中であることを確認。シリーズ全体で巻数区分が複雑なためvolumeCountは特定せず未記入。2016年映画版のジャパンアクションアワード受賞歴があるが、原作コミック自体でなく映画対象のため対象外として空欄。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "uzumaki",
+    "title": "うずまき",
+    "titleKana": "うずまき",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ito-junji"
+    ],
+    "publisherId": "shogakukan",
+    "themeIds": [
+      "horror",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 1998,
+    "latestPublishedYear": 1999,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "呪われた町・黒渦町では、渦巻き模様にまつわる怪異が次々と住人を蝕んでいく。人間が渦を巻くように変形したり、竜巻が町に集まったりする不条理な恐怖が日常を侵食する中、女子高生・桐絵と恋人の秀一は町を覆う破滅的な運命から逃れようとする。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/うずまき_(漫画)"
+    },
+    "sourceNote": "日本語版Wikipedia『うずまき(漫画)』記事(2026-08-02閲覧)で作者(伊藤潤二、オリジナル作品)・週刊ビッグコミックスピリッツ(小学館)連載(1998-1999)・全3巻・完結を確認。米国アイズナー賞受賞歴があるが本DB未登録(国内賞中心)の賞のため今回は記載せず。2024年に海外向けアニメ化された既知情報によりmediaMix.animeをtrueとした。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
   }
 ]
