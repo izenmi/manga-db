@@ -1,1 +1,42 @@
-{}
+{
+  "death-note": {
+    "title": "DEATH NOTE",
+    "isbn": "9784088736211",
+    "matchedTitle": "DEATH NOTE 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0887/08873621.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T08:30:05.007Z"
+  },
+  "fullmetal-alchemist": {
+    "title": "鋼の錬金術師",
+    "isbn": "9784757506206",
+    "matchedTitle": "鋼の錬金術師（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6206/9784757506206_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T08:30:09.708Z"
+  },
+  "one-punch-man": {
+    "title": "ワンパンマン",
+    "isbn": "9784088707020",
+    "matchedTitle": "ワンパンマン 2",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7020/9784088707020.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T08:30:06.160Z"
+  },
+  "shingeki-no-kyojin": {
+    "title": "進撃の巨人",
+    "isbn": "9784063842760",
+    "matchedTitle": "進撃の巨人（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2760/9784063842760_1_20.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T08:30:08.548Z"
+  },
+  "spy-x-family": {
+    "title": "SPY×FAMILY",
+    "isbn": "9784088820118",
+    "matchedTitle": "SPY×FAMILY 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0118/9784088820118_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-02T08:30:07.369Z"
+  }
+}
