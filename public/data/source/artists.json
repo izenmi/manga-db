@@ -1929,5 +1929,100 @@
     },
     "sourceNote": "日本語版Wikipedia『柴田ヨクサル』記事(2026-08-02閲覧)で生年(1972年7月1日)・代表作を確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "suzuki-yuto",
+    "name": "鈴木祐斗",
+    "nameKana": "すずきゆうと",
+    "description": "漫画家。2019年に少年ジャンプ+『骸区』でデビュー。『SAKAMOTO DAYS』を週刊少年ジャンプで連載。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/鈴木祐斗"
+    },
+    "sourceNote": "日本語版Wikipedia『鈴木祐斗』記事(2026-08-02閲覧)で経歴を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yabuki-kentaro",
+    "name": "矢吹健太朗",
+    "nameKana": "やぶきけんたろう",
+    "description": "漫画家。『To LOVEる -とらぶる-』シリーズの作画を担当。",
+    "externalLinks": {},
+    "sourceNote": "集英社公式サイト・少年ジャンプ+の作品ページ(2026-08-02閲覧)で作画クレジットを確認。個人の日本語版Wikipedia単独記事は未確認のためexternalLinksは空とした。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "clamp",
+    "name": "CLAMP",
+    "nameKana": "くらんぷ",
+    "description": "女性4人からなる漫画家集団。『X』『カードキャプターさくら』『ツバサ -RESERVoir CHRoNiCLE-』等を手がける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/CLAMP"
+    },
+    "sourceNote": "日本語版Wikipedia『CLAMP』『X (漫画)』両記事(2026-08-02閲覧)で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "fujishima-kosuke",
+    "name": "藤島康介",
+    "nameKana": "ふじしまこうすけ",
+    "description": "漫画家。『ああっ女神さまっ』『逮捕しちゃうぞ』等を手がける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/藤島康介"
+    },
+    "sourceNote": "日本語版Wikipedia『藤島康介』記事(2026-08-02閲覧)で経歴を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kobayashi-yugo",
+    "name": "小林有吾",
+    "nameKana": "こばやしゆうご",
+    "description": "漫画家。愛媛県松山市出身。サッカーを題材にした『アオアシ』で第65回小学館漫画賞一般部門を受賞。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/小林有吾"
+    },
+    "sourceNote": "日本語版Wikipedia『小林有吾』記事(2026-08-02閲覧)で経歴・受賞歴を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "umaue-takamasa",
+    "name": "馬上鷹将",
+    "nameKana": "うまうえたかまさ",
+    "description": "漫画家。『あかね噺』の作画を末永裕樹と共に担当。",
+    "externalLinks": {},
+    "sourceNote": "集英社公式サイト・少年ジャンプ+の作品ページ(2026-08-02閲覧)で作画クレジットを確認。個人の日本語版Wikipedia単独記事は未確認のためexternalLinksは空とした。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kawashita-mizuki",
+    "name": "河下水希",
+    "nameKana": "かわしたみずき",
+    "description": "漫画家。『いちご100%』で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/河下水希"
+    },
+    "sourceNote": "日本語版Wikipedia『河下水希』記事(2026-08-02閲覧)で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "mita-norifusa",
+    "name": "三田紀房",
+    "nameKana": "みたのりふさ",
+    "description": "漫画家。『ドラゴン桜』『インベスターZ』等、教育・経済を題材にした作品で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/三田紀房"
+    },
+    "sourceNote": "日本語版Wikipedia『三田紀房』記事(2026-08-02閲覧)で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "mochizuki-jun",
+    "name": "望月淳",
+    "nameKana": "もちづきじゅん",
+    "description": "漫画家。『パンドラハーツ』『ヴァニタスの手記』等を手がける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/望月淳"
+    },
+    "sourceNote": "日本語版Wikipedia『ヴァニタスの手記』記事および関連記事(2026-08-02閲覧)で確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

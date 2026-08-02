@@ -225,5 +225,17 @@
     },
     "sourceNote": "日本語版Wikipedia『ハチミツとクローバー』記事(2026-08-02閲覧)の掲載誌情報より、初出誌『CUTiEcomic』の発行元として存在を確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shodensha",
+    "name": "祥伝社",
+    "nameKana": "しょうでんしゃ",
+    "description": "1970年創業の総合出版社。一ツ橋グループに属する。小説誌『小説NON』、女性漫画誌『FEEL YOUNG』等を刊行。",
+    "foundedYear": 1970,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/祥伝社"
+    },
+    "sourceNote": "日本語版Wikipedia『祥伝社』記事(2026-08-02閲覧)で創業年・事業内容を確認。『Paradise Kiss』連載誌『Zipper』の発行元として登録。",
+    "updatedAt": "2026-08-02"
   }
 ]

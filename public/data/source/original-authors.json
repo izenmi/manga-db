@@ -476,5 +476,41 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipedia『王様達のヴァイキング』記事(2026-08-02閲覧)のクレジット表記(作画:さだやす、ストーリー協力:深見真)で確認。個人の生年等プロフィール詳細は未確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "katsushika-hokusei",
+    "name": "勝鹿北星",
+    "nameKana": "かつしかほくせい",
+    "description": "漫画原作者。『MASTERキートン』の脚本(原作)を長崎尚志と共に担当。本名や来歴には不明な点が多い。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『MASTERキートン』記事(2026-08-02閲覧)で浦沢直樹・勝鹿北星・長崎尚志の脚本、浦沢直樹の作画というクレジット体制を確認。勝鹿北星個人の日本語版Wikipedia単独記事は未確認のためexternalLinksは空とした。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nagasaki-hisashi",
+    "name": "長崎尚志",
+    "nameKana": "ながさきひさし",
+    "description": "漫画原作者・編集者。小学館の編集者として浦沢直樹作品を担当した後、『MASTERキートン』等の脚本(原作)にも名を連ねる。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『MASTERキートン』記事(2026-08-02閲覧)で脚本クレジットを確認。個人の日本語版Wikipedia単独記事は未確認のためexternalLinksは空とした。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hasemi-saki",
+    "name": "長谷見沙貴",
+    "nameKana": "はせみさき",
+    "description": "漫画原作者。『To LOVEる -とらぶる-』シリーズの脚本(原作)を矢吹健太朗と共に担当。",
+    "externalLinks": {},
+    "sourceNote": "集英社公式サイト・少年ジャンプ+の作品ページ(2026-08-02閲覧)で矢吹健太朗(作画)/長谷見沙貴(脚本)のクレジットを確認。個人の日本語版Wikipedia単独記事は未確認のためexternalLinksは空とした。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "suenaga-yuki",
+    "name": "末永裕樹",
+    "nameKana": "すえながゆうき",
+    "description": "漫画原作者。『あかね噺』の原作を馬上鷹将と共に担当。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『あかね噺』記事、集英社公式サイト(2026-08-02閲覧)で原作:末永裕樹/作画:馬上鷹将のクレジットを確認。個人の日本語版Wikipedia単独記事は未確認のためexternalLinksは空とした。",
+    "updatedAt": "2026-08-02"
   }
 ]

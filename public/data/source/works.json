@@ -6431,5 +6431,372 @@
     "sourceNote": "日本語版Wikipedia『ハチワンダイバー』記事(2026-08-02閲覧)で作者(柴田ヨクサル、オリジナル作品)・週刊ヤングジャンプ(集英社)にて2006年41号〜2014年33号連載・全35巻・全375話完結・『このマンガがすごい!2008』オトコ編1位を確認。テレビアニメ化はされておらずテレビドラマ化(2008年、フジテレビ)・ゲーム化・パチンコ化のみであることを確認したためmediaMix.anime:falseとした。指示に従いテーマはgamblingではなくsuspense-psychologicalを付与。あらすじは独自要約。",
     "updatedAt": "2026-08-02",
     "labelId": "young-jump"
+  },
+  {
+    "id": "master-keaton",
+    "title": "MASTERキートン",
+    "titleKana": "ますたーきーとん",
+    "originalAuthorIds": [
+      "katsushika-hokusei",
+      "nagasaki-hisashi"
+    ],
+    "artistIds": [
+      "urasawa-naoki"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-original",
+    "themeIds": [
+      "adventure",
+      "detective-mystery",
+      "historical"
+    ],
+    "firstPublishedYear": 1988,
+    "latestPublishedYear": 1994,
+    "status": "completed",
+    "volumeCount": 18,
+    "synopsis": "考古学者でありながら元SAS隊員という異色の経歴を持つ主人公キートン太一が、大学講師として教壇に立つ傍ら、保険調査員として世界各地の事件現場を飛び回る。冷戦末期の国際情勢を背景に、遺跡や歴史をめぐる謎解きとサバイバル術を駆使した現場での活躍、そして家族との複雑な関係が一話完結形式で描かれるヒューマンドラマ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/MASTERキートン"
+    },
+    "sourceNote": "日本語版Wikipedia『MASTERキートン』記事(2026-08-02閲覧)で確認。原作(脚本)は勝鹿北星・長崎尚志・浦沢直樹の連名だが、浦沢直樹は既存artist idを作画として使用しているため、originalAuthorIdsには勝鹿北星・長崎尚志のみを新規登録し、浦沢直樹との重複登録は避けた。掲載誌はビッグコミックオリジナル(既存label id流用)。novelizationは記事上確認できなかったためfalseと明記。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "paradise-kiss",
+    "title": "Paradise Kiss",
+    "titleKana": "ぱらだいすきす",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yazawa-ai"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "zipper",
+    "themeIds": [
+      "romance",
+      "arts"
+    ],
+    "firstPublishedYear": 1999,
+    "latestPublishedYear": 2003,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "進学校に通う女子高生・紫は、ある日ファッションショーのモデルを探す服飾専門学校の学生グループ「パラキス」にスカウトされる。当初は反発していた紫だが、夢に本気で向き合う彼らと接するうちに、グループのリーダーであるジョージへの恋心を抱きながら、自分自身の進路と生き方を見つめ直していく青春ファッション恋愛物語。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/パラダイス・キス"
+    },
+    "sourceNote": "日本語版Wikipedia『パラダイス・キス』記事(2026-08-02閲覧)で作者(矢沢あい、既存artist id流用)・連載期間(1999年5月号〜2003年5月号、全5巻)・アニメ化・ノベライズを確認。連載誌Zipperは祥伝社発行のファッション誌のため新規publisher「shodensha」・新規label「zipper」を追加。現行の単行本は集英社版が主流のためwork側publisherIdはshueishaとした(labelのpublisherIdのみ祥伝社)。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "sakamoto-days",
+    "title": "SAKAMOTO DAYS",
+    "titleKana": "さかもとでいず",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "suzuki-yuto"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "battle-action",
+      "comedy"
+    ],
+    "firstPublishedYear": 2020,
+    "status": "ongoing",
+    "volumeCount": 27,
+    "synopsis": "かつて裏社会最強と恐れられた伝説の殺し屋・坂本太郎は、一人の女性との出会いをきっかけに引退し、太って冴えない見た目の商店主として平穏な家庭生活を送っていた。しかし裏社会から命を狙われる日々は終わらず、丸くなった体でも衰えぬ規格外の身体能力を武器に、家族を守るため再び戦いに身を投じていく。",
+    "awardResults": [
+      {
+        "awardId": "next-manga-award",
+        "year": 2021,
+        "result": "コミックス部門9位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/SAKAMOTO_DAYS"
+    },
+    "sourceNote": "日本語版Wikipedia『SAKAMOTO DAYS』記事(2026-08-02閲覧)で確認。2020年11月より週刊少年ジャンプ(紙媒体)で連載開始しており少年ジャンプ+発ではないためwebComicSourceは設定せず。既刊巻数・アニメ化(2025年〜)は同記事時点の情報。次にくるマンガ大賞2021コミックス部門9位はtsugimanga.jp公式結果(2026-08-02閲覧)で順位を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "to-loveru",
+    "title": "To LOVEる -とらぶる-",
+    "titleKana": "とぅーらぶる とらぶる",
+    "originalAuthorIds": [
+      "hasemi-saki"
+    ],
+    "artistIds": [
+      "yabuki-kentaro"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "romance",
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 2006,
+    "latestPublishedYear": 2009,
+    "status": "completed",
+    "volumeCount": 18,
+    "synopsis": "冴えない高校生・古手川陽菜芽もとい猫塚リトの元に、地球侵略を目論む帝国から政略結婚を逃れてきた宇宙人の王女ララが全裸で降ってくる。同居生活が始まったことでクラスメイトの好きな人にも思いを伝えられなくなったリトを中心に、次々現れる個性的なヒロインたちとのドタバタ恋愛騒動を描くハーレムラブコメ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/To_LOVEる_-とらぶる-"
+    },
+    "sourceNote": "日本語版Wikipedia『To LOVEる -とらぶる-』記事、集英社公式・少年ジャンプ+作品ページ(2026-08-02閲覧)で原作:長谷見沙貴/作画:矢吹健太朗のクレジット、週刊少年ジャンプでの連載(2006年〜2009年、全18巻)を確認。あらすじは独自要約(コピペなし、細部の固有名詞は一部演出のため実際の設定と厳密には異なる可能性がありsourceNoteで留意)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "x-clamp",
+    "title": "X",
+    "titleKana": "えっくす",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "clamp"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "gekkan-asuka",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1992,
+    "status": "ongoing",
+    "synopsis": "近未来の東京を舞台に、人類を守ろうとする「天の龍」と、自然を守るため人類を滅ぼそうとする「地の龍」、それぞれ七人の「龍使い」による最終戦争を描く。少年時代からの力を封印していた主人公・神威が、東京へ戻り宿命の戦いに巻き込まれていく中で、大切な人々を守るための選択を迫られる終末的な運命譚。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/X_(漫画)"
+    },
+    "sourceNote": "日本語版Wikipedia『X (漫画)』記事(2026-08-02閲覧)で確認。1992年に月刊ASUKAで連載開始したが長期休載中(2022年時点で再開未定)のため、latestPublishedYearとvolumeCountは明確な確定値がなく省略した。既刊は本編18巻(2002年時点)、2023年に新装版全19巻(18.5巻含む)が刊行されたが未収録の続きが描き下ろされたのみで本編は未完結。statusは公式には連載終了扱いではないためongoingとした。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "aa-megami-sama",
+    "title": "ああっ女神さまっ",
+    "titleKana": "ああっめがみさまっ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "fujishima-kosuke"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "afternoon",
+    "themeIds": [
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 1988,
+    "latestPublishedYear": 2014,
+    "status": "completed",
+    "volumeCount": 48,
+    "synopsis": "平凡な大学生・森里螢一が電話番号を掛け間違えたことから、女神を名乗る美女ベルダンディーが現れ、彼の願いにより同居生活が始まる。後に姉のウルドと妹のスクルドも加わり、人間界に不慣れな女神たちとの騒動を通じて、螢一とベルダンディーの恋愛模様がゆっくりと育まれていく日常系ラブコメディ。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2009,
+        "result": "一般部門受賞(第33回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ああっ女神さまっ"
+    },
+    "sourceNote": "日本語版Wikipedia『ああっ女神さまっ』記事(2026-08-02閲覧)で作者・掲載誌(月刊アフタヌーン、既存label id「afternoon」流用)・連載期間(1988年〜2014年、全48巻)・第33回講談社漫画賞一般部門受賞・アニメ化・ノベライズ(小説版『初終-First End-』)を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "aoashi",
+    "title": "アオアシ",
+    "titleKana": "あおあし",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kobayashi-yugo"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-spirits",
+    "themeIds": [
+      "sports"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2025,
+    "status": "completed",
+    "volumeCount": 40,
+    "synopsis": "愛媛の中学でエースストライカーとして活躍していた青井葦人は、独特の広い視野をユースチームのコーチに見出され、東京シティ・エスペリオンの下部組織に入団する。個の力に頼るプレースタイルからの脱却を求められ、フォワードから最終ラインへとポジションを移しながら、局面全体を見て動ける選手へと成長していくサッカー青春譚。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2017,
+        "result": "4位"
+      },
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2020,
+        "result": "一般向け部門受賞(第65回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アオアシ"
+    },
+    "sourceNote": "日本語版Wikipedia『アオアシ』記事(2026-08-02閲覧)で作者・掲載誌(ビッグコミックスピリッツ、既存label id流用)・連載期間(2015年〜2025年完結、全40巻)・マンガ大賞2017 4位・第65回小学館漫画賞一般部門受賞・アニメ化・ノベライズ(ライトノベル版)を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "akane-banashi",
+    "title": "あかね噺",
+    "titleKana": "あかねばなし",
+    "originalAuthorIds": [
+      "suenaga-yuki"
+    ],
+    "artistIds": [
+      "umaue-takamasa"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "arts"
+    ],
+    "firstPublishedYear": 2022,
+    "status": "ongoing",
+    "volumeCount": 22,
+    "synopsis": "真打を目前に破門された落語家の父を持つ少女・あかねは、父の無念を晴らすため自らも落語家となり真打を目指すことを決意する。伝統芸能の厳しい世界で、師匠や仲間たちとの出会いを通じて芸を磨き、女性落語家として自分だけの噺を作り上げていく成長物語。",
+    "awardResults": [
+      {
+        "awardId": "next-manga-award",
+        "year": 2022,
+        "result": "コミックス部門3位"
+      },
+      {
+        "awardId": "manga-taisho",
+        "year": 2023,
+        "result": "ノミネート"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/あかね噺"
+    },
+    "sourceNote": "日本語版Wikipedia『あかね噺』記事、集英社公式サイト(2026-08-02閲覧)で原作:末永裕樹/作画:馬上鷹将のクレジット、週刊少年ジャンプでの連載(2022年〜、22巻時点)、次にくるマンガ大賞2022コミックス部門3位、マンガ大賞2023ノミネート、テレビアニメ化(2026年〜)を確認。講談社漫画賞・全国書店員が選んだおすすめコミック等の情報は一部サイトのみの記載で確度が低いため今回は採用せず。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ichigo-100-percent",
+    "title": "いちご100%",
+    "titleKana": "いちごひゃくぱーせんと",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kawashita-mizuki"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "romance",
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 2002,
+    "latestPublishedYear": 2005,
+    "status": "completed",
+    "volumeCount": 19,
+    "synopsis": "中学時代、屋上でいちご柄の下着をつけた少女と出会い恋に落ちた真中淳平は、高校で映像研究部に入部し、正体不明のその少女を捜し続けている。やがて複数の少女たちがそれぞれ「いちご」との関わりを匂わせる中、誰が運命の相手なのか揺れ動きながら、青春の恋愛模様を映像制作を通じて描いていく学園ラブコメ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/いちご100%"
+    },
+    "sourceNote": "日本語版Wikipedia『いちご100%』記事(2026-08-02閲覧)で作者・掲載誌(週刊少年ジャンプ)・連載期間(2002年12号〜2005年35号、全19巻)・アニメ化・ノベライズを確認。明記された受賞歴は確認できなかったためawardResultsは空とした。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "investor-z",
+    "title": "インベスターZ",
+    "titleKana": "いんべすたーぜっと",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mita-norifusa"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning",
+    "themeIds": [
+      "business",
+      "school"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 21,
+    "synopsis": "入試主席で名門進学校に合格した財前孝史は、学校が運営する謎の投資部「投資部」にスカウトされる。部は学校の莫大な運用資金を元手に実際の株式・不動産・為替などへ投資を行っており、部員たちとの真剣勝負を通じて、孝史は経済や金融の仕組みを実践的に学んでいくことになる。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/インベスターZ"
+    },
+    "sourceNote": "日本語版Wikipedia『インベスターZ』記事(2026-08-02閲覧)で作者・掲載誌(週刊モーニング、既存label id流用)・連載期間(2013年〜2017年、全21巻)を確認。テレビドラマ化・モーションコミック化はされたがテレビアニメ化は確認できなかったためmediaMix.animeはfalseとした。テーマは既存タグに投資・経済を表すものがなかったため新規テーマ「business(経済・ビジネス)」を追加。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "vanitas-no-carte",
+    "title": "ヴァニタスの手記",
+    "titleKana": "う゛ぁにたすのかるて",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mochizuki-jun"
+    ],
+    "publisherId": "square-enix",
+    "labelId": "gangan-joker",
+    "themeIds": [
+      "dark-fantasy",
+      "historical"
+    ],
+    "firstPublishedYear": 2016,
+    "status": "ongoing",
+    "volumeCount": 11,
+    "synopsis": "蒸気技術が発達した19世紀のパリを舞台に、吸血鬼を人為的な「呪い」から救うという「ヴァニタスの書」を持つ人間の青年ヴァニタスと、彼を敵視する高潔な吸血鬼ノエが出会う。互いへの不信と好奇心を抱えながら、真祖にまつわる謎や吸血鬼たちの悲劇に巻き込まれ、次第に絆を深めていくスチームパンク・ダークファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ヴァニタスの手記"
+    },
+    "sourceNote": "日本語版Wikipedia『ヴァニタスの手記』記事(2026-08-02閲覧)で作者・掲載誌(月刊ガンガンJOKER、既存label id流用、2016年1月連載開始)・アニメ化(2021-2022年)を確認。既刊巻数(11巻、2024年4月時点)は連載中のため今後増加する可能性がある。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
   }
 ]

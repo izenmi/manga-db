@@ -1008,5 +1008,25 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipedia『魔法少女まどか☆マギカの漫画作品』記事(2026-08-02閲覧)で、ハノカゲ版が2011年2月〜5月に描き下ろしコミック(雑誌連載なし)として全3巻刊行されたことを確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "zipper",
+    "name": "Zipper",
+    "nameKana": "じっぱー",
+    "publisherId": "shodensha",
+    "description": "祥伝社が発行していたファッション誌。『Paradise Kiss』はこの誌上で連載された。",
+    "externalLinks": {},
+    "sourceNote": "各種書誌情報サイト(booklive.jp等、2026-08-02閲覧)で1999年5月号から『Paradise Kiss』がZipper誌で連載開始したことを確認。単行本は当初祥伝社刊、現在は集英社版が主に流通しているため、work側のpublisherIdはshueishaとし、レーベル(Zipper)側のpublisherIdは連載開始時の発行元shodenshaとした(ハチミツとクローバー/CUTiEcomicと同様のパターン)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "gekkan-asuka",
+    "name": "月刊ASUKA",
+    "nameKana": "げっかんあすか",
+    "publisherId": "kadokawa",
+    "description": "角川書店(現KADOKAWA)が発行する少女・女性向け漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『X (漫画)』記事(2026-08-02閲覧)で1992年5月号より月刊ASUKAで連載開始したことを確認。角川書店は2013年の持株会社体制移行によりKADOKAWAへ吸収されたため、既存publisherId「kadokawa」をそのまま採用(発行元の断絶はないため宝島社パターンとは異なる)。",
+    "updatedAt": "2026-08-02"
   }
 ]
