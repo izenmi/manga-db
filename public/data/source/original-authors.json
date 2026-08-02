@@ -523,5 +523,39 @@
     },
     "sourceNote": "日本語版Wikipedia『乙一』記事(2026-08-02閲覧)で経歴・代表作・受賞歴を確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "furuhashi-hideyuki",
+    "name": "古橋秀之",
+    "nameKana": "ふるはしひでゆき",
+    "description": "小説家・SF作家。神奈川県出身。『ブラックロッド』で第2回電撃ゲーム小説大賞大賞を受賞しデビュー。近年は小説以外の活動も多く、『ヴィジランテ-僕のヒーローアカデミアILLEGALS-』では堀越耕平原作のスピンオフの脚本を担当した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/古橋秀之"
+    },
+    "sourceNote": "日本語版Wikipedia『古橋秀之』記事(2026-08-02閲覧)で経歴・生年(1971年)・『ヴィジランテ-僕のヒーローアカデミアILLEGALS-』での脚本担当を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "natsuhara-takeshi",
+    "name": "夏原武",
+    "nameKana": "なつはらたけし",
+    "description": "ライター・漫画原作者。千葉県出身。裏社会やアウトローに関する取材・執筆で知られ、『クロサギ』では原案としてクレジットされる。",
+    "birthYear": 1959,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/夏原武"
+    },
+    "sourceNote": "日本語版Wikipedia『夏原武』記事(2026-08-02閲覧)で生年・経歴・『クロサギ』原案担当であることを確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kagyu-kumo",
+    "name": "蝸牛くも",
+    "nameKana": "かぎゅうくも",
+    "description": "男性ライトノベル作家。ネット掲示板の「やる夫スレ」発の作品『ゴブリンスレイヤー』を2016年にGA文庫から書籍化し商業デビュー。生年月日は非公開。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/蝸牛くも"
+    },
+    "sourceNote": "日本語版Wikipedia『蝸牛くも』記事(2026-08-02閲覧)で経歴・『ゴブリンスレイヤー』原作者であることを確認。生年月日は同記事に記載なし。",
+    "updatedAt": "2026-08-02"
   }
 ]

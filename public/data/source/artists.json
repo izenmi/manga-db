@@ -2147,5 +2147,124 @@
     },
     "sourceNote": "日本語版Wikipedia『Levius -レビウス-』記事(2026-08-02閲覧)で作者名・経歴を確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "betten-court",
+    "name": "別天荒人",
+    "nameKana": "べってんこうと",
+    "description": "漫画家・イラストレーター。島根県出身。『ヴィジランテ-僕のヒーローアカデミアILLEGALS-』で作画を担当した。",
+    "birthYear": 1973,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/別天荒人"
+    },
+    "sourceNote": "日本語版Wikipedia『別天荒人』記事(2026-08-02閲覧)で生年・経歴・『ヴィジランテ-僕のヒーローアカデミアILLEGALS-』作画担当であることを確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shinohara-kenta",
+    "name": "篠原健太",
+    "nameKana": "しのはらけんた",
+    "description": "漫画家。千葉県出身。『SKET DANCE』『彼方のアストラ』『ウィッチウォッチ』等、ジャンルを問わない作風で知られる。",
+    "birthYear": 1974,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/篠原健太"
+    },
+    "sourceNote": "日本語版Wikipedia『篠原健太』記事(2026-08-02閲覧)で生年・経歴・代表作(SKET DANCE、ウィッチウォッチ)を確認。両作品で共通のartistIdとして使用。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "higuchi-asa",
+    "name": "ひぐちアサ",
+    "nameKana": "ひぐちあさ",
+    "description": "漫画家。埼玉県出身。法政大学文学部でスポーツ心理学を専攻。代表作『おおきく振りかぶって』で緻密な心理描写の野球漫画を描く。",
+    "birthYear": 1970,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ひぐちアサ"
+    },
+    "sourceNote": "日本語版Wikipedia『ひぐちアサ』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kuromaru",
+    "name": "黒丸",
+    "nameKana": "くろまる",
+    "description": "漫画家。岐阜県各務原市出身。漫画家・山田貴敏のアシスタントを経て1999年デビュー。夏原武原案『クロサギ』で作画を担当。",
+    "birthYear": 1980,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/黒丸_(漫画家)"
+    },
+    "sourceNote": "日本語版Wikipedia『黒丸(漫画家)』記事(2026-08-02閲覧)で生年・経歴・『クロサギ』作画担当・小学館漫画賞受賞を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "obana-miho",
+    "name": "小花美穂",
+    "nameKana": "おばなみほ",
+    "description": "漫画家。東京都出身。1990年デビュー。代表作『こどものおもちゃ』(『りぼん』連載)で1998年第22回講談社漫画賞少女部門を受賞した。",
+    "birthYear": 1970,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/小花美穂"
+    },
+    "sourceNote": "日本語版Wikipedia『小花美穂』記事(2026-08-02閲覧)で生年・経歴・代表作・受賞歴を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kurose-kousuke",
+    "name": "黒瀬浩介",
+    "nameKana": "くろせこうすけ",
+    "description": "漫画家。メディアミックス作品のコミカライズを中心に活動し、『ゴブリンスレイヤー』本編漫画版の作画を担当する。生年(西暦)は非公表。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/黒瀬浩介"
+    },
+    "sourceNote": "日本語版Wikipedia『黒瀬浩介』記事(2026-08-02閲覧)で経歴・『ゴブリンスレイヤー』作画担当であることを確認。生年は非公表(誕生日1月17日のみ記載)のため未入力。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tanaka-yasuki",
+    "name": "田中靖規",
+    "nameKana": "たなかやすき",
+    "description": "漫画家。和歌山県出身。荒木飛呂彦のスタジオでアシスタントを経て2003年デビュー。原作・作画を兼任し『サマータイムレンダ』を少年ジャンプ+で連載、完結させた。",
+    "birthYear": 1982,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/田中靖規"
+    },
+    "sourceNote": "日本語版Wikipedia『田中靖規』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。ペンネームの読みは『瞳のカトブレパス』以降「やすき」に変更されたとの記述に基づきnameKanaを設定。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "houjou-tsukasa",
+    "name": "北条司",
+    "nameKana": "ほうじょうつかさ",
+    "description": "漫画家。福岡県小倉市出身。九州産業大学芸術学部卒業。原作・作画を兼任し『シティーハンター』を週刊少年ジャンプで連載。他に『キャッツ♥アイ』。",
+    "birthYear": 1959,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/北条司"
+    },
+    "sourceNote": "日本語版Wikipedia『北条司』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "takei-hiroyuki",
+    "name": "武井宏之",
+    "nameKana": "たけいひろゆき",
+    "description": "漫画家。青森県出身。1997年に手塚賞を受賞、1997年に週刊少年ジャンプで連載デビュー。原作・作画を兼任し代表作『シャーマンキング』を連載した。",
+    "birthYear": 1972,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/武井宏之"
+    },
+    "sourceNote": "日本語版Wikipedia『武井宏之』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "takamatsu-misaki",
+    "name": "高松美咲",
+    "nameKana": "たかまつみさき",
+    "description": "漫画家。富山県出身。金沢美術工芸大学卒業。原作・作画を兼任し『スキップとローファー』を月刊アフタヌーンで連載する。",
+    "birthYear": 1992,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/高松美咲"
+    },
+    "sourceNote": "日本語版Wikipedia『高松美咲』記事(2026-08-02閲覧)で生年・経歴・代表作・受賞歴を確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

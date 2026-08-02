@@ -7233,5 +7233,402 @@
     },
     "sourceNote": "日本語版Wikipediaおよび検索結果(2026-08-02閲覧)で、初出は小学館『月刊IKKI』(2013年2月号〜、全3巻)で、同誌休刊後に集英社『ウルトラジャンプ』へ移り続編『Levius/est』(2015年5月〜2021年7月、全10巻)として連載継続、新装版含め現行の単行本は集英社刊であることを確認。ルールに従いlabelIdは初出の『月刊IKKI』(小学館、既存ラベルのpublisherIdもshogakukanのまま)とし、work.publisherIdは現行刊行元の集英社とした。volumeCountは初出無印『Levius』全3巻分のみを記載(続編est全10巻・新装版は含めず、シリーズ全体の巻数は未確認)。Netflixオリジナルアニメ化(2019年)を確認。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "vigilante-boku-no-hero-academia-illegals",
+    "title": "ヴィジランテ-僕のヒーローアカデミアILLEGALS-",
+    "titleKana": "ゔぃじらんて ぼくのひーろーあかでみあ いりーがるず",
+    "originalAuthorIds": [
+      "furuhashi-hideyuki"
+    ],
+    "artistIds": [
+      "betten-court"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump-giga",
+    "themeIds": [
+      "battle-action"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 15,
+    "synopsis": "ヒーローに憧れながら夢を諦めた大学生・灰廻航一は、オールマイトの真似事で人助けをするのが密かな楽しみだった。無許可でライブを行う自称アイドル・ポップ☆ステップや、謎の覆面男・ナックルダスターと出会った航一は、無資格のまま人々を救う「ヴィジランテ」の活動に巻き込まれていく。『僕のヒーローアカデミア』本編より数年前を舞台に、ヒーロー免許を持たない者たちの正義を描くスピンオフ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/僕のヒーローアカデミア"
+    },
+    "sourceNote": "本作単独の日本語版Wikipedia記事は確認できなかったため、原作クレジットにある古橋秀之・別天荒人それぞれの日本語版Wikipedia記事、および『僕のヒーローアカデミア』記事のスピンオフ言及、集英社公式サイト・複数の電子書籍販売サイト書誌情報(2026-08-02閲覧)を突き合わせて確認。クレジットは「原作:堀越耕平/脚本:古橋秀之/作画:別天荒人」。堀越耕平は本サイトでは既に『僕のヒーローアカデミア』の作画家(artistIds)としてhorikoshi-koheiのidが登録済みで、originalAuthorIds用のidが存在しないため、本作のoriginalAuthorIdsには実際に本作のストーリーを執筆した古橋秀之(furuhashi-hideyuki)のみを登録した。堀越耕平の「原作」クレジットは世界観・原作漫画の提供者としての位置づけであり、artistIds/originalAuthorIdsどちらの既存idプールにも過不足なく対応させられないため、本entryには含めていない(要人力確認)。連載は2016年8月に少年ジャンプGIGAで開始、同年12月に少年ジャンプ+へ移籍、2022年5月完結、全15巻。webComicSourceは初出が印刷増刊号(少年ジャンプGIGA)であるため設定していない。作品自体の漫画賞受賞は確認できず空配列。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "witch-watch",
+    "title": "ウィッチウォッチ",
+    "titleKana": "うぃっちうぉっち",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "shinohara-kenta"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "comedy",
+      "romance"
+    ],
+    "firstPublishedYear": 2021,
+    "status": "ongoing",
+    "volumeCount": 26,
+    "synopsis": "鬼の血を引く高校生・大槻守仁は、人並外れた怪力を持ちながらも本気を出さないよう自制していた。6年間の魔女修行を終えて再会した幼馴染・和月ニコが彼の使い魔となり同居を始めたことから、ニコが千年に一度の力を持つ特別な白魔女だと判明する。彼女に降りかかる災いを防ぐため奮闘する、日常のドタバタと魔法が入り混じる同居コメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ウィッチウォッチ"
+    },
+    "sourceNote": "日本語版Wikipedia『ウィッチウォッチ』『篠原健太』記事(2026-08-02閲覧)で作者・掲載誌(週刊少年ジャンプ)・連載開始(2021年)・既刊巻数(26巻、2026年6月時点)・アニメ化を確認。連載中のため終了年・確定巻数は未定。「次にくるマンガ大賞」等の言及があったが、本DBの既存受賞リストに該当賞がなく、既存作品(アオのハコ等)での不採用方針に倣いawardResultsは空とした。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ookiku-furikabutte",
+    "title": "おおきく振りかぶって",
+    "titleKana": "おおきくふりかぶって",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "higuchi-asa"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "afternoon",
+    "themeIds": [
+      "sports"
+    ],
+    "firstPublishedYear": 2003,
+    "status": "ongoing",
+    "volumeCount": 38,
+    "synopsis": "自信のなさから自虐的な性格になっていた投手・三橋廉は、新設された西浦高校の硬式野球部に入部する。捕手の阿部隆也とバッテリーを組んだ三橋は、当初その独特な言動から周囲に距離を置かれるが、互いへの理解を深めながら、緻密な配球や心理戦を軸にした試合描写を通して、個性豊かな一年生部員たちと共に甲子園を目指して成長していく高校野球群像劇。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2006,
+        "result": "第10回新生賞受賞"
+      },
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2007,
+        "result": "第31回一般部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/おおきく振りかぶって"
+    },
+    "sourceNote": "日本語版Wikipedia『おおきく振りかぶって』『ひぐちアサ』記事(2026-08-02閲覧)で作者・掲載誌(月刊アフタヌーン)・連載開始(2003年)・既刊巻数(38巻、2025年6月時点)・受賞歴・アニメ化(2007年・2010年の2期)を確認。連載中のため終了年は未入力。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "cardcaptor-sakura",
+    "title": "カードキャプターさくら",
+    "titleKana": "かーどきゃぷたーさくら",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "clamp"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "nakayoshi",
+    "themeIds": [
+      "adventure",
+      "romance"
+    ],
+    "firstPublishedYear": 1996,
+    "latestPublishedYear": 2024,
+    "status": "completed",
+    "volumeCount": 28,
+    "synopsis": "小学4年生の木之本桜は、自宅の地下書庫で不思議な本を開いてしまい、そこに封じられていた魔法のカード「クロウカード」を世界中にばら撒いてしまう。本の番人ケルベロスに促され、幼なじみの知世や転校生の李小狼と協力しながら、カードを一枚ずつ捕獲していく。無印とその後の続編にわたり連載された、少女の成長と淡い恋を描く魔法冒険譚。",
+    "awardResults": [
+      {
+        "awardId": "seiun-award",
+        "year": 2001,
+        "result": "第32回コミック部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/カードキャプターさくら"
+    },
+    "sourceNote": "日本語版Wikipedia『カードキャプターさくら』記事(2026-08-02閲覧)でCLAMP(4人ユニット)による原作・作画、掲載誌(なかよし)、無印(1996年6月号-2000年8月号、全12巻)とクリアカード編(2016年7月号-2024年1月号、全16巻)の二部構成、星雲賞受賞、アニメ化を確認。本DBのwork単位の制約上、両編を一つのentryとして扱い、firstPublishedYearは無印連載開始、latestPublishedYearはクリアカード編完結年、volumeCountは合算値(12+16=28巻)とした。CLAMPのartistId「clamp」は、本バッチ作業時点で既にartists.jsonに登録済み(並行して作業中の別バッチが『X』のために追加したものと思われる)だったため、新規追加はせず既存idをそのまま再利用した。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kurosagi",
+    "title": "クロサギ",
+    "titleKana": "くろさぎ",
+    "originalAuthorIds": [
+      "natsuhara-takeshi"
+    ],
+    "artistIds": [
+      "kuromaru"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "weekly-young-sunday",
+    "themeIds": [
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2003,
+    "latestPublishedYear": 2008,
+    "status": "completed",
+    "volumeCount": 20,
+    "synopsis": "詐欺被害によって家族を失った青年・黒崎は、他人を騙して私腹を肥やす悪徳詐欺師“シロサギ”だけを狙って騙し返す、闇の詐欺師“クロサギ”として生きていた。被害者から依頼を受けては巧妙な詐欺の手口を看破し、奪われた金を取り戻していく。原案者の裏社会取材をもとにした、リアルな詐欺の手口描写に定評のあるピカレスク・サスペンス。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2007,
+        "result": "第53回一般向け部門受賞"
+      }
+    ],
+    "mediaMix": {},
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/クロサギ_(漫画)"
+    },
+    "sourceNote": "日本語版Wikipedia『クロサギ(漫画)』『夏原武』『黒丸(漫画家)』各記事(2026-08-02閲覧)で原案:夏原武・作画:黒丸のクレジット、初出媒体(週刊ヤングサンデー、2003年11月-2008年5月、全20巻)、その後「新クロサギ」(ビッグコミックスピリッツ、2008-2012年、全18巻)・「新クロサギ完結編」(2012-2013年、全4巻)へ続くシリーズ展開、小学館漫画賞受賞、テレビドラマ化(2006年・2022年)・映画化を確認。アニメ化の記載は確認できなかったためmediaMixは空とした。本DBでは初出タイトル『クロサギ』(週刊ヤングサンデー版、全20巻)を代表entryとして採用し、後続シリーズは別作品として登録せずsourceNoteに経緯を記載するに留めた。週刊ヤングサンデーは2008年休刊のため新規レーベルとして追加(発行元:小学館)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kodomo-no-omocha",
+    "title": "こどものおもちゃ",
+    "titleKana": "こどものおもちゃ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "obana-miho"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "ribon",
+    "themeIds": [
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 1994,
+    "latestPublishedYear": 1998,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "人気子役タレントの倉田紗南は、明るく行動力あふれる小学6年生。同じクラスの問題児・羽山秋人が起こすトラブルに振り回されながらも、彼の複雑な家庭環境や本当の優しさに気づき、次第に惹かれていく。学級崩壊やいじめ、芸能界の裏側など重いテーマも子供の視点から軽妙に描き、少女漫画として異例のヒットとなった学園コメディ。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1998,
+        "result": "第22回少女部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/こどものおもちゃ"
+    },
+    "sourceNote": "日本語版Wikipedia『こどものおもちゃ』『小花美穂』記事(2026-08-02閲覧)で作者・掲載誌(りぼん)・連載期間(1994年8月号-1998年11月号、全10巻)・講談社漫画賞受賞・アニメ化(1996-1998年、全102話)を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "goblin-slayer",
+    "title": "ゴブリンスレイヤー",
+    "titleKana": "ごぶりんすれいやー",
+    "originalAuthorIds": [
+      "kagyu-kumo"
+    ],
+    "artistIds": [
+      "kurose-kousuke"
+    ],
+    "publisherId": "square-enix",
+    "labelId": "big-gangan",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2016,
+    "status": "ongoing",
+    "volumeCount": 17,
+    "synopsis": "冒険者ギルドで最低ランクの魔物とされる“ゴブリン”だけを執拗に狩り続ける戦士、ゴブリンスレイヤー。彼は集団で襲撃し村や隊商を壊滅させるゴブリンの恐ろしさを誰よりも知り、罠や地の利を駆使した徹底的な殲滅戦を繰り広げる。ギルドで出会った新人の女神官らを巻き込みながら、地道で過酷な討伐の日々を描くダークファンタジー。原作ライトノベルのコミカライズ版。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゴブリンスレイヤー"
+    },
+    "sourceNote": "日本語版Wikipedia『ゴブリンスレイヤー』『蝸牛くも』『黒瀬浩介』各記事(2026-08-02閲覧)で確認。原作ライトノベルは蝸牛くも(GA文庫/SBクリエイティブ、2016年2月刊行開始)、本編漫画版は黒瀬浩介が作画を担当し月刊ビッグガンガン(スクウェア・エニックス)で2016年5月連載開始、既刊17巻(2025年12月時点)で連載中。キャラクター原案の神奈月昇は小説版のイラストレーターであり漫画の作画担当ではないためartistIdsには含めていない。依頼文中にあった「蒼井仁」という作画者名はWikipedia本文・関連する複数の書誌情報源のいずれにも見当たらず、実際の作画クレジットは黒瀬浩介であることを複数ソースで確認したため、そちらを採用した(要人力再確認)。漫画版自体の受賞歴は確認できず空配列。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "summertime-render",
+    "title": "サマータイムレンダ",
+    "titleKana": "さまーたいむれんだ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tanaka-yasuki"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonenjump-plus",
+    "themeIds": [
+      "suspense-psychological",
+      "sci-fi"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2021,
+    "status": "completed",
+    "volumeCount": 13,
+    "webComicSource": {
+      "platform": "shonenjump-plus"
+    },
+    "synopsis": "幼馴染の潮が故郷の離島で謎の死を遂げたと聞き、慎平は二年ぶりに日都ヶ島へ帰郷する。葬儀の最中、潮そっくりの“影”を目撃した慎平はやがて自らも命を落とし、二日前の時間へ戻る“タイムリープ”の力に気づく。島に伝わる怪異と繰り返し襲いくる死の運命に抗いながら、潮を救い島を覆う謎を解き明かそうとするSFサスペンス。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/サマータイムレンダ"
+    },
+    "sourceNote": "日本語版Wikipedia『サマータイムレンダ』『田中靖規』記事(2026-08-02閲覧)で作者・連載期間(2017年10月-2021年2月、全13巻)・掲載媒体(少年ジャンプ+発のオリジナル連載)・完結・アニメ化(2022年)を確認。ペンネームの読みは『瞳のカトブレパス』以降「たなかやすき」に変更されたとの記述に基づきnameKanaを設定。作品自体の漫画賞受賞は確認できず空配列。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "city-hunter",
+    "title": "シティーハンター",
+    "titleKana": "してぃーはんたー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "houjou-tsukasa"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "battle-action",
+      "comedy"
+    ],
+    "firstPublishedYear": 1985,
+    "latestPublishedYear": 1991,
+    "status": "completed",
+    "volumeCount": 35,
+    "synopsis": "新宿の裏社会で“スイーパー”と呼ばれる何でも屋・冴羽獠は、駅の伝言板に暗号を残す依頼人からの仕事を請け負い、警察が手を出せない事件を解決していく。凄腕のガンアクションと、女性を前にすると豹変するコメディ要素を併せ持つギャップが魅力。相棒の槇村香とコンビを組み、新宿を舞台に数々の依頼へ挑むハードボイルド・アクション。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/シティーハンター"
+    },
+    "sourceNote": "日本語版Wikipedia『シティーハンター』『北条司』記事(2026-08-02閲覧)で作者・掲載誌(週刊少年ジャンプ)・連載期間(1985年13号-1991年50号、全35巻)・完結・アニメ化(テレビシリーズ4期、劇場版複数)を確認。読み切り版『XYZ』の1983年愛読者賞1位はシリーズ本編自体の受賞ではないため不採用とし、awardResultsは空とした。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shaman-king",
+    "title": "シャーマンキング",
+    "titleKana": "しゃーまんきんぐ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "takei-hiroyuki"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 1998,
+    "latestPublishedYear": 2004,
+    "status": "completed",
+    "volumeCount": 32,
+    "synopsis": "霊が見える少年・麻倉葉は、幼い頃からの相棒である武将の霊アモ座玉のパートナーとなり、数百年に一度開催されるシャーマン最強決定戦“シャーマンファイト”に参加する。勝ち抜けば全ての魂と融合し、全能の力を持つ“シャーマンキング”になれるという。個性豊かなライバルシャーマンたちとの戦いを通し、葉が自分なりの“なりたい王様”の答えを見つけていく成長物語。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/シャーマンキング"
+    },
+    "sourceNote": "日本語版Wikipedia『シャーマンキング』『武井宏之』記事(2026-08-02閲覧)で作者・連載期間(1998年31号-2004年40号、週刊少年ジャンプ/集英社)・全32巻を確認。2017年に集英社での電子版販売が終了し、以降の完結版(KC完結版等)は講談社から刊行されているため、publisherId(現行の単行本刊行元)は講談社とし、labelId(連載開始時点の初出媒体)は集英社の週刊少年ジャンプの既存idを再利用した(レーベル側のpublisherIdはshueishaのまま)。アニメ化は2001年版・2021年版の2度。作品自体の漫画賞受賞は確認できず空配列。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "skip-to-loafer",
+    "title": "スキップとローファー",
+    "titleKana": "すきっぷとろーふぁー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "takamatsu-misaki"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "afternoon",
+    "themeIds": [
+      "school",
+      "slice-of-life",
+      "romance"
+    ],
+    "firstPublishedYear": 2018,
+    "status": "ongoing",
+    "volumeCount": 13,
+    "synopsis": "石川県の過疎地で育った岩倉美津未は、幼い頃からの目標だった東京の進学校へ入学する。しっかり者で成績優秀な反面、都会の人間関係には不慣れな彼女は入学初日からトラブルに見舞われるが、同級生の志摩聡介をはじめクラスメイトたちと少しずつ心を通わせていく。地方出身の主人公の視点から高校生活の機微を丁寧に描く青春群像劇。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2020,
+        "result": "第3位"
+      },
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2023,
+        "result": "第47回総合部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/スキップとローファー"
+    },
+    "sourceNote": "日本語版Wikipedia『スキップとローファー』『高松美咲』記事(2026-08-02閲覧)で作者・掲載誌(月刊アフタヌーン)・連載開始(2018年)・既刊巻数(13巻、2026年4月時点)・マンガ大賞2020第3位・第47回講談社漫画賞総合部門受賞・アニメ化を確認。連載中のため終了年は未入力。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "sket-dance",
+    "title": "スケットダンス",
+    "titleKana": "すけっとだんす",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "shinohara-kenta"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 2007,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 32,
+    "synopsis": "海鳴学園の“何でも屋”部活動・スケット団は、生徒会公認のもと学校中の困りごとや厄介事を解決している。リーダー気取りだが憎めないボッスン、武闘派で世話焼きなヒメコ、無口でIT機器を駆使するスウィッチの3人が、時にコミカルに時にシリアスに事件へ立ち向かう。ギャグと人情が入り混じる学園コメディで、篠原健太の出世作となった。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2010,
+        "result": "第55回少年向け部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/SKET_DANCE"
+    },
+    "sourceNote": "日本語版Wikipedia『SKET DANCE』『篠原健太』記事(2026-08-02閲覧)で作者・掲載誌(週刊少年ジャンプ)・連載期間(2007-2013年、全32巻)・小学館漫画賞受賞・アニメ化(2011-2012年、全77話)を確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

@@ -1038,5 +1038,27 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipedia『HELLSING』記事(2026-08-02閲覧)で『HELLSING』が1997年から少年画報社『ヤングキングアワーズ』に連載されたことを確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shonen-jump-giga",
+    "name": "少年ジャンプGIGA",
+    "nameKana": "しょうねんじゃんぷぎが",
+    "publisherId": "shueisha",
+    "description": "集英社が発行する『週刊少年ジャンプ』の定期増刊号。2016年7月創刊、季刊を基本に刊行頻度が変動している。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『週刊少年ジャンプの増刊号』記事(2026-08-02閲覧)で創刊年(2016年7月)・発行元(集英社)・季刊誌としての性質を確認。同誌単独の独立記事は確認できずexternalLinksは空欄。『ヴィジランテ-僕のヒーローアカデミアILLEGALS-』が2016年8月にこの増刊号で連載開始し、同年12月に少年ジャンプ+へ移籍した経緯をWeb検索(複数の書誌・レビューサイト、2026-08-02閲覧)で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "weekly-young-sunday",
+    "name": "週刊ヤングサンデー",
+    "nameKana": "しゅうかんやんぐさんでー",
+    "publisherId": "shogakukan",
+    "description": "小学館が発行していた青年漫画雑誌。2008年7月、2008年35号をもって休刊した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/週刊ヤングサンデー"
+    },
+    "sourceNote": "日本語版Wikipedia『クロサギ(漫画)』記事および関連Web検索(2026-08-02閲覧)で、『クロサギ』が2003年11月より本誌で連載開始し、2008年の同誌休刊に伴い『ビッグコミックスピリッツ』(小学館)へ移籍したことを確認。休刊済みだが発行元(小学館)は現行の単行本刊行元と同一のため、publisherId自体に齟齬はない。",
+    "updatedAt": "2026-08-02"
   }
 ]
