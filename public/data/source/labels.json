@@ -1474,5 +1474,35 @@
     },
     "sourceNote": "日本語版Wikipedia『ニコニコ静画』記事(2026-08-02閲覧)で運営元(ドワンゴ)・サービス概要を確認。『本好きの下剋上』コミカライズ第一部の連載開始媒体(2015年10月30日)であることをWikipedia『本好きの下剋上』記事で確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "gundam-ace",
+    "name": "ガンダムエース",
+    "nameKana": "がんだむえーす",
+    "publisherId": "kadokawa",
+    "description": "KADOKAWAが発行する、「機動戦士ガンダム」シリーズ関連作品を中心とした月刊コミック雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『機動戦士ガンダム THE ORIGIN』記事(2026-08-02閲覧)で、同作が2001年より同誌で連載開始したことを確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shonen-captain",
+    "name": "月刊少年キャプテン",
+    "nameKana": "げっかんしょうねんきゃぷてん",
+    "publisherId": "tokuma-shoten",
+    "description": "徳間書店が発行していた月刊少年漫画雑誌。1997年に休刊。",
+    "externalLinks": {},
+    "sourceNote": "Web検索結果(日本語版Wikipedia『月刊少年キャプテン』記事等、2026-08-02閲覧)で発行元(徳間書店)・1997年休刊であること、「トライガン」が1995年に同誌で連載開始したことを確認。連載終了後トライガンの単行本刊行元は少年画報社(ヤングキングアワーズ、id: young-king-ours)に移っており、労work.publisherIdとlabelのpublisherIdが異なる(CLAUDE.mdのレーベル入力ルール参照)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "seishinsha-comics",
+    "name": "青心社コミックス",
+    "nameKana": "せいしんしゃこみっくす",
+    "publisherId": "seishinsha",
+    "description": "青心社が刊行する漫画単行本レーベル。雑誌連載を経ない描き下ろし単行本刊行が中心で、士郎正宗のデビュー作「アップルシード」等を刊行する。",
+    "externalLinks": {},
+    "sourceNote": "Web検索結果(ピクシブ百科事典・shirowledge.com等、2026-08-02閲覧)で『アップルシード』が雑誌連載を経ず青心社から単行本描き下ろしの形で刊行されたことを確認。個別の叢書名の明記は確認できなかったため、CLAUDE.mdのレーベル入力ルール(描き下ろし単行本の場合はコミックスレーベル名を使う)に沿い、出版社名を冠した名称で登録した。",
+    "updatedAt": "2026-08-02"
   }
 ]

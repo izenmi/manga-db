@@ -3642,5 +3642,75 @@
     },
     "sourceNote": "日本語版Wikipedia『デスマーチからはじまる異世界狂想曲』記事(2026-08-02閲覧)で作画担当者名・エイジプレミアムでの連載開始(2014年12月)を確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yasuhiko-yoshikazu",
+    "name": "安彦良和",
+    "nameKana": "やすひこよしかず",
+    "description": "アニメーター・漫画家。「機動戦士ガンダム」でキャラクターデザイン・作画監督を務めた後、1989年に漫画家へ転身。「ナムジ」「虹色のトロツキー」等の歴史漫画のほか、「機動戦士ガンダム THE ORIGIN」の作画を担当した。",
+    "birthYear": 1947,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/安彦良和"
+    },
+    "sourceNote": "日本語版Wikipedia『安彦良和』記事(2026-08-02閲覧)で生年(1947年)・経歴(アニメーターから1989年に漫画家転身)・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "naitou-yasuhiro",
+    "name": "内藤泰弘",
+    "nameKana": "ないとうやすひろ",
+    "description": "漫画家。1995年より「トライガン」を連載開始。他に「血界戦線」シリーズ等。",
+    "birthYear": 1967,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/内藤泰弘"
+    },
+    "sourceNote": "日本語版Wikipedia『内藤泰弘』記事(2026-08-02閲覧)で生年(1967年)・経歴・代表作(トライガン、血界戦線)を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "oikawa-tooru",
+    "name": "及川徹",
+    "nameKana": "おいかわとおる",
+    "description": "漫画家。2012年より貴志祐介原作「新世界より」のコミカライズを連載。他に「インフェクション」等。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/及川徹"
+    },
+    "sourceNote": "Web検索結果(マンガペディア・めちゃコミック等、2026-08-02閲覧)で経歴・代表作(新世界より、インフェクション等)を確認。生年の記載は確認できなかったため未記載とした。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "minagawa-ryouji",
+    "name": "皆川亮二",
+    "nameKana": "みながわりょうじ",
+    "description": "漫画家。1988年デビュー。「ARMS」「スプリガン」「D-LIVE!!」等を手がける。",
+    "birthYear": 1964,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/皆川亮二"
+    },
+    "sourceNote": "日本語版Wikipedia『皆川亮二』記事(2026-08-02閲覧)で生年(1964年)・経歴・代表作(ARMS、スプリガン等)を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "takahashi-shin",
+    "name": "高橋しん",
+    "nameKana": "たかはししん",
+    "description": "漫画家。「いいひと。」「最終兵器彼女」等を手がける。",
+    "birthYear": 1967,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/高橋しん"
+    },
+    "sourceNote": "日本語版Wikipedia『高橋しん』記事(2026-08-02閲覧)で生年(1967年)・経歴・代表作(いいひと。、最終兵器彼女)を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yamada-kyuuri",
+    "name": "山田胡瓜",
+    "nameKana": "やまだきゅうり",
+    "description": "漫画家。元ITメディア記者。「AIの遺電子」シリーズでテクノロジーと人間の関係を描く。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/山田胡瓜"
+    },
+    "sourceNote": "日本語版Wikipedia『山田胡瓜』記事(2026-08-02閲覧)で経歴(元ITmedia記者)・代表作(AIの遺電子)を確認。生年は非公開のため未記載とした。",
+    "updatedAt": "2026-08-02"
   }
 ]

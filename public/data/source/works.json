@@ -12357,5 +12357,376 @@
     },
     "sourceNote": "日本語版Wikipedia『デスマーチからはじまる異世界狂想曲』記事(2026-08-02閲覧)で原作者・作画担当者・連載開始媒体(エイジプレミアム、2014年12月)・単行本レーベル(ドラゴンコミックスエイジ)・既刊巻数(19巻以上、2026年時点)・アニメ化(2018年)・シリーズ累計850万部突破を確認。あらすじは自分の言葉で要約。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kidou-senshi-gundam-the-origin",
+    "title": "機動戦士ガンダム THE ORIGIN",
+    "titleKana": "きどうせんしがんだむじおりじん",
+    "originalAuthorIds": [
+      "yatate-hajime",
+      "tomino-yoshiyuki"
+    ],
+    "artistIds": [
+      "yasuhiko-yoshikazu"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "gundam-ace",
+    "themeIds": [
+      "sci-fi",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2001,
+    "latestPublishedYear": 2011,
+    "status": "completed",
+    "volumeCount": 24,
+    "synopsis": "ジオン・ズム・ダイクンの死を発端に、遺児キャスバル(後のシャア・アズナブル)と妹アルテイシアがザビ家の陰謀に翻弄されていく様を軸に、モビルスーツ誕生の経緯から一年戦争勃発、アムロ・レイとの邂逅までを描き直す。テレビアニメ版とは異なる視点・逸話を交え、原作者自身の手で一年戦争前史を再構成した集大成的作品。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/機動戦士ガンダム_THE_ORIGIN"
+    },
+    "awardResults": [
+      {
+        "awardId": "seiun-award",
+        "year": 2013,
+        "result": "コミック部門受賞(第43回)"
+      }
+    ],
+    "sourceNote": "日本語版Wikipedia『機動戦士ガンダム THE ORIGIN』記事、および『安彦良和』『富野由悠季』各記事(2026-08-02閲覧)で作画(安彦良和)・原作クレジット(矢立肇・富野由悠季)・連載期間(2001-2011年、ガンダムエース)・巻数(通常版24巻)・完結・あらすじ・アニメ化(OVA/TVシリーズ)・2013年第43回星雲賞コミック部門受賞を確認。原作は矢立肇(サンライズ企画スタッフの共同ペンネーム)と富野由悠季の連名クレジットのためoriginalAuthorIdsに両方登録した。labelIdは連載開始時点のガンダムエース(新規登録)を採用。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "planetes",
+    "title": "プラネテス",
+    "titleKana": "ぷらねてす",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yukimura-makoto"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning",
+    "themeIds": [
+      "sci-fi"
+    ],
+    "firstPublishedYear": 1999,
+    "latestPublishedYear": 2004,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "2070年代、地球周回軌道に増え続ける宇宙ゴミ(デブリ)を回収する民間企業の作業員ハチマキは、いつか自分の宇宙船を持つことを夢見ながら、危険と隣り合わせの地味な仕事に従事している。同僚たちとの出会いや衝突を通して、宇宙で働き生きることの意味や人間の欲望・孤独を静かに見つめるハードSF群像劇。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/プラネテス"
+    },
+    "awardResults": [
+      {
+        "awardId": "seiun-award",
+        "year": 2002,
+        "result": "コミック部門受賞(第33回)"
+      }
+    ],
+    "sourceNote": "日本語版Wikipedia『プラネテス』記事(2026-08-02閲覧)で作者(幸村誠)・連載期間(1999-2004年、モーニング)・巻数(全4巻)・完結・あらすじ・アニメ化(2003-2004年)・2002年第33回星雲賞コミック部門受賞を確認(アニメ版が2005年に星雲賞メディア部門を別途受賞しているが、これはアニメ版のみの受賞のためawardResultsには含めていない)。作者はヴィンランド・サガ(既存work)の作画家として既にartists.jsonに登録済みのyukimura-makotoを再利用した。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "trigun",
+    "title": "トライガン",
+    "titleKana": "とらいがん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "naitou-yasuhiro"
+    ],
+    "publisherId": "shonen-gahosha",
+    "labelId": "shonen-captain",
+    "themeIds": [
+      "sci-fi",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 1995,
+    "latestPublishedYear": 2007,
+    "status": "completed",
+    "volumeCount": 17,
+    "synopsis": "二重太陽が照りつける乾いた辺境の惑星ノーマンズランドを舞台に、60億$$もの賞金首でありながら決して人を殺さない主義を貫く流れ者ヴァッシュ・ザ・スタンピードの旅を描くガンアクション。双子の兄ナイブズとの因縁や、荒廃した惑星に隠された移民船時代の秘密が、彼の旅路を通じて徐々に明らかになっていく。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/トライガン"
+    },
+    "awardResults": [
+      {
+        "awardId": "seiun-award",
+        "year": 2009,
+        "result": "コミック部門受賞(第40回、トライガン・マキシマムとして)"
+      }
+    ],
+    "sourceNote": "日本語版Wikipedia『トライガン』『内藤泰弘』各記事、およびコミックナタリー記事(2026-08-02閲覧)で作者・連載期間(1995-2007年、月刊少年キャプテン→ヤングキングアワーズ)・巻数(全17巻)・完結・あらすじ・アニメ化(1998年ほか)・2009年第40回星雲賞コミック部門受賞(トライガン・マキシマムとして)を確認。labelIdは連載開始時点の月刊少年キャプテン(徳間書店、新規登録)を採用したが、単行本は現在少年画報社刊行(work.publisherId=shonen-gahosha)のため、labelのpublisherIdと作品のpublisherIdが異なる。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "inuyashiki",
+    "title": "いぬやしき",
+    "titleKana": "いぬやしき",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "oku-hiroya"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "evening",
+    "themeIds": [
+      "sci-fi",
+      "battle-action",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "定年間際で家族にも疎まれがちな58歳の犬屋敷壱郎と、将来を嘱望される高校生・獅子神皓は、ある夜の正体不明の事故に巻き込まれ、どちらも身体の大部分を機械化されてしまう。得た超常の力を、犬屋敷は人助けに、獅子神は快楽的な殺戮に用い始め、対照的な生き方を選んだ二人の運命が次第に交錯していく。老いや孤独と向き合う視点を織り込んだSFサスペンス。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/いぬやしき"
+    },
+    "sourceNote": "日本語版Wikipedia『いぬやしき』記事(2026-08-02閲覧)で作者(奥浩哉)・連載期間(2014-2017年、イブニング)・巻数(全10巻)・完結・あらすじ・アニメ化(2017年)を確認。作者はGANTZ(既存work)の作画家として既にartists.jsonに登録済みのoku-hiroyaを再利用した。ブリュッセル国際ファンタスティック映画祭の受賞は実写映画版に対するものでコミック本体の受賞歴ではないためawardResultsには含めていない。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "biomega",
+    "title": "BIOMEGA",
+    "titleKana": "ばいおめが",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nihei-tsutomu"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "young-magazine",
+    "themeIds": [
+      "sci-fi",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2004,
+    "latestPublishedYear": 2009,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "西暦3005年、火星での発見をきっかけに未知のウイルス「N5S」が地球を襲い、感染者はゾンビのような存在へと変貌していく。謎の組織に属するエージェント・カノエ族一は、ウイルスに耐性を持つ少女イオン・グリーンを守るためバイクを駆り追跡者たちと戦う。不死と人類の変容を巡る硬質なSFバイオレンスアクション。",
+    "mediaMix": {
+      "anime": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/BIOMEGA"
+    },
+    "sourceNote": "日本語版Wikipedia『BIOMEGA』記事(2026-08-02閲覧)で作者(弐瓶勉)・連載経緯(2004年週刊ヤングマガジンで開始後休載、2006年よりウルトラジャンプで再開)・巻数(全6巻)・完結・あらすじを確認。単行本は最終的に集英社刊行(work.publisherId=shueisha)である一方、初出は週刊ヤングマガジン(講談社、既存label young-magazine)のためlabelIdはyoung-magazineを採用し、labelのpublisherId(kodansha)と作品のpublisherId(shueisha)が異なる。アニメ化情報は確認できなかったためfalseとした。作者はBLAME!(既存work)の作画家として既にartists.jsonに登録済みのnihei-tsutomuを再利用した。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "sidonia-no-kishi",
+    "title": "シドニアの騎士",
+    "titleKana": "しどにあのきし",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nihei-tsutomu"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "afternoon",
+    "themeIds": [
+      "sci-fi",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2009,
+    "latestPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 15,
+    "synopsis": "正体不明の宇宙生命体ガウナに地球を滅ぼされてから千年後、生き延びた人類は播種船シドニアに乗り広大な宇宙を彷徨っていた。地下環境で育てられた青年・谷風長道は、人型兵器「衛人」のパイロットとしてガウナとの戦いに身を投じながら、クローンや光合成能力を持つ者など多様化した人類社会の中で、自らの生きる意味を見出していく。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/シドニアの騎士"
+    },
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2015,
+        "result": "一般部門受賞(第39回)"
+      },
+      {
+        "awardId": "seiun-award",
+        "year": 2016,
+        "result": "コミック部門受賞(第47回)"
+      }
+    ],
+    "sourceNote": "日本語版Wikipedia『シドニアの騎士』記事(2026-08-02閲覧)で作者(弐瓶勉)・連載期間(2009-2015年、月刊アフタヌーン)・巻数(全15巻)・完結・あらすじ・アニメ化(2014年、2015年ほか)・2015年第39回講談社漫画賞一般部門、2016年第47回星雲賞コミック部門受賞を確認。作者はBLAME!(既存work)の作画家として既にartists.jsonに登録済みのnihei-tsutomuを再利用した。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shin-sekai-yori",
+    "title": "新世界より",
+    "titleKana": "しんせかいより",
+    "originalAuthorIds": [
+      "kishi-yuusuke"
+    ],
+    "artistIds": [
+      "oikawa-tooru"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "bessatsu-shonen-magazine",
+    "themeIds": [
+      "sci-fi",
+      "suspense-psychological",
+      "horror"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2014,
+    "status": "completed",
+    "volumeCount": 7,
+    "synopsis": "呪力と呼ばれる超能力の訓練に励む子供たちが平穏に暮らす、千年後の日本のとある集落。主人公の早季たちは成長するにつれ、呪力を使えない者たちの不在や、集落の平和な暮らしを陰で支える恐るべき仕組みの存在に気づいていく。貴志祐介の同名SF小説を及川徹が漫画化した、静かな恐怖を孕むディストピア・サスペンス。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/新世界より_(小説)"
+    },
+    "sourceNote": "BOOK☆WALKER・コミックシーモア等の書誌情報および日本語版Wikipedia『新世界より (小説)』記事(2026-08-02閲覧)で原作(貴志祐介、2008年刊)・作画(及川徹)・連載期間(2012-2014年、別冊少年マガジン)・巻数(全7巻)・完結・あらすじを確認。原作小説は2012年にアニメ化されているためmediaMix.animeはtrueとした(アニメは小説を原作としたものだが同一物語のメディア展開として扱った)。原作小説自体は2008年に日本SF大賞を受賞しているが、これは小説版への受賞のため漫画workのawardResultsには含めていない。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "arms",
+    "title": "ARMS",
+    "titleKana": "あーむず",
+    "originalAuthorIds": [
+      "shichigatsu-kyouichi"
+    ],
+    "artistIds": [
+      "minagawa-ryouji"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "sci-fi",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1997,
+    "latestPublishedYear": 2002,
+    "status": "completed",
+    "volumeCount": 22,
+    "synopsis": "高校2年生の高月了は、転校生・神宮寺隼人の左腕に秘められた異形の力を目の当たりにしたことをきっかけに、自らの右腕にも人知を超えた力が眠っていることを知る。米軍の極秘プロジェクトに由来するその力を巡り、追っ手や巨大な組織の陰謀に巻き込まれながら、少年たちは己の身体の秘密と存在意義に向き合っていくSFアクション。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ARMS_(漫画)"
+    },
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1998,
+        "result": "少年向け部門受賞(第44回)"
+      }
+    ],
+    "sourceNote": "Web検索結果(BOOK☆WALKER・コミックシーモア等の書誌情報、2026-08-02閲覧)で作画(皆川亮二)・原作(七月鏡一)・連載期間(1997-2002年、週刊少年サンデー)・巻数(全22巻)・完結・第44回小学館漫画賞受賞・あらすじ・アニメ化(2001年『PROJECT ARMS』)を確認。原作(七月鏡一)と作画(皆川亮二)が別クレジットのためoriginalAuthorIdsに七月鏡一を登録した(DEATH NOTE等の既存work登録パターンに準拠)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "saishuu-heiki-kanojo",
+    "title": "最終兵器彼女",
+    "titleKana": "さいしゅうへいきかのじょ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "takahashi-shin"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-spirits",
+    "themeIds": [
+      "sci-fi",
+      "romance"
+    ],
+    "firstPublishedYear": 1999,
+    "latestPublishedYear": 2001,
+    "status": "completed",
+    "volumeCount": 8,
+    "synopsis": "北海道の地方都市で暮らす高校生シュウジは、恋人ちせの様子が急変したことをきっかけに、彼女が国家の存亡を左右する「最終兵器」へと改造された自衛官であることを知る。激化していく戦争と、戦うたびに刻一刻と人間性を失っていくちせを前に、平凡な恋人同士だったふたりの関係のかたちが静かに、しかし後戻りできないほど変わっていく恋愛SF作品。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/最終兵器彼女"
+    },
+    "sourceNote": "日本語版Wikipedia『最終兵器彼女』『高橋しん』各記事(2026-08-02閲覧)で作者・連載期間(1999-2001年、ビッグコミックスピリッツ)・巻数(本編7巻+外伝1巻の全8巻)・完結・あらすじ・アニメ化(2002年)を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ai-no-idenshi",
+    "title": "AIの遺電子",
+    "titleKana": "えーあいのいでんし",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yamada-kyuuri"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "shonen-champion",
+    "themeIds": [
+      "sci-fi",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 8,
+    "synopsis": "人間そっくりの人工知能「ヒューマノイド」が人々の生活に溶け込んだ近未来の日本。ヒューマノイド専門医の須藤光は、日々持ち込まれる様々な患者やトラブルに向き合いながら、心や感情、そして「人間らしさ」とは何かを静かに問い直していく。派手な事件よりも一話ごとの人間ドラマを重視した連作形式のSF作品。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/AIの遺電子"
+    },
+    "awardResults": [
+      {
+        "awardId": "bunkacho-media-geijutsusai",
+        "year": 2018,
+        "result": "マンガ部門優秀賞(第21回)"
+      }
+    ],
+    "sourceNote": "日本語版Wikipedia『AIの遺電子』『山田胡瓜』各記事(2026-08-02閲覧)で作者・連載期間(2015-2017年、週刊少年チャンピオン)・巻数(全8巻)・完結(続編RED QUEEN/Blue Ageは別シリーズとして未登録)・あらすじ・アニメ化(2023年)・2018年第21回文化庁メディア芸術祭マンガ部門優秀賞受賞を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "appleseed",
+    "title": "アップルシード",
+    "titleKana": "あっぷるしーど",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "shirow-masamune"
+    ],
+    "publisherId": "seishinsha",
+    "labelId": "seishinsha-comics",
+    "themeIds": [
+      "sci-fi",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1985,
+    "latestPublishedYear": 1989,
+    "status": "unknown",
+    "volumeCount": 4,
+    "synopsis": "荒廃した近未来、理想郷として築かれた都市国家オリュンポスに招かれた女性兵士デュナンと、全身をサイボーグ化した相棒ブリアレオスは、特殊部隊ESWATの一員として都市の治安維持にあたる。理想郷の裏に潜む政治的思惑や、人間とバイオロイドが共存する社会の歪みを描くハードSFアクション。連載途中で作者自身により凍結が宣言され、物語は未完のまま中断している。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アップルシード"
+    },
+    "awardResults": [
+      {
+        "awardId": "seiun-award",
+        "year": 1986,
+        "result": "コミック部門受賞(第17回)"
+      }
+    ],
+    "sourceNote": "日本語版Wikipedia『アップルシード』『青心社』各記事、およびピクシブ百科事典・shirowledge.com等(2026-08-02閲覧)で作者(士郎正宗、攻殻機動隊の既存artistを再利用)・刊行期間(1985-1989年)・雑誌連載を経ない青心社からの単行本描き下ろしであること・巻数(全4巻、他にデータブック・総集編)・1986年第17回星雲賞コミック部門受賞・あらすじを確認。作者自身が「凍結宣言」を出し連載が中断したまま再開していないため、statusは completed/ongoing のどちらとも言い切れず unknown とした。",
+    "updatedAt": "2026-08-02"
   }
 ]
