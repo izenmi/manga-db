@@ -13142,5 +13142,375 @@
     },
     "sourceNote": "日本語版Wikipedia『はねバド!』記事(2026-08-02閲覧)で作者(濱田浩輔、オリジナル作品)・連載期間(good!アフタヌーン/講談社、2013年6月7日-2019年10月7日)・全16巻・完結・2018年7月-10月放送のテレビアニメ(全13話)を確認。作品自体の受賞歴の記載は確認できずawardResultsは設定しなかった。あらすじは独自要約。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yamikin-ushijima-kun",
+    "title": "闇金ウシジマくん",
+    "titleKana": "やみきんウシジマくん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "manabe-shohei"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-spirits",
+    "themeIds": [
+      "crime-underworld",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2004,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 46,
+    "synopsis": "法外な金利で金を貸す闇金業者「カウカウファイナンス」の経営者・丑嶋馨を狂言回しに、彼の元へ辿り着く多重債務者やギャンブル依存者たちの転落と再生を、客ごとの視点からオムニバス形式で描く。金に追い詰められた人間の弱さやずる賢さを容赦なく突き放して見せる作風で、社会の底辺で蠢く欲望と業をあぶり出す。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2010,
+        "result": "一般向け部門受賞(第56回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/闇金ウシジマくん"
+    },
+    "sourceNote": "日本語版Wikipedia『闇金ウシジマくん』記事(2026-08-02閲覧)で作者(真鍋昌平、原作・作画とも本人によるオリジナル作品)、『ビッグコミックスピリッツ』(小学館)にて2004年24号〜2019年14号連載・全46巻・完結、第56回(平成22年度)小学館漫画賞一般向け部門受賞(2010年)を確認。同記事および関連報道でテレビドラマ化・実写映画化はあるがテレビアニメ化はされていないことを確認しmediaMix.animeはfalseとした。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kyou-kara-ore-wa",
+    "title": "今日から俺は!!",
+    "titleKana": "きょうからおれは",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nishimori-hiroyuki"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "comedy",
+      "crime-underworld"
+    ],
+    "firstPublishedYear": 1988,
+    "latestPublishedYear": 1997,
+    "status": "completed",
+    "volumeCount": 38,
+    "synopsis": "千葉県の架空高校に転校してきた三橋貴志は、生真面目だった同級生・伊藤真司を巻き込みながら「ツッパリ」の道を歩み始める。番長を頂点とする学校間の抗争や恋愛模様をコミカルに描くヤンキー群像劇で、暴力より義理と友情を重んじる主人公たちの生き様がギャグを交えて展開する。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/今日から俺は!!"
+    },
+    "sourceNote": "日本語版Wikipedia『今日から俺は!!』記事および西森博之個人記事(2026-08-02閲覧、Web検索で複数書誌サイトも参照)で作者・連載期間(1988年9月号〜1990年8月号は『少年サンデー増刊』、1990年40号〜1997年47号は『週刊少年サンデー』へ移行、小学館)・全38巻・完結・OVA化(全10話、1993-1996年)を確認。連載開始時点は増刊号だが同一誌ブランド(少年サンデー)内での号数移行のため既存label『shonen-sunday』を採用し、初出が増刊であった経緯をここに明記する。第46回小学館漫画賞は同作者の別作品『天使な小生意気』の受賞であり本作の受賞歴ではないためawardResultsは付与していない。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "crows",
+    "title": "クローズ",
+    "titleKana": "くろーず",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "takahashi-hiroshi"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "monthly-shonen-champion",
+    "themeIds": [
+      "crime-underworld",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1990,
+    "latestPublishedYear": 1998,
+    "status": "completed",
+    "volumeCount": 26,
+    "synopsis": "不良の巣窟として恐れられる鈴蘭男子高校に転校してきた坊屋春道は、校内の荒くれ者たちと喧嘩を重ねながら次第に信頼と友情を築いていく。鈴蘭の頂点を目指す過程で外部勢力との大規模な抗争にも巻き込まれ、不良同士の意地と絆を泥臭く描き切る学園抗争漫画の代表作。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/クローズ"
+    },
+    "sourceNote": "日本語版Wikipedia『クローズ』記事およびWeb検索結果(2026-08-02閲覧)で作者(高橋ヒロシ、オリジナル作品)、『月刊少年チャンピオン』(秋田書店)にて1990年〜1998年連載・全26巻(+スピンオフ3巻)・完結、OVA化(『高校極道伝説クローズ』1994年、続編含め全2作)を確認。実写映画『クローズZERO』シリーズは漫画本体とは別扱いとした。作品自体の漫画賞受賞の明記は確認できずawardResultsは付与していない。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shippu-densetsu-tokkou-no-taku",
+    "title": "疾風伝説 特攻の拓",
+    "titleKana": "しっぷうでんせつとっこうのたく",
+    "originalAuthorIds": [
+      "saki-hiroto"
+    ],
+    "artistIds": [
+      "tokoro-juzo"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "crime-underworld",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1991,
+    "latestPublishedYear": 1997,
+    "status": "completed",
+    "volumeCount": 27,
+    "synopsis": "いじめられっ子だった芦川拓は、転校生・鳴神秀人との出会いをきっかけに人生を変えていく。荒くれ者の集う高校へ移った拓は、暴走族同士の縄張り争いや意地の張り合いに身を投じながら、喧嘩とバイクの腕を武器に周囲の信頼を勝ち取っていく硬派な不良漫画。",
+    "mediaMix": {
+      "anime": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/疾風伝説_特攻の拓"
+    },
+    "sourceNote": "日本語版Wikipedia『疾風伝説 特攻の拓』記事およびコミックナタリー記事(2026-08-02閲覧)で原作(佐木飛朗斗)・作画(所十三)、『週刊少年マガジン』(講談社)にて1991年26号〜1997年連載・全27巻・完結を確認。アニメ化の記載は確認できずmediaMix.animeはfalseとした。後年の続編『〜After Decade〜』(2017-2022)や2023年復刻版は別シリーズ・別刊行のため本エントリには含めていない。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "rokudenashi-blues",
+    "title": "ろくでなしBLUES",
+    "titleKana": "ろくでなしブルース",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "morita-masanori"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "crime-underworld",
+      "comedy"
+    ],
+    "firstPublishedYear": 1988,
+    "latestPublishedYear": 1997,
+    "status": "completed",
+    "volumeCount": 42,
+    "synopsis": "大阪から東京・吉祥寺の帝拳高校へ転校してきた前田太尊は、ボクシングで鍛えた拳と度胸で他校の番長たちに次々挑んでいく。「東京四天王」との対決を軸に、男気と友情を重んじる不良少年たちの青春模様をギャグを交えて描く、学園抗争コメディの人気作。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ろくでなしBLUES"
+    },
+    "sourceNote": "日本語版Wikipedia『ろくでなしBLUES』記事およびWeb検索結果(2026-08-02閲覧)で作者(森田まさのり、オリジナル作品)、『週刊少年ジャンプ』(集英社)にて1988年25号〜1997年10月号連載・コミック版全42巻・完結、東映アニメーション制作の劇場版アニメ2作(1992年、1993年『ろくでなしBLUES 1993』)を確認。実写映画・TVドラマ化も別途あるが、劇場アニメの確認をもってmediaMix.animeはtrueとした。作品自体の漫画賞受賞の明記は確認できずawardResultsは付与していない。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "mori-no-asagao",
+    "title": "モリのアサガオ",
+    "titleKana": "もりのあさがお",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "goda-mamora"
+    ],
+    "publisherId": "futabasha",
+    "labelId": "manga-action",
+    "themeIds": [
+      "crime-underworld",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2004,
+    "latestPublishedYear": 2007,
+    "status": "completed",
+    "volumeCount": 8,
+    "synopsis": "新人刑務官・及川直樹は死刑囚が収容される舎房に配属され、様々な事情を抱えた死刑囚たちと向き合っていく。中でも死刑囚・渡瀬満との交流を通じて、命を奪う制度の意味や執行に立ち会う刑務官自身の苦悩が浮かび上がる、死刑制度の是非を問うヒューマンドラマ。",
+    "awardResults": [
+      {
+        "awardId": "bunkacho-media-geijutsusai",
+        "year": 2007,
+        "result": "マンガ部門大賞(平成19年度・第11回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/モリのアサガオ"
+    },
+    "sourceNote": "日本語版Wikipedia『モリのアサガオ』記事(2026-08-02閲覧)で作者(郷田マモラ、オリジナル作品)、『漫画アクション』(双葉社)にて2004年〜2007年連載・全8巻(本編7巻+番外編1巻)・完結、平成19年度(2007年)第11回文化庁メディア芸術祭マンガ部門大賞受賞、2010年テレビ東京系でテレビドラマ化を確認。テレビアニメ化の記載はなくmediaMix.animeはfalseとした。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "black-angels",
+    "title": "ブラック・エンジェルズ",
+    "titleKana": "ぶらっくえんじぇるず",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hiramatsu-shinji"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "crime-underworld",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1981,
+    "latestPublishedYear": 1985,
+    "status": "completed",
+    "volumeCount": 20,
+    "synopsis": "法では裁けない悪をひそかに葬る暗殺集団に所属する雪藤洋士たちは、依頼人から報酬を受け取らず「死の掟」に従って外道を制裁していく。敵対する裏社会組織との抗争を経て、正義と暴力の境界を問う全3部構成のバイオレンスアクション。",
+    "mediaMix": {
+      "anime": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ブラック・エンジェルズ"
+    },
+    "sourceNote": "日本語版Wikipedia『ブラック・エンジェルズ』記事(2026-08-02閲覧)で作者(平松伸二、オリジナル作品)、『週刊少年ジャンプ』(集英社)にて1981年〜1985年連載・全20巻(愛蔵版/文庫版は全12巻)・完結、全3部構成であることを確認。2011-2012年に実写版DVDが制作されたがテレビアニメ化の記載はなくmediaMix.animeはfalseとした。作品自体の漫画賞受賞の明記は確認できずawardResultsは付与していない。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "worst",
+    "title": "WORST",
+    "titleKana": "わーすと",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "takahashi-hiroshi"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "monthly-shonen-champion",
+    "themeIds": [
+      "crime-underworld",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2001,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 33,
+    "synopsis": "前作『クローズ』の後を継ぎ、鈴蘭男子高校に転校してきた月島花が、学園最強を決める新入生同士の抗争「一年戦争」に身を投じていく。鳳仙学園や天地会など強豪校との勢力争いを経て鈴蘭番長の座を目指す、不良学園抗争シリーズの続編。",
+    "mediaMix": {
+      "anime": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/WORST_(漫画)"
+    },
+    "sourceNote": "日本語版Wikipedia『WORST(漫画)』記事(2026-08-02閲覧)で作者(高橋ヒロシ、既存作『クローズ』の続編、artistId『takahashi-hiroshi』を再利用)、『月刊少年チャンピオン』(秋田書店)にて2001年10月号〜2013年8月号連載・全34巻(本編33巻+外伝1巻、volumeCountは本編33巻を採用)・完結を確認。同記事にテレビアニメ・OVA化の記載は見当たらずmediaMix.animeはfalseとした(実写映画『クローズZERO』シリーズへの設定の逆輸入はあるが本作自体のアニメ化ではない)。2026年1月開始予定とされる正統続編(ヤングチャンピオン連載)は本エントリとは別シリーズのため含めていない。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "naniwa-kinyudo",
+    "title": "ナニワ金融道",
+    "titleKana": "なにわきんゆうどう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "aoki-yuji"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning",
+    "themeIds": [
+      "crime-underworld",
+      "business"
+    ],
+    "firstPublishedYear": 1990,
+    "latestPublishedYear": 1996,
+    "status": "completed",
+    "volumeCount": 19,
+    "synopsis": "大阪のマチ金融会社「帝国金融」に就職した青年・灰原達之の目を通して、多重債務や手形詐欺に絡めとられていく客たちの転落を克明に描く。金融業界の裏側と人間の欲得を容赦なく暴き出すリアリズムで、金にまつわる漫画というジャンルを切り開いた先駆的作品。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1992,
+        "result": "一般部門受賞"
+      },
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 1998,
+        "result": "マンガ優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ナニワ金融道"
+    },
+    "sourceNote": "日本語版Wikipedia『ナニワ金融道』記事(2026-08-02閲覧)で作者(青木雄二、オリジナル作品)、『モーニング』(講談社)にて1990年〜1996年連載・全19巻・完結、1992年講談社漫画賞受賞、1998年手塚治虫文化賞マンガ優秀賞受賞を確認。テレビドラマ化・映画化はあるがテレビアニメ化の記載はなくmediaMix.animeはfalseとした。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "sanctuary",
+    "title": "サンクチュアリ",
+    "titleKana": "さんくちゅあり",
+    "originalAuthorIds": [
+      "shimura-sho"
+    ],
+    "artistIds": [
+      "ikegami-ryoichi"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-superior",
+    "themeIds": [
+      "crime-underworld",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 1990,
+    "latestPublishedYear": 1995,
+    "status": "completed",
+    "volumeCount": 12,
+    "synopsis": "少年時代にカンボジアの内戦で家族を失った北条彰と浅見千秋は、日本に逃れて生き延びた過去を胸に、大人になってそれぞれ裏社会と政界へ進む道を選ぶ。表と裏から腐敗した日本社会を作り変えるべく、裏社会のトップに上り詰める北条と、政治家として頭角を現す浅見が水面下で連携していく政治×任侠サスペンス。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/サンクチュアリ_(漫画)"
+    },
+    "sourceNote": "日本語版Wikipedia『サンクチュアリ(漫画)』記事およびWeb検索結果(2026-08-02閲覧)で原作(史村翔)・作画(池上遼一)、『ビッグコミックスペリオール』(小学館)にて1990年〜1995年連載・全12巻・完結、主人公が北条彰(裏社会)・浅見千秋(政界)であること、1995-1996年に実写映画化・OVA化されたことを確認。原作者『史村翔』は漫画原作者・武論尊(本名:岡村善行、『北斗の拳』原作者)が池上遼一とのコンビ作品で用いるペンネームであることも確認したが、本データベースに武論尊名義の既存登録がないため本作のクレジット表記『史村翔』で新規登録した。作品自体の漫画賞受賞の明記は確認できずawardResultsは付与していない。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "minami-no-teiou",
+    "title": "ミナミの帝王",
+    "titleKana": "みなみのていおう",
+    "originalAuthorIds": [
+      "tennoji-dai"
+    ],
+    "artistIds": [
+      "gou-rikiya"
+    ],
+    "publisherId": "nihon-bungeisha",
+    "labelId": "weekly-manga-goraku",
+    "themeIds": [
+      "crime-underworld",
+      "business"
+    ],
+    "firstPublishedYear": 1992,
+    "latestPublishedYear": 2026,
+    "status": "completed",
+    "volumeCount": 188,
+    "synopsis": "大阪・ミナミを舞台に、10日で5割の高利貸し「トイチ」を営む金融業者・萬田銀次郎が、金に困り訪れる客たちの事情に応じて、時に非情に、時に人情味を見せながら独自のやり方で決着をつけていく。バブル崩壊後の大阪の裏経済と借金にまつわる人間模様を描き、34年にわたり連載された長寿シリーズ。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ミナミの帝王"
+    },
+    "sourceNote": "日本語版Wikipedia『難波金融伝・ミナミの帝王』記事およびコミックナタリー記事(2026-08-02閲覧)で原作(天王寺大)・作画(郷力也)、『週刊漫画ゴラク』(日本文芸社)にて1992年連載開始・2026年2月完結(単行本最終188巻は同年4月発売)・全188巻(累計1691話)を確認。竹内力主演の実写シリーズとは別にOVA版(全2話)が制作されていることも確認しmediaMix.animeはtrueとした。連載終了がこのバッチ作成日(2026-08-02)の直前であるため、巻数・完結時期の細部は今後の追加報道で微調整される可能性がある。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "bloody-monday",
+    "title": "BLOODY MONDAY",
+    "titleKana": "ぶらっでぃまんでー",
+    "originalAuthorIds": [
+      "ryumon-ryo"
+    ],
+    "artistIds": [
+      "megumi-hiroshi"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "suspense-psychological",
+      "crime-underworld"
+    ],
+    "firstPublishedYear": 2007,
+    "latestPublishedYear": 2012,
+    "status": "completed",
+    "volumeCount": 23,
+    "synopsis": "天才ハッカー「ファルコン」こと高校生・高木藤丸は、公安の秘密組織THIRD-iに協力する父の手伝いをするうちに、致死性ウイルス「BLOODY-X」を用いた無差別テロ計画の存在を突き止める。刻一刻と迫るタイムリミットの中、ハッキング技術と頭脳戦を駆使してテロ組織に立ち向かう学園発ハッカーテクノスリラー。",
+    "mediaMix": {
+      "anime": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/BLOODY_MONDAY"
+    },
+    "sourceNote": "日本語版Wikipedia『BLOODY MONDAY』記事(2026-08-02閲覧)で原作(龍門諒)・作画(恵広史)、『週刊少年マガジン』(講談社)にて2007年17号〜2012年連載(第1シーズン全11巻、第2シーズン『絶望ノ匣』全8巻、ラストシーズン全4巻、合計23巻)・完結、敵組織・ウイルス名(BLOODY-X)等の設定を確認。原作者『龍門諒』は原作者・樹林伸が用いる複数のペンネームの一つであり、本データベース既存の『天樹征丸』(id: amagi-seimaru、同氏が『金田一少年の事件簿』で用いる別のペンネーム)と同一人物だが、作品ごとに異なるペンネーム・クレジットが使われているため、既存の共有ペンネーム方針(amagi-seimaru)に倣い別idとして新規登録した。テレビドラマ化(2008年・2010年)はあるがテレビアニメ化の記載はなくmediaMix.animeはfalseとした。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
   }
 ]

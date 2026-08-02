@@ -995,5 +995,52 @@
     "externalLinks": {},
     "sourceNote": "BOOK☆WALKER・コミックシーモア等の書誌情報(2026-08-02閲覧)で『ARMS』の著者クレジットが「皆川亮二/七月鏡一」であり、七月鏡一が原作(原案協力)を担当していることを確認。経歴を詳述する日本語版Wikipedia個別記事は確認できなかったため、役割のみ書誌情報から記載した。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "saki-hiroto",
+    "name": "佐木飛朗斗",
+    "nameKana": "さきひろと",
+    "description": "神奈川県横浜市出身の漫画原作者。スタジオ・シップ出身で、暴走族やヤンキーを題材にした横浜を舞台とする作品群で知られる。代表作に『疾風伝説 特攻の拓』。",
+    "birthYear": 1962,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/佐木飛朗斗"
+    },
+    "sourceNote": "日本語版Wikipedia『佐木飛朗斗』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shimura-sho",
+    "name": "史村翔",
+    "nameKana": "しむらしょう",
+    "description": "漫画原作者・武論尊(本名:岡村善行)が、作画家・池上遼一と組む作品で用いるペンネーム。『北斗の拳』の原作者として知られる武論尊と同一人物。代表作に『サンクチュアリ』『HEAT -灼熱-』。",
+    "birthYear": 1947,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/武論尊"
+    },
+    "sourceNote": "日本語版Wikipedia『武論尊』記事(2026-08-02閲覧)で、史村翔が武論尊の別ペンネームであること・生年(1947年)・代表作を確認。本データベースに武論尊名義の既存登録がないため、『サンクチュアリ』のクレジット表記に合わせて『史村翔』名義で新規登録した。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tennoji-dai",
+    "name": "天王寺大",
+    "nameKana": "てんのうじだい",
+    "description": "大阪府出身の漫画原作者。漫画家・郷力也の実兄で、別名義「川辺優」も使用する。代表作に『ミナミの帝王』『白竜』。",
+    "birthYear": 1955,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/天王寺大"
+    },
+    "sourceNote": "日本語版Wikipedia『天王寺大』記事(2026-08-02閲覧)で生年・経歴・代表作・郷力也との関係を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ryumon-ryo",
+    "name": "龍門諒",
+    "nameKana": "りゅうもんりょう",
+    "description": "漫画原作者・樹林伸が用いるペンネームの一つ。同氏は『金田一少年の事件簿』の原作者名義「天樹征丸」(本データベース既存id: amagi-seimaru)としても知られる、作品ごとに複数のペンネームを使い分ける原作者。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/樹林伸"
+    },
+    "sourceNote": "日本語版Wikipedia『樹林伸』記事およびBLOODY MONDAY関連の書誌情報(2026-08-02閲覧)で、龍門諒が樹林伸の複数あるペンネームの一つであること(他に天樹征丸・亜樹直・青樹佑夜・伊賀大晃等)を確認。既存id『amagi-seimaru』と同一人物だが、作品ごとに異なるペンネームが使われクレジットも異なるため、既存共有ペンネーム方針(amagi-seimaru)に倣い別idとして新規登録した。実在人物としては重複するがペンネーム単位でのidであることをここに明記する。",
+    "updatedAt": "2026-08-02"
   }
 ]

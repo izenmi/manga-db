@@ -3819,5 +3819,137 @@
     },
     "sourceNote": "日本語版Wikipedia『藤子不二雄Ⓐ』記事(2026-08-02閲覧)で本名・生没年(1934年生-2022年没)・経歴・代表作を確認。既存artists.jsonの『藤子・F・不二雄』(id: fujiko-f-fujio、本名・藤本弘)とは1988年のコンビ解消後に個別活動した別人であることを確認済み。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "manabe-shohei",
+    "name": "真鍋昌平",
+    "nameKana": "まなべしょうへい",
+    "description": "神奈川県茅ヶ崎市出身の漫画家。裏社会や特殊な経歴を持つ人物への徹底取材を基に、社会の底辺に生きる人間を描く作風で知られる。代表作に『闇金ウシジマくん』『九条の大罪』。",
+    "birthYear": 1971,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/真鍋昌平"
+    },
+    "sourceNote": "日本語版Wikipedia『真鍋昌平』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nishimori-hiroyuki",
+    "name": "西森博之",
+    "nameKana": "にしもりひろゆき",
+    "description": "千葉県出身の漫画家。『週刊少年サンデー』を中心に活動し、ヤンキーを題材にしたコメディ作品で人気を博した。代表作に『今日から俺は!!』『天使な小生意気』。",
+    "birthYear": 1963,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/西森博之"
+    },
+    "sourceNote": "日本語版Wikipedia『西森博之』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "takahashi-hiroshi",
+    "name": "髙橋ヒロシ",
+    "nameKana": "たかはしひろし",
+    "description": "福島県出身の漫画家。不良少年たちの抗争を描いた学園抗争漫画を数多く手がけ、『クローズ』『WORST』は実写映画化もされ大きなヒットとなった。",
+    "birthYear": 1965,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/高橋ヒロシ"
+    },
+    "sourceNote": "日本語版Wikipedia『髙橋ヒロシ』記事(2026-08-02閲覧)で生年・経歴・代表作(クローズ・WORST)を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tokoro-juzo",
+    "name": "所十三",
+    "nameKana": "ところじゅうぞう",
+    "description": "静岡県掛川市出身の漫画家。不良漫画で活躍した後、近年は恐竜を題材にした作品を手がける。代表作に『疾風伝説 特攻の拓』。",
+    "birthYear": 1961,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/所十三"
+    },
+    "sourceNote": "日本語版Wikipedia『所十三』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "morita-masanori",
+    "name": "森田まさのり",
+    "nameKana": "もりたまさのり",
+    "description": "滋賀県栗東市出身の漫画家。原哲夫のアシスタントを経てデビューし、不良高校を舞台にしたコメディ漫画で人気を博した。代表作に『ろくでなしBLUES』『ROOKIES』。",
+    "birthYear": 1966,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/森田まさのり"
+    },
+    "sourceNote": "日本語版Wikipedia『森田まさのり』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "goda-mamora",
+    "name": "郷田マモラ",
+    "nameKana": "ごうだまもら",
+    "description": "三重県伊勢市出身の漫画家。司法制度など社会派のテーマを関西弁のセリフ回しで描く作風で知られる。代表作に『きらきらひかる』『モリのアサガオ』。",
+    "birthYear": 1962,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/郷田マモラ"
+    },
+    "sourceNote": "日本語版Wikipedia『郷田マモラ』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hiramatsu-shinji",
+    "name": "平松伸二",
+    "nameKana": "ひらまつしんじ",
+    "description": "岡山県出身の漫画家。法で裁けない悪を制裁するアウトロー像を描くバイオレンスアクションを得意とする。代表作に『ドーベルマン刑事』『ブラック・エンジェルズ』。",
+    "birthYear": 1955,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/平松伸二"
+    },
+    "sourceNote": "日本語版Wikipedia『平松伸二』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "aoki-yuji",
+    "name": "青木雄二",
+    "nameKana": "あおきゆうじ",
+    "description": "大阪府出身の漫画家(1945-2003)。45歳での漫画家デビューという遅咲きの経歴を持ち、自らを「マルクス主義者」と称して社会批評を込めた金融漫画のジャンルを確立した。代表作に『ナニワ金融道』。",
+    "birthYear": 1945,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/青木雄二"
+    },
+    "sourceNote": "日本語版Wikipedia『青木雄二』記事(2026-08-02閲覧)で生年・没年(2003年)・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ikegami-ryoichi",
+    "name": "池上遼一",
+    "nameKana": "いけがみりょういち",
+    "description": "福井県越前市出身の漫画家。劇画調の重厚な絵柄で知られ、複数の人気連載を並行して長年手がけてきた。代表作に『男組』『クライングフリーマン』『サンクチュアリ』。",
+    "birthYear": 1944,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/池上遼一"
+    },
+    "sourceNote": "日本語版Wikipedia『池上遼一』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "gou-rikiya",
+    "name": "郷力也",
+    "nameKana": "ごうりきや",
+    "description": "大阪府出身の漫画家。少女漫画からキャリアを開始し、後に青年漫画へ転向。実弟である原作者・天王寺大とのコンビ作品で知られる。代表作に『ミナミの帝王』。",
+    "birthYear": 1950,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/郷力也"
+    },
+    "sourceNote": "日本語版Wikipedia『郷力也』記事(2026-08-02閲覧)で生年・経歴・代表作・天王寺大との関係を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "megumi-hiroshi",
+    "name": "恵広史",
+    "nameKana": "めぐみひろし",
+    "description": "石川県金沢市出身の漫画家。寺嶋裕二のアシスタントを経てデビュー。代表作に『BLOODY MONDAY』『ACMA:GAME』。",
+    "birthYear": 1981,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/恵広史"
+    },
+    "sourceNote": "日本語版Wikipedia『恵広史』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

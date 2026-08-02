@@ -1516,5 +1516,29 @@
     },
     "sourceNote": "日本語版Wikipedia『ALL OUT!!』記事(2026-08-02閲覧)のインフォボックスで掲載誌が「月刊モーニングtwo」であることを確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "monthly-shonen-champion",
+    "name": "月刊少年チャンピオン",
+    "nameKana": "げっかんしょうねんチャンピオン",
+    "publisherId": "akita-shoten",
+    "description": "秋田書店が発行する月刊少年漫画雑誌。『週刊少年チャンピオン』の姉妹誌として1970年に季刊『別冊少年チャンピオン』としてスタートし、1975年に現在の誌名となった。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/月刊少年チャンピオン"
+    },
+    "sourceNote": "日本語版Wikipedia『月刊少年チャンピオン』記事(2026-08-02閲覧)で発行元・沿革を確認。『クローズ』(1990-1998)『WORST』(2001-2013)の連載開始時点の掲載誌として新規追加。既存の別レーベル『別冊少年チャンピオン(bessatsu-shonen-champion)』とは現行の別誌のため区別した。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "weekly-manga-goraku",
+    "name": "週刊漫画ゴラク",
+    "nameKana": "しゅうかんまんがゴラク",
+    "publisherId": "nihon-bungeisha",
+    "description": "日本文芸社が発行する、30〜50代男性を主な読者層とする青年漫画誌。1964年創刊の『漫画娯楽読本』を前身とし、1971年に現在の誌名となった。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/週刊漫画ゴラク"
+    },
+    "sourceNote": "日本語版Wikipedia『週刊漫画ゴラク』記事(2026-08-02閲覧)で発行元・創刊経緯を確認。『ミナミの帝王』(1992年連載開始)の初出媒体として新規追加。",
+    "updatedAt": "2026-08-02"
   }
 ]
