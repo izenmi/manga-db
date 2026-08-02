@@ -3366,5 +3366,96 @@
     },
     "sourceNote": "日本語版Wikipedia『石井あゆみ』記事(2026-08-02閲覧)で生年(1985年)・出身・経歴・小学館漫画賞受賞を確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hanazawa-kengo",
+    "name": "花沢健吾",
+    "nameKana": "はなざわけんご",
+    "description": "漫画家。青森県八戸市出身。印刷会社勤務、漫画家・魚戸おさむのアシスタントを経て2004年『ルサンチマン』でデビュー。『アイアムアヒーロー』で2012年第58回小学館漫画賞一般向け部門を受賞した。",
+    "birthYear": 1974,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/花沢健吾"
+    },
+    "sourceNote": "日本語版Wikipedia『花沢健吾』記事(2026-08-02閲覧)で生年・出身・経歴・代表作・受賞歴を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "chiba-sadoru",
+    "name": "千葉サドル",
+    "nameKana": "ちばさどる",
+    "description": "漫画家・イラストレーター。福岡県出身。海法紀光原作『がっこうぐらし!』の作画を担当。誕生日は8月13日とされるが生年は非公表。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/千葉サドル"
+    },
+    "sourceNote": "日本語版Wikipedia『千葉サドル』記事(2026-08-02閲覧)で出身・代表作を確認。生年の記載はなし(誕生日のみ判明)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "koga-shinichi",
+    "name": "古賀新一",
+    "nameKana": "こがしんいち",
+    "description": "漫画家。福岡県大牟田市出身。1958年デビュー。1970年代に『エコエコアザラク』を発表し、楳図かずおと並ぶ怪奇・ホラー漫画の代表的作家として知られた。2018年没。",
+    "birthYear": 1936,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/古賀新一"
+    },
+    "sourceNote": "日本語版Wikipedia『古賀新一』記事(2026-08-02閲覧)で生没年(1936-2018年)・出身・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "morohoshi-daijiro",
+    "name": "諸星大二郎",
+    "nameKana": "もろほしだいじろう",
+    "description": "漫画家。長野県軽井沢町生まれ、東京都足立区出身。1970年『COM』でデビュー。古史古伝や民俗伝承を題材にした伝奇作品を多く手がけ、『妖怪ハンター』『西遊妖猿伝』等の代表作を持つ。『西遊妖猿伝』で2000年第4回手塚治虫文化賞マンガ大賞を受賞。",
+    "birthYear": 1949,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/諸星大二郎"
+    },
+    "sourceNote": "日本語版Wikipedia『諸星大二郎』記事(2026-08-02閲覧)で生年・出身・経歴・代表作・受賞歴を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "azumi-kishi",
+    "name": "あずみきし",
+    "nameKana": "あずみきし",
+    "description": "漫画家。大分県別府市出身・在住。大分県立芸術文化短期大学卒業。別府市役所での臨時職員としての勤務経験から着想した『死役所』が2013年より連載開始、累計発行部数670万部超のヒット作となった。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/あずみきし"
+    },
+    "sourceNote": "Web検索(メチャコミックインタビュー記事・まんがseek等、2026-08-02閲覧)で出身地・経歴・『死役所』着想の経緯を確認。日本語版Wikipedia単独記事の存在も確認したが生年月日は非公開のため未記載。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yamamoto-hideo",
+    "name": "山本英夫",
+    "nameKana": "やまもとひでお",
+    "description": "漫画家。埼玉県所沢市出身。1988年ちばてつや賞ヤング部門期待賞入賞。1989年『週刊ヤングサンデー』(小学館)でデビュー。『殺し屋1』『ホムンクルス』等、暴力描写と心理描写を掘り下げた作品で知られる。",
+    "birthYear": 1968,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/山本英夫"
+    },
+    "sourceNote": "Web検索(コミックナタリー・マンガペディア等、2026-08-02閲覧)で生年・出身・経歴・代表作を確認。日本語版Wikipedia記事の存在も検索結果で確認したが本文の直接取得はできず、複数の情報源で内容が一致することを確認した。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "variety-art-works",
+    "name": "バラエティ・アートワークス",
+    "nameKana": "ばらえてぃあーとわーくす",
+    "description": "イースト・プレスの漫画文庫シリーズ「まんがで読破」の企画・作画を手がける制作集団。個人名ではなく、古典文学・思想書を漫画化する同シリーズ全般(『罪と罰』『カラマーゾフの兄弟』『ドグラ・マグラ』等)の企画・漫画クレジットとして使われる。",
+    "externalLinks": {},
+    "sourceNote": "Web検索(booklog・電子書店の著者ページ等、2026-08-02閲覧)で「まんがで読破」シリーズ全般の企画・漫画クレジットとして使われる制作集団名であることを確認。個人ではなく団体名義のため生年等は該当なし。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "maruo-suehiro",
+    "name": "丸尾末広",
+    "nameKana": "まるおすえひろ",
+    "description": "漫画家。長崎県諫早市出身。1980年に官能劇画誌でデビュー。エログロ表現を特色とする独自の画風を確立し、代表作『少女椿』のほか江戸川乱歩作品の漫画化も手がける。『パノラマ島綺譚』で2009年手塚治虫文化賞新生賞を受賞。",
+    "birthYear": 1956,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/丸尾末広"
+    },
+    "sourceNote": "日本語版Wikipedia『丸尾末広』記事(2026-08-02閲覧)で生年・出身・経歴・代表作・受賞歴を確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

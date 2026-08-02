@@ -11508,5 +11508,338 @@
     },
     "sourceNote": "日本語版Wikipedia『信長協奏曲』記事(2026-08-02閲覧)で作者・掲載誌(ゲッサン、小学館)・連載開始(2009年創刊号)・連載中・既刊巻数(22巻、2022年2月10日時点。以降の増巻は未確認)・第57回小学館漫画賞少年向け部門受賞(2011年)・「全国書店員が選んだおすすめコミック2012」7位・2014年テレビアニメ化/ドラマ化・2016年実写映画化を確認。あらすじは独自要約。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "i-am-a-hero",
+    "title": "アイアムアヒーロー",
+    "titleKana": "あいあむあひーろー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hanazawa-kengo"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-spirits",
+    "themeIds": [
+      "horror"
+    ],
+    "firstPublishedYear": 2009,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 22,
+    "synopsis": "冴えない35歳の漫画家アシスタント・鈴木英雄は、恋人の異変をきっかけに、謎の感染症でZQNと呼ばれる怪物と化した人々が溢れる東京から逃げ出すことになる。女子高生・比呂美や看護師と行動を共にしながら逃避行を続ける中、崩壊していく日常と極限状況の中で人間性を保てるかを問う、リアルな筆致で描かれるゾンビパニック漫画の金字塔。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2010,
+        "result": "4位"
+      },
+      {
+        "awardId": "manga-taisho",
+        "year": 2011,
+        "result": "3位"
+      },
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2012,
+        "result": "第58回一般向け部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アイアムアヒーロー"
+    },
+    "sourceNote": "日本語版Wikipedia『アイアムアヒーロー』『花沢健吾』記事(2026-08-02閲覧)で作者・掲載誌(ビッグコミックスピリッツ)・連載期間(2009-2017年)・巻数(全22巻)・あらすじ・マンガ大賞2010(4位)/2011(3位)・第58回小学館漫画賞一般向け部門受賞を確認。2016年実写映画化はあるがテレビアニメ化は確認できずmediaMix.animeはfalseとした。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "gakkou-gurashi",
+    "title": "がっこうぐらし!",
+    "titleKana": "がっこうぐらし",
+    "originalAuthorIds": [
+      "kaihou-norimitsu"
+    ],
+    "artistIds": [
+      "chiba-sadoru"
+    ],
+    "publisherId": "houbunsha",
+    "labelId": "manga-time-kirara-forward",
+    "themeIds": [
+      "horror",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2021,
+    "status": "completed",
+    "volumeCount": 12,
+    "synopsis": "学園生活部に所属するゆき・くるみ・りーさん・みーくんの4人は、廃墟のような学校で部活動に励む楽しい毎日を送っている……ように見えるが、実際の世界はすでに謎の感染症でゾンビが徘徊する崩壊後の姿だった。牧歌的な日常描写の裏に潜む絶望的な現実を少しずつ明かしていく構成が、当時のホラー漫画としては異色の話題を呼んだ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/がっこうぐらし!"
+    },
+    "sourceNote": "日本語版Wikipedia『がっこうぐらし!』『海法紀光』記事(2026-08-02閲覧)で原作(海法紀光・ニトロプラス)/作画(千葉サドル)の体制・掲載誌(まんがタイムきららフォワード)・連載期間(2012年7月号-2020年1月号、全12巻)・あらすじ・2015年テレビアニメ化を確認。連載終了後に後日譚『~おたより~』(2020-2021年)が別途刊行されているため、latestPublishedYearはその最終年(2021年)を採用し、volumeCountは本編12巻を基準とした。マンガ大賞等の受賞歴は検索した範囲では確認できず未登録。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "eko-eko-azarak",
+    "title": "エコエコアザラク",
+    "titleKana": "えこえこあざらく",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "koga-shinichi"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "shonen-champion",
+    "themeIds": [
+      "horror"
+    ],
+    "firstPublishedYear": 1975,
+    "latestPublishedYear": 1979,
+    "status": "completed",
+    "volumeCount": 19,
+    "synopsis": "黒魔術を操る女子高生・黒井ミサが、いじめや性犯罪など人間の悪意が渦巻く事件に遭遇し、法や常識にとらわれず容赦のない制裁を下していくオカルトホラー。善悪の彼岸に立つ超自然的な力を持つヒロイン像は1970年代当時のオカルトブームを牽引し、後年何度も映画・ドラマ化を重ねる長寿シリーズの原点となった。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/エコエコアザラク"
+    },
+    "sourceNote": "日本語版Wikipedia『エコエコアザラク』『古賀新一』記事(2026-08-02閲覧)で作者・掲載誌(週刊少年チャンピオン)・連載期間(1975-1979年)・巻数(全19巻)・あらすじを確認。2007年に東映アニメーション制作の静止画+VFXによるOVA(画ニメ)が発売されたことをWeb検索で確認したため、通常のテレビアニメとは形式が異なる点に留意しつつmediaMix.animeはtrueとした。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "youkai-hunter",
+    "title": "妖怪ハンター",
+    "titleKana": "ようかいはんたー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "morohoshi-daijiro"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "horror",
+      "adventure"
+    ],
+    "firstPublishedYear": 1974,
+    "latestPublishedYear": 2020,
+    "status": "ongoing",
+    "synopsis": "異端の考古学者・稗田礼二郎が、日本各地の遺跡や伝承の残る土地を学術調査で訪れては、その土地に眠る歴史や神話の裏に潜む怪異と対峙していく連作。妖怪や古史古伝をモチーフにしながら常識的な歴史観を揺さぶる不気味な謎解きを描き、諸星大二郎の代表作として40年以上にわたり断続的に新作が発表されている。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/妖怪ハンター"
+    },
+    "sourceNote": "日本語版Wikipedia『妖怪ハンター』『諸星大二郎』記事およびWeb検索(2026-08-02閲覧)で、1974年『週刊少年ジャンプ』37号からの連載開始、以後『週刊ヤングジャンプ』『ウルトラジャンプ』(集英社)や『メフィスト』(講談社)等へ断続的に掲載媒体を移しながら2020年時点でも新作(『妖怪ハンター 百鬼が窟』等)が発表され続けていることを確認。初出媒体である週刊少年ジャンプをlabelIdとして採用。巻数は複数の文庫版・単行本レーベルにまたがり明確な総数を確認できなかったため未記載。アニメ化は確認できずmediaMix.animeはfalseとした。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shiyakusho",
+    "title": "死役所",
+    "titleKana": "しやくしょ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "azumi-kishi"
+    ],
+    "publisherId": "shinchosha",
+    "labelId": "monthly-comic-at-bunch",
+    "themeIds": [
+      "horror",
+      "dark-fantasy",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2013,
+    "status": "ongoing",
+    "volumeCount": 28,
+    "synopsis": "此岸と彼岸の境界にある「死役所」には、あらゆる死因で亡くなった人々が死後の手続きのために訪れる。窓口業務を担うのは、死刑執行によって命を落とした元死刑囚たちの職員。役所仕事という馴染み深い様式を借りながら、来訪者一人ひとりの人生を振り返り、生と死・罪と赦しを問うオムニバス形式のダークファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/死役所"
+    },
+    "sourceNote": "日本語版Wikipedia『死役所』記事、およびメチャコミックの作者インタビュー記事(2026-08-02閲覧)で作者(あずみきし)・掲載誌の変遷(月刊コミック@バンチ→月刊コミックバンチ→コミックバンチKai、初出は2013年11月号)・既刊28巻(2025年7月時点)・累計670万部・2019年実写ドラマ化・2022年Webアニメ配信を確認。作者の経歴(別府市役所勤務)も同インタビューで確認。連載中のため latestPublishedYear は未設定。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "homunculus",
+    "title": "ホムンクルス",
+    "titleKana": "ほむんくるす",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yamamoto-hideo"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-spirits",
+    "themeIds": [
+      "horror",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2003,
+    "latestPublishedYear": 2011,
+    "status": "completed",
+    "volumeCount": 15,
+    "synopsis": "会社を失いホームレスとなった名越進は、医学生・伊藤学から報酬と引き換えに頭蓋骨へ穴を開ける非合法な手術「トレパネーション」を受ける。以降、人間が異形の姿にしか見えなくなる特殊な知覚を得た名越は、関わる人々一人ひとりが抱える抑圧された深層心理を否応なく暴き出していくことになる、心理サスペンスホラー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ホムンクルス_(漫画)"
+    },
+    "sourceNote": "日本語版Wikipedia『ホムンクルス(漫画)』記事(2026-08-02閲覧)で作者・掲載誌(週刊ビッグコミックスピリッツ)・連載期間(2003-2011年、途中休載あり)・巻数(全15巻)・あらすじ・2021年実写映画化(Netflix配信)を確認。テレビアニメ化は確認できずmediaMix.animeはfalseとした。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "koroshiya-1",
+    "title": "殺し屋1",
+    "titleKana": "ころしやいち",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yamamoto-hideo"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "weekly-young-sunday",
+    "themeIds": [
+      "horror",
+      "ero-guro"
+    ],
+    "firstPublishedYear": 1998,
+    "latestPublishedYear": 2001,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "新宿歌舞伎町の裏社会を舞台に、いじめられっ子だが凶暴な殺人衝動を隠し持つ青年・イチが、何者かに操られてヤクザ組織の抗争に巻き込まれていく。痛みに快楽を覚える幹部・垣原との奇妙な対峙を軸に、徹底した暴力描写と歪んだ人間心理の掘り下げで国内外に賛否両論を巻き起こした、エログロバイオレンス漫画の代表作。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/殺し屋1"
+    },
+    "sourceNote": "日本語版Wikipedia『殺し屋1』『山本英夫』記事(2026-08-02閲覧)で作者・掲載誌(週刊ヤングサンデー)・連載期間(1998-2001年)・巻数(全10巻)・あらすじ・2001年実写映画化(三池崇史監督)を確認。2002年に前日譚OVA「1-イチ-」と「殺し屋1 THE ANIMATION EPISODE.0」が発売されたことも確認できたためmediaMix.animeはtrueとした。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kami-no-hidarite-akuma-no-migite",
+    "title": "神の左手悪魔の右手",
+    "titleKana": "かみのひだりてあくまのみぎて",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "umezu-kazuo"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-spirits",
+    "themeIds": [
+      "horror"
+    ],
+    "firstPublishedYear": 1986,
+    "latestPublishedYear": 1989,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "錆びたハサミにまつわる因縁、消えてしまった消しゴム、蜘蛛の舌を持つ女王、不気味な黒い絵本など、一見ありふれた日常の中に潜む狂気を描いた5篇からなる連作短編集。楳図かずおが得意とする理屈抜きの「純粋な恐怖」を凝縮した内容で、代表作『漂流教室』と並び称される恐怖漫画の巨匠による代表的なオムニバス作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/神の左手悪魔の右手"
+    },
+    "sourceNote": "日本語版Wikipedia『神の左手悪魔の右手』記事(2026-08-02閲覧)で作者(楳図かずお、既存id: umezu-kazuo)・掲載誌(ビッグコミックスピリッツ)・連載期間(1986-1989年)・巻数(全6巻)・エピソード構成・2006年実写映画化を確認。テレビアニメ化は確認できずmediaMix.animeはfalseとした。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "dogura-magura",
+    "title": "ドグラ・マグラ",
+    "titleKana": "どぐらまぐら",
+    "originalAuthorIds": [
+      "yumeno-kyusaku"
+    ],
+    "artistIds": [
+      "variety-art-works"
+    ],
+    "publisherId": "east-press",
+    "labelId": "manga-de-dokuha",
+    "themeIds": [
+      "horror",
+      "suspense-psychological",
+      "detective-mystery"
+    ],
+    "firstPublishedYear": 2008,
+    "latestPublishedYear": 2008,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "記憶を失った青年が精神病院の一室で目を覚まし、自分がかつて犯したとされる猟奇殺人事件の真相を、担当医師の奇妙な誘導のもとで探っていくうち、正気と狂気、過去と現在の境界が次第に崩れていく。夢野久作の代表的な奇書小説を、漫画文庫シリーズ「まんがで読破」の1冊として一つの解釈に沿って再構成したコミカライズ版。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/まんがで読破"
+    },
+    "sourceNote": "日本語版Wikipedia『ドグラ・マグラ』『まんがで読破』記事(2026-08-02閲覧)で、原作小説の漫画化として2008年にイースト・プレス『まんがで読破』シリーズより刊行(作画クレジット:バラエティ・アートワークス)、全1巻、原作の多義的な解釈のうち一つを採用した再構成であることを確認。原作小説自体は原作者(夢野久作)の単独作のためoriginalAuthorIdsに登録し、作画はシリーズ制作集団のためartistIdsに新設した団体idを登録した。テレビアニメ化は確認できずmediaMix.animeはfalseとした。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "souichi",
+    "title": "双一",
+    "titleKana": "そういち",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ito-junji"
+    ],
+    "publisherId": "asahi-shimbun-shuppan",
+    "labelId": "gekkan-halloween",
+    "themeIds": [
+      "horror",
+      "comedy"
+    ],
+    "firstPublishedYear": 1995,
+    "status": "unknown",
+    "synopsis": "貧血気味の体質のため常に釘をくわえている陰気な小学生・辻井双一が、本物の呪いの力で人形に人間の魂を憑依させるなどして、周囲の大人や同級生に理不尽な災いをもたらしていく連作短編シリーズ。伊藤潤二作品の中でもホラーとブラックユーモアの色合いが濃い人気キャラクターで、複数の短編集にまたがり断続的に描き継がれている。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {},
+    "sourceNote": "Web検索(ピクシブ百科事典『双一』、伊藤潤二関連ニュース記事等、2026-08-02閲覧)でキャラクター設定・1995年2月『月刊ハロウィン』(朝日ソノラマ)初出であることを確認。単行本は『伊藤潤二傑作集』『伊藤潤二コレクション』(朝日新聞出版)に断続的に収録される形式で、単一の連続連載ではなく短編集をまたいで描き継がれる性質のためstatusはunknown、volumeCountは未記載とした。テレビアニメ『伊藤潤二『コレクション』』(2018年)で双一のエピソードが映像化されたことを確認したためmediaMix.animeはtrueとした。作画は既存id ito-junji(うずまき・富江と共通)を再利用、オリジナル作品のためoriginalAuthorIdsは空配列。日本語版Wikipedia単独記事は確認できずexternalLinksは空とした。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shoujo-tsubaki",
+    "title": "少女椿",
+    "titleKana": "しょうじょつばき",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "maruo-suehiro"
+    ],
+    "publisherId": "seirin-kogeisha",
+    "labelId": "manga-eros",
+    "themeIds": [
+      "horror",
+      "ero-guro"
+    ],
+    "firstPublishedYear": 1983,
+    "latestPublishedYear": 1984,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "昭和初期、母を亡くした貧しい少女みどりは見世物小屋に売られ、奇形の芸人たちと共に虐げられながら暮らすことになる。旅回りの手品師との出会いに束の間の希望を見出すも、その希望はあっけなく打ち砕かれ、みどりは狂気と幻覚の渦へ呑まれていく。耽美的で退廃的な筆致によって描かれる、丸尾末広の代表的なエログロ作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/少女椿"
+    },
+    "sourceNote": "日本語版Wikipedia『少女椿』『丸尾末広』記事(2026-08-02閲覧)で作者・初出(官能劇画誌『漫画エロス』司書房、1983年8月号-1984年7月号連載)・単行本(全1巻、全8話)・あらすじ・1992年アニメ映画化(海外ではMIDORIのタイトルでDVD化)・2016年実写映画化を確認。現行の単行本刊行元は青林堂ではなく1997年設立の別法人・青林工藝舎(2003年版)であるため、work.publisherIdはseirin-kogeishaとした。初出誌『漫画エロス』の発行元(司書房)は既に倒産済みのためlabels.json側にのみpublisherIdとして設定し、CLAUDE.mdのレーベル入力ルールに従い経緯を明記した。",
+    "updatedAt": "2026-08-02"
   }
 ]
