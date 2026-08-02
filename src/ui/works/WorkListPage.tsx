@@ -12,12 +12,6 @@ const STATUS_OPTIONS: { value: string; label: string }[] = [
   { value: "unknown", label: "不明" },
 ];
 
-const WEB_COMIC_OPTIONS: { value: string; label: string }[] = [
-  { value: "shonenjump-plus", label: "少年ジャンプ+発" },
-  { value: "tonari-young-jump", label: "となりのヤングジャンプ発" },
-  { value: "none", label: "Web漫画以外(雑誌連載等)" },
-];
-
 const MEDIA_MIX_OPTIONS: { value: string; label: string }[] = [
   { value: "anime", label: "アニメ化" },
   { value: "novelization", label: "ノベライズ化" },
@@ -103,7 +97,6 @@ export function WorkListPage() {
   const themeId = params.get("theme") ?? "";
   const labelId = params.get("label") ?? "";
   const status = params.get("status") ?? "";
-  const webComic = params.get("webComic") ?? "";
   const mediaMix = params.get("mediaMix") ?? "";
   const sort = params.get("sort") ?? "year-desc";
   const pageParam = Math.max(1, parseInt(params.get("page") ?? "1", 10) || 1);
@@ -131,18 +124,12 @@ export function WorkListPage() {
       if (themeId && !w.themeIds.includes(themeId)) return false;
       if (labelId && w.labelId !== labelId) return false;
       if (status && w.status !== status) return false;
-      if (webComic === "none" && w.webComicSource) return false;
-      if (
-        (webComic === "shonenjump-plus" || webComic === "tonari-young-jump") &&
-        w.webComicSource?.platform !== webComic
-      )
-        return false;
       if (mediaMix === "anime" && !w.mediaMix?.anime) return false;
       if (mediaMix === "novelization" && !w.mediaMix?.novelization) return false;
       if (mediaMix === "none" && (w.mediaMix?.anime || w.mediaMix?.novelization)) return false;
       return true;
     });
-  }, [worksState, q, themeId, labelId, status, webComic, mediaMix]);
+  }, [worksState, q, themeId, labelId, status, mediaMix]);
 
   const sorted = useMemo(() => {
     if (sort === "year-asc") return [...filtered].sort((a, b) => a.firstPublishedYear - b.firstPublishedYear);
@@ -173,13 +160,13 @@ export function WorkListPage() {
 
   function clearFilters() {
     const next = new URLSearchParams(params);
-    for (const key of ["q", "theme", "label", "status", "webComic", "mediaMix", "page"]) {
+    for (const key of ["q", "theme", "label", "status", "mediaMix", "page"]) {
       next.delete(key);
     }
     setParams(next, { replace: true });
   }
 
-  const hasActiveFilters = Boolean(q || themeId || labelId || status || webComic || mediaMix);
+  const hasActiveFilters = Boolean(q || themeId || labelId || status || mediaMix);
 
   return (
     <div className="page">
@@ -217,14 +204,6 @@ export function WorkListPage() {
           {STATUS_OPTIONS.map((s) => (
             <option value={s.value} key={s.value}>
               {s.label}
-            </option>
-          ))}
-        </select>
-        <select value={webComic} onChange={(e) => updateParam("webComic", e.target.value)}>
-          <option value="">Web漫画原作で絞り込み</option>
-          {WEB_COMIC_OPTIONS.map((o) => (
-            <option value={o.value} key={o.value}>
-              {o.label}
             </option>
           ))}
         </select>

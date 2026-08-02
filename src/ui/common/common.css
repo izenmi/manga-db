@@ -167,6 +167,7 @@ h1 {
   border: 1px solid var(--color-outline);
   color: var(--color-text);
   margin-bottom: 5px;
+  cursor: pointer;
 }
 
 .work-grid .work-card {
@@ -251,19 +252,9 @@ h1 {
   border-color: var(--color-orange-strong);
 }
 
-.work-card__cover-link {
-  flex-shrink: 0;
-}
-
 .work-card__content {
   flex: 1;
   min-width: 0;
-}
-
-.work-card__link {
-  display: block;
-  text-decoration: none;
-  color: inherit;
 }
 
 .work-card__title {
