@@ -20,5 +20,27 @@
     },
     "sourceNote": "日本語版Wikipedia『ONE (漫画家)』記事(2026-08-02閲覧)で経歴・代表作を確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "inagaki-riichiro",
+    "name": "稲垣理一郎",
+    "nameKana": "いながきりいちろう",
+    "description": "漫画原作者。読み切り「第7回ストーリーキング」ネーム部門大賞受賞をきっかけにデビュー。『アイシールド21』の原作を手がけ、以降も『Dr.STONE』など作画家とのコンビ作品を多数手がける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/稲垣理一郎"
+    },
+    "sourceNote": "日本語版Wikipedia『アイシールド21』記事(2026-08-02閲覧)で原作者であることを確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kaneshiro-muneyuki",
+    "name": "金城宗幸",
+    "nameKana": "かねしろむねゆき",
+    "description": "漫画原作者。『ブルーロック』の原作を手がける。ノ村優介との共作でサッカー版デスゲームとも評される独特な世界観を構築した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ブルーロック"
+    },
+    "sourceNote": "日本語版Wikipedia『ブルーロック』記事(2026-08-02閲覧)で原作者であることを確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

@@ -34,5 +34,29 @@
     },
     "sourceNote": "日本語版Wikipedia『スクウェア・エニックス』記事(2026-08-02閲覧)で設立年・事業内容を確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shogakukan",
+    "name": "小学館",
+    "nameKana": "しょうがくかん",
+    "description": "「週刊少年サンデー」「ビッグコミック」シリーズ等を擁する大手出版社。小学館漫画賞を主催する。",
+    "foundedYear": 1922,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/小学館"
+    },
+    "sourceNote": "日本語版Wikipedia『小学館』記事(2026-08-02閲覧)で創業年・事業内容を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "akita-shoten",
+    "name": "秋田書店",
+    "nameKana": "あきたしょてん",
+    "description": "「週刊少年チャンピオン」等を擁する出版社。新書版コミックスの先駆けとなる「サンデーコミックス」シリーズを刊行したことで知られる。",
+    "foundedYear": 1948,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/秋田書店"
+    },
+    "sourceNote": "日本語版Wikipedia『秋田書店』記事(2026-08-02閲覧)で創業年・事業内容を確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

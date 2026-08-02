@@ -48,5 +48,25 @@
     "id": "school",
     "name": "学園",
     "description": "学校を主な舞台にした作品。"
+  },
+  {
+    "id": "sports",
+    "name": "スポーツ",
+    "description": "スポーツの試合や競技を通じた成長・勝負が物語の軸になる作品。"
+  },
+  {
+    "id": "workplace-drama",
+    "name": "群像劇・ヒューマンドラマ",
+    "description": "複数人物の視点や人間関係の機微を描く群像劇・人間ドラマ的な作品。"
+  },
+  {
+    "id": "romance",
+    "name": "恋愛",
+    "description": "恋愛模様が物語の軸になる作品。"
+  },
+  {
+    "id": "slice-of-life",
+    "name": "日常",
+    "description": "日常生活の機微を描く作品。"
   }
 ]

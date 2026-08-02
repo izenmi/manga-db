@@ -612,5 +612,433 @@
     },
     "sourceNote": "日本語版Wikipedia『ジョジョの奇妙な冒険』記事(2026-08-02閲覧)で作者・掲載誌(1986-2004年週刊少年ジャンプ、2005年以降ウルトラジャンプに移籍、いずれも集英社)・連載開始(1986年)・第9部『The JOJOLands』連載中であることを確認。第17回文化庁メディア芸術祭マンガ部門大賞(2013年、『ジョジョリオン』)受賞はコミックナタリー・文化庁公式サイト等の複数情報源(2026-08-02閲覧)で確認。全9部・約40年に及ぶ長期連載で巻数の集計方法が版によって大きく異なる(新書版・文庫版等)ため、volumeCountは今回未入力とした(第9部単独では2026年3月時点で8巻)。あらすじは独自要約(第一部を中心に記述)。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "slam-dunk",
+    "title": "SLAM DUNK",
+    "titleKana": "すらむだんく",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "inoue-takehiko"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "sports",
+      "school",
+      "comedy"
+    ],
+    "firstPublishedYear": 1990,
+    "latestPublishedYear": 1996,
+    "status": "completed",
+    "volumeCount": 31,
+    "synopsis": "バスケ初心者の不良高校生・桜木花道が、片想いの相手に誘われてなんとなくバスケ部に入部する。当初は素人同然だったが、天性の身体能力を武器にめきめきと実力をつけていき、天才エース流川楓ら個性的な湘北高校メンバーと衝突しながらも次第に信頼を築く。インターハイ予選で強豪校と激突しながら全国大会出場を目指す、王道の高校バスケ成長物語。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1994,
+        "result": "第40回 少年向け部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/SLAM_DUNK"
+    },
+    "sourceNote": "日本語版Wikipedia『SLAM DUNK』記事(2026-08-02閲覧)で原作者(井上雄彦、オリジナル作品)・出版社・連載期間・巻数・受賞歴・アニメ化を確認。あらすじは独自要約(コピペなし)。2006年の文化庁メディア芸術祭『日本のメディア芸術100選』マンガ部門1位は読者選出のランキング企画であり作品自体への授賞ではないため、awardResultsには含めていない。小説化(ノベライズ)は確認できず、続編『あれから10日間』は漫画作品のため novelization は false とした。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "haikyu",
+    "title": "ハイキュー!!",
+    "titleKana": "はいきゅー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "furudate-haruichi"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "sports",
+      "school",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 45,
+    "synopsis": "低身長というハンデを跳躍力とバネで補う日向翔陽が、テレビで見た「小さな巨人」の活躍に憧れてバレーボールを始める。中学最後の試合で完敗を喫した天才セッター影山飛雄と、進学先の烏野高校で再会し同じチームに。かつてのライバル同士が編み出す変則的な速攻コンビを武器に、個性的な仲間たちと共に全国大会の頂点を目指していく青春スポーツ漫画。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2015,
+        "result": "第61回 少年向け部門"
+      },
+      {
+        "awardId": "sugoi-japan-award",
+        "year": 2015,
+        "result": "マンガ部門3位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ハイキュー!!"
+    },
+    "sourceNote": "日本語版Wikipedia『ハイキュー!!』記事(2026-08-02閲覧)で原作者(古舘春一、オリジナル作品)・出版社・連載期間・巻数・受賞歴・アニメ化/小説化を確認。第61回小学館漫画賞は平成27年度(2016年1月発表)。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "captain-tsubasa",
+    "title": "キャプテン翼",
+    "titleKana": "きゃぷてんつばさ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "takahashi-yoichi"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "sports",
+      "adventure",
+      "school"
+    ],
+    "firstPublishedYear": 1981,
+    "latestPublishedYear": 2024,
+    "status": "completed",
+    "volumeCount": 37,
+    "synopsis": "サッカーの実況が今ほど身近でなかった時代に、少年・大空翼が地元静岡でサッカーと出会い、幼なじみや強敵たちとの真剣勝負を重ねながら実力を磨いていく物語。中学・高校での全国大会、そして日本代表として世界の強豪と戦う舞台へと物語の規模を広げていく。実際に多くのプロサッカー選手が影響を受けたと語る、先駆的なスポーツ漫画の金字塔。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/キャプテン翼"
+    },
+    "sourceNote": "日本語版Wikipedia『キャプテン翼』記事(2026-08-02閲覧)で原作者(高橋陽一、オリジナル作品)・出版社・連載概要・アニメ化/小説化を確認。原作第1部(1981-1988年、全37巻)以降、多数の続編シリーズが2024年『ライジングサン THE FINAL』まで断続的に連載され、現在は作者サイト上で「ネーム」形式での連載に移行している。volumeCountは原作第1部の巻数のみを採用し、続編群を含む総巻数は未集計。作品自体が受賞した漫画賞は確認できず空欄とした。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "eyeshield-21",
+    "title": "アイシールド21",
+    "titleKana": "あいしーるどにじゅういち",
+    "originalAuthorIds": [
+      "inagaki-riichiro"
+    ],
+    "artistIds": [
+      "murata-yusuke"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "sports",
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 2002,
+    "latestPublishedYear": 2009,
+    "status": "completed",
+    "volumeCount": 37,
+    "synopsis": "気弱で運動音痴だと思われていた高校生・小早川瀬那は、実は俊足の持ち主。強引にアメリカンフットボール部の部員にされ、正体を隠す覆面ヒーロー「アイシールド21」として才能を開花させていく。個性豊かで一癖も二癖もある泥門デビルバッツの部員たちとチームを組み、全国大会の頂点である決勝戦「クリスマスボウル」出場を目指して熱い戦いを繰り広げる。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アイシールド21"
+    },
+    "sourceNote": "日本語版Wikipedia『アイシールド21』記事(2026-08-02閲覧)で原作(稲垣理一郎)・作画(村田雄介、既存artist idを再利用)・出版社・連載期間・巻数・アニメ化/小説化を確認。原作者・稲垣理一郎が過去に読み切りで受賞した『第7回ストーリーキング』は本作自体への授賞ではないためawardResultsには含めていない。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tennis-no-oujisama",
+    "title": "テニスの王子様",
+    "titleKana": "てにすのおうじさま",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "konomi-takeshi"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "sports",
+      "school",
+      "comedy"
+    ],
+    "firstPublishedYear": 1999,
+    "status": "ongoing",
+    "volumeCount": 42,
+    "synopsis": "テニスの名門・青春学園中等部に入学した天才少年・越前リョーマが、実力者ぞろいのレギュラー争いを勝ち抜いていく学園テニス漫画。序盤は現実的なテニス技術の描写が中心だったが、物語が進むにつれて対戦相手たちが繰り出す必殺技的なショットがどんどん派手さを増していく。個性豊かな強豪校の選手たちとの対戦を重ね、団体戦での全国制覇を目指す。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/テニスの王子様"
+    },
+    "sourceNote": "日本語版Wikipedia『テニスの王子様』記事(2026-08-02閲覧)で原作者(許斐剛、オリジナル作品)・出版社・連載概要・アニメ化/小説化を確認。初代シリーズは1999-2008年で全42巻完結、2009年から続編『新テニスの王子様』が既刊47巻で連載中のためstatusはongoingとした。volumeCountは初代シリーズの巻数のみを採用(続編分は含まない、総計は今後の追加調査事項)。作品自体が受賞した漫画賞は確認できず空欄とした。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "diamond-no-a",
+    "title": "ダイヤのA",
+    "titleKana": "だいやのえーす",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "terashima-yuji"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "sports",
+      "school",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2006,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 81,
+    "synopsis": "岩手の田舎で育ち、粗削りながら圧倒的な潜在能力を秘めた投手・沢村栄純が、甲子園常連の強豪・青道高校に進学する。同期のライバルたちとの熾烈なポジション争いを勝ち抜き、天才肌の正捕手・御幸一也とバッテリーを組むまでに成長。挫折や怪我を乗り越えながら、仲間たちとともに甲子園優勝という頂点を目指していく高校野球漫画。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2007,
+        "result": "第53回 少年向け部門"
+      },
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2010,
+        "result": "第34回 少年部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ダイヤのA"
+    },
+    "sourceNote": "日本語版Wikipedia『ダイヤのA』『寺嶋裕二』各記事(2026-08-02閲覧)で原作者(寺嶋裕二、オリジナル作品)・出版社・連載期間(第1部2006-2015年、第2部『act II』2015-2022年)・両部合計巻数(47+34=81巻)・小学館漫画賞/講談社漫画賞の二冠受賞・アニメ化を確認。小説化の有無は記事で確認できず未記載(mediaMix.novelizationは省略)。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "blue-lock",
+    "title": "ブルーロック",
+    "titleKana": "ぶるーろっく",
+    "originalAuthorIds": [
+      "kaneshiro-muneyuki"
+    ],
+    "artistIds": [
+      "nomura-yusuke"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "sports",
+      "battle-action",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2018,
+    "status": "ongoing",
+    "volumeCount": 39,
+    "synopsis": "日本サッカー界の悲願である「世界一のストライカー」を育成するため、全国から集められた高校生FW300人が特殊施設「ブルーロック」に隔離される。従来のチームプレー重視のサッカー観とは真逆に、仲間さえも蹴落とす個人のエゴと才能を競わせる過酷な育成プログラムを舞台に、主人公・潔世一が独自の武器「エゴイズム」を磨きながら生き残りを懸けて競い合う異色のサッカー漫画。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2021,
+        "result": "第45回 少年部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ブルーロック"
+    },
+    "sourceNote": "日本語版Wikipedia『ブルーロック』記事(2026-08-02閲覧)で原作(金城宗幸)・作画(ノ村優介)が別人であること・出版社・連載開始年・既刊巻数(2026年6月時点39巻、確認時点の数字であり今後増える可能性あり)・講談社漫画賞受賞・アニメ化/小説化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kuroko-no-basuke",
+    "title": "黒子のバスケ",
+    "titleKana": "くろこのばすけ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "fujimaki-tadatoshi"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "sports",
+      "battle-action",
+      "school"
+    ],
+    "firstPublishedYear": 2009,
+    "latestPublishedYear": 2014,
+    "status": "completed",
+    "volumeCount": 30,
+    "synopsis": "中学バスケ界を制圧した5人の天才選手「キセキの世代」。その裏で戦術面を支えた「幻の6人目」黒子テツヤは、実力は平凡ながら独特のパス回しで存在感を消す特異な選手だった。アメリカ帰りのパワーヒッター火神大我と共に無名の誠凛高校でバスケ部を立て直し、かつての仲間たちが率いる強豪校を相手に全国制覇を目指していく高校バスケ漫画。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/黒子のバスケ"
+    },
+    "sourceNote": "日本語版Wikipedia『黒子のバスケ』記事(2026-08-02閲覧)で原作者(藤巻忠俊、オリジナル作品)・出版社・連載期間・巻数・アニメ化/小説化を確認。作者が過去に受賞した『ジャンプ十二傑新人漫画賞』は別作品への授賞のためawardResultsには含めていない。作品自体が受賞した漫画賞は確認できず空欄とした。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ping-pong",
+    "title": "ピンポン",
+    "titleKana": "ぴんぽん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "matsumoto-taiyo"
+    ],
+    "publisherId": "shogakukan",
+    "themeIds": [
+      "sports",
+      "workplace-drama",
+      "school"
+    ],
+    "firstPublishedYear": 1996,
+    "latestPublishedYear": 1997,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "神奈川県藤沢市を舞台に、正反対の性格を持つ幼なじみの卓球部員ペコとスマイルを中心に描かれる高校生たちの青春群像劇。天性の才能に恵まれながらも努力を怠るペコと、卓球に本気になれずにいたスマイルが、それぞれのライバルとの対戦を通して自分なりの卓球への向き合い方や生き方を見つけていく過程を、独特の間合いと絵柄で描く。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ピンポン_(漫画)"
+    },
+    "sourceNote": "日本語版Wikipedia『ピンポン (漫画)』記事(2026-08-02閲覧)で原作者(松本大洋、オリジナル作品)・出版社(小学館、新規追加)・連載期間・巻数・アニメ化を確認。1997-1998年頃の手塚治虫文化賞でノミネート止まり(受賞は逃した)との記述があり、受賞に至っていないためawardResultsには含めていない。小説化の有無は記事で確認できず未記載。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "grappler-baki",
+    "title": "グラップラー刃牙",
+    "titleKana": "ぐらっぷらーばき",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "itagaki-keisuke"
+    ],
+    "publisherId": "akita-shoten",
+    "themeIds": [
+      "battle-action",
+      "sports"
+    ],
+    "firstPublishedYear": 1991,
+    "latestPublishedYear": 1999,
+    "status": "completed",
+    "volumeCount": 42,
+    "synopsis": "地下闘技場で最年少チャンピオンの座に君臨する範馬刃牙が、地上最強の生物と恐れられる父・範馬勇次郎を超えることを目標に、日々厳しい修行を積みながら己を鍛え上げていく格闘漫画。空手・柔道・拳法など様々な流派の使い手や、死刑囚などの規格外の強豪たちと繰り広げる異種格闘技戦を通じて、「真の強さとは何か」という問いを追求していく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/グラップラー刃牙"
+    },
+    "sourceNote": "日本語版Wikipedia『グラップラー刃牙』記事(2026-08-02閲覧)で原作者(板垣恵介、オリジナル作品)・出版社(秋田書店、新規追加)・連載期間・アニメ化を確認。単行本は本編42巻+外伝1巻の全43巻だが、volumeCountには本編42巻のみを採用(外伝を除く)。小説化は「外伝作品として存在」との記述があるが漫画スピンオフの可能性がありノベライズか判別できないため未記載。作品自体が受賞した漫画賞は確認できず空欄とした。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "real",
+    "title": "リアル",
+    "titleKana": "りある",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "inoue-takehiko"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "sports",
+      "workplace-drama",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 1999,
+    "status": "ongoing",
+    "volumeCount": 17,
+    "synopsis": "事故や病気によって車椅子生活を余儀なくされた若者たちの姿を、車椅子バスケットボールを軸に描く群像劇。バイク事故で下半身不随となった元陸上部の野宮朋美、骨肉腫で片足を失った戸川清春、交通事故を起こし引きこもりになった元高校生プレーヤー高橋久信ら、それぞれ異なる挫折を抱えた人物たちが自分の人生と正面から向き合いながら前へ進もうともがく姿を描く。",
+    "awardResults": [
+      {
+        "awardId": "bunkacho-media-geijutsusai",
+        "year": 2001,
+        "result": "第5回 マンガ部門優秀賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/リアル_(漫画)"
+    },
+    "sourceNote": "日本語版Wikipedia『リアル (漫画)』記事(2026-08-02閲覧)で原作者(井上雄彦、オリジナル作品、既存の芸術idを再利用)・出版社(集英社ヤングジャンプ・コミックス)・連載開始年・受賞歴(第5回文化庁メディア芸術祭マンガ部門優秀賞)を確認。2014年11月から2019年25号まで約4年半休載しており、現在も断続的な連載のためstatusはongoing、latestPublishedYearは休載を挟むため設定せず。既刊17巻(2026年4月時点)。アニメ化・小説化については記事内に言及がなく未記載(mediaMixキー自体を省略)。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "h2",
+    "title": "H2",
+    "titleKana": "えいちつー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "adachi-mitsuru"
+    ],
+    "publisherId": "shogakukan",
+    "themeIds": [
+      "sports",
+      "romance",
+      "school"
+    ],
+    "firstPublishedYear": 1992,
+    "latestPublishedYear": 1999,
+    "status": "completed",
+    "volumeCount": 34,
+    "synopsis": "幼なじみで互いを認め合う好敵手でもある投手・国見比呂と橘英雄、そして二人を巡る対照的な性格のヒロイン雨宮ひかりと古賀春馬による四角関係を軸に高校時代を描く。甲子園を目指す白新高校野球部を舞台に、部員たちとの友情や恋愛模様と、白熱する試合の緊張感が絡み合いながら物語が進んでいく、あだち充らしいほろ苦さも漂う青春野球漫画。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/H2_(漫画)"
+    },
+    "sourceNote": "日本語版Wikipedia『H2 (漫画)』記事(2026-08-02閲覧)で原作者(あだち充、オリジナル作品)・出版社(小学館少年サンデーコミックス)・連載期間・巻数・アニメ化を確認。小説化の有無は記事で確認できず未記載。作品自体が受賞した漫画賞の記載は見当たらず空欄とした。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "touch",
+    "title": "タッチ",
+    "titleKana": "たっち",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "adachi-mitsuru"
+    ],
+    "publisherId": "shogakukan",
+    "themeIds": [
+      "sports",
+      "romance",
+      "school"
+    ],
+    "firstPublishedYear": 1981,
+    "latestPublishedYear": 1986,
+    "status": "completed",
+    "volumeCount": 26,
+    "synopsis": "双子の兄弟・上杉達也と和也、そして幼なじみの浅倉南による三角関係を軸にした物語。野球の才能に恵まれた弟の和也と対照的に、達也は本気を出さず飄々とした性格だったが、和也が交通事故で急逝したことをきっかけに、弟が抱いていた「南を甲子園に連れていく」という夢を静かに継ぎ、野球部のエースとして奮闘しながら成長していく国民的青春野球漫画の金字塔。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1982,
+        "result": "第28回 少年向け部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/タッチ_(漫画)"
+    },
+    "sourceNote": "日本語版Wikipedia『タッチ (漫画)』記事(2026-08-02閲覧)で原作者(あだち充、オリジナル作品、既存artist idと同一人物のためh2と共通のadachi-mitsuruを再利用)・出版社・連載期間・巻数・小学館漫画賞受賞(第28回、1982年度)・アニメ化・小説化(2005年『タッチ もうひとつのラストシーン』刊行)を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
   }
 ]

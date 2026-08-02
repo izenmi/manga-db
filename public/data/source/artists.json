@@ -197,5 +197,115 @@
     },
     "sourceNote": "日本語版Wikipedia『荒木飛呂彦』記事および複数の情報源(2026-08-02閲覧)で経歴・代表作・生年(1960年)を確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "inoue-takehiko",
+    "name": "井上雄彦",
+    "nameKana": "いのうえたけひこ",
+    "description": "漫画家。『SLAM DUNK』『バガボンド』『リアル』など、スポーツや人間ドラマを題材にした作品を多数手がける。オリジナル作品では原作・作画を単独で担当する。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/井上雄彦"
+    },
+    "sourceNote": "日本語版Wikipedia『井上雄彦』『SLAM DUNK』『リアル (漫画)』各記事(2026-08-02閲覧)で経歴・担当作品を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "furudate-haruichi",
+    "name": "古舘春一",
+    "nameKana": "ふるだてはるいち",
+    "description": "漫画家。『ハイキュー!!』でバレーボールを題材にした青春スポーツ漫画を描き、第61回小学館漫画賞少年向け部門を受賞した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/古舘春一"
+    },
+    "sourceNote": "日本語版Wikipedia『古舘春一』『ハイキュー!!』各記事(2026-08-02閲覧)で経歴・受賞歴を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "takahashi-yoichi",
+    "name": "高橋陽一",
+    "nameKana": "たかはしよういち",
+    "description": "漫画家。『キャプテン翼』でサッカーを題材にした先駆的なスポーツ漫画を描き、世界的にサッカー人気の普及に影響を与えたとされる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/高橋陽一"
+    },
+    "sourceNote": "日本語版Wikipedia『キャプテン翼』記事(2026-08-02閲覧)で経歴・作品概要を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "konomi-takeshi",
+    "name": "許斐剛",
+    "nameKana": "このみたけし",
+    "description": "漫画家。『テニスの王子様』『新テニスの王子様』で学園テニス漫画を長期連載する。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/許斐剛"
+    },
+    "sourceNote": "日本語版Wikipedia『テニスの王子様』記事(2026-08-02閲覧)で経歴・作品概要を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "terashima-yuji",
+    "name": "寺嶋裕二",
+    "nameKana": "てらしまゆうじ",
+    "description": "漫画家。『ダイヤのA』で高校野球を題材にした作品を描き、小学館漫画賞・講談社漫画賞の両方を受賞した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/寺嶋裕二"
+    },
+    "sourceNote": "日本語版Wikipedia『寺嶋裕二』記事(2026-08-02閲覧)で経歴・受賞歴を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nomura-yusuke",
+    "name": "ノ村優介",
+    "nameKana": "のむらゆうすけ",
+    "description": "漫画家。金城宗幸原作『ブルーロック』の作画を担当する。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ブルーロック"
+    },
+    "sourceNote": "日本語版Wikipedia『ブルーロック』記事(2026-08-02閲覧)で作画担当であることを確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "fujimaki-tadatoshi",
+    "name": "藤巻忠俊",
+    "nameKana": "ふじまきただとし",
+    "description": "漫画家。『黒子のバスケ』で特殊能力めいた技を織り交ぜた高校バスケ漫画を描く。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/藤巻忠俊"
+    },
+    "sourceNote": "日本語版Wikipedia『黒子のバスケ』記事(2026-08-02閲覧)で経歴・作品概要を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "matsumoto-taiyo",
+    "name": "松本大洋",
+    "nameKana": "まつもとたいよう",
+    "description": "漫画家。独特の絵柄と間合いで知られ、『ピンポン』『鉄コン筋クリート』など作家性の強い作品を手がける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/松本大洋"
+    },
+    "sourceNote": "日本語版Wikipedia『松本大洋』『ピンポン (漫画)』各記事(2026-08-02閲覧)で経歴・作品概要を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "itagaki-keisuke",
+    "name": "板垣恵介",
+    "nameKana": "いたがきけいすけ",
+    "description": "漫画家。『グラップラー刃牙』シリーズで格闘技を題材にした作品を長年手がける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/板垣恵介"
+    },
+    "sourceNote": "日本語版Wikipedia『グラップラー刃牙』記事(2026-08-02閲覧)で経歴・作品概要を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "adachi-mitsuru",
+    "name": "あだち充",
+    "nameKana": "あだちみつる",
+    "description": "漫画家。『タッチ』『H2』など野球と恋愛模様を絡めた青春漫画を数多く手がける国民的漫画家。『タッチ』で第28回小学館漫画賞を受賞した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/あだち充"
+    },
+    "sourceNote": "日本語版Wikipedia『あだち充』『タッチ (漫画)』各記事(2026-08-02閲覧)で経歴・受賞歴を確認。",
+    "updatedAt": "2026-08-02"
   }
 ]
