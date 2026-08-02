@@ -56,6 +56,52 @@
   color: var(--color-orange-deep);
 }
 
+.site-footer {
+  margin-top: 40px;
+  border-top: 2px solid var(--color-outline);
+  background: var(--color-surface-variant);
+}
+
+.site-footer__inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 16px 20px 24px;
+  text-align: center;
+}
+
+.site-footer__label {
+  margin: 0 0 8px;
+  font-size: 0.78rem;
+  color: var(--color-text-muted);
+  font-weight: 700;
+}
+
+.site-footer__links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 6px 18px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.site-footer__links a {
+  color: var(--color-orange-deep);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.site-footer__links a:hover {
+  text-decoration: underline;
+}
+
+.site-footer__desc {
+  color: var(--color-text-muted);
+  font-size: 0.8rem;
+  margin-left: 4px;
+}
+
 h1 {
   font-size: 1.35rem;
   margin: 4px 0 2px;
@@ -432,6 +478,14 @@ h1 {
 .home-hero .page-subtitle {
   margin-top: 8px;
   color: var(--color-text-muted);
+}
+
+.home-intro {
+  max-width: 640px;
+  margin: 10px auto 0;
+  color: var(--color-text-muted);
+  font-size: 0.85rem;
+  line-height: 1.6;
 }
 
 .count-badges {

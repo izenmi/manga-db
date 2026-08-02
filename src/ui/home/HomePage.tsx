@@ -47,6 +47,9 @@ export function HomePage() {
       <div className="home-hero">
         <h1 className="font-display">まんがDB</h1>
         <p className="page-subtitle">日本語コミックを原作者・作画家・受賞歴・テーマから探せるデータベース</p>
+        <p className="home-intro">
+          このページは次に読む作品を選ぶために作成しました。次に読みたいテーマなどで検索してお使いください。
+        </p>
       </div>
 
       <form onSubmit={handleSearch}>
