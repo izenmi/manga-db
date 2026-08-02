@@ -1282,5 +1282,27 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipedia『赤髪の白雪姫』『あきづき空太』記事(2026-08-02閲覧)で、同作が2006年に『LaLa DX』で読切掲載後に連載開始し、2011年11月号より『LaLa』へ掲載誌を移行した経緯を確認して新規追加。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shonen-club",
+    "name": "少年倶楽部",
+    "nameKana": "しょうねんくらぶ",
+    "publisherId": "kodansha",
+    "description": "大日本雄辯會講談社(現・講談社)が発行していた戦前・戦後の少年向け月刊誌。「のらくろ」等を連載した。1962年休刊。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/少年倶楽部"
+    },
+    "sourceNote": "日本語版Wikipedia『田河水泡』『のらくろ』記事(2026-08-02閲覧)で「のらくろ」が大日本雄辯會講談社(現・講談社)の雑誌『少年倶楽部』に1931年から連載されたことを確認。当時の発行元は現在の講談社の前身企業のため、CLAUDE.mdのレーベル入力ルールに従いpublisherIdは現行の講談社(kodansha)とした。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "manga-life-win",
+    "name": "まんがライフWIN",
+    "nameKana": "まんがライフウィン",
+    "publisherId": "takeshobo",
+    "description": "竹書房が運営するWebコミック配信サイト。「ポプテピピック」等を掲載する。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『ポプテピピック』記事および複数のWeb記事(2026-08-02閲覧)で「ポプテピピック」が竹書房運営のWebコミック配信サイト『まんがライフWIN』にて2014年11月29日より連載開始したことを確認。CLAUDE.mdの方針により、少年ジャンプ+/となりのヤングジャンプ以外のWeb漫画プラットフォームなのでwebComicSourceフィールドは設定しない(検索URLパターン未検証のため)。",
+    "updatedAt": "2026-08-02"
   }
 ]

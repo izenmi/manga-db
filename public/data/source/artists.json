@@ -3167,5 +3167,99 @@
     },
     "sourceNote": "日本語版Wikipedia『中条比紗也』記事(2026-08-02閲覧)で生年・出身・経歴・没年(2023年)を確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "akatsuka-fujio",
+    "name": "赤塚不二夫",
+    "nameKana": "あかつかふじお",
+    "description": "漫画家。「おそ松くん」「天才バカボン」「ひみつのアッコちゃん」等を手がけ「ギャグ漫画の王様」と呼ばれた。2008年没。本バッチで追加する「天才バカボン」「おそ松くん」はいずれも赤塚自身が原作・作画を兼ねるオリジナル作品のため作画家としてクレジットする。",
+    "birthYear": 1935,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/赤塚不二夫"
+    },
+    "sourceNote": "既存original-authors.jsonの同id(おそ松さんの原作者としてすでに登録済み)の記載内容を踏襲。日本語版Wikipedia『赤塚不二夫』記事(2026-08-02閲覧)で経歴・代表作・没年を確認。同一人物のためoriginal-authors.jsonとartists.jsonの双方にakatsuka-fujioとして登録する(tezuka-osamu等と同じ扱い)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tagawa-suiho",
+    "name": "田河水泡",
+    "nameKana": "たがわすいほう",
+    "description": "漫画家。1931年から「少年倶楽部」で連載した「のらくろ」で知られる、日本の長期連載漫画・ギャグ漫画の先駆者。手塚治虫や長谷川町子ら後進の漫画家に大きな影響を与えた。1989年没。",
+    "birthYear": 1899,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/田河水泡"
+    },
+    "sourceNote": "日本語版Wikipedia『田河水泡』記事(2026-08-02閲覧)で本名・生年(1899年)・没年(1989年)・代表作・「のらくろ」が大日本雄辯會講談社(現・講談社)の雑誌『少年倶楽部』に1931年から連載されたことを確認。ペンネームの読みは当初「たかみずあわ」だったが後年「たがわすいほう」に定着したとの記載も確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "okawa-bukubu",
+    "name": "大川ぶくぶ",
+    "nameKana": "おおかわぶくぶ",
+    "description": "漫画家。兵庫県西宮市出身。ナンセンスな4コマギャグ漫画「ポプテピピック」で知られる。",
+    "birthYear": 1986,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/大川ぶくぶ"
+    },
+    "sourceNote": "日本語版Wikipedia『大川ぶくぶ』記事、および複数のWeb記事(2026-08-02閲覧)で生年月日(1986年10月3日)・出身地(兵庫県西宮市)・代表作「ポプテピピック」が竹書房運営のWebコミック配信サイト『まんがライフWIN』初出であることを確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "anbe-masahiro",
+    "name": "安部真弘",
+    "nameKana": "あんべまさひろ",
+    "description": "漫画家。神奈川県出身。「侵略!イカ娘」で知られる。「あべ」ではなく「あんべ」と読む。",
+    "birthYear": 1983,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/安部真弘"
+    },
+    "sourceNote": "日本語版Wikipedia『安部真弘』記事(2026-08-02閲覧)で読み仮名(あんべまさひろ)・生年月日(1983年5月4日)・出身地(神奈川県)・経歴(週刊少年チャンピオン新人まんが賞奨励賞受賞を経て2007年に「侵略!イカ娘」連載開始)を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hiroyuki",
+    "name": "ヒロユキ",
+    "nameKana": "ひろゆき",
+    "description": "漫画家・イラストレーター。石川県金沢市出身。「ドージンワーク」「アホガール」等のギャグ漫画で知られる。漫画家の恵広史は姉。",
+    "birthYear": 1982,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ヒロユキ"
+    },
+    "sourceNote": "日本語版Wikipedia『ヒロユキ』記事(2026-08-02閲覧)で生年月日(1982年4月23日)・出身地(石川県金沢市)・経歴(アニメーターを経て漫画家に転向)・代表作を確認。既存artists.jsonに同名の別人物が存在しないことを確認済み。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kakifly",
+    "name": "かきふらい",
+    "nameKana": "かきふらい",
+    "description": "漫画家。京都府出身。「けいおん!」で知られる。左利きで、自身の特徴を作中キャラクター(秋山澪)に反映させたことで知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/かきふらい"
+    },
+    "sourceNote": "日本語版Wikipedia『かきふらい』記事(2026-08-02閲覧)で出身地(京都府)・経歴(2003年頃より同人活動、2007年より『まんがタイムきらら』にて『けいおん!』連載開始で商業デビュー)を確認。生年月日は記事に記載なく未確認のためbirthYearは省略。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "barasui",
+    "name": "ばらスィー",
+    "nameKana": "ばらすぃー",
+    "description": "漫画家。静岡県浜松市出身。「苺ましまろ」で知られる。",
+    "birthYear": 1980,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ばらスィー"
+    },
+    "sourceNote": "日本語版Wikipedia『ばらスィー』記事(2026-08-02閲覧)で生年月日(1980年1月29日)・出身地(静岡県浜松市)・経歴(2001年『月刊コミック電撃大王』にて『苺ましまろ』でデビュー)を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kuroha",
+    "name": "くろは",
+    "nameKana": "くろは",
+    "description": "漫画家・イラストレーター。「帰宅部活動記録」で知られる。プロフィールの詳細は非公開。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/くろは"
+    },
+    "sourceNote": "日本語版Wikipedia『くろは』記事(2026-08-02閲覧)で経歴(『月刊少年ガンガン』への持ち込みを経て「第2回スクウェア・エニックスマンガ大賞・極」で『帰宅部活動記録』が入賞、2011年デビュー)を確認。生年月日・出身地は非公開のため未確認、birthYearは省略。",
+    "updatedAt": "2026-08-02"
   }
 ]

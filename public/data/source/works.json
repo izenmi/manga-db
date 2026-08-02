@@ -10723,5 +10723,362 @@
     },
     "sourceNote": "日本語版Wikipedia『花ざかりの君たちへ』『中条比紗也』記事およびWeb検索(2026-08-02閲覧)で作者・掲載誌(花とゆめ/白泉社)・連載期間(1996-2004年)・全23巻+番外編2巻・2007年実写ドラマ化・2026年1月より初のテレビアニメ化(Signal.MD制作、同年7月より第2期)を確認。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tensai-bakabon",
+    "title": "天才バカボン",
+    "titleKana": "てんさいバカボン",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "akatsuka-fujio"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "comedy"
+    ],
+    "firstPublishedYear": 1967,
+    "latestPublishedYear": 1992,
+    "status": "completed",
+    "synopsis": "のんきで型破りな「バカボンのパパ」を中心に、賢い息子ハジメや、パパを取り締まる本官さん、通う大学の名物学長など個性的な面々が繰り広げる不条理ギャグ漫画。常識を軽々と飛び越えるパパの言動と「これでいいのだ」という決め台詞が象徴するように、論理や社会規範そのものを笑いの対象にするナンセンスなギャグを一話完結形式で積み重ねていく、赤塚不二夫のギャグ漫画家としての代表作。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/天才バカボン"
+    },
+    "sourceNote": "日本語版Wikipedia『天才バカボン』記事(2026-08-02閲覧)で作者(赤塚不二夫とフジオ・プロ)・初出誌(週刊少年マガジン、1967年開始)・あらすじ・アニメ化(1971年以降計5作)を確認。連載は雑誌移籍や中断を挟みながら1992年頃までの復活連載を含むため、latestPublishedYearは大まかな目安として1992年とした。単行本巻数は講談社コミックス版(22巻+別巻3巻)や他社版で数え方が異なり一意に確定できなかったためvolumeCountは省略した。オリジナル作品のためoriginalAuthorIdsは空配列。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "osomatsu-kun",
+    "title": "おそ松くん",
+    "titleKana": "おそまつくん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "akatsuka-fujio"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "comedy"
+    ],
+    "firstPublishedYear": 1962,
+    "latestPublishedYear": 1969,
+    "status": "completed",
+    "volumeCount": 31,
+    "synopsis": "顔もそっくりな六つ子の松野兄弟が、近所を巻き込んで騒動を起こすドタバタギャグ漫画。悪知恵の働くイヤミや純朴なチビ太、デカパンといった強烈な脇役、兄弟そろって想いを寄せるヒロイン・トト子との絡みを通じ、当初のほのぼのとした人情噺から次第に破天荒なナンセンスギャグへと作風を変化させていった、赤塚不二夫をトップギャグ漫画家に押し上げた出世作。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1964,
+        "result": "受賞(第10回、当時は部門制導入前のため部門名なし)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/おそ松くん"
+    },
+    "sourceNote": "日本語版Wikipedia『おそ松くん』記事(2026-08-02閲覧)で作者・初出誌(週刊少年サンデー、1962年16号)・連載期間(1969年21号まで)・単行本巻数(曙出版版全31巻+別巻2巻、volumeCountには別巻を含まない31を採用)・あらすじ・アニメ化(1966年・1988年の2作)・第10回小学館漫画賞(昭和39年度)受賞を確認。同賞は第27回(1981年)から部門制が導入されたため、当時は部門名がなかったものとしてsourceNoteに明記。オリジナル作品のためoriginalAuthorIdsは空配列(続編にあたる「おそ松さん」は既存workで赤塚不二夫をoriginalAuthorIdsに登録済み)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "norakuro",
+    "title": "のらくろ",
+    "titleKana": "のらくろ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tagawa-suiho"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-club",
+    "themeIds": [
+      "comedy",
+      "adventure"
+    ],
+    "firstPublishedYear": 1931,
+    "latestPublishedYear": 1941,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "野良犬の黒吉、通称のらくろが猛犬連隊に二等兵として入隊し、数々の失敗やドジを重ねながらも少しずつ出世していく姿をコミカルに描いた戦前の人気連載。厳しい上官との上下関係や仲間との友情、演習でのドタバタといった軍隊生活を擬人化した動物たちに置き換えたユーモアで幅広い世代の子供たちの支持を集め、後の日本の長期連載漫画・ギャグ漫画の礎を築いた先駆的作品として知られる。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/のらくろ"
+    },
+    "sourceNote": "日本語版Wikipedia『のらくろ』『田河水泡』記事(2026-08-02閲覧)で作者・初出誌(少年倶楽部、大日本雄辯會講談社=現講談社発行)・連載期間(1931-1941年)・あらすじ・アニメ化(1970-1971年、フジテレビ系)を確認。単行本は戦前刊行分10巻+戦後刊行の続編5巻とする情報があり、volumeCountは戦前の本編10巻を採用した。「少年倶楽部」は既存labels.jsonに存在しなかったため新規追加(publisherIdは当時の発行元の後身にあたる現行の講談社とした、CLAUDE.mdのレーベル入力ルール参照)。オリジナル作品のためoriginalAuthorIdsは空配列。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "dr-slump",
+    "title": "Dr.スランプ",
+    "titleKana": "ドクタースランプ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "toriyama-akira"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "comedy",
+      "sci-fi"
+    ],
+    "firstPublishedYear": 1980,
+    "latestPublishedYear": 1984,
+    "status": "completed",
+    "volumeCount": 18,
+    "synopsis": "山奥のペンギン村に住む発明家・則巻千兵衛が、女の子そっくりのロボットとして作り上げたアラレちゃんを中心に、村の住人たちが繰り広げるハチャメチャな日常を描いたギャグ漫画。怪力で無邪気なアラレの天然な言動や、下ネタすれすれのパロディ・時事ネタを軽妙なテンポで織り交ぜたギャグが幅広い読者に支持され、鳥山明を一躍人気作家に押し上げた出世作となった。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1981,
+        "result": "少年少女部門受賞(第27回、当時の部門名。現行の少年向け部門に相当)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Dr.スランプ"
+    },
+    "sourceNote": "日本語版Wikipedia『Dr.スランプ』記事、およびWeb検索(まんがseek等、2026-08-02閲覧)で作者(鳥山明)・初出誌(週刊少年ジャンプ、1980年5・6合併号)・連載期間(1984年39号まで)・単行本巻数(全18巻)・あらすじ・アニメ化(1981-1986年、1997-1999年の2作)・第27回(1981年)小学館漫画賞少年少女部門受賞(同賞は第27回から児童部門新設に伴い部門制を導入、当時の「少年少女部門」は現行の「少年向け部門」に相当)を確認。作画家toriyama-akiraは既存artists.json(ドラゴンボール等)を再利用。オリジナル作品のためoriginalAuthorIdsは空配列。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "maison-ikkoku",
+    "title": "めぞん一刻",
+    "titleKana": "めぞんいっこく",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "takahashi-rumiko"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-spirits",
+    "themeIds": [
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 1980,
+    "latestPublishedYear": 1987,
+    "status": "completed",
+    "volumeCount": 15,
+    "synopsis": "浪人生・五代裕作が下宿する古びたアパート「一刻館」に、若く美しい未亡人管理人・音無響子がやってくることから始まる恋愛物語。個性的でお節介な住人たちが巻き起こす騒動に振り回されつつ、響子への想いをめぐって五代とテニスコーチのライバル・三鷹が繰り広げるすれ違いとじれったい駆け引きを丹念に描いた、高橋留美子による下宿アパートもの恋愛コメディの金字塔的作品。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/めぞん一刻"
+    },
+    "sourceNote": "日本語版Wikipedia『めぞん一刻』記事(2026-08-02閲覧)で作者(高橋留美子)・初出誌(ビッグコミックスピリッツ、1980年11月開始)・連載期間(1987年19号まで)・単行本巻数(通常版全15巻)・あらすじ・アニメ化(1986-1988年ほか)を確認。小学館漫画賞・講談社漫画賞のいずれの受賞歴もWeb検索(2026-08-02閲覧)で確認できなかったためawardResultsは設定していない。作画家takahashi-rumikoは既存artists.json(うる星やつら等)を再利用。オリジナル作品のためoriginalAuthorIdsは空配列。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "pop-team-epic",
+    "title": "ポプテピピック",
+    "titleKana": "ポプテピピック",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "okawa-bukubu"
+    ],
+    "publisherId": "takeshobo",
+    "labelId": "manga-life-win",
+    "themeIds": [
+      "comedy"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 9,
+    "synopsis": "14歳の少女、ポプ子とピピ美の二人を主人公とするナンセンス4コマギャグ漫画。時事ネタやアニメ・ゲームのパロディ、脈絡のないシュールなオチ、同じ話を声優を変えて繰り返す第四の壁を破る演出など、従来のギャグ漫画の文法をあえて逸脱する過激さと自由奔放さで大きな話題を呼んだ、Webコミック発の異色コメディ作品。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ポプテピピック"
+    },
+    "sourceNote": "日本語版Wikipedia『ポプテピピック』記事、およびWeb検索(2026-08-02閲覧)で作者(大川ぶくぶ)・初出媒体(竹書房運営Webコミック配信サイト『まんがライフWIN』、2014年11月29日開始)・単行本巻数(シーズン1〜9の9巻)・あらすじ・アニメ化(2018年第1期、2022年第2期ほか)を確認。2025年4月からシーズン9の連載が続いていることをWeb検索で確認したため現在も連載中(ongoing)と判断、latestPublishedYearは2025とした。ネット流行語100大賞・声優アワードはアニメ・言葉の流行に対する賞でありCLAUDE.mdの方針(アニメ版のみが対象の賞は対象外)によりawardResultsには含めていない。「まんがライフWIN」は少年ジャンプ+/となりのヤングジャンプ以外のプラットフォームのためwebComicSourceは設定しない。オリジナル作品のためoriginalAuthorIdsは空配列。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "dagashi-kashi",
+    "title": "だがしかし",
+    "titleKana": "だがしかし",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kotoyama"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "comedy",
+      "slice-of-life",
+      "gourmet"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "地方の駄菓子屋「しかしのや」の跡取り息子・柳楽湘平のもとに、大手菓子メーカー社長令嬢のほたるが突然やってきて、駄菓子への並々ならぬ愛を熱く語りながら居候を始める。実在する駄菓子ひとつひとつにまつわる豆知識や思い出話を交えつつ、個性的な面々が織りなす、田舎町ののんびりとしたドタバタ日常を描くコメディ作品。",
+    "awardResults": [
+      {
+        "awardId": "zenkoku-shoten-in-osusume-comic",
+        "year": 2016,
+        "result": "一般部門5位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/だがしかし"
+    },
+    "sourceNote": "日本語版Wikipedia『だがしかし』記事、およびWeb検索(2026-08-02閲覧)で作者(コトヤマ)・初出誌(週刊少年サンデー、2014年30号)・連載期間(2018年20号まで)・単行本巻数(全11巻)・あらすじ・アニメ化(2016年・2018年の2期)・全国書店員が選んだおすすめコミック2016一般部門5位を確認。作画家kotoyamaは既存artists.jsonを再利用。オリジナル作品のためoriginalAuthorIdsは空配列。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shinryaku-ika-musume",
+    "title": "侵略!イカ娘",
+    "titleKana": "しんりゃくイカむすめ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "anbe-masahiro"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "shonen-champion",
+    "themeIds": [
+      "comedy",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2007,
+    "latestPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 22,
+    "synopsis": "海洋汚染を続けてきた人類を懲らしめるべく、単身で地上への侵略にやってきたイカの触手を持つ少女、イカ娘。しかし最初の攻略拠点に選んだ海の家「れもん」すらまともに制圧できず、破壊した修理代を返すため店員として働かされる羽目になる。人間たちとのやりとりを通じ、恐ろしいはずの侵略者が次第に周囲と心を通わせていく様子をコミカルに描く一作。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/侵略!イカ娘"
+    },
+    "sourceNote": "日本語版Wikipedia『侵略!イカ娘』『安部真弘』記事(2026-08-02閲覧)で作者・初出誌(週刊少年チャンピオン、2007年35号)・連載期間(2016年13号まで)・単行本巻数(全22巻)・あらすじ・アニメ化(第1期2010年、第2期2011年)を確認。作中の語尾「〜イカ?」「〜ゲソ」が流行したことに伴う「ネット流行語大賞銅賞」はキャラクターの流行語に対する賞でありCLAUDE.mdの受賞歴方針(作品自体の順位・受賞が明記されたものを採用)に照らして採用を見送りawardResultsは設定していない。オリジナル作品のためoriginalAuthorIdsは空配列。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "aho-girl",
+    "title": "アホガール",
+    "titleKana": "アホガール",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hiroyuki"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 12,
+    "synopsis": "学力テストで全教科0点を叩き出すほど頭が残念な女子高生・花畑よしこと、幼い頃からよしこに振り回され続ける幼馴染・阿久津明の掛け合いを描くギャグ漫画。空気を読まず突拍子もない言動を連発するよしこに対する、明の容赦ないツッコミと折檻が笑いを生む、テンポの良いバカ騒ぎコメディとしてクラスメイトたちも巻き込みながら展開する。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アホガール"
+    },
+    "sourceNote": "日本語版Wikipedia『アホガール』記事(2026-08-02閲覧)で作者(ヒロユキ)・初出誌(週刊少年マガジン、2012年52号)・連載期間(2015年に別冊少年マガジンへ移籍後2018年1月号まで)・単行本巻数(全12巻)・あらすじ・アニメ化(2017年)を確認。連載開始時点の初出誌である週刊少年マガジンをlabelIdに採用(CLAUDE.mdのレーベル入力ルールに従い移籍後ではなく初出を採用)。小学館漫画賞・講談社漫画賞の受賞歴はWeb検索(2026-08-02閲覧)で確認できずawardResultsは設定していない。オリジナル作品のためoriginalAuthorIdsは空配列。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "k-on",
+    "title": "けいおん!",
+    "titleKana": "けいおん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kakifly"
+    ],
+    "publisherId": "houbunsha",
+    "labelId": "manga-time-kirara",
+    "themeIds": [
+      "slice-of-life",
+      "music",
+      "school"
+    ],
+    "firstPublishedYear": 2007,
+    "latestPublishedYear": 2010,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "廃部寸前だった高校の軽音楽部に、なりゆきで集まった唯・律・澪・紬の4人の女子高生たちの部活動を描く4コマ日常漫画。楽器初心者だった唯が仲間たちに支えられながら成長していく様子や、部室でのんびり過ごすお茶の時間など、個性豊かなメンバーがバンド活動を通じて友情を深めていく、ゆるやかなテンポの青春の日々を綴る。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/けいおん!"
+    },
+    "sourceNote": "日本語版Wikipedia『けいおん!』記事(2026-08-02閲覧)で作者(かきふらい)・初出誌(まんがタイムきらら、2007年5月号)・本編連載期間(2010年9月まで)・本編単行本巻数(全4巻)・あらすじ・アニメ化(第1期2009年、第2期2010年)を確認。本編終了後にcollege編(既刊1巻)・highschool編(既刊1巻)が連載され、Web検索(2026-08-02閲覧)でcollege編は完結済みであることを確認したため、本編+college+highschoolの合計6巻をvolumeCountとした。latestPublishedYearは本編完結年の2010年を採用し、スピンオフの正確な連載終了年は未確認のためsourceNoteに留めた。アニメ関連の各賞(東京アニメアワード等)はアニメ版のみが対象の賞でありCLAUDE.mdの方針により対象外としawardResultsは空とした。オリジナル作品のためoriginalAuthorIdsは空配列。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ichigo-mashimaro",
+    "title": "苺ましまろ",
+    "titleKana": "いちごましまろ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "barasui"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "dengeki-daioh",
+    "themeIds": [
+      "slice-of-life",
+      "comedy"
+    ],
+    "firstPublishedYear": 2001,
+    "latestPublishedYear": 2022,
+    "status": "ongoing",
+    "volumeCount": 9,
+    "synopsis": "作者の出身地でもある浜松を舞台に、小学生の美衣奈・伸恵・千夏と、美衣奈の高校生の姉・茉莉、居候する年上の女性・美羽という、年齢も性格もバラバラな女性たちの何気ない日常を描く4コマ寄りの日常漫画。一見なんてことのない平凡な生活の中に潜む、少しシュールで可笑しなやり取りを一話完結形式で軽やかに描いていく。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/苺ましまろ"
+    },
+    "sourceNote": "日本語版Wikipedia『苺ましまろ』『ばらスィー』記事(2026-08-02閲覧)で作者・初出誌(月刊コミック電撃大王、2001年開始)・単行本巻数(既刊9巻、2023年2月時点)・あらすじ・アニメ化(2005年テレビアニメ、2007年・2009年OVA)を確認。2022年から休載中であるとの記載を確認したため、連載終了は明言されておらずstatusは'ongoing'としたが、latestPublishedYearは休載開始年である2022年とし、事情をsourceNoteに明記した。小学館漫画賞・講談社漫画賞等の受賞歴は記事中に見当たらずawardResultsは設定していない。オリジナル作品のためoriginalAuthorIdsは空配列。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kitakubu-katsudou-kiroku",
+    "title": "帰宅部活動記録",
+    "titleKana": "きたくぶかつどうきろく",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kuroha"
+    ],
+    "publisherId": "square-enix",
+    "labelId": "gangan-online",
+    "themeIds": [
+      "comedy",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2011,
+    "latestPublishedYear": 2014,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "部活動特有の面倒な上下関係を避けたいと考えていた高校1年生の安藤夏希は、クラスメイトの塔野花梨から、放課後を好きに過ごすだけの「帰宅部」という部活動が実在することを知らされる。部長の道明寺桜らに流されるまま入部した夏希が、個性的な部員たちとゆるく騒がしい放課後を過ごしていく様子を描いた日常コメディ。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/帰宅部活動記録"
+    },
+    "sourceNote": "日本語版Wikipedia『帰宅部活動記録』記事、およびWeb検索(コミックシーモア等、2026-08-02閲覧)で作者(くろは)・初出媒体(ガンガンONLINE、2011年8月18日連載開始)・連載終了(2014年6月、全5巻)・あらすじ・アニメ化(2013年7-10月、日本テレビ系)を確認。受賞歴は確認できずawardResultsは設定していない。「ガンガンONLINE」は少年ジャンプ+/となりのヤングジャンプ以外のWebコミット媒体のためwebComicSourceは設定しない。オリジナル作品のためoriginalAuthorIdsは空配列。",
+    "updatedAt": "2026-08-02"
   }
 ]
