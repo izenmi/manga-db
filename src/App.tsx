@@ -26,8 +26,8 @@ export function App() {
         <Route path="/original-authors/:id" element={<PersonDetailPage kind="originalAuthor" />} />
         <Route path="/artists" element={<PersonListPage kind="artist" />} />
         <Route path="/artists/:id" element={<PersonDetailPage kind="artist" />} />
-        <Route path="/publishers" element={<PersonListPage kind="publisher" />} />
-        <Route path="/publishers/:id" element={<PersonDetailPage kind="publisher" />} />
+        <Route path="/labels" element={<PersonListPage kind="label" />} />
+        <Route path="/labels/:id" element={<PersonDetailPage kind="label" />} />
         <Route path="/awards" element={<AwardListPage />} />
         <Route path="/awards/:id" element={<AwardDetailPage />} />
         <Route path="/about" element={<AboutPage />} />

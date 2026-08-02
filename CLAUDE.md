@@ -1,6 +1,6 @@
 # manga-db
 
-日本語コミック(漫画)作品を原作者・作画家・出版社(レーベル)・受賞歴・テーマから検索できるファンデータベース。姉妹サイト[らのべDB](https://izenmi.github.io/ranobe-db/)(`izenmi/ranobe-db`)のコミック版として作成した。アーキテクチャ・デザインシステム・運用ノウハウの多くをranobe-dbから移植している。
+日本語コミック(漫画)作品を原作者・作画家・レーベル(連載媒体)・受賞歴・テーマから検索できるファンデータベース。姉妹サイト[らのべDB](https://izenmi.github.io/ranobe-db/)(`izenmi/ranobe-db`)のコミック版として作成した。アーキテクチャ・デザインシステム・運用ノウハウの多くをranobe-dbから移植している。
 
 - 公開URL: https://izenmi.github.io/manga-db/
 - リポジトリ: `izenmi/manga-db`(public。GitHub Pagesは無料枠だとpublicでないと使えない)
@@ -8,16 +8,24 @@
 
 ## データフロー(source → generated)
 
-- `public/data/source/*.json` … 手作業で作成・**コミットする**一次データ(works/original-authors/artists/publishers/themes/awards)
+- `public/data/source/*.json` … 手作業で作成・**コミットする**一次データ(works/original-authors/artists/publishers/labels/themes/awards)
 - `public/data/generated/*.json` … `scripts/generate-manifest.mjs` がビルド時に生成する非正規化データ。**`.gitignore`対象**、`predev`/`prebuild`npmスクリプトで毎回再生成するので手で編集しない
-- 生成スクリプトは全Workの`originalAuthorIds`/`artistIds`/`publisherId`/`themeIds`/`awardResults[].awardId`が対応するsourceに存在するかを検証し、存在しなければビルドを失敗させる(id誤字をCIで機械的に防ぐ)。**`artistIds`が空配列の場合もエラーになる**(作画家は必須、ranobe-dbのauthorIdsとの主な違い)
-- 原作者・作画家・出版社・テーマの詳細ページは、それぞれの作品一覧を`WorkGenerated`型でフル展開して埋め込む(`WorkCard`をそのまま再利用できるようにするため)
+- 生成スクリプトは全Workの`originalAuthorIds`/`artistIds`/`publisherId`/`labelId`/`themeIds`/`awardResults[].awardId`が対応するsourceに存在するかを検証し、存在しなければビルドを失敗させる(id誤字をCIで機械的に防ぐ)。**`artistIds`が空配列の場合もエラーになる**(作画家は必須、ranobe-dbのauthorIdsとの主な違い)
+- 原作者・作画家・レーベル・テーマの詳細ページは、それぞれの作品一覧を`WorkGenerated`型でフル展開して埋め込む(`WorkCard`をそのまま再利用できるようにするため)
+- **出版社(`publishers.json`/`publisherId`)とレーベル(`labels.json`/`labelId`)は別概念**(2026-08-02、出版社表示からレーベル表示へ移行)。`publisherId`は集英社・講談社等の発行企業を指す内部データとして保持するが、**UI(ナビ・フィルタ・作品カード・詳細ページ)では表示・使用しない**。ユーザーに見えるのは常に`labelId`(週刊少年ジャンプ等の連載媒体・雑誌、単行本描き下ろしの場合はコミックスレーベル名)。`/publishers`ルートは廃止し`/labels`に統一した
 
 ## 原作/作画の入力ルール(ranobe-dbとの最大の違い)
 
 - **`artistIds`は必須・最低1名**。**`originalAuthorIds`は原作つき作品(小説・ゲーム・Web漫画等が原作でコミカライズされた作品)のみ入力し、オリジナル作品(作画家自身が原作も兼ねる)は空配列のままにする**
 - 原作者と作画家が同一人物であっても、オリジナル作品であれば`originalAuthorIds`には入れない(同一人物を`originalAuthorIds`と`artistIds`の両方に重複登録しない)
-- 新規idを追加する前に既存の`original-authors.json`/`artists.json`/`publishers.json`を確認し、同一人物・レーベルの重複登録を避ける
+- 新規idを追加する前に既存の`original-authors.json`/`artists.json`/`publishers.json`/`labels.json`を確認し、同一人物・出版社・レーベルの重複登録を避ける
+
+## レーベル(掲載誌)入力ルール(2026-08-02、出版社→レーベル移行時に確立)
+
+- `labelId`は**連載開始時点の初出媒体**を採用する(後年に他誌へ移籍していても移籍後ではなく初出を採用)。雑誌連載でなく描き下ろし単行本の場合はコミックスレーベル名(叢書名)を使う
+- レーベルの発行元(`LabelSource.publisherId`)と、作品側の`WorkSource.publisherId`(現在の単行本刊行元)は**一致しないことがある**。連載開始時の雑誌発行元が現在の単行本刊行元と異なる場合(倒産・移管・他社からの移籍等)は、`labels.json`側にその発行元を`publisherId`として正しく設定し、`sourceNote`に経緯を明記する。`work.publisherId`自体は変更しない(例: 「ハチミツとクローバー」は現行刊行元が集英社だが連載開始時は宝島社「CUTiEcomic」だったため、labelのpublisherIdは`takarajimasha`)
+- 新規レーベルの発行元が`publishers.json`に存在しない場合(倒産済み出版社・他業種企業のWeb投稿サイト運営元等)は、`publishers.json`に新規出版社として追加してよい(2026-08-02時点でスコラ・宝島社・ピクシブを追加した実績あり)
+- 週刊誌が青年誌に移籍する等、類似名の雑誌(「週刊少年マガジン」と「週刊ヤングマガジン」、「月刊少年ガンガン」と「月刊ガンガンJOKER」等)を安易に同一視しない。決め打ちせず作品ごとに個別確認する
 
 ## データ入力ルール(ranobe-dbから踏襲)
 
@@ -34,7 +42,9 @@
 
 ## データ拡充時の作業フロー(ranobe-dbと同じ)
 
-シードデータの拡充は必ず小バッチ(10〜15作品程度)で作業し、バッチごとに即コミット・push。詳細な手順(サブエージェントへのWikipedia調査依頼、`apply_batch.py`での反映、大量追加時の並行調査フロー)はranobe-dbのCLAUDE.mdを参照して同じパターンで進める。`apply_batch.py`のbatch.jsonフォーマットは`newOriginalAuthors`/`newArtists`/`newPublishers`/`newThemes`/`newAwards`/`works`キーを使う(ranobe-dbの`newAuthors`/`newIllustrators`とはキー名が異なる)。
+シードデータの拡充は必ず小バッチ(10〜15作品程度)で作業し、バッチごとに即コミット・push。詳細な手順(サブエージェントへのWikipedia調査依頼、`apply_batch.py`での反映、大量追加時の並行調査フロー)はranobe-dbのCLAUDE.mdを参照して同じパターンで進める。`apply_batch.py`のbatch.jsonフォーマットは`newOriginalAuthors`/`newArtists`/`newPublishers`/`newLabels`/`newThemes`/`newAwards`/`works`キーを使う(ranobe-dbの`newAuthors`/`newIllustrators`とはキー名が異なる)。新規work追加時は`labelId`も必須。
+
+既存workの`labelId`だけを後から一括更新する場合(出版社→レーベル移行のような field 追加作業)は`apply_batch.py`ではなく`scripts/apply_labels.py`を使う(`{"newLabels": [...], "workLabels": {"<workId>": "<labelId>", ...}}`形式、work自体の新規追加はできない)。
 
 ## 受賞歴(awards)の方針
 
@@ -75,13 +85,14 @@ npm run preview
 
 ## データ規模(2026-08-02、2ラウンドの大量追加後)
 
-計184作品(scaffold5作品+第1ラウンド8バッチ104作品+第2ラウンド6バッチ75作品)。原作者43・作画家170・出版社16・テーマ21(第2ラウンドでgambling=賭博・ギャンブル、arts=芸術・創作を追加)・アワード8(manga-taisho=マンガ大賞を追加)。第2ラウンドはユーザーの「デスゲーム作品を多めに」という要望を受け、デスゲーム編2バッチ(今際の国のアリス、バトル・ロワイアル、ダーウィンズゲーム、王様ゲーム等22作品)を中心に音楽・アート/歴史・時代劇/ホラー・オカルト拡張/グルメ・日常・ゲーム系も追加。各バッチはgeneral-purposeサブエージェントに日本語版Wikipedia調査を並行依頼し、完了順に`apply_batch.py`で逐次反映・ビルド確認・コミット/pushした(ranobe-dbの大量追加フローと同じ)。80候補中75採用(学糾法廷・六道の悪女たち・デスパレードはジャンル不一致/実在未確認で却下)。
+計184作品(scaffold5作品+第1ラウンド8バッチ104作品+第2ラウンド6バッチ75作品)。原作者43・作画家170・出版社19(レーベル移行時にスコラ・宝島社・ピクシブを追加)・レーベル94・テーマ21(第2ラウンドでgambling=賭博・ギャンブル、arts=芸術・創作を追加)・アワード8(manga-taisho=マンガ大賞を追加)。第2ラウンドはユーザーの「デスゲーム作品を多めに」という要望を受け、デスゲーム編2バッチ(今際の国のアリス、バトル・ロワイアル、ダーウィンズゲーム、王様ゲーム等22作品)を中心に音楽・アート/歴史・時代劇/ホラー・オカルト拡張/グルメ・日常・ゲーム系も追加。各バッチはgeneral-purposeサブエージェントに日本語版Wikipedia調査を並行依頼し、完了順に`apply_batch.py`で逐次反映・ビルド確認・コミット/pushした(ranobe-dbの大量追加フローと同じ)。80候補中75採用(学糾法廷・六道の悪女たち・デスパレードはジャンル不一致/実在未確認で却下)。
+
+**出版社→レーベル移行(2026-08-02)**: 表示を出版社(企業)からレーベル(連載媒体・掲載誌)へ全面変更。全184作品について12バッチに分割し、general-purposeサブエージェントが日本語版Wikipediaの掲載誌情報を並行調査、`scripts/apply_labels.py`で逐次反映した。既存出版社レーベルのみで足りない場合は新規レーベル・新規出版社(発行元)も追加(上記の通り計94レーベル)。
 
 ## 既知の未着手事項
 
-- **GA4トラッキングタグ未導入**: ranobe-db専用IDを流用すると計測データが混ざるため、`index.html`にGoogleタグを入れていない。新規プロパティ発行が必要
 - **表紙画像は159/184作品で解決済み(2026-08-02)**: manga-db用の楽天ウェブサービスのアプリID/アクセスキーで`npm run fetch-covers`を実行。ONE PIECE・ドラゴンボール・HUNTER×HUNTER・NANA・GANTZ・BTOOOM!・BECK・累-かさね-・リング等25作品は楽天ブックス・Koboともに該当書誌なしでプレースホルダーのまま。**Kobo検索フォールバック(`pickBestKoboMatch`)はジャンル絞り込みがなく前方一致のみのため、「H2」→「H20 and the Waters of Forgetfulness」、「MAJOR」→「Major Bible Themes」、「ブラック・ジャック」→無関係な同名タイトル本、「センゴク」→乙女ゲーム系「センゴク男子」のような誤マッチが実際に複数回発生した(計5件検出・手動でプレースホルダーに戻した)。短い/一般的すぎるタイトルの結果は`matchedTitle`を必ず目視確認すること**。以後新規作品を追加したら同コマンドを再実行し、実行後は必ず`matchedTitle`一覧を確認すること(`RAKUTEN_APP_ID`/`RAKUTEN_ACCESS_KEY`環境変数が必要、値はユーザーが管理)
 - **Web漫画プラットフォームは2種類のみ実装**(少年ジャンプ+・となりのヤングジャンプ)。他プラットフォームは`WebComicPlatform`型に未追加(検証してから追加すること)
 - **favicon/apple-touch-icon は専用デザインに差し替え済み(2026-08-02)**: `public/favicon.svg`をranobe-dbと同じ黒背景・`M PLUS Rounded 1c`・`#7cd0ff`のデザインのまま文字だけ「ま」に変更。Playwright(Google Fontsを読み込んだHTMLに埋め込んでスクリーンショット)で512pxのPNGを生成し、ImageMagickで`favicon.ico`(16/32/48pxマルチサイズ)・`apple-touch-icon.png`(180px)を書き出した。**`og-image.png`はranobe-db由来のまま未差し替え**(`scripts/generate-ogp.mjs`はテキストのみmanga-db向けに書き換え済みだが未実行)
 - **`relatedNovelUrl`(ranobe-db相互リンク)は型のみ存在し未実装**
-- **雑誌連載媒体データなし**: 出版社は単行本レーベルの粒度のみで、雑誌(週刊少年ジャンプ等)は別途追跡していない
+- **レーベル一覧に作品数0件のエントリが複数残っている(2026-08-02時点)**: seed時点で「主要出版社の代表的な雑誌」として先回りで登録したが、実際の調査で該当作品がなかったレーベル(ウルトラジャンプ・ガンガンONLINE・コミックウォーカー・コミックニュータイプ・サンデーGX・ビッグガンガン・ちゃお・なかよし・デザート・MELODY等)。誤りではなく将来作品追加時の再利用のために残してあるが、気になる場合は未使用レーベルの削除を検討してもよい

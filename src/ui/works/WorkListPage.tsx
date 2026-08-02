@@ -1,6 +1,6 @@
 import { useMemo } from "react";
 import { useSearchParams } from "react-router-dom";
-import { getPublishers, getThemes, getWorks } from "../../data/manifest";
+import { getLabels, getThemes, getWorks } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
 import { WorkCard } from "../common/WorkCard";
@@ -101,7 +101,7 @@ export function WorkListPage() {
   const [params, setParams] = useSearchParams();
   const q = params.get("q") ?? "";
   const themeId = params.get("theme") ?? "";
-  const publisherId = params.get("publisher") ?? "";
+  const labelId = params.get("label") ?? "";
   const status = params.get("status") ?? "";
   const webComic = params.get("webComic") ?? "";
   const mediaMix = params.get("mediaMix") ?? "";
@@ -110,7 +110,7 @@ export function WorkListPage() {
 
   const worksState = useAsyncData(getWorks, []);
   const themesState = useAsyncData(getThemes, []);
-  const publishersState = useAsyncData(getPublishers, []);
+  const labelsState = useAsyncData(getLabels, []);
 
   useSeo({
     title: "作品一覧",
@@ -129,7 +129,7 @@ export function WorkListPage() {
         if (!haystack.includes(keyword)) return false;
       }
       if (themeId && !w.themeIds.includes(themeId)) return false;
-      if (publisherId && w.publisherId !== publisherId) return false;
+      if (labelId && w.labelId !== labelId) return false;
       if (status && w.status !== status) return false;
       if (webComic === "none" && w.webComicSource) return false;
       if (
@@ -142,7 +142,7 @@ export function WorkListPage() {
       if (mediaMix === "none" && (w.mediaMix?.anime || w.mediaMix?.novelization)) return false;
       return true;
     });
-  }, [worksState, q, themeId, publisherId, status, webComic, mediaMix]);
+  }, [worksState, q, themeId, labelId, status, webComic, mediaMix]);
 
   const sorted = useMemo(() => {
     if (sort === "year-asc") return [...filtered].sort((a, b) => a.firstPublishedYear - b.firstPublishedYear);
@@ -173,13 +173,13 @@ export function WorkListPage() {
 
   function clearFilters() {
     const next = new URLSearchParams(params);
-    for (const key of ["q", "theme", "publisher", "status", "webComic", "mediaMix", "page"]) {
+    for (const key of ["q", "theme", "label", "status", "webComic", "mediaMix", "page"]) {
       next.delete(key);
     }
     setParams(next, { replace: true });
   }
 
-  const hasActiveFilters = Boolean(q || themeId || publisherId || status || webComic || mediaMix);
+  const hasActiveFilters = Boolean(q || themeId || labelId || status || webComic || mediaMix);
 
   return (
     <div className="page">
@@ -202,12 +202,12 @@ export function WorkListPage() {
             ))}
           </select>
         )}
-        {publishersState.status === "ready" && (
-          <select value={publisherId} onChange={(e) => updateParam("publisher", e.target.value)}>
+        {labelsState.status === "ready" && (
+          <select value={labelId} onChange={(e) => updateParam("label", e.target.value)}>
             <option value="">レーベルで絞り込み</option>
-            {publishersState.data.map((p) => (
-              <option value={p.id} key={p.id}>
-                {p.name}
+            {labelsState.data.map((l) => (
+              <option value={l.id} key={l.id}>
+                {l.name}
               </option>
             ))}
           </select>

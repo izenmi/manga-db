@@ -9,7 +9,7 @@ const BADGES: { key: keyof Awaited<ReturnType<typeof getCounts>>; label: string;
   { key: "works", label: "作品", to: "/works", color: "blue" },
   { key: "originalAuthors", label: "原作者", to: "/original-authors", color: "pink" },
   { key: "artists", label: "作画家", to: "/artists", color: "mint" },
-  { key: "publishers", label: "出版社", to: "/publishers", color: "yellow" },
+  { key: "labels", label: "レーベル", to: "/labels", color: "yellow" },
   { key: "themes", label: "テーマ", to: "/themes", color: "purple" },
   { key: "awards", label: "アワード", to: "/awards", color: "peach" },
 ];
@@ -22,7 +22,7 @@ export function HomePage() {
   useSeo({
     description:
       state.status === "ready"
-        ? `日本語コミック${state.data.works}作品を原作者・作画家・出版社(レーベル)・受賞歴・テーマから検索できるファンデータベース。`
+        ? `日本語コミック${state.data.works}作品を原作者・作画家・レーベル・受賞歴・テーマから検索できるファンデータベース。`
         : undefined,
     jsonLd: {
       "@context": "https://schema.org",

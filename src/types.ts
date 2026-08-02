@@ -26,6 +26,8 @@ export interface WorkSource {
   /** 作画家。最低1名(generate-manifest.mjsが空配列をエラーにする)。 */
   artistIds: string[];
   publisherId: string;
+  /** 連載媒体・レーベル(例: 週刊少年ジャンプ)。表示はこちらを主に使う(publisherIdは内部保持用)。 */
+  labelId: string;
   themeIds: string[];
   firstPublishedYear: number;
   latestPublishedYear?: number;
@@ -72,6 +74,20 @@ export interface PublisherSource {
   updatedAt: string;
 }
 
+/** 連載媒体(雑誌・Web媒体等)またはレーベル。表示上の主役はこちら(CLAUDE.md参照)。
+ *  出版社(PublisherSource)とは別レコードで、複数の出版社にまたがることはない前提で
+ *  `publisherId` は必須の1件のみ持つ。 */
+export interface LabelSource {
+  id: string;
+  name: string;
+  nameKana: string;
+  publisherId: string;
+  description: string;
+  externalLinks: ExternalLinks;
+  sourceNote: string;
+  updatedAt: string;
+}
+
 export interface ThemeSource {
   id: string;
   name: string;
@@ -96,6 +112,7 @@ export interface WorkGenerated extends WorkSource {
   originalAuthorNames: string[];
   artistNames: string[];
   publisherName: string;
+  labelName: string;
   themeNames: string[];
   awardSummaries: { awardId: string; awardName: string; year: number; result: string }[];
   /** Resolved at build time from public/data/source/covers-cache.json (see scripts/fetch-covers.mjs).
@@ -136,6 +153,7 @@ export interface Counts {
   originalAuthors: number;
   artists: number;
   publishers: number;
+  labels: number;
   themes: number;
   awards: number;
 }

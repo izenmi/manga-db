@@ -34,7 +34,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/DEATH_NOTE"
     },
     "sourceNote": "日本語版Wikipedia『DEATH NOTE』記事(2026-08-02閲覧)で原作者・作画者・掲載誌・連載期間・受賞歴・アニメ化/小説版の有無を確認。既刊巻数は本編12巻(別途短編集1巻あり、volumeCountには含めていない)。あらすじは独自要約(コピペなし)。scaffold用サンプルデータ。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-jump"
   },
   {
     "id": "one-punch-man",
@@ -73,7 +74,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ワンパンマン"
     },
     "sourceNote": "日本語版Wikipedia『ワンパンマン』記事(2026-08-02閲覧)で確認。原作者ONEによるWeb発の原作版(2009年〜)が先行するが、村田雄介作画によるリメイク版がとなりのヤングジャンプで連載され単行本展開の主軸のため、firstPublishedYearはリメイク版連載開始の2012年、既刊巻数もリメイク版(2026年7月時点37巻)を採用。あらすじは独自要約(コピペなし)。scaffold用サンプルデータ。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "tonari-young-jump"
   },
   {
     "id": "spy-x-family",
@@ -110,7 +112,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/SPY%C3%97FAMILY"
     },
     "sourceNote": "日本語版Wikipedia『SPY×FAMILY』記事(2026-08-02閲覧)で確認。原作・作画とも遠藤達哉が単独で手がけるオリジナル作品のためoriginalAuthorIdsは空配列。あらすじは独自要約(コピペなし)。scaffold用サンプルデータ。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonenjump-plus"
   },
   {
     "id": "shingeki-no-kyojin",
@@ -151,7 +154,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/進撃の巨人"
     },
     "sourceNote": "日本語版Wikipedia『進撃の巨人』記事(2026-08-02閲覧)で原作者・掲載誌・連載期間・巻数・受賞歴・アニメ化/小説版の有無を確認。原作・作画とも諫山創が単独で手がけるオリジナル作品のためoriginalAuthorIdsは空配列。あらすじは独自要約(コピペなし)。scaffold用サンプルデータ。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "bessatsu-shonen-magazine"
   },
   {
     "id": "fullmetal-alchemist",
@@ -192,7 +196,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/鋼の錬金術師"
     },
     "sourceNote": "日本語版Wikipedia『鋼の錬金術師』記事(2026-08-02閲覧)で原作者・掲載誌・連載期間・巻数・受賞歴・アニメ化/小説版の有無を確認。原作・作画とも荒川弘が単独で手がけるオリジナル作品のためoriginalAuthorIdsは空配列。あらすじは独自要約(コピペなし)。scaffold用サンプルデータ。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "gangan-monthly"
   },
   {
     "id": "naruto",
@@ -227,7 +232,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/NARUTO_-ナルト-"
     },
     "sourceNote": "日本語版Wikipedia『NARUTO -ナルト-』記事(2026-08-02閲覧)で作者・掲載誌・連載期間(1999-2014年、全72巻)・完結・アニメ化・受賞歴を確認。手塚治虫文化賞は「最終候補」であり受賞ではない点をresultに明記。あらすじは独自要約。novelization等の詳細は未確認のためmediaMixに含めていない。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-jump"
   },
   {
     "id": "one-piece",
@@ -255,7 +261,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ONE_PIECE"
     },
     "sourceNote": "日本語版Wikipedia『ONE PIECE』記事(2026-08-02閲覧)で作者・掲載誌・連載開始年(1997年、連載中)・既刊巻数(115巻、2026年7月時点)・アニメ化を確認。ギネス世界記録(発行部数)は本サイトの受賞対象(kono-manga-ga-sugoi等既存賞)に該当しないため未記載。今回調査した既存6賞での受賞は確認できず、awardResultsは空とした。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-jump"
   },
   {
     "id": "kimetsu-no-yaiba",
@@ -285,7 +292,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/鬼滅の刃"
     },
     "sourceNote": "日本語版Wikipedia『鬼滅の刃』記事(2026-08-02閲覧)で作者・掲載誌・連載期間(2016-2020年、全23巻)・完結・アニメ化を確認。『このマンガがすごい!2020』オトコ編ランクイン自体は複数の情報源で確認できたが、正確な順位を裏取りできなかったためawardResultsには含めていない(要追加調査)。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-jump"
   },
   {
     "id": "jujutsu-kaisen",
@@ -326,7 +334,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/呪術廻戦"
     },
     "sourceNote": "日本語版Wikipedia『呪術廻戦』記事(2026-08-02閲覧)で作者・掲載誌・連載期間(2018-2024年、全30巻)・完結・受賞歴(このマンガがすごい!2019オトコ編1位、SUGOI JAPAN Award 2021)・アニメ化を確認。前身読み切り『東京都立呪術高等専門学校』は前日譚『呪術廻戦0』として本編とは別に扱った。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-jump"
   },
   {
     "id": "bleach",
@@ -361,7 +370,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/BLEACH"
     },
     "sourceNote": "日本語版Wikipedia『BLEACH』記事(2026-08-02閲覧)で作者・掲載誌・連載期間(2001-2016年、全74巻)・完結・第50回小学館漫画賞(少年向け部門、2005年)・アニメ化(千年血戦篇含む)を確認。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-jump"
   },
   {
     "id": "hunter-x-hunter",
@@ -390,7 +400,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/HUNTER×HUNTER"
     },
     "sourceNote": "日本語版Wikipedia『HUNTER×HUNTER』記事(2026-08-02閲覧)で作者・掲載誌・連載開始(1998年)・不定期休載を挟みつつ連載中であること・既刊巻数(39巻、2026年7月時点)・アニメ化を確認。既存6賞での明確な受賞記録は本記事からは確認できず、awardResultsは空とした。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-jump"
   },
   {
     "id": "boku-no-hero-academia",
@@ -419,7 +430,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/僕のヒーローアカデミア"
     },
     "sourceNote": "日本語版Wikipedia『僕のヒーローアカデミア』記事(2026-08-02閲覧)で作者・掲載誌・連載期間(2014-2024年、全42巻)・完結・アニメ化を確認。米ハーベイ賞等海外の賞は本サイトの既存6賞に該当せず、このマンガがすごい!でのランクインも正確な年・順位を裏取りできなかったため、awardResultsは空とした(要追加調査)。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-jump"
   },
   {
     "id": "kingdom",
@@ -453,7 +465,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/キングダム_(漫画)"
     },
     "sourceNote": "日本語版Wikipedia『キングダム(漫画)』記事(2026-08-02閲覧)で作者・掲載誌(週刊ヤングジャンプ、集英社)・連載開始(2006年、連載中)・既刊巻数(79巻、2026年5月時点)・第17回手塚治虫文化賞マンガ大賞(2013年)・アニメ化を確認。このマンガがすごい!では複数年ランクインしているが1位獲得の記録は確認できずawardResultsには含めていない。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "young-jump"
   },
   {
     "id": "dragon-ball",
@@ -483,7 +496,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ドラゴンボール"
     },
     "sourceNote": "日本語版Wikipedia『ドラゴンボール』記事(2026-08-02閲覧)で作者・掲載誌・連載期間(1984-1995年、全42巻)・完結・アニメ化(Z/GT/改/超/DAIMA等)を確認。ギネス世界記録・日本アカデミー賞(映画版)は本サイトの既存6賞に該当せず、既存6賞での受賞は確認できなかったためawardResultsは空とした。2024年に作者が逝去している点はartistsのdescriptionに明記。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-jump"
   },
   {
     "id": "yu-yu-hakusho",
@@ -519,7 +533,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/幽☆遊☆白書"
     },
     "sourceNote": "日本語版Wikipedia『幽☆遊☆白書』記事(2026-08-02閲覧)で作者・掲載誌・連載期間(1990-1994年、全19巻)・完結・第39回小学館漫画賞(1993年)受賞・アニメ化を確認。小学館漫画賞の部門(少年向け等)までは本記事からは特定できずresultに明記。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-jump"
   },
   {
     "id": "rurouni-kenshin",
@@ -548,7 +563,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/るろうに剣心"
     },
     "sourceNote": "日本語版Wikipedia『るろうに剣心』記事(2026-08-02閲覧)で作者・掲載誌・連載期間(1994-1999年、新書版全28巻)・完結・アニメ化を確認。記事内に明確な既存6賞の受賞記載はなくawardResultsは空とした(オリコン週間コミックチャート1位獲得の記録はあるが本サイトの受賞対象の枠組みに該当しないため未記載)。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-jump"
   },
   {
     "id": "gintama",
@@ -578,7 +594,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/銀魂"
     },
     "sourceNote": "日本語版Wikipedia『銀魂』記事(2026-08-02閲覧)で作者・掲載誌(週刊少年ジャンプ、後半はジャンプGIGA等にも掲載)・連載期間(2004-2018年、完結編2019年、全77巻)・完結・アニメ化を確認。記事内に既存6賞の受賞記載はなくawardResultsは空とした。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-jump"
   },
   {
     "id": "jojo-no-kimyou-na-bouken",
@@ -611,7 +628,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ジョジョの奇妙な冒険"
     },
     "sourceNote": "日本語版Wikipedia『ジョジョの奇妙な冒険』記事(2026-08-02閲覧)で作者・掲載誌(1986-2004年週刊少年ジャンプ、2005年以降ウルトラジャンプに移籍、いずれも集英社)・連載開始(1986年)・第9部『The JOJOLands』連載中であることを確認。第17回文化庁メディア芸術祭マンガ部門大賞(2013年、『ジョジョリオン』)受賞はコミックナタリー・文化庁公式サイト等の複数情報源(2026-08-02閲覧)で確認。全9部・約40年に及ぶ長期連載で巻数の集計方法が版によって大きく異なる(新書版・文庫版等)ため、volumeCountは今回未入力とした(第9部単独では2026年3月時点で8巻)。あらすじは独自要約(第一部を中心に記述)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-jump"
   },
   {
     "id": "slam-dunk",
@@ -647,7 +665,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/SLAM_DUNK"
     },
     "sourceNote": "日本語版Wikipedia『SLAM DUNK』記事(2026-08-02閲覧)で原作者(井上雄彦、オリジナル作品)・出版社・連載期間・巻数・受賞歴・アニメ化を確認。あらすじは独自要約(コピペなし)。2006年の文化庁メディア芸術祭『日本のメディア芸術100選』マンガ部門1位は読者選出のランキング企画であり作品自体への授賞ではないため、awardResultsには含めていない。小説化(ノベライズ)は確認できず、続編『あれから10日間』は漫画作品のため novelization は false とした。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-jump"
   },
   {
     "id": "haikyu",
@@ -688,7 +707,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ハイキュー!!"
     },
     "sourceNote": "日本語版Wikipedia『ハイキュー!!』記事(2026-08-02閲覧)で原作者(古舘春一、オリジナル作品)・出版社・連載期間・巻数・受賞歴・アニメ化/小説化を確認。第61回小学館漫画賞は平成27年度(2016年1月発表)。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-jump"
   },
   {
     "id": "captain-tsubasa",
@@ -718,7 +738,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/キャプテン翼"
     },
     "sourceNote": "日本語版Wikipedia『キャプテン翼』記事(2026-08-02閲覧)で原作者(高橋陽一、オリジナル作品)・出版社・連載概要・アニメ化/小説化を確認。原作第1部(1981-1988年、全37巻)以降、多数の続編シリーズが2024年『ライジングサン THE FINAL』まで断続的に連載され、現在は作者サイト上で「ネーム」形式での連載に移行している。volumeCountは原作第1部の巻数のみを採用し、続編群を含む総巻数は未集計。作品自体が受賞した漫画賞は確認できず空欄とした。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-jump"
   },
   {
     "id": "eyeshield-21",
@@ -750,7 +771,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/アイシールド21"
     },
     "sourceNote": "日本語版Wikipedia『アイシールド21』記事(2026-08-02閲覧)で原作(稲垣理一郎)・作画(村田雄介、既存artist idを再利用)・出版社・連載期間・巻数・アニメ化/小説化を確認。原作者・稲垣理一郎が過去に読み切りで受賞した『第7回ストーリーキング』は本作自体への授賞ではないためawardResultsには含めていない。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-jump"
   },
   {
     "id": "tennis-no-oujisama",
@@ -779,7 +801,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/テニスの王子様"
     },
     "sourceNote": "日本語版Wikipedia『テニスの王子様』記事(2026-08-02閲覧)で原作者(許斐剛、オリジナル作品)・出版社・連載概要・アニメ化/小説化を確認。初代シリーズは1999-2008年で全42巻完結、2009年から続編『新テニスの王子様』が既刊47巻で連載中のためstatusはongoingとした。volumeCountは初代シリーズの巻数のみを採用(続編分は含まない、総計は今後の追加調査事項)。作品自体が受賞した漫画賞は確認できず空欄とした。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-jump"
   },
   {
     "id": "diamond-no-a",
@@ -819,7 +842,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ダイヤのA"
     },
     "sourceNote": "日本語版Wikipedia『ダイヤのA』『寺嶋裕二』各記事(2026-08-02閲覧)で原作者(寺嶋裕二、オリジナル作品)・出版社・連載期間(第1部2006-2015年、第2部『act II』2015-2022年)・両部合計巻数(47+34=81巻)・小学館漫画賞/講談社漫画賞の二冠受賞・アニメ化を確認。小説化の有無は記事で確認できず未記載(mediaMix.novelizationは省略)。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-magazine"
   },
   {
     "id": "blue-lock",
@@ -856,7 +880,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ブルーロック"
     },
     "sourceNote": "日本語版Wikipedia『ブルーロック』記事(2026-08-02閲覧)で原作(金城宗幸)・作画(ノ村優介)が別人であること・出版社・連載開始年・既刊巻数(2026年6月時点39巻、確認時点の数字であり今後増える可能性あり)・講談社漫画賞受賞・アニメ化/小説化を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-magazine"
   },
   {
     "id": "kuroko-no-basuke",
@@ -886,7 +911,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/黒子のバスケ"
     },
     "sourceNote": "日本語版Wikipedia『黒子のバスケ』記事(2026-08-02閲覧)で原作者(藤巻忠俊、オリジナル作品)・出版社・連載期間・巻数・アニメ化/小説化を確認。作者が過去に受賞した『ジャンプ十二傑新人漫画賞』は別作品への授賞のためawardResultsには含めていない。作品自体が受賞した漫画賞は確認できず空欄とした。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-jump"
   },
   {
     "id": "ping-pong",
@@ -915,7 +941,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ピンポン_(漫画)"
     },
     "sourceNote": "日本語版Wikipedia『ピンポン (漫画)』記事(2026-08-02閲覧)で原作者(松本大洋、オリジナル作品)・出版社(小学館、新規追加)・連載期間・巻数・アニメ化を確認。1997-1998年頃の手塚治虫文化賞でノミネート止まり(受賞は逃した)との記述があり、受賞に至っていないためawardResultsには含めていない。小説化の有無は記事で確認できず未記載。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "big-comic-spirits"
   },
   {
     "id": "grappler-baki",
@@ -943,7 +970,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/グラップラー刃牙"
     },
     "sourceNote": "日本語版Wikipedia『グラップラー刃牙』記事(2026-08-02閲覧)で原作者(板垣恵介、オリジナル作品)・出版社(秋田書店、新規追加)・連載期間・アニメ化を確認。単行本は本編42巻+外伝1巻の全43巻だが、volumeCountには本編42巻のみを採用(外伝を除く)。小説化は「外伝作品として存在」との記述があるが漫画スピンオフの可能性がありノベライズか判別できないため未記載。作品自体が受賞した漫画賞は確認できず空欄とした。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-champion"
   },
   {
     "id": "real",
@@ -974,7 +1002,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/リアル_(漫画)"
     },
     "sourceNote": "日本語版Wikipedia『リアル (漫画)』記事(2026-08-02閲覧)で原作者(井上雄彦、オリジナル作品、既存の芸術idを再利用)・出版社(集英社ヤングジャンプ・コミックス)・連載開始年・受賞歴(第5回文化庁メディア芸術祭マンガ部門優秀賞)を確認。2014年11月から2019年25号まで約4年半休載しており、現在も断続的な連載のためstatusはongoing、latestPublishedYearは休載を挟むため設定せず。既刊17巻(2026年4月時点)。アニメ化・小説化については記事内に言及がなく未記載(mediaMixキー自体を省略)。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "young-jump"
   },
   {
     "id": "h2",
@@ -1003,7 +1032,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/H2_(漫画)"
     },
     "sourceNote": "日本語版Wikipedia『H2 (漫画)』記事(2026-08-02閲覧)で原作者(あだち充、オリジナル作品)・出版社(小学館少年サンデーコミックス)・連載期間・巻数・アニメ化を確認。小説化の有無は記事で確認できず未記載。作品自体が受賞した漫画賞の記載は見当たらず空欄とした。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-sunday"
   },
   {
     "id": "touch",
@@ -1039,7 +1069,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/タッチ_(漫画)"
     },
     "sourceNote": "日本語版Wikipedia『タッチ (漫画)』記事(2026-08-02閲覧)で原作者(あだち充、オリジナル作品、既存artist idと同一人物のためh2と共通のadachi-mitsuruを再利用)・出版社・連載期間・巻数・小学館漫画賞受賞(第28回、1982年度)・アニメ化・小説化(2005年『タッチ もうひとつのラストシーン』刊行)を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-sunday"
   },
   {
     "id": "detective-conan",
@@ -1074,7 +1105,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/名探偵コナン"
     },
     "sourceNote": "日本語版Wikipedia『名探偵コナン』記事(2026-08-02閲覧)で原作者(作画家自身が原作を兼ねるオリジナル作品のためoriginalAuthorIdsは空配列)・掲載誌・連載期間・巻数(2026年4月時点108巻)・受賞歴・アニメ化/小説版の有無を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-sunday"
   },
   {
     "id": "urusei-yatsura",
@@ -1111,7 +1143,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/うる星やつら"
     },
     "sourceNote": "日本語版Wikipedia『うる星やつら』記事(2026-08-02閲覧)で原作者・掲載誌・連載期間・巻数・受賞歴・アニメ化/小説版の有無を確認。原作・作画とも高橋留美子が単独で手がけるオリジナル作品のためoriginalAuthorIdsは空配列。同記事に第18回星雲賞コミック部門受賞の記載もあったが、本サイトの既存受賞リストにない賞のため今回は採用を見送った(未確認・要検討として記録)。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-sunday"
   },
   {
     "id": "ranma-1-2",
@@ -1141,7 +1174,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/らんま1/2"
     },
     "sourceNote": "日本語版Wikipedia『らんま1/2』記事(2026-08-02閲覧)で原作者・掲載誌・連載期間・巻数・アニメ化の有無を確認。原作・作画とも高橋留美子が単独で手がけるオリジナル作品のためoriginalAuthorIdsは空配列。作品自体の受賞歴・ランキング入りの明記は同記事上で確認できなかったためawardResultsは空配列。小説版の有無は確認できなかったためmediaMix.novelizationは未記入。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-sunday"
   },
   {
     "id": "inuyasha",
@@ -1177,7 +1211,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/犬夜叉"
     },
     "sourceNote": "日本語版Wikipedia『犬夜叉』記事(2026-08-02閲覧)で原作者・掲載誌・連載期間・巻数(全56巻、別途ワイド版全30巻)・受賞歴(第47回=平成13年度小学館漫画賞)・アニメ化の有無を確認。原作・作画とも高橋留美子が単独で手がけるオリジナル作品のためoriginalAuthorIdsは空配列。小説版の有無は同記事で明確に確認できなかったためmediaMix.novelizationは未記入。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-sunday"
   },
   {
     "id": "gto",
@@ -1213,7 +1248,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/GTO_(漫画)"
     },
     "sourceNote": "日本語版Wikipedia『GTO (漫画)』記事(2026-08-02閲覧)で原作者・掲載誌・連載期間(連載号ベースで1997年2号〜2002年9号)・巻数・受賞歴・アニメ化/小説版の有無を確認。前作『湘南純愛組!』のスピンオフだが原作・作画とも藤沢とおるが単独で手がけるためoriginalAuthorIdsは空配列。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-magazine"
   },
   {
     "id": "kindaichi-shonen-no-jikenbo",
@@ -1251,7 +1287,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/金田一少年の事件簿"
     },
     "sourceNote": "日本語版Wikipedia『金田一少年の事件簿』記事(2026-08-02閲覧)で原作(天樹征丸・金成陽三郎)・作画(さとうふみや)・掲載誌・連載期間(1992年開始、第I期・第II期を経て以降は不定期連載で継続中のためstatusはongoing)・巻数(本編等合計74巻以上、正確な最新巻数は変動するため約数として記載)・受賞歴・アニメ化/小説版の有無を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-magazine"
   },
   {
     "id": "major",
@@ -1286,7 +1323,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/MAJOR"
     },
     "sourceNote": "日本語版Wikipedia『MAJOR』記事(2026-08-02閲覧)で原作者・掲載誌・連載期間・巻数(78巻、続編『MAJOR 2nd』は別作品として今回は未収録)・受賞歴・アニメ化/小説版の有無を確認。原作・作画とも満田拓也が単独で手がけるオリジナル作品のためoriginalAuthorIdsは空配列。同記事に「講談社漫画賞」ではなく「NPB選出侍ジャパン野球文学賞ベストナイン」的な副次的賞の記載もあったが、本サイトの既存受賞リストにない賞・出典の確度が低いため見送った。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-sunday"
   },
   {
     "id": "giant-killing",
@@ -1332,7 +1370,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/GIANT_KILLING"
     },
     "sourceNote": "日本語版Wikipedia『GIANT KILLING』記事(2026-08-02閲覧)で原作(綱本将也)・作画(ツジトモ)・掲載誌・連載期間(2007年開始、継続中)・巻数(2026年7月時点70巻)・受賞歴・アニメ化/小説版の有無を確認。同記事に記載のあった「第2回とらのあなコミック&ノベル大賞」は本サイトの既存受賞リストにない小規模賞のため見送った。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "morning"
   },
   {
     "id": "nanatsu-no-taizai",
@@ -1368,7 +1407,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/七つの大罪_(漫画)"
     },
     "sourceNote": "日本語版Wikipedia『七つの大罪 (漫画)』記事(2026-08-02閲覧)で原作者・掲載誌・連載期間・巻数・受賞歴・アニメ化/小説版の有無を確認。原作・作画とも鈴木央が単独で手がけるオリジナル作品のためoriginalAuthorIdsは空配列。続編『黙示録の四騎士』は別作品として今回は未収録。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-magazine"
   },
   {
     "id": "fairy-tail",
@@ -1404,7 +1444,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/FAIRY_TAIL"
     },
     "sourceNote": "日本語版Wikipedia『FAIRY TAIL』記事(2026-08-02閲覧)で原作者・掲載誌・連載期間・巻数・受賞歴(第33回講談社漫画賞少年部門、2009年)・アニメ化/小説版の有無を確認。原作・作画とも真島ヒロが単独で手がけるオリジナル作品のためoriginalAuthorIdsは空配列。同記事に記載のあった海外の賞(Japan Expo Award、Sondermann Comic Award)は本サイトの既存受賞リストにないため見送った。続編『FAIRY TAIL 100 YEARS QUEST』は別作品として今回は未収録。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-magazine"
   },
   {
     "id": "tokyo-revengers",
@@ -1440,7 +1481,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/東京卍リベンジャーズ"
     },
     "sourceNote": "日本語版Wikipedia『東京卍リベンジャーズ』記事(2026-08-02閲覧)で原作者・掲載誌・連載期間・巻数・受賞歴・アニメ化/小説版の有無を確認。原作・作画とも和久井健が単独で手がけるオリジナル作品のためoriginalAuthorIdsは空配列。タイムリープ要素があるためthemeIdsにsci-fiを含めた。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-magazine"
   },
   {
     "id": "noragami",
@@ -1469,7 +1511,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ノラガミ"
     },
     "sourceNote": "日本語版Wikipedia『ノラガミ』記事(2026-08-02閲覧)で原作者(2名からなる漫画家ユニット「あだちとか」、原作・作画とも兼ねるオリジナル作品のためoriginalAuthorIdsは空配列)・掲載誌(月刊少年マガジン)・連載期間・巻数・アニメ化の有無を確認。作品自体の受賞歴・ランキング入りの明記は同記事上で確認できなかったためawardResultsは空配列。小説版の有無は確認できなかったためmediaMix.novelizationは未記入。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "monthly-shonen-magazine"
   },
   {
     "id": "gotoubun-no-hanayome",
@@ -1505,7 +1548,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/五等分の花嫁"
     },
     "sourceNote": "日本語版Wikipedia『五等分の花嫁』記事(2026-08-02閲覧)で原作者・掲載誌・連載期間・巻数・受賞歴・アニメ化/小説版の有無を確認。原作・作画とも春場ねぎが単独で手がけるオリジナル作品のためoriginalAuthorIdsは空配列。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-magazine"
   },
   {
     "id": "fruits-basket",
@@ -1541,7 +1585,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/フルーツバスケット_(漫画)"
     },
     "sourceNote": "日本語版Wikipedia『フルーツバスケット (漫画)』記事(2026-08-02閲覧)で作者・掲載誌・連載期間・既刊巻数・受賞歴・アニメ化を確認。既刊巻数は通常版23巻(愛蔵版12巻は別カウント)。ノベライズの有無は記事上で確認できず未記載。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "hana-to-yume"
   },
   {
     "id": "nana",
@@ -1576,7 +1621,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/NANA"
     },
     "sourceNote": "日本語版Wikipedia『NANA』記事(2026-08-02閲覧)で作者・掲載誌(Cookie/集英社)・受賞歴・既刊巻数(21巻、2009年3月刊)を確認。2009年8月号より作者療養のため休載が続いており未完結のためstatusは'unknown'とした。ノベライズの有無は未確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "cookie"
   },
   {
     "id": "nodame-cantabile",
@@ -1612,7 +1658,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/のだめカンタービレ"
     },
     "sourceNote": "日本語版Wikipedia『のだめカンタービレ』記事(2026-08-02閲覧)で作者・掲載誌(Kiss/講談社)・連載期間・既刊巻数(本編23巻+番外編2巻=25巻)・受賞歴・アニメ化/ノベライズ(高里椎奈著、2006年12月)を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "kiss"
   },
   {
     "id": "chihayafuru",
@@ -1659,7 +1706,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ちはやふる"
     },
     "sourceNote": "日本語版Wikipedia『ちはやふる』記事(2026-08-02閲覧)で作者・掲載誌(BE・LOVE/講談社)・連載期間(2007年12月～2022年8月)・既刊巻数(本編50巻)・受賞歴・アニメ化/ノベライズを確認。手塚治虫文化賞の回次から開催年を2012年と推定。第2回マンガ大賞受賞は当サイトの賞リストに存在しないため未収録(存在しない賞のでっち上げ回避)。続編『ちはやふる plus きみがため』(既刊6巻)は別作品として本entryには含めていない。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "be-love"
   },
   {
     "id": "kimi-ni-todoke",
@@ -1695,7 +1743,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/君に届け"
     },
     "sourceNote": "日本語版Wikipedia『君に届け』記事(2026-08-02閲覧)で作者・掲載誌(別冊マーガレット/集英社)・連載期間(2006年連載開始～2017年)・既刊巻数(本編30巻、番外編3巻は別カウント)・受賞歴・アニメ化/ノベライズを確認。2005年掲載の読み切り版は連載開始に含めずfirstPublishedYearは2006年とした。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "bessatsu-margaret"
   },
   {
     "id": "kaguya-sama-wa-kokurasetai",
@@ -1732,7 +1781,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/かぐや様は告らせたい"
     },
     "sourceNote": "日本語版Wikipedia『かぐや様は告らせたい』記事(2026-08-02閲覧)で作者・掲載誌(ミラクルジャンプ→週刊ヤングジャンプ/集英社)・連載期間(2015年～2022年)・既刊巻数(28巻)・受賞歴・アニメ化/ノベライズを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "miracle-jump"
   },
   {
     "id": "horimiya",
@@ -1764,7 +1814,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ホリミヤ"
     },
     "sourceNote": "日本語版Wikipedia『ホリミヤ』記事(2026-08-02閲覧)で原作(HEROのWeb漫画『堀さんと宮村くん』)・作画(萩原ダイスケ)・掲載誌(月刊Gファンタジー/スクウェア・エニックス)・連載期間(2011年～2021年)・既刊巻数(17巻)を確認。原作Web漫画はshonenjump-plus/tonari-young-jump以外のサイトのためwebComicSourceは未設定。『ホリミヤ -piece-』のクランチロール・アニメアワード2024受賞はアニメ版のみが対象の賞のため対象外、awardResultsは空。ノベライズの有無は記事上で確認できず未記載。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "g-fantasy"
   },
   {
     "id": "hana-yori-dango",
@@ -1800,7 +1851,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/花より男子"
     },
     "sourceNote": "日本語版Wikipedia『花より男子』記事(2026-08-02閲覧)で作者・掲載誌(マーガレット/集英社)・連載期間(1992年～2004年)・既刊巻数(37巻)・受賞歴(第41回小学館漫画賞少女向け部門)・アニメ化/ノベライズを確認。2023年ギネス世界記録認定は漫画賞ではないためawardResultsに含めず。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "margaret"
   },
   {
     "id": "orange",
@@ -1836,7 +1888,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/Orange_(高野苺の漫画)"
     },
     "sourceNote": "日本語版Wikipedia『Orange (高野苺の漫画)』記事(2026-08-02閲覧)および双葉社公式orange特設サイトで作者・掲載誌(別冊マーガレット/集英社→月刊アクション/双葉社)・連載期間(2012年～2016年、番外編含む)・受賞歴・アニメ化/ノベライズを確認。単行本は集英社2巻+双葉社7巻の計9巻(発行元が分かれるためpublisherIdは主要巻数の双葉社を採用)。「全国書店員が選んだおすすめコミック2015」「次にくるマンガ大賞」は当サイトの賞リストに存在しないため未収録。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "bessatsu-margaret"
   },
   {
     "id": "ouran-koukou-host-club",
@@ -1866,7 +1919,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/桜蘭高校ホスト部"
     },
     "sourceNote": "日本語版Wikipedia『桜蘭高校ホスト部』記事(2026-08-02閲覧)で作者・掲載誌(LaLa/白泉社)・連載期間(2002年～2010年)・既刊巻数(18巻)・アニメ化/ノベライズ(全2巻)を確認。作品自体の漫画賞受賞は記事上確認できず、awardResultsは空。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "lala"
   },
   {
     "id": "tokimeki-tonight",
@@ -1896,7 +1950,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ときめきトゥナイト"
     },
     "sourceNote": "日本語版Wikipedia『ときめきトゥナイト』記事(2026-08-02閲覧)で作者・掲載誌(りぼん/集英社)・連載期間(1982年～1994年)・既刊巻数(本編30巻。完結編『星のゆくえ』全1巻、続編『それから』既刊6巻は別カウントで本entryには含めず)・アニメ化/ノベライズを確認。「このマンガがすごい!」2014年オンナ編2位はスピンオフ『真壁俊の事情』に対する評価であり本作自体の受賞ではないためawardResultsに含めず、空とした。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "ribon"
   },
   {
     "id": "skip-beat",
@@ -1926,7 +1981,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/スキップ・ビート!"
     },
     "sourceNote": "日本語版Wikipedia『スキップ・ビート!』記事(2026-08-02閲覧)で作者・掲載誌(花とゆめ/白泉社)・連載期間(2002年～連載中)・既刊巻数(53巻、2026年6月20日時点)・アニメ化/ノベライズを確認。連載中のためlatestPublishedYearは既刊最新巻の発行年として2026年とした。作品自体の漫画賞受賞は記事上確認できず、awardResultsは空。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "hana-to-yume"
   },
   {
     "id": "honey-lemon-soda",
@@ -1962,7 +2018,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ハニーレモンソーダ"
     },
     "sourceNote": "日本語版Wikipedia『ハニーレモンソーダ』記事(2026-08-02閲覧)で作者・掲載誌(りぼん/集英社)・連載期間(2015年12月～2026年4月完結)・既刊巻数(本編31巻+番外編2巻=33巻)・受賞歴・アニメ化/ノベライズを確認。『セブンティーン』読者投票1位は当サイトの賞リストに存在しないため未収録。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "ribon"
   },
   {
     "id": "kiseiju",
@@ -1997,7 +2054,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/寄生獣"
     },
     "sourceNote": "日本語版Wikipedia『寄生獣』記事(2026-08-02閲覧)で作者・掲載誌(月刊アフタヌーン/講談社)・連載期間(1989-1995)・既刊10巻・1993年講談社漫画賞受賞を確認。星雲賞(1996年)受賞歴もあるが本DB未登録の賞のため今回は記載せず。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "morning-open-zokan"
   },
   {
     "id": "yakusoku-no-neverland",
@@ -2045,7 +2103,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/約束のネバーランド"
     },
     "sourceNote": "日本語版Wikipedia『約束のネバーランド』記事(2026-08-02閲覧)で原作・作画者名、週刊少年ジャンプ連載(2016-2020)、全20巻、2017年小学館漫画賞・2018年このマンガがすごい!オトコ編1位・2021年手塚治虫文化賞マンガ大賞を確認。マンガ大賞2018等その他の本DB未登録の賞は今回省略。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-jump"
   },
   {
     "id": "tobaku-mokushiroku-kaiji",
@@ -2077,7 +2136,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/賭博黙示録カイジ"
     },
     "sourceNote": "日本語版Wikipedia『賭博黙示録カイジ』記事(2026-08-02閲覧)で作者(福本伸行、オリジナル作品)・週刊ヤングマガジン(講談社)連載・1998年講談社漫画賞受賞を確認。シリーズは『賭博破戒録カイジ』以降複数の続編作に分かれ2026年現在も連載中のため、latestPublishedYear/volumeCountは特定せず未記入。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "young-magazine"
   },
   {
     "id": "kakegurui",
@@ -2107,7 +2167,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/賭ケグルイ"
     },
     "sourceNote": "日本語版Wikipedia『賭ケグルイ』記事(2026-08-02閲覧)で原作:河本ほむら/作画:尚村透、月刊ガンガンJOKER(スクウェア・エニックス)連載、2014年開始・既刊21巻(2026年3月時点)・連載中であることを確認。『次にくるマンガ大賞』は本DB未登録の賞のため受賞歴は空欄とした。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "gangan-joker"
   },
   {
     "id": "monster",
@@ -2147,7 +2208,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/MONSTER_(漫画)"
     },
     "sourceNote": "日本語版Wikipedia『MONSTER(漫画)』記事(2026-08-02閲覧)で作者(浦沢直樹、オリジナル作品)・ビッグコミックオリジナル(小学館)連載(1994-2001)・既刊18巻・1999年手塚治虫文化賞マンガ大賞・2000年小学館漫画賞一般部門受賞を確認。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "big-comic-original"
   },
   {
     "id": "20th-century-boys",
@@ -2194,7 +2256,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/20世紀少年"
     },
     "sourceNote": "日本語版Wikipedia『20世紀少年』記事(2026-08-02閲覧)で作者(浦沢直樹、オリジナル作品)・ビッグコミックスピリッツ(小学館)連載(20世紀少年1999-2006、21世紀少年2007)・全24巻(22+2)・完結、2001年講談社漫画賞一般部門・2002年小学館漫画賞青年一般部門・2008年日本漫画家協会賞大賞を確認。星雲賞・アングレーム国際漫画祭賞・米国アイズナー賞は本DB未登録の賞のため今回は省略。実写映画版はあるがアニメ化・小説化は未確認のためmediaMixはfalseとした。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "big-comic-spirits"
   },
   {
     "id": "pluto",
@@ -2241,7 +2304,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/PLUTO"
     },
     "sourceNote": "日本語版Wikipedia『PLUTO』記事(2026-08-02閲覧)で原作:手塚治虫(「鉄腕アトム」内エピソードのリメイク)・作画:浦沢直樹、ビッグコミックオリジナル(小学館)連載(2003-2009)・全8巻・2005年手塚治虫文化賞マンガ大賞/文化庁メディア芸術祭マンガ部門優秀賞・2006年このマンガがすごい!オトコ編1位を確認。プロデューサー長崎尚志ら他の制作クレジットは本DBのデータモデル上省略。2023年Netflixアニメ化(既知情報)によりmediaMix.animeをtrueとした。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "big-comic-original"
   },
   {
     "id": "ajin",
@@ -2273,7 +2337,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/亜人_(漫画)"
     },
     "sourceNote": "日本語版Wikipedia『亜人(漫画)』記事(2026-08-02閲覧)でgood!アフタヌーン(講談社)連載(2012-2021)・全17巻・完結を確認。原作クレジットは第1巻のみ三浦追儺、第2巻以降は桜井画門が原作・作画を単独で担当する変則的な体制だが、本DBでは初期クレジットに準じてoriginalAuthorIds/artistIdsを分けて登録した。受賞歴は確認できず空欄。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "good-afternoon"
   },
   {
     "id": "dorohedoro",
@@ -2303,7 +2368,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ドロヘドロ"
     },
     "sourceNote": "日本語版Wikipedia『ドロヘドロ』記事(2026-08-02閲覧)で作者(林田球、オリジナル作品)・小学館の複数誌(月刊IKKI等)での連載(2000-2018)・全23巻・完結を確認。受賞歴の記載は見つからず空欄。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "ikki"
   },
   {
     "id": "terra-formars",
@@ -2340,7 +2406,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/テラフォーマーズ"
     },
     "sourceNote": "日本語版Wikipedia記事および2025-2026年時点のニュース記事(まんたんウェブ等、2026-08-02閲覧)で原作:貴家悠/作画:橘賢一、週刊ヤングジャンプ(集英社)連載・既刊23巻(2024年7月時点)・原作者の体調不良により2018年末から約5年半休載後2024年4月再開、2025年12月にも再開報道があり2026年時点でも連載中(第3部進行中)であることを確認。2013年このマンガがすごい!オトコ編1位を確認。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "miracle-jump"
   },
   {
     "id": "golden-kamuy",
@@ -2386,7 +2453,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゴールデンカムイ"
     },
     "sourceNote": "日本語版Wikipedia『ゴールデンカムイ』記事(2026-08-02閲覧)で作者(野田サトル、オリジナル作品)・週刊ヤングジャンプ(集英社)連載(2014-2022)・全31巻・完結、2018年手塚治虫文化賞マンガ大賞・2022年日本漫画家協会賞大賞を確認。2016年このマンガがすごい!オトコ編2位は追加検索(2026-08-02)で確認。『マンガ大賞2016』は本DB未登録の賞のため今回は省略。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "young-jump"
   },
   {
     "id": "higanjima",
@@ -2413,7 +2481,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/彼岸島"
     },
     "sourceNote": "日本語版Wikipedia『彼岸島』記事および関連ニュース(2026-08-02閲覧)で作者(松本光司、オリジナル作品)・週刊ヤングマガジン(講談社)、『彼岸島』(2002-2010・全33巻)→『彼岸島 最後の47日間』(2010-2014・全16巻)→『彼岸島 48日後…』(2014年-連載中、2026年6月時点既刊54巻)と3部構成でシリーズが続き2026年現在も連載中であることを確認。シリーズ全体で巻数区分が複雑なためvolumeCountは特定せず未記入。2016年映画版のジャパンアクションアワード受賞歴があるが、原作コミック自体でなく映画対象のため対象外として空欄。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "young-magazine"
   },
   {
     "id": "uzumaki",
@@ -2442,7 +2511,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/うずまき_(漫画)"
     },
     "sourceNote": "日本語版Wikipedia『うずまき(漫画)』記事(2026-08-02閲覧)で作者(伊藤潤二、オリジナル作品)・週刊ビッグコミックスピリッツ(小学館)連載(1998-1999)・全3巻・完結を確認。米国アイズナー賞受賞歴があるが本DB未登録(国内賞中心)の賞のため今回は記載せず。2024年に海外向けアニメ化された既知情報によりmediaMix.animeをtrueとした。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "big-comic-spirits"
   },
   {
     "id": "crayon-shinchan",
@@ -2469,7 +2539,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/クレヨンしんちゃん"
     },
     "sourceNote": "日本語版Wikipedia『クレヨンしんちゃん』『臼井儀人』記事(2026-08-02閲覧)で原作者・出版社・掲載誌・連載開始年・巻数・作者没後の連載継続状況を確認。作品自体への漫画賞受賞歴は情報源上確認できず(アニメ版の文化庁メディア芸術祭受賞はアニメ限定のため対象外)。既刊巻数はオリジナル版全50巻を採用(新クレヨンしんちゃんの巻数は既刊16巻で別カウント)。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "manga-action"
   },
   {
     "id": "kochikame",
@@ -2509,7 +2580,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/こちら葛飾区亀有公園前派出所"
     },
     "sourceNote": "日本語版Wikipedia『こちら葛飾区亀有公園前派出所』記事(2026-08-02閲覧)で原作者・出版社・掲載誌・連載期間・巻数・受賞歴・アニメ化を確認。原作・作画とも秋本治が単独で手がけるオリジナル作品のためoriginalAuthorIdsは空配列。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-jump"
   },
   {
     "id": "doraemon",
@@ -2555,7 +2627,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ドラえもん"
     },
     "sourceNote": "日本語版Wikipedia『ドラえもん』記事(2026-08-02閲覧)で原作者・出版社・連載期間・てんとう虫コミックス巻数(全45巻)・受賞歴・アニメ化を確認。作者藤子・F・不二雄が原作・作画を単独で手がけるオリジナル作品のためoriginalAuthorIdsは空配列。1996年の作者没により連載終了、statusはcompleted扱い。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "corocoro-comic"
   },
   {
     "id": "ansatsu-kyoshitsu",
@@ -2590,7 +2663,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/暗殺教室"
     },
     "sourceNote": "日本語版Wikipedia『暗殺教室』記事・Web検索(このマンガがすごい!2014受賞、2026-08-02閲覧)で原作者・出版社・掲載誌・連載期間・巻数・受賞歴・アニメ化を確認。原作・作画とも松井優征が単独で手がけるオリジナル作品のためoriginalAuthorIdsは空配列。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-jump"
   },
   {
     "id": "saiki-kusuo-no-psi-nan",
@@ -2619,7 +2693,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/斉木楠雄のΨ難"
     },
     "sourceNote": "日本語版Wikipedia『斉木楠雄のΨ難』記事(2026-08-02閲覧)で原作者・出版社・掲載誌・連載期間・巻数・アニメ化を確認。原作・作画とも麻生周一が単独で手がけるオリジナル作品のためoriginalAuthorIdsは空配列。作品自体の正式な漫画賞受賞は情報源上確認できず(ニュージャンプ内選定「NPG」は本サイトの定義する賞に該当しないため不採用)、awardResultsは空配列。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-jump"
   },
   {
     "id": "osomatsu-san",
@@ -2647,7 +2722,8 @@
     },
     "externalLinks": {},
     "sourceNote": "Web検索(集英社「月刊YOU」公式サイト・電子書籍販売サイト各種、2026-08-02閲覧)で原作(赤塚不二夫)・作画(シタラマサコ)・出版社・掲載誌(月刊YOU→Cookie)・連載期間・巻数を確認。アニメ『おそ松さん』(2015年放送開始)が先行し、その後に本作がコミカライズされた経緯を確認。日本語版Wikipedia記事は同名アニメ記事のみでこの漫画版の直接記載は限定的だったため、主に電子書籍販売サイトの著者・作品情報で裏取りした。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "you-magazine"
   },
   {
     "id": "chukan-kanri-roku-tonegawa",
@@ -2684,7 +2760,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/中間管理録トネガワ"
     },
     "sourceNote": "日本語版Wikipedia『中間管理録トネガワ』記事・講談社コミックス公式商品ページ・Web検索(このマンガがすごい!2017受賞、2026-08-02閲覧)で原作・作画クレジット・出版社・掲載誌・連載期間・巻数・受賞歴・アニメ化を確認。原作クレジットは萩原天晴、福本伸行は「協力」クレジットのためoriginalAuthorIdsには含めていない。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "monthly-young-magazine"
   },
   {
     "id": "gin-no-saji",
@@ -2725,7 +2802,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/銀の匙_Silver_Spoon"
     },
     "sourceNote": "Web検索(コミックナタリー・オリコン等、2026-08-02閲覧)で出版社・掲載誌(週刊少年サンデー)・連載期間・完結巻数(全15巻)・受賞歴(小学館漫画賞2012少年向け部門、SUGOI JAPAN Award 2015マンガ部門2位)・アニメ化を確認。マンガ大賞2012大賞も受賞しているが本サイトの既存awardリストに該当賞がないため不採用。artistIdsは既存の荒川弘(arakawa-hiromu)をそのまま再利用し、原作・作画とも荒川弘単独のオリジナル作品のためoriginalAuthorIdsは空配列(指示通り新規artist作成せず)。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-sunday"
   },
   {
     "id": "yotsubato",
@@ -2763,7 +2841,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/よつばと!"
     },
     "sourceNote": "日本語版Wikipedia『よつばと!』記事・Web検索(既刊16巻、2025年2月発売、2026-08-02閲覧)で作者・出版社(メディアワークス→アスキー・メディアワークス→KADOKAWA)・掲載誌・連載開始年・巻数・受賞歴を確認。作者が明言する通りアニメ化はされていない。原作・作画とも単独オリジナル作品のためoriginalAuthorIdsは空配列。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "dengeki-daioh"
   },
   {
     "id": "karakai-jouzu-no-takagi-san",
@@ -2798,7 +2877,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/からかい上手の高木さん"
     },
     "sourceNote": "日本語版Wikipedia『からかい上手の高木さん』記事(2026-08-02閲覧)で作者・出版社・掲載誌・連載期間・完結巻数(全20巻)・受賞歴(小学館漫画賞2021少年向け部門)・アニメ化を確認。原作・作画とも山本崇一朗単独のオリジナル作品のためoriginalAuthorIdsは空配列。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "gessan"
   },
   {
     "id": "sazae-san",
@@ -2832,7 +2912,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/サザエさん"
     },
     "sourceNote": "日本語版Wikipedia『サザエさん』『長谷川町子』記事・Web検索(2026-08-02閲覧)で作者・連載期間(1946-1974)・単行本巻数(全68巻)・受賞歴(1991年日本漫画家協会賞文部大臣賞)・アニメ化を確認。単行本の刊行元は連載当時の姉妹社(1993年廃業)から現在は朝日新聞出版に引き継がれているため、publisherIdは現行の朝日新聞出版(asahi-shimbun-shuppan)を採用。国民栄誉賞・紫綬褒章は個人への叙勲であり作品自体の賞でないためawardResultsには含めていない。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "yukan-fukunichi"
   },
   {
     "id": "ajin-chan-wa-kataritai",
@@ -2861,7 +2942,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/亜人ちゃんは語りたい"
     },
     "sourceNote": "日本語版Wikipedia『亜人ちゃんは語りたい』記事(2026-08-02閲覧)で作者(ペトス)・出版社・掲載誌・連載期間・完結巻数(全11巻)・アニメ化を確認。「次にくるマンガ大賞」2位選出はランキング企画だが本サイトの既存awardリスト・追加候補にも該当賞がないため不採用、awardResultsは空配列。原作・作画とも単独オリジナル作品のためoriginalAuthorIdsは空配列。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "young-magazine-third"
   },
   {
     "id": "suki-na-ko-ga-megane-wo-wasureta",
@@ -2890,7 +2972,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/好きな子がめがねを忘れた"
     },
     "sourceNote": "日本語版Wikipedia『好きな子がめがねを忘れた』記事・Web検索(2026-08-02閲覧)で作者・出版社(スクウェア・エニックス)・掲載誌(月刊ガンガンJOKER)・連載期間(2018-2024)・完結巻数(全12巻)・アニメ化を確認。「次にくるマンガ大賞2019」コミックス部門12位は本サイトの既存awardリスト・追加候補に該当賞がないため不採用、awardResultsは空配列。原作・作画とも単独オリジナル作品のためoriginalAuthorIdsは空配列。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "gangan-joker"
   },
   {
     "id": "tensei-shitara-slime-datta-ken",
@@ -2928,7 +3011,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/転生したらスライムだった件"
     },
     "sourceNote": "日本語版Wikipedia『転生したらスライムだった件』記事(2026-08-02閲覧)で原作者・作画者・掲載誌・巻数・受賞歴を確認。既刊32巻(2026年6月時点の情報)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-sirius"
   },
   {
     "id": "re-zero",
@@ -2959,7 +3043,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/Re:ゼロから始める異世界生活"
     },
     "sourceNote": "日本語版Wikipedia『Re:ゼロから始める異世界生活』記事(2026-08-02閲覧)で確認。原作小説は章ごとに複数の漫画家・出版社によって並行してコミカライズされている(第一・三章:マツセダイチ/KADOKAWA『月刊コミックアライブ』、第二章:楓月誠/スクウェア・エニックス『月刊ビッグガンガン』、第四章:花鶏ハルノ/KADOKAWA『月刊コミックアライブ』)。works.jsonが単一artistId/publisherIdしか持てない制約上、2019年から継続中で最新章にあたる第四章を代表として採用し、volumeCountは章ごとに巻数がリセットされるため意味をなさないと判断し未入力とした。受賞歴は作品(コミック版)自体のものは確認できず空配列。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "comic-alive"
   },
   {
     "id": "overlord",
@@ -2991,7 +3076,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/オーバーロード_(小説)"
     },
     "sourceNote": "日本語版Wikipedia『オーバーロード(小説)』記事(2026-08-02閲覧)で原作者・作画者・掲載誌・連載期間・巻数を確認。作品自体の受賞歴は確認できず空配列。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "comp-ace"
   },
   {
     "id": "mahoujin-guruguru",
@@ -3019,7 +3105,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔法陣グルグル"
     },
     "sourceNote": "日本語版Wikipedia『魔法陣グルグル』記事(2026-08-02閲覧)で作者・掲載誌・連載期間・巻数を確認。オリジナル作品のためoriginalAuthorIdsは空配列。2012年開始の続編『魔法陣グルグル2』は別作品として本データには含めていない。作品自体の受賞歴は確認できず空配列。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "gangan-monthly"
   },
   {
     "id": "soul-eater",
@@ -3048,7 +3135,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ソウルイーター"
     },
     "sourceNote": "日本語版Wikipedia『ソウルイーター』記事(2026-08-02閲覧)で作者・掲載誌・連載期間・巻数を確認。文化庁メディア芸術祭でのアニメーション部門審査委員会推薦作品という記載はあるがアニメ版・かつ正式な受賞ではないため、CLAUDE.mdの方針(アニメ版のみ対象の賞は対象外)に従いawardResultsには含めなかった。オリジナル作品のためoriginalAuthorIdsは空配列。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "gangan-monthly"
   },
   {
     "id": "ginga-tetsudo-999",
@@ -3082,7 +3170,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/銀河鉄道999"
     },
     "sourceNote": "日本語版Wikipedia『銀河鉄道999』記事(2026-08-02閲覧)で確認。『週刊少年キング』(少年画報社)連載のアンドロメダ編(1977-1981、ヒットコミックス全18巻)を本編として採用。1996-1999年に『ビッグゴールド』(小学館)で連載された続編「エターナル編」は別出版社・別巻数のためfirstPublishedYear/latestPublishedYear/volumeCount/publisherIdには反映していない。第23回小学館漫画賞(1977年度)受賞を確認。オリジナル作品のためoriginalAuthorIdsは空配列。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-king"
   },
   {
     "id": "kaze-no-tani-no-nausicaa",
@@ -3117,7 +3206,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/風の谷のナウシカ"
     },
     "sourceNote": "日本語版Wikipedia『風の谷のナウシカ』記事(2026-08-02閲覧)で漫画版の掲載誌(『アニメージュ』徳間書店)・連載期間・巻数・受賞歴を確認。1984年公開のアニメ映画は連載中の初期エピソードを基にした派生作品で、本データは漫画(コミック)版を指す。2007年の文化庁メディア芸術祭『日本のメディア芸術100選』第8位選出は正式な受賞ではなく回顧的な選出リストのため、CLAUDE.mdの方針に照らしawardResultsには含めなかった。1995年の星雲賞コミック部門受賞は本サイトの既存アワード一覧に該当項目がないため未記載(架空idを作らない方針のため)。オリジナル作品のためoriginalAuthorIdsは空配列。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "animage"
   },
   {
     "id": "karakuri-circus",
@@ -3146,7 +3236,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/からくりサーカス"
     },
     "sourceNote": "日本語版Wikipedia『からくりサーカス』記事(2026-08-02閲覧)で作者・掲載誌(週刊少年サンデー/小学館)・連載期間・巻数を確認。作品自体の受賞歴は確認できず空配列(作者は別作品『うしおととら』で小学館漫画賞受賞歴あり)。オリジナル作品のためoriginalAuthorIdsは空配列。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-sunday"
   },
   {
     "id": "d-gray-man",
@@ -3174,7 +3265,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/D.Gray-man"
     },
     "sourceNote": "日本語版Wikipedia『D.Gray-man』記事(2026-08-02閲覧)で作者・掲載誌の変遷(週刊少年ジャンプ→ジャンプSQ.系)・巻数(2025年7月時点29巻)・長期休載歴を確認。作品自体の受賞歴は確認できず空配列。オリジナル作品のためoriginalAuthorIdsは空配列。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-jump"
   },
   {
     "id": "oke-no-monshou",
@@ -3206,7 +3298,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/王家の紋章"
     },
     "sourceNote": "日本語版Wikipedia『王家の紋章』記事(2026-08-02閲覧)で掲載誌(月刊プリンセス/秋田書店)・連載開始年・巻数(2026年6月時点71巻)・受賞歴を確認。作者は姉妹による共同ペンネーム「細川智栄子あんど芙〜みん」で、original-authors.json/artists.jsonには細川智栄子・芙〜みんの2名としてartistIdsに登録した(原作/作画の役割分担詳細は情報源で確認できず)。オリジナル作品のためoriginalAuthorIdsは空配列。メディアミックス(アニメ化等)は本データでは未確認のためmediaMixフィールドは省略。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "gekkan-princess"
   },
   {
     "id": "bokurano",
@@ -3241,7 +3334,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ぼくらの"
     },
     "sourceNote": "日本語版Wikipedia『ぼくらの』記事(2026-08-02閲覧)で作者・掲載誌(月刊IKKI/小学館)・連載期間・巻数(IKKI COMIX全11巻)・受賞歴(第14回文化庁メディア芸術祭マンガ部門優秀賞、2010年)を確認。オリジナル作品のためoriginalAuthorIdsは空配列。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "ikki"
   },
   {
     "id": "mahou-shoujo-madoka-magica",
@@ -3272,7 +3366,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔法少女まどか☆マギカの漫画作品"
     },
     "sourceNote": "日本語版Wikipedia『魔法少女まどか☆マギカの漫画作品』記事(2026-08-02閲覧)で本編コミカライズ版の原作クレジット(Magica Quartet)・作画(ハノカゲ)・出版社(芳文社/まんがタイムKRコミックス)・連載期間・巻数を確認。原作はテレビアニメでありMagica Quartetは制作者ユニットの共同ペンネームだが、コミック版の原作クレジットとして明記されているためoriginalAuthorIdsに新規登録した。作品(コミック版)自体の受賞歴は確認できず空配列(アニメ版の受賞歴はCLAUDE.mdの方針により対象外)。世界観を共有する外伝漫画作品群は別作品のため本データには含めていない。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "manga-time-kr-comics"
   },
   {
     "id": "kekkaishi",
@@ -3307,7 +3402,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/結界師"
     },
     "sourceNote": "日本語版Wikipedia『結界師』記事(2026-08-02閲覧)で作者・掲載誌(週刊少年サンデー/小学館)・連載期間・巻数・受賞歴を確認。オリジナル作品のためoriginalAuthorIdsは空配列。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-sunday"
   },
   {
     "id": "oishinbo",
@@ -3344,7 +3440,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/美味しんぼ"
     },
     "sourceNote": "日本語版Wikipedia『美味しんぼ』記事(2026-08-02閲覧)で原作者・作画者・掲載誌(ビッグコミックスピリッツ/小学館)・連載期間・既刊巻数(111巻、2014年12月時点)・受賞歴・アニメ化を確認。2014年25号を最後に長期休載が続き正式な完結発表は確認できなかったためstatusはunknownとした。小説化の有無は記事に記載なく未確認のためmediaMix.novelizationは省略。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "big-comic-spirits"
   },
   {
     "id": "kodoku-no-gurume",
@@ -3375,7 +3472,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/孤独のグルメ"
     },
     "sourceNote": "日本語版Wikipedia『孤独のグルメ』記事(2026-08-02閲覧)で原作者・作画者・掲載誌(月刊PANJA/SPA!、扶桑社)・連載期間・単行本巻数(全2巻、1997年・2015年刊)を確認。作品自体の受賞歴の記載は見当たらず空配列とした。実写ドラマ化(2012年〜、テレビ東京)が主要なメディア展開だが、スマホ向け「タテアニメ」配信(2017年〜)もありmediaMix.animeはtrue、小説版(2019年)も確認できたためnovelizationもtrueとした。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "gekkan-panja"
   },
   {
     "id": "shinya-shokudo",
@@ -3414,7 +3512,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/深夜食堂"
     },
     "sourceNote": "日本語版Wikipedia『深夜食堂』記事(2026-08-02閲覧)で作者(原作・作画とも安倍夜郎によるオリジナル作品)・掲載誌(ビッグコミックオリジナル/小学館)・連載期間・既刊巻数(30巻、2025年9月時点)・受賞歴(小学館漫画賞・日本漫画家協会賞大賞)を確認。記事に明記の通りアニメ化はなく(実写ドラマ・映画が主なメディア展開)、映画化に伴う小説版は確認できたためmediaMixはanime:false, novelization:trueとした。マンガ大賞・富川漫画大賞・ACBDアジア賞等の海外賞・ランキングはこのサイトの対象賞リストにないため不採用。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "big-comic-original"
   },
   {
     "id": "moteki",
@@ -3440,7 +3539,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/モテキ"
     },
     "sourceNote": "日本語版Wikipedia『モテキ』記事(2026-08-02閲覧)で作者(久保ミツロウによるオリジナル作品)・掲載誌(イブニング/講談社)・連載期間(2008年〜2010年)・巻数(本編4巻+ファンブック4.5巻の計5冊)を確認。作品自体の漫画賞受賞の記載は見当たらず空配列とした(新語・流行語大賞ノミネートは漫画賞ではないため不採用)。テレビドラマ化・映画化(実写)は確認できたが、アニメ化・小説化についての明記がなく未確認のためmediaMixフィールドは省略した。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "evening"
   },
   {
     "id": "uchuu-kyoudai",
@@ -3480,7 +3580,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/宇宙兄弟"
     },
     "sourceNote": "日本語版Wikipedia『宇宙兄弟』記事(2026-08-02閲覧)で作者(小山宙哉によるオリジナル作品)・掲載誌(モーニング/講談社)・連載期間(2007年〜2026年6月完結)・既刊巻数(全46巻)・受賞歴(小学館漫画賞・講談社漫画賞)・アニメ化を確認。受賞の回次年は各賞のWikipedia記事の記載年に合わせた。マンガ大賞2位(2009・2010年度)はこのサイトの対象賞リストにないため不採用。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "morning"
   },
   {
     "id": "vinland-saga",
@@ -3520,7 +3621,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ヴィンランド・サガ"
     },
     "sourceNote": "日本語版Wikipedia『ヴィンランド・サガ』記事(2026-08-02閲覧)で作者(幸村誠によるオリジナル作品)・掲載誌の変遷(週刊少年マガジン→月刊アフタヌーン、いずれも講談社)・連載期間(2005年〜2025年完結)・既刊巻数(全29巻)・受賞歴(文化庁メディア芸術祭マンガ部門大賞・講談社漫画賞)・アニメ化を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-magazine"
   },
   {
     "id": "berserk",
@@ -3556,7 +3658,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ベルセルク_(漫画)"
     },
     "sourceNote": "日本語版Wikipedia『ベルセルク(漫画)』記事(2026-08-02閲覧)で作者(三浦建太郎によるオリジナル作品、2021年没)・掲載誌の変遷(月刊アニマルハウス→ヤングアニマル、いずれも白泉社)・連載開始(1989年)・既刊巻数(43巻、2025年8月時点)・受賞歴(手塚治虫文化賞マンガ優秀賞)・アニメ化・小説化を確認。2022年6月より原作:三浦建太郎、作画:スタジオ我画、監修:森恒二の体制で連載再開しているためstatusはongoingとした。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "monthly-animal-house"
   },
   {
     "id": "3-gatsu-no-lion",
@@ -3600,7 +3703,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/3月のライオン"
     },
     "sourceNote": "日本語版Wikipedia『3月のライオン』記事(2026-08-02閲覧)で作者(羽海野チカによるオリジナル作品)・掲載誌(ヤングアニマル/白泉社)・連載期間(2007年〜連載中)・既刊巻数(18巻、2025年9月時点)・受賞歴(講談社漫画賞・手塚治虫文化賞マンガ大賞・文化庁メディア芸術祭マンガ部門大賞)・アニメ化を確認。マンガ大賞(2011年)・ダ・ヴィンチBOOK OF THE YEAR・将棋ペンクラブ大賞はこのサイトの対象賞リストにないため不採用。作品の正式タイトルは算用数字「3月のライオン」のため候補作リストの「三月のライオン」表記から修正した。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "young-animal"
   },
   {
     "id": "hi-no-tori",
@@ -3629,7 +3733,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/火の鳥_(漫画)"
     },
     "sourceNote": "日本語版Wikipedia『火の鳥(漫画)』記事(2026-08-02閲覧)で作者(手塚治虫によるオリジナル作品)・掲載誌の変遷(漫画少年→少女クラブ→COM→マンガ少年→野性時代)・連載期間(1954年〜1988年)・標準版既刊巻数(全11巻)・映像化(実写映画・アニメ映画・TVアニメ等)を確認。原作は手塚治虫没後「現代編」が未完のまま終わっており正式な完結ではないためstatusはunknownとした。掲載誌が複数出版社にまたがるため、publisherIdは現行の代表的な文庫版全集(手塚治虫文庫全集)を刊行する講談社を採用(既存publisherと重複させないための便宜的な選択、sourceNoteに明記)。受賞歴の記載は見当たらず空配列とした。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "manga-shonen"
   },
   {
     "id": "black-jack",
@@ -3669,7 +3774,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ブラック・ジャック"
     },
     "sourceNote": "日本語版Wikipedia『ブラック・ジャック』記事(2026-08-02閲覧)で作者(手塚治虫によるオリジナル作品)・掲載誌(週刊少年チャンピオン/秋田書店)・連載期間(定期連載1973-1978年、不定期連載1979-1983年)・既刊巻数(少年チャンピオンコミックス版全25巻)・受賞歴(日本漫画家協会賞特別優秀賞・第1回講談社漫画賞)・アニメ化/小説化等多数のメディアミックスを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-champion"
   },
   {
     "id": "ashita-no-joe",
@@ -3700,7 +3806,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/あしたのジョー"
     },
     "sourceNote": "日本語版Wikipedia『あしたのジョー』記事(2026-08-02閲覧)で原作(梶原一騎が『高森朝雄』名義で担当、『巨人の星』との併載を隠す目的等の経緯あり)・作画(ちばてつや)・掲載誌(週刊少年マガジン/講談社)・連載期間(1968年1月〜1973年5月)・既刊巻数(20巻)・アニメ化を確認。連載開始が講談社漫画賞創設(1977年)以前のため作品自体の漫画賞受賞は確認できず空配列とした。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-magazine"
   },
   {
     "id": "akira",
@@ -3735,7 +3842,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/AKIRA_(漫画)"
     },
     "sourceNote": "日本語版Wikipedia『AKIRA(漫画)』記事(2026-08-02閲覧)で作者(大友克洋によるオリジナル作品)・掲載誌(週刊ヤングマガジン/講談社)・連載期間(1982年〜1990年)・既刊巻数(全6巻)・受賞歴(講談社漫画賞)・アニメ映画化を確認。米国アイズナー賞はこのサイトの対象賞リストにないため不採用。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "young-magazine"
   },
   {
     "id": "gantz",
@@ -3764,7 +3872,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/GANTZ"
     },
     "sourceNote": "日本語版Wikipedia『GANTZ』記事(2026-08-02閲覧)で作者(奥浩哉によるオリジナル作品)・掲載誌(週刊ヤングジャンプ/集英社)・連載期間(2000年〜2013年)・既刊巻数(全37巻)・アニメ化/実写映画化を確認。作品自体の漫画賞受賞の記載は見当たらず空配列とした。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "young-jump"
   },
   {
     "id": "battle-royale",
@@ -3796,7 +3905,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/バトル・ロワイアル"
     },
     "sourceNote": "日本語版Wikipedia・複数書誌サイト(ebookjapan/booklive/Amazon等)で高見広春原作・田口雅之作画、秋田書店『ヤングチャンピオン』2000-2005年連載、全15巻(完結)を確認。原作小説は映画化もされているがmediaMixのnovelization/animeは漫画版起点でないため一旦false、詳細は未検証のため今後要確認。受賞歴は漫画版単体では確認できず。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "young-champion"
   },
   {
     "id": "darwins-game",
@@ -3826,7 +3936,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ダーウィンズゲーム"
     },
     "sourceNote": "日本語版Wikipedia・FLIPFLOPs公式サイトで原作作画ともにFLIPFLOPs(深山秀・高畑ゆきユニット)、秋田書店『別冊少年チャンピオン』2012年12月〜2023年10月連載、全30巻(2024年1月完結)、2020年にテレビアニメ化されたことを確認。受賞歴は確認できず。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "bessatsu-shonen-champion"
   },
   {
     "id": "liar-game",
@@ -3856,7 +3967,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/LIAR_GAME"
     },
     "sourceNote": "日本語版Wikipedia「LIAR GAME」で甲斐谷忍作、集英社『週刊ヤングジャンプ』2005-2015年連載、全19巻、単行本累計670万部、テレビドラマ・アニメ化を確認。金銭を賭けたゲームで敗者が社会的・経済的に破滅する設定のためdeath-gameに加えgamblingタグも付与。受賞歴は確認できず。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "young-jump"
   },
   {
     "id": "corpse-party-blood-covered",
@@ -3888,7 +4000,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/コープスパーティー"
     },
     "sourceNote": "日本語版Wikipedia「コープスパーティー」項目・マンガUP!公式ページで、原作ゲームクリエイター祁答院慎(チームグリグリ)、作画篠宮トシミ、スクウェア・エニックス『ガンガンパワード→月刊ガンガンJOKER』2008-2012年連載、全10巻を確認。同シリーズには複数のコミカライズ版(娘/Another Child/Book of Shadows等、いずれも織衣美歌・緒方俊輔などが担当)が存在するが、本項では最初のBloodCovered版のみを登録した。受賞歴は確認できず。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "gangan-powered"
   },
   {
     "id": "akuma-no-riddle",
@@ -3920,7 +4033,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/悪魔のリドル"
     },
     "sourceNote": "書誌サイト(まんがseek等)・出版社情報で原作高河ゆん、作画南方純、KADOKAWA『月刊ニュータイプ』2012-2016年連載、全5巻、2014年テレビアニメ化を確認。受賞歴は確認できず。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "newtype"
   },
   {
     "id": "dead-tube",
@@ -3952,7 +4066,8 @@
       "officialUrl": "https://www.akitashoten.co.jp/series/4491"
     },
     "sourceNote": "秋田書店公式サイト・書誌サイト(BOOK☆WALKER/コミックシーモア等)で原作山口ミコト、作画北河トウタ、秋田書店『チャンピオンRED』2014年5月連載開始、2026年4月時点で28巻・累計335万部、連載中であることを確認。日本語版Wikipedia独立項目は検索で見当たらず、出版社公式および複数書誌サイトの一致で裏取りした。受賞歴は確認できず。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "champion-red"
   },
   {
     "id": "satsuriku-no-tenshi",
@@ -3984,7 +4099,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/殺戮の天使"
     },
     "sourceNote": "日本語版Wikipedia「殺戮の天使」・KADOKAWA公式で原作フリーゲーム(星屑KRNKRN/真田まこと)、漫画名束くだん、KADOKAWA『月刊コミックジーン』2015-2020年連載、全12巻、累計260万部(2021年5月時点)を確認。前日譚『Episode.0』(全7巻)は別作品のため今回は本編のみ登録。受賞歴は確認できず。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "comic-gene"
   },
   {
     "id": "shokuryo-jinrui",
@@ -4017,7 +4133,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/食糧人類-Starving_Anonymous-"
     },
     "sourceNote": "日本語版Wikipedia「食糧人類-Starving Anonymous-」で原案水谷健吾・原作蔵石ユウ・作画イナベカズ、講談社『ヤングマガジン』(eヤングマガジン)2016-2018年連載、全7巻を確認。続編『Re』(2021-2023、全7巻)は別シリーズ扱いのため未登録。受賞歴は確認できず。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "e-young-magazine"
   },
   {
     "id": "jisatsu-jima",
@@ -4047,7 +4164,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/自殺島"
     },
     "sourceNote": "日本語版Wikipedia「自殺島」で森恒二作、白泉社『ヤングアニマル』2008-2016年連載、全17巻(ジェッツコミックス1-14巻+ヤングアニマルコミックス15-17巻)、前日譚『無法島』(2019-2022、全6巻・別シリーズ)の存在を確認。組織的なゲームではなく漂流サバイバルのため戦闘系テーマでなくworkplace-drama(群像劇)を付与。受賞歴は確認できず。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "young-animal"
   },
   {
     "id": "hana-no-keiji",
@@ -4075,7 +4193,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/花の慶次"
     },
     "sourceNote": "日本語版Wikipedia『花の慶次』記事(2026-08-02閲覧)で原作(隆慶一郎『一夢庵風流記』)・作画(原哲夫)・掲載誌(週刊少年ジャンプ、集英社)・連載期間(1990-1993年)・既刊巻数(全18巻)・完結を確認。明記された漫画賞の受賞歴は確認できずawardResultsは空とした。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-jump"
   },
   {
     "id": "heuge-mono",
@@ -4115,7 +4234,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/へうげもの"
     },
     "sourceNote": "日本語版Wikipedia『へうげもの』記事および文化庁メディア芸術祭・手塚治虫文化賞の受賞発表記事(2026-08-02閲覧)で作者・掲載誌(モーニング、講談社)・連載期間(2005-2017年)・既刊巻数(全25巻)・完結・第13回文化庁メディア芸術祭マンガ部門優秀賞(2009年)・第14回手塚治虫文化賞マンガ大賞(2010年)・2011年アニメ化を確認。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "morning"
   },
   {
     "id": "sengoku",
@@ -4141,7 +4261,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/センゴク"
     },
     "sourceNote": "日本語版Wikipedia『センゴク』記事(2026-08-02閲覧)で作者・掲載誌(週刊ヤングマガジン、講談社)・連載期間(2004-2022年、全4部作)・既刊巻数(4部合計72巻)・完結を確認。第32回講談社漫画賞一般部門の候補に挙がった旨の記述はあるが受賞明記ではないためawardResultsには含めていない。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "young-magazine"
   },
   {
     "id": "nige-jouzu-no-wakagimi",
@@ -4176,7 +4297,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/逃げ上手の若君"
     },
     "sourceNote": "日本語版Wikipedia『逃げ上手の若君』記事および第69回小学館漫画賞発表記事(2026-08-02閲覧)で作者・掲載誌(週刊少年ジャンプ、集英社)・連載期間(2021年8号-2026年12号、完結)・第69回小学館漫画賞受賞(2023年度、2024年1月発表。同回から部門制が廃止され4作品が受賞)・アニメ化(2024年・2026年)を確認。既刊巻数は2026年5月時点で25巻・完結後の最終巻を含めた巻数は集英社サイトで26巻の存在を確認したが正確な最終巻数は未確定のため概数として扱う。「全国書店員が選んだおすすめコミック2022」8位の記録もあるが、本サイトが採用する賞リストに含まれないため未記載。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-jump"
   },
   {
     "id": "otoyome-gatari",
@@ -4218,7 +4340,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/乙嫁語り"
     },
     "sourceNote": "日本語版Wikipedia『乙嫁語り』記事(2026-08-02閲覧)で作者・掲載誌の変遷(Fellows!→ハルタ→青騎士)・連載開始(2008年)・連載継続中・既刊巻数(15巻、2024年11月時点)・マンガ大賞2014大賞および2011年・2013年2位を確認。2025年10月に新レーベル「雪割草」へ移行した旨も確認したが、単行本の発行元表記は本データ作成時点で確認しきれず、直近まで発行していたKADOKAWAを暫定的にpublisherIdとした。アングレーム国際漫画祭世代間賞(2012年)は本サイトの受賞対象外のため未記載。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "fellows"
   },
   {
     "id": "thermae-romae",
@@ -4258,7 +4381,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/テルマエ・ロマエ"
     },
     "sourceNote": "日本語版Wikipedia『テルマエ・ロマエ』記事(2026-08-02閲覧)で作者・掲載誌(コミックビーム、エンターブレイン→KADOKAWA)・連載期間(2008-2013年)・既刊巻数(全6巻)・完結・マンガ大賞2010受賞・第14回手塚治虫文化賞短編賞・2012年アニメ化を確認。掲載誌のエンターブレインは2010年にKADOKAWAグループへ統合されたためpublisherIdはkadokawaとした。2024年開始の続編『続テルマエ・ロマエ』は別作品として本エントリには含めていない。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "comic-beam"
   },
   {
     "id": "historie",
@@ -4302,7 +4426,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ヒストリエ"
     },
     "sourceNote": "日本語版Wikipedia『ヒストリエ』記事(2026-08-02閲覧)で作者・掲載誌(月刊アフタヌーン、講談社)・連載開始(2003年)・長期休載中で連載継続中の扱い・既刊巻数(12巻、2024年6月時点)・第14回文化庁メディア芸術祭マンガ部門大賞(2010年)・第16回手塚治虫文化賞マンガ大賞(2012年)・第49回講談社漫画賞総合部門(2025年)・2027年放送予定のアニメ化決定を確認。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "afternoon"
   },
   {
     "id": "souten-kouro",
@@ -4339,7 +4464,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/蒼天航路"
     },
     "sourceNote": "日本語版Wikipedia『蒼天航路』『李學仁』『王欣太』の各記事(2026-08-02閲覧)で原作(李學仁)・作画(王欣太)・掲載誌(モーニング、講談社)・連載期間(1994-2005年)・既刊巻数(全36巻)・完結・第22回講談社漫画賞一般部門受賞(1998年)・原作者の1998年病没とその後の単独執筆・2009年アニメ化を確認。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "morning"
   },
   {
     "id": "tenjou-no-niji",
@@ -4365,7 +4491,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/天上の虹"
     },
     "sourceNote": "日本語版Wikipedia『天上の虹』記事(2026-08-02閲覧)で作者・掲載誌(mimi等、講談社)・連載期間(1983-2015年)・既刊巻数(全23巻)・完結を確認。明記された漫画賞の受賞歴は確認できずawardResultsは空とした。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "mimi-dx"
   },
   {
     "id": "onmyouji",
@@ -4393,7 +4520,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/陰陽師_(漫画)"
     },
     "sourceNote": "日本語版Wikipedia『陰陽師(漫画)』記事(2026-08-02閲覧)で原作(夢枕獏)・作画(岡野玲子)・掲載誌の変遷(コミックバーガー等→月刊メロディ、白泉社)・連載期間(1993-2005年)・既刊巻数(全13巻)・完結を確認。第37回星雲賞コミック部門(2006年)受賞の記録はあるが、本サイトが採用する賞リストに含まれないため未記載。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "comic-burger"
   },
   {
     "id": "shigurui",
@@ -4424,7 +4552,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/シグルイ"
     },
     "sourceNote": "日本語版Wikipedia『シグルイ』記事(2026-08-02閲覧)で原作(南條範夫『駿河城御前試合』)・作画(山口貴由)・掲載誌(チャンピオンRED、秋田書店)・連載期間(2003-2010年)・既刊巻数(チャンピオンREDコミックス全15巻)・完結・2007年アニメ化(WOWOW)を確認。明記された漫画賞の受賞歴は確認できずawardResultsは空とした。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "champion-red"
   },
   {
     "id": "kaze-hikaru",
@@ -4456,7 +4585,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/風光る_(渡辺多恵子の漫画)"
     },
     "sourceNote": "日本語版Wikipedia『風光る(渡辺多恵子の漫画)』記事(2026-08-02閲覧)で作者・掲載誌(別冊少女コミック→月刊フラワーズ、小学館)・連載期間(1997-2020年)・既刊巻数(全45巻)・完結・第48回小学館漫画賞少女向け部門受賞(2002年)を確認。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "bessatsu-shojo-comic"
   },
   {
     "id": "asaki-yume-mishi",
@@ -4482,7 +4612,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/あさきゆめみし"
     },
     "sourceNote": "日本語版Wikipedia『あさきゆめみし』記事(2026-08-02閲覧)で作者(大和和紀)・掲載誌(mimi等、講談社)・連載期間(1979-1993年)・既刊巻数(全13巻)・完結を確認。原作は紀元11世紀の古典『源氏物語』(紫式部)であり、本サイトのoriginalAuthorIdsが想定する「コミカライズ元の原作者」の枠組み(現代の小説・ゲーム等)には該当しない古典の翻案作品と判断し、大和和紀によるオリジナル脚色作品としてoriginalAuthorIdsは空配列とした。明記された漫画賞の受賞歴は確認できずawardResultsは空とした。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "mimi"
   },
   {
     "id": "imawa-no-kuni-no-alice",
@@ -4513,7 +4644,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/今際の国のアリス"
     },
     "sourceNote": "日本語版Wikipedia『今際の国のアリス』記事(2026-08-02閲覧)で連載期間(週刊少年サンデーS/週刊少年サンデー、2010年12月号～2016年14号)・全18巻・完結・出版社(小学館)を確認。あらすじは同記事の事実関係を独自要約(コピペなし)。このマンガがすごい!等の受賞歴は確認できず空配列とした。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-sunday-s"
   },
   {
     "id": "ousama-game",
@@ -4542,7 +4674,8 @@
     },
     "externalLinks": {},
     "sourceNote": "原作は日本語版Wikipedia『王様ゲーム(小説)』記事(2026-08-02閲覧)で確認。漫画版(連打一人作画、双葉社アクションコミックス、全5巻完結)は同作の日本語版Wikipediaに独立記事がなかったため、BOOK☆WALKER・ebookjapan等の電子書店書誌情報および連打一人の日本語版Wikipedia記事(2026-08-02閲覧)で作画者・出版社・巻数・完結状況を確認。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "everystar-premium"
   },
   {
     "id": "btooom",
@@ -4572,7 +4705,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/BTOOOM!"
     },
     "sourceNote": "日本語版Wikipedia『BTOOOM!』記事および井上淳哉の日本語版Wikipedia記事(いずれも2026-08-02閲覧)で連載期間(週刊コミックバンチ→月刊コミック@バンチ、2009年～2018年)・全26巻・完結・出版社(新潮社)を確認。あらすじは独自要約。スピンオフ『BTOOOM! U-18』は別作品のため巻数に含めていない。受賞歴は確認できず空配列とした。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "weekly-comic-bunch"
   },
   {
     "id": "limit",
@@ -4597,7 +4731,8 @@
     "awardResults": [],
     "externalLinks": {},
     "sourceNote": "すえのぶけいこの日本語版Wikipedia記事(2026-08-02閲覧)で『別冊フレンド』2009年11月号より連載開始したことを確認。連載期間(2009年10月～2011年9月)・全6巻・完結・出版社(講談社)は電子書店の書誌情報(2026-08-02閲覧)で確認。あらすじは独自要約。受賞歴は確認できず空配列とした。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "bessatsu-friend"
   },
   {
     "id": "kamisama-no-iutoori",
@@ -4626,7 +4761,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/神さまの言うとおり"
     },
     "sourceNote": "日本語版Wikipedia『神さまの言うとおり』記事(2026-08-02閲覧)で連載誌(別冊少年マガジン)・連載期間(2011年3月～2012年11月)・全5巻・完結・原作(金城宗幸、既存id kaneshiro-muneyukiを再利用)・作画(藤村緋二)・出版社(講談社)を確認。あらすじは独自要約。続編『神さまの言うとおり弐』(2013年～2017年、週刊少年マガジン)は別タイトルのため本エントリの巻数・期間には含めていない。受賞歴は確認できず空配列とした。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "bessatsu-shonen-magazine"
   },
   {
     "id": "mirai-nikki",
@@ -4662,7 +4798,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/未来日記_(漫画)"
     },
     "sourceNote": "日本語版Wikipedia『未来日記(漫画)』記事(2026-08-02閲覧)で連載期間(月刊少年エース、2006年3月号～2011年2月号)・本編全12巻・完結・出版社(角川書店)・第32回講談社漫画賞少年部門候補であることを確認。あらすじは独自要約。外伝(全3巻)は本編と別カウントのため巻数に含めていない。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-ace"
   },
   {
     "id": "deadman-wonderland",
@@ -4693,7 +4830,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/デッドマン・ワンダーランド"
     },
     "sourceNote": "日本語版Wikipedia『デッドマン・ワンダーランド』記事(2026-08-02閲覧)で連載期間(月刊少年エース、2007年4月26日～2013年7月26日)・全13巻・完結・出版社(角川書店)を確認。片岡人生・近藤一馬による共作であることは同記事および両名の日本語版Wikipedia記事で確認したが、原作/作画の役割分担を明記した情報源が見当たらなかったため、原作者ID空・両名を作画(artistIds)として登録した。あらすじは独自要約。受賞歴は確認できず空配列とした。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-ace"
   },
   {
     "id": "jinrou-game",
@@ -4719,7 +4857,8 @@
     "awardResults": [],
     "externalLinks": {},
     "sourceNote": "川上亮のホラー小説『人狼ゲーム』シリーズのコミカライズ版。原作は日本語版Wikipedia『人狼ゲーム(小説)』記事で確認したが、漫画版自体には独立記事がなかったため、竹書房公式サイト・BOOK☆WALKER等の電子書店書誌情報(いずれも2026-08-02閲覧)で作画(小独活)・連載誌(月刊キスカ)・連載期間(2014年2月号～2015年7月号)・全3巻・完結・出版社(竹書房)を確認。あらすじは独自要約。同シリーズの他タイトル(クレイジーフォックス等)は別作品のため対象外とした。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "monthly-kissca"
   },
   {
     "id": "doubt",
@@ -4746,7 +4885,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/Doubt_(漫画)"
     },
     "sourceNote": "日本語版Wikipedia『Doubt(漫画)』記事(2026-08-02閲覧)で連載期間(月刊少年ガンガン、2007年8月号～2009年3月号)・全4巻・完結・出版社(スクウェア・エニックス)・オリジナル作品(原作・作画とも外海良基本人)であることを確認。あらすじは独自要約。受賞歴は確認できず空配列とした。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "gangan-monthly"
   },
   {
     "id": "judge",
@@ -4773,7 +4913,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/JUDGE_(漫画)"
     },
     "sourceNote": "日本語版Wikipedia『JUDGE(漫画)』記事(2026-08-02閲覧)で連載期間(月刊少年ガンガン、2010年2月号～2012年9月号)・全6巻・完結・出版社(スクウェア・エニックス)・前作『Doubt』と同じく外海良基によるオリジナル作品であることを確認。あらすじは独自要約。受賞歴は確認できず空配列とした。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "gangan-monthly"
   },
   {
     "id": "karada-sagashi",
@@ -4805,7 +4946,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/カラダ探し"
     },
     "sourceNote": "日本語版Wikipedia『カラダ探し』記事(2026-08-02閲覧)でウェルザードのケータイ小説が原作であること、村瀬克俊による漫画版が少年ジャンプ+で2014年9月26日～2017年12月8日に連載(全17巻、完結)されたことを確認。あらすじは独自要約。派生作品『解』『異』『THE LAST NIGHT』は別タイトルのため対象外とした。受賞歴は確認できず空配列とした。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonenjump-plus"
   },
   {
     "id": "alive-saishu-shinkateki-shonen",
@@ -4834,7 +4976,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/アライブ-最終進化的少年-"
     },
     "sourceNote": "日本語版Wikipedia『アライブ-最終進化的少年-』記事(2026-08-02閲覧)で連載誌(月刊少年マガジン)・連載期間(2003年5月号～2010年3月号)・全21巻・完結・出版社(講談社)・原作(河島正)・作画(あだちとか)を確認。作画のあだちとかは既存artists.jsonの『フェアリーテイル』作画id(adachitoka)と同一人物であることを確認し、新規id作成を避けて再利用した。あらすじは独自要約。受賞歴は確認できず空配列とした。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "monthly-shonen-magazine"
   },
   {
     "id": "real-account",
@@ -4863,7 +5006,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/リアルアカウント"
     },
     "sourceNote": "日本語版Wikipedia『リアルアカウント』記事(2026-08-02閲覧)で連載期間(別冊少年マガジン→週刊少年マガジン→別冊少年マガジン、2014年2月号～2019年12月号)・全24巻・完結・出版社(講談社)・原作(オクショウ)・作画(渡辺静)を確認。あらすじは独自要約。受賞歴は確認できず空配列とした。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "bessatsu-shonen-magazine"
   },
   {
     "id": "beck",
@@ -4899,7 +5043,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/BECK_(漫画)"
     },
     "sourceNote": "日本語版Wikipedia『BECK』(曖昧さ回避)および『BECK (漫画)』記事(2026-08-02閲覧)で作者・掲載誌・連載期間(1999年～2008年、全34巻)・受賞歴・アニメ化/実写映画化を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "monthly-shonen-magazine"
   },
   {
     "id": "shigatsu-wa-kimi-no-uso",
@@ -4940,7 +5085,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/四月は君の嘘"
     },
     "sourceNote": "日本語版Wikipedia『四月は君の嘘』記事(2026-08-02閲覧)で作者・掲載誌・連載期間(2011年5月号～2015年3月号、全11巻)・受賞歴・メディアミックスを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "monthly-shonen-magazine"
   },
   {
     "id": "sakamichi-no-apollon",
@@ -4982,7 +5128,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/坂道のアポロン"
     },
     "sourceNote": "日本語版Wikipedia『坂道のアポロン』記事、およびWeb検索結果(小学館コミック公式ニュース等、2026-08-02閲覧)で作者・掲載誌・連載期間(2007年11月号～2012年3月号、本編全9巻+番外編1巻)・受賞歴・メディアミックスを確認。volumeCountは番外編を含まない本編巻数。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "flowers"
   },
   {
     "id": "mashiro-no-oto",
@@ -5023,7 +5170,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ましろのおと"
     },
     "sourceNote": "日本語版Wikipedia『ましろのおと』記事(2026-08-02閲覧)で作者・掲載誌・連載期間(2010年5月号～2022年9月号、全31巻)・受賞歴・メディアミックスを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "monthly-shonen-magazine"
   },
   {
     "id": "kono-oto-tomare",
@@ -5052,7 +5200,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/この音とまれ!"
     },
     "sourceNote": "日本語版Wikipedia『この音とまれ!』記事(2026-08-02閲覧)で作者・掲載誌・連載開始年(2012年、ジャンプスクエア)・既刊巻数(2026年6月時点34巻、連載中)・アニメ化を確認。第72回文化庁芸術祭賞(レコード部門)はアニメ主題歌CDに対する受賞でありコミック本体の受賞ではないため、本DBの方針(アニメ版のみ対象の賞は対象外)によりawardResultsには含めない。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "jump-sq"
   },
   {
     "id": "ao-no-orchestra",
@@ -5087,7 +5236,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/青のオーケストラ"
     },
     "sourceNote": "日本語版Wikipedia『青のオーケストラ』記事(2026-08-02閲覧)で作者・掲載誌(マンガワン/裏サンデー)・連載開始年(2017年)・既刊巻数(2026年4月時点15巻、連載中)・受賞歴・メディアミックスを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "manga-one"
   },
   {
     "id": "hachimitsu-to-clover",
@@ -5134,7 +5284,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ハチミツとクローバー"
     },
     "sourceNote": "日本語版Wikipedia『ハチミツとクローバー』記事(2026-08-02閲覧)で作者(羽海野チカ、既存artist idのhaneno-chikaを再利用)・掲載誌・連載期間(2000年4月～2006年7月、全10巻)・受賞歴・メディアミックスを確認。novelizationは記事上未確認のためfalseと明記。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "cutie-comic"
   },
   {
     "id": "genshiken",
@@ -5176,7 +5327,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/げんしけん"
     },
     "sourceNote": "日本語版Wikipedia『げんしけん』記事(2026-08-02閲覧)で作者・掲載誌(月刊アフタヌーン)・連載期間(第1期2002年～2006年、二代目2010年～2016年、合計全21巻)・2005年講談社漫画賞/文化庁メディア芸術祭ノミネート・メディアミックスを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "afternoon"
   },
   {
     "id": "hourou-musuko",
@@ -5216,7 +5368,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/放浪息子"
     },
     "sourceNote": "日本語版Wikipedia『放浪息子』記事(2026-08-02閲覧)で作者・掲載誌(エンターブレイン『コミックビーム』)・連載期間(2002年12月号～2013年8月号、全15巻)・受賞歴・アニメ化を確認。エンターブレインは2013年にKADOKAWAへ吸収合併されKADOKAWAのレーベルブランドとなっているため(Web検索結果、2026-08-02閲覧)、publisherIdは既存のkadokawaを使用。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "comic-beam"
   },
   {
     "id": "koe-no-katachi",
@@ -5263,7 +5416,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/聲の形"
     },
     "sourceNote": "日本語版Wikipedia『聲の形』記事(2026-08-02閲覧)で作者・掲載誌(別冊少年マガジン/週刊少年マガジン)・週刊連載期間(2013年8月～2014年11月、全7巻)・受賞歴・メディアミックスを確認。firstPublishedYearは週刊連載開始年(2013年)を採用し、2008年の読切原型版・2011年掲載の別冊版は本編連載の前身として区別。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-magazine"
   },
   {
     "id": "boku-dake-ga-inai-machi",
@@ -5305,7 +5459,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/僕だけがいない街"
     },
     "sourceNote": "日本語版Wikipedia『僕だけがいない街』記事(2026-08-02閲覧)で作者・掲載誌(ヤングエース)・連載期間(2012年6月～2016年3月、本編全8巻+外伝『Re』1巻)・受賞歴・メディアミックスを確認。volumeCountは外伝を含まない本編巻数。ジャンルとしては音楽・アート要素はないが「青春群像」枠の候補として調査依頼を受けたため、実態に沿いサスペンス・ミステリー・SF系のテーマタグを付与した。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "young-ace"
   },
   {
     "id": "blue-period",
@@ -5345,7 +5500,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ブルーピリオド"
     },
     "sourceNote": "日本語版Wikipedia『ブルーピリオド』記事、およびWeb検索結果(オリコンニュース等、2026-08-02閲覧)で作者・掲載誌(月刊アフタヌーン)・連載開始年(2017年)・既刊巻数(2026年5月時点19巻、連載中)・マンガ大賞2020大賞受賞・講談社漫画賞受賞を確認(ユーザー指定の通り2020年受賞歴を確認できた)。みんなが選ぶTSUTAYAコミック大賞2018ネクストブレイク部門は本DBの既存アワード一覧に該当賞がないため未登録。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "afternoon"
   },
   {
     "id": "eiga-daisuki-pompo-san",
@@ -5384,7 +5540,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/映画大好きポンポさん"
     },
     "sourceNote": "Web検索結果(マンガペディア・BookLive!・KADOKAWA関連ニュース記事等、2026-08-02閲覧、作者の単独Wikipedia記事は未確認)で作者・掲載媒体(pixiv/ジーンピクシブ、KADOKAWA刊)・連載開始年(2017年)・既刊巻数(2024年1月時点8巻、連載中)・受賞歴・劇場アニメ化(2021年)・オリジナル作品であることを確認。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "pixiv"
   },
   {
     "id": "jibaku-shonen-hanako-kun",
@@ -5414,7 +5571,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/地縛少年花子くん"
     },
     "sourceNote": "日本語版Wikipedia『地縛少年花子くん』記事(2026-08-02閲覧)で作者・出版社・連載開始年・既刊巻数(2025年10月時点26巻)を確認。2025年12月号から休載が発表されているためstatusはongoingのまま(未完結)とした。あらすじは独自要約(コピペなし)。明記された受賞歴は確認できず空配列。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "g-fantasy"
   },
   {
     "id": "higurashi-no-naku-koro-ni",
@@ -5447,7 +5605,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ひぐらしのなく頃に"
     },
     "sourceNote": "日本語版Wikipedia『ひぐらしのなく頃に』記事(2026-08-02閲覧)で確認。原作は竜騎士07(07th Expansion)のサウンドノベル。漫画版は出題編・解答編ごとに担当作画が分かれる大型シリーズのため、本エントリでは確認できた最初の2作『鬼隠し編』(作画:鈴羅木かりん、全2巻、2005年〜)と『綿流し編』(作画:方条ゆとり、全2巻)を代表として登録し、volumeCountはこの2作の合計4巻とした。以降の祟殺し編・暇潰し編等や解答編、および続編『巡』『卒』『令』『鬼』等の派生シリーズは範囲外・未登録。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "gangan-powered"
   },
   {
     "id": "umineko-no-naku-koro-ni",
@@ -5479,7 +5638,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/うみねこのなく頃に_episode1_-_Legend_of_the_golden_witch"
     },
     "sourceNote": "日本語版Wikipedia『うみねこのなく頃に episode1 - Legend of the golden witch』記事(2026-08-02閲覧)で確認。原作は竜騎士07(07th Expansion)。漫画版はエピソードごとに担当作画が分かれるシリーズのため、確認できた最初の『Episode1: Legend of the golden witch』(作画:夏海ケイ、ガンガンパワード〜月刊ガンガンJOKER、2008年〜2009年、全4巻)を代表として登録。Episode2以降は別の作画者が担当しており本エントリの範囲外。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "gangan-powered"
   },
   {
     "id": "jigoku-sensei-nube",
@@ -5512,7 +5672,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/地獄先生ぬ〜べ〜"
     },
     "sourceNote": "日本語版Wikipedia『地獄先生ぬ〜べ〜』記事(2026-08-02閲覧)で原作・作画・週刊少年ジャンプでの連載期間(1993年38号〜1999年24号)・巻数(ジャンプコミックス版全31巻)を確認。あらすじは独自要約(コピペなし)。明記された受賞歴は確認できず空配列。続編・スピンオフ多数あるが本エントリは無印(1993-1999)のみを対象。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-jump"
   },
   {
     "id": "shiki",
@@ -5544,7 +5705,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/屍鬼"
     },
     "sourceNote": "日本語版Wikipedia『屍鬼』記事(2026-08-02閲覧)で原作(小野不由美の小説)・作画(藤崎竜)・掲載誌(ジャンプスクエア)・連載期間(2008年1月号〜2011年7月号)・巻数(全11巻)を確認。あらすじは独自要約(コピペなし)。明記された受賞歴は確認できず空配列。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "jump-sq"
   },
   {
     "id": "aku-no-hana",
@@ -5581,7 +5743,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/惡の華"
     },
     "sourceNote": "日本語版Wikipedia『惡の華』記事(2026-08-02閲覧)で作者・掲載誌(別冊少年マガジン)・連載期間(2009年10月〜2014年6月)・巻数(全11巻)・「このマンガがすごい!2011」オトコ編10位を確認。あらすじは独自要約(コピペなし)。オリジナル作品のためoriginalAuthorIdsは空配列。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "bessatsu-shonen-magazine"
   },
   {
     "id": "fuan-no-tane",
@@ -5610,7 +5773,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/不安の種"
     },
     "sourceNote": "日本語版Wikipedia『不安の種』記事(2026-08-02閲覧)で確認。秋田書店の『チャンピオンRED』『週刊少年チャンピオン』誌上で『不安の種』(2002-2005、全3巻)→『不安の種+』(2007-2008、全4巻)→『不安の種*』(2019年〜連載中、2026年3月時点全10巻)と改題しながら継続。volumeCountは3作合計17巻とし、statusは現行作が連載中のためongoingとした。あらすじは独自要約(コピペなし)。映画化された実写版はあるが漫画自体の受賞歴は確認できず空配列。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "champion-red"
   },
   {
     "id": "platinum-end",
@@ -5643,7 +5807,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/プラチナエンド"
     },
     "sourceNote": "日本語版Wikipedia『プラチナエンド』記事(2026-08-02閲覧)で原作・作画・掲載誌(ジャンプSQ.)・連載期間(2015年12月〜2021年2月)・巻数(全14巻)を確認。原作者・作画家とも既存id(oba-tsugumi/obata-takeshi、DEATH NOTEで登録済み)を再利用し新規登録なし。あらすじは独自要約(コピペなし)。明記された受賞歴は確認できず空配列。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "jump-sq"
   },
   {
     "id": "jagaan",
@@ -5676,7 +5841,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ジャガーン"
     },
     "sourceNote": "日本語版Wikipedia『ジャガーン』記事(2026-08-02閲覧)で原作・作画・掲載誌(ビッグコミックスピリッツ)・連載期間(2017年10号〜2021年49号)・巻数(全14巻)を確認。原作者は既存id kaneshiro-muneyukiを再利用(新規登録なし)。あらすじは独自要約(コピペなし)。明記された受賞歴は確認できず空配列。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "big-comic-spirits"
   },
   {
     "id": "ghost-hunt",
@@ -5708,7 +5874,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/悪霊シリーズ"
     },
     "sourceNote": "日本語版Wikipedia『悪霊シリーズ』記事・講談社なかよし公式サイト・電子書店書誌情報(2026-08-02閲覧)で確認。小野不由美の小説「悪霊シリーズ」を原作に、いなだ詩穂が1998年より『Amie』『なかよし』誌で漫画化(全12巻完結)。原作者は屍鬼と同一人物のためono-fuyumiを本バッチ内で再利用(重複新規登録なし)。あらすじは独自要約(コピペなし)。明記された受賞歴は確認できず空配列。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "amie"
   },
   {
     "id": "kasane",
@@ -5749,7 +5916,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/累"
     },
     "sourceNote": "日本語版Wikipedia『累』記事(2026-08-02閲覧)で作者・掲載誌(イブニング)・連載期間(2013年10月号〜2018年17号)・巻数(全14巻)・第39回講談社漫画賞一般部門ノミネート・マンガ大賞2015 10位を確認。あらすじは独自要約(コピペなし)。オリジナル作品のためoriginalAuthorIdsは空配列。「次にくるマンガ大賞」「全国書店員が選んだおすすめコミック」等、既存パレット外の賞は未登録。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "evening"
   },
   {
     "id": "ring",
@@ -5780,7 +5948,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/リング_(鈴木光司の小説)"
     },
     "sourceNote": "日本語版Wikipedia『リング(鈴木光司の小説)』記事、講談社コミックプラス公式サイト・書誌情報サイト(2026-08-02閲覧)で確認。原作は鈴木光司の小説、漫画作画は永井幸二郎。『月刊少年マガジン増刊GREAT』1995年4月号・7月号・9月号に分載され単行本1巻にまとめられた(講談社漫画文庫版含む)。あらすじは独自要約(コピペなし)。明記された受賞歴は確認できず空配列。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "monthly-shonen-magazine"
   },
   {
     "id": "tomie",
@@ -5809,7 +5978,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/富江"
     },
     "sourceNote": "日本語版Wikipedia『富江』記事(2026-08-02閲覧)で確認。『月刊ハロウィン』(朝日ソノラマ)の第1回楳図かずお賞佳作入選作としてデビューし、1987年〜2000年に同誌・『ネムキ』等で断続連載。単行本は『伊藤潤二傑作集』(朝日新聞出版)全2巻(上・下)。作画家は既存id ito-junji(うずまき登録済み)を再利用、オリジナル作品のためoriginalAuthorIdsは空配列。楳図かずお賞は既存賞パレット外のため受賞歴には未登録(空配列)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "gekkan-halloween"
   },
   {
     "id": "kinou-nani-tabeta",
@@ -5843,7 +6013,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/きのう何食べた?"
     },
     "sourceNote": "日本語版Wikipedia『きのう何食べた?』記事(2026-08-02閲覧)で作者(よしながふみ、オリジナル作品)・モーニング(講談社)にて2007年12号から連載中・既刊25巻(2026年2月時点)・第43回講談社漫画賞一般部門受賞(2019年)を確認。テレビアニメ化はされておらず実写ドラマ(2019年・2023年)・映画化(2021年)のみであることも確認したためmediaMix.anime:falseとした。『芸術選奨文部科学大臣新人賞』(2022年)受賞の記載もあったが本DBの登録対象賞リストにある文化庁メディア芸術祭とは別の賞のため不採用。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "morning"
   },
   {
     "id": "shirokuma-cafe",
@@ -5870,7 +6041,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/しろくまカフェ"
     },
     "sourceNote": "日本語版Wikipedia『しろくまカフェ』記事(2026-08-02閲覧)で作者(ヒガアロハ、オリジナル作品、本作がデビュー作)・月刊flowers(小学館)にて2006年4月号〜2013年5月号連載・テレビアニメ化(2012年〜2013年、全50話)を確認。2014年9月からCocohana(集英社)にて続編『しろくまカフェ today's special』が別題で連載中だが本エントリとは別作品として扱い、元連載終了時点(2013年)をlatestPublishedYearとしstatus:completedとした。作品自体の漫画賞受賞は確認できず(2006年の『コミックオーディション銀の花賞』はデビュー新人賞のため本DB対象外)、awardResultsは空欄。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "flowers"
   },
   {
     "id": "yuru-camp",
@@ -5898,7 +6070,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゆるキャン△"
     },
     "sourceNote": "日本語版Wikipedia『ゆるキャン△』記事(2026-08-02閲覧)で作者(あfろ、オリジナル作品)・まんがタイムきららフォワード(芳文社)にて2015年開始、2019年からはCOMIC FUZ(Web)に移行して連載中・既刊18巻(2025年11月時点)・テレビアニメ化(複数シーズン)を確認。一部情報源に『マンガ大賞2018』受賞との記載があったが、日本語版Wikipedia『マンガ大賞』記事の第1回〜第19回の受賞・ノミネート全リストを確認したところ『ゆるキャン△』は一切登場せず誤情報と判断し不採用とした(awardResultsは空欄)。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "manga-time-kirara-forward"
   },
   {
     "id": "asobi-asobase",
@@ -5927,7 +6100,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/あそびあそばせ"
     },
     "sourceNote": "日本語版Wikipedia『あそびあそばせ』記事(2026-08-02閲覧)で作者(涼川りん、オリジナル作品)・ヤングアニマル系列(白泉社)にて2015年5月〜2022年11月連載・全15巻完結・テレビアニメ化(2018年、全12話+OVA3話)を確認。作品自体の漫画賞受賞の記載は見当たらずawardResultsは空欄。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "young-animal-densi"
   },
   {
     "id": "yowamushi-pedal",
@@ -5959,7 +6133,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/弱虫ペダル"
     },
     "sourceNote": "日本語版Wikipedia『弱虫ペダル』記事(2026-08-02閲覧)で作者(渡辺航、オリジナル作品)・週刊少年チャンピオン(秋田書店)にて2008年12号から連載中・第39回講談社漫画賞少年部門受賞(2015年、秋田書店作品としては1977年『ブラック・ジャック』以来の受賞と記事に記載)・テレビアニメ化を確認。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-champion"
   },
   {
     "id": "high-score-girl",
@@ -5993,7 +6168,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ハイスコアガール"
     },
     "sourceNote": "日本語版Wikipedia『ハイスコアガール』記事(2026-08-02閲覧)で作者(押切蓮介、オリジナル作品)・増刊ヤングガンガン等(スクウェア・エニックス)にて2010年〜2018年連載・完結・『このマンガがすごい!2013』オトコ編2位・テレビアニメ化(2018年・2019年、Netflix配信あり)を確認。2012年『ブロスコミックアワード』大賞の情報もあったが本DB対象賞リストにないため不採用。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "young-gangan-zokan"
   },
   {
     "id": "relife",
@@ -6029,7 +6205,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ReLIFE"
     },
     "sourceNote": "日本語版Wikipedia『ReLIFE』記事(2026-08-02閲覧)で作者(夜宵草、オリジナル作品)・スマホ漫画アプリcomicoにて2013年10月〜2018年3月連載・単行本(アース・スターコミックス)全15巻・第39回講談社漫画賞一般部門ノミネート(2015年、受賞は逃す)・テレビアニメ化(2016年7月〜9月、全13話+OVA4話)を確認。出版社『アース・スター エンターテイメント』は本DB初登録のためnewPublishersに追加。comicoはWeb漫画プラットフォームとして本DBのWebComicPlatform型に未実装のためwebComicSourceは設定せず。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "comico"
   },
   {
     "id": "domestic-na-kanojo",
@@ -6058,7 +6235,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ドメスティックな彼女"
     },
     "sourceNote": "日本語版Wikipedia『ドメスティックな彼女』記事(2026-08-02閲覧)で作者(流石景、オリジナル作品)・週刊少年マガジン(講談社)にて2014年4月〜2020年6月連載・全28巻完結・累計発行部数500万部突破・テレビアニメ化(2019年1月〜3月、全12話)を確認。作品自体の漫画賞受賞の記載は見当たらずawardResultsは空欄。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-magazine"
   },
   {
     "id": "ao-no-hako",
@@ -6086,7 +6264,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/アオのハコ"
     },
     "sourceNote": "日本語版Wikipedia『アオのハコ』記事およびWeb検索(2026-08-02閲覧)で作者(三浦糀、オリジナル作品)・週刊少年ジャンプ(集英社、少年ジャンプ+ではなく紙の本誌)にて2020年35号の読切掲載を経て2021年19号から連載開始・2026年33号で完結・テレビアニメ化(クランチロール・アニメアワード2025でBest Romance Work受賞)を確認。連載媒体が少年ジャンプ+ではないためwebComicSourceは設定せず。『次にくるマンガ大賞』『TSUTAYAコミック大賞』『三洋堂書店コミックアワード』はいずれも本DB未登録の賞のため不採用。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-jump"
   },
   {
     "id": "akagi",
@@ -6114,7 +6293,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/アカギ_(漫画)"
     },
     "sourceNote": "日本語版Wikipedia『アカギ〜闇に降り立った天才〜』記事(2026-08-02閲覧)で作者(福本伸行、既存artist id『fukumoto-nobuyuki』を再利用、オリジナル作品)・近代麻雀(竹書房)にて1992年4月〜2018年3月連載・全36巻完結・テレビアニメ化(2005年〜2006年『闘牌伝説アカギ』全26話)を確認。出版社『竹書房』・テーマ『gambling』は並行実行中の他バッチで既に本DBに追加済みのため既存idをそのまま再利用した。『賭博黙示録カイジ』と同一作者だが別作品として新規登録し、原作者・作画家の重複登録はしていない。作品自体の漫画賞受賞の記載は見当たらずawardResultsは空欄。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "kindai-mahjong"
   },
   {
     "id": "saki",
@@ -6142,7 +6322,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/咲-Saki-"
     },
     "sourceNote": "日本語版Wikipedia『咲-Saki-』記事(2026-08-02閲覧)で作者(小林立、オリジナル作品)・ヤングガンガン(スクウェア・エニックス)にて2006年開始、既刊27巻(2026年3月時点)で連載中・テレビアニメ化(2009年本編、2012年『阿知賀編』、2014年『全国編』)を確認。作品本編の漫画賞・ランキング受賞(実写映画ランキング等ではなく)の記載は見当たらずawardResultsは空欄。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "young-gangan"
   },
   {
     "id": "meshi-ni-shimashou",
@@ -6171,7 +6352,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/めしにしましょう"
     },
     "sourceNote": "日本語版Wikipedia『めしにしましょう』記事(2026-08-02閲覧)で作者(小林銅蟲、オリジナル作品、商業連載デビュー作)・イブニング(講談社)にて2016年6月〜2019年6月連載・全8巻・全80話完結を確認。テレビアニメ化の記載はなくmediaMix.anime:falseとした。作品自体の受賞歴の記載は見当たらずawardResultsは空欄。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "evening"
   },
   {
     "id": "ousama-tachi-no-viking",
@@ -6212,7 +6394,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/王様達のヴァイキング"
     },
     "sourceNote": "日本語版Wikipedia『王様達のヴァイキング』記事(2026-08-02閲覧)で作画:さだやす/ストーリー協力:深見真というクレジット・ビッグコミックスピリッツ(小学館)にて2013年14号〜2019年39号連載・全19巻完結・第18回文化庁メディア芸術祭マンガ部門審査委員会推薦作品を確認。深見真は単行本上『ストーリー協力』表記だが作画者と別人の原作担当者であるためoriginalAuthorIdsに計上し新規登録(fukami-makoto)。日本語版Wikipedia『マンガ大賞』記事(2026-08-02閲覧)で第8回(2015年)マンガ大賞のノミネート作品(35P、上位10作品相当)として掲載されていることも確認した。賞『manga-taisho』は並行実行中の他バッチで既に本DBに追加済みのため既存idをそのまま再利用した。テレビアニメ化の記載はなく(映像化はdTVムービーコミックのみ)mediaMix.anime:falseとした。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "big-comic-spirits"
   },
   {
     "id": "hachiwan-diver",
@@ -6246,6 +6429,7 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ハチワンダイバー"
     },
     "sourceNote": "日本語版Wikipedia『ハチワンダイバー』記事(2026-08-02閲覧)で作者(柴田ヨクサル、オリジナル作品)・週刊ヤングジャンプ(集英社)にて2006年41号〜2014年33号連載・全35巻・全375話完結・『このマンガがすごい!2008』オトコ編1位を確認。テレビアニメ化はされておらずテレビドラマ化(2008年、フジテレビ)・ゲーム化・パチンコ化のみであることを確認したためmediaMix.anime:falseとした。指示に従いテーマはgamblingではなくsuspense-psychologicalを付与。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "labelId": "young-jump"
   }
 ]

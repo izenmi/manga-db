@@ -17,6 +17,7 @@ const works = readSource("works");
 const originalAuthors = readSource("original-authors");
 const artists = readSource("artists");
 const publishers = readSource("publishers");
+const labels = readSource("labels");
 const themes = readSource("themes");
 const awards = readSource("awards");
 
@@ -29,6 +30,7 @@ const coversCache = existsSync(coversCachePath) ? JSON.parse(readFileSync(covers
 const originalAuthorsById = new Map(originalAuthors.map((a) => [a.id, a]));
 const artistsById = new Map(artists.map((a) => [a.id, a]));
 const publishersById = new Map(publishers.map((p) => [p.id, p]));
+const labelsById = new Map(labels.map((l) => [l.id, l]));
 const themesById = new Map(themes.map((t) => [t.id, t]));
 const awardsById = new Map(awards.map((a) => [a.id, a]));
 
@@ -43,6 +45,7 @@ for (const w of works) {
   w.originalAuthorIds.forEach((id) => checkRef(originalAuthorsById, id, "originalAuthor", w.id));
   w.artistIds.forEach((id) => checkRef(artistsById, id, "artist", w.id));
   checkRef(publishersById, w.publisherId, "publisher", w.id);
+  checkRef(labelsById, w.labelId, "label", w.id);
   w.themeIds.forEach((id) => checkRef(themesById, id, "theme", w.id));
   (w.awardResults ?? []).forEach((r) => checkRef(awardsById, r.awardId, "award", w.id));
 }
@@ -52,10 +55,15 @@ for (const w of works) {
   if (workIds.has(w.id)) errors.push(`duplicate work id "${w.id}"`);
   workIds.add(w.id);
 }
+for (const l of labels) {
+  checkRef(publishersById, l.publisherId, "publisher", `label:${l.id}`);
+}
+
 for (const [label, list] of [
   ["originalAuthor", originalAuthors],
   ["artist", artists],
   ["publisher", publishers],
+  ["label", labels],
   ["theme", themes],
   ["award", awards],
 ]) {
@@ -78,6 +86,7 @@ const worksGenerated = works.map((w) => ({
   originalAuthorNames: w.originalAuthorIds.map((id) => originalAuthorsById.get(id).name),
   artistNames: w.artistIds.map((id) => artistsById.get(id).name),
   publisherName: publishersById.get(w.publisherId).name,
+  labelName: labelsById.get(w.labelId).name,
   themeNames: w.themeIds.map((id) => themesById.get(id).name),
   awardSummaries: (w.awardResults ?? []).map((r) => ({
     awardId: r.awardId,
@@ -132,6 +141,7 @@ const publishersGenerated = buildPersonList(
   publishers,
   groupWorksBy((w) => [w.publisherId])
 );
+const labelsGenerated = buildPersonList(labels, groupWorksBy((w) => [w.labelId]));
 
 // ---- generated/themes.json ----
 const worksByTheme = groupWorksBy((w) => w.themeIds);
@@ -167,6 +177,7 @@ const counts = {
   originalAuthors: originalAuthors.length,
   artists: artists.length,
   publishers: publishers.length,
+  labels: labels.length,
   themes: themes.length,
   awards: awards.length,
 };
@@ -176,12 +187,13 @@ writeFileSync(path.join(outDir, "works.json"), JSON.stringify(worksGenerated), "
 writeFileSync(path.join(outDir, "original-authors.json"), JSON.stringify(originalAuthorsGenerated), "utf-8");
 writeFileSync(path.join(outDir, "artists.json"), JSON.stringify(artistsGenerated), "utf-8");
 writeFileSync(path.join(outDir, "publishers.json"), JSON.stringify(publishersGenerated), "utf-8");
+writeFileSync(path.join(outDir, "labels.json"), JSON.stringify(labelsGenerated), "utf-8");
 writeFileSync(path.join(outDir, "themes.json"), JSON.stringify(themesGenerated), "utf-8");
 writeFileSync(path.join(outDir, "awards.json"), JSON.stringify(awardsGenerated), "utf-8");
 writeFileSync(path.join(outDir, "counts.json"), JSON.stringify(counts), "utf-8");
 
 console.log(
-  `generate-manifest: wrote ${works.length} works, ${originalAuthors.length} original authors, ${artists.length} artists, ${publishers.length} publishers, ${themes.length} themes, ${awards.length} awards`
+  `generate-manifest: wrote ${works.length} works, ${originalAuthors.length} original authors, ${artists.length} artists, ${publishers.length} publishers, ${labels.length} labels, ${themes.length} themes, ${awards.length} awards`
 );
 
 // ---- sitemap.xml ----
@@ -204,8 +216,8 @@ const sitemapEntries = [
   ...originalAuthors.map((a) => urlEntry(`/original-authors/${a.id}`, a.updatedAt?.slice(0, 10))),
   urlEntry("/artists"),
   ...artists.map((a) => urlEntry(`/artists/${a.id}`, a.updatedAt?.slice(0, 10))),
-  urlEntry("/publishers"),
-  ...publishers.map((p) => urlEntry(`/publishers/${p.id}`, p.updatedAt?.slice(0, 10))),
+  urlEntry("/labels"),
+  ...labels.map((l) => urlEntry(`/labels/${l.id}`, l.updatedAt?.slice(0, 10))),
   urlEntry("/awards"),
   ...awards.map((a) => urlEntry(`/awards/${a.id}`, a.updatedAt?.slice(0, 10))),
   urlEntry("/about"),

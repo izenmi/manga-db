@@ -1,11 +1,11 @@
 import type { PersonOrPublisherGenerated } from "../../types";
-import { getOriginalAuthors, getArtists, getPublishers } from "../../data/manifest";
+import { getOriginalAuthors, getArtists, getLabels } from "../../data/manifest";
 import { useAsyncData } from "./useAsyncData";
 import { Loading, ErrorState } from "./Status";
 import { EntityList } from "./EntityList";
 import { useSeo } from "./useSeo";
 
-export type PersonKind = "originalAuthor" | "artist" | "publisher";
+export type PersonKind = "originalAuthor" | "artist" | "label";
 
 const CONFIG: Record<
   PersonKind,
@@ -18,11 +18,11 @@ const CONFIG: Record<
     descriptionNoun: "原作者",
   },
   artist: { title: "作画家一覧", pathPrefix: "/artists", fetcher: getArtists, descriptionNoun: "作画家" },
-  publisher: {
-    title: "出版社(レーベル)一覧",
-    pathPrefix: "/publishers",
-    fetcher: getPublishers,
-    descriptionNoun: "出版社(レーベル)",
+  label: {
+    title: "レーベル一覧",
+    pathPrefix: "/labels",
+    fetcher: getLabels,
+    descriptionNoun: "レーベル",
   },
 };
 

@@ -28,6 +28,7 @@ export const getWorks = () => fetchJson<WorkGenerated[]>("works.json");
 export const getOriginalAuthors = () => fetchJson<PersonOrPublisherGenerated[]>("original-authors.json");
 export const getArtists = () => fetchJson<PersonOrPublisherGenerated[]>("artists.json");
 export const getPublishers = () => fetchJson<PersonOrPublisherGenerated[]>("publishers.json");
+export const getLabels = () => fetchJson<PersonOrPublisherGenerated[]>("labels.json");
 export const getThemes = () => fetchJson<ThemeGenerated[]>("themes.json");
 export const getAwards = () => fetchJson<AwardGenerated[]>("awards.json");
 export const getCounts = () => fetchJson<Counts>("counts.json");
@@ -50,6 +51,11 @@ export async function getArtist(artistId: string): Promise<PersonOrPublisherGene
 export async function getPublisher(publisherId: string): Promise<PersonOrPublisherGenerated | undefined> {
   const publishers = await getPublishers();
   return publishers.find((p) => p.id === publisherId);
+}
+
+export async function getLabel(labelId: string): Promise<PersonOrPublisherGenerated | undefined> {
+  const labels = await getLabels();
+  return labels.find((l) => l.id === labelId);
 }
 
 export async function getTheme(themeId: string): Promise<ThemeGenerated | undefined> {

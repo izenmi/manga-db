@@ -192,5 +192,38 @@
     },
     "sourceNote": "Web検索でアース・スター エンターテイメント公式サイト・Wikipedia情報(2026-08-02閲覧)により2006年設立、2010年12月創刊の『コミック アース・スター』が出版事業の中心であることを確認。『ReLIFE』はcomicoアプリ発の作品で単行本はアース・スターコミックスレーベルから刊行。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "pixiv",
+    "name": "ピクシブ",
+    "nameKana": "ぴくしぶ",
+    "description": "イラスト・漫画投稿サイト「pixiv」を運営するピクシブ株式会社。個人創作のWeb漫画・イラスト投稿プラットフォームとして利用される。",
+    "foundedYear": 2005,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Pixiv"
+    },
+    "sourceNote": "日本語版Wikipedia『pixiv』記事(2026-08-02閲覧)で設立年・事業内容を確認。作品(映画大好きポンポさん)のpixiv投稿という掲載形態に対応するレーベルの発行元として登録。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "scholar",
+    "name": "スコラ",
+    "nameKana": "すこら",
+    "description": "『コミックバーガー』等を発行していたが1996年に倒産した出版社。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『陰陽師(漫画)』記事(2026-08-02閲覧)の掲載誌情報より、初出誌『コミックバーガー』の発行元として存在を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "takarajimasha",
+    "name": "宝島社",
+    "nameKana": "たからじましゃ",
+    "description": "雑誌・書籍を発行する出版社。ファッション誌『CUTiE』のコミック版『CUTiEcomic』等を発行していた。",
+    "foundedYear": 1988,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/宝島社"
+    },
+    "sourceNote": "日本語版Wikipedia『ハチミツとクローバー』記事(2026-08-02閲覧)の掲載誌情報より、初出誌『CUTiEcomic』の発行元として存在を確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

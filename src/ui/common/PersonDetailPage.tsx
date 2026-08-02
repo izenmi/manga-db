@@ -1,5 +1,5 @@
 import { useParams } from "react-router-dom";
-import { getOriginalAuthor, getArtist, getPublisher } from "../../data/manifest";
+import { getOriginalAuthor, getArtist, getLabel } from "../../data/manifest";
 import { useAsyncData } from "./useAsyncData";
 import { Loading, ErrorState, EmptyState } from "./Status";
 import { WorkCard } from "./WorkCard";
@@ -9,13 +9,13 @@ import { BASE_PATH, breadcrumbJsonLd, useSeo } from "./useSeo";
 const FETCHER: Record<PersonKind, (id: string) => ReturnType<typeof getOriginalAuthor>> = {
   originalAuthor: getOriginalAuthor,
   artist: getArtist,
-  publisher: getPublisher,
+  label: getLabel,
 };
 
 const LIST_INFO: Record<PersonKind, { pathPrefix: string; listName: string; schemaType: string; noun: string }> = {
   originalAuthor: { pathPrefix: "/original-authors", listName: "原作者一覧", schemaType: "Person", noun: "原作者" },
   artist: { pathPrefix: "/artists", listName: "作画家一覧", schemaType: "Person", noun: "作画家" },
-  publisher: { pathPrefix: "/publishers", listName: "出版社(レーベル)一覧", schemaType: "Organization", noun: "出版社" },
+  label: { pathPrefix: "/labels", listName: "レーベル一覧", schemaType: "Periodical", noun: "レーベル" },
 };
 
 export function PersonDetailPage({ kind }: { kind: PersonKind }) {

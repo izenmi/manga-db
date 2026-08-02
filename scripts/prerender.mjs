@@ -27,7 +27,7 @@ function readData(name) {
 const works = readData("works");
 const originalAuthors = readData("original-authors");
 const artists = readData("artists");
-const publishers = readData("publishers");
+const labels = readData("labels");
 const themes = readData("themes");
 const awards = readData("awards");
 
@@ -41,8 +41,8 @@ const routes = [
   ...originalAuthors.map((a) => `/original-authors/${a.id}`),
   "/artists",
   ...artists.map((a) => `/artists/${a.id}`),
-  "/publishers",
-  ...publishers.map((p) => `/publishers/${p.id}`),
+  "/labels",
+  ...labels.map((l) => `/labels/${l.id}`),
   "/awards",
   ...awards.map((a) => `/awards/${a.id}`),
   "/about",

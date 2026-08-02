@@ -7,13 +7,14 @@ batch.json の形式:
   "newOriginalAuthors": [...],
   "newArtists": [...],
   "newPublishers": [...],
+  "newLabels": [...],
   "newThemes": [...],
   "newAwards": [...],
   "works": [...]
 }
 
-- 新規id(originalAuthor/artist/publisher/theme/award)は既存と重複していればスキップ
-- work は originalAuthorIds/artistIds/publisherId/themeIds/awardResults[].awardId が
+- 新規id(originalAuthor/artist/publisher/label/theme/award)は既存と重複していればスキップ
+- work は originalAuthorIds/artistIds/publisherId/labelId/themeIds/awardResults[].awardId が
   (既存 + このバッチで追加される新規id) の中に存在するか検証し、
   存在しない参照があればその work 自体を反映せずレポートする(artistIdsが空の場合も却下)
 - 既存work idと重複するworkはスキップ
@@ -44,6 +45,7 @@ def main():
     original_authors = load("original-authors")
     artists = load("artists")
     publishers = load("publishers")
+    labels = load("labels")
     themes = load("themes")
     awards = load("awards")
     works = load("works")
@@ -51,6 +53,7 @@ def main():
     original_author_ids = {a["id"] for a in original_authors}
     artist_ids = {a["id"] for a in artists}
     publisher_ids = {p["id"] for p in publishers}
+    label_ids = {l["id"] for l in labels}
     theme_ids = {t["id"] for t in themes}
     award_ids = {a["id"] for a in awards}
     work_ids = {w["id"] for w in works}
@@ -72,6 +75,7 @@ def main():
     add_new(original_authors, original_author_ids, "newOriginalAuthors", "original_authors")
     add_new(artists, artist_ids, "newArtists", "artists")
     add_new(publishers, publisher_ids, "newPublishers", "publishers")
+    add_new(labels, label_ids, "newLabels", "labels")
     add_new(themes, theme_ids, "newThemes", "themes")
     add_new(awards, award_ids, "newAwards", "awards")
 
@@ -93,6 +97,9 @@ def main():
         pid = w.get("publisherId")
         if pid and pid not in publisher_ids:
             missing.append(f"publisherId:{pid}")
+        lid = w.get("labelId")
+        if not lid or lid not in label_ids:
+            missing.append(f"labelId:{lid}")
         for tid in w.get("themeIds", []):
             if tid not in theme_ids:
                 missing.append(f"themeId:{tid}")
@@ -113,6 +120,7 @@ def main():
     save("original-authors", original_authors)
     save("artists", artists)
     save("publishers", publishers)
+    save("labels", labels)
     save("themes", themes)
     save("awards", awards)
     save("works", works)

@@ -1,0 +1,1012 @@
+[
+  {
+    "id": "shonen-jump",
+    "name": "週刊少年ジャンプ",
+    "nameKana": "しゅうかんしょうねんじゃんぷ",
+    "publisherId": "shueisha",
+    "description": "集英社が発行する週刊少年漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『集英社』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shonenjump-plus",
+    "name": "少年ジャンプ+",
+    "nameKana": "しょうねんじゃんぷぷらす",
+    "publisherId": "shueisha",
+    "description": "集英社のWeb漫画配信サービス・電子雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『集英社』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tonari-young-jump",
+    "name": "となりのヤングジャンプ",
+    "nameKana": "となりのやんぐじゃんぷ",
+    "publisherId": "shueisha",
+    "description": "集英社のWeb漫画配信サービス。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『集英社』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ribon",
+    "name": "りぼん",
+    "nameKana": "りぼん",
+    "publisherId": "shueisha",
+    "description": "集英社が発行する少女漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『集英社』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "margaret",
+    "name": "マーガレット",
+    "nameKana": "まーがれっと",
+    "publisherId": "shueisha",
+    "description": "集英社が発行する少女漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『集英社』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "jump-sq",
+    "name": "ジャンプSQ.",
+    "nameKana": "じゃんぷすくえあ",
+    "publisherId": "shueisha",
+    "description": "集英社が発行する月刊少年漫画雑誌。週刊少年ジャンプ系列誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『集英社』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ultra-jump",
+    "name": "ウルトラジャンプ",
+    "nameKana": "うるとらじゃんぷ",
+    "publisherId": "shueisha",
+    "description": "集英社が発行する月刊青年漫画雑誌。週刊少年ジャンプ系列誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『集英社』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shonen-magazine",
+    "name": "週刊少年マガジン",
+    "nameKana": "しゅうかんしょうねんまがじん",
+    "publisherId": "kodansha",
+    "description": "講談社が発行する週刊少年漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『講談社』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "bessatsu-shonen-magazine",
+    "name": "別冊少年マガジン",
+    "nameKana": "べっさつしょうねんまがじん",
+    "publisherId": "kodansha",
+    "description": "講談社が発行する月刊少年漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『講談社』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "monthly-shonen-magazine",
+    "name": "月刊少年マガジン",
+    "nameKana": "げっかんしょうねんまがじん",
+    "publisherId": "kodansha",
+    "description": "講談社が発行する月刊少年漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『講談社』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "afternoon",
+    "name": "アフタヌーン",
+    "nameKana": "あふたぬーん",
+    "publisherId": "kodansha",
+    "description": "講談社が発行する月刊青年漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『講談社』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "morning",
+    "name": "モーニング",
+    "nameKana": "もーにんぐ",
+    "publisherId": "kodansha",
+    "description": "講談社が発行する青年漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『講談社』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "young-magazine",
+    "name": "ヤングマガジン",
+    "nameKana": "やんぐまがじん",
+    "publisherId": "kodansha",
+    "description": "講談社が発行する青年漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『講談社』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "evening",
+    "name": "イブニング",
+    "nameKana": "いぶにんぐ",
+    "publisherId": "kodansha",
+    "description": "講談社が発行していた青年漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『講談社』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nakayoshi",
+    "name": "なかよし",
+    "nameKana": "なかよし",
+    "publisherId": "kodansha",
+    "description": "講談社が発行する少女漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『講談社』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "dessert",
+    "name": "デザート",
+    "nameKana": "でざーと",
+    "publisherId": "kodansha",
+    "description": "講談社が発行する女性向け漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『講談社』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kiss",
+    "name": "Kiss",
+    "nameKana": "きす",
+    "publisherId": "kodansha",
+    "description": "講談社が発行する女性向け漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『講談社』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shonen-sunday",
+    "name": "週刊少年サンデー",
+    "nameKana": "しゅうかんしょうねんさんでー",
+    "publisherId": "shogakukan",
+    "description": "小学館が発行する週刊少年漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『小学館』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "sunday-gx",
+    "name": "サンデーGX",
+    "nameKana": "さんでーじーえっくす",
+    "publisherId": "shogakukan",
+    "description": "小学館が発行する青年漫画雑誌。週刊少年サンデー系列誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『小学館』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "gessan",
+    "name": "ゲッサン",
+    "nameKana": "げっさん",
+    "publisherId": "shogakukan",
+    "description": "小学館が発行する月刊少年漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『小学館』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "big-comic-spirits",
+    "name": "ビッグコミックスピリッツ",
+    "nameKana": "びっぐこみっくすぴりっつ",
+    "publisherId": "shogakukan",
+    "description": "小学館が発行する青年漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『小学館』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "big-comic",
+    "name": "ビッグコミック",
+    "nameKana": "びっぐこみっく",
+    "publisherId": "shogakukan",
+    "description": "小学館が発行する青年漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『小学館』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "big-comic-original",
+    "name": "ビッグコミックオリジナル",
+    "nameKana": "びっぐこみっくおりじなる",
+    "publisherId": "shogakukan",
+    "description": "小学館が発行する青年漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『小学館』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ciao",
+    "name": "ちゃお",
+    "nameKana": "ちゃお",
+    "publisherId": "shogakukan",
+    "description": "小学館が発行する少女漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『小学館』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "flowers",
+    "name": "フラワーズ",
+    "nameKana": "ふらわーず",
+    "publisherId": "shogakukan",
+    "description": "小学館が発行する女性向け漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『小学館』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shonen-champion",
+    "name": "週刊少年チャンピオン",
+    "nameKana": "しゅうかんしょうねんちゃんぴおん",
+    "publisherId": "akita-shoten",
+    "description": "秋田書店が発行する週刊少年漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『秋田書店』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "bessatsu-shonen-champion",
+    "name": "別冊少年チャンピオン",
+    "nameKana": "べっさつしょうねんちゃんぴおん",
+    "publisherId": "akita-shoten",
+    "description": "秋田書店が発行するWeb漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『秋田書店』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "champion-red",
+    "name": "チャンピオンRED",
+    "nameKana": "ちゃんぴおんれっど",
+    "publisherId": "akita-shoten",
+    "description": "秋田書店が発行する青年漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『秋田書店』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hana-to-yume",
+    "name": "花とゆめ",
+    "nameKana": "はなとゆめ",
+    "publisherId": "hakusensha",
+    "description": "白泉社が発行する少女漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『白泉社』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "lala",
+    "name": "LaLa",
+    "nameKana": "らら",
+    "publisherId": "hakusensha",
+    "description": "白泉社が発行する少女漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『白泉社』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "young-animal",
+    "name": "ヤングアニマル",
+    "nameKana": "やんぐあにまる",
+    "publisherId": "hakusensha",
+    "description": "白泉社が発行する青年漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『白泉社』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "melody",
+    "name": "MELODY",
+    "nameKana": "めろでぃ",
+    "publisherId": "hakusensha",
+    "description": "白泉社が発行する女性向け漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『白泉社』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "gangan-monthly",
+    "name": "月刊少年ガンガン",
+    "nameKana": "げっかんしょうねんがんがん",
+    "publisherId": "square-enix",
+    "description": "スクウェア・エニックスが発行する月刊少年漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『スクウェア・エニックス』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "gangan-online",
+    "name": "ガンガンONLINE",
+    "nameKana": "がんがんおんらいん",
+    "publisherId": "square-enix",
+    "description": "スクウェア・エニックスのWeb漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『スクウェア・エニックス』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "young-gangan",
+    "name": "ヤングガンガン",
+    "nameKana": "やんぐがんがん",
+    "publisherId": "square-enix",
+    "description": "スクウェア・エニックスが発行する青年漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『スクウェア・エニックス』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "g-fantasy",
+    "name": "Gファンタジー",
+    "nameKana": "じーふぁんたじー",
+    "publisherId": "square-enix",
+    "description": "スクウェア・エニックスが発行する月刊少年漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『スクウェア・エニックス』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "big-gangan",
+    "name": "ビッグガンガン",
+    "nameKana": "びっぐがんがん",
+    "publisherId": "square-enix",
+    "description": "スクウェア・エニックスが発行する青年漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『スクウェア・エニックス』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shonen-ace",
+    "name": "月刊少年エース",
+    "nameKana": "げっかんしょうねんえーす",
+    "publisherId": "kadokawa",
+    "description": "KADOKAWAが発行する月刊少年漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『KADOKAWA』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "young-ace",
+    "name": "ヤングエース",
+    "nameKana": "やんぐえーす",
+    "publisherId": "kadokawa",
+    "description": "KADOKAWAが発行する青年漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『KADOKAWA』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "dengeki-daioh",
+    "name": "コミック電撃大王",
+    "nameKana": "こみっくでんげきだいおう",
+    "publisherId": "kadokawa",
+    "description": "KADOKAWAが発行する月刊漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『KADOKAWA』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "comic-beam",
+    "name": "コミックビーム",
+    "nameKana": "こみっくびーむ",
+    "publisherId": "kadokawa",
+    "description": "KADOKAWAが発行する月刊漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『KADOKAWA』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "comic-newtype",
+    "name": "コミックニュータイプ",
+    "nameKana": "こみっくにゅーたいぷ",
+    "publisherId": "kadokawa",
+    "description": "KADOKAWAが発行していた月刊漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『KADOKAWA』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "comic-walker",
+    "name": "コミックウォーカー",
+    "nameKana": "こみっくうぉーかー",
+    "publisherId": "kadokawa",
+    "description": "KADOKAWAのWeb漫画配信サービス。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『KADOKAWA』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "manga-action",
+    "name": "漫画アクション",
+    "nameKana": "まんがあくしょん",
+    "publisherId": "futabasha",
+    "description": "双葉社が発行する青年漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『双葉社』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "manga-time-kirara",
+    "name": "まんがタイムきらら",
+    "nameKana": "まんがたいむきらら",
+    "publisherId": "houbunsha",
+    "description": "芳文社が発行する四コマ漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『芳文社』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kindai-mahjong",
+    "name": "近代麻雀",
+    "nameKana": "きんだいまーじゃん",
+    "publisherId": "takeshobo",
+    "description": "竹書房が発行する麻雀漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『竹書房』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "animage",
+    "name": "月刊アニメージュ",
+    "nameKana": "げっかんあにめーじゅ",
+    "publisherId": "tokuma-shoten",
+    "description": "徳間書店が発行するアニメ情報誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『徳間書店』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shonen-king",
+    "name": "少年キング",
+    "nameKana": "しょうねんきんぐ",
+    "publisherId": "shonen-gahosha",
+    "description": "少年画報社が発行していた週刊少年漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『少年画報社』記事等で存在を確認済みの主要レーベル。個別作品との紐付けは各作品のsourceNoteで別途確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "young-champion",
+    "name": "ヤングチャンピオン",
+    "nameKana": "やんぐちゃんぴおん",
+    "publisherId": "akita-shoten",
+    "description": "秋田書店が発行する青年向け漫画雑誌。1988年創刊。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ヤングチャンピオン"
+    },
+    "sourceNote": "『バトル・ロワイアル』(田口雅之作画)はja.wikipedia『バトル・ロワイアル(漫画)』が404のためWeb検索(秋田書店公式サイト・BOOK☆WALKER・ebookjapan等)で確認。2000年よりヤングチャンピオン(秋田書店)で連載開始。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "gekkan-princess",
+    "name": "月刊プリンセス",
+    "nameKana": "げっかんぷりんせす",
+    "publisherId": "akita-shoten",
+    "description": "秋田書店が発行する女性向け漫画雑誌。1974年創刊。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/月刊プリンセス"
+    },
+    "sourceNote": "ja.wikipedia『王家の紋章』インフォボックスで確認。1976年10月号より月刊プリンセス(秋田書店)で連載中の雑誌連載作品(単行本描き下ろしではない)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yukan-fukunichi",
+    "name": "夕刊フクニチ",
+    "nameKana": "ゆうかんふくにち",
+    "publisherId": "asahi-shimbun-shuppan",
+    "description": "かつて福岡県で発行されていた夕刊紙(フクニチ新聞社)。『サザエさん』が最初に連載された新聞。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/フクニチ新聞"
+    },
+    "sourceNote": "雑誌連載ではなく新聞連載。ja.wikipedia『サザエさん』インフォボックスおよび時事ドットコム記事で確認: 1946年4月22日、福岡の夕刊紙『夕刊フクニチ』で連載開始、その後『新夕刊』を経て1949年に東京の『朝日新聞』へ移籍。連載開始年(1946年)時点の最初の掲載媒体である夕刊フクニチを採用。ただし夕刊フクニチの発行元(フクニチ新聞社)は現在の出版社id一覧に対応する項目がなく、作品データ上の出版社(朝日新聞出版)を暫定的にpublisherIdとして設定した。フクニチ新聞社と朝日新聞出版の間に資本関係は確認できていない点に注意(人力での見直し推奨)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "gekkan-halloween",
+    "name": "月刊ハロウィン",
+    "nameKana": "げっかんはろうぃん",
+    "publisherId": "asahi-shimbun-shuppan",
+    "description": "かつて朝日ソノラマが発行していたホラー系少女漫画雑誌。1986年創刊、1995年休刊。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ハロウィン_(雑誌)"
+    },
+    "sourceNote": "ja.wikipedia『富江』およびWeb検索(伊藤潤二関連記事)で確認。1987年、月刊ハロウィン(朝日ソノラマ)の第1回楳図かずお賞佳作入選作として初出、以後同誌および『ネムキ』等で断続的に発表。朝日ソノラマは2007年解散、コミック出版権は朝日新聞社(現・朝日新聞出版)が継承したためpublisherIdはasahi-shimbun-shuppanとした。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "comico",
+    "name": "comico",
+    "nameKana": "こみこ",
+    "publisherId": "earth-star-entertainment",
+    "description": "NHN comicoが運営するスマートフォン向けウェブ漫画配信サービス。2013年開始。",
+    "externalLinks": {},
+    "sourceNote": "雑誌ではなくウェブ漫画配信サイトでの連載。ja.wikipedia『ReLIFE』インフォボックスで確認: 2013年10月12日よりcomicoで連載開始(単行本はアース・スター エンターテイメントより刊行)。comico単体のja.wikipedia記事は確認できなかったためexternalLinksは空とした。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "gekkan-panja",
+    "name": "月刊PANJA",
+    "nameKana": "げっかんぱんじゃ",
+    "publisherId": "fusosha",
+    "description": "扶桑社が1994年に創刊した月刊誌。『孤独のグルメ』が最初に連載された。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/PANJA"
+    },
+    "sourceNote": "ja.wikipedia『孤独のグルメ』インフォボックスおよびWeb検索で確認。1994年10月号(月刊PANJA、扶桑社)より連載開始。後年『SPA!』(扶桑社)へ移行するが連載開始年時点の初出誌を採用。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "bessatsu-margaret",
+    "name": "別冊マーガレット",
+    "nameKana": "べっさつマーガレット",
+    "publisherId": "shueisha",
+    "description": "集英社が発行する月刊少女漫画雑誌。「マーガレット」の姉妹誌として1963年に季刊創刊、1965年に月刊化した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/別冊マーガレット"
+    },
+    "sourceNote": "日本語版Wikipedia「別冊マーガレット」記事で正式名称・読み仮名・発行元・創刊年を確認。「君に届け」の日本語版Wikipedia記事インフォボックスの掲載誌欄が「別冊マーガレット」となっており、既存レーベル一覧の「マーガレット(margaret)」とは別誌のため新規追加。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "everystar-premium",
+    "name": "E★エブリスタプレミアム",
+    "nameKana": "いーえぶりすたぷれみあむ",
+    "publisherId": "futabasha",
+    "description": "エブリスタが運営していた携帯電話・スマートフォン向け配信媒体。『王様ゲーム』(連打一人作画)が連載された。",
+    "externalLinks": {},
+    "sourceNote": "雑誌ではなくケータイ配信媒体での連載。Web検索(複数の電子書籍販売サイト説明文)で確認: 2011年、金沢伸明原作/連打一人作画の漫画版『王様ゲーム』はE★エブリスタプレミアムで連載され、単行本は双葉社アクションコミックスより刊行。ja.wikipedia記事は未発見のためexternalLinksは空とした。なお同名小説の他の漫画化作品(寿らいむ版=まんがタイムジャンボ/芳文社、2008年完結)とは別作品。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "young-animal-densi",
+    "name": "ヤングアニマルDensi",
+    "nameKana": "やんぐあにまるでんし",
+    "publisherId": "hakusensha",
+    "description": "白泉社が運営していたヤングアニマル系列のウェブコミック配信サイト(2013年4月-2017年7月)。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「あそびあそばせ」記事のインフォボックスに『ヤングアニマル嵐(2015年6号)で読み切り掲載後、ヤングアニマルDensiにて2015年6月26日から連載開始、第30話からヤングアニマル本誌へ移籍』と明記されているため、連載開始媒体としてヤングアニマルDensiを採用。単独のWikipedia記事は確認できずexternalLinksは空欄とした。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "monthly-animal-house",
+    "name": "月刊アニマルハウス",
+    "nameKana": "げっかんあにまるはうす",
+    "publisherId": "hakusensha",
+    "description": "白泉社が1989年に創刊した青年漫画雑誌。1992年にヤングアニマルへ改称・統合され休刊。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/月刊アニマルハウス"
+    },
+    "sourceNote": "日本語版Wikipedia「ベルセルク(漫画)」記事のインフォボックスで、連載開始(1989年10月号)時の掲載誌が『月刊アニマルハウス』(1992年11号からヤングアニマルへ移行)と明記されていることを確認。同誌単独のWikipedia記事の存在もWebSearchで確認した。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "manga-time-kirara-forward",
+    "name": "まんがタイムきららフォワード",
+    "nameKana": "まんがたいむきららふぉわーど",
+    "publisherId": "houbunsha",
+    "description": "芳文社が発行するまんがタイムきららシリーズ第4誌。他のきらら誌と異なりストーリー重視の作品を中心に掲載する。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/まんがタイムきららフォワード"
+    },
+    "sourceNote": "日本語版Wikipedia「ゆるキャン△」記事のインフォボックスで、連載開始(2015年7月号)時の掲載誌が『まんがタイムきららフォワード』(2019年からCOMIC FUZへ移籍)と明記されていることを確認。既存レーベルのmanga-time-kiraraは基幹誌『まんがタイムきらら』であり別媒体のため新規追加。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "monthly-kissca",
+    "name": "月刊キスカ",
+    "nameKana": "げっかんきすか",
+    "publisherId": "takeshobo",
+    "description": "竹書房が発行していた青年向け漫画雑誌(2014年-2022年)。近代麻雀オリジナルの後継誌として創刊。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/月刊キスカ"
+    },
+    "sourceNote": "WebSearchにより、漫画『人狼ゲーム』(小独活作画)が竹書房『月刊キスカ』2014年2月号(創刊号)から2015年7月号まで連載されたことを確認。近代麻雀ではないことを注意事項通り個別確認した。同誌単独のWikipedia記事の存在もWebSearchで確認した。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "weekly-comic-bunch",
+    "name": "週刊コミックバンチ",
+    "nameKana": "しゅうかんこみっくばんち",
+    "publisherId": "shinchosha",
+    "description": "新潮社が発行していた青年漫画雑誌。2010年に月刊コミック@バンチへ移行。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『BTOOOM!』記事のインフォボックスで、連載開始(2009年29号)時の掲載誌が新潮社『週刊コミックバンチ』(2011年より月刊コミック@バンチへ移行)と明記されていることを確認。注意: 提示された出版社id対応表に新潮社が含まれていなかったため、他社id命名規則(ローマ字kebab-case)に倣いpublisherIdを'shinchosha'と推定した。DB側の実際の新潮社idと異なる場合は要修正。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "comic-alive",
+    "name": "月刊コミックアライブ",
+    "nameKana": "げっかんこみっくあらいぶ",
+    "publisherId": "kadokawa",
+    "description": "KADOKAWA(旧メディアファクトリーブランド)が発行する月刊漫画雑誌。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/月刊コミックアライブ"
+    },
+    "sourceNote": "日本語版Wikipedia「Re:ゼロから始める異世界生活」記事のコミカライズ節で、2014年8月号より「月刊コミックアライブ」(MFコミックス アライブシリーズ)にて連載開始と確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "comp-ace",
+    "name": "月刊コンプエース",
+    "nameKana": "げっかんこんぷえーす",
+    "publisherId": "kadokawa",
+    "description": "KADOKAWA(角川書店ブランド)が発行するメディアミックス作品中心の月刊漫画雑誌。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/月刊コンプエース"
+    },
+    "sourceNote": "Web検索およびコンプエース公式サイト・Wikipedia記事で、漫画版オーバーロードが2014年11月26日(2015年1月号)より「月刊コンプエース」で連載開始と確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "fellows",
+    "name": "Fellows!",
+    "nameKana": "ふぇろーず",
+    "publisherId": "kadokawa",
+    "description": "エンターブレイン(現KADOKAWA)が発行していた隔月刊漫画雑誌。2013年に「ハルタ」へ改称。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ハルタ_(漫画誌)"
+    },
+    "sourceNote": "日本語版Wikipedia「乙嫁語り」記事で、2008年10月創刊の隔月誌「Fellows!」volume1より連載開始と確認。誌名は2013年にハルタへ改称されたため、現在のWikipedia記事は統合後の「ハルタ(漫画誌)」ページ。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "newtype",
+    "name": "月刊ニュータイプ",
+    "nameKana": "げっかんにゅーたいぷ",
+    "publisherId": "kadokawa",
+    "description": "KADOKAWA(角川書店ブランド)が発行するアニメ情報誌。誌上で漫画作品も連載される。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/月刊ニュータイプ"
+    },
+    "sourceNote": "日本語版Wikipedia「悪魔のリドル」記事インフォボックスで掲載誌「月刊ニュータイプ」(2012年9月号〜)と確認。既存レーベル「コミックニュータイプ」(comic-newtype)は別の休刊漫画誌/Webサイトのため区別して新規追加。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "comic-gene",
+    "name": "月刊コミックジーン",
+    "nameKana": "げっかんこみっくじーん",
+    "publisherId": "kadokawa",
+    "description": "KADOKAWA(旧メディアファクトリーブランド)が発行する月刊漫画雑誌。2011年創刊。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/月刊コミックジーン"
+    },
+    "sourceNote": "Web検索(月刊コミックジーンWikipedia記事)およびコミックジーン公式サイトで、殺戮の天使漫画版が2015年11月号より連載開始と確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "pixiv",
+    "name": "pixiv",
+    "nameKana": "ぴくしぶ",
+    "publisherId": "pixiv",
+    "description": "ピクシブ株式会社が運営するイラスト・漫画投稿サイト。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Pixiv"
+    },
+    "sourceNote": "pixiv百科事典で、映画大好きポンポさんが2017年4月4日にpixivへ投稿されたのが初出と確認(同年7月からのジーンピクシブでの短期連載は書籍化販促のため後発)。運営元がKADOKAWAではないためpublisherIdはpixivとした(既存publisher一覧に無ければ要別途登録)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "mimi",
+    "name": "mimi",
+    "nameKana": "みみ",
+    "publisherId": "kodansha",
+    "description": "講談社が1975年から1996年まで発行していた少女漫画雑誌。「あさきゆめみし」等を掲載した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/mimi_(雑誌)"
+    },
+    "sourceNote": "日本語版Wikipedia「あさきゆめみし」記事のインフォボックスで連載開始(1979年)時の掲載誌が「mimi」と確認。雑誌自体の記事「mimi (雑誌)」で講談社発行・1975年創刊・1996年休刊の月刊少女漫画誌と確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "be-love",
+    "name": "BE・LOVE",
+    "nameKana": "びーらぶ",
+    "publisherId": "kodansha",
+    "description": "講談社が1980年に創刊した大人の女性向け漫画雑誌。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/BE・LOVE"
+    },
+    "sourceNote": "日本語版Wikipedia「ちはやふる」記事のインフォボックスで連載開始(2007年/2008年2号)時の掲載誌が「BE・LOVE」と確認。雑誌記事「BE・LOVE」で講談社発行・1980年創刊の女性向け漫画誌と確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "amie",
+    "name": "Amie",
+    "nameKana": "あみ",
+    "publisherId": "kodansha",
+    "description": "講談社が1997年から1998年まで発行していた「なかよし」卒業層向けの少女漫画雑誌。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Amie"
+    },
+    "sourceNote": "日本語版Wikipedia「ゴーストハント」記事のインフォボックスで連載開始(1998年)時の最初の掲載誌が「Amie」(その後休刊に伴い「なかよし」へ移籍)と確認。雑誌記事「Amie」で講談社発行・1997年創刊・1998年休刊の少女漫画誌と確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "bessatsu-friend",
+    "name": "別冊フレンド",
+    "nameKana": "べっさつふれんど",
+    "publisherId": "kodansha",
+    "description": "講談社が発行する月刊少女漫画雑誌。1965年創刊(旧称・別冊少女フレンド)。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/別冊フレンド"
+    },
+    "sourceNote": "日本語版Wikipedia「リミット (漫画)」記事および「別冊フレンド」記事で確認。『リミット』(すえのぶけいこ作)が2009年から別冊フレンドで連載されたことを確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "monthly-young-magazine",
+    "name": "月刊ヤングマガジン",
+    "nameKana": "げっかんやんぐまがじん",
+    "publisherId": "kodansha",
+    "description": "講談社が発行する「週刊ヤングマガジン」の姉妹誌として2009年に創刊された月刊青年漫画雑誌。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/月刊ヤングマガジン"
+    },
+    "sourceNote": "日本語版Wikipedia「中間管理録トネガワ」記事で2015年7号(2015年6月20日発売)から月刊ヤングマガジンで連載開始と確認。同誌の記事で週刊ヤングマガジンとは別の雑誌であることも確認済み。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "good-afternoon",
+    "name": "good!アフタヌーン",
+    "nameKana": "ぐっどあふたぬーん",
+    "publisherId": "kodansha",
+    "description": "講談社が発行する青年漫画雑誌。『月刊アフタヌーン』の増刊号として2008年に創刊。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Good!アフタヌーン"
+    },
+    "sourceNote": "日本語版Wikipedia「亜人 (漫画)」記事で2012年23号(2012年7月6日発売)からgood!アフタヌーンで連載開始と確認。月刊アフタヌーンとは別誌であることを同誌記事で確認済み。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "young-magazine-third",
+    "name": "ヤングマガジンサード",
+    "nameKana": "やんぐまがじんさーど",
+    "publisherId": "kodansha",
+    "description": "講談社が発行していた青年漫画雑誌。「週刊ヤングマガジン」の増刊として2014年創刊、2021年に月刊ヤングマガジンへ統合。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ヤングマガジンサード"
+    },
+    "sourceNote": "日本語版Wikipedia「亜人ちゃんは語りたい」記事で創刊号(2014年9月5日)からヤングマガジンサードで連載開始し、2021年に月刊ヤングマガジンへ移籍したことを確認。決め打ちせず個別確認した結果、月刊少年マガジンではなくヤングマガジンサードが初出媒体と判明。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "mimi-dx",
+    "name": "mimi DX",
+    "nameKana": "ミミデラックス",
+    "publisherId": "kodansha",
+    "description": "講談社が発行していた少女・女性向け漫画雑誌「mimi」の増刊として創刊された季刊(のち月刊)誌。1987年に「mimiカーニバル」へ改称。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『天上の虹』記事で1983年12月号「mimi DX」から連載開始、4巻12章まで掲載後「mimi Excellent」へ移行と確認。『mimi (雑誌)』記事でmimi DXが講談社発行mimi系列の姉妹誌(1978年創刊)であることを確認。mimi DX単独の独立記事は未確認のため外部リンクは空欄。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "morning-open-zokan",
+    "name": "モーニングオープン増刊",
+    "nameKana": "モーニングオープンゾウカン",
+    "publisherId": "kodansha",
+    "description": "講談社「モーニング」系列の増刊(臨時増刊)漫画誌。寄生獣の初出3話はここに掲載された。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『寄生獣』記事本文に「1989年に『モーニングオープン増刊』（講談社）にてF号からH号まで全3話の中編作品として連載された」と明記。第4話以降1990年1月号から月刊アフタヌーンへ移籍(単行本レーベルはアフタヌーンKC)。モーニングオープン増刊単独の独立記事は未確認のため外部リンクは空欄。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "manga-shonen",
+    "name": "漫画少年",
+    "nameKana": "マンガショウネン",
+    "publisherId": "kodansha",
+    "description": "学童社が発行していた月刊少年漫画雑誌(1947年-1955年)。手塚治虫『火の鳥』黎明編の初出媒体。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/漫画少年"
+    },
+    "sourceNote": "日本語版Wikipedia『火の鳥(漫画)』記事で1954年7月号-1955年5月号に「漫画少年」(学童社)で黎明編の連載を開始し、学童社倒産により未完となったことを確認(以後、少女クラブ→COM→マンガ少年→野性時代と転々とした特殊な連載史を持つ作品)。『漫画少年』記事で発行元は学童社(1947年12月創刊、1955年10月休刊)と確認。注意: 実際の発行元は学童社でありkodanshaではないが、本タスクの手順4指示によりpublisherIdはkodanshaを設定している。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shonen-sirius",
+    "name": "月刊少年シリウス",
+    "nameKana": "ゲッカンショウネンシリウス",
+    "publisherId": "kodansha",
+    "description": "講談社が発行する月刊漫画雑誌(2005年創刊)。異世界ファンタジー作品を多く掲載することで知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/月刊少年シリウス"
+    },
+    "sourceNote": "日本語版Wikipedia『転生したらスライムだった件』記事でコミカライズ版(作画:川上泰樹)が「月刊少年シリウス」2015年5月号から連載開始と確認(Web小説原作ではなくコミカライズ版自体の初出媒体)。『月刊少年シリウス』記事で講談社発行・2005年7月号創刊であることを確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "e-young-magazine",
+    "name": "eヤングマガジン",
+    "nameKana": "イーヤングマガジン",
+    "publisherId": "kodansha",
+    "description": "講談社ヤングマガジン編集部とエブリスタによるスマートフォン向け無料Webコミック配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『食糧人類-Starving Anonymous-』記事で「eヤングマガジン」にて2016年9月20日連載開始と確認(前身『ヤングマガジン海賊版』のリニューアルに伴う移行で原作者・作画者を変更し新規開始)。Web検索で講談社ヤングマガジン編集部とエブリスタの協業によるスマホコミックサイトであることを確認。独立したWikipedia記事は未確認のため外部リンクは空欄。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ikki",
+    "name": "月刊IKKI",
+    "nameKana": "げっかんイッキ",
+    "publisherId": "shogakukan",
+    "description": "小学館が2003年から2014年まで発行していた月刊漫画雑誌。個性的な作風の作品を多く掲載した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/月刊IKKI"
+    },
+    "sourceNote": "「ぼくらの」(鬼頭莫宏)日本語版Wikipedia記事のインフォボックス「掲載誌」欄が『月刊IKKI』であることを確認(2003年11月連載開始)。誌名の正式表記・創刊年(2003年)・読み方はWikipedia「月刊IKKI」記事およびWeb検索結果(コトバンク等)で確認。 前身の『スピリッツ増刊IKKI』(ビッグコミックスピリッツ増刊、2000年〜)からの後継誌として同一レーベル扱いとする。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "corocoro-comic",
+    "name": "コロコロコミック",
+    "nameKana": "ころころこみっく",
+    "publisherId": "shogakukan",
+    "description": "小学館が発行する小学生向け月刊少年漫画雑誌。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/月刊コロコロコミック"
+    },
+    "sourceNote": "ドラえもんは1969年12月(1970年1月号)に小学館の学年誌6誌(よいこ/幼稚園/小学一年生〜四年生)で同時連載開始。コロコロコミックは1977年、各学年誌掲載分をまとめて読める雑誌として創刊された派生誌で、以後ドラえもんの代表的な掲載媒体として定着したため、代表媒体としてこれを採用(ユーザー指示による)。ja.wikipedia.org「ドラえもん」「月刊コロコロコミック」の記述で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "bessatsu-shojo-comic",
+    "name": "別冊少女コミック",
+    "nameKana": "べっさつしょうじょこみっく",
+    "publisherId": "shogakukan",
+    "description": "小学館が発行していた少女漫画雑誌『少女コミック』の増刊(後のBetsucomi/ベツコミ)。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ベツコミ"
+    },
+    "sourceNote": "風光る(渡辺多恵子)は1997年5月号より『別冊少女コミック』で連載開始(1997年5月号-2002年4月号)、2002年6月号より『月刊フラワーズ』へ移籍。同誌は2002年5月号よりBetsucomi、2007年1月号よりベツコミへ改称したが、作品掲載期間中は『別冊少女コミック』表記のため初出名を採用。ja.wikipedia.org「風光る (渡辺多恵子の漫画)」「ベツコミ」の記述で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shonen-sunday-s",
+    "name": "週刊少年サンデーS",
+    "nameKana": "しゅうかんしょうねんさんでーえす",
+    "publisherId": "shogakukan",
+    "description": "小学館が発行する『週刊少年サンデー』の増刊で、新人作家の読切・短期連載作品を中心に掲載する漫画雑誌。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/週刊少年サンデーS"
+    },
+    "sourceNote": "今際の国のアリスは2010年12月号より『週刊少年サンデーS』で連載開始(2010年12月号-2015年5月号)し、2015年19号より週刊少年サンデー本誌へ移籍。同誌は当時『週刊少年サンデー超』の名称だったが2012年3月号に『週刊少年サンデーS』へ改称(同一誌の継続)、作品自身のインフォボックスも『週刊少年サンデーS』表記のためこれを採用。ja.wikipedia.org「今際の国のアリス」「週刊少年サンデーS」の記述で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "manga-one",
+    "name": "マンガワン",
+    "nameKana": "まんがわん",
+    "publisherId": "shogakukan",
+    "description": "小学館が2014年より配信する漫画配信アプリ・ウェブコミックサイト。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/マンガワン"
+    },
+    "sourceNote": "青のオーケストラは2017年4月25日に配信アプリ『マンガワン』で連載開始し、1週間後の同年5月2日より『裏サンデー』でも同時掲載開始。先行して掲載が始まったマンガワンを初出媒体として採用。ja.wikipedia.org「青のオーケストラ」「マンガワン」の記述で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "cookie",
+    "name": "Cookie",
+    "nameKana": "くっきー",
+    "publisherId": "shueisha",
+    "description": "集英社発行の女性向け漫画雑誌。1999年に『りぼん』増刊として創刊、2000年に独立誌化。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Cookie_(雑誌)"
+    },
+    "sourceNote": "NANAはWebSearchで確認（ja.wikipediaのNANA記事・矢沢あい記事等）。1999年に『Cookie』に読み切り掲載後、Cookieが月刊化した2000年7月号より連載開始。連載開始年(2000)時点での掲載誌としてCookieを採用。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "you-magazine",
+    "name": "YOU",
+    "nameKana": "ゆー",
+    "publisherId": "shueisha",
+    "description": "集英社発行の女性向け漫画雑誌（月刊YOU）。1980年創刊、2018年休刊。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/YOU_(雑誌)"
+    },
+    "sourceNote": "漫画版『おそ松さん』の日本語版Wikipedia記事の掲載誌欄で、連載開始(2016年)時点の掲載誌が「月刊YOU」（2016年2月号〜2018年11月号、その後2019年よりCookieへ移籍）であることを確認。連載開始年時点の初出誌としてYOUを採用。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "miracle-jump",
+    "name": "ミラクルジャンプ",
+    "nameKana": "みらくるじゃんぷ",
+    "publisherId": "shueisha",
+    "description": "集英社が発行していたSF・ファンタジーテーマの青年漫画雑誌(「週刊ヤングジャンプ」増刊、2011年創刊・2017年休刊)。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ミラクルジャンプ"
+    },
+    "sourceNote": "日本語版Wikipedia「テラフォーマーズ」記事インフォボックスで2011年連載開始時の掲載誌が「ミラクル(ミラクルジャンプ)」であることを確認。さらにミラクルジャンプ単独記事(https://ja.wikipedia.org/wiki/ミラクルジャンプ)で発行元が集英社(週刊ヤングジャンプ増刊扱い)であることを確認。2012年22・23合併号から週刊ヤングジャンプへ移籍したため、初出時点の媒体としてこちらを採用。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "young-jump",
+    "name": "週刊ヤングジャンプ",
+    "nameKana": "しゅうかんやんぐじゃんぷ",
+    "publisherId": "shueisha",
+    "description": "集英社が発行する青年漫画雑誌。「週刊少年ジャンプ」とは別の青年向けレーベルで、Web版「となりのヤングジャンプ」とも別物。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/週刊ヤングジャンプ"
+    },
+    "sourceNote": "日本語版Wikipediaの各作品記事インフォボックス(掲載誌欄)を確認。キングダム・ゴールデンカムイ・ハチワンダイバー・ライアーゲーム・リアルの5作品がいずれも連載開始時から「週刊ヤングジャンプ」掲載であることを個別に確認した。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "gangan-powered",
+    "name": "ガンガンパワード",
+    "nameKana": "がんがんぱわーど",
+    "publisherId": "square-enix",
+    "description": "スクウェア・エニックスが2001年から2009年まで刊行していた、月刊少年ガンガンの増刊にあたる漫画雑誌。休刊時、連載作品の多くは月刊Gファンタジー・月刊ガンガンJOKER・ガンガンオンライン等へ移行した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ガンガンパワード"
+    },
+    "sourceNote": "日本語版Wikipedia『ガンガンパワード』記事(WebFetchで確認)で、2001年創刊(月刊少年ガンガンの増刊として発行)、2009年2月休刊であることを確認。Web検索で、ひぐらしのなく頃に鬼隠し編(鈴羅木かりん作画)が2005年春号からガンガンパワードで連載開始したこと、うみねこのなく頃にEpisode1(夏海ケイ作画)およびコープスパーティーBloodCovered(篠宮トシミ作画)がいずれも2008年にガンガンパワードで連載開始し、2009年の同誌休刊に伴い後継誌の月刊ガンガンJOKERへ移籍したことを確認。3作品とも初出掲載誌として本レーベルを採用。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "gangan-joker",
+    "name": "月刊ガンガンJOKER",
+    "nameKana": "げっかんがんがんじょーかー",
+    "publisherId": "square-enix",
+    "description": "スクウェア・エニックスが2009年に創刊した青年漫画雑誌。休刊したガンガンパワードと月刊ガンガンウイングの後継誌にあたる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/月刊ガンガンJOKER"
+    },
+    "sourceNote": "日本語版Wikipedia『月刊ガンガンJOKER』記事(WebFetchで確認)で、2009年4月22日創刊、ガンガンパワード・月刊ガンガンウイングの後継誌であることを確認。賭ケグルイ(尚村透、2014年4月号連載開始)・好きな子がめがねを忘れた(2018年12月号連載開始)の日本語版Wikipedia記事インフォボックスで、いずれも初出掲載誌が『月刊ガンガンJOKER』であることを確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "young-gangan-zokan",
+    "name": "増刊ヤングガンガン",
+    "nameKana": "ぞうかんやんぐがんがん",
+    "publisherId": "square-enix",
+    "description": "ヤングガンガンの増刊として2007年6月に創刊された漫画雑誌。後に隔月刊『増刊ヤングガンガンビッグ』を経て、2011年10月に月刊ビッグガンガンへ改称した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『ヤングガンガン』記事(WebFetchで確認)およびWeb検索で、『増刊ヤングガンガン』が2007年6月創刊のヤングガンガン増刊号であり、隔月刊化して『増刊ヤングガンガンビッグ』となった後、2011年10月に『月刊ビッグガンガン』へ改称したことを確認。ハイスコアガールの日本語版Wikipedia記事インフォボックスで「2010年 Vol.11（増刊ヤングガンガン）」を初出掲載誌として確認し、月刊ビッグガンガンへの改称前の名称であるため既存のbig-gangan/young-ganganとは別レーベルとして新設。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "comic-burger",
+    "name": "コミックバーガー",
+    "nameKana": "こみっくばーがー",
+    "publisherId": "scholar",
+    "description": "スコラが発行していた漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『陰陽師(漫画)』記事(2026-08-02閲覧)で、1993年7月号〜1996年5月号にonmyoujiが連載されていたことを確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "cutie-comic",
+    "name": "CUTiEcomic",
+    "nameKana": "きゅーとこみっく",
+    "publisherId": "takarajimasha",
+    "description": "宝島社が発行していたファッション誌『CUTiE』のコミック版。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『ハチミツとクローバー』記事(2026-08-02閲覧)で、2000年6月〜2001年7月にhachimitsu-to-cloverが連載されていたことを確認(後にヤングユー、コーラスへ移籍)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "manga-time-kr-comics",
+    "name": "まんがタイムKRコミックス",
+    "nameKana": "まんがたいむけーあーるこみっくす",
+    "publisherId": "houbunsha",
+    "description": "芳文社の描き下ろしコミックスレーベル。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『魔法少女まどか☆マギカの漫画作品』記事(2026-08-02閲覧)で、ハノカゲ版が2011年2月〜5月に描き下ろしコミック(雑誌連載なし)として全3巻刊行されたことを確認。",
+    "updatedAt": "2026-08-02"
+  }
+]

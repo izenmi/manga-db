@@ -23,6 +23,7 @@ function workJsonLd(id: string, w: WorkGenerated) {
       author: authorNames.map((name) => ({ "@type": "Person", name })),
       illustrator: w.artistNames.map((name) => ({ "@type": "Person", name })),
       publisher: { "@type": "Organization", name: w.publisherName },
+      isPartOf: { "@type": "Periodical", name: w.labelName },
       datePublished: String(w.firstPublishedYear),
       genre: w.themeNames,
       description: w.synopsis,
@@ -47,7 +48,7 @@ export function WorkDetailPage() {
   useSeo({
     title: work?.title,
     description: work
-      ? `${work.title}(${work.artistNames.join("・")}/${work.publisherName})のあらすじ・刊行年・受賞歴・テーマをまとめて紹介。${work.synopsis.slice(0, 60)}…`
+      ? `${work.title}(${work.artistNames.join("・")}/${work.labelName})のあらすじ・刊行年・受賞歴・テーマをまとめて紹介。${work.synopsis.slice(0, 60)}…`
       : undefined,
     image: work?.coverUrl ?? DEFAULT_OG_IMAGE,
     jsonLd: work ? workJsonLd(id!, work) : undefined,
@@ -94,7 +95,7 @@ export function WorkDetailPage() {
                 ))}
               </p>
               <p className="page-subtitle">
-                <Link to={`/publishers/${state.data.publisherId}`}>{state.data.publisherName}</Link>
+                <Link to={`/labels/${state.data.labelId}`}>{state.data.labelName}</Link>
                 {" / "}
                 刊行{state.data.firstPublishedYear}年〜{state.data.latestPublishedYear ?? ""}
                 {" / "}

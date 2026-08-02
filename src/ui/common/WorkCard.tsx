@@ -22,7 +22,7 @@ function mediaMixLabel(work: WorkGenerated): string | null {
 }
 
 /** Fuller card for the main work list page: cover thumbnail on the left, and a right-hand
- *  column (title/author/publisher/awards + clickable theme tags) so the theme tags line up
+ *  column (title/author/label/awards + clickable theme tags) so the theme tags line up
  *  under the text instead of starting under the cover. Theme tags stay outside the title Link
  *  to avoid nesting <a>, but share its column via a wrapping flex column instead. */
 export function WorkCard({ work }: { work: WorkGenerated }) {
@@ -35,7 +35,7 @@ export function WorkCard({ work }: { work: WorkGenerated }) {
         <Link className="work-card__link" to={`/works/${work.id}`}>
           <div className="work-card__title">{work.title}</div>
           <div className="work-card__meta">
-            {authorLine(work)} / {work.publisherName} / {work.firstPublishedYear}年〜 / {STATUS_LABEL[work.status]}
+            {authorLine(work)} / {work.labelName} / {work.firstPublishedYear}年〜 / {STATUS_LABEL[work.status]}
             {mediaMixLabel(work) && ` / ${mediaMixLabel(work)}`}
           </div>
           {work.awardSummaries.length > 0 && (

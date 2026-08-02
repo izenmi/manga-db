@@ -5,7 +5,7 @@ const LINKS = [
   { to: "/themes", label: "テーマ" },
   { to: "/original-authors", label: "原作者" },
   { to: "/artists", label: "作画家" },
-  { to: "/publishers", label: "出版社" },
+  { to: "/labels", label: "レーベル" },
   { to: "/awards", label: "アワード" },
 ];
 
