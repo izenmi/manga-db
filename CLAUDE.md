@@ -82,6 +82,6 @@ DEATH NOTE・ワンパンマン・SPY×FAMILY・進撃の巨人・鋼の錬金�
 - **GA4トラッキングタグ未導入**: ranobe-db専用IDを流用すると計測データが混ざるため、`index.html`にGoogleタグを入れていない。新規プロパティ発行が必要
 - **表紙画像は取得済み(2026-08-02)**: manga-db用に新規登録した楽天ウェブサービスのアプリID/アクセスキーで`npm run fetch-covers`を実行し、scaffold時点の5作品すべて解決(`source: "rakuten-books"`)。以後新規作品を追加したら同コマンドを再実行すること(`RAKUTEN_APP_ID`/`RAKUTEN_ACCESS_KEY`環境変数が必要、値はユーザーが管理)
 - **Web漫画プラットフォームは2種類のみ実装**(少年ジャンプ+・となりのヤングジャンプ)。他プラットフォームは`WebComicPlatform`型に未追加(検証してから追加すること)
-- **favicon/apple-touch-icon/og-image.png がranobe-db由来のまま**: 専用デザインへの差し替えが未実施(`scripts/generate-ogp.mjs`はテキストのみmanga-db向けに書き換え済みだが未実行)
+- **favicon/apple-touch-icon は専用デザインに差し替え済み(2026-08-02)**: `public/favicon.svg`をranobe-dbと同じ黒背景・`M PLUS Rounded 1c`・`#7cd0ff`のデザインのまま文字だけ「ま」に変更。Playwright(Google Fontsを読み込んだHTMLに埋め込んでスクリーンショット)で512pxのPNGを生成し、ImageMagickで`favicon.ico`(16/32/48pxマルチサイズ)・`apple-touch-icon.png`(180px)を書き出した。**`og-image.png`はranobe-db由来のまま未差し替え**(`scripts/generate-ogp.mjs`はテキストのみmanga-db向けに書き換え済みだが未実行)
 - **`relatedNovelUrl`(ranobe-db相互リンク)は型のみ存在し未実装**
 - **雑誌連載媒体データなし**: 出版社は単行本レーベルの粒度のみで、雑誌(週刊少年ジャンプ等)は別途追跡していない
