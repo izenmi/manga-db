@@ -242,5 +242,79 @@
     },
     "sourceNote": "日本語版Wikipedia『梶原一騎』記事(2026-08-02閲覧)で生年没年(1987年没)、『あしたのジョー』を高森朝雄名義で連載した経緯(『巨人の星』と同一誌併載を隠すため等)を確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "takami-koushun",
+    "name": "高見広春",
+    "nameKana": "たかみこうしゅん",
+    "description": "1969年兵庫県神戸市生まれの小説家。四国新聞社勤務を経て、1997年に『バトル・ロワイアル』を第5回日本ホラー小説大賞に応募し最終選考まで残るが、中学生同士の殺し合いという内容が問題視され受賞を逃す。1999年に太田出版から刊行され、映画化・漫画化されるベストセラーとなった。",
+    "birthYear": 1969,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/高見広春"
+    },
+    "sourceNote": "日本語版Wikipedia「高見広春」で生年・経歴・『バトル・ロワイアル』の成立経緯を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kedoin-shin",
+    "name": "祁答院慎",
+    "nameKana": "けどういんしん",
+    "description": "ゲームクリエイター集団「チームグリグリ」の創作リーダー。大阪芸術大学の漫画研究会で出会ったメンバーと共にチームグリグリを設立し、ホラーゲーム『コープスパーティー』シリーズの原作・シナリオを手掛けた。",
+    "externalLinks": {},
+    "sourceNote": "4Gamer・でんふぁみにこゲーマー等のインタビュー記事、書誌サイト(マンガUP!等)のクレジット表記で、チームグリグリの創作リーダーとして『コープスパーティー』原作者と明記されていることを確認。日本語版Wikipedia独立項目は未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kouga-yun",
+    "name": "高河ゆん",
+    "nameKana": "こうがゆん",
+    "description": "1965年東京都生まれの漫画家・同人作家。『アーシアン』『LOVELESS』などの代表作を持つ。『悪魔のリドル』では原作を担当し、南方純が作画を務めた。",
+    "birthYear": 1965,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/高河ゆん"
+    },
+    "sourceNote": "日本語版Wikipedia「高河ゆん」で生年・代表作を確認。『悪魔のリドル』原作者であることは出版社情報・書誌サイトで確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yamaguchi-mikoto",
+    "name": "山口ミコト",
+    "nameKana": "やまぐちみこと",
+    "description": "1979年鹿児島県生まれの漫画原作者。2008年『死神様に最期のお願いを』で連載デビュー。『DEAD Tube〜デッドチューブ〜』『ゲーム オブ ファミリア』などの原作を手掛ける。",
+    "birthYear": 1979,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/山口ミコト"
+    },
+    "sourceNote": "日本語版Wikipedia「山口ミコト」で生年・経歴・代表作(DEAD Tube含む)を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "sanada-makoto",
+    "name": "真田まこと",
+    "nameKana": "さなだまこと",
+    "description": "フリーゲーム制作サークル「星屑KRNKRN」名義で活動するゲームクリエイター。探索型ホラーゲーム『殺戮の天使』『霧雨が降る森』の制作者で、漫画版の原作も務める。",
+    "externalLinks": {
+      "officialUrl": "https://hskzkrnkrn.com/"
+    },
+    "sourceNote": "日本語版Wikipedia「殺戮の天使」項目、真田まこと公式サイト・pixivFANBOXで、星屑KRNKRN名義のフリーゲーム作者かつ漫画版原作者であることを確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "mizutani-kengo",
+    "name": "水谷健吾",
+    "nameKana": "みずたにけんご",
+    "description": "『食糧人類-Starving Anonymous-』の原案を担当したクリエイター。蔵石ユウ(原作)・イナベカズ(作画)とのチームで同作および続編『食糧人類Re』を手掛けた。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「食糧人類-Starving Anonymous-」項目・講談社公式製品ページで原案クレジットを確認。個人の経歴詳細(生年等)は情報源が乏しく未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kuraishi-yu",
+    "name": "蔵石ユウ",
+    "nameKana": "くらいしゆう",
+    "description": "『食糧人類-Starving Anonymous-』の原作を担当した漫画原作者。水谷健吾(原案)・イナベカズ(作画)とのチームで同作および続編『食糧人類Re』を手掛けた。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「食糧人類-Starving Anonymous-」項目・講談社公式製品ページで原作クレジットを確認。個人の経歴詳細(生年等)は情報源が乏しく未確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

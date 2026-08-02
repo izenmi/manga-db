@@ -1164,5 +1164,102 @@
     },
     "sourceNote": "日本語版Wikipedia『奥浩哉』記事(2026-08-02閲覧)で生年を確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "taguchi-masayuki",
+    "name": "田口雅之",
+    "nameKana": "たぐちまさゆき",
+    "description": "1966年愛知県生まれの漫画家。1990年アフタヌーン四季賞入賞でデビュー。『バロン・ゴング・バトル』で初の長期連載を経験し、2000年から高見広春原作『バトル・ロワイアル』のコミカライズを手掛けた。",
+    "birthYear": 1966,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/田口雅之"
+    },
+    "sourceNote": "日本語版Wikipedia「田口雅之」で生年・経歴・『バトル・ロワイアル』作画担当を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "flipflops",
+    "name": "FLIPFLOPs",
+    "nameKana": "フリップフロップス",
+    "description": "深山秀(原作担当、ペンネームは銀杏の英語ginkgoに由来)と高畑ゆき(作画担当)による漫画家ユニット。2007年『猫神やおよろず』でデビューし、2012年より秋田書店『別冊少年チャンピオン』で『ダーウィンズゲーム』を連載した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/FLIPFLOPs",
+      "officialUrl": "https://blog.flipflops.jp/profile"
+    },
+    "sourceNote": "日本語版Wikipedia「FLIPFLOPs」およびFLIPFLOPs公式サイトプロフィールページで、深山秀・高畑ゆきの2人ユニットであること、『ダーウィンズゲーム』の連載経緯を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kaitani-shinobu",
+    "name": "甲斐谷忍",
+    "nameKana": "かいたにしのぶ",
+    "description": "1967年鹿児島市生まれの漫画家。1996年『ソムリエ』(原作:城アラキ)で連載デビュー。『ONE OUTS』『LIAR GAME』など、緻密な頭脳戦・心理戦を描く作品で知られる。",
+    "birthYear": 1967,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/甲斐谷忍"
+    },
+    "sourceNote": "日本語版Wikipedia「甲斐谷忍」で生年・経歴・代表作(LIAR GAME含む)を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shinomiya-toshimi",
+    "name": "篠宮トシミ",
+    "nameKana": "しのみやとしみ",
+    "description": "漫画家。祁答院慎(チームグリグリ)原作のホラーゲーム『コープスパーティー』を漫画化した『コープスパーティー BloodCovered』の作画を担当した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/篠宮トシミ"
+    },
+    "sourceNote": "日本語版Wikipedia「篠宮トシミ」項目名の存在および複数書誌サイトで『コープスパーティー BloodCovered』作画担当であることを確認。詳細な経歴・生年は情報源が乏しく未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "minakata-sunao",
+    "name": "南方純",
+    "nameKana": "みなかたすなお",
+    "description": "京都府在住の漫画家。12月19日生まれ。2012年、高河ゆん原作『悪魔のリドル』をKADOKAWA『月刊ニュータイプ』で連載し、2014年にはテレビアニメ化された。",
+    "externalLinks": {},
+    "sourceNote": "書誌サイト(まんがseek等)で『悪魔のリドル』作画担当であること・誕生日情報を確認。日本語版Wikipedia独立項目は未確認のため出版社情報等で裏取り。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kitagawa-touta",
+    "name": "北河トウタ",
+    "nameKana": "きたがわとうた",
+    "description": "秋田県生まれ、千葉県出身の漫画家。9月25日生まれ。成人向け作品を中心に活動する一方、一般向け作品も手掛け、2014年より山口ミコト原作『DEAD Tube〜デッドチューブ〜』を秋田書店『チャンピオンRED』で連載している。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/北河トウタ"
+    },
+    "sourceNote": "日本語版Wikipedia「北河トウタ」で経歴・生まれ・『DEAD Tube』作画担当を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nazuka-kudan",
+    "name": "名束くだん",
+    "nameKana": "なづかくだん",
+    "description": "漫画家。2014年、真田まこと原作『霧雨が降る森』でKADOKAWA『月刊コミックジーン』にてデビュー。同誌で連載した『殺戮の天使』が代表作。",
+    "externalLinks": {},
+    "sourceNote": "書誌サイト(まんがぺディア等)・KADOKAWA公式製品ページで『殺戮の天使』作画担当・デビュー経緯を確認。日本語版Wikipedia独立項目は未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "inabe-kazu",
+    "name": "イナベカズ",
+    "nameKana": "いなべかず",
+    "description": "漫画家。水谷健吾(原案)・蔵石ユウ(原作)とのチームで『食糧人類-Starving Anonymous-』および続編『食糧人類Re』の作画を担当した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「食糧人類-Starving Anonymous-」項目・講談社公式製品ページで作画クレジットを確認。個人の経歴詳細は情報源が乏しく未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "mori-kouji",
+    "name": "森恒二",
+    "nameKana": "もりこうじ",
+    "description": "1966年東京都生まれの漫画家。日本大学藝術学部卒。2000年より『ヤングアニマル』で自身の経験を基にした『ホーリーランド』を連載しヒット、続いて自殺未遂者たちの極限サバイバルを描く『自殺島』を手掛けた。",
+    "birthYear": 1966,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/森恒二"
+    },
+    "sourceNote": "日本語版Wikipedia「森恒二」で生年・経歴・代表作(自殺島含む)を確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

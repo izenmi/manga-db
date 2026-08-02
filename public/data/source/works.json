@@ -3765,5 +3765,288 @@
     },
     "sourceNote": "日本語版Wikipedia『GANTZ』記事(2026-08-02閲覧)で作者(奥浩哉によるオリジナル作品)・掲載誌(週刊ヤングジャンプ/集英社)・連載期間(2000年〜2013年)・既刊巻数(全37巻)・アニメ化/実写映画化を確認。作品自体の漫画賞受賞の記載は見当たらず空配列とした。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "battle-royale",
+    "title": "バトル・ロワイアル",
+    "titleKana": "バトル・ロワイアル",
+    "originalAuthorIds": [
+      "takami-koushun"
+    ],
+    "artistIds": [
+      "taguchi-masayuki"
+    ],
+    "publisherId": "akita-shoten",
+    "themeIds": [
+      "death-game",
+      "battle-action",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2000,
+    "latestPublishedYear": 2005,
+    "status": "completed",
+    "volumeCount": 15,
+    "synopsis": "全体主義国家で行われる殺人実験“プログラム”に、無作為に選ばれた中学3年生のクラスが参加させられる。生徒たちは孤島に隔離され、制限時間内にクラスメイト同士で殺し合い、最後の一人になるまで解放されない。極限状況下での友情・裏切り・恐怖を描いた衝撃作。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/バトル・ロワイアル"
+    },
+    "sourceNote": "日本語版Wikipedia・複数書誌サイト(ebookjapan/booklive/Amazon等)で高見広春原作・田口雅之作画、秋田書店『ヤングチャンピオン』2000-2005年連載、全15巻(完結)を確認。原作小説は映画化もされているがmediaMixのnovelization/animeは漫画版起点でないため一旦false、詳細は未検証のため今後要確認。受賞歴は漫画版単体では確認できず。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "darwins-game",
+    "title": "ダーウィンズゲーム",
+    "titleKana": "ダーウィンズゲーム",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "flipflops"
+    ],
+    "publisherId": "akita-shoten",
+    "themeIds": [
+      "death-game",
+      "battle-action",
+      "sci-fi"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2024,
+    "status": "completed",
+    "volumeCount": 30,
+    "synopsis": "高校生カナメは友人に誘われたスマホアプリ「ダーウィンズゲーム」に足を踏み入れたことで、参加者同士の命懸けの殺し合いに巻き込まれる。特殊能力“シギル”を武器に、心を通わせた仲間たちとクラン「サンセットレーベンズ」を結成し、ゲームの謎と巨大な陰謀に立ち向かっていく異能バトル×デスゲーム。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ダーウィンズゲーム"
+    },
+    "sourceNote": "日本語版Wikipedia・FLIPFLOPs公式サイトで原作作画ともにFLIPFLOPs(深山秀・高畑ゆきユニット)、秋田書店『別冊少年チャンピオン』2012年12月〜2023年10月連載、全30巻(2024年1月完結)、2020年にテレビアニメ化されたことを確認。受賞歴は確認できず。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "liar-game",
+    "title": "ライアーゲーム",
+    "titleKana": "ライアーゲーム",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kaitani-shinobu"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "death-game",
+      "gambling",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2005,
+    "latestPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 19,
+    "synopsis": "人を疑うことを知らない女子大生・神崎直は、謎の組織「ライアーゲーム事務局」から1億円を渡され、強制的に頭脳戦トーナメントへ参加させられる。詐欺師の秋山深一と手を組み、騙し合いのゲームに挑みながらも、正直さを貫いて敗者を救おうとする姿を描く心理戦サスペンス。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/LIAR_GAME"
+    },
+    "sourceNote": "日本語版Wikipedia「LIAR GAME」で甲斐谷忍作、集英社『週刊ヤングジャンプ』2005-2015年連載、全19巻、単行本累計670万部、テレビドラマ・アニメ化を確認。金銭を賭けたゲームで敗者が社会的・経済的に破滅する設定のためdeath-gameに加えgamblingタグも付与。受賞歴は確認できず。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "corpse-party-blood-covered",
+    "title": "コープスパーティー BloodCovered",
+    "titleKana": "コープスパーティー ブラッドカバード",
+    "originalAuthorIds": [
+      "kedoin-shin"
+    ],
+    "artistIds": [
+      "shinomiya-toshimi"
+    ],
+    "publisherId": "square-enix",
+    "themeIds": [
+      "death-game",
+      "horror",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2008,
+    "latestPublishedYear": 2012,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "友情を願う“合霊の儀式”の最中、地震により学校が崩壊し、生徒たちは呪われた異空間“天神小学校”に迷い込む。次々と命を落とす仲間を目の当たりにしながら、生存者たちは怨霊が徘徊する校舎からの脱出を図る、探索ホラーゲーム原作のサバイバルホラー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/コープスパーティー"
+    },
+    "sourceNote": "日本語版Wikipedia「コープスパーティー」項目・マンガUP!公式ページで、原作ゲームクリエイター祁答院慎(チームグリグリ)、作画篠宮トシミ、スクウェア・エニックス『ガンガンパワード→月刊ガンガンJOKER』2008-2012年連載、全10巻を確認。同シリーズには複数のコミカライズ版(娘/Another Child/Book of Shadows等、いずれも織衣美歌・緒方俊輔などが担当)が存在するが、本項では最初のBloodCovered版のみを登録した。受賞歴は確認できず。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "akuma-no-riddle",
+    "title": "悪魔のリドル",
+    "titleKana": "アクマノリドル",
+    "originalAuthorIds": [
+      "kouga-yun"
+    ],
+    "artistIds": [
+      "minakata-sunao"
+    ],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "death-game",
+      "battle-action",
+      "school"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "全寮制の特別クラス“黒姫クラス”に集められた12人の暗殺者候補は、クラスメイトの一人・一ノ瀬晴を暗殺する任務を与えられる。しかし暗殺者の東兎角は標的である晴に惹かれ、彼女を守るため他の11人と対峙することを選ぶ。学園を舞台にした少女たちの命がけの攻防を描く。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/悪魔のリドル"
+    },
+    "sourceNote": "書誌サイト(まんがseek等)・出版社情報で原作高河ゆん、作画南方純、KADOKAWA『月刊ニュータイプ』2012-2016年連載、全5巻、2014年テレビアニメ化を確認。受賞歴は確認できず。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "dead-tube",
+    "title": "DEAD Tube〜デッドチューブ〜",
+    "titleKana": "デッドチューブ",
+    "originalAuthorIds": [
+      "yamaguchi-mikoto"
+    ],
+    "artistIds": [
+      "kitagawa-touta"
+    ],
+    "publisherId": "akita-shoten",
+    "themeIds": [
+      "death-game",
+      "horror",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 28,
+    "synopsis": "映画部の高校生・町谷智浩は、学校一の美少女から2日間で24時間の撮影を頼まれたことをきっかけに、父の死と妹の失踪の真相に近づいていく。その裏には投稿者が本物の死をライブ配信する闇動画サイト“デッドチューブ”の存在があり、彼は次第に命を懸けた戦いに巻き込まれていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {
+      "officialUrl": "https://www.akitashoten.co.jp/series/4491"
+    },
+    "sourceNote": "秋田書店公式サイト・書誌サイト(BOOK☆WALKER/コミックシーモア等)で原作山口ミコト、作画北河トウタ、秋田書店『チャンピオンRED』2014年5月連載開始、2026年4月時点で28巻・累計335万部、連載中であることを確認。日本語版Wikipedia独立項目は検索で見当たらず、出版社公式および複数書誌サイトの一致で裏取りした。受賞歴は確認できず。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "satsuriku-no-tenshi",
+    "title": "殺戮の天使",
+    "titleKana": "サツリクノテンシ",
+    "originalAuthorIds": [
+      "sanada-makoto"
+    ],
+    "artistIds": [
+      "nazuka-kudan"
+    ],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "death-game",
+      "horror",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 12,
+    "synopsis": "記憶を失った少女レイチェルは、地下深くの奇妙なビルで殺人鬼ザックと出会う。互いに殺し合わない代わりに脱出を手伝うという奇妙な約束を交わした二人は、各階に潜む異形の殺人鬼たちをかいくぐりながら、上階を目指してビルからの脱出を図っていく探索型ホラー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/殺戮の天使"
+    },
+    "sourceNote": "日本語版Wikipedia「殺戮の天使」・KADOKAWA公式で原作フリーゲーム(星屑KRNKRN/真田まこと)、漫画名束くだん、KADOKAWA『月刊コミックジーン』2015-2020年連載、全12巻、累計260万部(2021年5月時点)を確認。前日譚『Episode.0』(全7巻)は別作品のため今回は本編のみ登録。受賞歴は確認できず。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shokuryo-jinrui",
+    "title": "食糧人類-Starving Anonymous-",
+    "titleKana": "ショクリョウジンルイ",
+    "originalAuthorIds": [
+      "mizutani-kengo",
+      "kuraishi-yu"
+    ],
+    "artistIds": [
+      "inabe-kazu"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "death-game",
+      "horror",
+      "sci-fi"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 7,
+    "synopsis": "地球温暖化が進んだ近未来、高校生の伊江とカズは何者かに拉致され、人間を家畜のように養殖・食用として扱う秘密施設に閉じ込められる。そこで出会った少年ナツネや謎の青年らとともに、施設を支配する巨大な脅威の正体を知り、脱出と生存を懸けた戦いに身を投じていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/食糧人類-Starving_Anonymous-"
+    },
+    "sourceNote": "日本語版Wikipedia「食糧人類-Starving Anonymous-」で原案水谷健吾・原作蔵石ユウ・作画イナベカズ、講談社『ヤングマガジン』(eヤングマガジン)2016-2018年連載、全7巻を確認。続編『Re』(2021-2023、全7巻)は別シリーズ扱いのため未登録。受賞歴は確認できず。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "jisatsu-jima",
+    "title": "自殺島",
+    "titleKana": "ジサツジマ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mori-kouji"
+    ],
+    "publisherId": "hakusensha",
+    "themeIds": [
+      "death-game",
+      "workplace-drama",
+      "adventure"
+    ],
+    "firstPublishedYear": 2008,
+    "latestPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 17,
+    "synopsis": "自殺未遂を繰り返した末に“生きる義務”の放棄を認められた青年セイは、同じ境遇の者たちが送り込まれる孤島“自殺島”に流れ着く。飛び降りても死にきれない者の姿を目撃し、“死ねないなら生きるしかない”と悟った漂流者たちが、対立と協力を重ねながら極限のサバイバル生活を送る人間ドラマ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/自殺島"
+    },
+    "sourceNote": "日本語版Wikipedia「自殺島」で森恒二作、白泉社『ヤングアニマル』2008-2016年連載、全17巻(ジェッツコミックス1-14巻+ヤングアニマルコミックス15-17巻)、前日譚『無法島』(2019-2022、全6巻・別シリーズ)の存在を確認。組織的なゲームではなく漂流サバイバルのため戦闘系テーマでなくworkplace-drama(群像劇)を付与。受賞歴は確認できず。",
+    "updatedAt": "2026-08-02"
   }
 ]
