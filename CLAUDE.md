@@ -73,14 +73,14 @@ npm run preview
 
 `useSeo.ts`(document.title/meta/canonical/OGP/JSON-LD設定)、`scripts/prerender.mjs`(`postbuild`フックでPlaywrightが全ルートをクロールし`dist/<route>/index.html`を書き出す、最後に`dist/index.html`を`dist/404.html`にコピー)、`scripts/generate-manifest.mjs`内のsitemap.xml生成の仕組みはranobe-dbと同一パターン。**canonical/og:urlはwindow.location.originでなくSITE_ORIGIN定数から組み立てる**(prerenderがvite previewのlocalhostから叩くための対策、詳細はranobe-dbのCLAUDE.md参照)。
 
-## scaffold時点のデータ規模(2026-08-02)
+## データ規模(2026-08-02、8ジャンルバッチで100作品追加後)
 
-DEATH NOTE・ワンパンマン・SPY×FAMILY・進撃の巨人・鋼の錬金術師の5作品のみ(動作確認用サンプル)。原作者2・作画家5・出版社3(集英社/講談社/スクウェア・エニックス)・テーマ7・アワード6。本格的なデータ拡充は別セッションでranobe-db同様の小バッチフローに沿って行う。
+計109作品(scaffold時点の5作品+ジャンル別8バッチ×13作品=104候補が全採用、却下0件)。原作者22・作画家101・出版社13・テーマ19・アワード7。内訳ジャンル: 少年ジャンプ系バトル/少年サンデー・マガジン系/少女漫画・ラブコメ/スポーツ/ホラー・サスペンス・デスゲーム/ギャグ・コメディ・日常/青年漫画・ドラマ・グルメ/ファンタジー・異世界・SF。各バッチはgeneral-purposeサブエージェントに日本語版Wikipedia調査を並行依頼し、完了順に`apply_batch.py`で逐次反映・ビルド確認・コミット/pushした(ranobe-dbの大量追加フローと同じ)。
 
 ## 既知の未着手事項
 
 - **GA4トラッキングタグ未導入**: ranobe-db専用IDを流用すると計測データが混ざるため、`index.html`にGoogleタグを入れていない。新規プロパティ発行が必要
-- **表紙画像は取得済み(2026-08-02)**: manga-db用に新規登録した楽天ウェブサービスのアプリID/アクセスキーで`npm run fetch-covers`を実行し、scaffold時点の5作品すべて解決(`source: "rakuten-books"`)。以後新規作品を追加したら同コマンドを再実行すること(`RAKUTEN_APP_ID`/`RAKUTEN_ACCESS_KEY`環境変数が必要、値はユーザーが管理)
+- **表紙画像は94/109作品で解決済み(2026-08-02)**: manga-db用の楽天ウェブサービスのアプリID/アクセスキーで`npm run fetch-covers`を実行。ONE PIECE・ドラゴンボール・HUNTER×HUNTER・NANA・GANTZ等15作品は楽天ブックス・Koboともに該当書誌なしでプレースホルダーのまま。**Kobo検索フォールバック(`pickBestKoboMatch`)はジャンル絞り込みがなく前方一致のみのため、「H2」→「H20 and the Waters of Forgetfulness」、「MAJOR」→「Major Bible Themes」、「ブラック・ジャック」→無関係な同名タイトル本のような誤マッチが実際に発生した(4件検出・手動でプレースホルダーに戻した)。短い/一般的すぎるタイトルの結果は`matchedTitle`を必ず目視確認すること**。以後新規作品を追加したら同コマンドを再実行し、実行後は必ず`matchedTitle`一覧を確認すること(`RAKUTEN_APP_ID`/`RAKUTEN_ACCESS_KEY`環境変数が必要、値はユーザーが管理)
 - **Web漫画プラットフォームは2種類のみ実装**(少年ジャンプ+・となりのヤングジャンプ)。他プラットフォームは`WebComicPlatform`型に未追加(検証してから追加すること)
 - **favicon/apple-touch-icon は専用デザインに差し替え済み(2026-08-02)**: `public/favicon.svg`をranobe-dbと同じ黒背景・`M PLUS Rounded 1c`・`#7cd0ff`のデザインのまま文字だけ「ま」に変更。Playwright(Google Fontsを読み込んだHTMLに埋め込んでスクリーンショット)で512pxのPNGを生成し、ImageMagickで`favicon.ico`(16/32/48pxマルチサイズ)・`apple-touch-icon.png`(180px)を書き出した。**`og-image.png`はranobe-db由来のまま未差し替え**(`scripts/generate-ogp.mjs`はテキストのみmanga-db向けに書き換え済みだが未実行)
 - **`relatedNovelUrl`(ranobe-db相互リンク)は型のみ存在し未実装**
