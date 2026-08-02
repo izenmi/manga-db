@@ -3712,5 +3712,112 @@
     },
     "sourceNote": "日本語版Wikipedia『山田胡瓜』記事(2026-08-02閲覧)で経歴(元ITmedia記者)・代表作(AIの遺電子)を確認。生年は非公開のため未記載とした。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kawai-katsutoshi",
+    "name": "河合克敏",
+    "nameKana": "かわいかつとし",
+    "description": "漫画家。「帯をギュッとね!」(柔道)でヒットを飛ばし、「モンキーターン」(競艇、第45回小学館漫画賞受賞、2004年アニメ化)、「とめはねっ! 鈴里高校書道部」(書道、2010年NHKドラマ化)等も手がける。",
+    "birthYear": 1964,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/河合克敏"
+    },
+    "sourceNote": "日本語版Wikipedia『河合克敏』記事(2026-08-02閲覧)で生年月日(1964年5月2日)・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kawada",
+    "name": "川田",
+    "nameKana": "かわだ",
+    "description": "漫画家。『モーニング』でデビュー後、こしのりょう・藤巻忠俊のアシスタントを経て『火ノ丸相撲』で連載デビュー。相撲・格闘技を得意とし、続編『アスミカケル』(総合格闘技)も手がける。",
+    "birthYear": 1983,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/川田_(漫画家)"
+    },
+    "sourceNote": "日本語版Wikipedia『川田(漫画家)』記事および関連ニュース記事(2026-08-02閲覧)で生年・経歴・代表作を確認。本名非公開、ペンネーム「川田」のみで活動。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tsunomaru",
+    "name": "つの丸",
+    "nameKana": "つのまる",
+    "description": "漫画家。動物を主人公にした作品を得意とし、代表作に『みどりのマキバオー』(第42回小学館漫画賞児童部門受賞)、続編『たいようのマキバオー』等がある。",
+    "birthYear": 1970,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/つの丸"
+    },
+    "sourceNote": "日本語版Wikipedia『つの丸』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tsurumaikada",
+    "name": "つるまいかだ",
+    "nameKana": "つるまいかだ",
+    "description": "漫画家。性別・年齢・素顔を非公表で活動する。2018年に同人誌即売会で講談社新人賞優秀賞を受賞し、会社員を辞めて2020年『メダリスト』で連載デビューした。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/つるまいかだ"
+    },
+    "sourceNote": "日本語版Wikipedia『つるまいかだ』記事(2026-08-02閲覧)で経歴を確認。記事内に「性別や年齢、顔は公表していない」旨明記されているため生年は未設定とした。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "murakami-motoka",
+    "name": "村上もとか",
+    "nameKana": "むらかみもとか",
+    "description": "漫画家。1972年『週刊少年ジャンプ』でデビュー後、小学館に拠点を移し青年誌でも活躍。代表作に『六三四の剣』(剣道、第29回小学館漫画賞受賞)、『龍-RON-』、『JIN-仁-』(テレビドラマ化)等。",
+    "birthYear": 1951,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/村上もとか"
+    },
+    "sourceNote": "日本語版Wikipedia『村上もとか』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "amase-shiori",
+    "name": "雨瀬シオリ",
+    "nameKana": "あませしおり",
+    "description": "漫画家。東京都出身。21歳時に第60回ちばてつや賞奨励賞を受賞し、2012年『月刊モーニングtwo』掲載の『ALL OUT!!』で連載デビュー。『ここは今から倫理です。』等も連載中。",
+    "birthYear": 1990,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/雨瀬シオリ"
+    },
+    "sourceNote": "日本語版Wikipedia『雨瀬シオリ』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "soda-masahito",
+    "name": "曽田正人",
+    "nameKana": "そだまさひと",
+    "description": "漫画家。東京都文京区出身。『シャカリキ!』、『め組の大吾』(小学館漫画賞受賞)、『capeta』(第29回講談社漫画賞受賞)等を手がける。",
+    "birthYear": 1968,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/曽田正人"
+    },
+    "sourceNote": "日本語版Wikipedia『曽田正人』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。『capeta』は2003年以降の作品同様「漫画製作におけるパートナー」である冨山玖呂との共著とされるが、記事内で原作/作画の明確な役割分担の記載はなく、インフォボックスの「作者」欄も曽田正人単独表記のため、本DBでは曽田正人のみをartistIdsに登録しoriginalAuthorIdsは空配列とした(冨山玖呂は未登録、役割不明確のため)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hamada-kousuke",
+    "name": "濱田浩輔",
+    "nameKana": "はまだこうすけ",
+    "description": "漫画家。福岡県筑紫野市出身。19歳で『週刊少年ジャンプ』のアシスタントとなり、2006年読切『Rewrite』でデビュー。代表作『はねバド!』(バドミントン、2018年アニメ化)。",
+    "birthYear": 1985,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/濱田浩輔"
+    },
+    "sourceNote": "日本語版Wikipedia『濱田浩輔』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "fujiko-fujio-a",
+    "name": "藤子不二雄Ⓐ",
+    "nameKana": "ふじこふじおえー",
+    "description": "漫画家。本名・安孫子素雄。藤本弘(後の藤子・F・不二雄)と長らく「藤子不二雄」としてコンビ活動し、1988年に独立。代表作に『プロゴルファー猿』『忍者ハットリくん』『怪物くん』『笑ゥせぇるすまん』『まんが道』等。2022年没。",
+    "birthYear": 1934,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/藤子不二雄Ⓐ"
+    },
+    "sourceNote": "日本語版Wikipedia『藤子不二雄Ⓐ』記事(2026-08-02閲覧)で本名・生没年(1934年生-2022年没)・経歴・代表作を確認。既存artists.jsonの『藤子・F・不二雄』(id: fujiko-f-fujio、本名・藤本弘)とは1988年のコンビ解消後に個別活動した別人であることを確認済み。",
+    "updatedAt": "2026-08-02"
   }
 ]

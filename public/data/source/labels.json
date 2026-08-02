@@ -1504,5 +1504,17 @@
     "externalLinks": {},
     "sourceNote": "Web検索結果(ピクシブ百科事典・shirowledge.com等、2026-08-02閲覧)で『アップルシード』が雑誌連載を経ず青心社から単行本描き下ろしの形で刊行されたことを確認。個別の叢書名の明記は確認できなかったため、CLAUDE.mdのレーベル入力ルール(描き下ろし単行本の場合はコミックスレーベル名を使う)に沿い、出版社名を冠した名称で登録した。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "morning-two",
+    "name": "月刊モーニングtwo",
+    "nameKana": "げっかんもーにんぐつー",
+    "publisherId": "kodansha",
+    "description": "講談社が発行する青年漫画雑誌『モーニング』の姉妹誌として刊行される月刊誌。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/月刊モーニングtwo"
+    },
+    "sourceNote": "日本語版Wikipedia『ALL OUT!!』記事(2026-08-02閲覧)のインフォボックスで掲載誌が「月刊モーニングtwo」であることを確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

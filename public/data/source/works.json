@@ -12728,5 +12728,419 @@
     ],
     "sourceNote": "日本語版Wikipedia『アップルシード』『青心社』各記事、およびピクシブ百科事典・shirowledge.com等(2026-08-02閲覧)で作者(士郎正宗、攻殻機動隊の既存artistを再利用)・刊行期間(1985-1989年)・雑誌連載を経ない青心社からの単行本描き下ろしであること・巻数(全4巻、他にデータブック・総集編)・1986年第17回星雲賞コミック部門受賞・あらすじを確認。作者自身が「凍結宣言」を出し連載が中断したまま再開していないため、statusは completed/ongoing のどちらとも言い切れず unknown とした。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yawara",
+    "title": "YAWARA!",
+    "titleKana": "やわら",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "urasawa-naoki"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-spirits",
+    "themeIds": [
+      "sports",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 1986,
+    "latestPublishedYear": 1993,
+    "status": "completed",
+    "volumeCount": 29,
+    "synopsis": "柔道の神様と呼ばれた祖父・猪熊滋悟郎の英才教育を受けて育った女子高生・柔にはずば抜けた柔道の才能があったが、本人は普通の高校生活に憧れ、柔道からできれば距離を置きたいと思っていた。しかし祖父の策略やライバルとの出会い、周囲の期待とマスコミの注目に振り回されながらも次第に競技へ本気で向き合うようになり、恋や友情も交えつつバルセロナ五輪の頂点を目指して成長していく姿を描く青春柔道漫画。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1989,
+        "result": "第35回受賞(部門詳細は要確認)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/YAWARA!"
+    },
+    "sourceNote": "日本語版Wikipedia『YAWARA!』および『浦沢直樹』記事(2026-08-02閲覧)で作者(浦沢直樹、オリジナル作品につきoriginalAuthorIdsは空配列)・連載期間(1986-1993、ビッグコミックスピリッツ/小学館)・全29巻・完結・1989年10月-1992年9月放送のテレビアニメ(124話)+劇場版+1996年TVスペシャルを確認。受賞は『浦沢直樹』記事で「第35回 小学館漫画賞(1989年)」と確認できたが部門詳細(一般向け/青年一般部門等)は記事間で表記が揺れており未確定のため要確認と明記した。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "obi-wo-gyutto-ne",
+    "title": "帯をギュッとね!",
+    "titleKana": "おびをぎゅっとね",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kawai-katsutoshi"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "sports",
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 1989,
+    "latestPublishedYear": 1995,
+    "status": "completed",
+    "volumeCount": 30,
+    "synopsis": "柔道の実力を試す選抜試験の会場で出会った中学生5人が、進学先の浜名湖高校には柔道部がないと知り、自分たちの手で部を創設することを決意する。全国の猛者たちに比べれば決して恵まれているとはいえない部員たちが、互いに衝突し励まし合いながら実力と絆を深めていき、全国制覇という高い目標に向かって奮闘する姿を、従来の重厚な柔道スポ根とは一線を画す明るく爽やかなタッチで描く青春群像劇。",
+    "mediaMix": {
+      "anime": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/帯をギュッとね!"
+    },
+    "sourceNote": "日本語版Wikipedia『帯をギュッとね!』記事(2026-08-02閲覧)で作者(河合克敏、オリジナル作品)・連載期間(週刊少年サンデー/小学館、1989年1・2合併号[1988年12月発売]-1995年52号)・全30巻・完結を確認。アニメ化については未アニメ化であることを言及する複数の記事(マグミクス「未アニメ化」特集記事等)で確認しmediaMix.animeをfalseとした。作品自体の受賞歴は記事中に確認できず(単行本巻末の読者投稿コーナー名としての「コミックグランプリ」言及のみで作品受賞ではない)、awardResultsは設定しなかった。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hinomaru-zumou",
+    "title": "火ノ丸相撲",
+    "titleKana": "ひのまるずもう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kawada"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "sports",
+      "school",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 28,
+    "synopsis": "かつて天才少年力士ともてはやされながら、恵まれない体格を理由に自ら相撲の世界から遠ざかっていた潮火ノ丸。心機一転、相撲の名門・鳥取城北高校で再び土俵に上がった彼は、規格外の小さな身体でも横綱という頂点を目指すという壮大な夢を仲間に語り、猛稽古と個性豊かな好敵手たちとの真剣勝負を重ねながら着実に力をつけていく、熱い高校相撲部の成長物語。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/火ノ丸相撲"
+    },
+    "sourceNote": "日本語版Wikipedia『火ノ丸相撲』記事(2026-08-02閲覧)で作者(川田、オリジナル作品)・連載期間(週刊少年ジャンプ/集英社、2014年26号-2019年34号)・全28巻・完結・2018年10月-2019年3月放送のテレビアニメ(GONZO制作、全24話)を確認。第39回講談社漫画賞少年部門にノミネートされたが受賞には至らなかったとの情報があり、作品自体の受賞が明記されていないためawardResultsは設定しなかった。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "pro-golfer-saru",
+    "title": "プロゴルファー猿",
+    "titleKana": "ぷろごるふぁーさる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "fujiko-fujio-a"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "sports",
+      "comedy"
+    ],
+    "firstPublishedYear": 1974,
+    "latestPublishedYear": 1988,
+    "status": "completed",
+    "volumeCount": 31,
+    "synopsis": "戦争孤児として野生児同然に育った青年・猿は、山中で身につけた規格外の身体能力を武器に賭けゴルフで生計を立てる自由人だった。ある出会いをきっかけに正式なプロを目指すことになった猿は、裏社会で暗躍するゴルフ組織「魔剣コンツェルン」が放つ数々の刺客的ライバルたちと死闘を繰り広げながら、少年誌初のゴルフ漫画としてコミカルかつ大胆不敵な勝負を勝ち抜いていく。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/プロゴルファー猿"
+    },
+    "sourceNote": "日本語版Wikipedia『プロゴルファー猿』記事(2026-08-02閲覧)で作者(1988年『新プロゴルファー猿』改題時より単独表記の藤子不二雄Ⓐ、オリジナル作品)・初出連載誌(週刊少年サンデー、1974年末開始、後に少年サンデー増刊→別冊コロコロコミック→月刊コロコロコミックへ掲載媒体変更、いずれも小学館)・『新プロゴルファー猿』までの合算31巻・1988年完結を確認。ラベルは連載開始時点の初出媒体ルールに従い週刊少年サンデーとした。1998-2005年に『ビッグコミック』で連載された続編『サル』は雑誌・対象読者層が異なり別連載の扱いのため本エントリの巻数・完結年には含めていない(sourceNoteでのみ言及)。受賞歴の記載は確認できずawardResultsは設定しなかった。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "midori-no-makibao",
+    "title": "みどりのマキバオー",
+    "titleKana": "みどりのまきばおー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tsunomaru"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "sports",
+      "comedy"
+    ],
+    "firstPublishedYear": 1994,
+    "latestPublishedYear": 1998,
+    "status": "completed",
+    "volumeCount": 16,
+    "synopsis": "小柄な体格ながら「白い奇跡」と呼ばれるほどの走力を秘めた競走馬マキバオーが、相棒のネズミ・チュウ兵衛や騎手・山本菅助ら人間味あふれる仲間たちに支えられながら競走馬としての階段を駆け上がっていく。宿命のライバルと呼ばれる名馬カスケードとの幾度にもわたる名勝負を経て、数々の重賞レースで日本競馬の頂点を目指す姿を、擬人化された動物たちのコミカルな掛け合いを交えて描く競馬漫画。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1996,
+        "result": "第42回 児童向け部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/みどりのマキバオー"
+    },
+    "sourceNote": "日本語版Wikipedia『みどりのマキバオー』記事(2026-08-02閲覧)で作者(つの丸、オリジナル作品)・連載期間(週刊少年ジャンプ/集英社、1994年50号-1998年、完結編は赤マルジャンプ1998年SPRING掲載)・全16巻・完結・1996年3月-1997年7月放送のテレビアニメ(フジテレビ系、全61話)・第42回(1996年度)小学館漫画賞児童部門受賞を確認。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "medalist",
+    "title": "メダリスト",
+    "titleKana": "めだりすと",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tsurumaikada"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "afternoon",
+    "themeIds": [
+      "sports",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2020,
+    "status": "ongoing",
+    "volumeCount": 15,
+    "synopsis": "かつてフィギュアスケート選手を志しながら夢半ばで挫折し、腐りかけていた青年・司。ある日彼は、埋もれていた才能を持ちながらもコーチに恵まれず競技から離れかけていた小学生の少女・いのりと出会い、彼女のコーチとして再起することを決意する。金銭的にも時間的にも厳しいフィギュアスケートの競技世界で、二人三脚での挑戦を通じていのりが才能を開花させていく過程と、司自身の再生をあわせて描く物語。",
+    "awardResults": [
+      {
+        "awardId": "next-manga-award",
+        "year": 2022,
+        "result": "コミックス部門1位"
+      },
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2023,
+        "result": "第68回 一般向け部門受賞"
+      },
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2024,
+        "result": "第48回 総合部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/メダリスト_(漫画)"
+    },
+    "sourceNote": "日本語版Wikipedia『メダリスト(漫画)』記事(2026-08-02閲覧)で作者(つるまいかだ、オリジナル作品)・連載開始(月刊アフタヌーン/講談社、2020年7月号)・既刊15巻(2026年7月22日時点)・連載中・2022年次にくるマンガ大賞コミックス部門1位/2023年第68回小学館漫画賞一般向け部門/2024年第48回講談社漫画賞総合部門受賞・テレビアニメ第1期(2025年1-3月)第2期(2026年1-3月)放送・2027年劇場版公開予定を確認。ラベルは既存labels.jsonの「afternoon」(アフタヌーン/講談社)を月刊アフタヌーンとして再利用した。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "gaku-minna-no-yama",
+    "title": "岳 みんなの山",
+    "titleKana": "がくみんなのやま",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ishizuka-shinichi"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-original",
+    "themeIds": [
+      "adventure",
+      "sports",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2003,
+    "latestPublishedYear": 2012,
+    "status": "completed",
+    "volumeCount": 18,
+    "synopsis": "北アルプスを拠点に、山岳ガイドとしての経験を活かしボランティアで遭難救助にあたる登山家・島崎三歩。山岳警備隊に配属されたばかりの新人隊員・椎名久美は、三歩と行動をともにする中で救助の厳しい現実や登山者一人ひとりの人生に触れていく。派手な事件を追うのではなく、遭難者の救助や下山してくる登山者との何気ない交流を積み重ねながら「なぜ人は山に登るのか」を静かに問いかける、山を舞台にした人間ドラマ。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2008,
+        "result": "大賞"
+      },
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2008,
+        "result": "第54回(平成20年度) 一般向け部門受賞"
+      },
+      {
+        "awardId": "bunkacho-media-geijutsusai",
+        "year": 2012,
+        "result": "マンガ部門優秀賞(第16回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/岳_みんなの山"
+    },
+    "sourceNote": "日本語版Wikipedia『岳 みんなの山』記事(2026-08-02閲覧)で作者(石塚真一、オリジナル作品)・連載期間(ビッグコミックオリジナル/小学館、2003年19号初掲載、後にビッグコミックオリジナル増刊とも並行掲載、2012年12号完結)・全18巻(完全版9巻)・完結・マンガ大賞2008大賞(得票68pt、2位よつばと・3位海街diaryを上回り1位)・第54回(平成20年度)小学館漫画賞一般向け部門・第16回文化庁メディア芸術祭マンガ部門優秀賞を確認。2011年に実写映画化(小栗旬・長澤まさみ主演)されたがアニメ化の記載はなくmediaMix.animeはfalseとした。ラベルは連載開始時点の初出媒体ルールによりビッグコミックオリジナルとした。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kamigami-no-itadaki",
+    "title": "神々の山嶺",
+    "titleKana": "かみがみのいただき",
+    "originalAuthorIds": [
+      "yumemakura-baku"
+    ],
+    "artistIds": [
+      "taniguchi-jiro"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "business-jump",
+    "themeIds": [
+      "adventure",
+      "sports"
+    ],
+    "firstPublishedYear": 2000,
+    "latestPublishedYear": 2003,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "エベレスト南西壁の冬季無酸素単独登攀という前人未到の挑戦に生涯を賭ける登山家・羽生丈二。ネパールの古道具屋で見つけた古いカメラをきっかけに彼の足跡を追うことになったカメラマン深町誠は、取材を通じて羽生の凄絶な過去と、登山史上最大の謎とされるジョージ・マロリーのエベレスト登頂の真相にも迫っていく。人間の執念と山への畏怖を静謐かつ骨太な筆致で描いた本格山岳漫画。",
+    "awardResults": [
+      {
+        "awardId": "bunkacho-media-geijutsusai",
+        "year": 2001,
+        "result": "第5回 マンガ部門優秀賞"
+      },
+      {
+        "awardId": "angouleme-award",
+        "year": 2005,
+        "result": "第32回 最優秀美術賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/神々の山嶺"
+    },
+    "sourceNote": "日本語版Wikipedia『神々の山嶺』記事(2026-08-02閲覧)で夢枕獏の同名小説(1994-1997年連載)を谷口ジローが漫画化したコミカライズ作品であることを確認(originalAuthorIdsは既存original-authors.jsonのyumemakura-baku、artistIdsは既存artists.jsonのtaniguchi-jiroを再利用)。連載期間(ビジネスジャンプ/集英社、2000年2月15日号-2003年3月15日号)・全5巻・完結・第5回文化庁メディア芸術祭マンガ部門優秀賞(2001年)・第32回アングレーム国際漫画祭最優秀美術賞(2005年、当時の部門名称)を確認。2016年実写映画化・2021年フランス製作のアニメーション映画化を確認しmediaMix.animeをtrueとした(日本国内のテレビアニメ化ではなく仏製作の劇場アニメ映画である点をここに明記)。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "musashi-no-ken",
+    "title": "六三四の剣",
+    "titleKana": "むさしのけん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "murakami-motoka"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "sports",
+      "school"
+    ],
+    "firstPublishedYear": 1981,
+    "latestPublishedYear": 1985,
+    "status": "completed",
+    "volumeCount": 24,
+    "synopsis": "6月3日4時に生まれたことにちなんで六三四(むさし)と名付けられた少年が、剣道の名門一家に生まれながらも、道場を継ぐはずだった父を試合中の事故で亡くすという悲しみを味わう。それでも剣道から逃げず、宿命のライバルとなる剣士・修羅たちとの厳しい稽古と真剣勝負を重ねて心身を鍛え、小学生時代から高校のインターハイ優勝を目指すまでを描いた、長期にわたる剣道成長物語。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1984,
+        "result": "第29回 少年向け部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/六三四の剣"
+    },
+    "sourceNote": "日本語版Wikipedia『六三四の剣』記事(2026-08-02閲覧)で作者(村上もとか、オリジナル作品)・連載期間(週刊少年サンデー/小学館、1981年17号-1985年41号)・全24巻(ワイド版11巻・文庫版10巻)・完結・第29回小学館漫画賞少年向け部門受賞(1984年)・1985-1986年放送のテレビアニメ(エイケン制作、全72話)を確認。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "all-out",
+    "title": "ALL OUT!!",
+    "titleKana": "おーるあうと",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "amase-shiori"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning-two",
+    "themeIds": [
+      "sports",
+      "school"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 17,
+    "synopsis": "小柄で気が短く喧嘩っ早い高校1年生・我謝憲二は、入学初日に長身で穏やかな石動澄晃と出会ったことをきっかけにラグビーというスポーツの奥深さに引き込まれていく。決して強豪とは呼べない高校ラグビー部に所属することになった二人と個性豊かな仲間たちは、それぞれ体格や性格の異なる悩みを抱えながらも、部員同士や監督・コーチら周囲の大人たちに支えられて少しずつチームとして成長していく姿を描いた群像劇。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ALL_OUT!!"
+    },
+    "sourceNote": "日本語版Wikipedia『ALL OUT!!』記事(2026-08-02閲覧)で作者(雨瀬シオリ、オリジナル作品)・連載期間(月刊モーニングtwo/講談社、2012年11月21日-2019年11月22日)・全17巻・完結・2016年10月-2017年3月放送のテレビアニメ(全25話、ラグビーテーマのアニメとしては史上初と紹介)を確認。連載誌『月刊モーニングtwo』が既存labels.jsonに存在しなかったためnewLabelsに追加(発行元は既存publishers.jsonのkodansha)。作品自体の受賞歴の記載は確認できずawardResultsは設定しなかった。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "capeta",
+    "title": "capeta",
+    "titleKana": "かぺた",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "soda-masahito"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "monthly-shonen-magazine",
+    "themeIds": [
+      "sports"
+    ],
+    "firstPublishedYear": 2003,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 32,
+    "synopsis": "幼くして母を亡くした少年・平勝平太は、亡き父が趣味で手作りしていたレーシングカートと出会ったことから運命を大きく変えていく。周囲の大人たちの支援を受けながら「チーム・カペタ」を結成した勝平太は、資金力に劣るハンデを乗り越えるべく持ち前の負けん気とセンスを武器にジュニアカートから着実にステップアップし、裕福な家庭に育った宿命のライバル・源奈臣と競い合いながらF1の頂点を目指していく成長物語。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2005,
+        "result": "第29回 少年部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Capeta"
+    },
+    "sourceNote": "日本語版Wikipedia『Capeta』記事(2026-08-02閲覧)で作者(曽田正人、インフォボックス上は単独表記のオリジナル作品)・連載期間(月刊少年マガジン/講談社、2003年3月号-2013年4月号)・全32巻・完結・第29回講談社漫画賞少年部門受賞(2005年、複数ニュース記事でも確認)・2005年10月-2006年9月放送のテレビアニメ(テレビ東京系、全52話)を確認。本文では2003年以降の作品は漫画製作パートナーの冨山玖呂との共著と説明されているが役割分担(原作/作画の区分)の明記はなく、インフォボックスも曽田正人単独表記のため、originalAuthorIdsには含めずartistIdsのみ曽田正人を登録した(詳細はartists.json側のsourceNote参照)。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hane-bad",
+    "title": "はねバド!",
+    "titleKana": "はねばど",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hamada-kousuke"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "good-afternoon",
+    "themeIds": [
+      "sports",
+      "school"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 16,
+    "synopsis": "運動神経抜群だが競技経験のない高校1年生・羽咲綾乃は、入学早々にバドミントン部の顧問からその素質を見出され、半ば強引に部へ勧誘される。当初は乗り気でなかった綾乃だが、部の主将である仲間たちとの練習や試合を重ねる中で次第にバドミントンの奥深さと勝負の厳しさにのめり込んでいき、全国大会での活躍を目指して自分自身と向き合っていく高校女子バドミントン部の青春スポーツ漫画。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/はねバド!"
+    },
+    "sourceNote": "日本語版Wikipedia『はねバド!』記事(2026-08-02閲覧)で作者(濱田浩輔、オリジナル作品)・連載期間(good!アフタヌーン/講談社、2013年6月7日-2019年10月7日)・全16巻・完結・2018年7月-10月放送のテレビアニメ(全13話)を確認。作品自体の受賞歴の記載は確認できずawardResultsは設定しなかった。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
   }
 ]
