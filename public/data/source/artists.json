@@ -2024,5 +2024,128 @@
     },
     "sourceNote": "日本語版Wikipedia『ヴァニタスの手記』記事および関連記事(2026-08-02閲覧)で確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yoshida-akimi",
+    "name": "吉田秋生",
+    "nameKana": "よしだあきみ",
+    "description": "漫画家。1977年デビュー。『河よりも長くゆるやかに』『吉祥天女』で第29回小学館漫画賞、『YASHA-夜叉-』で第47回小学館漫画賞を受賞。心理描写に長けたシャープな描線が特徴。",
+    "birthYear": 1956,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/吉田秋生"
+    },
+    "sourceNote": "日本語版Wikipedia『吉田秋生』記事(2026-08-02閲覧)で経歴・受賞歴を確認。よみがなは同記事および検索結果で「よしだあきみ」と確認(自動要約で一時「あきお」という誤読が出たため再確認した)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tamura-yumi",
+    "name": "田村由美",
+    "nameKana": "たむらゆみ",
+    "description": "漫画家。『BASARA』『7SEEDS』『ミステリと言う勿れ』等を手がける。『BASARA』で第38回小学館漫画賞を受賞。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/田村由美"
+    },
+    "sourceNote": "日本語版Wikipedia『田村由美』記事(2026-08-02閲覧)で経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "itagaki-paru",
+    "name": "板垣巴留",
+    "nameKana": "いたがきぱる",
+    "description": "漫画家。『BEASTARS』でデビューし、マンガ大賞2018大賞・第42回講談社漫画賞少年部門・第22回手塚治虫文化賞新生賞等を受賞。漫画家・板垣恵介の娘。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/BEASTARS"
+    },
+    "sourceNote": "日本語版Wikipedia『BEASTARS』記事(2026-08-02閲覧)で作者名・受賞歴を確認。板垣巴留単独の人物記事は未確認のため作品記事を出典とした。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nihei-tsutomu",
+    "name": "弐瓶勉",
+    "nameKana": "にへいつとむ",
+    "description": "漫画家。緻密な近未来SF世界観を描くことで知られ、『BLAME!』でデビュー。『シドニアの騎士』等の作品もある。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/弐瓶勉"
+    },
+    "sourceNote": "日本語版Wikipedia『弐瓶勉』記事(2026-08-02閲覧)で経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ishizuka-shinichi",
+    "name": "石塚真一",
+    "nameKana": "いしづかしんいち",
+    "description": "漫画家。『BLUE GIANT』でジャズを題材にした音楽漫画を手がけ、マンガ大賞2016で3位、第62回小学館漫画賞、第20回文化庁メディア芸術祭マンガ部門大賞を受賞。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/BLUE_GIANT"
+    },
+    "sourceNote": "日本語版Wikipedia『BLUE GIANT』記事(2026-08-02閲覧)で作者名・受賞歴を確認。第一部『BLUE GIANT』(全10巻)では石塚真一が単独クレジット、共同原作者NUMBER8は続編『SUPREME』以降からの参加であることを確認した。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "boichi",
+    "name": "Boichi",
+    "nameKana": "ぼういち",
+    "description": "漫画家。韓国・ソウル出身、本名パク・ムジク(朴武直)。2004年に日本の漫画誌でデビューし、『Sun-Ken Rock』『Dr.STONE』(原作:稲垣理一郎)等を手がける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Dr.STONE"
+    },
+    "sourceNote": "日本語版Wikipediaおよび検索結果(2026-08-02閲覧)で経歴・代表作を確認。Boichi単独の人物記事の存在は未確認のため、複数の情報源(『Dr.STONE』記事等)を突き合わせて確認した。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "fujimoto-tatsuki",
+    "name": "藤本タツキ",
+    "nameKana": "ふじもとタツキ",
+    "description": "漫画家。『ファイアパンチ』でデビュー、『チェンソーマン』の作者としても知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ファイアパンチ"
+    },
+    "sourceNote": "日本語版Wikipedia『ファイアパンチ』記事(2026-08-02閲覧)で作者名・経歴を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "oiwa-kenji",
+    "name": "大岩ケンヂ",
+    "nameKana": "おおいわけんぢ",
+    "description": "漫画家。群馬県出身。乙一原作『GOTH リストカット事件』、滝本竜彦原作『NHKにようこそ!』等の原作つき作品を多く手がける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/大岩ケンヂ"
+    },
+    "sourceNote": "日本語版Wikipedia『大岩ケンヂ』記事(2026-08-02閲覧)で経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hirano-kota",
+    "name": "平野耕太",
+    "nameKana": "ひらのこうた",
+    "description": "漫画家。『HELLSING』で吸血鬼を題材にしたバイオレンスアクションを手がける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/HELLSING"
+    },
+    "sourceNote": "日本語版Wikipedia『HELLSING』記事(2026-08-02閲覧)で作者名・経歴を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "katsura-masakazu",
+    "name": "桂正和",
+    "nameKana": "かつらまさかず",
+    "description": "漫画家。福井県出身。1981年『週刊少年ジャンプ』でデビュー。『ウイングマン』『電影少女』『I''s』等を手がける。",
+    "birthYear": 1962,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/桂正和"
+    },
+    "sourceNote": "日本語版Wikipedia『桂正和』記事(2026-08-02閲覧)で経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nakata-haruhisa",
+    "name": "中田春彌",
+    "nameKana": "なかたはるひさ",
+    "description": "漫画家。人体と機械を融合させた格闘技「機関拳闘」を描くSF作品『Levius -レビウス-』を手がける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Levius_-レビウス-"
+    },
+    "sourceNote": "日本語版Wikipedia『Levius -レビウス-』記事(2026-08-02閲覧)で作者名・経歴を確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

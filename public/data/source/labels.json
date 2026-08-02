@@ -1028,5 +1028,15 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipedia『X (漫画)』記事(2026-08-02閲覧)で1992年5月号より月刊ASUKAで連載開始したことを確認。角川書店は2013年の持株会社体制移行によりKADOKAWAへ吸収されたため、既存publisherId「kadokawa」をそのまま採用(発行元の断絶はないため宝島社パターンとは異なる)。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "young-king-ours",
+    "name": "ヤングキングアワーズ",
+    "nameKana": "やんぐきんぐあわーず",
+    "publisherId": "shonen-gahosha",
+    "description": "少年画報社が発行する青年漫画雑誌。『HELLSING』の初出誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『HELLSING』記事(2026-08-02閲覧)で『HELLSING』が1997年から少年画報社『ヤングキングアワーズ』に連載されたことを確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

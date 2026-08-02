@@ -512,5 +512,16 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipedia『あかね噺』記事、集英社公式サイト(2026-08-02閲覧)で原作:末永裕樹/作画:馬上鷹将のクレジットを確認。個人の日本語版Wikipedia単独記事は未確認のためexternalLinksは空とした。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "otsuichi",
+    "name": "乙一",
+    "nameKana": "おついち",
+    "description": "小説家。本名・安達寛高。1996年『夏と花火と私の死体』でデビュー。ミステリ・ホラー・ファンタジー等幅広いジャンルで活躍し、『GOTH リストカット事件』で第3回本格ミステリ大賞を受賞。「山白朝子」「中田永一」等の別名義でも執筆する。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/乙一"
+    },
+    "sourceNote": "日本語版Wikipedia『乙一』記事(2026-08-02閲覧)で経歴・代表作・受賞歴を確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

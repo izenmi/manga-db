@@ -6798,5 +6798,440 @@
     },
     "sourceNote": "日本語版Wikipedia『ヴァニタスの手記』記事(2026-08-02閲覧)で作者・掲載誌(月刊ガンガンJOKER、既存label id流用、2016年1月連載開始)・アニメ化(2021-2022年)を確認。既刊巻数(11巻、2024年4月時点)は連載中のため今後増加する可能性がある。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "banana-fish",
+    "title": "BANANA FISH",
+    "titleKana": "ばななふぃっしゅ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yoshida-akimi"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "bessatsu-shojo-comic",
+    "themeIds": [
+      "suspense-psychological",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 1985,
+    "latestPublishedYear": 1994,
+    "status": "completed",
+    "volumeCount": 19,
+    "synopsis": "ニューヨークのストリートギャングを束ねる美貌の少年アッシュ・リンクスは、人の意志を狂わせる謎の薬物「バナナフィッシュ」の秘密を追ううち、マフィアのボスや米軍上層部を巻き込む巨大な陰謀の渦中に立たされる。取材のため来米した日本人カメラマン助手・英二との出会いが彼の孤独な心を変えていくが、暴力から逃れられない過酷な運命が二人に容赦なく迫る。国境も立場も超えた友情と痛切な生き様を描いた伝説的な作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/BANANA_FISH"
+    },
+    "sourceNote": "日本語版Wikipedia『BANANA FISH』記事(2026-08-02閲覧)で作者・掲載誌・連載期間・巻数・アニメ化(2018年)を確認。作品自体の受賞歴の記載はなし(作者吉田秋生は他作品で小学館漫画賞受賞歴あり)。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "basara",
+    "title": "BASARA",
+    "titleKana": "ばさら",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tamura-yumi"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "bessatsu-shojo-comic",
+    "themeIds": [
+      "adventure",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1990,
+    "latestPublishedYear": 1998,
+    "status": "completed",
+    "volumeCount": 27,
+    "synopsis": "20世紀末の文明崩壊後、王による圧政が続く日本。「運命の子供」と予言された双子の兄タタラが村の襲撃で命を落とすと、妹の更紗はタタラの身代わりとして白虎の宝刀を手に取り、圧政打倒を目指す旅に出る。旅の途中で出会った敵対する国の若き王・朱里に惹かれていくが、互いに正体を隠したまま倒すべき宿敵として対峙せねばならない運命が二人を引き裂いていく、雄大なスケールの戦記ロマン。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1993,
+        "result": "第38回少女向け部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/LEGEND_OF_BASARA"
+    },
+    "sourceNote": "日本語版Wikipedia『LEGEND OF BASARA』記事(2026-08-02閲覧、田村由美の漫画作品記事)で作者・掲載誌・連載期間・巻数・受賞歴・アニメ化/ノベライズを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "beastars",
+    "title": "BEASTARS",
+    "titleKana": "びーすたーず",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "itagaki-paru"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "shonen-champion",
+    "themeIds": [
+      "school",
+      "detective-mystery",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 22,
+    "synopsis": "肉食獣と草食獣が表向きは対等な立場で共生する世界。全寮制の学園「チェリートン学園」に通う大柄なハイイロオオカミの少年レゴシは、演劇部の仲間が何者かに食殺された事件をきっかけに、自身の内に眠る獣としての衝動と理性の狭間で苦悩し始める。小柄なウサギの少女ハルへの抑えがたい感情や種族間の隠れた差別とも向き合いながら、本能と理性の狭間で自分なりの生き方を模索していく異色の学園群像劇。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2018,
+        "result": "オトコ編2位"
+      },
+      {
+        "awardId": "manga-taisho",
+        "year": 2018,
+        "result": "大賞"
+      },
+      {
+        "awardId": "bunkacho-media-geijutsusai",
+        "year": 2018,
+        "result": "第21回マンガ部門新人賞"
+      },
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2018,
+        "result": "第22回新生賞"
+      },
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2018,
+        "result": "第42回少年部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/BEASTARS"
+    },
+    "sourceNote": "日本語版Wikipedia『BEASTARS』記事および受賞発表記事(2026-08-02閲覧)で作者・掲載誌・連載期間・巻数・受賞歴多数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "blame",
+    "title": "BLAME!",
+    "titleKana": "ぶらむ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nihei-tsutomu"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "afternoon",
+    "themeIds": [
+      "sci-fi",
+      "adventure"
+    ],
+    "firstPublishedYear": 1997,
+    "latestPublishedYear": 2003,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "自己増殖を続け際限なく拡大した超巨大な階層都市を舞台に、正規のアクセス権を持たない者を無差別に殺戮する自動防衛システム「セーフガード」が跋扈する荒廃した遠未来。無口な主人公キリイは、暴走したネットワークを鎮めるために必要な「正規ネット端末遺伝子」を持つ人間を探し求め、科学者サナカンやシボと出会いながら、果てしなく広がる巨大構造物の奥深くを黙々と歩き続ける寡黙なSFサバイバル譚。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/BLAME!"
+    },
+    "sourceNote": "日本語版Wikipedia『BLAME!』記事(2026-08-02閲覧)で作者・掲載誌(月刊アフタヌーン)・連載期間・巻数・2017年劇場アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "blue-giant",
+    "title": "BLUE GIANT",
+    "titleKana": "ぶるーじゃいあんと",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ishizuka-shinichi"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic",
+    "themeIds": [
+      "music"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "仙台の高校生・宮本大は、偶然耳にしたジャズの演奏に衝撃を受け、独学でサックスを吹き始める。上京後、東京藝大を目指す天才肌のピアニスト・沢辺雪祈、ドラム未経験ながら情熱だけで加わった玉田俊二と出会い、トリオバンド「JASS」を結成。日本最高峰のジャズクラブへの出演を目標に、才能や環境の差にぶつかりながらも、まっすぐに世界一のジャズプレイヤーを目指していく熱血音楽青春譚。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2016,
+        "result": "3位"
+      },
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2017,
+        "result": "第62回一般向け部門受賞"
+      },
+      {
+        "awardId": "bunkacho-media-geijutsusai",
+        "year": 2017,
+        "result": "第20回マンガ部門大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/BLUE_GIANT"
+    },
+    "sourceNote": "日本語版Wikipedia『BLUE GIANT』記事(2026-08-02閲覧)で第一部『BLUE GIANT』(2013年5月〜2016年8月、全10巻、ビッグコミック掲載)の作者・受賞歴・アニメ化(2023年劇場版)を確認。続編SUPREME/EXPLORER/MOMENTUMは共同原作者NUMBER8が参加する別シリーズのため本エントリには含めていない。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "dr-stone",
+    "title": "Dr.STONE",
+    "titleKana": "どくたーすとーん",
+    "originalAuthorIds": [
+      "inagaki-riichiro"
+    ],
+    "artistIds": [
+      "boichi"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "sci-fi",
+      "adventure"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 27,
+    "synopsis": "謎の石化現象により全人類が石になってしまってから約3700年後、科学の知識に絶対の自信を持つ高校生・千空が石化から目覚める。文明の痕跡すら失われた原始の世界で、力自慢の大樹ら仲間を集めながら、石斧作りから始めて火薬・電気・薬品と少しずつ科学技術を積み上げ、人類全員の石化を解く方法と、対立する石神村の司との決着を目指す。腕力ではなく知恵で世界を切り開くサバイバル×サイエンス冒険譚。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2019,
+        "result": "第64回少年向け部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Dr.STONE"
+    },
+    "sourceNote": "日本語版Wikipedia『Dr.STONE』記事(2026-08-02閲覧)で原作・作画・掲載誌・連載期間・巻数・小学館漫画賞受賞・アニメ化を確認。「次にくるマンガ大賞2018」等の他ランキングは既存award一覧に該当がないため今回は採用していない。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "fire-punch",
+    "title": "Fire Punch",
+    "titleKana": "ふぁいあぱんち",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "fujimoto-tatsuki"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonenjump-plus",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 8,
+    "synopsis": "終わらない氷河期に覆われた世界。焼いても焼いても燃え続け、決して死ねない呪われた体を授かった青年アグニは、村と最愛の妹を奪った敵国の将軍ドマへの復讐だけを胸に生き続ける。しかし物語はやがて予想もつかない方向へ転がり始め、自らを撮影する謎の少女トガタとの奇妙な旅を通して、復讐劇からコメディ、ヒーロー譚へとジャンルそのものを越境しながら、暴力・救済・創作の意味を過激に問い続けていく異色作。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2017,
+        "result": "オトコ編3位"
+      },
+      {
+        "awardId": "manga-taisho",
+        "year": 2017,
+        "result": "8位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "webComicSource": {
+      "platform": "shonenjump-plus"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ファイアパンチ"
+    },
+    "sourceNote": "日本語版Wikipedia『ファイアパンチ』記事(2026-08-02閲覧)で作者・掲載媒体(少年ジャンプ+)・連載期間・巻数・受賞歴を確認。アニメ化の記載は確認できなかったためfalseとした。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "goth-risutokatto-jiken",
+    "title": "GOTH -リストカット事件-",
+    "titleKana": "ごすりすとかっとじけん",
+    "originalAuthorIds": [
+      "otsuichi"
+    ],
+    "artistIds": [
+      "oiwa-kenji"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "shonen-ace",
+    "themeIds": [
+      "suspense-psychological",
+      "horror",
+      "detective-mystery"
+    ],
+    "firstPublishedYear": 2003,
+    "latestPublishedYear": 2003,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "他人には決して見せない暗い興味を胸に秘めた高校生「僕」は、両腕に無数のリストカットの痕を持ち周囲から孤立している同級生・森野夜と、ある事件をきっかけに奇妙な協力関係を築いていく。二人はそれぞれの異常な観察眼と冷徹さを武器に、街で起きる猟奇的な連続殺人や失踪事件の真相を独自に追っていくが、その過程で自分たち自身の中にも潜む底知れない闇と向き合わされていく、ダークミステリー連作短編集。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/GOTH_リストカット事件"
+    },
+    "sourceNote": "日本語版Wikipedia『GOTH リストカット事件』記事および検索結果(2026-08-02閲覧)で、原作は乙一の同名小説(第3回本格ミステリ大賞受賞)、漫画版は大岩ケンヂ作画で『月刊少年エース』2003年2月号〜5月号に連載・角川コミックス・エースより単行本全1巻刊行されたことを確認。novelizationは原作が小説でありコミカライズ自体なのでfalse(逆方向のため対象外)とした。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "happiness",
+    "title": "Happiness",
+    "titleKana": "はぴねす",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "oshimi-shuzo"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "bessatsu-shonen-magazine",
+    "themeIds": [
+      "horror",
+      "school",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "学校でいじめを受け孤立している高校生・岡崎誠は、ある夜見知らぬ少女ノアに血を吸われたことをきっかけに、自らの体にも異常な変化が現れ始める。日光を避けたくなる衝動や血への渇望に戸惑いながら、ノアを執拗に付け狙う謎の集団や、変わっていく自分に気づき始める級友たちとの間で揺れ動いていく。人ならざる存在になったことで初めて「幸福」の意味を問い直すことになる青春ホラー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ハピネス_(押見修造の漫画)"
+    },
+    "sourceNote": "日本語版Wikipedia『ハピネス(押見修造の漫画)』記事(2026-08-02閲覧)で作者・掲載誌(別冊少年マガジン)・連載期間(2015年3月〜2019年4月)・巻数を確認。同記事はあらすじ中心で受賞歴・メディアミックスの記載がなかったため両方とも未確認としfalse/空欄とした。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hellsing",
+    "title": "HELLSING",
+    "titleKana": "へるしんぐ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hirano-kota"
+    ],
+    "publisherId": "shonen-gahosha",
+    "labelId": "young-king-ours",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action",
+      "horror"
+    ],
+    "firstPublishedYear": 1997,
+    "latestPublishedYear": 2008,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "20世紀末のイギリスを舞台に、国家非公認で吸血鬼や怪物を秘密裏に討伐する大英帝国王立国教騎士団「ヘルシング機関」の暗躍を描くバイオレンスアクション。機関に絶対服従の契約で使役される最強無敵の吸血鬼アーカードと、彼に見出され自らも吸血鬼となった元婦警セラスが、南米に潜んでいたナチス残党の秘密組織「ミレニアム」による英国本土への凄惨な侵攻という未曾有の脅威に、圧倒的な暴力で立ち向かっていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/HELLSING"
+    },
+    "sourceNote": "日本語版Wikipedia『HELLSING』記事(2026-08-02閲覧)で作者・掲載誌(ヤングキングアワーズ)・連載期間(1997年〜2008年)・巻数・アニメ化(2001年TV版、2006〜2012年OVA)を確認。掲載誌の発行元・少年画報社は現行単行本刊行元と一致するため、labelのpublisherIdもshonen-gahoshaとした。作品自体の漫画賞受賞の明記は確認できずawardResultsは空とした。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "is",
+    "title": "I''s",
+    "titleKana": "あいず",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "katsura-masakazu"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "romance",
+      "school"
+    ],
+    "firstPublishedYear": 1997,
+    "latestPublishedYear": 2000,
+    "status": "completed",
+    "volumeCount": 15,
+    "synopsis": "ごく平凡な高校生・瀬戸一貴は、隣に引っ越してきた学校一の美少女・葦月伊織に密かな想いを寄せるが、臆病な性格からなかなか自分の気持ちを伝えられずにいる。幼なじみで一貴に好意を寄せる逸子や、個性的なクラスメイトたちとの人間関係も絡み合いながら、SF的な超能力バトル要素を一切排し、思春期特有の不器用でもどかしい恋心をひたすら丁寧かつリアルに描き切った、少年誌ではめずらしい正統派の純愛ラブコメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/桂正和"
+    },
+    "sourceNote": "日本語版Wikipedia『桂正和』記事および検索結果(2026-08-02閲覧)で作者・掲載誌(週刊少年ジャンプ、1997年19号〜2000年24号)・巻数・OVA化/ゲーム化/小説化/実写ドラマ化を確認。TVアニメ化はされていないためmediaMix.animeはfalseとした。作品単独のWikipedia記事URLが404で取得できなかったため作者記事を出典とした。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "levius",
+    "title": "Levius-レビウス-",
+    "titleKana": "れびうす",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nakata-haruhisa"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "ikki",
+    "themeIds": [
+      "sci-fi",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2021,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "かつての戦争で右腕と父を失い、心を病んだ母も昏睡状態に陥ってしまった孤独な少年レビウスは、機械の義腕を武器に戦う格闘技「機関拳闘」と出会い、その世界に自分の生きる場所を見出していく。天涯孤独な境遇の中で見出された規格外の才能と向き合い、義腕を通して伝わる痛みや興奮を糧に、様々な思惑を抱えたライバルたちとの死闘を勝ち抜き頂点を目指していく、精緻な描き込みが魅力のスチームパンク風近未来格闘アクション。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Levius_-レビウス-"
+    },
+    "sourceNote": "日本語版Wikipediaおよび検索結果(2026-08-02閲覧)で、初出は小学館『月刊IKKI』(2013年2月号〜、全3巻)で、同誌休刊後に集英社『ウルトラジャンプ』へ移り続編『Levius/est』(2015年5月〜2021年7月、全10巻)として連載継続、新装版含め現行の単行本は集英社刊であることを確認。ルールに従いlabelIdは初出の『月刊IKKI』(小学館、既存ラベルのpublisherIdもshogakukanのまま)とし、work.publisherIdは現行刊行元の集英社とした。volumeCountは初出無印『Levius』全3巻分のみを記載(続編est全10巻・新装版は含めず、シリーズ全体の巻数は未確認)。Netflixオリジナルアニメ化(2019年)を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
   }
 ]
