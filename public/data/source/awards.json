@@ -128,5 +128,17 @@
     },
     "sourceNote": "日本語版Wikipedia『ハーベイ賞』およびチェンソーマンの受賞報道記事(2026-08-02閲覧)を参照して概要を記載。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nihon-sf-taisho",
+    "name": "日本SF大賞",
+    "organizer": "日本SF作家クラブ",
+    "description": "日本SF作家クラブが主催する、その年最も優れたSF作品(小説・マンガ・映像等ジャンルを問わない)に贈られる賞。",
+    "firstYear": 1980,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/日本SF大賞"
+    },
+    "sourceNote": "日本語版Wikipedia『日本SF大賞』記事および日本SF作家クラブ公式サイト(2026-08-02閲覧)で主催・開始年(1980年)を確認。第45回(2025年)に市川春子『宝石の国』が受賞したことを同公式サイトの発表記事で確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

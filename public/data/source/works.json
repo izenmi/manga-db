@@ -8457,5 +8457,395 @@
     },
     "sourceNote": "日本語版Wikipedia『修羅の門』記事(2026-08-02閲覧)で作者(川原正敏)・連載誌(月刊少年マガジン、講談社、第一編1987年5月号-1996年12月号)・巻数(第一編全31巻)・受賞歴(講談社漫画賞)を確認。後年連載された続編『修羅の門 第弐門』(2010-2015年、全18巻)は候補タイトルが「修羅の門」のため本項の登録対象外とした。アニメ化・小説化の明記は確認できずmediaMixは省略。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hikari-ga-shinda-natsu",
+    "title": "光が死んだ夏",
+    "titleKana": "ひかりがしんだなつ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mokumokuren"
+    ],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "horror",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2021,
+    "status": "ongoing",
+    "volumeCount": 9,
+    "synopsis": "過疎の山村に暮らす高校生よしきの親友・光は、ある日山から姿を消し、別の姿で戻ってくる。よしきは戻ってきた「光」が本物ではなく、人ならざる何かに成り代わられていることに気づくが、それでも彼を受け入れて共に暮らし続けることを選ぶ。二人の奇妙な関係を軸に、山に潜む正体不明の怪異と、消えた本物の光の行方をめぐる謎が静かな恐怖とともに描かれる青春ホラー。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2023,
+        "result": "オトコ編1位"
+      },
+      {
+        "awardId": "manga-taisho",
+        "year": 2023,
+        "result": "ノミネート(11位)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/光が死んだ夏"
+    },
+    "sourceNote": "日本語版Wikipedia『光が死んだ夏』記事(2026-08-02閲覧)で作者・連載開始(2021年、当初pixiv/Twitter投稿を経てガンガンオンラインへ移行)・単行本発行元(KADOKAWA)・既刊巻数(9巻、2026年6月時点)・アニメ化(2025年)・小説化(額賀澪)・受賞歴(このマンガがすごい!2023オトコ編1位、マンガ大賞2023で11位)を確認。連載媒体は当初pixiv/Twitterの個人投稿、その後ガンガンオンラインへ移行しており、shonenjump-plus/tonari-young-jump以外のためwebComicSourceは未設定。labelIdは連載開始時点の初出に厳密に従うとpixiv個人投稿だが、商業連載としての初出媒体であるヤングエースUP(KADOKAWA)を採用した(ガンガンオンラインでの連載開始時期は情報源で明確に確認できなかったため)。この点は不確実性として明記する。",
+    "updatedAt": "2026-08-02",
+    "labelId": "young-ace-up"
+  },
+  {
+    "id": "doubutsu-no-oishasan",
+    "title": "動物のお医者さん",
+    "titleKana": "どうぶつのおいしゃさん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "sasaki-noriko"
+    ],
+    "publisherId": "hakusensha",
+    "themeIds": [
+      "comedy",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 1987,
+    "latestPublishedYear": 1993,
+    "status": "completed",
+    "volumeCount": 12,
+    "synopsis": "北海道の大学獣医学部を舞台に、優秀だが浮世離れした学生ハムテルと、彼が拾ったシベリアンハスキーのチョビ、個性豊かな同級生・二階堂や教授たちとの日々を描くコメディ。動物病院での実習中に起きるハプニングや、研究室に持ち込まれる珍事件の数々を通じて、獣医を目指す若者たちの奮闘とゆるい人間模様がユーモラスに綴られる、動物と大学生活を題材にした名作コメディ漫画。",
+    "mediaMix": {
+      "anime": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/動物のお医者さん"
+    },
+    "sourceNote": "日本語版Wikipedia『動物のお医者さん』記事(2026-08-02閲覧)で作者・掲載誌(花とゆめ、白泉社)・連載期間(1987年～1993年)・既刊巻数(花とゆめコミックス全12巻)・累計発行部数(2160万部以上)・2003年のテレビドラマ化を確認。テレビアニメ化は確認できず(ドラマ化のみ)、mediaMix.animeはfalseとした。",
+    "updatedAt": "2026-08-02",
+    "labelId": "hana-to-yume"
+  },
+  {
+    "id": "tengoku-daimakyou",
+    "title": "天国大魔境",
+    "titleKana": "てんごくだいまきょう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ishiguro-masakazu"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "sci-fi",
+      "adventure",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2018,
+    "status": "ongoing",
+    "volumeCount": 13,
+    "synopsis": "正体不明の大災害から数十年後、廃墟と化した日本を旅する少年少女マルとキルコの物語と、外の世界を知らぬまま「楽園」と呼ばれる施設で管理者ロボットに見守られながら育てられる子供たちの物語が並行して描かれる。二つの世界はやがて交錯し、施設の秘密と外の世界で起きた出来事の全貌、そして人類が失ったものの正体が少しずつ明らかになっていく、謎に満ちたポストアポカリプスSF。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2019,
+        "result": "オトコ編1位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/天国大魔境"
+    },
+    "sourceNote": "日本語版Wikipedia『天国大魔境』記事(2026-08-02閲覧)で作者・掲載誌(月刊アフタヌーン、講談社)・連載開始(2018年)・既刊巻数(13巻、2026年2月時点)・アニメ化(2023年)・受賞歴(このマンガがすごい!2019オトコ編1位)を確認。デスゲーム(命を懸けたゲーム/競技)的な要素はなく一般的なポストアポカリプス・サバイバル作品のため、テーマはdeath-gameでなくsci-fi/adventure/suspense-psychologicalを採用した。フランスJapan Expo Awards等の海外賞・アニメ版限定の賞は対象外とし未記載。",
+    "updatedAt": "2026-08-02",
+    "labelId": "afternoon"
+  },
+  {
+    "id": "joshikousei-no-mudazukai",
+    "title": "女子高生の無駄づかい",
+    "titleKana": "じょしこうせいのむだづかい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "beeno"
+    ],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "comedy",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2015,
+    "status": "ongoing",
+    "volumeCount": 16,
+    "synopsis": "さいのたま女子高等学校に通う田中・菊池・鷺宮ら個性的な女子高生たちが、青春の貴重な時間をひたすらくだらないことに費やして過ごす日常を描くショートギャグコメディ。恋愛にもまじめな部活動にも縁のない彼女たちが繰り広げる、脱力感あふれる掛け合いとテンポの良いボケとツッコミ、そして時折のぞく素直になれない優しさが魅力の学園コメディ作品。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/女子高生の無駄づかい"
+    },
+    "sourceNote": "日本語版Wikipedia『女子高生の無駄づかい』記事(2026-08-02閲覧)で作者(ビーノ)・掲載経緯(ニコニコ静画への個人投稿→2015年12月4日ComicWalkerでリメイク商業連載開始→ニコニコエース→現コミックNewtype)・単行本レーベル(角川コミックス・エース、KADOKAWA)・既刊巻数(16巻、2026年6月時点)・アニメ化(2019年)・実写ドラマ化(2020年)を確認。labelIdは商業連載としての初出媒体ComicWalkerを採用(個人投稿サイトのニコニコ静画は商業レーベルではないため除外)。テレビドラマ化はmediaMixの定義(anime/novelization)に該当項目がないため未記載。",
+    "updatedAt": "2026-08-02",
+    "labelId": "comic-walker"
+  },
+  {
+    "id": "houseki-no-kuni",
+    "title": "宝石の国",
+    "titleKana": "ほうせきのくに",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ichikawa-haruko"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "sci-fi",
+      "dark-fantasy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2024,
+    "status": "completed",
+    "volumeCount": 13,
+    "synopsis": "遠い未来、宝石の身体を持つ人型生命体たちが、月から飛来する謎の敵「月人」の襲撃と戦いながら暮らす世界。硬度が低く戦闘に向かないため博物誌編纂を任された最年少の宝石・フォスフォフィライトは、やがて月人や仲間たちとの関わりの中で世界の成り立ちに関わる大きな謎に巻き込まれ、存在そのものを変容させながら過酷な運命をたどっていく。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-taisho",
+        "year": 2025,
+        "result": "第45回受賞"
+      },
+      {
+        "awardId": "seiun-award",
+        "year": 2025,
+        "result": "コミック部門受賞(第56回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/宝石の国"
+    },
+    "sourceNote": "日本語版Wikipedia『宝石の国』記事(2026-08-02閲覧)で作者・掲載誌(月刊アフタヌーン、講談社)・連載期間(2012年～2024年6月号、全13巻)・アニメ化(2017年)・受賞歴(第45回日本SF大賞2025年、第56回星雲賞コミック部門2025年)を確認。",
+    "updatedAt": "2026-08-02",
+    "labelId": "afternoon"
+  },
+  {
+    "id": "hoshin-engi",
+    "title": "封神演義",
+    "titleKana": "ほうしんえんぎ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "fujisaki-ryu"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "battle-action",
+      "historical",
+      "comedy"
+    ],
+    "firstPublishedYear": 1996,
+    "latestPublishedYear": 2000,
+    "status": "completed",
+    "volumeCount": 23,
+    "synopsis": "古代中国・殷王朝末期、悪女・妲己に惑わされた紂王の暴政により世は乱れる。仙人界の教主・元始天尊の命を受けた仙人見習いの太公望は、地上に降りて仲間を集め、様々な仙術道具「宝貝」を駆使しながら、殷を打倒し周を興す「封神計画」を進めていく。中国古典小説を大胆に翻案し、ギャグとシリアスを織り交ぜた仙界バトル活劇。",
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/封神演義_(漫画)"
+    },
+    "sourceNote": "日本語版Wikipedia『封神演義(漫画)』記事(2026-08-02閲覧)で作者(藤崎竜、既存artist idのfujisaki-ryuを再利用)・掲載誌(週刊少年ジャンプ、集英社)・連載期間(1996年28号～2000年47号)・通常版全23巻・アニメ化2作品・小説化を確認。原作は明代の中国古典怪奇小説『封神演義』(安能務訳版を下敷き)だが、作者・成立過程が伝統的に不詳/諸説ある古典であり、蒼天航路(originalAuthorIds使用例)のような特定可能な現代の脚本家が存在するケースとは異なるため、originalAuthorIdsは空とし本文中で経緯を明記するに留めた。ギャグ・メタフィクション要素を含む大胆な翻案であることも作者の創作性の強さを示す一因。",
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-jump"
+  },
+  {
+    "id": "shoujo-shuumatsu-ryokou",
+    "title": "少女終末旅行",
+    "titleKana": "しょうじょしゅうまつりょこう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tsukumizu"
+    ],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "sci-fi",
+      "adventure",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "文明が崩壊し人類がほとんど滅びた終末世界で、少女チトとユーリの二人は装軌車を頼りに、瓦礫と化した都市の階層構造を上へ上へと目指して旅を続ける。乏しい食料と燃料をやりくりしながら、道中で出会うわずかな生存者や奇妙な存在との交流を通じて、失われた文明の断片と、それでも続く日常のささやかな温かさを静かに描く。",
+    "awardResults": [
+      {
+        "awardId": "seiun-award",
+        "year": 2019,
+        "result": "コミック部門受賞(第50回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/少女終末旅行"
+    },
+    "sourceNote": "日本語版Wikipedia『少女終末旅行』記事(2026-08-02閲覧)で作者・掲載誌(くらげバンチ、新潮社)・連載期間(2014年～2018年、全6巻)・アニメ化(2017年)・受賞歴(第50回星雲賞コミック部門2019年)を確認。デスゲーム的な命懸けの競技・ゲーム要素はなく、緩やかな終末世界のロードムービー的作品のためdeath-gameテーマは使用せず、sci-fi/adventure/slice-of-lifeを採用した。",
+    "updatedAt": "2026-08-02",
+    "labelId": "kurage-bunch"
+  },
+  {
+    "id": "yamada-kun-to-lv999-no-koi-wo-suru",
+    "title": "山田くんとLv999の恋をする",
+    "titleKana": "やまだくんとれべる999のこいをする",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mashiro-mangaka"
+    ],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2019,
+    "status": "ongoing",
+    "volumeCount": 10,
+    "synopsis": "彼氏に振られたショックで、勧められたオンラインゲームを始めた女子大生あかねは、ゲーム内で口の悪いプレイヤー「山田」と出会う。ぶっきらぼうな彼に振り回されながらも次第に惹かれていくが、実は山田は学校でも人気の高校生だった。ゲームと現実、二つの世界で近づいたり離れたりする二人の距離感を描く恋愛コメディ。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/山田くんとLv999の恋をする"
+    },
+    "sourceNote": "日本語版Wikipedia『山田くんとLv999の恋をする』記事(2026-08-02閲覧)で作者(ましろ)・連載開始媒体(GANMA!、コミックスマート運営、2019年3月7日開始)・単行本レーベル(MFコミックス、KADOKAWA)・既刊巻数(10巻、2024年11月時点)・アニメ化(2023年)・実写映画化(2025年)を確認。GANMA!はshonenjump-plus/tonari-young-jump以外のプラットフォームのためwebComicSourceは未設定。新規レーベルganma・新規出版社comic-smartを追加した。",
+    "updatedAt": "2026-08-02",
+    "labelId": "ganma"
+  },
+  {
+    "id": "kishibe-rohan-wa-ugokanai",
+    "title": "岸辺露伴は動かない",
+    "titleKana": "きしべろはんはうごかない",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "araki-hirohiko"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "horror",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 1997,
+    "status": "ongoing",
+    "volumeCount": 3,
+    "synopsis": "『ジョジョの奇妙な冒険』第4部に登場する人気漫画家・岸辺露伴を主役に据えたスピンオフ短編集。相手の人生を「本」に変えて読み取る能力ヘブンズ・ドアーを武器に、漫画のネタ探しや興味本位で怪奇現象や奇妙な依頼人に首を突っ込む露伴が、常識の通じない恐怖と不可思議な謎に次々と遭遇していく。一話完結形式で描かれる大人向けのホラーサスペンス。",
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/岸辺露伴は動かない"
+    },
+    "sourceNote": "日本語版Wikipedia『岸辺露伴は動かない』記事(2026-08-02閲覧)で第1作「懺悔室」の初出(週刊少年ジャンプ1997年30号)、以後ジャンプSQ./週刊少年ジャンプ/少年ジャンプ+/別冊マーガレット等複数誌にまたがって不定期掲載されてきた経緯、単行本レーベル(ジャンプ・コミックス、集英社)・既刊巻数(3巻、2025年5月時点)、OVA化(2017-2020)・NHKドラマ化(2020-2024)・実写映画化を確認。作者は『ジョジョの奇妙な冒険』と同一の荒木飛呂彦のため既存artist id araki-hirohikoを再利用し、originalAuthorIdsには追加しない(一部話数の「原作:岸辺露伴」表記は作中の虚構キャラクター名義でありメタ的な演出のため実在の原作者としては扱わない)。掲載誌が短編ごとに複数誌へまたがる特殊な連載形態のため、labelIdは記事で明記された最初の掲載誌(週刊少年ジャンプ)を「連載開始時点の初出媒体」として採用したが、シリーズとして最も強く紐づくのはウルトラジャンプであるとの見方もあり、この点は不確実性として明記する。",
+    "updatedAt": "2026-08-02",
+    "labelId": "shonen-jump"
+  },
+  {
+    "id": "himouto-umaru-chan",
+    "title": "干物妹!うまるちゃん",
+    "titleKana": "ひもうといもうとうまるちゃん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "sankaku-head"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "comedy",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 13,
+    "synopsis": "外では美人で成績優秀、スポーツ万能と誰もが認める優等生の海馬うまるは、家に帰った途端にジャージ姿でお菓子片手にごろごろ過ごす「干物」状態に豹変する。そんな妹の面倒を見ながら会社勤めをこなす兄・太平との同居生活を中心に、ゲームやアニメに没頭するうまると個性的な友人・同僚たちが繰り広げる、ギャップ萌えたっぷりの日常コメディ。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/干物妹!うまるちゃん"
+    },
+    "sourceNote": "日本語版Wikipedia『干物妹!うまるちゃん』記事(2026-08-02閲覧)で作者(サンカクヘッド)・掲載誌(週刊ヤングジャンプ、集英社)・連載期間(2013年15号～2017年50号、続編『G』が2017年53号～2018年20号)・既刊巻数(本編12巻+G版1巻の計13巻)・アニメ化(2015年・2017年の2期)を確認。",
+    "updatedAt": "2026-08-02",
+    "labelId": "young-jump"
+  },
+  {
+    "id": "boukyaku-battery",
+    "title": "忘却バッテリー",
+    "titleKana": "ぼうきゃくばってりー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mikawa-eco"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "sports",
+      "comedy"
+    ],
+    "firstPublishedYear": 2018,
+    "status": "ongoing",
+    "volumeCount": 23,
+    "synopsis": "中学時代に「規格外」と恐れられた天才ピッチャー清峰晴だが、なぜか野球部のない古手指高校に入学する。同じく中学時代のバッテリー相手で、記憶喪失により野球経験をすっかり忘れてしまった要になぜか付きまとわれながら、二人はゼロから野球部を作り直すことに。かつてのライバルたちも集い、記憶と才能をめぐる青春野球漫画が幕を開ける。",
+    "mediaMix": {
+      "anime": true
+    },
+    "webComicSource": {
+      "platform": "shonenjump-plus"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/忘却バッテリー"
+    },
+    "sourceNote": "日本語版Wikipedia『忘却バッテリー』記事(2026-08-02閲覧)で作者(みかわ絵子)・連載開始(2018年4月26日、少年ジャンプ+にて開始、週刊少年ジャンプ本誌への掲載はなし)・単行本レーベル(ジャンプコミックス、集英社)・既刊巻数(23巻、2026年1月時点)・OVA化(2020年)・アニメ化(第1期2024年、第2期2027年予定)・舞台化(2025年)を確認。",
+    "updatedAt": "2026-08-02",
+    "labelId": "shonenjump-plus"
+  },
+  {
+    "id": "kaiju-8-gou",
+    "title": "怪獣8号",
+    "titleKana": "かいじゅうはちごう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "matsumoto-naoya"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "battle-action",
+      "sci-fi"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2025,
+    "status": "completed",
+    "volumeCount": 16,
+    "synopsis": "怪獣が日常的に出現する日本で、怪獣専門清掃業に従事する32歳の日比野カフカは、防衛隊入隊という幼馴染との約束を諦めきれずにいた。ある日謎の小型生物を吸い込んだことで自身も怪獣化してしまい、「怪獣8号」として指名手配される身に。人間の姿を保ったまま怪獣の力を得たカフカが、正体を隠しながら防衛隊員として怪獣と戦う姿を描く。",
+    "awardResults": [
+      {
+        "awardId": "next-manga-award",
+        "year": 2021,
+        "result": "Webマンガ部門1位(第7回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "webComicSource": {
+      "platform": "shonenjump-plus"
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/怪獣8号"
+    },
+    "sourceNote": "日本語版Wikipedia『怪獣8号』記事(2026-08-02閲覧)で作者(松本直也)・連載媒体(少年ジャンプ+、2020年開始)・完結(2025年7月、全16巻)・アニメ化(第1期2024年、第2期2025年)・スピンオフ小説・受賞歴(次にくるマンガ大賞2021 Webマンガ部門1位)を確認。",
+    "updatedAt": "2026-08-02",
+    "labelId": "shonenjump-plus"
   }
 ]

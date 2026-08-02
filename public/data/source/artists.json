@@ -2491,5 +2491,115 @@
     "externalLinks": {},
     "sourceNote": "電子書店(コミックシーモア・ブックライブ等)の書誌情報および作者プロフィール掲載記事(2026-08-02閲覧)で経歴・代表作を確認。日本語版Wikipediaに単独記事は確認できず生年は未設定。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "mokumokuren",
+    "name": "モクモクれん",
+    "nameKana": "もくもくれん",
+    "description": "漫画家。pixiv・Twitter(X)への投稿を経て『光が死んだ夏』で商業デビュー、同作をガンガンオンラインで連載する。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/モクモクれん"
+    },
+    "sourceNote": "日本語版Wikipedia『光が死んだ夏』記事(2026-08-02閲覧)で作者名・経歴を確認。生年等の個人情報は確認できず未記載。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "sasaki-noriko",
+    "name": "佐々木倫子",
+    "nameKana": "ささきのりこ",
+    "description": "漫画家。『動物のお医者さん』『Heaven?』『チャンネルはそのまま!』等、独特の脱力感あるギャグセンスで知られる作品を手がける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/佐々木倫子"
+    },
+    "sourceNote": "日本語版Wikipedia『佐々木倫子』『動物のお医者さん』記事(2026-08-02閲覧)で経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ishiguro-masakazu",
+    "name": "石黒正数",
+    "nameKana": "いしぐろまさかず",
+    "description": "漫画家。『それでも町は廻っている』『天国大魔境』等、日常と非日常を巧みに織り交ぜた作風で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/石黒正数"
+    },
+    "sourceNote": "日本語版Wikipedia『石黒正数』『天国大魔境』記事(2026-08-02閲覧)で経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "beeno",
+    "name": "ビーノ",
+    "nameKana": "びーの",
+    "description": "漫画家。ニコニコ静画への投稿作をリメイクした『女子高生の無駄づかい』でブレイクした。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/女子高生の無駄づかい"
+    },
+    "sourceNote": "日本語版Wikipedia『女子高生の無駄づかい』記事、コミックシーモア等の電子書店の著者表記(2026-08-02閲覧)で作者名を確認。単独の人物記事は未確認のため経歴詳細は本作の情報を元に記載。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ichikawa-haruko",
+    "name": "市川春子",
+    "nameKana": "いちかわはるこ",
+    "description": "漫画家。『虫と歌』『宝石の国』等、独創的な生物・鉱物モチーフの世界観で知られる。第45回日本SF大賞受賞。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/市川春子"
+    },
+    "sourceNote": "日本語版Wikipedia『市川春子』『宝石の国』記事(2026-08-02閲覧)で経歴・代表作・受賞歴を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tsukumizu",
+    "name": "つくみず",
+    "nameKana": "つくみず",
+    "description": "漫画家。『少女終末旅行』で第50回星雲賞コミック部門を受賞。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/つくみず"
+    },
+    "sourceNote": "日本語版Wikipedia『つくみず』『少女終末旅行』記事(2026-08-02閲覧)で経歴・受賞歴を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "mashiro-mangaka",
+    "name": "ましろ",
+    "nameKana": "ましろ",
+    "description": "漫画家。Webプラットフォーム「GANMA!」で連載する『山田くんとLv999の恋をする』が初連載作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/山田くんとLv999の恋をする"
+    },
+    "sourceNote": "日本語版Wikipedia『山田くんとLv999の恋をする』記事(2026-08-02閲覧)で作者名・経歴を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "sankaku-head",
+    "name": "サンカクヘッド",
+    "nameKana": "さんかくへっど",
+    "description": "漫画家。『干物妹!うまるちゃん』で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/干物妹!うまるちゃん"
+    },
+    "sourceNote": "日本語版Wikipedia『干物妹!うまるちゃん』記事(2026-08-02閲覧)で作者名を確認。単独の人物記事は未確認のため経歴詳細は本作の情報を元に記載。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "mikawa-eco",
+    "name": "みかわ絵子",
+    "nameKana": "みかわえこ",
+    "description": "漫画家。『忘却バッテリー』を少年ジャンプ+で連載する。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/忘却バッテリー"
+    },
+    "sourceNote": "日本語版Wikipedia『忘却バッテリー』記事および電子書店の著者表記(2026-08-02閲覧)で作者名を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "matsumoto-naoya",
+    "name": "松本直也",
+    "nameKana": "まつもとなおや",
+    "description": "漫画家。『怪獣8号』で第7回(2021年)次にくるマンガ大賞Webマンガ部門1位を獲得した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/松本直也"
+    },
+    "sourceNote": "日本語版Wikipedia『松本直也』『怪獣8号』記事(2026-08-02閲覧)で経歴・受賞歴を確認。",
+    "updatedAt": "2026-08-02"
   }
 ]
