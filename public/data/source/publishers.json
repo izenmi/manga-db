@@ -237,5 +237,16 @@
     },
     "sourceNote": "日本語版Wikipedia『祥伝社』記事(2026-08-02閲覧)で創業年・事業内容を確認。『Paradise Kiss』連載誌『Zipper』の発行元として登録。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "gentosha",
+    "name": "幻冬舎",
+    "nameKana": "げんとうしゃ",
+    "description": "日本の出版社。幻冬舎コミックスレーベルで漫画も刊行する。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/幻冬舎"
+    },
+    "sourceNote": "日本語版Wikipedia『幻冬舎』記事等(2026-08-02閲覧)で存在を確認。『リアル鬼ごっこ』の漫画版(幻冬舎コミックス)の刊行元として新規追加。",
+    "updatedAt": "2026-08-02"
   }
 ]

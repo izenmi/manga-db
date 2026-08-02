@@ -8058,5 +8058,404 @@
     },
     "sourceNote": "日本語版Wikipedia『パタリロ!』記事(2026-08-02閲覧)で作者・連載誌(花とゆめ、他に別冊花とゆめ・MELODY・マンガPark等にも掲載実績あり)・連載開始(1978年、現在も連載中)・既刊巻数(2022年6月時点104巻、それ以降未確認のため増えている可能性あり)・受賞歴・アニメ化を確認。オリジナル作品のためoriginalAuthorIdsは空配列。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hikaru-no-go",
+    "title": "ヒカルの碁",
+    "titleKana": "ひかるのご",
+    "originalAuthorIds": [
+      "hotta-yumi"
+    ],
+    "artistIds": [
+      "obata-takeshi"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "school",
+      "arts"
+    ],
+    "firstPublishedYear": 1999,
+    "latestPublishedYear": 2003,
+    "status": "completed",
+    "volumeCount": 23,
+    "synopsis": "小学6年生の進藤ヒカルは祖父の蔵で見つけた古い碁盤に宿る、平安時代の天才棋士・藤原佐為の霊に取り憑かれる。囲碁を知らなかったヒカルは佐為に導かれるまま対局を重ねるうち、次第に囲碁そのものに魅了されていく。ライバル塔矢アキラとの出会いを経て、ヒカルはやがて佐為なしでも自らの一手で「神の一手」を追い求めるプロ棋士へと成長していく。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2000,
+        "result": "第45回小学館漫画賞少年向け部門受賞"
+      },
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2003,
+        "result": "第7回手塚治虫文化賞新生賞受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ヒカルの碁"
+    },
+    "sourceNote": "日本語版Wikipedia『ヒカルの碁』記事(2026-08-02閲覧)で原作者(ほったゆみ)・作画(小畑健)・連載誌(週刊少年ジャンプ、1999年2・3合併号-2003年33号)・巻数(ジャンプコミックス全23巻)・受賞歴(小学館漫画賞、手塚治虫文化賞新生賞)・アニメ化/小説化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "fushigi-yugi",
+    "title": "ふしぎ遊戯",
+    "titleKana": "ふしぎゆうぎ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "watase-yuu"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shojo-comic",
+    "themeIds": [
+      "isekai",
+      "romance",
+      "adventure"
+    ],
+    "firstPublishedYear": 1992,
+    "latestPublishedYear": 1996,
+    "status": "completed",
+    "volumeCount": 18,
+    "synopsis": "中学生の御空美朱と親友の唯は、図書館で見つけた古い書物「四神天地書」に吸い込まれ、古代中国を思わせる異世界へ迷い込む。美朱は東の国の巫女として七星士を集め守護神・朱雀を降臨させる使命を負うが、同じ書物に取り込まれた唯もまた別の国で巫女となり、二人はやがて敵味方に分かれていく。異世界での恋と友情、運命の残酷さを描くファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ふしぎ遊戯"
+    },
+    "sourceNote": "日本語版Wikipedia『ふしぎ遊戯』『渡瀬悠宇』記事(2026-08-02閲覧)で作者・連載誌(小学館『少女コミック』1992年1号-1996年12号)・巻数(フラワーコミックス全18巻)・アニメ化/小説化を確認。作品単独での受賞歴の明記は確認できず空欄とした。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "black-clover",
+    "title": "ブラッククローバー",
+    "titleKana": "ぶらっくくろーばー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tabata-yuki"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "battle-action",
+      "dark-fantasy",
+      "adventure"
+    ],
+    "firstPublishedYear": 2015,
+    "status": "ongoing",
+    "volumeCount": 37,
+    "synopsis": "魔法が全てを支配する世界で、魔力を全く持たずに生まれた少年アスタは、孤児院で育った親友ユノとともに魔法帝を目指すと誓う。強力な魔法を操るユノと違い、アスタは魔力を無効化する「反魔法」の力と鍛え抜いた肉体で戦う。最低最悪と噂される魔法騎士団「黒の暴牛」に入団したアスタは、個性的な仲間たちと共に成長し、王国を脅かす魔族との戦いに身を投じていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ブラッククローバー"
+    },
+    "sourceNote": "日本語版Wikipedia『ブラッククローバー』記事(2026-08-02閲覧)で作者(田畠裕基)・連載誌(週刊少年ジャンプ、2015年12号-2023年38号、以後ジャンプGIGAで継続連載中)・アニメ化を確認。巻数は2025年9月時点の37巻(連載継続中のため今後増加の可能性あり)。受賞歴の明記は確認できず空欄。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "mob-psycho-100",
+    "title": "モブサイコ100",
+    "titleKana": "もぶさいこひゃく",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "one"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "ura-sunday",
+    "themeIds": [
+      "battle-action",
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 16,
+    "synopsis": "微弱ながら強大な超能力を持つ中学生・影山茂夫、通称モブは、自称霊能力者の霊幻新隆のもとでアルバイトをしながら、感情の高ぶりとともに暴走しかねない自分の力と向き合っている。恋や部活動に悩む普通の中学生でありたいと願う一方、怪しい超能力者集団や悪霊との衝突に巻き込まれていき、力との付き合い方を通じて少しずつ成長していく。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2017,
+        "result": "第62回小学館漫画賞少年向け部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/モブサイコ100"
+    },
+    "sourceNote": "日本語版Wikipedia『モブサイコ100』記事(2026-08-02閲覧)で作者(ONE)・連載開始媒体(小学館のウェブコミック配信サイト「裏サンデー」2012年4月18日連載開始、2014年12月からアプリ「マンガワン」でも配信)・巻数(全16巻)・受賞歴(小学館漫画賞)・アニメ化を確認。原作者ONEが作画も兼ねるオリジナル作品のためoriginalAuthorIdsは空とし、既存original-authors.jsonの\"one\"(ワンパンマン原作者)と同一人物としてartists.jsonにも同id\"one\"で新規登録した。labelIdは初出媒体「裏サンデー」を採用。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yofukashi-no-uta",
+    "title": "よふかしのうた",
+    "titleKana": "よふかしのうた",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kotoyama"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "slice-of-life",
+      "romance",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2024,
+    "status": "completed",
+    "volumeCount": 20,
+    "synopsis": "夜眠れず家を抜け出した中学生・七草不夜城は、深夜の路上で出会った女性ナズナから彼女の正体が人を殺さず孤独に生きる吸血鬼であることを明かされる。不夜城は「眠れない理由を見つけたら吸血鬼にしてもらう」約束を交わし、ナズナと共に夜の街を巡りながら夜行性の人々と出会っていく。昼の世界になじめない少年少女が夜だけの時間で結ぶ関係を描く物語。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2023,
+        "result": "第68回小学館漫画賞少年向け部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/よふかしのうた_(漫画)"
+    },
+    "sourceNote": "日本語版Wikipedia『よふかしのうた(漫画)』記事および電子書店書誌情報(2026-08-02閲覧)で作者(コトヤマ)・連載誌(週刊少年サンデー、2019年39号-2024年9号)・巻数(全20巻)・受賞歴(小学館漫画賞)・アニメ化を確認。2025年からの短期集中連載『-楽園編-』は本項の対象外。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ramen-hakkenden",
+    "title": "ラーメン発見伝",
+    "titleKana": "らーめんはっけんでん",
+    "originalAuthorIds": [
+      "kube-midori"
+    ],
+    "artistIds": [
+      "kawai-tan"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-superior",
+    "themeIds": [
+      "gourmet",
+      "business"
+    ],
+    "firstPublishedYear": 1999,
+    "latestPublishedYear": 2009,
+    "status": "completed",
+    "volumeCount": 26,
+    "synopsis": "サラリーマンの藤本浩平は、勤務の傍らラーメン屋台で自らの理想のラーメンを追求している。将来自分の店を持つことを夢見ながら、天才肌のライバル店主・芹沢達也との対決や様々なラーメン職人との出会いを通じて、味だけでなく原価計算や経営戦略までも含めた「ラーメンで生きていく」ことの難しさと奥深さを学んでいく、実務的な視点も盛り込んだグルメ漫画。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ラーメン発見伝"
+    },
+    "sourceNote": "日本語版Wikipedia『ラーメン発見伝』記事および電子書店書誌情報(2026-08-02閲覧)で原作(久部緑郎)・作画(河合単)・連載誌(ビッグコミックスペリオール、小学館、1999年23号-2009年15号)・巻数(ビッグコミックス全26巻)を確認。2004年に日本テレビでドラマ化されたがアニメ化・小説化は確認できずmediaMixは省略。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "love-hina",
+    "title": "ラブひな",
+    "titleKana": "らぶひな",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "akamatsu-ken"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "romance",
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 1998,
+    "latestPublishedYear": 2001,
+    "status": "completed",
+    "volumeCount": 14,
+    "synopsis": "浪人生の浦島景太郎は、幼い頃に交わした「一緒に東京大学に入ろう」という約束を果たすため上京するが、行き場を失い祖母が営む女子寮「ひなた荘」の管理人を任されることになる。個性豊かな女子寮生たちとの共同生活の中でドタバタと恋愛模様に巻き込まれながら、景太郎は幼い頃の約束の相手を探し続ける青春ラブコメディ。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2001,
+        "result": "第25回講談社漫画賞少年部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ラブひな"
+    },
+    "sourceNote": "日本語版Wikipedia『ラブひな』記事(2026-08-02閲覧)で作者(赤松健)・連載誌(週刊少年マガジン、1998年47号-2001年48号)・巻数(全14巻)・受賞歴(講談社漫画賞受賞、小学館漫画賞は候補どまりのためawardResultsには含めず)・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "real-onigokko",
+    "title": "リアル鬼ごっこ",
+    "titleKana": "りあるおにごっこ",
+    "originalAuthorIds": [
+      "yamada-yusuke"
+    ],
+    "artistIds": [
+      "sugiyama-satoshi"
+    ],
+    "publisherId": "gentosha",
+    "labelId": "birz-comics-special",
+    "themeIds": [
+      "death-game",
+      "suspense-psychological",
+      "horror"
+    ],
+    "firstPublishedYear": 2004,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "近未来、国王は突如「佐藤」姓を持つ全国民を7日間かけて狩ると宣言する。理不尽な国家権力による理由なき殺戮の対象とされた大学生・佐藤翼は、妹を守るため追っ手から逃げ続ける。山田悠介の同名小説を原作に、国家ぐるみの一方的な「鬼ごっこ」という理不尽な暴力から生き延びようとする若者の恐怖と絶望を描いたサバイバルホラー。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/リアル鬼ごっこ"
+    },
+    "sourceNote": "候補にあたり漫画化の実在を慎重に確認した。日本語版Wikipedia『リアル鬼ごっこ』記事(2026-08-02閲覧)に、山田悠介原作・杉山敏作画による漫画版が幻冬舎コミックス『バーズコミックス スペシャル』レーベルから2004年3月に刊行された旨の記載があることを確認(電子書店の書誌情報でも裏取り)。同記事には映画第2作・2015年版映画にそれぞれ対応した別作画者による漫画版の存在も記載されているが、本項では最初に刊行された2004年の杉山敏版のみを登録対象とした。国家による理不尽な集団的人狩りという設定のためdeath-gameテーマを付与。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "isshukan-friends",
+    "title": "一週間フレンズ。",
+    "titleKana": "いっしゅうかんふれんず",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hazuki-matcha"
+    ],
+    "publisherId": "square-enix",
+    "labelId": "gangan-joker",
+    "themeIds": [
+      "romance",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 7,
+    "synopsis": "高校生の長谷祐樹は、クラスメイトの藤宮香織が「1週間経つと友達との記憶を失ってしまう」という秘密を抱えていることを知る。過去のつらい経験から友人を作ることを避けてきた香織に対し、祐樹は記憶が消えてしまう前提でも根気強く関わり続けることを選ぶ。忘れても紡がれ続ける友情と、少しずつ育っていく恋心を描いた青春ラブストーリー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/一週間フレンズ。"
+    },
+    "sourceNote": "日本語版Wikipedia『一週間フレンズ。』記事および電子書店書誌情報(2026-08-02閲覧)で作者(葉月抹茶)・連載誌(月刊ガンガンJOKER、スクウェア・エニックス、2012年1月-2015年1月)・巻数(全7巻)・アニメ化(2014年)・実写映画化(2017年)を確認。受賞歴の明記は確認できず空欄。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "fumetsu-no-anata-e",
+    "title": "不滅のあなたへ",
+    "titleKana": "ふめつのあなたへ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "oima-yoshitoki"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "adventure",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2025,
+    "status": "completed",
+    "volumeCount": 25,
+    "synopsis": "未知の観察者によって地上に投げ込まれた球体の存在「それ」は、触れたものの姿を写し取る力を持つ。オオカミ、やがて人間の少年の姿を得た「フシ」は、不死身の肉体と出会った者の記憶を宿す能力を頼りに、様々な人々や生き物との出会いと別れを重ねながら、長い時をかけて世界を巡る旅を続けていく。生と死、愛の意味を問う壮大な人間讃歌。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2019,
+        "result": "第43回講談社漫画賞少年部門受賞"
+      },
+      {
+        "awardId": "manga-taisho",
+        "year": 2018,
+        "result": "マンガ大賞2018 5位"
+      },
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2018,
+        "result": "このマンガがすごい!2018 オトコ編3位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/不滅のあなたへ"
+    },
+    "sourceNote": "日本語版Wikipedia『不滅のあなたへ』記事(2026-08-02閲覧)で作者(大今良時)・連載誌(週刊少年マガジン、2016年11月9日-2025年6月4日)・巻数(全25巻)・受賞歴(講談社漫画賞、マンガ大賞、このマンガがすごい!)・アニメ化を確認。クランチロール・アニメアワードはアニメ版のみが対象の賞のためawardResultsには含めなかった。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "imawa-no-kuni-no-alice-retry",
+    "title": "今際の国のアリス外伝 今際の国のアリスRetry",
+    "titleKana": "いまわのくにのありすがいでん いまわのくにのありすりとらい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "aso-haro"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "death-game",
+      "suspense-psychological",
+      "horror",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2021,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "本編から時を経て、荒廃した「今際の国」を舞台にした続編。スクールカウンセラーとして平穏な日々を送っていた有栖良平は、ある朝目覚めると人影の消えた渋谷でヒト以外の生物に満ちた異様な光景を目にする。混乱する良平の前に見知らぬ男女5人と何者かの死体が現れ、新たな「げぇむ」の開始が告げられる。大人になった元プレイヤーが再び生き残りを賭ける戦いに引き戻される外伝。",
+    "awardResults": [],
+    "sourceNote": "麻生羽呂『今際の国のアリス』のスピンオフとして刊行された作品。日本語版Wikipedia『今際の国のアリス』本編記事には別スピンオフ『今際の路のアリス』(月刊サンデーGX)の記載はあるが、本作『今際の国のアリスRETRY』を扱う独立記事・言及箇所は確認できなかったため、出版社小学館の公式電子書店(shogakukan-comic.jp)・comic シーモア・BookLive!等の書誌情報で実在と内容を裏取りした(週刊少年サンデー2020年46号-2021年8号連載、全2巻、作者・作画とも麻生羽呂本人)。原作者は本編と同じ麻生羽呂本人のためoriginalAuthorIdsは空とし、artistIdsのみ既存id\"aso-haro\"を再利用した。あらすじは独自要約(コピペなし)。Wikipedia単独記事が未確認のためexternalLinksは省略。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shura-no-mon",
+    "title": "修羅の門",
+    "titleKana": "しゅらのもん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kawahara-masatoshi"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "monthly-shonen-magazine",
+    "themeIds": [
+      "battle-action"
+    ],
+    "firstPublishedYear": 1987,
+    "latestPublishedYear": 1996,
+    "status": "completed",
+    "volumeCount": 31,
+    "synopsis": "古来千年不敗を誇るという陸奥圓明流の継承者・九十九侍は、己の拳一つでその力を証明するため各流派の猛者たちと戦いを重ねていく。空手・キックボクシング・プロレス・ボクシングなど異種格闘技との対決を軸に、圧倒的な強さを持ちながらも人間として成長していく主人公の姿と、それぞれの格闘技が持つ美学や矜持を描く格闘漫画の金字塔。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1990,
+        "result": "第14回講談社漫画賞少年部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/修羅の門"
+    },
+    "sourceNote": "日本語版Wikipedia『修羅の門』記事(2026-08-02閲覧)で作者(川原正敏)・連載誌(月刊少年マガジン、講談社、第一編1987年5月号-1996年12月号)・巻数(第一編全31巻)・受賞歴(講談社漫画賞)を確認。後年連載された続編『修羅の門 第弐門』(2010-2015年、全18巻)は候補タイトルが「修羅の門」のため本項の登録対象外とした。アニメ化・小説化の明記は確認できずmediaMixは省略。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
   }
 ]

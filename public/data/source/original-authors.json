@@ -557,5 +557,41 @@
     },
     "sourceNote": "日本語版Wikipedia『蝸牛くも』記事(2026-08-02閲覧)で経歴・『ゴブリンスレイヤー』原作者であることを確認。生年月日は同記事に記載なし。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hotta-yumi",
+    "name": "ほったゆみ",
+    "nameKana": "ほったゆみ",
+    "description": "漫画原作者。夫で漫画家の堀田由美との夫婦共同ペンネーム。『ヒカルの碁』の原作(ストーリー構成)を担当し、囲碁ブームを牽引した。",
+    "birthYear": 1957,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ほったゆみ"
+    },
+    "sourceNote": "日本語版Wikipedia『ほったゆみ』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kube-midori",
+    "name": "久部緑郎",
+    "nameKana": "くべみどりお",
+    "description": "漫画原作者・フリーライター(本名:岩見吉朗)。『ラーメン発見伝』『らーめん才遊記』など河合単との共作によるラーメン漫画シリーズの原作を担当。",
+    "birthYear": 1965,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/久部緑郎"
+    },
+    "sourceNote": "日本語版Wikipedia『久部緑郎』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yamada-yusuke",
+    "name": "山田悠介",
+    "nameKana": "やまだゆうすけ",
+    "description": "小説家。デスゲーム・サバイバルを題材にしたホラー/サスペンス小説で知られる。『リアル鬼ごっこ』原作者。",
+    "birthYear": 1981,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/山田悠介"
+    },
+    "sourceNote": "日本語版Wikipedia『山田悠介』記事(2026-08-02閲覧)で生年・経歴・『リアル鬼ごっこ』原作者であることを確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

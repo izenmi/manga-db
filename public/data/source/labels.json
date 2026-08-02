@@ -1070,5 +1070,47 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipedia『ダンジョン飯』記事(2026-08-02閲覧)でハルタ初出・改題経緯を確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shojo-comic",
+    "name": "少女コミック",
+    "nameKana": "しょうじょこみっく",
+    "publisherId": "shogakukan",
+    "description": "小学館が発行していた少女漫画雑誌(後にSho-Comiへ改称)。",
+    "externalLinks": {},
+    "sourceNote": "『ふしぎ遊戯』は1992年に『少女コミック』(小学館)で連載開始したことを検索結果・書誌情報(2026-08-02閲覧)で確認。同誌は後年『Sho-Comi』へ改称したが連載開始時点の名称を採用。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "big-comic-superior",
+    "name": "ビッグコミックスペリオール",
+    "nameKana": "びっぐこみっくすぺりおーる",
+    "publisherId": "shogakukan",
+    "description": "小学館が発行する青年漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "『ラーメン発見伝』の連載誌として検索結果・電子書店書誌情報(2026-08-02閲覧)で確認。『ビッグコミックスピリッツ』とは別の雑誌のため混同しないよう個別確認した。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ura-sunday",
+    "name": "裏サンデー",
+    "nameKana": "うらさんでー",
+    "publisherId": "shogakukan",
+    "description": "小学館が運営するウェブコミック配信サイト。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/裏サンデー"
+    },
+    "sourceNote": "『モブサイコ100』は2012年4月18日に『裏サンデー』で連載開始し、2014年12月からアプリ『マンガワン』でも配信されたことを日本語版Wikipedia『モブサイコ100』『裏サンデー』記事等(2026-08-02閲覧)で確認。labelIdは初出媒体の裏サンデーを採用(後年主力の配信先マンガワンではない)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "birz-comics-special",
+    "name": "バーズコミックス スペシャル",
+    "nameKana": "ばーずこみっくすすぺしゃる",
+    "publisherId": "gentosha",
+    "description": "幻冬舎コミックスのコミックスレーベル。",
+    "externalLinks": {},
+    "sourceNote": "『リアル鬼ごっこ』(杉山敏画/山田悠介原作)は幻冬舎コミックス『バーズコミックス スペシャル』レーベルより2004年3月に刊行されたことを日本語版Wikipedia『リアル鬼ごっこ』記事・電子書店書誌情報(2026-08-02閲覧)で確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

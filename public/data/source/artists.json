@@ -2387,5 +2387,109 @@
     },
     "sourceNote": "日本語版Wikipedia『魔夜峰央』記事(2026-08-02閲覧)で経歴・代表作を確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "watase-yuu",
+    "name": "渡瀬悠宇",
+    "nameKana": "わたせゆう",
+    "description": "漫画家。大阪府岸和田市出身。『ふしぎ遊戯』『妖しのセレス』など少女漫画・少年漫画双方で活躍。",
+    "birthYear": 1970,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/渡瀬悠宇"
+    },
+    "sourceNote": "日本語版Wikipedia『渡瀬悠宇』記事(2026-08-02閲覧)で生年・出身地・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tabata-yuki",
+    "name": "田畠裕基",
+    "nameKana": "たばたゆうき",
+    "description": "漫画家。福岡県古賀市出身。『ブラッククローバー』の作者。",
+    "birthYear": 1984,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/田畠裕基"
+    },
+    "sourceNote": "日本語版Wikipedia『田畠裕基』記事(2026-08-02閲覧)で生年・出身地・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "one",
+    "name": "ONE",
+    "nameKana": "わん",
+    "description": "漫画家。『モブサイコ100』は原作・作画とも自身が担当するオリジナル作品。『ワンパンマン』では原作を担当し村田雄介が作画。",
+    "birthYear": 1986,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ONE_(漫画家)"
+    },
+    "sourceNote": "日本語版Wikipedia『ONE (漫画家)』記事(2026-08-02閲覧)で経歴・代表作を確認。既存original-authors.jsonに同一人物が原作者id\"one\"として登録済み(ワンパンマン用)だが、『モブサイコ100』は原作・作画とも本人が担当するオリジナル作品のためoriginalAuthorIdsには入れず、artists.json側にも同一id\"one\"で新規登録した(tezuka-osamuと同じ両プール登録パターン)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kotoyama",
+    "name": "コトヤマ",
+    "nameKana": "ことやま",
+    "description": "漫画家。『だがしかし』『よふかしのうた』の作者。Web発の投稿作品が編集部の目に留まり週刊少年サンデーでデビュー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/コトヤマ"
+    },
+    "sourceNote": "日本語版Wikipedia『コトヤマ』記事(2026-08-02閲覧)で経歴・代表作を確認。生年の記載は確認できず未設定。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kawai-tan",
+    "name": "河合単",
+    "nameKana": "かわいたん",
+    "description": "漫画家。山形市出身。中央大学商学部卒、銀行員を経て漫画家に。『ラーメン発見伝』など久部緑郎とのラーメン漫画シリーズで作画を担当。",
+    "birthYear": 1958,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/河合単"
+    },
+    "sourceNote": "日本語版Wikipedia『河合単』記事(2026-08-02閲覧)で生年・出身地・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "akamatsu-ken",
+    "name": "赤松健",
+    "nameKana": "あかまつけん",
+    "description": "漫画家。『ラブひな』『魔法先生ネギま!』の作者。後年は著作権・創作者保護に関する活動や政治家としても活動。",
+    "birthYear": 1968,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/赤松健"
+    },
+    "sourceNote": "日本語版Wikipedia『赤松健』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kawahara-masatoshi",
+    "name": "川原正敏",
+    "nameKana": "かわはらまさとし",
+    "description": "漫画家。広島県三原市出身。『修羅の門』『海皇紀』の作者。横4コマや大ゴマを多用する特徴的なコマ割りで知られる。",
+    "birthYear": 1960,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/川原正敏"
+    },
+    "sourceNote": "日本語版Wikipedia『川原正敏』記事(2026-08-02閲覧)で生年・出身地・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hazuki-matcha",
+    "name": "葉月抹茶",
+    "nameKana": "はづきまっちゃ",
+    "description": "漫画家。『一週間フレンズ。』の作者。",
+    "birthYear": 1990,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/葉月抹茶"
+    },
+    "sourceNote": "日本語版Wikipedia『葉月抹茶』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "sugiyama-satoshi",
+    "name": "杉山敏",
+    "nameKana": "すぎやまさとし",
+    "description": "漫画家。和光大学表現学部芸術学科卒、2003年『TRUE LOVERS ONE』でデビュー。山田悠介原作『リアル鬼ごっこ』の漫画化を担当。",
+    "externalLinks": {},
+    "sourceNote": "電子書店(コミックシーモア・ブックライブ等)の書誌情報および作者プロフィール掲載記事(2026-08-02閲覧)で経歴・代表作を確認。日本語版Wikipediaに単独記事は確認できず生年は未設定。",
+    "updatedAt": "2026-08-02"
   }
 ]
