@@ -42,5 +42,40 @@
     },
     "sourceNote": "日本語版Wikipedia『ブルーロック』記事(2026-08-02閲覧)で原作者であることを確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "amagi-seimaru",
+    "name": "天樹征丸",
+    "nameKana": "あまぎせいまる",
+    "description": "漫画原作者の共有ペンネーム。「金田一少年の事件簿」等の原作を手がける名義で、現在は主に樹林伸(きばやししん)が使用している。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/樹林伸"
+    },
+    "sourceNote": "日本語版Wikipedia『樹林伸』記事(2026-08-02閲覧)で、天樹征丸が樹林伸の主要ペンネームの一つであることを確認。個人の生年等は樹林伸名義の記事情報だが、ペンネーム自体は過去に複数人で使用された経緯があるためbirthYearは記載しない。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kanari-yozaburo",
+    "name": "金成陽三郎",
+    "nameKana": "かなりようざぶろう",
+    "description": "漫画原作者。さとうふみやとのコンビで「金田一少年の事件簿」の原作を手がけた。",
+    "birthYear": 1965,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/金成陽三郎"
+    },
+    "sourceNote": "日本語版Wikipedia『金成陽三郎』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tsunamoto-masaya",
+    "name": "綱本将也",
+    "nameKana": "つなもとまさや",
+    "description": "漫画原作者。サッカーを題材にした作品を多く手がけ、ツジトモとのコンビで「GIANT KILLING」の原作を担当する。",
+    "birthYear": 1973,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/綱本将也"
+    },
+    "sourceNote": "日本語版Wikipedia『綱本将也』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

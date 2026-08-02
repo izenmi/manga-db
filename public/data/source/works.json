@@ -1040,5 +1040,471 @@
     },
     "sourceNote": "日本語版Wikipedia『タッチ (漫画)』記事(2026-08-02閲覧)で原作者(あだち充、オリジナル作品、既存artist idと同一人物のためh2と共通のadachi-mitsuruを再利用)・出版社・連載期間・巻数・小学館漫画賞受賞(第28回、1982年度)・アニメ化・小説化(2005年『タッチ もうひとつのラストシーン』刊行)を確認。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "detective-conan",
+    "title": "名探偵コナン",
+    "titleKana": "めいたんていこなん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "aoyama-gosho"
+    ],
+    "publisherId": "shogakukan",
+    "themeIds": [
+      "detective-mystery",
+      "suspense-psychological",
+      "adventure"
+    ],
+    "firstPublishedYear": 1994,
+    "status": "ongoing",
+    "volumeCount": 108,
+    "synopsis": "高校生探偵・工藤新一は、遊園地で謎の組織の取引現場を目撃したことで正体不明の薬を飲まされ、体だけ小学生に縮められてしまう。正体を隠して江戸川コナンと名乗り、幼馴染の毛利蘭やその父が営む探偵事務所に居候しながら、持ち前の推理力で次々と難事件を解決しつつ、自らを陥れた黒ずくめの組織の正体を執念深く追い続けていく長編推理漫画。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2001,
+        "result": "少年部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/名探偵コナン"
+    },
+    "sourceNote": "日本語版Wikipedia『名探偵コナン』記事(2026-08-02閲覧)で原作者(作画家自身が原作を兼ねるオリジナル作品のためoriginalAuthorIdsは空配列)・掲載誌・連載期間・巻数(2026年4月時点108巻)・受賞歴・アニメ化/小説版の有無を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "urusei-yatsura",
+    "title": "うる星やつら",
+    "titleKana": "うるせいやつら",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "takahashi-rumiko"
+    ],
+    "publisherId": "shogakukan",
+    "themeIds": [
+      "comedy",
+      "romance",
+      "sci-fi",
+      "school"
+    ],
+    "firstPublishedYear": 1978,
+    "latestPublishedYear": 1987,
+    "status": "completed",
+    "volumeCount": 34,
+    "synopsis": "地球侵略の可否を懸けた鬼ごっこで、女好きで冴えない高校生・諸星あたるは宇宙人の美少女ラムに辛くも勝利する。しかし勝利の雄叫びをプロポーズと勘違いされ、あたるの家に強引に居候することになったラムを中心に、個性豊かな宇宙人・妖怪・幼馴染たちが次々と押しかけて巻き起こす騒動の数々を描く元祖ドタバタSFラブコメディ。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1980,
+        "result": "少年少女部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/うる星やつら"
+    },
+    "sourceNote": "日本語版Wikipedia『うる星やつら』記事(2026-08-02閲覧)で原作者・掲載誌・連載期間・巻数・受賞歴・アニメ化/小説版の有無を確認。原作・作画とも高橋留美子が単独で手がけるオリジナル作品のためoriginalAuthorIdsは空配列。同記事に第18回星雲賞コミック部門受賞の記載もあったが、本サイトの既存受賞リストにない賞のため今回は採用を見送った(未確認・要検討として記録)。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ranma-1-2",
+    "title": "らんま1/2",
+    "titleKana": "らんまにぶんのいち",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "takahashi-rumiko"
+    ],
+    "publisherId": "shogakukan",
+    "themeIds": [
+      "comedy",
+      "romance",
+      "battle-action",
+      "school"
+    ],
+    "firstPublishedYear": 1987,
+    "latestPublishedYear": 1996,
+    "status": "completed",
+    "volumeCount": 38,
+    "synopsis": "中国での武術修行中に呪いの泉に落ち、水を浴びると男女の姿が入れ替わり、湯を浴びると元に戻ってしまう体質になった少年・早乙女乱馬。父同士の取り決めで許婚として同居することになった天道あかねとの反発しあう関係を軸に、様々な呪いを抱えたライバルや因縁の相手たちが次々と現れ、笑いと格闘を交えながら賑やかに展開する格闘ラブコメディ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/らんま1/2"
+    },
+    "sourceNote": "日本語版Wikipedia『らんま1/2』記事(2026-08-02閲覧)で原作者・掲載誌・連載期間・巻数・アニメ化の有無を確認。原作・作画とも高橋留美子が単独で手がけるオリジナル作品のためoriginalAuthorIdsは空配列。作品自体の受賞歴・ランキング入りの明記は同記事上で確認できなかったためawardResultsは空配列。小説版の有無は確認できなかったためmediaMix.novelizationは未記入。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "inuyasha",
+    "title": "犬夜叉",
+    "titleKana": "いぬやしゃ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "takahashi-rumiko"
+    ],
+    "publisherId": "shogakukan",
+    "themeIds": [
+      "battle-action",
+      "adventure",
+      "dark-fantasy",
+      "historical"
+    ],
+    "firstPublishedYear": 1996,
+    "latestPublishedYear": 2008,
+    "status": "completed",
+    "volumeCount": 56,
+    "synopsis": "神社の井戸を通じて戦国時代へ迷い込んだ現代の女子中学生・かごめは、500年前に封印されていた半妖の少年・犬夜叉を蘇生させてしまう。二人は、かごめの体内から砕け散ったあらゆる願いを叶える「四魂の玉」の欠片を集める旅に出て、次第に姿を現す宿敵・奈落や強大な妖怪たちとの死闘に身を投じていく和風伝奇アクション。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2001,
+        "result": "少年部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/犬夜叉"
+    },
+    "sourceNote": "日本語版Wikipedia『犬夜叉』記事(2026-08-02閲覧)で原作者・掲載誌・連載期間・巻数(全56巻、別途ワイド版全30巻)・受賞歴(第47回=平成13年度小学館漫画賞)・アニメ化の有無を確認。原作・作画とも高橋留美子が単独で手がけるオリジナル作品のためoriginalAuthorIdsは空配列。小説版の有無は同記事で明確に確認できなかったためmediaMix.novelizationは未記入。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "gto",
+    "title": "GTO(グレート・ティーチャー・オニヅカ)",
+    "titleKana": "じーてぃーおー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "fujisawa-toru"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "comedy",
+      "school",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 1997,
+    "latestPublishedYear": 2002,
+    "status": "completed",
+    "volumeCount": 25,
+    "synopsis": "元暴走族の総長で喧嘩ばかりしてきたヤンチャな23歳・鬼塚英吉は、ひょんなきっかけから私立中学校の教師になる。非常識な言動と規格外の行動力で、荒れたクラスやいじめ・家庭問題など複雑な事情を抱える生徒たちに正面からぶつかっていき、保守的な同僚教師たちを巻き込みながら型破りな教育を実践していく学園コメディ。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1998,
+        "result": "少年部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/GTO_(漫画)"
+    },
+    "sourceNote": "日本語版Wikipedia『GTO (漫画)』記事(2026-08-02閲覧)で原作者・掲載誌・連載期間(連載号ベースで1997年2号〜2002年9号)・巻数・受賞歴・アニメ化/小説版の有無を確認。前作『湘南純愛組!』のスピンオフだが原作・作画とも藤沢とおるが単独で手がけるためoriginalAuthorIdsは空配列。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kindaichi-shonen-no-jikenbo",
+    "title": "金田一少年の事件簿",
+    "titleKana": "きんだいちしょうねんのじけんぼ",
+    "originalAuthorIds": [
+      "amagi-seimaru",
+      "kanari-yozaburo"
+    ],
+    "artistIds": [
+      "sato-fumiya"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "detective-mystery",
+      "suspense-psychological",
+      "school"
+    ],
+    "firstPublishedYear": 1992,
+    "status": "ongoing",
+    "volumeCount": 74,
+    "synopsis": "名探偵・金田一耕助を祖父に持つ、普段は不良まがいで冴えない高校生・金田一一。幼馴染の七瀬美雪や顔なじみの刑事たちと共に、旅行先や学園祭、豪邸など行く先々で遭遇する猟奇的な密室殺人や連続殺人事件に巻き込まれ、「祖父の名にかけて」の決め台詞と共に緻密なトリックを鮮やかに解き明かしていく本格ミステリー漫画。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1995,
+        "result": "少年部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/金田一少年の事件簿"
+    },
+    "sourceNote": "日本語版Wikipedia『金田一少年の事件簿』記事(2026-08-02閲覧)で原作(天樹征丸・金成陽三郎)・作画(さとうふみや)・掲載誌・連載期間(1992年開始、第I期・第II期を経て以降は不定期連載で継続中のためstatusはongoing)・巻数(本編等合計74巻以上、正確な最新巻数は変動するため約数として記載)・受賞歴・アニメ化/小説版の有無を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "major",
+    "title": "MAJOR",
+    "titleKana": "めじゃー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mitsuda-takuya"
+    ],
+    "publisherId": "shogakukan",
+    "themeIds": [
+      "sports",
+      "school"
+    ],
+    "firstPublishedYear": 1994,
+    "latestPublishedYear": 2010,
+    "status": "completed",
+    "volumeCount": 78,
+    "synopsis": "プロ野球選手だった父を幼くして事故で亡くし、その背中を追って投手としての才能を開花させていく茂野吾郎。少年野球のチームメイトとの絆、甲子園での挫折、独立リーグでの再起、そしてメジャーリーグ挑戦、さらに日本球界復帰までの長い野球人生を、家族や仲間との出会いと別れを織り交ぜながら壮大なスケールで描く王道野球漫画。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1995,
+        "result": "少年向け部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/MAJOR"
+    },
+    "sourceNote": "日本語版Wikipedia『MAJOR』記事(2026-08-02閲覧)で原作者・掲載誌・連載期間・巻数(78巻、続編『MAJOR 2nd』は別作品として今回は未収録)・受賞歴・アニメ化/小説版の有無を確認。原作・作画とも満田拓也が単独で手がけるオリジナル作品のためoriginalAuthorIdsは空配列。同記事に「講談社漫画賞」ではなく「NPB選出侍ジャパン野球文学賞ベストナイン」的な副次的賞の記載もあったが、本サイトの既存受賞リストにない賞・出典の確度が低いため見送った。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "giant-killing",
+    "title": "GIANT KILLING",
+    "titleKana": "じゃいあんときりんぐ",
+    "originalAuthorIds": [
+      "tsunamoto-masaya"
+    ],
+    "artistIds": [
+      "tsujitomo"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "sports",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2007,
+    "status": "ongoing",
+    "volumeCount": 70,
+    "synopsis": "J2降格圏に低迷する弱小プロサッカークラブ・ETUに、かつての人気選手でありながら謎の失踪を遂げ、イングランドの弱小アマチュアチームを率いて実績を残していた達海猛が監督として復帰する。読めない采配と独自の選手起用でチームを再建していく過程を、リアルな戦術描写と選手・スタッフそれぞれの視点を交えて描くサッカー群像劇。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2008,
+        "result": "オトコ編6位"
+      },
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2009,
+        "result": "オトコ編3位"
+      },
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2010,
+        "result": "一般部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/GIANT_KILLING"
+    },
+    "sourceNote": "日本語版Wikipedia『GIANT KILLING』記事(2026-08-02閲覧)で原作(綱本将也)・作画(ツジトモ)・掲載誌・連載期間(2007年開始、継続中)・巻数(2026年7月時点70巻)・受賞歴・アニメ化/小説版の有無を確認。同記事に記載のあった「第2回とらのあなコミック&ノベル大賞」は本サイトの既存受賞リストにない小規模賞のため見送った。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nanatsu-no-taizai",
+    "title": "七つの大罪",
+    "titleKana": "ななつのたいざい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "suzuki-nakaba"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "battle-action",
+      "dark-fantasy",
+      "adventure"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 41,
+    "synopsis": "かつて王国転覆を企てたとして濡れ衣を着せられ、追放された伝説の騎士団「七つの大罪」。反乱を起こした聖騎士たちに支配された王国を取り戻すため、王女エリザベスは団員たちを探し出し、酒場の店主としてひっそり暮らしていた団長メリオダスと共に旅立つ。やがて3000年前に封印された魔神族との因縁が明らかになり、世界の存亡を賭けた聖戦へと発展していく。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2015,
+        "result": "少年部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/七つの大罪_(漫画)"
+    },
+    "sourceNote": "日本語版Wikipedia『七つの大罪 (漫画)』記事(2026-08-02閲覧)で原作者・掲載誌・連載期間・巻数・受賞歴・アニメ化/小説版の有無を確認。原作・作画とも鈴木央が単独で手がけるオリジナル作品のためoriginalAuthorIdsは空配列。続編『黙示録の四騎士』は別作品として今回は未収録。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "fairy-tail",
+    "title": "フェアリーテイル",
+    "titleKana": "ふぇありーている",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mashima-hiro"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "battle-action",
+      "adventure",
+      "comedy"
+    ],
+    "firstPublishedYear": 2006,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 63,
+    "synopsis": "魔法が生活に根付いた世界で、竜に育てられ火竜の滅殺魔法を操る魔導士ナツは、魔法使いギルド「フェアリーテイル」に加入した少女ルーシィたちと出会う。個性豊かな仲間たちと依頼をこなし冒険を重ねる一方、突然姿を消した育ての親である竜の行方を追ううち、暗黒の魔導士ゼレフや他ギルドとの深い因縁が明らかになっていく王道ファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2009,
+        "result": "少年部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/FAIRY_TAIL"
+    },
+    "sourceNote": "日本語版Wikipedia『FAIRY TAIL』記事(2026-08-02閲覧)で原作者・掲載誌・連載期間・巻数・受賞歴(第33回講談社漫画賞少年部門、2009年)・アニメ化/小説版の有無を確認。原作・作画とも真島ヒロが単独で手がけるオリジナル作品のためoriginalAuthorIdsは空配列。同記事に記載のあった海外の賞(Japan Expo Award、Sondermann Comic Award)は本サイトの既存受賞リストにないため見送った。続編『FAIRY TAIL 100 YEARS QUEST』は別作品として今回は未収録。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tokyo-revengers",
+    "title": "東京卍リベンジャーズ",
+    "titleKana": "とうきょうまんじりべんじゃーず",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "wakui-ken"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "battle-action",
+      "suspense-psychological",
+      "sci-fi"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 31,
+    "synopsis": "冴えない26歳のフリーター・花垣武道は、ニュースで恋人の死を知った直後、ある日突然12年前の中学生時代へタイムリープする能力に目覚める。暴走族の抗争に巻き込まれて命を落とすはずの恋人を救うため、過去で不良グループ「東京卍會」の中心人物として成り上がりながら、幾度も過去と未来を往復して仲間たちの運命を変えようと奔走していく。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2020,
+        "result": "少年部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/東京卍リベンジャーズ"
+    },
+    "sourceNote": "日本語版Wikipedia『東京卍リベンジャーズ』記事(2026-08-02閲覧)で原作者・掲載誌・連載期間・巻数・受賞歴・アニメ化/小説版の有無を確認。原作・作画とも和久井健が単独で手がけるオリジナル作品のためoriginalAuthorIdsは空配列。タイムリープ要素があるためthemeIdsにsci-fiを含めた。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "noragami",
+    "title": "ノラガミ",
+    "titleKana": "のらがみ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "adachitoka"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action",
+      "comedy"
+    ],
+    "firstPublishedYear": 2011,
+    "latestPublishedYear": 2024,
+    "status": "completed",
+    "volumeCount": 27,
+    "synopsis": "祀る社を持たず、賽銭五円で何でも請け負う自称「デリバリーゴッド」の貧乏神・夜卜。交通事故がきっかけで幽体離脱体質になってしまった女子中学生・ひよりと出会い、彼女を元に戻すため、死霊から神器となった少年・雪音を相棒に加えて活動を始める。妖や神々の思惑が複雑に絡み合う中、自らの居場所と社を求めてもがく夜卜の姿を描く現代和風ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ノラガミ"
+    },
+    "sourceNote": "日本語版Wikipedia『ノラガミ』記事(2026-08-02閲覧)で原作者(2名からなる漫画家ユニット「あだちとか」、原作・作画とも兼ねるオリジナル作品のためoriginalAuthorIdsは空配列)・掲載誌(月刊少年マガジン)・連載期間・巻数・アニメ化の有無を確認。作品自体の受賞歴・ランキング入りの明記は同記事上で確認できなかったためawardResultsは空配列。小説版の有無は確認できなかったためmediaMix.novelizationは未記入。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "gotoubun-no-hanayome",
+    "title": "五等分の花嫁",
+    "titleKana": "ごとうぶんのはなよめ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "haruba-negi"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "romance",
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 14,
+    "synopsis": "父の借金返済のため家庭教師のアルバイトを始めた成績優秀だが貧乏な高校生・上杉風太郎は、依頼主が超富豪一家の一卵性五つ子姉妹だと知らされる。極度の勉強嫌いで指導にことごとく反発する中野五姉妹それぞれの個性や事情に体当たりで向き合いながら、風太郎と五姉妹の距離が少しずつ縮まっていく様子を描く学園ラブコメディ。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2019,
+        "result": "少年部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/五等分の花嫁"
+    },
+    "sourceNote": "日本語版Wikipedia『五等分の花嫁』記事(2026-08-02閲覧)で原作者・掲載誌・連載期間・巻数・受賞歴・アニメ化/小説版の有無を確認。原作・作画とも春場ねぎが単独で手がけるオリジナル作品のためoriginalAuthorIdsは空配列。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
   }
 ]

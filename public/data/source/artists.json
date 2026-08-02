@@ -307,5 +307,135 @@
     },
     "sourceNote": "日本語版Wikipedia『あだち充』『タッチ (漫画)』各記事(2026-08-02閲覧)で経歴・受賞歴を確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "aoyama-gosho",
+    "name": "青山剛昌",
+    "nameKana": "あおやまごうしょう",
+    "description": "漫画家。1986年「ちょっとまってて」でデビュー。「YAIBA」を経て「名探偵コナン」を週刊少年サンデーで長期連載する。",
+    "birthYear": 1963,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/青山剛昌"
+    },
+    "sourceNote": "日本語版Wikipedia『青山剛昌』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "takahashi-rumiko",
+    "name": "高橋留美子",
+    "nameKana": "たかはしるみこ",
+    "description": "漫画家。「うる星やつら」「めぞん一刻」「らんま1/2」「犬夜叉」等、少年誌・青年誌を問わず数々のヒット作を手がける。",
+    "birthYear": 1957,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/高橋留美子"
+    },
+    "sourceNote": "日本語版Wikipedia『高橋留美子』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。うる星やつら/らんま1/2/犬夜叉の3作品で共通のartistIdとして使用。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "fujisawa-toru",
+    "name": "藤沢とおる",
+    "nameKana": "ふじさわとおる",
+    "description": "漫画家。「湘南純愛組!」に続き、そのスピンオフとして「GTO」を週刊少年マガジンで連載した。",
+    "birthYear": 1967,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/藤沢とおる"
+    },
+    "sourceNote": "日本語版Wikipedia『藤沢とおる』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "sato-fumiya",
+    "name": "さとうふみや",
+    "nameKana": "さとうふみや",
+    "description": "漫画家。原作者と組んで「金田一少年の事件簿」「探偵学園Q」等の推理漫画の作画を担当する。",
+    "birthYear": 1965,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/さとうふみや"
+    },
+    "sourceNote": "日本語版Wikipedia『さとうふみや』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "mitsuda-takuya",
+    "name": "満田拓也",
+    "nameKana": "みつだたくや",
+    "description": "漫画家。「MAJOR」「MAJOR 2nd」等、野球を題材にした作品を週刊少年サンデーで手がける。",
+    "birthYear": 1965,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/満田拓也"
+    },
+    "sourceNote": "日本語版Wikipedia『満田拓也』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tsujitomo",
+    "name": "ツジトモ",
+    "nameKana": "つじとも",
+    "description": "漫画家。原作者・綱本将也とのコンビで「GIANT KILLING」の作画を担当する。",
+    "birthYear": 1977,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ツジトモ"
+    },
+    "sourceNote": "日本語版Wikipedia『ツジトモ』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "suzuki-nakaba",
+    "name": "鈴木央",
+    "nameKana": "すずきなかば",
+    "description": "漫画家。「七つの大罪」「黙示録の四騎士」等、週刊少年マガジンでファンタジー作品を連載する。",
+    "birthYear": 1977,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/鈴木央"
+    },
+    "sourceNote": "日本語版Wikipedia『鈴木央』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "mashima-hiro",
+    "name": "真島ヒロ",
+    "nameKana": "ましまひろ",
+    "description": "漫画家。「RAVE」「FAIRY TAIL」「EDENS ZERO」等、週刊少年マガジンで長期連載作品を手がける。",
+    "birthYear": 1977,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/真島ヒロ"
+    },
+    "sourceNote": "日本語版Wikipedia『真島ヒロ』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "wakui-ken",
+    "name": "和久井健",
+    "nameKana": "わくいけん",
+    "description": "漫画家。「新宿スワン」に続き「東京卍リベンジャーズ」を連載し、大ヒットさせた。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/和久井健"
+    },
+    "sourceNote": "日本語版Wikipedia『和久井健』記事(2026-08-02閲覧)で経歴・代表作を確認。生年は同記事に記載がないため未記入。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "adachitoka",
+    "name": "あだちとか",
+    "nameKana": "あだちとか",
+    "description": "漫画家ユニット。キャラクター作画担当と背景作画担当の2名からなる。「ALIVE-最終進化的少年-」「ノラガミ」等を手がける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/あだちとか"
+    },
+    "sourceNote": "日本語版Wikipedia『あだちとか』記事(2026-08-02閲覧)で、2名からなる漫画家ユニットであることを確認。個人が特定される生年は伏せられているため未記入。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "haruba-negi",
+    "name": "春場ねぎ",
+    "nameKana": "はるばねぎ",
+    "description": "漫画家。「五等分の花嫁」「戦隊大失格」等を週刊少年マガジンで連載する。",
+    "birthYear": 1991,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/春場ねぎ"
+    },
+    "sourceNote": "日本語版Wikipedia『春場ねぎ』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
   }
 ]
