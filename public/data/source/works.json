@@ -11080,5 +11080,433 @@
     },
     "sourceNote": "日本語版Wikipedia『帰宅部活動記録』記事、およびWeb検索(コミックシーモア等、2026-08-02閲覧)で作者(くろは)・初出媒体(ガンガンONLINE、2011年8月18日連載開始)・連載終了(2014年6月、全5巻)・あらすじ・アニメ化(2013年7-10月、日本テレビ系)を確認。受賞歴は確認できずawardResultsは設定していない。「ガンガンONLINE」は少年ジャンプ+/となりのヤングジャンプ以外のWebコミット媒体のためwebComicSourceは設定しない。オリジナル作品のためoriginalAuthorIdsは空配列。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "drifters",
+    "title": "ドリフターズ",
+    "titleKana": "どりふたーず",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hirano-kota"
+    ],
+    "publisherId": "shonen-gahosha",
+    "labelId": "young-king-ours",
+    "themeIds": [
+      "historical",
+      "battle-action",
+      "isekai"
+    ],
+    "firstPublishedYear": 2009,
+    "status": "ongoing",
+    "volumeCount": 7,
+    "synopsis": "関ヶ原の戦いの最中に「漂流者(ドリフターズ)」として異世界へ召喚された島津豊久は、同じく召喚された織田信長や那須与一ら古今東西の英雄たちと合流する。エルフやドワーフが暮らすこの世界で、人類殲滅を目論む「廃棄物(エンズ)」を率いる勢力との抗争に、独特の美学と豪胆さで立ち向かっていく歴史×異世界ファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ドリフターズ_(漫画)"
+    },
+    "sourceNote": "日本語版Wikipedia『ドリフターズ(漫画)』記事(2026-08-02閲覧)で作者(平野耕太のオリジナル作品)・掲載誌(ヤングキングアワーズ、少年画報社)・連載開始(2009年)・連載中・既刊巻数(7巻、2023年8月10日時点の情報で以降の増巻は未確認)・2016年テレビアニメ化を確認。明記された漫画賞の受賞歴は確認できずawardResultsは空とした。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ad-astra-scipio-to-hannibal",
+    "title": "アド・アストラ -スキピオとハンニバル-",
+    "titleKana": "あど・あすとら すきぴおとはんにばる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kagano-mihachi"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "ultra-jump",
+    "themeIds": [
+      "historical",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2011,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 13,
+    "synopsis": "紀元前3世紀、第二次ポエニ戦争を舞台に、ローマを滅亡寸前まで追い込んだ稀代の軍事的天才ハンニバル・バルカと、絶望的状況からローマを救う若き将軍スキピオ・アフリカヌスの対決を描く歴史戦記漫画。両雄の知略と信念がぶつかり合うザマの戦いに至るまでの長大な戦争絵巻を骨太に描き切る。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アド・アストラ_-スキピオとハンニバル-"
+    },
+    "sourceNote": "日本語版Wikipedia『アド・アストラ -スキピオとハンニバル-』記事(2026-08-02閲覧)で作者(カガノミハチのオリジナル作品)・掲載誌(ウルトラジャンプ、集英社)・連載期間(2011-2018年)・既刊巻数(全13巻)・完結・題材(第二次ポエニ戦争、ハンニバルとスキピオ)を確認。明記された漫画賞の受賞歴は確認できずawardResultsは空とした。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ten-wa-akai-kawa-no-hotori",
+    "title": "天は赤い河のほとり",
+    "titleKana": "てんはあかいかわのほとり",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "shinohara-chie"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shojo-comic",
+    "themeIds": [
+      "historical",
+      "romance",
+      "isekai"
+    ],
+    "firstPublishedYear": 1995,
+    "latestPublishedYear": 2002,
+    "status": "completed",
+    "volumeCount": 28,
+    "synopsis": "現代の中学生・鈴木夕梨は、古代オリエントの大国ヒッタイトの皇妃ナキアの呪術によって紀元前14世紀の世界へ引きずり込まれる。皇子カイルに助けられた夕梨は「戦いの女神イシュタルの化身」として周囲から畏怖されつつ、後継争いや周辺国との戦乱に翻弄されながら、カイルと共に帝国の運命に関わっていく古代史ロマン。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2000,
+        "result": "少女向け部門受賞(第46回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/天は赤い河のほとり"
+    },
+    "sourceNote": "日本語版Wikipedia『天は赤い河のほとり』および『小学館漫画賞』記事(2026-08-02閲覧)で作者(篠原千絵のオリジナル作品)・掲載誌(少女コミック、小学館)・連載期間(1995-2002年)・既刊巻数(全28巻)・完結・第46回小学館漫画賞少女部門受賞(2000年)・2026年夏アニメ化(放送開始済み)を確認。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "angolmois-genko-kassenki",
+    "title": "アンゴルモア 元寇合戦記",
+    "titleKana": "あんごるもあ げんこうかっせんき",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "takagi-nanahiko"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "samurai-ace",
+    "themeIds": [
+      "historical",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2013,
+    "status": "ongoing",
+    "volumeCount": 22,
+    "synopsis": "1274年、元寇(文永の役)に襲われた対馬。流刑者として島へ送られていた鎌倉武士・朽井迅三郎は、島民や武士たちと共に圧倒的な兵力の元・高麗軍に立ち向かう。対馬編に続く「博多編」では舞台を博多へ移し、日本を守るための死闘が続く歴史合戦アクション。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アンゴルモア_元寇合戦記"
+    },
+    "sourceNote": "日本語版Wikipedia『アンゴルモア 元寇合戦記』記事(2026-08-02閲覧)で作者(たかぎ七彦のオリジナル作品)・連載開始(2013年、初出は角川書店『サムライエース』、同誌休刊後2014年に『ComicWalker』へ移籍し「博多編」として連載継続中)・既刊巻数(第1部全10巻+博多編既刊12巻、2026年1月時点=合計22巻)・2018年テレビアニメ化を確認。明記された漫画賞の受賞歴は確認できずawardResultsは空とした。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "sekka-no-tora",
+    "title": "雪花の虎",
+    "titleKana": "せっかのとら",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "higashimura-akiko"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "hibana",
+    "themeIds": [
+      "historical",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "越後の武将・長尾為景の子として生まれた虎千代は本来は女児だったが、毘沙門天の化身とする予言のもとに男として育てられ、後に上杉謙信となる。「景虎」を名乗り武芸と学問を修めながら、病弱な兄・晴景を支え越後統治に奔走し、川中島の戦いへと至る半生を、上杉謙信女性説をもとに描く。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/雪花の虎"
+    },
+    "sourceNote": "日本語版Wikipedia『雪花の虎』記事(2026-08-02閲覧)で作者(東村アキコの初の本格歴史漫画)・連載期間(2015-2020年、初出は小学館『ヒバナ』、後に『ビッグコミックスピリッツ』へ移籍)・既刊巻数(全10巻)・完結・上杉謙信女性説を題材にしていることを確認。明記された漫画賞の受賞歴・アニメ化は確認できずawardResultsは空、mediaMixは省略した。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "bokko",
+    "title": "墨攻",
+    "titleKana": "ぼっこう",
+    "originalAuthorIds": [
+      "sakemi-kenichi"
+    ],
+    "artistIds": [
+      "mori-hideki"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic",
+    "themeIds": [
+      "historical",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1992,
+    "latestPublishedYear": 1996,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "中国戦国時代、非攻・兼愛を掲げる思想集団「墨家」の一員である革離は、大国・趙の侵攻にさらされる梁城の防衛を単身で請け負う。寡兵ながら知略を尽くして城を守り抜く革離だったが、頼るべき墨家本隊からも見放され孤立無援の戦いを強いられていく。酒見賢一の同名小説を原作に、久保田千太郎の脚本を経て森秀樹が作画した籠城戦記。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1994,
+        "result": "受賞(第40回)"
+      }
+    ],
+    "mediaMix": {
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/墨攻"
+    },
+    "sourceNote": "日本語版Wikipedia『墨攻』記事(2026-08-02閲覧)で原作(酒見賢一の同名小説)・脚本(久保田千太郎)・作画(森秀樹)・掲載誌(ビッグコミック、小学館)・連載期間(1992-1996年)・既刊巻数(ビッグコミックス版全11巻)・完結・第40回小学館漫画賞受賞(1994年度)・2006年実写映画化を確認。脚本担当の久保田千太郎はoriginalAuthorIdsに含めず本文注記のみとした(原作小説の著者を原作者として採用)。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shinkuro-hashiru",
+    "title": "新九郎、奔る!",
+    "titleKana": "しんくろう、はしる!",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yuuki-masami"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "gekkan-spirits",
+    "themeIds": [
+      "historical",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2018,
+    "status": "ongoing",
+    "volumeCount": 23,
+    "synopsis": "室町時代末期、後に「北条早雲」として名を残すことになる伊勢新九郎盛時の若き日々を描く歴史漫画。近年の歴史学説に基づき、素浪人ではなく名門・伊勢家出身の官僚として応仁の乱前後の京・駿河を生き抜く新九郎の姿を、緻密な時代考証とともに丹念に描く。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/新九郎、奔る!"
+    },
+    "sourceNote": "日本語版Wikipedia『新九郎、奔る!』記事(2026-08-02閲覧)で作者(ゆうきまさみのオリジナル作品)・連載開始(2018年、初出は小学館『月刊!スピリッツ』、2020年に『週刊ビッグコミックスピリッツ』へ移籍)・連載中・既刊巻数(23巻、2026年6月11日時点)・主人公が伊勢新九郎(北条早雲)であることを確認。明記された漫画賞の受賞歴は検索したが確認できずawardResultsは空とした。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hidamari-no-ki",
+    "title": "陽だまりの樹",
+    "titleKana": "ひだまりのき",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tezuka-osamu"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic",
+    "themeIds": [
+      "historical",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 1981,
+    "latestPublishedYear": 1986,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "幕末の江戸を舞台に、正義感の強い武士・伊武谷万二郎と、要領よく世を渡る蘭方医・良庵という対照的な二人の若者の生涯を描く。開国、コレラの流行、尊皇攘夷の嵐、そして戊辰戦争へと突き進む激動の時代の中で、互いに反発しながらも友情を育んでいく二人の姿を通し、近代日本医学黎明期の群像を描く。手塚治虫が自身の家系にも連なる人物を題材にした自伝的要素を持つ大河歴史漫画。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1983,
+        "result": "青年一般部門受賞(第29回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/陽だまりの樹"
+    },
+    "sourceNote": "日本語版Wikipedia『陽だまりの樹』記事(2026-08-02閲覧)で作者(手塚治虫のオリジナル作品)・掲載誌(ビッグコミック、小学館)・連載期間(1981-1986年)・既刊巻数(全11巻)・完結・第29回小学館漫画賞青年一般部門受賞(昭和58年度=1983年)・2000年テレビアニメ化・2012年NHKドラマ化を確認。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "sangokushi",
+    "title": "三国志",
+    "titleKana": "さんごくし",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yokoyama-mitsuteru"
+    ],
+    "publisherId": "ushio-shuppansha",
+    "labelId": "kibou-no-tomo",
+    "themeIds": [
+      "historical",
+      "battle-action",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 1972,
+    "latestPublishedYear": 1987,
+    "status": "completed",
+    "volumeCount": 60,
+    "synopsis": "後漢末期の黄巾の乱から蜀漢の滅亡までを描いた大長編歴史漫画。義兄弟の契りを結んだ劉備・関羽・張飛が、軍師・諸葛亮孔明を迎えて蜀の建国を目指す前半から、劉備没後は孔明を軸に北伐を描く後半へと続く。中国の古典小説『三国志演義』を下敷きに、群雄割拠の乱世に生きる英雄たちの興亡を壮大なスケールで活写する。",
+    "awardResults": [
+      {
+        "awardId": "nihon-mangaka-kyokai-sho",
+        "year": 1991,
+        "result": "優秀賞(第20回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/三国志_(横山光輝の漫画)"
+    },
+    "sourceNote": "日本語版Wikipedia『三国志(横山光輝の漫画)』記事(2026-08-02閲覧)で作者・掲載誌の変遷(希望の友→少年ワールド→コミックトム、いずれも潮出版社)・連載期間(1972-1987年)・既刊巻数(全60巻)・完結・1991年第20回日本漫画家協会賞優秀賞受賞・複数回のテレビアニメ化を確認。原典である中国古典小説『三国志演義』の著者(羅貫中)は特定の個人としての史実性が薄い古典のため、蒼天航路(既存作品)の扱いには倣わずoriginalAuthorIdsは空とした(横山光輝自身による翻案という位置づけ)。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "vagabond",
+    "title": "バガボンド",
+    "titleKana": "ばがぼんど",
+    "originalAuthorIds": [
+      "yoshikawa-eiji"
+    ],
+    "artistIds": [
+      "inoue-takehiko"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning",
+    "themeIds": [
+      "historical",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1998,
+    "status": "ongoing",
+    "volumeCount": 37,
+    "synopsis": "戦国末期から江戸初期への転換期、村の乱暴者だった青年・新免武蔵が、剣の道を極めるべく諸国を巡り数々の死闘を重ねていく中で、真の強さとは何かを追い求めていく剣豪成長譚。吉川英治の小説『宮本武蔵』を原作に、井上雄彦が独自の解釈と圧倒的な筆致で武蔵の生き様を描く。2015年以降、長期休載が続いている。",
+    "awardResults": [
+      {
+        "awardId": "bunkacho-media-geijutsusai",
+        "year": 2000,
+        "result": "マンガ部門大賞(第4回)"
+      },
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2000,
+        "result": "一般部門受賞(第24回)"
+      },
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2002,
+        "result": "マンガ大賞(第6回)"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/バガボンド"
+    },
+    "sourceNote": "日本語版Wikipedia『バガボンド』記事(2026-08-02閲覧)で原作(吉川英治『宮本武蔵』)・作画(井上雄彦)・掲載誌(モーニング、講談社)・連載開始(1998年)・第4回文化庁メディア芸術祭マンガ部門大賞(2000年)・第24回講談社漫画賞一般部門(2000年)・第6回手塚治虫文化賞マンガ大賞(2002年)受賞を確認。既刊巻数(37巻)・2015年2月以降長期休載中であることをWeb検索の複数情報源(2026-08-02閲覧)で確認。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ooku",
+    "title": "大奥",
+    "titleKana": "おおおく",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yoshinaga-fumi"
+    ],
+    "publisherId": "hakusensha",
+    "labelId": "melody",
+    "themeIds": [
+      "historical",
+      "workplace-drama",
+      "romance"
+    ],
+    "firstPublishedYear": 2004,
+    "latestPublishedYear": 2021,
+    "status": "completed",
+    "volumeCount": 19,
+    "synopsis": "江戸時代、若い男性だけが罹患する疫病「赤面疱瘡」の流行により男女の人口比が逆転し、女性が将軍として政を担うようになった架空の歴史を描く。三代将軍・家光の代から大政奉還に至るまで、男女逆転した大奥を舞台に、権力・血筋・愛憎が絡み合う人間模様を歴代将軍ごとの物語として紡いでいく。",
+    "awardResults": [
+      {
+        "awardId": "bunkacho-media-geijutsusai",
+        "year": 2006,
+        "result": "マンガ部門優秀賞(第10回)"
+      },
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2009,
+        "result": "マンガ大賞(第13回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/大奥_(漫画)"
+    },
+    "sourceNote": "日本語版Wikipedia『大奥(漫画)』記事(2026-08-02閲覧)で作者(よしながふみのオリジナル作品)・掲載誌(MELODY、白泉社)・連載期間(2004-2021年)・既刊巻数(全19巻)・完結・第10回文化庁メディア芸術祭マンガ部門優秀賞(2006年)・第13回手塚治虫文化賞マンガ大賞(2009年)受賞・2023年Netflixにて初のアニメ化を確認。海外賞(ジェイムズ・ティプトリー・ジュニア賞等)はawards.jsonに既存項目がなく本サイトの対象範囲(国内漫画賞・人気投票)から外れるため採用しなかった。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "fushigi-no-kuni-no-bird",
+    "title": "ふしぎの国のバード",
+    "titleKana": "ふしぎのくにのばーど",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "sasa-taiga"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "harta",
+    "themeIds": [
+      "historical",
+      "adventure"
+    ],
+    "firstPublishedYear": 2013,
+    "status": "ongoing",
+    "volumeCount": 13,
+    "synopsis": "明治初期、実在したイギリス人女性冒険家イザベラ・バードが、通訳の伊藤鶴吉を伴い、横浜から蝦夷地まで日本奥地を縦断する旅に挑む。バードの紀行文『日本奥地紀行』を下敷きに、当時の日本の風俗や人々との交流を娯楽作品としてアレンジしながら描く歴史紀行漫画。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ふしぎの国のバード"
+    },
+    "sourceNote": "日本語版Wikipedia『ふしぎの国のバード』記事(2026-08-02閲覧)で作者(佐々大河)・掲載誌(ハルタ、KADOKAWA)・連載開始(2013年、不定期→隔月連載)・連載中・既刊巻数(13巻、2025年10月15日時点)・イザベラ・バードの紀行文『日本奥地紀行』を下敷きにした創作的アレンジ作品であることを確認。原作の紀行文自体は実在人物の一次資料でありoriginalAuthorIdsには入れず、佐々大河のオリジナル構成の作品として扱った。明記された漫画賞の受賞歴は検索したが確認できずawardResultsは空とした。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nobunaga-concerto",
+    "title": "信長協奏曲",
+    "titleKana": "のぶながこんつぇると",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ishii-ayumi"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "gessan",
+    "themeIds": [
+      "historical",
+      "comedy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2009,
+    "status": "ongoing",
+    "volumeCount": 22,
+    "synopsis": "勉強もろくにできない高校生サブローは、ひょんなことから戦国時代へタイムスリップしてしまう。病弱な織田信長と瓜二つの容姿だったことから、本物の信長に頼まれてその身代わりとして生きることになったサブローは、周囲の困惑をよそに持ち前の明るさと行動力で家臣団の信頼を得ていき、天下統一を目指す歴史の道を歩み始める。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2011,
+        "result": "少年向け部門受賞(第57回)"
+      },
+      {
+        "awardId": "zenkoku-shoten-in-osusume-comic",
+        "year": 2012,
+        "result": "7位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/信長協奏曲"
+    },
+    "sourceNote": "日本語版Wikipedia『信長協奏曲』記事(2026-08-02閲覧)で作者・掲載誌(ゲッサン、小学館)・連載開始(2009年創刊号)・連載中・既刊巻数(22巻、2022年2月10日時点。以降の増巻は未確認)・第57回小学館漫画賞少年向け部門受賞(2011年)・「全国書店員が選んだおすすめコミック2012」7位・2014年テレビアニメ化/ドラマ化・2016年実写映画化を確認。あらすじは独自要約。",
+    "updatedAt": "2026-08-02"
   }
 ]

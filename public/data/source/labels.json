@@ -1304,5 +1304,35 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipedia『ポプテピピック』記事および複数のWeb記事(2026-08-02閲覧)で「ポプテピピック」が竹書房運営のWebコミック配信サイト『まんがライフWIN』にて2014年11月29日より連載開始したことを確認。CLAUDE.mdの方針により、少年ジャンプ+/となりのヤングジャンプ以外のWeb漫画プラットフォームなのでwebComicSourceフィールドは設定しない(検索URLパターン未検証のため)。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "samurai-ace",
+    "name": "サムライエース",
+    "nameKana": "さむらいえーす",
+    "publisherId": "kadokawa",
+    "description": "角川書店(現KADOKAWA)がかつて発行していた時代劇・歴史ものを中心とする漫画雑誌。『アンゴルモア 元寇合戦記』第1部の初出媒体だが休刊し、以降はWebコミックサイト『ComicWalker』へ移籍した。",
+    "externalLinks": {},
+    "sourceNote": "『アンゴルモア 元寇合戦記』の日本語版Wikipedia記事(2026-08-02閲覧)で2013年の連載開始時の掲載誌が『サムライエース』(角川書店)であり、同誌休刊に伴い2014年に『ComicWalker』へ移籍したことを確認。CLAUDE.mdの方針に従い連載開始時点の初出媒体をlabelIdとして採用した。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hibana",
+    "name": "ヒバナ",
+    "nameKana": "ひばな",
+    "publisherId": "shogakukan",
+    "description": "小学館が運営していた青年向け漫画のWeb配信サイト・雑誌。東村アキコ『雪花の虎』の連載開始媒体。",
+    "externalLinks": {},
+    "sourceNote": "『雪花の虎』の日本語版Wikipedia記事(2026-08-02閲覧)で2015年の連載開始時の掲載媒体が小学館『ヒバナ』であり、その後『ビッグコミックスピリッツ』へ移籍したことを確認。連載開始時点の初出媒体をlabelIdとして採用した。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kibou-no-tomo",
+    "name": "希望の友",
+    "nameKana": "きぼうのとも",
+    "publisherId": "ushio-shuppansha",
+    "description": "潮出版社がかつて発行していた学年別学習雑誌に近い漫画雑誌。横山光輝『三国志』の連載開始媒体で、後継誌『少年ワールド』『コミックトム』へ引き継がれた。",
+    "externalLinks": {},
+    "sourceNote": "横山光輝『三国志』の日本語版Wikipedia記事(2026-08-02閲覧)で1972年の連載開始時の掲載誌が潮出版社『希望の友』であり、以降『少年ワールド』『コミックトム』(いずれも潮出版社)へ移籍したことを確認。連載開始時点の初出媒体をlabelIdとして採用した。",
+    "updatedAt": "2026-08-02"
   }
 ]
