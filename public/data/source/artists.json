@@ -1525,5 +1525,137 @@
     },
     "sourceNote": "日本語版Wikipedia『渡辺静』記事(2026-08-02閲覧)で出身地・読み方・『リアルアカウント』作画担当であることを確認。生年は確認できず。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "harold-sakuishi",
+    "name": "ハロルド作石",
+    "nameKana": "はろるどさくいし",
+    "description": "漫画家。『BECK』の作者(オリジナル作品)。『ゴリラーマン』の作者としても知られる。",
+    "birthYear": 1969,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ハロルド作石"
+    },
+    "sourceNote": "日本語版Wikipedia『ハロルド作石』記事(2026-08-02閲覧)で生年月日・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shinkawa-naoshi",
+    "name": "新川直司",
+    "nameKana": "しんかわなおし",
+    "description": "漫画家。『四月は君の嘘』の作者(オリジナル作品)。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/新川直司"
+    },
+    "sourceNote": "日本語版Wikipedia『新川直司』記事(2026-08-02閲覧)で代表作・連載歴を確認。生年の記載なし。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kodama-yuki",
+    "name": "小玉ユキ",
+    "nameKana": "こだまゆき",
+    "description": "漫画家。『坂道のアポロン』の作者(オリジナル作品)。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/小玉ユキ"
+    },
+    "sourceNote": "日本語版Wikipedia『小玉ユキ』記事(2026-08-02閲覧)で代表作・受賞歴を確認。生年非公開(誕生日は9月26日と記載)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ragawa-marimo",
+    "name": "羅川真里茂",
+    "nameKana": "らがわまりしげ",
+    "description": "漫画家。『ましろのおと』の作者(オリジナル作品)。『赤ちゃんと僕』でも知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/羅川真里茂"
+    },
+    "sourceNote": "日本語版Wikipedia『羅川真里茂』記事(2026-08-02閲覧)で代表作を確認。生年非公開。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "amyu",
+    "name": "アミュー",
+    "nameKana": "あみゅー",
+    "description": "漫画家。『この音とまれ!』の作者(オリジナル作品)。北海道出身。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アミュー"
+    },
+    "sourceNote": "日本語版Wikipedia『アミュー』記事(2026-08-02閲覧)で出身地・代表作を確認。生年非公開。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "akui-makoto",
+    "name": "阿久井真",
+    "nameKana": "あくいまこと",
+    "description": "漫画家。『青のオーケストラ』の作者(オリジナル作品)。千葉県出身。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaに単独記事が確認できなかったため、複数の書誌・インタビューサイト(2026-08-02閲覧)で代表作・出身地を確認。生年非公開。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kio-shimoku",
+    "name": "木尾士目",
+    "nameKana": "きおしもく",
+    "description": "漫画家。『げんしけん』の作者(オリジナル作品)。筑波大学芸術専門学群卒業。",
+    "birthYear": 1974,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/木尾士目"
+    },
+    "sourceNote": "日本語版Wikipedia『木尾士目』記事(2026-08-02閲覧)で生年(1974年、月日非公開)・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shimura-takako",
+    "name": "志村貴子",
+    "nameKana": "しむらたかこ",
+    "description": "漫画家。『放浪息子』の作者(オリジナル作品)。『青い花』でも知られる。",
+    "birthYear": 1973,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/志村貴子"
+    },
+    "sourceNote": "日本語版Wikipedia『志村貴子』記事(2026-08-02閲覧)で生年月日・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "oima-yoshitoki",
+    "name": "大今良時",
+    "nameKana": "おおいまよしとき",
+    "description": "漫画家。『聲の形』の作者(オリジナル作品)。岐阜県大垣市出身。",
+    "birthYear": 1989,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/大今良時"
+    },
+    "sourceNote": "日本語版Wikipedia『大今良時』記事(2026-08-02閲覧)で生年月日・出身地を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "sanbe-kei",
+    "name": "三部けい",
+    "nameKana": "さんべけい",
+    "description": "漫画家。『僕だけがいない街』の作者(オリジナル作品)。北海道苫小牧市出身。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/三部けい"
+    },
+    "sourceNote": "日本語版Wikipedia『三部けい』記事(2026-08-02閲覧)で出身地・代表作を確認。生年非公開(誕生日は3月5日と記載)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yamaguchi-tsubasa",
+    "name": "山口つばさ",
+    "nameKana": "やまぐちつばさ",
+    "description": "漫画家。『ブルーピリオド』の作者(オリジナル作品)。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/山口つばさ"
+    },
+    "sourceNote": "日本語版Wikipedia『山口つばさ』記事(2026-08-02閲覧)で代表作を確認。生年非公開(誕生日は6月26日と記載)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "sugitani-shogo",
+    "name": "杉谷庄吾【人間プラモ】",
+    "nameKana": "すぎたにしょうご",
+    "description": "漫画家・デザイナー。『映画大好きポンポさん』の作者(オリジナル作品)。株式会社プロダクション・グッドブック所属。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaに単独記事が確認できなかったため、マンガペディア・BookLive!等の書誌情報(2026-08-02閲覧)で代表作・所属を確認。生年不明。",
+    "updatedAt": "2026-08-02"
   }
 ]

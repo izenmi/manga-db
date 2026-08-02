@@ -4864,5 +4864,526 @@
     },
     "sourceNote": "日本語版Wikipedia『リアルアカウント』記事(2026-08-02閲覧)で連載期間(別冊少年マガジン→週刊少年マガジン→別冊少年マガジン、2014年2月号～2019年12月号)・全24巻・完結・出版社(講談社)・原作(オクショウ)・作画(渡辺静)を確認。あらすじは独自要約。受賞歴は確認できず空配列とした。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "beck",
+    "title": "BECK",
+    "titleKana": "べっく",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "harold-sakuishi"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "music",
+      "school",
+      "workplace-drama",
+      "comedy"
+    ],
+    "firstPublishedYear": 1999,
+    "latestPublishedYear": 2008,
+    "status": "completed",
+    "volumeCount": 34,
+    "synopsis": "冴えない日常を送っていた中学生・田中幸雄は、みすぼらしい野良犬を助けたことをきっかけに、犬の飼い主で元天才ギタリストの南竜介と知り合う。竜介が結成するロックバンド「BECK」に誘われ楽器未経験からギターを始めた幸雄は、個性的なメンバーとの衝突や挫折を経ながら腕を磨き、音楽を通じて自分の居場所と成長を見つけていく王道の青春バンド漫画。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2002,
+        "result": "少年部門受賞(第26回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/BECK_(漫画)"
+    },
+    "sourceNote": "日本語版Wikipedia『BECK』(曖昧さ回避)および『BECK (漫画)』記事(2026-08-02閲覧)で作者・掲載誌・連載期間(1999年～2008年、全34巻)・受賞歴・アニメ化/実写映画化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shigatsu-wa-kimi-no-uso",
+    "title": "四月は君の嘘",
+    "titleKana": "しがつはきみのうそ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "shinkawa-naoshi"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "music",
+      "school",
+      "romance"
+    ],
+    "firstPublishedYear": 2011,
+    "latestPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "母の死をきっかけに、演奏中にピアノの音が聞こえなくなってしまった元天才ピアニスト・有馬公生は、自由奔放なヴァイオリニスト宮園かをりと出会い、彼女に伴奏者として引っ張り出されたことから再び音楽と向き合い始める。かをりが抱える秘密が徐々に明らかになるにつれ、公生は彼女への想いと自分の生き方を見つめ直していく、切なくも眩しい音楽青春物語。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2012,
+        "result": "ノミネート"
+      },
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2013,
+        "result": "少年部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/四月は君の嘘"
+    },
+    "sourceNote": "日本語版Wikipedia『四月は君の嘘』記事(2026-08-02閲覧)で作者・掲載誌・連載期間(2011年5月号～2015年3月号、全11巻)・受賞歴・メディアミックスを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "sakamichi-no-apollon",
+    "title": "坂道のアポロン",
+    "titleKana": "さかみちのあぽろん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kodama-yuki"
+    ],
+    "publisherId": "shogakukan",
+    "themeIds": [
+      "music",
+      "school",
+      "romance",
+      "historical"
+    ],
+    "firstPublishedYear": 2007,
+    "latestPublishedYear": 2012,
+    "status": "completed",
+    "volumeCount": 9,
+    "synopsis": "1966年、長崎県佐世保市の高校に転校してきた神経質な優等生・西見薫は、不良と噂される同級生・千太郎の家でジャズと出会い、彼やレコード店の娘・律子との交流を通じて心を通わせていく。ドラムを叩くうち音楽の楽しさに目覚めた薫は、千太郎や律子との淡い三角関係にも揺れながら青春の日々を過ごしていく。昭和レトロな空気感が魅力の音楽群像劇。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2009,
+        "result": "オンナ編1位"
+      },
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2012,
+        "result": "一般向け部門受賞(第57回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/坂道のアポロン"
+    },
+    "sourceNote": "日本語版Wikipedia『坂道のアポロン』記事、およびWeb検索結果(小学館コミック公式ニュース等、2026-08-02閲覧)で作者・掲載誌・連載期間(2007年11月号～2012年3月号、本編全9巻+番外編1巻)・受賞歴・メディアミックスを確認。volumeCountは番外編を含まない本編巻数。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "mashiro-no-oto",
+    "title": "ましろのおと",
+    "titleKana": "ましろのおと",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ragawa-marimo"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "music",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2010,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 31,
+    "synopsis": "尊敬する祖父を亡くした高校生・澤村雪は、津軽三味線の名手だった祖父の音を追い求めて青森から上京し、東京の私立高校に転入する。校内の三味線愛好会の仲間たちや、桁違いの才能を持つライバルたちとの出会いを通じて、雪は自分にしか出せない「自分だけの音」を探し出そうともがき、奏者として成長していく。伝統楽器を題材にした青春音楽劇。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2012,
+        "result": "少年部門受賞(第36回)"
+      },
+      {
+        "awardId": "bunkacho-media-geijutsusai",
+        "year": 2012,
+        "result": "マンガ部門優秀賞(第16回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ましろのおと"
+    },
+    "sourceNote": "日本語版Wikipedia『ましろのおと』記事(2026-08-02閲覧)で作者・掲載誌・連載期間(2010年5月号～2022年9月号、全31巻)・受賞歴・メディアミックスを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kono-oto-tomare",
+    "title": "この音とまれ!",
+    "titleKana": "このおととまれ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "amyu"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "music",
+      "school",
+      "comedy",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2012,
+    "status": "ongoing",
+    "volumeCount": 34,
+    "synopsis": "強面で不良と誤解されがちな高校生・工藤ちかは、幼い頃に亡くした祖母との約束から、部員がひとりしかいない廃部寸前の箏曲部に入部する。次々と加わる個性的な新入部員たちと反発し合いながらも、ちかたちは箏という和楽器の奥深さと魅力に目覚め、全国大会の舞台を目指して練習を積み重ねながら絆を深めていく学園音楽物語。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/この音とまれ!"
+    },
+    "sourceNote": "日本語版Wikipedia『この音とまれ!』記事(2026-08-02閲覧)で作者・掲載誌・連載開始年(2012年、ジャンプスクエア)・既刊巻数(2026年6月時点34巻、連載中)・アニメ化を確認。第72回文化庁芸術祭賞(レコード部門)はアニメ主題歌CDに対する受賞でありコミック本体の受賞ではないため、本DBの方針(アニメ版のみ対象の賞は対象外)によりawardResultsには含めない。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ao-no-orchestra",
+    "title": "青のオーケストラ",
+    "titleKana": "あおのおーけすとら",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "akui-makoto"
+    ],
+    "publisherId": "shogakukan",
+    "themeIds": [
+      "music",
+      "school",
+      "romance"
+    ],
+    "firstPublishedYear": 2017,
+    "status": "ongoing",
+    "volumeCount": 15,
+    "synopsis": "かつて将来を嘱望されながら、ある出来事をきっかけにヴァイオリンをやめてしまった高校生・青野一は、情熱的な奏者・秋音律子との出会いをきっかけに再び楽器を手に取る。オーケストラ部に入部した一は、複雑な事情を抱える異母兄弟でもある天才肌の佐伯直と競い合い、個性豊かな仲間との合奏を通じて音楽と向き合う本当の意味を見つけていく。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2023,
+        "result": "少年向け部門受賞(第68回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/青のオーケストラ"
+    },
+    "sourceNote": "日本語版Wikipedia『青のオーケストラ』記事(2026-08-02閲覧)で作者・掲載誌(マンガワン/裏サンデー)・連載開始年(2017年)・既刊巻数(2026年4月時点15巻、連載中)・受賞歴・メディアミックスを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hachimitsu-to-clover",
+    "title": "ハチミツとクローバー",
+    "titleKana": "はちみつとくろーばー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "haneno-chika"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "arts",
+      "romance",
+      "workplace-drama",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2000,
+    "latestPublishedYear": 2006,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "美術大学に通う平凡な学生・竹本祐太は、下宿先の個性豊かな先輩たちに囲まれた学生生活の中、ある日突然現れた天才肌の年下の従妹・はぐみに出会い心を奪われる。将来の進路や叶わぬ恋、そして自分の才能の限界への迷いを抱えながらもがき成長していく美術大学の学生たちの姿を、ほろ苦くも温かい筆致で描いた美大青春群像劇。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2003,
+        "result": "少女部門受賞(第27回)"
+      },
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2006,
+        "result": "オンナ編1位"
+      },
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2007,
+        "result": "オンナ編1位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ハチミツとクローバー"
+    },
+    "sourceNote": "日本語版Wikipedia『ハチミツとクローバー』記事(2026-08-02閲覧)で作者(羽海野チカ、既存artist idのhaneno-chikaを再利用)・掲載誌・連載期間(2000年4月～2006年7月、全10巻)・受賞歴・メディアミックスを確認。novelizationは記事上未確認のためfalseと明記。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "genshiken",
+    "title": "げんしけん",
+    "titleKana": "げんしけん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kio-shimoku"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "school",
+      "comedy",
+      "romance",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2002,
+    "latestPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 21,
+    "synopsis": "大学に入学したものの周囲になじめずにいた笹原完士は、漫画・アニメ・ゲームを愛するオタクたちのサークル「現代視覚文化研究会」通称「げんしけん」に足を踏み入れる。個性豊かな部員たちとの交流やコスプレ・同人活動を通じて描かれる恋愛模様を軸に、オタク文化とどう向き合い生きていくかを描いたコメディ色の強い青春群像劇。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2005,
+        "result": "ノミネート"
+      },
+      {
+        "awardId": "bunkacho-media-geijutsusai",
+        "year": 2005,
+        "result": "ノミネート"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/げんしけん"
+    },
+    "sourceNote": "日本語版Wikipedia『げんしけん』記事(2026-08-02閲覧)で作者・掲載誌(月刊アフタヌーン)・連載期間(第1期2002年～2006年、二代目2010年～2016年、合計全21巻)・2005年講談社漫画賞/文化庁メディア芸術祭ノミネート・メディアミックスを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hourou-musuko",
+    "title": "放浪息子",
+    "titleKana": "ほうろうむすこ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "shimura-takako"
+    ],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "school",
+      "slice-of-life",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2002,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 15,
+    "synopsis": "「女の子になりたい」と願う男の子・二鳥修一と、「男の子になりたい」と願う女の子・高槻よしのは、互いだけが知る秘密を打ち明け合ったことをきっかけに親しくなっていく。小学生から高校生へと成長する中で変化していく身体や、周囲の視線・人間関係に戸惑いながら、自分らしい生き方を静かに模索していく姿を丁寧に描いた思春期群像劇。",
+    "awardResults": [
+      {
+        "awardId": "bunkacho-media-geijutsusai",
+        "year": 2006,
+        "result": "マンガ部門審査委員会推薦作品(第10回)"
+      },
+      {
+        "awardId": "bunkacho-media-geijutsusai",
+        "year": 2013,
+        "result": "マンガ部門審査委員会推薦作品(第17回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/放浪息子"
+    },
+    "sourceNote": "日本語版Wikipedia『放浪息子』記事(2026-08-02閲覧)で作者・掲載誌(エンターブレイン『コミックビーム』)・連載期間(2002年12月号～2013年8月号、全15巻)・受賞歴・アニメ化を確認。エンターブレインは2013年にKADOKAWAへ吸収合併されKADOKAWAのレーベルブランドとなっているため(Web検索結果、2026-08-02閲覧)、publisherIdは既存のkadokawaを使用。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "koe-no-katachi",
+    "title": "聲の形",
+    "titleKana": "こえのかたち",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "oima-yoshitoki"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "school",
+      "workplace-drama",
+      "romance",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2014,
+    "status": "completed",
+    "volumeCount": 7,
+    "synopsis": "小学生の頃、聴覚障害のある転校生・西宮硝子をいじめの標的にし、そのことが原因で孤立した過去を持つ石田将也は、高校生になり自らの命を絶とうと決意した矢先に硝子と再会する。過去の罪と向き合いながら硝子やかつてのクラスメイトたちと関係を築き直していく姿を通じて、人と人が分かり合うことの難しさと尊さを描く。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2015,
+        "result": "オトコ編1位"
+      },
+      {
+        "awardId": "manga-taisho",
+        "year": 2015,
+        "result": "3位"
+      },
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2015,
+        "result": "新生賞(第19回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/聲の形"
+    },
+    "sourceNote": "日本語版Wikipedia『聲の形』記事(2026-08-02閲覧)で作者・掲載誌(別冊少年マガジン/週刊少年マガジン)・週刊連載期間(2013年8月～2014年11月、全7巻)・受賞歴・メディアミックスを確認。firstPublishedYearは週刊連載開始年(2013年)を採用し、2008年の読切原型版・2011年掲載の別冊版は本編連載の前身として区別。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "boku-dake-ga-inai-machi",
+    "title": "僕だけがいない街",
+    "titleKana": "ぼくだけがいないまち",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "sanbe-kei"
+    ],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "suspense-psychological",
+      "detective-mystery",
+      "sci-fi",
+      "school"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 8,
+    "synopsis": "売れない漫画家の藤沼悟は、事故や事件が起きる直前に時間を巻き戻し悲劇を未然に防ぐ「再上映」という不思議な力を持つ。母を殺害された事件の犯人と誤認されたことをきっかけに、18年前の1988年へ再上映で送り込まれた悟は、少年の姿のまま当時起きた連続誘拐殺人事件を防ぎ、幼なじみたちの命を救うため奔走する。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2014,
+        "result": "オトコ編15位"
+      },
+      {
+        "awardId": "manga-taisho",
+        "year": 2014,
+        "result": "2位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/僕だけがいない街"
+    },
+    "sourceNote": "日本語版Wikipedia『僕だけがいない街』記事(2026-08-02閲覧)で作者・掲載誌(ヤングエース)・連載期間(2012年6月～2016年3月、本編全8巻+外伝『Re』1巻)・受賞歴・メディアミックスを確認。volumeCountは外伝を含まない本編巻数。ジャンルとしては音楽・アート要素はないが「青春群像」枠の候補として調査依頼を受けたため、実態に沿いサスペンス・ミステリー・SF系のテーマタグを付与した。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "blue-period",
+    "title": "ブルーピリオド",
+    "titleKana": "ぶるーぴりおど",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yamaguchi-tsubasa"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "arts",
+      "school",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2017,
+    "status": "ongoing",
+    "volumeCount": 19,
+    "synopsis": "成績優秀でスクールカーストの上位にいながら、どこか満たされなさを抱えていた高校生・矢口八虎は、美術室で見かけた一枚の絵に強く心を動かされ美術部に入部する。絵を描く楽しさに目覚めた八虎は最難関の東京藝術大学合格を目指し、厳しい受験予備校での競争や自分の才能への葛藤と向き合いながら、本気で「好き」を追いかける道を選んでいく。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2020,
+        "result": "大賞"
+      },
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2020,
+        "result": "一般部門受賞(第44回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ブルーピリオド"
+    },
+    "sourceNote": "日本語版Wikipedia『ブルーピリオド』記事、およびWeb検索結果(オリコンニュース等、2026-08-02閲覧)で作者・掲載誌(月刊アフタヌーン)・連載開始年(2017年)・既刊巻数(2026年5月時点19巻、連載中)・マンガ大賞2020大賞受賞・講談社漫画賞受賞を確認(ユーザー指定の通り2020年受賞歴を確認できた)。みんなが選ぶTSUTAYAコミック大賞2018ネクストブレイク部門は本DBの既存アワード一覧に該当賞がないため未登録。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "eiga-daisuki-pompo-san",
+    "title": "映画大好きポンポさん",
+    "titleKana": "えいがだいすきぽんぽさん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "sugitani-shogo"
+    ],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "arts",
+      "workplace-drama",
+      "comedy"
+    ],
+    "firstPublishedYear": 2017,
+    "status": "ongoing",
+    "volumeCount": 8,
+    "synopsis": "映画の都ニャリウッドで敏腕プロデューサー・ポンポの助手を務める青年ジーンは、彼女の目に留まり、いきなり監督デビューの大抜擢を受ける。新人女優ナタリーや個性的なスタッフたちと共に、上映時間90分の映画作りという大仕事に情熱を注ぎ全力で挑むジーンの奮闘を通じて、ものづくりに懸ける熱意と映画愛を軽快に描いた作品。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2018,
+        "result": "10位"
+      },
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2018,
+        "result": "オトコ編17位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/映画大好きポンポさん"
+    },
+    "sourceNote": "Web検索結果(マンガペディア・BookLive!・KADOKAWA関連ニュース記事等、2026-08-02閲覧、作者の単独Wikipedia記事は未確認)で作者・掲載媒体(pixiv/ジーンピクシブ、KADOKAWA刊)・連載開始年(2017年)・既刊巻数(2024年1月時点8巻、連載中)・受賞歴・劇場アニメ化(2021年)・オリジナル作品であることを確認。",
+    "updatedAt": "2026-08-02"
   }
 ]
