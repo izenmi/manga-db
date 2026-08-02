@@ -5385,5 +5385,430 @@
     },
     "sourceNote": "Web検索結果(マンガペディア・BookLive!・KADOKAWA関連ニュース記事等、2026-08-02閲覧、作者の単独Wikipedia記事は未確認)で作者・掲載媒体(pixiv/ジーンピクシブ、KADOKAWA刊)・連載開始年(2017年)・既刊巻数(2024年1月時点8巻、連載中)・受賞歴・劇場アニメ化(2021年)・オリジナル作品であることを確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "jibaku-shonen-hanako-kun",
+    "title": "地縛少年花子くん",
+    "titleKana": "じばくしょうねんはなこくん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "aidairo"
+    ],
+    "publisherId": "square-enix",
+    "themeIds": [
+      "horror",
+      "school",
+      "comedy",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2015,
+    "status": "ongoing",
+    "volumeCount": 26,
+    "synopsis": "学園七不思議の一つ「花子さん」が、実は美少年の姿をした怪異・花子くんだと知った女子中学生・八城仁は、うっかり抱いた片想いの願いを叶えてもらう代わりに、彼の代理人として怪異絡みの騒動に付き合わされることになる。夜見学園に渦巻く数々の怪異や因縁、仁と花子くんの少しずつ変化していく関係を軸に、軽妙なコメディとホラー、そして切ない過去にまつわる謎が絡み合いながら描かれる学園怪異譚。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/地縛少年花子くん"
+    },
+    "sourceNote": "日本語版Wikipedia『地縛少年花子くん』記事(2026-08-02閲覧)で作者・出版社・連載開始年・既刊巻数(2025年10月時点26巻)を確認。2025年12月号から休載が発表されているためstatusはongoingのまま(未完結)とした。あらすじは独自要約(コピペなし)。明記された受賞歴は確認できず空配列。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "higurashi-no-naku-koro-ni",
+    "title": "ひぐらしのなく頃に",
+    "titleKana": "ひぐらしのなくころに",
+    "originalAuthorIds": [
+      "ryukishi07"
+    ],
+    "artistIds": [
+      "suzuragi-karin",
+      "houjou-yutori"
+    ],
+    "publisherId": "square-enix",
+    "themeIds": [
+      "horror",
+      "suspense-psychological",
+      "detective-mystery",
+      "school"
+    ],
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "過疎の山村・雛見沢に引っ越してきた前原圭一は、のどかで平和な日常を送っていたが、その裏で毎年繰り返されてきたという怪死事件「綿流し祭りの祟り」に次第に巻き込まれていく。同じ時間軸をわずかに異なる展開・結末で何度も辿り直す構成を取りながら、親しかったはずの友人たちへの疑心と得体の知れない恐怖が加速していく心理サスペンス。人気同人ゲームを原作とする漫画版。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ひぐらしのなく頃に"
+    },
+    "sourceNote": "日本語版Wikipedia『ひぐらしのなく頃に』記事(2026-08-02閲覧)で確認。原作は竜騎士07(07th Expansion)のサウンドノベル。漫画版は出題編・解答編ごとに担当作画が分かれる大型シリーズのため、本エントリでは確認できた最初の2作『鬼隠し編』(作画:鈴羅木かりん、全2巻、2005年〜)と『綿流し編』(作画:方条ゆとり、全2巻)を代表として登録し、volumeCountはこの2作の合計4巻とした。以降の祟殺し編・暇潰し編等や解答編、および続編『巡』『卒』『令』『鬼』等の派生シリーズは範囲外・未登録。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "umineko-no-naku-koro-ni",
+    "title": "うみねこのなく頃に",
+    "titleKana": "うみねこのなくころに",
+    "originalAuthorIds": [
+      "ryukishi07"
+    ],
+    "artistIds": [
+      "natsumi-kei"
+    ],
+    "publisherId": "square-enix",
+    "themeIds": [
+      "horror",
+      "suspense-psychological",
+      "detective-mystery",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "絶海の孤島・六軒島に一族が集う晩、当主の莫大な遺産を巡る「魔女の遺言書」の存在が読み上げられた直後から、居合わせた参加者たちが一人また一人と猟奇的な手口で惨殺されていく。生き残りを賭けた論理的な推理と、本当に存在するかもしれない黄金の魔女ベアトリーチェの仕業なのかを巡る激しい論争が交錯していく、同人ゲームを原作とするミステリーホラー漫画版。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/うみねこのなく頃に_episode1_-_Legend_of_the_golden_witch"
+    },
+    "sourceNote": "日本語版Wikipedia『うみねこのなく頃に episode1 - Legend of the golden witch』記事(2026-08-02閲覧)で確認。原作は竜騎士07(07th Expansion)。漫画版はエピソードごとに担当作画が分かれるシリーズのため、確認できた最初の『Episode1: Legend of the golden witch』(作画:夏海ケイ、ガンガンパワード〜月刊ガンガンJOKER、2008年〜2009年、全4巻)を代表として登録。Episode2以降は別の作画者が担当しており本エントリの範囲外。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "jigoku-sensei-nube",
+    "title": "地獄先生ぬ〜べ〜",
+    "titleKana": "じごくせんせいぬーべー",
+    "originalAuthorIds": [
+      "makura-sho"
+    ],
+    "artistIds": [
+      "okano-tsuyoshi"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "horror",
+      "school",
+      "comedy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1993,
+    "latestPublishedYear": 1999,
+    "status": "completed",
+    "volumeCount": 31,
+    "synopsis": "かつて鬼の左手を宿し妖怪と死闘を繰り広げた過去を持つ青年・鵺野鳴介は、その力を封印して小学校教師となる。担任するクラスの子どもたちが妖怪や悪霊による事件に巻き込まれるたび、封じた「鬼の手」を解き放って立ち向かっていく。笑いと涙、時に容赦なく残酷な怪異譚を織り交ぜながら、教師と教え子たちの絆を描く学園コメディホラー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/地獄先生ぬ〜べ〜"
+    },
+    "sourceNote": "日本語版Wikipedia『地獄先生ぬ〜べ〜』記事(2026-08-02閲覧)で原作・作画・週刊少年ジャンプでの連載期間(1993年38号〜1999年24号)・巻数(ジャンプコミックス版全31巻)を確認。あらすじは独自要約(コピペなし)。明記された受賞歴は確認できず空配列。続編・スピンオフ多数あるが本エントリは無印(1993-1999)のみを対象。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shiki",
+    "title": "屍鬼",
+    "titleKana": "しき",
+    "originalAuthorIds": [
+      "ono-fuyumi"
+    ],
+    "artistIds": [
+      "fujisaki-ryu"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "horror",
+      "suspense-psychological",
+      "detective-mystery"
+    ],
+    "firstPublishedYear": 2008,
+    "latestPublishedYear": 2011,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "人口1300人ほどの閉鎖的な山村・外場村に、素性の知れないよそ者一家が越してきた直後から、村人たちの原因不明の変死が次々と相次ぐ。若き医師と、死者として一度は葬られながら異形の姿で蘇った青年らが、村を静かに蝕んでいく正体不明の存在の真相に迫っていくうち、生者と死者、人間と非人間の境界そのものを問う凄惨な戦いへと発展していく。小野不由美の同名小説を原作とする漫画版。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/屍鬼"
+    },
+    "sourceNote": "日本語版Wikipedia『屍鬼』記事(2026-08-02閲覧)で原作(小野不由美の小説)・作画(藤崎竜)・掲載誌(ジャンプスクエア)・連載期間(2008年1月号〜2011年7月号)・巻数(全11巻)を確認。あらすじは独自要約(コピペなし)。明記された受賞歴は確認できず空配列。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "aku-no-hana",
+    "title": "惡の華",
+    "titleKana": "あくのはな",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "oshimi-shuzo"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "horror",
+      "suspense-psychological",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2009,
+    "latestPublishedYear": 2014,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "ボードレールの詩集を心の拠りどころにする文学少年・春日高男は、ある日、密かに片想いする相手の体操着を魔が差して盗んでしまう。その現場をたまたま目撃したクラスの異端児・仲村さゆりに脅され、事実を口外しない代わりに奇妙な「契約」を結ばされたことで、彼のありふれた平穏な日常は少しずつ歪み、崩壊していく。思春期特有の劣等感と衝動を容赦なく抉り出す青春サスペンス。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2011,
+        "result": "オトコ編10位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/惡の華"
+    },
+    "sourceNote": "日本語版Wikipedia『惡の華』記事(2026-08-02閲覧)で作者・掲載誌(別冊少年マガジン)・連載期間(2009年10月〜2014年6月)・巻数(全11巻)・「このマンガがすごい!2011」オトコ編10位を確認。あらすじは独自要約(コピペなし)。オリジナル作品のためoriginalAuthorIdsは空配列。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "fuan-no-tane",
+    "title": "不安の種",
+    "titleKana": "ふあんのたね",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nakayama-masaaki"
+    ],
+    "publisherId": "akita-shoten",
+    "themeIds": [
+      "horror",
+      "suspense-psychological",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2002,
+    "status": "ongoing",
+    "volumeCount": 17,
+    "synopsis": "電車の中、街角、家の中といった何の変哲もない日常の風景に、ふと顔をのぞかせる奇妙な違和感や説明のつかない不気味な存在を、ほとんど台詞のない短編オムニバス形式で淡々と描くホラー漫画。事件の顛末をあえて明かさず、過剰な説明を排して読者自身の想像力に恐怖を委ねる演出が特徴で、「不安の種+」「不安の種*」と改題・掲載誌を変えながら長期にわたり描き継がれている。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/不安の種"
+    },
+    "sourceNote": "日本語版Wikipedia『不安の種』記事(2026-08-02閲覧)で確認。秋田書店の『チャンピオンRED』『週刊少年チャンピオン』誌上で『不安の種』(2002-2005、全3巻)→『不安の種+』(2007-2008、全4巻)→『不安の種*』(2019年〜連載中、2026年3月時点全10巻)と改題しながら継続。volumeCountは3作合計17巻とし、statusは現行作が連載中のためongoingとした。あらすじは独自要約(コピペなし)。映画化された実写版はあるが漫画自体の受賞歴は確認できず空配列。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "platinum-end",
+    "title": "プラチナエンド",
+    "titleKana": "ぷらちなえんど",
+    "originalAuthorIds": [
+      "oba-tsugumi"
+    ],
+    "artistIds": [
+      "obata-takeshi"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "horror",
+      "dark-fantasy",
+      "battle-action",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2021,
+    "status": "completed",
+    "volumeCount": 14,
+    "synopsis": "幼い頃に家族を失い、希望を見出せないまま生きてきた少年・架橋みらいは、卒業式の日に自ら命を絶とうとするが、天使アルテナに救われたことで「神候補」12人の一人に選ばれてしまう。相手を無力化できる天使の力を武器に、それぞれ異なる正義を掲げる他の候補たちとの騙し合いと駆け引きの中で、人間にとっての善悪や幸福の意味を問うていく心理バトル作品。「DEATH NOTE」コンビによる第3弾。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/プラチナエンド"
+    },
+    "sourceNote": "日本語版Wikipedia『プラチナエンド』記事(2026-08-02閲覧)で原作・作画・掲載誌(ジャンプSQ.)・連載期間(2015年12月〜2021年2月)・巻数(全14巻)を確認。原作者・作画家とも既存id(oba-tsugumi/obata-takeshi、DEATH NOTEで登録済み)を再利用し新規登録なし。あらすじは独自要約(コピペなし)。明記された受賞歴は確認できず空配列。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "jagaan",
+    "title": "ジャガーン",
+    "titleKana": "じゃがーん",
+    "originalAuthorIds": [
+      "kaneshiro-muneyuki"
+    ],
+    "artistIds": [
+      "nishida-kensuke"
+    ],
+    "publisherId": "shogakukan",
+    "themeIds": [
+      "horror",
+      "battle-action",
+      "dark-fantasy",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2021,
+    "status": "completed",
+    "volumeCount": 14,
+    "synopsis": "謎の寄生生物「腕」に取り憑かれた人間が理性を失い凶暴な怪物「バケモン」と化してしまう怪異が静かに蔓延する日本を舞台に、事件で家族を惨殺され、自身もその「腕」に寄生されてしまった刑事・道成寺輝が、怪物と化した犯人たちを一人ずつ追い詰めていく。人間性と怪物性の狭間で揺れる主人公を描くダークホラーバトル。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ジャガーン"
+    },
+    "sourceNote": "日本語版Wikipedia『ジャガーン』記事(2026-08-02閲覧)で原作・作画・掲載誌(ビッグコミックスピリッツ)・連載期間(2017年10号〜2021年49号)・巻数(全14巻)を確認。原作者は既存id kaneshiro-muneyukiを再利用(新規登録なし)。あらすじは独自要約(コピペなし)。明記された受賞歴は確認できず空配列。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ghost-hunt",
+    "title": "ゴーストハント",
+    "titleKana": "ごーすとはんと",
+    "originalAuthorIds": [
+      "ono-fuyumi"
+    ],
+    "artistIds": [
+      "inada-shiho"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "horror",
+      "suspense-psychological",
+      "school",
+      "detective-mystery"
+    ],
+    "firstPublishedYear": 1998,
+    "status": "completed",
+    "volumeCount": 12,
+    "synopsis": "名門私立高校の旧校舎に伝わる不可解な怪奇現象を調べるため、生意気だが有能な心霊調査会社「渋谷サイキックリサーチ」の若き所長・渋谷一也が学校に招かれる。ひょんなことから助手として協力することになった気の強い女子高生・谷山麻衣たちが、霊能者や科学者、僧侶など個性豊かな仲間と共に各地の心霊事件を調査し、真相へと迫っていくオカルトミステリー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/悪霊シリーズ"
+    },
+    "sourceNote": "日本語版Wikipedia『悪霊シリーズ』記事・講談社なかよし公式サイト・電子書店書誌情報(2026-08-02閲覧)で確認。小野不由美の小説「悪霊シリーズ」を原作に、いなだ詩穂が1998年より『Amie』『なかよし』誌で漫画化(全12巻完結)。原作者は屍鬼と同一人物のためono-fuyumiを本バッチ内で再利用(重複新規登録なし)。あらすじは独自要約(コピペなし)。明記された受賞歴は確認できず空配列。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kasane",
+    "title": "累-かさね-",
+    "titleKana": "かさね",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "matsuura-daruma"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "horror",
+      "suspense-psychological",
+      "arts"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 14,
+    "synopsis": "絶世の美貌を誇った舞台女優だった亡き母の遺した口紅を使うと、相手と自分の顔を一時的に交換できる不思議な力を持つ、母に似ず醜い容姿ゆえに虐げられてきた少女・累。その力を武器に憧れの舞台女優への道を歩み始めるが、進むほどに美と才能、そして嫉妬が渦巻く芸能界の暗い業に呑み込まれていく和風ホラー。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2015,
+        "result": "一般部門ノミネート"
+      },
+      {
+        "awardId": "manga-taisho",
+        "year": 2015,
+        "result": "10位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/累"
+    },
+    "sourceNote": "日本語版Wikipedia『累』記事(2026-08-02閲覧)で作者・掲載誌(イブニング)・連載期間(2013年10月号〜2018年17号)・巻数(全14巻)・第39回講談社漫画賞一般部門ノミネート・マンガ大賞2015 10位を確認。あらすじは独自要約(コピペなし)。オリジナル作品のためoriginalAuthorIdsは空配列。「次にくるマンガ大賞」「全国書店員が選んだおすすめコミック」等、既存パレット外の賞は未登録。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ring",
+    "title": "リング",
+    "titleKana": "りんぐ",
+    "originalAuthorIds": [
+      "suzuki-koji"
+    ],
+    "artistIds": [
+      "nagai-kojiro"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "horror",
+      "suspense-psychological",
+      "detective-mystery"
+    ],
+    "firstPublishedYear": 1995,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "見た者を一週間後に必ず呪い殺すという、出所不明の「呪いのビデオ」の謎を追う記者・浅川は、若者が次々と原因不明の急死を遂げる事件の共通点を辿るうち、遠い過去に非業の死を遂げた一人の女性の凄まじい怨念へと行き着く。鈴木光司の同名小説を原作とする、日本のJホラーブームの原点となった作品の漫画化。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/リング_(鈴木光司の小説)"
+    },
+    "sourceNote": "日本語版Wikipedia『リング(鈴木光司の小説)』記事、講談社コミックプラス公式サイト・書誌情報サイト(2026-08-02閲覧)で確認。原作は鈴木光司の小説、漫画作画は永井幸二郎。『月刊少年マガジン増刊GREAT』1995年4月号・7月号・9月号に分載され単行本1巻にまとめられた(講談社漫画文庫版含む)。あらすじは独自要約(コピペなし)。明記された受賞歴は確認できず空配列。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tomie",
+    "title": "富江",
+    "titleKana": "とみえ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ito-junji"
+    ],
+    "publisherId": "asahi-shimbun-shuppan",
+    "themeIds": [
+      "horror",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 1987,
+    "latestPublishedYear": 2000,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "見る者すべてを虜にする圧倒的な美貌を持つ少女・富江は、その美しさゆえに周囲の激しい嫉妬と病的な執着を呼び覚まし、関わった男たちに繰り返し殺されてしまう。しかし彼女はどれほど細かく切り刻まれても、その肉片一つひとつから際限なく再生・増殖して蘇り続け、周囲の人間を果てしない狂気と惨劇に巻き込んでいく。伊藤潤二のデビュー作にして代表作。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/富江"
+    },
+    "sourceNote": "日本語版Wikipedia『富江』記事(2026-08-02閲覧)で確認。『月刊ハロウィン』(朝日ソノラマ)の第1回楳図かずお賞佳作入選作としてデビューし、1987年〜2000年に同誌・『ネムキ』等で断続連載。単行本は『伊藤潤二傑作集』(朝日新聞出版)全2巻(上・下)。作画家は既存id ito-junji(うずまき登録済み)を再利用、オリジナル作品のためoriginalAuthorIdsは空配列。楳図かずお賞は既存賞パレット外のため受賞歴には未登録(空配列)。",
+    "updatedAt": "2026-08-02"
   }
 ]

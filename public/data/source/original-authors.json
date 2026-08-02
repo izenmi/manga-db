@@ -419,5 +419,53 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipedia『リアルアカウント』記事および講談社公式書誌情報(2026-08-02閲覧)で原作(原案)クレジットを確認。個人プロフィールの詳細(生年等)は確認できず。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ryukishi07",
+    "name": "竜騎士07",
+    "nameKana": "りゅうきしぜろなな",
+    "description": "ゲームシナリオライター・同人サークル「07th Expansion」代表。サウンドノベル「ひぐらしのなく頃に」「うみねこのなく頃に」の原作者・原案者。",
+    "birthYear": 1973,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/竜騎士07"
+    },
+    "sourceNote": "日本語版Wikipedia『竜騎士07』記事(2026-08-02閲覧)で経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "makura-sho",
+    "name": "真倉翔",
+    "nameKana": "まくらしょう",
+    "description": "漫画原作者。愛知県出身。「地獄先生ぬ〜べ〜」を作画の岡野剛とのコンビで手がけた。",
+    "birthYear": 1964,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/真倉翔"
+    },
+    "sourceNote": "日本語版Wikipedia『真倉翔』記事(2026-08-02閲覧)で経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ono-fuyumi",
+    "name": "小野不由美",
+    "nameKana": "おのふゆみ",
+    "description": "小説家。大分県出身。「十二国記」シリーズや、漫画化もされた「屍鬼」「悪霊シリーズ(ゴーストハント)」の原作者。推理作家・綾辻行人の妻。",
+    "birthYear": 1960,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/小野不由美"
+    },
+    "sourceNote": "日本語版Wikipedia『小野不由美』記事(2026-08-02閲覧)で経歴・代表作を確認。「屍鬼」「ゴーストハント」の原作者として本バッチ内で同一idを再利用。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "suzuki-koji",
+    "name": "鈴木光司",
+    "nameKana": "すずきこうじ",
+    "description": "小説家。静岡県浜松市出身。「リング」「らせん」等リングシリーズでJホラーブームの火付け役となった。",
+    "birthYear": 1957,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/鈴木光司"
+    },
+    "sourceNote": "日本語版Wikipedia『鈴木光司』記事(2026-08-02閲覧)で経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

@@ -1657,5 +1657,135 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaに単独記事が確認できなかったため、マンガペディア・BookLive!等の書誌情報(2026-08-02閲覧)で代表作・所属を確認。生年不明。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "aidairo",
+    "name": "あいだいろ",
+    "nameKana": "あいだいろ",
+    "description": "漫画家。作画担当「あいだ」と原作担当「いろ」による2人組ユニットで、クラスメイトだった2人が2011年にデビュー。「地縛少年花子くん」の作者。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/地縛少年花子くん"
+    },
+    "sourceNote": "日本語版Wikipedia『地縛少年花子くん』記事およびpixiv百科事典『あいだいろ』記事(2026-08-02閲覧)で確認。実際には作画・原作で2人に分かれるユニットだが、全出版物で「あいだいろ」の単独名義で表記されているため、本サイトではオリジナル作品の単独作画家として登録(originalAuthorIdsは空配列)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "suzuragi-karin",
+    "name": "鈴羅木かりん",
+    "nameKana": "すずらぎかりん",
+    "description": "漫画家。「ひぐらしのなく頃に 鬼隠し編」の作画を担当。",
+    "externalLinks": {},
+    "sourceNote": "書誌情報サイト(ブックライブ・BOOK☆WALKER等、2026-08-02閲覧)で「ひぐらしのなく頃に 鬼隠し編」の作画者名を確認。詳細な経歴・生年は未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "houjou-yutori",
+    "name": "方条ゆとり",
+    "nameKana": "ほうじょうゆとり",
+    "description": "漫画家。「ひぐらしのなく頃に 綿流し編」の作画を担当。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『ひぐらしのなく頃に』記事(2026-08-02閲覧)で「綿流し編」の作画者名を確認。詳細な経歴・生年は未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "natsumi-kei",
+    "name": "夏海ケイ",
+    "nameKana": "なつみけい",
+    "description": "漫画家・イラストレーター。新潟県出身。第3回スクウェア・エニックスマンガ大賞準大賞でデビュー。「うみねこのなく頃に」の漫画版作画を担当。",
+    "birthYear": 1981,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/夏海ケイ"
+    },
+    "sourceNote": "日本語版Wikipedia『夏海ケイ』記事(2026-08-02閲覧)で経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "okano-tsuyoshi",
+    "name": "岡野剛",
+    "nameKana": "おかのつよし",
+    "description": "漫画家。千葉県柏市出身。第28回赤塚賞入選。原作・真倉翔とのコンビで「地獄先生ぬ〜べ〜」を手がけた。",
+    "birthYear": 1967,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/岡野剛"
+    },
+    "sourceNote": "日本語版Wikipedia『岡野剛』記事(2026-08-02閲覧)で経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "fujisaki-ryu",
+    "name": "藤崎竜",
+    "nameKana": "ふじさきりゅう",
+    "description": "漫画家。第39回手塚賞受賞。「封神演義」で人気を博し、原作小説を漫画化した「屍鬼」や「銀河英雄伝説」等も手がける。",
+    "birthYear": 1971,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/藤崎竜"
+    },
+    "sourceNote": "日本語版Wikipedia『藤崎竜』記事(2026-08-02閲覧)で経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "oshimi-shuzo",
+    "name": "押見修造",
+    "nameKana": "おしみしゅうぞう",
+    "description": "漫画家。群馬県桐生市出身。ちばてつや賞ヤング部門優秀新人賞受賞。「惡の華」「血の轍」等、実写化・映像化される作品を多く手がける。",
+    "birthYear": 1981,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/押見修造"
+    },
+    "sourceNote": "日本語版Wikipedia『押見修造』記事(2026-08-02閲覧)で経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nakayama-masaaki",
+    "name": "中山昌亮",
+    "nameKana": "なかやままさあき",
+    "description": "漫画家。北海道旭川市出身。日常に潜む恐怖を描くオムニバスホラー「不安の種」シリーズで知られる。",
+    "birthYear": 1966,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/中山昌亮"
+    },
+    "sourceNote": "日本語版Wikipedia『中山昌亮』記事(2026-08-02閲覧)で経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nishida-kensuke",
+    "name": "にしだけんすけ",
+    "nameKana": "にしだけんすけ",
+    "description": "漫画家。京都精華大学マンガ学部卒。「アイアムアヒーロー in NAGASAKI」でデビュー後、原作・金城宗幸とのコンビで「ジャガーン」を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "マンガペディア・小学館コミック公式サイト等(2026-08-02閲覧)で経歴・代表作を確認。生年は未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "inada-shiho",
+    "name": "いなだ詩穂",
+    "nameKana": "いなだしほ",
+    "description": "漫画家。1994年「カムフラージュ」でデビュー。小野不由美の「悪霊シリーズ」のファン作品がきっかけで本人から指名を受け、「ゴーストハント」の作画を担当した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/いなだ詩穂"
+    },
+    "sourceNote": "日本語版Wikipedia『いなだ詩穂』記事(2026-08-02閲覧)で経歴・代表作を確認。生年は未確認(誕生日10月17日のみ判明)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "matsuura-daruma",
+    "name": "松浦だるま",
+    "nameKana": "まつうらだるま",
+    "description": "漫画家。美術大学で油絵を学び、アシスタントを経て2013年「累-かさね-」で連載デビュー。第12回イブニング新人賞佳作受賞。",
+    "birthYear": 1984,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/松浦だるま"
+    },
+    "sourceNote": "日本語版Wikipedia『松浦だるま』記事(2026-08-02閲覧)で経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nagai-kojiro",
+    "name": "永井幸二郎",
+    "nameKana": "ながいこうじろう",
+    "description": "漫画家。鈴木光司の小説「リング」を漫画化した作品等で知られる。",
+    "externalLinks": {},
+    "sourceNote": "講談社コミックプラス公式サイト・書誌情報サイト(2026-08-02閲覧)で「リング」の作画者名・掲載誌情報を確認。詳細な経歴・生年は未確認。",
+    "updatedAt": "2026-08-02"
   }
 ]
