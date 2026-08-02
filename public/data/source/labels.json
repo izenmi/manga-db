@@ -1144,5 +1144,39 @@
     },
     "sourceNote": "日本語版Wikipedia『GANMA!』『山田くんとLv999の恋をする』記事(2026-08-02閲覧)で連載開始媒体であることを確認。shonenjump-plus/tonari-young-jump以外のプラットフォームのためwebComicSourceは作品側で未設定。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "comic-rex",
+    "name": "月刊ComicREX",
+    "nameKana": "げっかんこみっくれっくす",
+    "publisherId": "ichijinsha",
+    "description": "一迅社が発行する漫画雑誌。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/月刊ComicREX"
+    },
+    "sourceNote": "一迅社が2005年12月に創刊した漫画雑誌。『政宗くんのリベンジ』の初出掲載誌としてWeb検索(一迅社公式サイト・電子書店の書誌情報、2026-08-02閲覧)で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ribon-original",
+    "name": "りぼんオリジナル",
+    "nameKana": "りぼんおりじなる",
+    "publisherId": "shueisha",
+    "description": "集英社が発行していた漫画雑誌(『りぼん』本誌の増刊的位置づけで読み切り・番外編中心)。1981年春号-2006年6月号。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/りぼんオリジナル"
+    },
+    "sourceNote": "集英社が1981年春号から2006年6月号まで発行していた漫画雑誌(『りぼん』本誌の増刊的位置づけで読み切り・番外編中心)。日本語版Wikipedia『りぼんオリジナル』記事(2026-08-02閲覧)で沿革を確認し、『有閑倶楽部』が同誌の連載作品として1981年に開始したことを確認。現行単行本の発行元は集英社のまま変わらないが、初出媒体としては『りぼん』本誌と別の雑誌として区別して登録。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "young-magazine-kaizokuban",
+    "name": "ヤングマガジン増刊 海賊版",
+    "nameKana": "やんぐまがじんぞうかん かいぞくばん",
+    "publisherId": "kodansha",
+    "description": "講談社が発行していた『週刊ヤングマガジン』の増刊(不定期刊)。",
+    "externalLinks": {},
+    "sourceNote": "講談社が発行していた『週刊ヤングマガジン』の増刊(不定期刊)。『攻殻機動隊』が1989年に連載を開始した初出媒体としてWeb検索(公式攻殻機動隊グローバルサイトの記事、コミックシーモア等の書誌情報、2026-08-02閲覧)で確認。通常の週刊ヤングマガジン本誌(id: young-magazine)とは別の増刊として区別して登録。",
+    "updatedAt": "2026-08-02"
   }
 ]

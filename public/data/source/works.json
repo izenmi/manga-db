@@ -8847,5 +8847,401 @@
     "sourceNote": "日本語版Wikipedia『怪獣8号』記事(2026-08-02閲覧)で作者(松本直也)・連載媒体(少年ジャンプ+、2020年開始)・完結(2025年7月、全16巻)・アニメ化(第1期2024年、第2期2025年)・スピンオフ小説・受賞歴(次にくるマンガ大賞2021 Webマンガ部門1位)を確認。",
     "updatedAt": "2026-08-02",
     "labelId": "shonenjump-plus"
+  },
+  {
+    "id": "kyofu-shinbun",
+    "title": "恐怖新聞",
+    "titleKana": "きょうふしんぶん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tsunoda-jiro"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "shonen-champion",
+    "themeIds": [
+      "horror"
+    ],
+    "firstPublishedYear": 1973,
+    "latestPublishedYear": 1975,
+    "status": "completed",
+    "volumeCount": 9,
+    "synopsis": "中学生の鬼形礼はある夜、何者かが配達する謎の新聞「恐怖新聞」を受け取ってしまう。その新聞には翌日以降に起こる惨事や死が予告されているが、読むたびに礼の余命が100日ずつ削られていくという恐ろしい呪いが課せられていた。新聞を捨てることもできず、心霊現象や怪異、UFOなど次々と起こる超常的な出来事に巻き込まれながら、礼は迫りくる自らの死の運命と向き合っていく。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/恐怖新聞"
+    },
+    "sourceNote": "日本語版Wikipedia『恐怖新聞』記事(2026-08-02閲覧)で作者・掲載誌(週刊少年チャンピオン)・出版社・連載期間(1973-1975)・巻数(9巻)・あらすじ・1970年代オカルトブームでの位置づけを確認。目立った漫画賞受賞歴は確認できなかったためawardResultsは登録していない。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "wakusei-no-samidare",
+    "title": "惑星のさみだれ",
+    "titleKana": "わくせいのさみだれ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mizukami-satoshi"
+    ],
+    "publisherId": "shonen-gahosha",
+    "labelId": "young-king-ours",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2005,
+    "latestPublishedYear": 2010,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "大学生の雨宮夕日は、しゃべるトカゲの妖精ノイに「一つだけ願いを叶える権利」を持つ騎士として選ばれる。同じく騎士に選ばれた王女・朝日奈さみだれと行動を共にし、世界の破滅を目論む謎の魔道士アニムスや、彼が生み出す敵と戦うことになる。願いには重い代償が伴い、仲間との絆や過去の因縁に苦悩しながら、夕日たちは世界の命運を懸けた戦いに身を投じていく成長冒険譚。",
+    "mediaMix": {
+      "anime": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/惑星のさみだれ"
+    },
+    "sourceNote": "日本語版Wikipedia『惑星のさみだれ』記事(2026-08-02閲覧)で作者・掲載誌(ヤングキングアワーズ)・連載期間(2005-2010)・巻数(10巻)・あらすじを確認。依頼された『デスゲーム』テーマの適合性を重点的に調査したが、記事には「ルールを破ったら死�ぬ」といった審判者(ゲームマスター)が全キャラクターに罰則を課す仕組みの明確な記述はなく、願いの代償(業を背負う)という個人単位のペナルティと、魔道士アニムス及びその配下(泥人形等)との自由意志による戦闘が中心と判断した。そのためdeath-gameタグは付与せず、dark-fantasy/battle-action/adventureを採用した。受賞歴の記載は確認できなかった。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yukoku-no-moriarty",
+    "title": "憂国のモリアーティ",
+    "titleKana": "ゆうこくのモリアーティ",
+    "originalAuthorIds": [
+      "takeuchi-ryosuke"
+    ],
+    "artistIds": [
+      "miyoshi-hikaru"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "jump-sq",
+    "themeIds": [
+      "detective-mystery",
+      "historical",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2016,
+    "status": "ongoing",
+    "synopsis": "大英帝国の栄華の裏で身分格差が横行する19世紀末ロンドン。孤児だった天才少年ウィリアムは、養父アルバートと弟ルイスとともに貴族社会の腐敗を正すべく、法では裁けぬ悪人を計画的な「事件」で葬る道を選ぶ。やがて名探偵シャーロック・ホームズと対峙することになる彼らの企みは、国家すら揺るがす壮大な陰謀へと発展していく、コナン・ドイル「シャーロック・ホームズ」の世界観を下敷きにした頭脳戦ミステリー。",
+    "awardResults": [
+      {
+        "awardId": "zenkoku-shoten-in-osusume-comic",
+        "year": 2018,
+        "result": "一般部門2位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/憂国のモリアーティ"
+    },
+    "sourceNote": "日本語版Wikipedia『憂国のモリアーティ』記事(2026-08-02閲覧)で原作(竹内良輔)・作画(三好輝)・掲載誌(ジャンプSQ.)・連載期間(第1部2016-2023、第2部『-The Remains-』が原作:埼田要介/作画:三好輝で2025年より継続中)・受賞歴を確認。第2部は原作者が異なるためoriginalAuthorIdsは第1部の竹内良輔のみとした。巻数は第1部・第2部通算で数え方が資料により異なり確定できなかったため未登録、latestPublishedYearも連載継続中のため未登録(status: ongoing)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "oshi-no-ko",
+    "title": "【推しの子】",
+    "titleKana": "おしのこ",
+    "originalAuthorIds": [
+      "akasaka-aka"
+    ],
+    "artistIds": [
+      "yokoyari-mengo"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "young-jump",
+    "themeIds": [
+      "suspense-psychological",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2024,
+    "status": "completed",
+    "volumeCount": 16,
+    "synopsis": "推していたアイドルの主治医だった青年医師は、彼女の子として転生する。同じく転生した双子の妹とともにアイドルとして芸能界で生きる中、二人は前世で母を死に追いやった人物への復讐を胸に秘めていた。華やかな芸能界の裏に潜む嘘と欲望、SNS社会の闇を描きながら、転生した兄妹が真相に迫っていくエンターテインメント作品。",
+    "awardResults": [
+      {
+        "awardId": "next-manga-award",
+        "year": 2021,
+        "result": "コミックス部門1位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/推しの子"
+    },
+    "sourceNote": "日本語版Wikipedia『推しの子』記事(2026-08-02閲覧)で原作・作画・連載期間(2020-2024)・巻数(16巻)・受賞歴を確認。初出媒体は『週刊ヤングジャンプ』本誌が本掲載で、『少年ジャンプ+』には1週遅れでの後追い掲載であることを明記(「『週刊ヤングジャンプ』において2020年21号から...連載された」「少年ジャンプ+は1週遅れで...掲載」)。そのため依頼メモにあった少年ジャンプ+起点という前提は誤りと判断し、labelIdは初出の週刊ヤングジャンプ(id: young-jump)を採用、webComicSourceフィールドは設定しなかった。赤坂アカは既存artists.jsonに同一idで登録済み(『かぐや様は告らせたい』のオリジナル作画者)だが、本作では原作(ストーリー)のみ担当のためoriginal-authors.json側にも同一idで新規登録した(手塚治虫と同じ両テーブル登録パターン)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kokaku-kidotai",
+    "title": "攻殻機動隊",
+    "titleKana": "こうかくきどうたい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "shirow-masamune"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "young-magazine-kaizokuban",
+    "themeIds": [
+      "sci-fi",
+      "battle-action",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 1989,
+    "latestPublishedYear": 1990,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "高度な電脳化技術によって人と機械の境界が曖昧になった近未来の日本。全身義体のサイボーグである草薙素子少佐が率いる公安9課は、テロやハッキング犯罪など国家を脅かす事件に立ち向かう特殊部隊である。ネットワークに接続された「電脳」と生身の身体が入り混じる社会で、自己の存在とは何かを問いながら、素子たちは高度情報化社会の闇に潜む陰謀を追う。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/攻殻機動隊"
+    },
+    "sourceNote": "日本語版Wikipedia『攻殻機動隊』記事、および公式攻殻機動隊グローバルサイト・電子書店書誌情報(2026-08-02閲覧)で作者・初出媒体(ヤングマガジン増刊 海賊版、1989年)・単行本刊行(1991年、全3巻)・あらすじを確認。ここでは第1作(単行本全3巻)のみを登録対象とし、後年の続編『攻殻機動隊2 MANMACHINE INTERFACE』『攻殻機動隊1.5』等は別作品として本レコードには含めていない。士郎正宗自身は『アップルシード』で星雲賞コミック部門を受賞しているが、本作『攻殻機動隊』自体の受賞歴は確認できなかったためawardResultsは登録していない。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "masamune-kun-no-revenge",
+    "title": "政宗くんのリベンジ",
+    "titleKana": "まさむねくんのリベンジ",
+    "originalAuthorIds": [
+      "takeoka-hazuki"
+    ],
+    "artistIds": [
+      "tiv"
+    ],
+    "publisherId": "ichijinsha",
+    "labelId": "comic-rex",
+    "themeIds": [
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 13,
+    "synopsis": "8年前、太っていたことを理由に令嬢・安達垣愛姫から「豚足」とあだ名をつけられ振られた早瀬政宗は、猛烈なダイエットで見違えるほどのイケメンに変身し、姓を変えて彼女の前に現れる。狙いは彼女を本気で惚れさせたうえで振り、心に深い傷を負わせるという復讐計画。しかし交流を重ねるうちに、政宗自身の心にも予想外の感情が芽生えていくラブコメディ。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/政宗くんのリベンジ"
+    },
+    "sourceNote": "日本語版Wikipedia『政宗くんのリベンジ』記事、一迅社公式サイト・電子書店書誌情報(2026-08-02閲覧)で原作(竹岡葉月)・作画(Tiv)・掲載誌(月刊ComicREX)・連載期間(2012-2018)・巻数(13巻)・あらすじ・アニメ化(2期)を確認。原作はライトノベルではなく竹岡葉月による漫画原作(ノベライズ元がない、漫画オリジナルストーリー原作)である点に留意。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shinseiki-evangelion",
+    "title": "新世紀エヴァンゲリオン",
+    "titleKana": "しんせいきエヴァンゲリオン",
+    "originalAuthorIds": [
+      "gainax"
+    ],
+    "artistIds": [
+      "sadamoto-yoshiyuki"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "shonen-ace",
+    "themeIds": [
+      "sci-fi",
+      "battle-action",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 1994,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 14,
+    "synopsis": "西暦2015年、謎の敵性生命体「使徒」の来襲により壊滅の危機に瀕した都市を守るため、14歳の少年・碇シンジは疎遠だった父に呼び出され、人型決戦兵器エヴァンゲリオンのパイロットとして戦うことを強いられる。同世代のパイロットたちとの交流や葛藤を通して自分自身と向き合いながら、シンジは人類の未来を左右する巨大な陰謀に巻き込まれていく。アニメ版とは異なる貞本義行独自の展開・結末を持つコミカライズ版。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン_(漫画)"
+    },
+    "sourceNote": "テレビアニメではなく漫画版(貞本義行作画)を登録。日本語版Wikipedia『貞本義行』記事等(2026-08-02閲覧、『新世紀エヴァンゲリオン_(漫画)』個別記事へのWebFetchは404で直接参照できなかったため関連記事から補完)で作画者・原作クレジット(GAINAX、後にGAINAX・カラー)・初出掲載誌(月刊少年エース、後にヤングエースへ移籍)・連載期間(1994-2013)・巻数(通常版14巻)を確認。labelIdは連載開始時点の月刊少年エース(id: shonen-ace)を採用。原作者はGAINAX(法人)としてoriginal-authors.jsonに新規登録し、庵野秀明個人ではなく制作会社としてのクレジットを採用した。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yukan-club",
+    "title": "有閑倶楽部",
+    "titleKana": "ゆうかんくらぶ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ichijo-yukari"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "ribon-original",
+    "themeIds": [
+      "comedy",
+      "school",
+      "adventure"
+    ],
+    "firstPublishedYear": 1981,
+    "latestPublishedYear": 2002,
+    "status": "completed",
+    "volumeCount": 19,
+    "synopsis": "名門・聖プレジデント学園の生徒会は、遊び呆けているように見える美男美女6人組「有閑倶楽部」が牛耳っていた。生徒会活動をほとんどせず暇を持て余す彼らだが、いざとなれば持ち前の財力と行動力、機転を駆使して恋愛トラブルから誘拐事件、暴力団や海外の陰謀渦巻く事件まで華麗に解決していく。コメディとシリアスが同居する学園アクション作品。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1986,
+        "result": "少女部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/有閑倶楽部"
+    },
+    "sourceNote": "日本語版Wikipedia『有閑倶楽部』記事、『りぼんオリジナル』記事(2026-08-02閲覧)で作者・初出掲載誌(りぼんオリジナル、1981年開始、その後りぼん本誌→コーラス/Cocohanaへ移籍)・連載期間(1981-2002)・巻数(単行本版19巻)・1986年第10回講談社漫画賞少女部門受賞を確認。labelIdは連載開始時点のりぼんオリジナル(新規登録)を採用し、単行本発行元(shueisha)は移籍後も一貫して集英社のため変更なし。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "bokyo-taro",
+    "title": "望郷太郎",
+    "titleKana": "ぼうきょうたろう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yamada-yoshihiro"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning",
+    "themeIds": [
+      "sci-fi",
+      "adventure"
+    ],
+    "firstPublishedYear": 2019,
+    "status": "ongoing",
+    "volumeCount": 15,
+    "synopsis": "未曾有の大寒波が地球を襲い、文明が崩壊する中、商社員の舞鶴太郎はイラクで人工冬眠に入る。目覚めるとそこから500年後、氷に閉ざされ文明が失われた世界だった。かつての家族も故郷もすべて失った太郎は、絶望の底から立ち上がり、生きる目的を求めて祖国日本を目指す長い旅に出る。崩壊後の世界で出会う人々や社会との関わりを通して「生きる意味」を問う壮大なサバイバル叙事詩。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2021,
+        "result": "オトコ編15位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/山田芳裕"
+    },
+    "sourceNote": "この作品単独の日本語版Wikipedia記事は見つからず(直接URLは404)、作者『山田芳裕』のWikipedia記事(2026-08-02閲覧、掲載誌『週刊モーニング』・連載開始2019年・既刊15巻を確認)、講談社モーニング公式サイト、および英語版Wikipedia『Longing for Home』(あらすじ・このマンガがすごい!2021オトコ編15位・手塚治虫文化賞/講談社漫画賞ノミネート歴を記載)を補助的に参照した。このマンガがすごい!の順位は英語版Wikipediaのみでの確認となるため、日本語一次情報での再確認が望ましい旨を付記する。手塚治虫文化賞・講談社漫画賞はノミネートのみで受賞ではないためawardResultsには含めていない。連載中のためlatestPublishedYear・完結巻数は未確定。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tokyo-ghoul",
+    "title": "東京喰種トーキョーグール",
+    "titleKana": "とうきょうぐーる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ishida-sui"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "young-jump",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action",
+      "horror"
+    ],
+    "firstPublishedYear": 2011,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 30,
+    "synopsis": "人間に擬態して人肉を食べる「喰種」が潜む東京。平凡な大学生・金木研は想いを寄せた女性が喰種だったことで瀕死の重傷を負うが、緊急手術で彼女の臓器を移植された結果、人間と喰種の中間である半喰種になってしまう。人間社会にも喰種社会にも居場所を見出せぬまま苦悩する金木は、喫茶店「あんていく」の仲間たちと出会い、己の存在と向き合いながら過酷な運命に立ち向かっていく。",
+    "awardResults": [
+      {
+        "awardId": "sugoi-japan-award",
+        "year": 2016,
+        "result": "マンガ部門2位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/東京喰種トーキョーグール"
+    },
+    "sourceNote": "日本語版Wikipedia『東京喰種トーキョーグール』記事(2026-08-02閲覧)で作者・掲載誌(週刊ヤングジャンプ)・連載期間(第1部2011-2014、第2部:re 2014-2018)・巻数(第1部14巻+第2部16巻=30巻)・あらすじ・累計発行部数を確認。第2回SUGOI JAPAN Award マンガ部門2位(2016年)をWeb検索(2026-08-02閲覧)で確認。ハーベイ賞ベストマンガシリーズ部門はノミネートのみ(受賞ではない)のためawardResultsに含めていない。2024年開始の続編的作品『東京喰種トーキョーグール ―解体「真」報―』は別連載として本レコードには含めていない。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "gokushufudou",
+    "title": "極主夫道",
+    "titleKana": "ごくしゅふどう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "oono-kousuke"
+    ],
+    "publisherId": "shinchosha",
+    "labelId": "kurage-bunch",
+    "themeIds": [
+      "comedy",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2018,
+    "status": "ongoing",
+    "volumeCount": 17,
+    "synopsis": "かつて「不死身の龍」と恐れられた伝説の極道・龍は、愛する妻との結婚を機に組を抜け、家事全般を極めた専業主夫として生きることを決意する。買い物や掃除、ご近所付き合いすらも命懸けの構えで全力投球する龍と、彼の裏の顔を知らない近所の主婦たちや、足を洗いきれない元同業者との騒動が絶えない。物騒な過去と平和な日常のギャップから生まれる笑いを描く任侠コメディ。",
+    "awardResults": [
+      {
+        "awardId": "next-manga-award",
+        "year": 2018,
+        "result": "Webマンガ部門3位"
+      },
+      {
+        "awardId": "eisner-award",
+        "year": 2020,
+        "result": "ベストユーモア部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/極主夫道"
+    },
+    "sourceNote": "日本語版Wikipedia『極主夫道』記事(2026-08-02閲覧)で作者・初出媒体(Web漫画サイト「くらげバンチ」、2018年2月読み切り→同年5月連載開始)・出版社(新潮社、BUNCH COMICSレーベル)・巻数(17巻、2026年6月時点)・あらすじ・第4回次にくるマンガ大賞Webマンガ部門3位(2018年)を確認。英語版翻訳版がアイズナー賞ベストユーモア部門を受賞(2020年)したことをAnime News Network・Hollywood Reporter等の複数の英語報道(2026-08-02閲覧)で確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hyoryu-kyoshitsu",
+    "title": "漂流教室",
+    "titleKana": "ひょうりゅうきょうしつ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "umezu-kazuo"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "horror",
+      "sci-fi"
+    ],
+    "firstPublishedYear": 1972,
+    "latestPublishedYear": 1974,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "小学6年生の高松翔たちが通う小学校は、突然の地震によって校舎ごと荒廃しきった未来の地球へタイムスリップしてしまう。頼れる大人もおらず、食料や水も乏しい絶望的な環境の中、子どもたちは自分たちの力だけで「大和小学校国」を築き、飢えや疫病、そして未来人の脅威と戦いながら生き延びようとする。時を超えた母子の絆と、公害や環境破壊への警鐘を込めたサバイバルホラーの金字塔。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1975,
+        "result": "第20回受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/漂流教室"
+    },
+    "sourceNote": "日本語版Wikipedia『漂流教室』記事(2026-08-02閲覧)で作者・掲載誌(週刊少年サンデー)・連載期間(1972-1974)・巻数(11巻)・あらすじ・1975年第20回小学館漫画賞受賞を確認。依頼メモの通り、明確な『ゲームルールで命を懸ける』デスゲーム的仕組みは存在せず、地震によるタイムスリップ後の純粋なサバイバルホラー(公害・環境破壊への警鐘、時を超えた母子の絆がテーマ)と確認できたため、death-gameタグは付与せずhorror/sci-fiを採用した。",
+    "updatedAt": "2026-08-02"
   }
 ]

@@ -593,5 +593,52 @@
     },
     "sourceNote": "日本語版Wikipedia『山田悠介』記事(2026-08-02閲覧)で生年・経歴・『リアル鬼ごっこ』原作者であることを確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "takeuchi-ryosuke",
+    "name": "竹内良輔",
+    "nameKana": "たけうちりょうすけ",
+    "birthYear": 1980,
+    "description": "漫画原作者。兵庫県淡路島出身。2011年『週刊少年ジャンプ』掲載の『ST&RS -Stars-』でシナリオ担当としてデビュー。『オールユーニードイズキル』（構成）、『憂国のモリアーティ』（原作)などを手がける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/竹内良輔"
+    },
+    "sourceNote": "日本語版Wikipedia『竹内良輔』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "akasaka-aka",
+    "name": "赤坂アカ",
+    "nameKana": "あかさかあか",
+    "birthYear": 1988,
+    "description": "漫画家・漫画原作者。2011年デビュー。『【推しの子】』では作画の横槍メンゴに対し原作(ストーリー)を担当している。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/赤坂アカ"
+    },
+    "sourceNote": "日本語版Wikipedia『赤坂アカ』記事(2026-08-02閲覧)で確認。artists.jsonに既存の同一人物(id: akasaka-aka、『かぐや様は告らせたい』はオリジナル作品としてartistIds登録済み)。『【推しの子】』では作画の横槍メンゴと役割が分かれるため、原作者としてoriginal-authors.json側にも同一idで登録する(手塚治虫と同じパターン)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "gainax",
+    "name": "GAINAX",
+    "nameKana": "がいなっくす",
+    "description": "アニメ制作会社。テレビアニメ『新世紀エヴァンゲリオン』の企画・原作。漫画版(貞本義行作画)においても原作としてクレジットされている(後年は継承会社カラーとの連名表記)。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ガイナックス"
+    },
+    "sourceNote": "日本語版Wikipedia『貞本義行』記事(2026-08-02閲覧)で漫画版の原作クレジットが「GAINAX」(後に「GAINAX・カラー」)であることを確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "takeoka-hazuki",
+    "name": "竹岡葉月",
+    "nameKana": "たけおかはづき",
+    "birthYear": 1979,
+    "description": "小説家・ライトノベル作家。1999年コバルト・ノベル大賞佳作でデビュー。『政宗くんのリベンジ』の原作者。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/竹岡葉月"
+    },
+    "sourceNote": "日本語版Wikipedia『竹岡葉月』記事、一迅社公式サイト(2026-08-02閲覧)で確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

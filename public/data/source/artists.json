@@ -2601,5 +2601,135 @@
     },
     "sourceNote": "日本語版Wikipedia『松本直也』『怪獣8号』記事(2026-08-02閲覧)で経歴・受賞歴を確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tsunoda-jiro",
+    "name": "つのだじろう",
+    "nameKana": "つのだじろう",
+    "birthYear": 1936,
+    "description": "漫画家。1955年『漫画少年』掲載作でデビュー。オカルト漫画の先駆者として知られ、『恐怖新聞』『うしろの百太郎』などを手がけた。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/つのだじろう"
+    },
+    "sourceNote": "日本語版Wikipedia『つのだじろう』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "mizukami-satoshi",
+    "name": "水上悟志",
+    "nameKana": "みずかみさとし",
+    "birthYear": 1980,
+    "description": "漫画家。大阪府出身。2002年『ヤングキングアワーズ』新人賞受賞でデビュー。代表作『惑星のさみだれ』『スピリットサークル -魂環-』『戦国妖狐』。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/水上悟志"
+    },
+    "sourceNote": "日本語版Wikipedia『水上悟志』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "miyoshi-hikaru",
+    "name": "三好輝",
+    "nameKana": "みよしひかる",
+    "description": "漫画家。2008年『月刊少年ガンガン』新人賞でデビュー。荒川弘に師事。『憂国のモリアーティ』の作画を担当。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/三好輝"
+    },
+    "sourceNote": "日本語版Wikipedia『三好輝』記事(2026-08-02閲覧)で確認。『中間管理録トネガワ』の作画担当・三好智樹(id: miyoshi-tomoki)とは別人なので注意(名前が類似しているが別人物)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "yokoyari-mengo",
+    "name": "横槍メンゴ",
+    "nameKana": "よこやりめんご",
+    "birthYear": 1988,
+    "description": "漫画家・イラストレーター。三重県出身。『クズの本懐』『【推しの子】』(原作:赤坂アカ)の作画を担当。「ヨリ」名義でイラストレーターとしても活動。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/横槍メンゴ"
+    },
+    "sourceNote": "日本語版Wikipedia『横槍メンゴ』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shirow-masamune",
+    "name": "士郎正宗",
+    "nameKana": "しろうまさむね",
+    "birthYear": 1961,
+    "description": "漫画家。兵庫県神戸市出身。大阪芸術大学卒。『アップルシード』(星雲賞コミック部門受賞)でデビュー。代表作『攻殻機動隊』。サイバーパンク的世界観とハードSF的アイデアを融合させた作風で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/士郎正宗"
+    },
+    "sourceNote": "日本語版Wikipedia『士郎正宗』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tiv",
+    "name": "Tiv",
+    "nameKana": "てぃぶ",
+    "birthYear": 1981,
+    "description": "韓国出身、日本在住の漫画家・イラストレーター。ゲーム業界を経て2005年よりフリーのイラストレーターとして活動。『政宗くんのリベンジ』(原作:竹岡葉月)の作画を担当。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Tiv"
+    },
+    "sourceNote": "日本語版Wikipedia『Tiv』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "sadamoto-yoshiyuki",
+    "name": "貞本義行",
+    "nameKana": "さだもとよしゆき",
+    "birthYear": 1962,
+    "description": "アニメーター・漫画家・キャラクターデザイナー。ガイナックス設立に参加。『ふしぎの海のナディア』等のキャラクターデザインを手がけ、『新世紀エヴァンゲリオン』のキャラクター原案・漫画版作画を担当。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/貞本義行"
+    },
+    "sourceNote": "日本語版Wikipedia『貞本義行』記事(2026-08-02閲覧)で生年・経歴・代表作・漫画版エヴァンゲリオンでの役割を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ichijo-yukari",
+    "name": "一条ゆかり",
+    "nameKana": "いちじょうゆかり",
+    "birthYear": 1949,
+    "description": "漫画家。岡山県出身。1968年第1回りぼん新人漫画賞でデビュー。代表作『デザイナー』『砂の城』『有閑倶楽部』『プライド』。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/一条ゆかり"
+    },
+    "sourceNote": "日本語版Wikipedia『一条ゆかり』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ishida-sui",
+    "name": "石田スイ",
+    "nameKana": "いしだすい",
+    "birthYear": 1986,
+    "description": "漫画家。福岡県出身。2010年に読み切り作品でデビュー。代表作『東京喰種トーキョーグール』。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/石田スイ"
+    },
+    "sourceNote": "日本語版Wikipedia『石田スイ』記事(2026-08-02閲覧)で生年・経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "oono-kousuke",
+    "name": "おおのこうすけ",
+    "nameKana": "おおのこうすけ",
+    "description": "漫画家。滋賀県出身。京都精華大学マンガ学部卒。助野嘉昭のアシスタントを経て、2016年『月刊コミック@バンチ』掲載作でデビュー。代表作『極主夫道』。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/おおのこうすけ"
+    },
+    "sourceNote": "日本語版Wikipedia『おおのこうすけ』記事(2026-08-02閲覧)で経歴・代表作を確認。生年は非公開(誕生日は12月31日とのみ記載)のためbirthYearは未設定。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "umezu-kazuo",
+    "name": "楳図かずお",
+    "nameKana": "うめづかずお",
+    "birthYear": 1936,
+    "description": "漫画家。和歌山県出身。1955年貸本漫画家としてデビュー、1960年代より恐怖漫画の第一人者として知られる。代表作『漂流教室』『まことちゃん』『わたしは真悟』『14歳』。2024年10月に逝去。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/楳図かずお"
+    },
+    "sourceNote": "日本語版Wikipedia『楳図かずお』記事(2026-08-02閲覧)で生年・経歴・代表作・没年を確認。",
+    "updatedAt": "2026-08-02"
   }
 ]
