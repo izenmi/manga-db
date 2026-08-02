@@ -859,5 +859,166 @@
     },
     "sourceNote": "電子書籍販売サイト(コミックシーモア等)・日本語版Wikipedia『好きな子がめがねを忘れた』記事(2026-08-02閲覧)で経歴・代表作を確認。生年は情報源で確認できず未記載。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kawakami-taiki",
+    "name": "川上泰樹",
+    "nameKana": "かわかみたいき",
+    "description": "漫画家。『転生したらスライムだった件』のコミカライズ版の作画を担当している。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/転生したらスライムだった件"
+    },
+    "sourceNote": "日本語版Wikipedia『転生したらスライムだった件』記事(2026-08-02閲覧)で作画クレジットを確認。生年等は未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hanadori-haruno",
+    "name": "花鶏ハルノ",
+    "nameKana": "あとりはるの",
+    "description": "漫画家。『Re:ゼロから始める異世界生活』第四章「聖域と強欲の魔女」の作画(構成:相川有)を担当している。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Re:ゼロから始める異世界生活"
+    },
+    "sourceNote": "日本語版Wikipedia『Re:ゼロから始める異世界生活』記事および複数の作家プロフィールサイト(2026-08-02閲覧)で第四章の作画クレジットと読み方(アトリハルノ)を確認。原作は複数章に分かれ、章ごとに作画・掲載誌・出版社が異なる(第一・三章:マツセダイチ/KADOKAWA、第二章:楓月誠/スクウェア・エニックス)。本データではworks.jsonの制約上、継続中の第四章を代表として採用。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "miyama-fugin",
+    "name": "深山フギン",
+    "nameKana": "みやまふぎん",
+    "description": "漫画家。『オーバーロード』のコミカライズ版の作画を担当している。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/オーバーロード_(小説)"
+    },
+    "sourceNote": "日本語版Wikipedia『オーバーロード(小説)』記事(2026-08-02閲覧)で作画クレジットを確認。生年等は未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "etou-hiroyuki",
+    "name": "衛藤ヒロユキ",
+    "nameKana": "えとうひろゆき",
+    "description": "大分県出身の漫画家。『魔法陣グルグル』で人気を博し、続編『魔法陣グルグル2』も手がけている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/衛藤ヒロユキ"
+    },
+    "sourceNote": "日本語版Wikipedia『衛藤ヒロユキ』記事(2026-08-02閲覧)で経歴・代表作を確認。生年(西暦)は同記事に明記がなく未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "okubo-atsushi",
+    "name": "大久保篤",
+    "nameKana": "おおくぼあつし",
+    "description": "漫画家。『ソウルイーター』でブレイクし、後年の『炎炎ノ消防隊』でも知られる。",
+    "birthYear": 1979,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/大久保篤"
+    },
+    "sourceNote": "日本語版Wikipedia『大久保篤』記事(2026-08-02閲覧)で生年・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "matsumoto-reiji",
+    "name": "松本零士",
+    "nameKana": "まつもとれいじ",
+    "description": "福岡県出身の漫画家。『銀河鉄道999』『宇宙戦艦ヤマト』『男おいどん』など多数のSF漫画・アニメ原作で知られる巨匠。",
+    "birthYear": 1938,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/松本零士"
+    },
+    "sourceNote": "日本語版Wikipedia『松本零士』記事(2026-08-02閲覧)で生年・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "miyazaki-hayao",
+    "name": "宮崎駿",
+    "nameKana": "みやざきはやお",
+    "description": "アニメーション監督・漫画家。スタジオジブリの中心人物として多数の劇場アニメを手がける一方、自身の漫画作品『風の谷のナウシカ』を長期連載した。",
+    "birthYear": 1941,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/宮崎駿"
+    },
+    "sourceNote": "日本語版Wikipedia『宮崎駿』記事(2026-08-02閲覧)で生年・経歴を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "fujita-kazuhiro",
+    "name": "藤田和日郎",
+    "nameKana": "ふじたかずひろ",
+    "description": "漫画家。『うしおととら』『からくりサーカス』など、少年サンデー誌上での長編バトル・冒険活劇作品で知られる。",
+    "birthYear": 1964,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/藤田和日郎"
+    },
+    "sourceNote": "日本語版Wikipedia『藤田和日郎』記事(2026-08-02閲覧)で生年・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hoshino-katsura",
+    "name": "星野桂",
+    "nameKana": "ほしのかつら",
+    "description": "滋賀県出身の女性漫画家。代表作『D.Gray-man』で知られる。",
+    "birthYear": 1980,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/星野桂"
+    },
+    "sourceNote": "日本語版Wikipedia『星野桂』記事(2026-08-02閲覧)で生年・出身地・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hosokawa-chieko",
+    "name": "細川智栄子",
+    "nameKana": "ほそかわちえこ",
+    "description": "漫画家。実妹の芙〜みんと共に「細川智栄子あんど芙〜みん」名義で『王家の紋章』を半世紀近くにわたり連載している。",
+    "birthYear": 1935,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/細川智栄子"
+    },
+    "sourceNote": "日本語版Wikipedia『細川智栄子』記事(2026-08-02閲覧)で生年・芙〜みんとの姉妹関係を確認。『王家の紋章』内での原作/作画の役割分担詳細は同記事に記載がなく未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "fu-min",
+    "name": "芙〜みん",
+    "nameKana": "ふーみん",
+    "description": "漫画家。実姉の細川智栄子と共に「細川智栄子あんど芙〜みん」名義で『王家の紋章』を連載している。本名は細川芙美子。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/細川智栄子"
+    },
+    "sourceNote": "日本語版Wikipedia『細川智栄子』記事(2026-08-02閲覧)で細川智栄子の実妹であることを確認。正確な生年は記事に明記がなく未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kito-mohiro",
+    "name": "鬼頭莫宏",
+    "nameKana": "きとうもひろ",
+    "description": "漫画家。『なるたる』『ぼくらの』など、子供たちが過酷な運命に巻き込まれるダークな作風で知られる。",
+    "birthYear": 1966,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/鬼頭莫宏"
+    },
+    "sourceNote": "日本語版Wikipedia『鬼頭莫宏』記事(2026-08-02閲覧)で生年・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "hanokage",
+    "name": "ハノカゲ",
+    "nameKana": "はのかげ",
+    "description": "漫画家。テレビアニメ『魔法少女まどか☆マギカ』本編のコミカライズ版および劇場版『叛逆の物語』のコミカライズ版の作画を担当している。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔法少女まどか☆マギカの漫画作品"
+    },
+    "sourceNote": "日本語版Wikipedia『魔法少女まどか☆マギカの漫画作品』記事(2026-08-02閲覧)で作画クレジットを確認。生年等は非公開のため未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tanabe-yellow",
+    "name": "田辺イエロウ",
+    "nameKana": "たなべいえろう",
+    "description": "漫画家。『結界師』で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/結界師"
+    },
+    "sourceNote": "日本語版Wikipedia『結界師』記事(2026-08-02閲覧)で作者クレジットを確認。生年等の個人情報は非公開のため未確認。",
+    "updatedAt": "2026-08-02"
   }
 ]

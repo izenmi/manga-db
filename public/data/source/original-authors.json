@@ -161,5 +161,50 @@
     },
     "sourceNote": "日本語版Wikipedia『萩原天晴』記事および講談社コミックス公式商品ページ(2026-08-02閲覧、著者クレジット「協力：福本伸行、原作：萩原天晴、著：三好智樹、著：橋本智広」と明記)で確認。福本伸行は「協力」クレジットのため本サイトのoriginalAuthorIdsには含めていない。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "fuse",
+    "name": "伏瀬",
+    "nameKana": "ふせ",
+    "description": "小説投稿サイト「小説家になろう」出身のライトノベル作家。代表作『転生したらスライムだった件』はシリーズ累計発行部数の多い異世界転生ものの代表作の一つで、書籍化・コミカライズ・アニメ化された。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/転生したらスライムだった件"
+    },
+    "sourceNote": "日本語版Wikipedia『転生したらスライムだった件』記事(2026-08-02閲覧)で原作者クレジットを確認。生年等の個人情報は非公開のため未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nagatsuki-tappei",
+    "name": "長月達平",
+    "nameKana": "ながつきたっぺい",
+    "description": "「小説家になろう」出身のライトノベル作家。代表作『Re:ゼロから始める異世界生活』は書籍化・コミカライズ・アニメ化され、大ヒットシリーズとなった。",
+    "birthYear": 1987,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/長月達平"
+    },
+    "sourceNote": "日本語版Wikipedia『長月達平』記事(2026-08-02閲覧)で生年・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "maruyama-kugane",
+    "name": "丸山くがね",
+    "nameKana": "まるやまくがね",
+    "description": "「小説家になろう」出身のライトノベル作家。代表作『オーバーロード』はVRMMORPGを舞台にした異世界転移ものの代表作で、書籍化・コミカライズ・アニメ化された。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/オーバーロード_(小説)"
+    },
+    "sourceNote": "日本語版Wikipedia『オーバーロード(小説)』記事(2026-08-02閲覧)で原作者クレジットを確認。生年は非公開のため未確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "magica-quartet",
+    "name": "Magica Quartet",
+    "nameKana": "まじかくぁるてっと",
+    "description": "アニメ『魔法少女まどか☆マギカ』の原作クレジットとして使われる制作者ユニット名(脚本・虚淵玄、監督・新房昭之ら中心スタッフによる共同ペンネーム)。コミカライズ版でも「原作: Magica Quartet」としてクレジットされる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔法少女まどか☆マギカの漫画作品"
+    },
+    "sourceNote": "日本語版Wikipedia『魔法少女まどか☆マギカの漫画作品』記事(2026-08-02閲覧)でコミカライズ版の原作クレジット表記を確認。個人名ではなく制作ユニット名義であることに注意。",
+    "updatedAt": "2026-08-02"
   }
 ]

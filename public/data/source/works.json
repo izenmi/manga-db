@@ -2891,5 +2891,422 @@
     },
     "sourceNote": "日本語版Wikipedia『好きな子がめがねを忘れた』記事・Web検索(2026-08-02閲覧)で作者・出版社(スクウェア・エニックス)・掲載誌(月刊ガンガンJOKER)・連載期間(2018-2024)・完結巻数(全12巻)・アニメ化を確認。「次にくるマンガ大賞2019」コミックス部門12位は本サイトの既存awardリスト・追加候補に該当賞がないため不採用、awardResultsは空配列。原作・作画とも単独オリジナル作品のためoriginalAuthorIdsは空配列。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tensei-shitara-slime-datta-ken",
+    "title": "転生したらスライムだった件",
+    "titleKana": "てんせいしたらすらいむだったけん",
+    "originalAuthorIds": [
+      "fuse"
+    ],
+    "artistIds": [
+      "kawakami-taiki"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "isekai",
+      "dark-fantasy",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2015,
+    "status": "ongoing",
+    "volumeCount": 32,
+    "synopsis": "通り魔に襲われ命を落とした中年男性が、目覚めるとスライムとして異世界に転生していた。封印されていた暴風竜ヴェルドラと名を交わし、人型にも変身できる力を手に入れたリムルは、出会った魔物たちの能力を吸収しながら仲間を増やし、人間と魔物が共存できる国づくりを目指していく。人気Web小説を原作とするコミカライズ版で、緻密な世界観描写に定評がある。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2022,
+        "result": "少年部門受賞(第46回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/転生したらスライムだった件"
+    },
+    "sourceNote": "日本語版Wikipedia『転生したらスライムだった件』記事(2026-08-02閲覧)で原作者・作画者・掲載誌・巻数・受賞歴を確認。既刊32巻(2026年6月時点の情報)。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "re-zero",
+    "title": "Re:ゼロから始める異世界生活",
+    "titleKana": "りぜろからはじめるいせかいせいかつ",
+    "originalAuthorIds": [
+      "nagatsuki-tappei"
+    ],
+    "artistIds": [
+      "hanadori-haruno"
+    ],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "isekai",
+      "dark-fantasy",
+      "suspense-psychological",
+      "adventure"
+    ],
+    "firstPublishedYear": 2014,
+    "status": "ongoing",
+    "synopsis": "コンビニ帰りに突然異世界へ召喚された引きこもりの少年スバルは、行き倒れていたところをハーフエルフの少女エミリアに助けられる。しかし直後に命を落としたスバルは、なぜか特定の時点まで時間が巻き戻る「死に戻り」の力に気づく。誰にも打ち明けられない絶望的な死を繰り返しながら、彼女を守り王選や魔女教を巡る陰謀の真相に迫っていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Re:ゼロから始める異世界生活"
+    },
+    "sourceNote": "日本語版Wikipedia『Re:ゼロから始める異世界生活』記事(2026-08-02閲覧)で確認。原作小説は章ごとに複数の漫画家・出版社によって並行してコミカライズされている(第一・三章:マツセダイチ/KADOKAWA『月刊コミックアライブ』、第二章:楓月誠/スクウェア・エニックス『月刊ビッグガンガン』、第四章:花鶏ハルノ/KADOKAWA『月刊コミックアライブ』)。works.jsonが単一artistId/publisherIdしか持てない制約上、2019年から継続中で最新章にあたる第四章を代表として採用し、volumeCountは章ごとに巻数がリセットされるため意味をなさないと判断し未入力とした。受賞歴は作品(コミック版)自体のものは確認できず空配列。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "overlord",
+    "title": "オーバーロード",
+    "titleKana": "おーばーろーど",
+    "originalAuthorIds": [
+      "maruyama-kugane"
+    ],
+    "artistIds": [
+      "miyama-fugin"
+    ],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "isekai",
+      "dark-fantasy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2023,
+    "status": "completed",
+    "volumeCount": 19,
+    "synopsis": "サービス終了を迎えたVRMMORPG「ユグドラシル」で、最後までログインし続けたプレイヤーのモモンガは、骨の魔法使いのアバター姿のまま見知らぬ異世界へ転移してしまう。自らが治めるギルド本拠地ナザリック地下大墳墓のNPCたちが意思を持って動き出したことに気づいた彼は、アインズ・ウール・ゴウンと名乗り、圧倒的な力で新世界の頂点に立とうとする。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/オーバーロード_(小説)"
+    },
+    "sourceNote": "日本語版Wikipedia『オーバーロード(小説)』記事(2026-08-02閲覧)で原作者・作画者・掲載誌・連載期間・巻数を確認。作品自体の受賞歴は確認できず空配列。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "mahoujin-guruguru",
+    "title": "魔法陣グルグル",
+    "titleKana": "まほうじんぐるぐる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "etou-hiroyuki"
+    ],
+    "publisherId": "square-enix",
+    "themeIds": [
+      "adventure",
+      "comedy"
+    ],
+    "firstPublishedYear": 1992,
+    "latestPublishedYear": 2003,
+    "status": "completed",
+    "volumeCount": 16,
+    "synopsis": "小さな村で暮らす少年ニケは、魔王討伐の報奨金を目当てに、幼なじみの見習い魔法使いククリとともに旅立つ。頼りになる魔法オババの導きを受けながら、王道ファンタジーの定番展開をコミカルにパロディ化した珍道中を繰り広げ、個性豊かな仲間たちと出会いつつ、やがて世界征服を企む魔王ギリとの対決へと向かっていく人気ギャグファンタジー。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔法陣グルグル"
+    },
+    "sourceNote": "日本語版Wikipedia『魔法陣グルグル』記事(2026-08-02閲覧)で作者・掲載誌・連載期間・巻数を確認。オリジナル作品のためoriginalAuthorIdsは空配列。2012年開始の続編『魔法陣グルグル2』は別作品として本データには含めていない。作品自体の受賞歴は確認できず空配列。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "soul-eater",
+    "title": "ソウルイーター",
+    "titleKana": "そうるいーたー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "okubo-atsushi"
+    ],
+    "publisherId": "square-enix",
+    "themeIds": [
+      "battle-action",
+      "dark-fantasy",
+      "school"
+    ],
+    "firstPublishedYear": 2004,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 25,
+    "synopsis": "死神が営む武器職人育成学校「死武専」を舞台に、人間の魂を刈り取る力を持つ「職人」と、武器へ変身できる能力者「武器」のペアたちが、悪人の魂99個と魔女の魂1個を集めて死神の大鎌へと鍛え上げることを目指す。主人公マカとその相棒ソウルは、仲間たちと切磋琢磨しながら、世界を揺るがす凶悪な脅威に立ち向かっていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ソウルイーター"
+    },
+    "sourceNote": "日本語版Wikipedia『ソウルイーター』記事(2026-08-02閲覧)で作者・掲載誌・連載期間・巻数を確認。文化庁メディア芸術祭でのアニメーション部門審査委員会推薦作品という記載はあるがアニメ版・かつ正式な受賞ではないため、CLAUDE.mdの方針(アニメ版のみ対象の賞は対象外)に従いawardResultsには含めなかった。オリジナル作品のためoriginalAuthorIdsは空配列。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "ginga-tetsudo-999",
+    "title": "銀河鉄道999",
+    "titleKana": "ぎんがてつどうすりーないん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "matsumoto-reiji"
+    ],
+    "publisherId": "shonen-gahosha",
+    "themeIds": [
+      "sci-fi",
+      "adventure"
+    ],
+    "firstPublishedYear": 1977,
+    "latestPublishedYear": 1981,
+    "status": "completed",
+    "volumeCount": 18,
+    "synopsis": "機械の体を持つ者だけが特権階級として君臨する未来社会で、母を機械伯爵に殺された少年・星野鉄郎は、無料で永遠の機械の身体を与えられるという伝説の星を目指し、銀河を駆ける超特急999号に乗り込む。道中で出会った謎めいた美女メーテルとともに各惑星を巡り、様々な人々との出会いと別れを通じて生きることの意味を見つめ直していく長編SF。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1977,
+        "result": "受賞(第23回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/銀河鉄道999"
+    },
+    "sourceNote": "日本語版Wikipedia『銀河鉄道999』記事(2026-08-02閲覧)で確認。『週刊少年キング』(少年画報社)連載のアンドロメダ編(1977-1981、ヒットコミックス全18巻)を本編として採用。1996-1999年に『ビッグゴールド』(小学館)で連載された続編「エターナル編」は別出版社・別巻数のためfirstPublishedYear/latestPublishedYear/volumeCount/publisherIdには反映していない。第23回小学館漫画賞(1977年度)受賞を確認。オリジナル作品のためoriginalAuthorIdsは空配列。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kaze-no-tani-no-nausicaa",
+    "title": "風の谷のナウシカ",
+    "titleKana": "かぜのたにのなうしか",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "miyazaki-hayao"
+    ],
+    "publisherId": "tokuma-shoten",
+    "themeIds": [
+      "sci-fi",
+      "adventure",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 1982,
+    "latestPublishedYear": 1994,
+    "status": "completed",
+    "volumeCount": 7,
+    "synopsis": "「火の七日間」と呼ばれる大戦で文明が崩壊してから千年後、有毒の胞子をまく菌類の森・腐海と、そこに棲む巨大な蟲たちに囲まれた世界を舞台に、風の谷の族長の娘ナウシカが人と自然の共存の道を模索する。周辺国を巻き込む戦乱の中、腐海誕生の真実や旧文明が遺した最終兵器・巨神兵の存在など、世界の隠された成り立ちが徐々に明かされていく。",
+    "awardResults": [
+      {
+        "awardId": "nihon-mangaka-kyokai-sho",
+        "year": 1994,
+        "result": "大賞(第23回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/風の谷のナウシカ"
+    },
+    "sourceNote": "日本語版Wikipedia『風の谷のナウシカ』記事(2026-08-02閲覧)で漫画版の掲載誌(『アニメージュ』徳間書店)・連載期間・巻数・受賞歴を確認。1984年公開のアニメ映画は連載中の初期エピソードを基にした派生作品で、本データは漫画(コミック)版を指す。2007年の文化庁メディア芸術祭『日本のメディア芸術100選』第8位選出は正式な受賞ではなく回顧的な選出リストのため、CLAUDE.mdの方針に照らしawardResultsには含めなかった。1995年の星雲賞コミック部門受賞は本サイトの既存アワード一覧に該当項目がないため未記載(架空idを作らない方針のため)。オリジナル作品のためoriginalAuthorIdsは空配列。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "karakuri-circus",
+    "title": "からくりサーカス",
+    "titleKana": "からくりさーかす",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "fujita-kazuhiro"
+    ],
+    "publisherId": "shogakukan",
+    "themeIds": [
+      "battle-action",
+      "adventure",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 1997,
+    "latestPublishedYear": 2006,
+    "status": "completed",
+    "volumeCount": 43,
+    "synopsis": "莫大な遺産の相続人である少年・才賀勝の護衛を任された拳法家・加藤鳴海は、勝の命を狙う自動人形の刺客たちと戦う羽目になる。勝を支える人形遣いの少女しろがねとの出会いと別れを経て、鳴海はやがて200年前から続く因縁と自動人形を巡る秘密に巻き込まれていき、笑いを失った者たちが再び笑顔を取り戻すための壮大な物語が幕を開ける。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/からくりサーカス"
+    },
+    "sourceNote": "日本語版Wikipedia『からくりサーカス』記事(2026-08-02閲覧)で作者・掲載誌(週刊少年サンデー/小学館)・連載期間・巻数を確認。作品自体の受賞歴は確認できず空配列(作者は別作品『うしおととら』で小学館漫画賞受賞歴あり)。オリジナル作品のためoriginalAuthorIdsは空配列。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "d-gray-man",
+    "title": "D.Gray-man",
+    "titleKana": "でぃーぐれいまん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hoshino-katsura"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2004,
+    "status": "ongoing",
+    "volumeCount": 29,
+    "synopsis": "19世紀末の架空のヨーロッパを舞台に、左腕に呪われた武器の力を宿す少年アレン・ウォーカーは、人間の悲しみと悪意から生み出される兵器「AKUMA」を破壊するため、教団に属する戦士「エクソシスト」として旅を続ける。世界の破滅を目論む千年伯爵との対決を軸に、仲間たちとの絆や各々が抱える過去の悲劇が描かれる。長期休載を挟みながら断続的に連載が続く大河バトル漫画。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/D.Gray-man"
+    },
+    "sourceNote": "日本語版Wikipedia『D.Gray-man』記事(2026-08-02閲覧)で作者・掲載誌の変遷(週刊少年ジャンプ→ジャンプSQ.系)・巻数(2025年7月時点29巻)・長期休載歴を確認。作品自体の受賞歴は確認できず空配列。オリジナル作品のためoriginalAuthorIdsは空配列。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "oke-no-monshou",
+    "title": "王家の紋章",
+    "titleKana": "おうけのもんしょう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hosokawa-chieko",
+      "fu-min"
+    ],
+    "publisherId": "akita-shoten",
+    "themeIds": [
+      "historical",
+      "romance",
+      "adventure"
+    ],
+    "firstPublishedYear": 1976,
+    "status": "ongoing",
+    "volumeCount": 71,
+    "synopsis": "考古学者の父を持つアメリカ人少女キャロルは、エジプトの発掘現場に居合わせたことをきっかけに古代エジプトへタイムスリップしてしまう。金髪碧眼の容姿から予言の姫と信じられ、若き王メンフィスに見初められて王妃となった彼女は、王妃の座を狙う姫アイシスの嫉妬や周辺諸国の陰謀に翻弄されながらも、現代の知識を武器に幾多の危機を乗り越えていく。半世紀近く連載が続く長寿ロマンス大作。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1990,
+        "result": "少女向け部門受賞(第36回)"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/王家の紋章"
+    },
+    "sourceNote": "日本語版Wikipedia『王家の紋章』記事(2026-08-02閲覧)で掲載誌(月刊プリンセス/秋田書店)・連載開始年・巻数(2026年6月時点71巻)・受賞歴を確認。作者は姉妹による共同ペンネーム「細川智栄子あんど芙〜みん」で、original-authors.json/artists.jsonには細川智栄子・芙〜みんの2名としてartistIdsに登録した(原作/作画の役割分担詳細は情報源で確認できず)。オリジナル作品のためoriginalAuthorIdsは空配列。メディアミックス(アニメ化等)は本データでは未確認のためmediaMixフィールドは省略。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "bokurano",
+    "title": "ぼくらの",
+    "titleKana": "ぼくらの",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kito-mohiro"
+    ],
+    "publisherId": "shogakukan",
+    "themeIds": [
+      "sci-fi",
+      "death-game",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2003,
+    "latestPublishedYear": 2009,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "自然学校の合宿に参加した15人の少年少女は、洞窟で出会った謎めいた男ココペリから、巨大ロボットに乗って敵と戦い地球を守るゲームへの参加契約を軽い気持ちで結んでしまう。しかし戦闘に勝利するたびに、ロボットを操縦した子供自身の命が失われていくという過酷な真実が判明し、子供たちは生死を懸けた戦いへと否応なく巻き込まれていく。",
+    "awardResults": [
+      {
+        "awardId": "bunkacho-media-geijutsusai",
+        "year": 2010,
+        "result": "マンガ部門優秀賞(第14回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ぼくらの"
+    },
+    "sourceNote": "日本語版Wikipedia『ぼくらの』記事(2026-08-02閲覧)で作者・掲載誌(月刊IKKI/小学館)・連載期間・巻数(IKKI COMIX全11巻)・受賞歴(第14回文化庁メディア芸術祭マンガ部門優秀賞、2010年)を確認。オリジナル作品のためoriginalAuthorIdsは空配列。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "mahou-shoujo-madoka-magica",
+    "title": "魔法少女まどか☆マギカ",
+    "titleKana": "まほうしょうじょまどかまぎか",
+    "originalAuthorIds": [
+      "magica-quartet"
+    ],
+    "artistIds": [
+      "hanokage"
+    ],
+    "publisherId": "houbunsha",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2011,
+    "latestPublishedYear": 2011,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "平凡な中学生・鹿目まどかは、謎の生物キュゥべえからどんな願いも一つ叶える代わりに魔法少女になる契約を持ちかけられる。友人の魔法少女・美樹さやかや、まどかを繰り返し助けようとする孤高の転校生・暁美ほむらとの関わりを通じ、魔法少女という存在の裏に隠された残酷な仕組みが徐々に明かされていく。テレビアニメ本編を忠実に描いたコミカライズ版。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔法少女まどか☆マギカの漫画作品"
+    },
+    "sourceNote": "日本語版Wikipedia『魔法少女まどか☆マギカの漫画作品』記事(2026-08-02閲覧)で本編コミカライズ版の原作クレジット(Magica Quartet)・作画(ハノカゲ)・出版社(芳文社/まんがタイムKRコミックス)・連載期間・巻数を確認。原作はテレビアニメでありMagica Quartetは制作者ユニットの共同ペンネームだが、コミック版の原作クレジットとして明記されているためoriginalAuthorIdsに新規登録した。作品(コミック版)自体の受賞歴は確認できず空配列(アニメ版の受賞歴はCLAUDE.mdの方針により対象外)。世界観を共有する外伝漫画作品群は別作品のため本データには含めていない。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kekkaishi",
+    "title": "結界師",
+    "titleKana": "けっかいし",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tanabe-yellow"
+    ],
+    "publisherId": "shogakukan",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action",
+      "school"
+    ],
+    "firstPublishedYear": 2003,
+    "latestPublishedYear": 2011,
+    "status": "completed",
+    "volumeCount": 35,
+    "synopsis": "結界師の家系に生まれた墨村良守は、幼なじみで同じく結界師の雪村時音とともに、妖が集まる神域「烏森」で夜な夜な結界術を使って妖怪を退治している。将来烏森の後継者となることを目指す良守だったが、烏森の土地を巡る一族間の対立や、良守自身の出生に関わる秘密が次第に明らかになり、二人はより大きな戦いへと巻き込まれていく。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2006,
+        "result": "少年向け部門受賞(第52回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/結界師"
+    },
+    "sourceNote": "日本語版Wikipedia『結界師』記事(2026-08-02閲覧)で作者・掲載誌(週刊少年サンデー/小学館)・連載期間・巻数・受賞歴を確認。オリジナル作品のためoriginalAuthorIdsは空配列。",
+    "updatedAt": "2026-08-02"
   }
 ]

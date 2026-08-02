@@ -107,5 +107,41 @@
     },
     "sourceNote": "Web検索結果・複数の企業情報サイト(2026-08-02閲覧)で分社化の経緯・設立年(2008年)を確認。「サザエさん」は姉妹社(1993年廃業)刊行後、朝日新聞社→朝日新聞出版が単行本・文庫版を継続刊行していることを確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shonen-gahosha",
+    "name": "少年画報社",
+    "nameKana": "しょうねんがほうしゃ",
+    "description": "『少年キング』を中心に多数のヒット漫画を刊行してきた出版社。現在は青年漫画誌やコンビニ向けアンソロジーコミックを主力とする。",
+    "foundedYear": 1945,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/少年画報社"
+    },
+    "sourceNote": "日本語版Wikipedia『少年画報社』記事(2026-08-02閲覧)で沿革を確認。1945年創業の「明々社」を起源とし、1956年に社名を少年画報社に改称。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tokuma-shoten",
+    "name": "徳間書店",
+    "nameKana": "とくましょてん",
+    "description": "雑誌『アニメージュ』を刊行する出版社。スタジオジブリ関連作品の出版でも知られる。",
+    "foundedYear": 1961,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/徳間書店"
+    },
+    "sourceNote": "日本語版Wikipedia『徳間書店』記事(2026-08-02閲覧)で沿革を確認。設立年については複数の説(1954年/1961年/1998年の法人設立日)が資料により異なるため、書籍部門分離設立とされる1961年を採用。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "houbunsha",
+    "name": "芳文社",
+    "nameKana": "ほうぶんしゃ",
+    "description": "「まんがタイムKRコミックス」等のレーベルを持つ出版社。日本初の漫画週刊誌『週刊漫画TIMES』を創刊したことでも知られる。",
+    "foundedYear": 1950,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/芳文社"
+    },
+    "sourceNote": "日本語版Wikipedia『芳文社』記事(2026-08-02閲覧)で設立年・沿革を確認。",
+    "updatedAt": "2026-08-02"
   }
 ]
