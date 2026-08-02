@@ -1,0 +1,9 @@
+node_modules
+dist
+tsconfig.tsbuildinfo
+
+# Deterministically regenerated from public/data/source/*.json by
+# scripts/generate-manifest.mjs on every `npm run dev`/`npm run build` — the
+# source files themselves ARE committed, this generated output isn't.
+public/data/generated/
+public/sitemap.xml

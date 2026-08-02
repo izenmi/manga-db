@@ -1,0 +1,13 @@
+# Claude Codeのコンテキストから除外する生成物・依存物・大容量ファイル
+# (gitの管理有無とは別に、トークン節約のためのignore)
+
+node_modules/
+dist/
+tsconfig.tsbuildinfo
+
+# public/data/source/*.json から generate-manifest.mjs がビルド時に
+# 再生成する非正規化データ。編集対象は常にsource側なのでcontextには不要。
+public/data/generated/
+
+# 依存関係のロックファイル。中身を読む必要はほぼない。
+package-lock.json

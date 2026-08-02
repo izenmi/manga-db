@@ -1,0 +1,62 @@
+[
+  {
+    "id": "kono-manga-ga-sugoi",
+    "name": "このマンガがすごい!",
+    "organizer": "宝島社",
+    "description": "宝島社が発行するムック『このマンガがすごい!』のランキングで選出される賞。オトコ編・オンナ編に分かれる。",
+    "firstYear": 2004,
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/このマンガがすごい!" },
+    "sourceNote": "日本語版Wikipedia『このマンガがすごい!』記事(2026-08-02閲覧)で概要を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "sugoi-japan-award",
+    "name": "SUGOI JAPAN Award",
+    "organizer": "SUGOI JAPAN Award実行委員会",
+    "description": "世界のファン投票により日本のマンガ・アニメ・ゲーム等を選出する賞。マンガ部門を含む。",
+    "firstYear": 2015,
+    "externalLinks": {},
+    "sourceNote": "各作品のWikipedia記事の受賞歴節(2026-08-02閲覧)を参照して概要を記載。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "nihon-mangaka-kyokai-sho",
+    "name": "日本漫画家協会賞",
+    "organizer": "日本漫画家協会",
+    "description": "日本漫画家協会が主催する漫画賞。大賞・文部科学大臣賞等の部門がある。",
+    "firstYear": 1972,
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/日本漫画家協会賞" },
+    "sourceNote": "日本語版Wikipedia『日本漫画家協会賞』記事(2026-08-02閲覧)で概要を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "kodansha-manga-award",
+    "name": "講談社漫画賞",
+    "organizer": "講談社",
+    "description": "講談社が主催する漫画賞。少年・少女・一般・児童の各部門がある。",
+    "firstYear": 1977,
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/講談社漫画賞" },
+    "sourceNote": "日本語版Wikipedia『講談社漫画賞』記事(2026-08-02閲覧)で概要を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "shogakukan-manga-award",
+    "name": "小学館漫画賞",
+    "organizer": "小学館",
+    "description": "小学館が主催する漫画賞。少年・少女・一般・児童の各部門がある。",
+    "firstYear": 1955,
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/小学館漫画賞" },
+    "sourceNote": "日本語版Wikipedia『小学館漫画賞』記事(2026-08-02閲覧)で概要を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "tezuka-osamu-culture-award",
+    "name": "手塚治虫文化賞",
+    "organizer": "朝日新聞社",
+    "description": "朝日新聞社が主催する漫画賞。マンガ大賞・新生賞・短編賞等の部門がある。",
+    "firstYear": 1997,
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/手塚治虫文化賞" },
+    "sourceNote": "日本語版Wikipedia『手塚治虫文化賞』記事(2026-08-02閲覧)で概要を確認。",
+    "updatedAt": "2026-08-02"
+  }
+]

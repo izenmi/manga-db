@@ -1,0 +1,29 @@
+{
+  "name": "manga-db",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "generate-manifest": "node scripts/generate-manifest.mjs",
+    "fetch-covers": "node scripts/fetch-covers.mjs",
+    "prebuild": "npm run generate-manifest",
+    "predev": "npm run generate-manifest",
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "postbuild": "node scripts/prerender.mjs",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.2"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.5",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "playwright": "^1.55.0",
+    "typescript": "^5.6.2",
+    "vite": "^5.4.6"
+  }
+}

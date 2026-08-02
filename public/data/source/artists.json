@@ -1,0 +1,47 @@
+[
+  {
+    "id": "obata-takeshi",
+    "name": "小畑健",
+    "nameKana": "おばたたけし",
+    "description": "漫画家。「ヒカルの碁」「DEATH NOTE」「バクマン。」等で作画を担当。緻密な作画に定評がある。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/小畑健" },
+    "sourceNote": "日本語版Wikipedia『小畑健』記事(2026-08-02閲覧)で経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "murata-yusuke",
+    "name": "村田雄介",
+    "nameKana": "むらたゆうすけ",
+    "description": "漫画家。「アイシールド21」の作画、Web発の「ワンパンマン」のリメイク版作画を担当。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/村田雄介" },
+    "sourceNote": "日本語版Wikipedia『村田雄介』記事(2026-08-02閲覧)で経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "endo-tatsuya",
+    "name": "遠藤達哉",
+    "nameKana": "えんどうたつや",
+    "description": "漫画家。原作・作画を兼任し「SPY×FAMILY」を少年ジャンプ+で連載。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/遠藤達哉" },
+    "sourceNote": "日本語版Wikipedia『遠藤達哉』記事(2026-08-02閲覧)で経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "isayama-hajime",
+    "name": "諫山創",
+    "nameKana": "いさやまはじめ",
+    "description": "漫画家。原作・作画を兼任し「進撃の巨人」を別冊少年マガジンで連載、完結させた。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/諫山創" },
+    "sourceNote": "日本語版Wikipedia『諫山創』記事(2026-08-02閲覧)で経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "arakawa-hiromu",
+    "name": "荒川弘",
+    "nameKana": "あらかわひろむ",
+    "description": "漫画家。原作・作画を兼任し「鋼の錬金術師」を月刊少年ガンガンで連載、完結させた。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/荒川弘" },
+    "sourceNote": "日本語版Wikipedia『荒川弘』記事(2026-08-02閲覧)で経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  }
+]

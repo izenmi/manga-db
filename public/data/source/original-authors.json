@@ -1,0 +1,20 @@
+[
+  {
+    "id": "oba-tsugumi",
+    "name": "大場つぐみ",
+    "nameKana": "おおばつぐみ",
+    "description": "漫画原作者。「DEATH NOTE」の原作を小畑健とのコンビで手がけた。素性は非公開。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/大場つぐみ" },
+    "sourceNote": "日本語版Wikipedia『大場つぐみ』記事(2026-08-02閲覧)で経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "one",
+    "name": "ONE",
+    "nameKana": "わん",
+    "description": "漫画原作者。Webで「ワンパンマン」「モブサイコ100」を自作。「ワンパンマン」は村田雄介の作画によるリメイク版が連載されている。",
+    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/ONE_(漫画家)" },
+    "sourceNote": "日本語版Wikipedia『ONE (漫画家)』記事(2026-08-02閲覧)で経歴・代表作を確認。",
+    "updatedAt": "2026-08-02"
+  }
+]

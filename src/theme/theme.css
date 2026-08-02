@@ -1,0 +1,104 @@
+:root {
+  color-scheme: dark;
+  --color-primary: #cba7f2;
+  --color-primary-strong: #dcc3fa;
+  --color-pink: #f2a9cb;
+  --color-pink-strong: #f68fbe;
+  --color-blue: #a3d3f2;
+  --color-blue-strong: #8bc4ea;
+  --color-blue-deep: #7cd0ff;
+  --color-mint: #a3e6c2;
+  --color-mint-strong: #8adcae;
+  --color-yellow: #f2d896;
+  --color-yellow-strong: #f0c765;
+  --color-peach: #f2be9e;
+  --color-peach-strong: #eea87e;
+  --color-ink: #f2f2f5;
+  --color-background: #000000;
+  --color-surface: #000000;
+  --color-surface-variant: #141416;
+  --color-text: #f2f2f5;
+  --color-text-muted: #a8a3b5;
+  --color-outline: #3a3742;
+  --shadow-pop: 0 3px 0 var(--color-outline);
+  --shadow-pop-hover: 0 5px 0 var(--color-outline);
+}
+
+/* Preserved for a possible future light-mode toggle; not active by default. */
+[data-theme="light"] {
+  color-scheme: light;
+  --color-primary: #b48ee8;
+  --color-primary-strong: #9868d1;
+  --color-pink: #ffc7e2;
+  --color-pink-strong: #ff9fc9;
+  --color-blue: #bfe3ff;
+  --color-blue-strong: #8fcbf5;
+  --color-blue-deep: #2f9bdb;
+  --color-mint: #bdf0d6;
+  --color-mint-strong: #8fdfb5;
+  --color-yellow: #ffe8ab;
+  --color-yellow-strong: #ffd166;
+  --color-peach: #ffd3bd;
+  --color-peach-strong: #ffab84;
+  --color-ink: #5a4770;
+  --color-background: #fff8fb;
+  --color-surface: #ffffff;
+  --color-surface-variant: #fbeef8;
+  --color-text: #5a4770;
+  --color-text-muted: #9a86b3;
+  --color-outline: #f0dced;
+  --shadow-pop: 0 3px 0 var(--color-outline);
+  --shadow-pop-hover: 0 5px 0 var(--color-outline);
+}
+
+:root {
+  --radius-sm: 10px;
+  --radius-md: 18px;
+  --radius-lg: 26px;
+  --radius-pill: 999px;
+  /* Fixed dark text color for use on pastel accent backgrounds (nav bar, chips, badges) —
+     those backgrounds stay light/pastel regardless of the page theme, so the text on them
+     must stay dark rather than following --color-ink (which flips light on a black page). */
+  --color-ink-on-accent: #2b2438;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+/* Matches the look of the browser's native 90% zoom (confirmed by the user as the right
+   density for this layout) without relying on every consumer manually zooming out. */
+html {
+  zoom: 0.9;
+}
+
+body {
+  margin: 0;
+  font-family: "Noto Sans JP", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", system-ui, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  background: var(--color-background);
+  color: var(--color-text);
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* Rounded display font reserved for branding (logo, home hero title) — body text stays in
+   Noto Sans JP since the rounded face reads poorly at small sizes for dense meta text. */
+.font-display {
+  font-family: "M PLUS Rounded 1c", "Noto Sans JP", sans-serif;
+}
+
+a {
+  color: var(--color-primary-strong);
+}
+
+button {
+  font-family: inherit;
+  color: inherit;
+}

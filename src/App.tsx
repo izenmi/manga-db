@@ -1,0 +1,38 @@
+import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { TopNav } from "./ui/common/TopNav";
+import { HomePage } from "./ui/home/HomePage";
+import { WorkListPage } from "./ui/works/WorkListPage";
+import { WorkDetailPage } from "./ui/works/WorkDetailPage";
+import { ThemeListPage } from "./ui/themes/ThemeListPage";
+import { ThemeDetailPage } from "./ui/themes/ThemeDetailPage";
+import { PersonListPage } from "./ui/common/PersonListPage";
+import { PersonDetailPage } from "./ui/common/PersonDetailPage";
+import { AwardListPage } from "./ui/awards/AwardListPage";
+import { AwardDetailPage } from "./ui/awards/AwardDetailPage";
+import { AboutPage } from "./ui/about/AboutPage";
+import { NotFoundPage } from "./ui/common/NotFoundPage";
+
+export function App() {
+  return (
+    <BrowserRouter basename={import.meta.env.BASE_URL}>
+      <TopNav />
+      <Routes>
+        <Route path="/" element={<HomePage />} />
+        <Route path="/works" element={<WorkListPage />} />
+        <Route path="/works/:id" element={<WorkDetailPage />} />
+        <Route path="/themes" element={<ThemeListPage />} />
+        <Route path="/themes/:id" element={<ThemeDetailPage />} />
+        <Route path="/original-authors" element={<PersonListPage kind="originalAuthor" />} />
+        <Route path="/original-authors/:id" element={<PersonDetailPage kind="originalAuthor" />} />
+        <Route path="/artists" element={<PersonListPage kind="artist" />} />
+        <Route path="/artists/:id" element={<PersonDetailPage kind="artist" />} />
+        <Route path="/publishers" element={<PersonListPage kind="publisher" />} />
+        <Route path="/publishers/:id" element={<PersonDetailPage kind="publisher" />} />
+        <Route path="/awards" element={<AwardListPage />} />
+        <Route path="/awards/:id" element={<AwardDetailPage />} />
+        <Route path="/about" element={<AboutPage />} />
+        <Route path="*" element={<NotFoundPage />} />
+      </Routes>
+    </BrowserRouter>
+  );
+}

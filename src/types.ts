@@ -1,0 +1,141 @@
+// ---- source data (public/data/source/*.json, hand-authored, committed) ----
+
+export interface ExternalLinks {
+  wikipediaUrl?: string;
+  officialUrl?: string;
+}
+
+export interface AwardResult {
+  awardId: string;
+  year: number;
+  result: string; // free text: "大賞" / "金賞" / "銀賞" / "ノミネート" など
+}
+
+export type WorkStatus = "completed" | "ongoing" | "unknown";
+
+// Web漫画プラットフォーム。個別作品のパーマリンクは推測せず、実装時にブラウザで実際に検索して
+// URLパターンを目視確認できたプラットフォームのみここに追加する(CLAUDE.md参照)。
+export type WebComicPlatform = "shonenjump-plus" | "tonari-young-jump";
+
+export interface WorkSource {
+  id: string;
+  title: string;
+  titleKana: string;
+  /** 原作者。オリジナル作品(作画家自身が原作も担当)の場合は空配列にする。 */
+  originalAuthorIds: string[];
+  /** 作画家。最低1名(generate-manifest.mjsが空配列をエラーにする)。 */
+  artistIds: string[];
+  publisherId: string;
+  themeIds: string[];
+  firstPublishedYear: number;
+  latestPublishedYear?: number;
+  status: WorkStatus;
+  volumeCount?: number;
+  synopsis: string;
+  awardResults?: AwardResult[];
+  /** Web漫画プラットフォームでの連載が初出の場合のみ設定。個別作品のURLは持たず、
+   *  プラットフォームの検索ページへのリンクを生成する。 */
+  webComicSource?: { platform: WebComicPlatform };
+  /** メディアミックス状況。Wikipedia記事等で確認できた場合のみ true/false を明記する。 */
+  mediaMix?: { anime?: boolean; novelization?: boolean };
+  /** 将来、姉妹サイト ranobe-db の同一原作ラノベ作品ページへ相互リンクするための予約フィールド。
+   *  現時点では実装・入力しない(常にundefinedのまま)。 */
+  relatedNovelUrl?: string;
+  externalLinks: ExternalLinks;
+  sourceNote: string;
+  updatedAt: string;
+}
+
+export interface OriginalAuthorSource {
+  id: string;
+  name: string;
+  nameKana: string;
+  description: string;
+  birthYear?: number;
+  externalLinks: ExternalLinks;
+  sourceNote: string;
+  updatedAt: string;
+}
+
+/** 作画家は原作者と全く同じ形の人物プロフィールなので型エイリアスにする。 */
+export type ArtistSource = OriginalAuthorSource;
+
+export interface PublisherSource {
+  id: string;
+  name: string;
+  nameKana: string;
+  parentCompany?: string;
+  description: string;
+  foundedYear?: number;
+  externalLinks: ExternalLinks;
+  sourceNote: string;
+  updatedAt: string;
+}
+
+export interface ThemeSource {
+  id: string;
+  name: string;
+  description?: string;
+}
+
+export interface AwardSource {
+  id: string;
+  name: string;
+  organizer: string;
+  description: string;
+  firstYear?: number;
+  externalLinks: ExternalLinks;
+  sourceNote: string;
+  updatedAt: string;
+}
+
+// ---- generated data (public/data/generated/*.json, built by scripts/generate-manifest.mjs) ----
+
+/** Denormalized work: source fields plus resolved names for direct rendering. */
+export interface WorkGenerated extends WorkSource {
+  originalAuthorNames: string[];
+  artistNames: string[];
+  publisherName: string;
+  themeNames: string[];
+  awardSummaries: { awardId: string; awardName: string; year: number; result: string }[];
+  /** Resolved at build time from public/data/source/covers-cache.json (see scripts/fetch-covers.mjs).
+   *  Absent when no ISBN/cover could be matched — callers must fall back to the placeholder cover. */
+  coverUrl?: string;
+}
+
+/** Shared shape for original-author/artist/publisher list+detail pages. */
+export interface PersonOrPublisherGenerated {
+  id: string;
+  name: string;
+  nameKana: string;
+  description: string;
+  externalLinks: ExternalLinks;
+  workCount: number;
+  works: WorkGenerated[];
+}
+
+export interface ThemeGenerated extends ThemeSource {
+  workCount: number;
+  works: WorkGenerated[];
+}
+
+export interface AwardWinner {
+  workId: string;
+  workTitle: string;
+  year: number;
+  result: string;
+}
+
+export interface AwardGenerated extends AwardSource {
+  workCount: number;
+  winners: AwardWinner[];
+}
+
+export interface Counts {
+  works: number;
+  originalAuthors: number;
+  artists: number;
+  publishers: number;
+  themes: number;
+  awards: number;
+}

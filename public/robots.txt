@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://izenmi.github.io/ranobe-db/sitemap.xml

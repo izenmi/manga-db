@@ -1,0 +1,557 @@
+.page {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 14px 20px 32px;
+}
+
+/* Not sticky — the user wants the full screen for content, header scrolls away. Kept subdued
+   (dark surface + thin accent border) rather than a bright color bar so it doesn't dominate. */
+.top-nav {
+  background: var(--color-surface-variant);
+  border-bottom: 2px solid var(--color-outline);
+}
+
+.top-nav__inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 8px 20px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 4px 16px;
+}
+
+.top-nav__title {
+  font-weight: 800;
+  font-size: 1.05rem;
+  text-decoration: none;
+  color: var(--color-blue-deep);
+  margin-right: 4px;
+  letter-spacing: 0.02em;
+}
+
+.top-nav__links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.top-nav__links a {
+  display: inline-block;
+  padding: 4px 11px;
+  border-radius: var(--radius-pill);
+  text-decoration: none;
+  color: var(--color-text-muted);
+  font-size: 0.85rem;
+  font-weight: 700;
+  transition: background 0.15s ease, color 0.15s ease;
+}
+
+.top-nav__links a.active,
+.top-nav__links a:hover {
+  background: var(--color-surface);
+  color: var(--color-blue-deep);
+}
+
+h1 {
+  font-size: 1.35rem;
+  margin: 4px 0 2px;
+  font-weight: 800;
+  color: var(--color-ink);
+}
+
+.page-subtitle {
+  color: var(--color-text-muted);
+  font-size: 0.9rem;
+  margin: 0 0 12px;
+  font-weight: 500;
+}
+
+/* ---- Entity list (original-authors/artists/publishers/themes/awards) ---- */
+
+.entity-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 6px;
+}
+
+.entity-list__item a {
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+  padding: 7px 12px;
+  border-radius: var(--radius-sm);
+  background: var(--color-surface);
+  border: 1px solid var(--color-outline);
+  text-decoration: none;
+  color: var(--color-text);
+  font-weight: 700;
+  font-size: 0.92rem;
+  transition: border-color 0.15s ease;
+}
+
+.entity-list__item a:hover {
+  border-color: var(--color-blue-strong);
+}
+
+.entity-list__count {
+  color: var(--color-text-muted);
+  font-variant-numeric: tabular-nums;
+  font-weight: 700;
+}
+
+/* ---- Chips (theme tags, awards) — one calm palette, no rainbow cycling ---- */
+
+.chip-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  margin: 5px 0;
+}
+
+.chip {
+  display: inline-block;
+  padding: 1px 8px;
+  border-radius: var(--radius-pill);
+  background: var(--color-surface-variant);
+  color: var(--color-primary-strong);
+  font-size: 0.72rem;
+  font-weight: 600;
+  text-decoration: none;
+  border: 1px solid var(--color-outline);
+  transition: background 0.15s ease, border-color 0.15s ease;
+}
+
+.chip:hover {
+  background: var(--color-blue);
+  border-color: var(--color-blue-strong);
+  color: var(--color-ink-on-accent);
+}
+
+.award-chip {
+  background: transparent !important;
+  border-color: var(--color-outline) !important;
+  color: var(--color-text-muted);
+  font-weight: 500;
+  font-size: 0.68rem;
+  padding: 1px 8px;
+}
+
+.award-chip:hover {
+  background: var(--color-surface-variant) !important;
+  color: var(--color-text);
+}
+
+/* ---- Work list rows ---- */
+
+/* Two (or more, on very wide screens) columns instead of a single stacked column — a lone
+   column left a lot of unused horizontal space on desktop widths. */
+.work-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(450px, 1fr));
+  gap: 6px;
+}
+
+.work-card {
+  display: flex;
+  gap: 12px;
+  padding: 8px 10px;
+  border-radius: var(--radius-sm);
+  background: var(--color-surface);
+  border: 1px solid var(--color-outline);
+  color: var(--color-text);
+  margin-bottom: 5px;
+}
+
+.work-grid .work-card {
+  margin-bottom: 0;
+}
+
+.pager {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 16px;
+  margin-bottom: 10px;
+  flex-wrap: wrap;
+}
+
+.pager__pages {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.pager__page {
+  min-width: 30px;
+  height: 30px;
+  padding: 0 8px;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--color-outline);
+  background: var(--color-surface-variant);
+  color: var(--color-text);
+  font-size: 0.85rem;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  cursor: pointer;
+}
+
+.pager__page:hover {
+  border-color: var(--color-blue-strong);
+}
+
+.pager__page--active,
+.pager__page--active:hover {
+  background: var(--color-primary);
+  border-color: var(--color-primary);
+  color: var(--color-ink-on-accent);
+}
+
+.pager__ellipsis {
+  color: var(--color-text-muted);
+  font-weight: 700;
+  padding: 0 4px;
+}
+
+.pager__prev,
+.pager__next {
+  padding: 0 14px;
+  height: 30px;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--color-outline);
+  background: var(--color-surface);
+  color: var(--color-text);
+  font-size: 0.85rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.pager__prev:disabled,
+.pager__next:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+
+.pager__prev:not(:disabled):hover,
+.pager__next:not(:disabled):hover {
+  border-color: var(--color-blue-strong);
+}
+
+.work-card:hover {
+  border-color: var(--color-blue-strong);
+}
+
+.work-card__cover-link {
+  flex-shrink: 0;
+}
+
+.work-card__content {
+  flex: 1;
+  min-width: 0;
+}
+
+.work-card__link {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+
+.work-card__title {
+  font-weight: 800;
+  font-size: 0.96rem;
+  margin-bottom: 1px;
+  color: var(--color-ink);
+}
+
+.work-card__meta {
+  color: var(--color-text-muted);
+  font-size: 0.86rem;
+  font-weight: 500;
+  line-height: 1.4;
+}
+
+.work-card__awards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin-top: 3px;
+}
+
+/* ---- Cover placeholder ---- */
+
+.work-cover {
+  flex-shrink: 0;
+  border-radius: var(--radius-sm);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 4px;
+  font-weight: 800;
+  color: var(--color-ink-on-accent);
+  border: 1px solid transparent;
+}
+
+.work-cover--sm {
+  width: 92px;
+  height: 131px;
+  font-size: 0.68rem;
+  line-height: 1.15;
+}
+
+.work-cover--lg {
+  width: 160px;
+  height: 228px;
+  font-size: 0.9rem;
+  line-height: 1.3;
+}
+
+.work-cover__title {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 6;
+  -webkit-box-orient: vertical;
+}
+
+.work-cover--blue {
+  background: var(--color-blue);
+  border-color: var(--color-blue-strong);
+}
+.work-cover--pink {
+  background: var(--color-pink);
+  border-color: var(--color-pink-strong);
+}
+.work-cover--mint {
+  background: var(--color-mint);
+  border-color: var(--color-mint-strong);
+}
+.work-cover--yellow {
+  background: var(--color-yellow);
+  border-color: var(--color-yellow-strong);
+}
+.work-cover--peach {
+  background: var(--color-peach);
+  border-color: var(--color-peach-strong);
+}
+.work-cover--purple {
+  background: var(--color-primary);
+  border-color: var(--color-primary-strong);
+}
+
+.work-cover--image {
+  object-fit: cover;
+  background: var(--color-surface);
+}
+
+.cover-link {
+  display: block;
+  margin-top: 6px;
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+
+.work-detail__hero {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  margin-bottom: 6px;
+}
+
+.work-detail__hero-cover {
+  text-align: center;
+}
+
+/* ---- Search / filters ---- */
+
+.search-box {
+  width: 100%;
+  padding: 5px 12px;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--color-outline);
+  background: var(--color-surface);
+  color: var(--color-text);
+  font-size: 0.85rem;
+  font-weight: 700;
+  margin-bottom: 8px;
+  transition: border-color 0.15s ease;
+}
+
+.search-box:focus {
+  outline: none;
+  border-color: var(--color-primary);
+}
+
+.filter-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 10px;
+}
+
+.filter-row select {
+  padding: 3px 9px;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--color-outline);
+  background: var(--color-surface);
+  color: var(--color-text);
+  font-weight: 700;
+  font-size: 0.78rem;
+}
+
+.filter-clear-btn {
+  padding: 3px 9px;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--color-outline);
+  background: transparent;
+  color: var(--color-text-muted);
+  font-weight: 700;
+  font-size: 0.78rem;
+  cursor: pointer;
+}
+
+.filter-clear-btn:hover {
+  border-color: var(--color-blue-strong);
+  color: var(--color-text);
+}
+
+/* ---- Home ---- */
+
+.home-hero {
+  text-align: center;
+  padding: 28px 20px 18px;
+}
+
+.home-hero h1 {
+  font-size: 1.9rem;
+  margin: 0;
+  color: var(--color-blue-deep);
+  letter-spacing: 0.03em;
+}
+
+.home-hero .page-subtitle {
+  margin-top: 8px;
+  color: var(--color-text-muted);
+}
+
+.count-badges {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+  gap: 8px;
+  margin: 14px 0;
+}
+
+.count-badge {
+  display: block;
+  text-align: center;
+  padding: 12px 8px;
+  border-radius: var(--radius-md);
+  background: var(--color-surface);
+  border: 2px solid var(--color-outline);
+  text-decoration: none;
+  color: var(--color-text);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.count-badge:hover {
+  transform: translateY(-2px);
+  box-shadow: none;
+}
+
+.count-badge--pink {
+  border-color: var(--color-pink-strong);
+  box-shadow: 0 3px 0 var(--color-pink-strong);
+}
+.count-badge--blue {
+  border-color: var(--color-blue-strong);
+  box-shadow: 0 3px 0 var(--color-blue-strong);
+}
+.count-badge--mint {
+  border-color: var(--color-mint-strong);
+  box-shadow: 0 3px 0 var(--color-mint-strong);
+}
+.count-badge--yellow {
+  border-color: var(--color-yellow-strong);
+  box-shadow: 0 3px 0 var(--color-yellow-strong);
+}
+.count-badge--purple {
+  border-color: var(--color-primary);
+  box-shadow: 0 3px 0 var(--color-primary);
+}
+.count-badge--peach {
+  border-color: var(--color-peach-strong);
+  box-shadow: 0 3px 0 var(--color-peach-strong);
+}
+
+.count-badge__number {
+  display: block;
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: var(--color-ink);
+}
+
+.count-badge__label {
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+  font-weight: 700;
+}
+
+.source-note {
+  color: var(--color-text-muted);
+  font-size: 0.72rem;
+  margin-top: 14px;
+}
+
+.winner-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.winner-list li {
+  padding: 7px 10px;
+  margin-bottom: 4px;
+  border-radius: var(--radius-sm);
+  background: var(--color-surface);
+  border: 1px solid var(--color-outline);
+}
+
+.winner-year {
+  color: var(--color-ink-on-accent);
+  border-radius: var(--radius-pill);
+  padding: 1px 9px;
+  margin-right: 6px;
+  font-weight: 800;
+  font-variant-numeric: tabular-nums;
+  font-size: 0.82rem;
+}
+
+/* Colored per year (see colorForYear in AwardDetailPage.tsx) so winners cluster visually by
+ * year at a glance instead of every row using the same pill color. */
+.winner-year--blue {
+  background: var(--color-blue);
+}
+.winner-year--pink {
+  background: var(--color-pink);
+}
+.winner-year--mint {
+  background: var(--color-mint);
+}
+.winner-year--yellow {
+  background: var(--color-yellow);
+}
+.winner-year--peach {
+  background: var(--color-peach);
+}
+.winner-year--purple {
+  background: var(--color-primary);
+}
