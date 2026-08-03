@@ -1744,5 +1744,17 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipedia『テンカウント』記事(2026-08-03閲覧)で掲載誌として確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "champion-tap",
+    "name": "Championタップ!",
+    "nameKana": "ちゃんぴおんたっぷ",
+    "publisherId": "akita-shoten",
+    "description": "秋田書店が2013年7月に開設したWebコミック配信サイト。2018年7月に「チャンピオンクロス」と統合され「マンガクロス」に移行、サービス終了。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Champion_タップ!"
+    },
+    "sourceNote": "日本語版Wikipedia『Champion タップ!』記事(2026-08-03閲覧)で開設・統合の経緯を確認。「魔法少女サイト」の連載開始時点(2013年)の初出媒体として新規追加。",
+    "updatedAt": "2026-08-03"
   }
 ]

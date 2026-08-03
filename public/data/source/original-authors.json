@@ -1191,5 +1191,60 @@
     },
     "sourceNote": "日本語版Wikipedia『LOVE STAGE!!』記事、KADOKAWA公式サイト(2026-08-03閲覧)で原作担当として確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "endou-asari",
+    "name": "遠藤浅蜊",
+    "nameKana": "えんどうあさり",
+    "description": "ライトノベル作家。「魔法少女育成計画」シリーズ(このライトノベルがすごい!文庫)の著者。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔法少女育成計画"
+    },
+    "sourceNote": "日本語版Wikipedia『魔法少女育成計画』記事およびBOOK☆WALKER著者ページ(2026-08-03閲覧)で原作者名を確認。人物単独のWikipedia記事は未確認のため作品記事を出典とした。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "takahashi-yashichiro",
+    "name": "高橋弥七郎",
+    "nameKana": "たかはしやしちろう",
+    "description": "ライトノベル作家。「灼眼のシャナ」(電撃文庫)の著者。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/高橋弥七郎"
+    },
+    "sourceNote": "日本語版Wikipedia『高橋弥七郎』『灼眼のシャナ』記事(2026-08-03閲覧)で経歴・代表作を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "saito-kenji",
+    "name": "サイトウケンジ",
+    "nameKana": "さいとうけんじ",
+    "description": "ライトノベル作家。「トリニティセブン 7人の魔書使い」(ドラゴンマガジン/富士見ファンタジア文庫)の原作者。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/トリニティセブン"
+    },
+    "sourceNote": "日本語版Wikipedia『トリニティセブン』記事(2026-08-03閲覧)で原作者名を確認。人物単独記事は未確認のため作品記事を出典とした。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "nisio-isin",
+    "name": "西尾維新",
+    "nameKana": "にしおいしん",
+    "description": "小説家。「化物語」〈物語〉シリーズ、「十二大戦」等、幅広いジャンルの作品を手がける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/西尾維新"
+    },
+    "sourceNote": "日本語版Wikipedia『西尾維新』『十二大戦』記事(2026-08-03閲覧)で経歴・原作者としてのクレジットを確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "level-5",
+    "name": "レベルファイブ",
+    "nameKana": "れべるふぁいぶ",
+    "description": "福岡県に本社を置くゲーム開発会社。「妖怪ウォッチ」シリーズの原作(ゲーム・企画)を手がける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/レベルファイブ"
+    },
+    "sourceNote": "日本語版Wikipedia『レベルファイブ』『妖怪ウォッチ』記事(2026-08-03閲覧)で原作クレジットを確認。既存データの「GAINAX」と同様、企業を原作者として登録する扱いとした。",
+    "updatedAt": "2026-08-03"
   }
 ]

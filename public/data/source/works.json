@@ -15565,5 +15565,317 @@
     },
     "sourceNote": "日本語版Wikipedia『LOVE STAGE!!』記事(2026-08-03閲覧)で原作(影木栄貴)・作画(蔵王大志)・掲載誌(CIEL、2010年)・連載期間(単行本2011年~2016年、全7巻)・アニメ化(2014年)を確認。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "souboutei-kowasubeshi",
+    "title": "双亡亭壊すべし",
+    "titleKana": "そうぼうていこわすべし",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "fujita-kazuhiro"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "psychic-battle",
+      "horror"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2021,
+    "status": "completed",
+    "volumeCount": 25,
+    "synopsis": "東京の場末に建つ、いわく付きの幽霊屋敷「双亡亭」。政府による破壊作戦に加わった漫画家志望の少年・凧葉務は、屋敷に囚われた謎の少年・立木緑朗と出会う。屋敷を埋め尽くす無数の肖像画には歴代の犠牲者が取り込まれており、これらが具現化した怪物と戦いながら、双亡亭に隠された一族の因縁と屋敷そのものの正体を解き明かしていく異能力バトル。",
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/双亡亭壊すべし"
+    },
+    "sourceNote": "日本語版Wikipedia『双亡亭壊すべし』記事(2026-08-03閲覧)で作者・掲載誌・連載期間(2016年17号〜2021年34号)・既刊巻数(全25巻)を確認。あらすじは独自要約(コピペなし)。原作者=作画家(藤田和日郎)のオリジナル作品のためoriginalAuthorIdsは空配列。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "under-ninja",
+    "title": "アンダーニンジャ",
+    "titleKana": "あんだーにんじゃ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hanazawa-kengo"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "young-magazine",
+    "themeIds": [
+      "psychic-battle",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2018,
+    "status": "ongoing",
+    "volumeCount": 17,
+    "synopsis": "太平洋戦争後に解体されたはずの忍者組織は、実は日本国内に約20万人が潜伏し続けていた。うだつの上がらないニート同然の下忍・雲隠九郎は、ある高校への潜入という奇妙な任務を命じられる。異能を使いこなす忍者たちが息を潜めて暮らす現代の裏社会、そこに渦巻く組織の陰謀や抗争を、乾いたユーモアと淡々としたタッチで描く忍者アクション。",
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アンダーニンジャ"
+    },
+    "sourceNote": "日本語版Wikipedia『アンダーニンジャ』記事(2026-08-03閲覧)で作者・掲載誌(週刊ヤングマガジン)・連載開始年(2018年34号)・既刊巻数(2026年3月時点17巻)・2023年アニメ化を確認。あらすじは独自要約(コピペなし)。原作者=作画家(花沢健吾、既存artist id流用)のオリジナル作品のためoriginalAuthorIdsは空配列。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "dekin-no-mogura",
+    "title": "出禁のモグラ",
+    "titleKana": "できんのもぐら",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "eguchi-natsumi"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning",
+    "themeIds": [
+      "psychic-battle",
+      "detective-mystery"
+    ],
+    "firstPublishedYear": 2021,
+    "status": "ongoing",
+    "volumeCount": 13,
+    "synopsis": "あの世から出入り禁止を言い渡された謎の男・モグラ。大学生の真木と八重子は、頭上から落ちてきた広辞苑でモグラと衝突したことをきっかけに幽霊が見えるようになってしまう。東京の下町を舞台に、あの世に深い縁を持つモグラの異能を頼りに次々と持ち込まれる怪異と向き合う三人の姿を、独特のユーモアとほろ苦さを交えて描くオカルトアクション。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2026,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/出禁のモグラ"
+    },
+    "sourceNote": "日本語版Wikipedia『出禁のモグラ』記事、コミックナタリー『第71回小学館漫画賞』記事(2026-08-03閲覧)で作者・掲載誌(モーニング)・連載開始(2021年)・既刊巻数(13巻、2026年7月時点)・第71回小学館漫画賞受賞(2026年1月)・2025年アニメ化を確認。受賞の部門詳細は情報源で明記されていなかったため未確認のままresultを「受賞」とした。あらすじは独自要約(コピペなし)。原作者=作画家(江口夏実)のオリジナル作品のためoriginalAuthorIdsは空配列。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "mahou-shoujo-ikusei-keikaku",
+    "title": "魔法少女育成計画",
+    "titleKana": "まほうしょうじょいくせいけいかく",
+    "originalAuthorIds": [
+      "endou-asari"
+    ],
+    "artistIds": [
+      "edoya-pochi"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "comp-ace",
+    "themeIds": [
+      "magical-girl",
+      "death-game",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "スマートフォンアプリ「マジカロイド」で遊んでいた16人の少女たちは、ある日本物の魔法少女に変身する力を授かる。しかし魔法少女の定員には限りがあり、資格を得るための「試験」と称して仲間同士が殺し合う理不尽な生存競争に巻き込まれていく。ライトノベル原作を漫画化した、少女たちの残酷な運命を描くダークな魔法少女バトル。",
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔法少女育成計画"
+    },
+    "sourceNote": "日本語版Wikipedia『魔法少女育成計画』記事(2026-08-03閲覧)で原作(遠藤浅蜊、このライトノベルがすごい!文庫)・漫画版「無印」の作画者(江戸屋ぽち)・掲載誌(月刊コンプエース)・連載期間(2014年11月号〜2015年12月号)・既刊巻数(全2巻)・2016年アニメ化を確認。同作には他に「リスタート」「F2P」等別作画者による複数のコミカライズが存在するが、本エントリは最初の「無印」版を採用した。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "mahou-shoujo-site",
+    "title": "魔法少女サイト",
+    "titleKana": "まほうしょうじょさいと",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "sato-kentarou"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "champion-tap",
+    "themeIds": [
+      "magical-girl",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 16,
+    "synopsis": "陰湿ないじめと家庭内暴力に苦しむ中学生・浅葱あさひは、正体不明のサイトから届いた「ステッキ」で不思議な力を授かる。同じように心に傷を抱えた少女たちと出会いながら、力を使うたびに自らの寿命が削られていく残酷な現実、そしてサイトの背後に潜む破滅の予兆に直面していく、佐藤健太郎によるオリジナルのダークな魔法少女漫画。",
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔法少女サイト"
+    },
+    "sourceNote": "日本語版Wikipedia『魔法少女サイト』記事(2026-08-03閲覧)で作者(佐藤健太郎)・初出媒体(秋田書店Webコミックサイト「Championタップ!」2013年7月〜)・その後の移籍先(週刊少年チャンピオン、2017年48号〜)・完結(2019年35号)・既刊巻数(全16巻)・2018年アニメ化を確認。labelIdは連載開始時点の初出媒体である「Championタップ!」(新規追加)を採用。原作者=作画家(佐藤健太郎)のオリジナル作品のためoriginalAuthorIdsは空配列。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ueki-no-housoku",
+    "title": "うえきの法則",
+    "titleKana": "うえきのほうそく",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "fukuchi-tsubasa"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "psychic-battle",
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 2001,
+    "latestPublishedYear": 2004,
+    "status": "completed",
+    "volumeCount": 16,
+    "synopsis": "天界の神候補たちが人間の中学生に不思議な力を託し、自分の代理人として戦わせる代理戦争「天空杯」。ゴミを木に変える力を授かった中学一年生・うえきコースケは、持ち前の正義感からこの争いに巻き込まれていく。負けた力は永遠に消滅するという厳しいルールの下、多彩な異能力を武器にした中学生たちのトーナメントバトルが繰り広げられる。",
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/うえきの法則"
+    },
+    "sourceNote": "日本語版Wikipedia『うえきの法則』記事(2026-08-03閲覧)で作者(福地翼)・掲載誌(週刊少年サンデー)・連載期間(2001年34号〜2004年46号)・既刊巻数(全16巻)・2005年アニメ化を確認。あらすじは独自要約(コピペなし)。原作者=作画家(福地翼)のオリジナル作品のためoriginalAuthorIdsは空配列。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "shakugan-no-shana",
+    "title": "灼眼のシャナ",
+    "titleKana": "しゃくがんのしゃな",
+    "originalAuthorIds": [
+      "takahashi-yashichiro"
+    ],
+    "artistIds": [
+      "sasagura-ayato"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "dengeki-daioh",
+    "themeIds": [
+      "psychic-battle",
+      "school",
+      "romance"
+    ],
+    "firstPublishedYear": 2005,
+    "latestPublishedYear": 2011,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "平凡な高校生だったはずの坂井悠二は、ある日自分がすでに存在を燃やし尽くされた「トーチ」に成り果てていたことを知る。人ならざる者「紅世の徒」を討滅するフレイムヘイズの少女・シャナと出会い、いずれ消えゆく運命に抗いながら彼女と行動を共にすることになる。ライトノベルを原作に、現代の街を舞台にした異能力バトルを丁寧に描く学園アクション。",
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/灼眼のシャナ"
+    },
+    "sourceNote": "日本語版Wikipedia『灼眼のシャナ』『笹倉綾人』記事(2026-08-03閲覧)で原作(高橋弥七郎、電撃文庫)・漫画版作画者(笹倉綾人)・掲載誌(月刊コミック電撃大王)・連載期間(2005年4月号〜2011年10月号)・既刊巻数(全10巻)を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "trinity-seven",
+    "title": "トリニティセブン",
+    "titleKana": "とりにてぃせぶん",
+    "originalAuthorIds": [
+      "saito-kenji"
+    ],
+    "artistIds": [
+      "nao-akinori"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "dragon-age",
+    "themeIds": [
+      "psychic-battle",
+      "school",
+      "comedy"
+    ],
+    "firstPublishedYear": 2011,
+    "status": "ongoing",
+    "volumeCount": 34,
+    "synopsis": "同居していた従姉の聖が、世界ごと呑み込む謎の「崩壊現象」に巻き込まれて消え去ってしまう。聖を取り戻すため、主人公アラタは魔道士養成校・王立ビブリア学園に入学し、それぞれ強力な魔道書を極めた7人の美少女魔道士「トリニティセブン」と行動を共にすることになる。世界の秘密と崩壊現象の謎に挑む学園魔法バトルに、ハーレム的な人間模様が絡む作品。",
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/トリニティセブン"
+    },
+    "sourceNote": "日本語版Wikipedia『トリニティセブン』記事(2026-08-03閲覧)で原作(サイトウケンジ)・作画(奈央晃徳)・掲載誌(月刊ドラゴンエイジ)・連載開始(2010年12月9日、2011年1月号)・既刊巻数(34巻、2026年4月時点)を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "juni-taisen",
+    "title": "十二大戦",
+    "titleKana": "じゅうにたいせん",
+    "originalAuthorIds": [
+      "nisio-isin"
+    ],
+    "artistIds": [
+      "akatsuki-akira"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonenjump-plus",
+    "themeIds": [
+      "psychic-battle",
+      "death-game"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "十二年に一度、干支を冠した十二人の戦士が一堂に会し、命を懸けて殺し合う儀式「十二大戦」。ただ一人生き残った者だけが、どんな願いでも叶えられる権利を手にする。干支にちなんだ異能力を武器に、それぞれの思惑や過去を抱えながら裏切りと策略が渦巻く戦いに身を投じる戦士たちを、西尾維新原作・暁月あきら作画で描くバトルロイヤル漫画。",
+    "webComicSource": {
+      "platform": "shonenjump-plus"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/十二大戦"
+    },
+    "sourceNote": "日本語版Wikipedia『十二大戦』記事(2026-08-03閲覧)で原作(西尾維新)・漫画版作画者(暁月あきら)・掲載媒体(少年ジャンプ+)・連載期間(2017年9月23日〜2018年5月12日)・既刊巻数(全4巻)を確認。少年ジャンプ+初出のためwebComicSourceを設定。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "youkai-watch",
+    "title": "妖怪ウォッチ",
+    "titleKana": "ようかいうぉっち",
+    "originalAuthorIds": [
+      "level-5"
+    ],
+    "artistIds": [
+      "konishi-noriyuki"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "corocoro-comic",
+    "themeIds": [
+      "psychic-battle",
+      "comedy",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2023,
+    "status": "completed",
+    "volumeCount": 23,
+    "synopsis": "ごく普通の小学生・慶太は、森で拾った不思議なカプセルから妖怪ウィスパーを解放したことをきっかけに、目には見えない妖怪の姿を映し出す不思議な腕時計「妖怪ウォッチ」を手に入れる。身の回りで起こる困り事の裏に潜む個性豊かな妖怪たちと「妖怪メダル」で友達契約を結び、共に力を合わせて事件を解決していく子供向けの妖怪バトルコメディ。",
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/妖怪ウォッチ"
+    },
+    "sourceNote": "日本語版Wikipedia『妖怪ウォッチ』記事(2026-08-03閲覧)で原作(レベルファイブ)・月刊コロコロコミック版の作画者(小西紀行)・連載開始(2012年12月15日、2013年1月号)・完結(2023年、全23巻)を確認。原作はゲーム企画元のレベルファイブ(企業)のためoriginalAuthorIdsに登録し、既存データの「GAINAX」と同様の扱いとした。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
   }
 ]

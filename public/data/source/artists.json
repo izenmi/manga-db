@@ -4433,5 +4433,93 @@
     },
     "sourceNote": "日本語版Wikipedia『LOVE STAGE!!』記事(2026-08-03閲覧)で作画担当として確認。生年は確認できず未入力。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "eguchi-natsumi",
+    "name": "江口夏実",
+    "nameKana": "えぐちなつみ",
+    "description": "漫画家。「鬼灯の冷徹」「出禁のモグラ」等を手がける。「出禁のモグラ」で第71回小学館漫画賞を受賞。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/出禁のモグラ"
+    },
+    "sourceNote": "日本語版Wikipedia『出禁のモグラ』記事、コミックナタリー『第71回小学館漫画賞』記事(2026-08-03閲覧)で作者名・受賞歴を確認。人物単独記事は未確認のため作品記事等を出典とした。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "edoya-pochi",
+    "name": "江戸屋ぽち",
+    "nameKana": "えどやぽち",
+    "description": "漫画家。遠藤浅蜊のライトノベル「魔法少女育成計画」を漫画化。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔法少女育成計画"
+    },
+    "sourceNote": "日本語版Wikipedia『魔法少女育成計画』記事(2026-08-03閲覧)でコミカライズ担当者として確認。人物単独記事は未確認のため作品記事を出典とした。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "sato-kentarou",
+    "name": "佐藤健太郎",
+    "nameKana": "さとうけんたろう",
+    "description": "漫画家。原作・作画を兼ねるオリジナル作品「魔法少女サイト」で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔法少女サイト"
+    },
+    "sourceNote": "日本語版Wikipedia『魔法少女サイト』記事、秋田書店公式サイト(2026-08-03閲覧)で作者名を確認。人物単独記事は未確認のため作品記事等を出典とした。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "fukuchi-tsubasa",
+    "name": "福地翼",
+    "nameKana": "ふくちつばさ",
+    "description": "漫画家。オリジナル作品「うえきの法則」の作者。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/うえきの法則"
+    },
+    "sourceNote": "日本語版Wikipedia『うえきの法則』記事(2026-08-03閲覧)で作者名を確認。人物単独記事は未確認のため作品記事を出典とした。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "sasagura-ayato",
+    "name": "笹倉綾人",
+    "nameKana": "ささくらあやと",
+    "description": "漫画家。高橋弥七郎のライトノベル「灼眼のシャナ」を漫画化。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/笹倉綾人"
+    },
+    "sourceNote": "日本語版Wikipedia『笹倉綾人』『灼眼のシャナ』記事(2026-08-03閲覧)で経歴・コミカライズ担当を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "nao-akinori",
+    "name": "奈央晃徳",
+    "nameKana": "なおあきのり",
+    "description": "漫画家。サイトウケンジ原作「トリニティセブン 7人の魔書使い」の作画を担当。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/トリニティセブン"
+    },
+    "sourceNote": "日本語版Wikipedia『トリニティセブン』記事(2026-08-03閲覧)で作画担当者として確認。人物単独記事は未確認のため作品記事を出典とした。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "akatsuki-akira",
+    "name": "暁月あきら",
+    "nameKana": "あかつきあきら",
+    "description": "漫画家。西尾維新原作「十二大戦」の作画を担当。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/十二大戦"
+    },
+    "sourceNote": "日本語版Wikipedia『十二大戦』記事(2026-08-03閲覧)で作画担当者として確認。人物単独記事は未確認のため作品記事を出典とした。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "konishi-noriyuki",
+    "name": "小西紀行",
+    "nameKana": "こにしのりゆき",
+    "description": "漫画家。レベルファイブ原作「妖怪ウォッチ」(月刊コロコロコミック版)の作画を担当。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/妖怪ウォッチ"
+    },
+    "sourceNote": "日本語版Wikipedia『妖怪ウォッチ』記事(2026-08-03閲覧)で作画担当者として確認。人物単独記事は未確認のため作品記事を出典とした。",
+    "updatedAt": "2026-08-03"
   }
 ]

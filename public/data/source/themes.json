@@ -144,5 +144,15 @@
     "id": "boys-love",
     "name": "ボーイズラブ(BL)",
     "description": "男性同士の恋愛を軸に描く作品。"
+  },
+  {
+    "id": "psychic-battle",
+    "name": "異能力バトル",
+    "description": "超能力・特殊能力を持つ者同士が現代を舞台に戦う作品。"
+  },
+  {
+    "id": "magical-girl",
+    "name": "魔法少女",
+    "description": "少女が魔法の力で変身・戦闘する作品。"
   }
 ]
