@@ -1169,5 +1169,27 @@
     },
     "sourceNote": "日本語版Wikipedia『戦争は女の顔をしていない』記事(2026-08-03閲覧)で漫画版の原作者として確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "iruma-hitoma",
+    "name": "入間人間",
+    "nameKana": "いるまひとま",
+    "description": "ライトノベル作家。『安達としまむら』『電波女と青春男』等の著者。素性はほとんど公開していない。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/入間人間"
+    },
+    "sourceNote": "日本語版Wikipedia『入間人間』『安達としまむら』記事(2026-08-03閲覧)でライトノベル原作者として確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "eiki-eiki",
+    "name": "影木栄貴",
+    "nameKana": "えいきえいき",
+    "description": "漫画家。『LOVE STAGE!!』等、蔵王大志とのコンビ作品の原作(原案)を担当する。単独作品も手がける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/影木栄貴"
+    },
+    "sourceNote": "日本語版Wikipedia『LOVE STAGE!!』記事、KADOKAWA公式サイト(2026-08-03閲覧)で原作担当として確認。",
+    "updatedAt": "2026-08-03"
   }
 ]

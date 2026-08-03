@@ -4323,5 +4323,115 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipedia『皇国の守護者』記事(2026-08-03閲覧)で作画担当として確認。生年は確認できず未入力。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "nakatani-io",
+    "name": "仲谷鳰",
+    "nameKana": "なかたにいお",
+    "description": "漫画家。『やがて君になる』の作者として知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/仲谷鳰"
+    },
+    "sourceNote": "日本語版Wikipedia『やがて君になる』『仲谷鳰』記事(2026-08-03閲覧)で作者として確認。生年は確認できず未入力。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "saburouta",
+    "name": "サブロウタ",
+    "nameKana": "さぶろうた",
+    "description": "漫画家。『コミック百合姫』を中心に活動し、『citrus』シリーズの作者として知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Citrus_(漫画)"
+    },
+    "sourceNote": "日本語版Wikipedia『Citrus (漫画)』記事(2026-08-03閲覧)で作者として確認。生年は確認できず未入力。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "namori",
+    "name": "なもり",
+    "nameKana": "なもり",
+    "description": "漫画家・イラストレーター。『ゆるゆり』の作者。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/なもり"
+    },
+    "sourceNote": "日本語版Wikipedia『ゆるゆり』『なもり』記事(2026-08-03閲覧)で作者として確認。生年は確認できず未入力。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "mukunoki-nanatsu",
+    "name": "椋木ななつ",
+    "nameKana": "むくのきななつ",
+    "description": "漫画家。『私に天使が舞い降りた!』の作者。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/私に天使が舞い降りた!"
+    },
+    "sourceNote": "日本語版Wikipedia『私に天使が舞い降りた!』記事(2026-08-03閲覧)で作者として確認。生年は確認できず未入力。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "yuzuhara-moke",
+    "name": "柚原もけ",
+    "nameKana": "ゆずはらもけ",
+    "description": "漫画家。ライトノベル『安達としまむら』の月刊コミック電撃大王版コミカライズを担当する。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/安達としまむら"
+    },
+    "sourceNote": "日本語版Wikipedia『安達としまむら』記事(2026-08-03閲覧)でコミカライズ作画担当として確認。生年は確認できず未入力。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "nakamura-shungiku",
+    "name": "中村春菊",
+    "nameKana": "なかむらしゅんぎく",
+    "description": "漫画家。『純情ロマンチカ』『世界一初恋』等、角川書店系BL誌を中心に多数の人気シリーズを手がける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/中村春菊"
+    },
+    "sourceNote": "日本語版Wikipedia『中村春菊』『純情ロマンチカ』『世界一初恋』記事(2026-08-03閲覧)で作者として確認。生年は確認できず未入力。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "yoneda-kou",
+    "name": "ヨネダコウ",
+    "nameKana": "よねだこう",
+    "description": "漫画家。『囀る鳥は羽ばたかない』の作者。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ヨネダコウ"
+    },
+    "sourceNote": "日本語版Wikipedia『囀る鳥は羽ばたかない』記事(2026-08-03閲覧)で作者として確認。生年は確認できず未入力。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "takarai-rihito",
+    "name": "宝井理人",
+    "nameKana": "たからいりひと",
+    "description": "漫画家。『テンカウント』の作者。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/テンカウント"
+    },
+    "sourceNote": "日本語版Wikipedia『テンカウント』記事(2026-08-03閲覧)で作者として確認。生年は確認できず未入力。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "abe-miyuki",
+    "name": "あべ美幸",
+    "nameKana": "あべみゆき",
+    "description": "漫画家。『SUPER LOVERS』の作者。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/あべ美幸"
+    },
+    "sourceNote": "日本語版Wikipedia『SUPER LOVERS (漫画)』『あべ美幸』記事(2026-08-03閲覧)で作者として確認。生年は確認できず未入力。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "zaou-taishi",
+    "name": "蔵王大志",
+    "nameKana": "ざおうたいし",
+    "description": "漫画家。『LOVE STAGE!!』等、影木栄貴とのコンビ作品の作画を担当する。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/蔵王大志"
+    },
+    "sourceNote": "日本語版Wikipedia『LOVE STAGE!!』記事(2026-08-03閲覧)で作画担当として確認。生年は確認できず未入力。",
+    "updatedAt": "2026-08-03"
   }
 ]

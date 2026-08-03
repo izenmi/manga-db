@@ -198,5 +198,33 @@
     "externalLinks": {},
     "sourceNote": "Web検索結果(ピッコマ公式サイト piccoma.com、PR TIMES発表記事等、2026-08-02閲覧)で創設年(2018年)・主催(カカオピッコマ)・選考方法・部門制度の変遷(初期のAQUA賞/IGNIS賞等の個別賞名から現行のマンガ/SMARTOON/ノベル各部門制へ)を確認。単独のWikipedia記事は確認できず。『盾の勇者の成り上がり』(2019年AQUA賞)・『蜘蛛ですが、なにか?』(2022年IGNIS賞)の受賞をコミカライズ版が受けた実績として登録。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "bl-award",
+    "name": "BLアワード",
+    "organizer": "サンディアス(BL情報サイト「ちるちる」)",
+    "description": "BL情報サイト「ちるちる」が2009年から毎年開催する、商業BL作品のファン投票による人気ランキング企画。Comics/Novels/CD等の部門がある。",
+    "firstYear": 2009,
+    "externalLinks": {},
+    "sourceNote": "chil-chil.net(BLアワード公式ページ)、PR TIMES記事(2026-08-03閲覧)で主催・概要・開催年を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kono-bl-ga-yabai",
+    "name": "このBLがやばい!",
+    "organizer": "ネクストF",
+    "description": "ネクストFが刊行するムック『このBLがやばい!』のランキングで選出される、商業BL作品の年間人気投票企画。",
+    "externalLinks": {},
+    "sourceNote": "Amazon商品ページ・とらのあな通販ページ(2026-08-03閲覧)で刊行元・概要を確認。正確な創刊年は確認できず未入力。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "frau-manga-award",
+    "name": "FRaUマンガ大賞",
+    "organizer": "講談社",
+    "description": "講談社が発行する女性誌『FRaU』が主催するマンガ賞。",
+    "externalLinks": {},
+    "sourceNote": "コミックナタリー記事、ヨネダコウ本人のnote記事(2026-08-03閲覧)で第3回受賞作・主催元を確認。",
+    "updatedAt": "2026-08-03"
   }
 ]

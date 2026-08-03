@@ -1664,5 +1664,85 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipedia『特攻の島』記事(2026-08-03閲覧)で初出掲載誌として確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "comic-yuri-hime",
+    "name": "コミック百合姫",
+    "nameKana": "こみっくゆりひめ",
+    "publisherId": "ichijinsha",
+    "description": "一迅社が発行する百合漫画専門誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『Citrus (漫画)』『私に天使が舞い降りた!』記事(2026-08-03閲覧)で掲載誌として確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "comic-yuri-hime-s",
+    "name": "コミック百合姫S",
+    "nameKana": "こみっくゆりひめえす",
+    "publisherId": "ichijinsha",
+    "description": "一迅社が発行していた『コミック百合姫』派生の隔月誌。『ゆるゆり』の連載開始誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『ゆるゆり』記事(2026-08-03閲覧)で連載開始時の掲載誌として確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "manga-erotics-f",
+    "name": "マンガ・エロティクスエフ",
+    "nameKana": "まんがえろてぃくすえふ",
+    "publisherId": "ota-shuppan",
+    "description": "太田出版が発行していた作家性の強い作品を集めた漫画雑誌。『青い花』の掲載誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『青い花 (漫画)』記事(2026-08-03閲覧)で掲載誌として確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "the-ruby",
+    "name": "The Ruby",
+    "nameKana": "ざるびー",
+    "publisherId": "kadokawa",
+    "description": "角川書店(現KADOKAWA)が発行するBL小説誌。『世界一初恋』の連載開始誌。",
+    "externalLinks": {},
+    "sourceNote": "マンガペディア『中村春菊』記事、日本語版Wikipedia『世界一初恋』記事(2026-08-03閲覧)で連載開始時の掲載誌として確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ciel-tres-tres",
+    "name": "CIEL TresTres",
+    "nameKana": "しえるとれとれ",
+    "publisherId": "kadokawa",
+    "description": "角川書店(現KADOKAWA)が発行するBL漫画誌。『純情ロマンチカ』『SUPER LOVERS』の連載開始誌。",
+    "externalLinks": {},
+    "sourceNote": "マンガペディア『中村春菊』記事、日本語版Wikipedia『SUPER LOVERS (漫画)』記事(2026-08-03閲覧)で連載開始時の掲載誌として確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ciel",
+    "name": "CIEL",
+    "nameKana": "しえる",
+    "publisherId": "kadokawa",
+    "description": "角川書店(現KADOKAWA)が発行するBL漫画誌。『LOVE STAGE!!』の連載開始誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『LOVE STAGE!!』記事(2026-08-03閲覧)で連載開始時の掲載誌として確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ihr-hertz",
+    "name": "ihr HertZ",
+    "nameKana": "いあーへるつ",
+    "publisherId": "taiyo-tosho",
+    "description": "大洋図書が発行するBL漫画誌。『囀る鳥は羽ばたかない』の掲載誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『囀る鳥は羽ばたかない』記事(2026-08-03閲覧)で掲載誌として確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "dear-plus",
+    "name": "ディアプラス",
+    "nameKana": "でぃあぷらす",
+    "publisherId": "shinshokan",
+    "description": "新書館が発行するBL漫画誌。『テンカウント』の掲載誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『テンカウント』記事(2026-08-03閲覧)で掲載誌として確認。",
+    "updatedAt": "2026-08-03"
   }
 ]

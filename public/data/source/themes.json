@@ -134,5 +134,15 @@
     "id": "war-military",
     "name": "戦争・ミリタリー",
     "description": "実在・架空の戦争や軍事組織を題材にした作品。"
+  },
+  {
+    "id": "yuri",
+    "name": "百合",
+    "description": "女性同士の恋愛・親密な関係を軸に描く作品。"
+  },
+  {
+    "id": "boys-love",
+    "name": "ボーイズラブ(BL)",
+    "description": "男性同士の恋愛を軸に描く作品。"
   }
 ]

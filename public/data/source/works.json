@@ -15195,5 +15195,375 @@
     },
     "sourceNote": "日本語版Wikipedia『皇国の守護者』記事(2026-08-03閲覧)で確認。原作は佐藤大輔の小説(中央公論新社刊、未完)、漫画は伊藤悠が作画。ウルトラジャンプ(集英社)にて2004年7月号から2007年10月号まで連載、全5巻(2018年に遺族の意向により絶版)。18世紀末〜19世紀初頭の欧州相当の銃火器を用いた架空戦記で、ロボット・サイバーパンク要素はなし。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "yagate-kimi-ni-naru",
+    "title": "やがて君になる",
+    "titleKana": "やがてきみになる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nakatani-io"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "dengeki-daioh",
+    "themeIds": [
+      "yuri",
+      "school",
+      "romance"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 8,
+    "synopsis": "人に恋をするという感覚が分からないまま生徒会に入った高校生・小糸侑は、部活の勧誘を断る様子に憧れて入部を決めた先輩・七海燈子から、思いがけず告白される。誰にも本当の意味で恋をしたことがない燈子に少しずつ惹かれていく侑と、理想の自分を演じ続けようとする燈子。互いにとって特別な存在になりたいと願う二人の揺れ動く距離感を、繊細な心理描写で丁寧に描く学園百合の代表作。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/やがて君になる"
+    },
+    "sourceNote": "日本語版Wikipedia『やがて君になる』記事(2026-08-03閲覧)で作者・掲載誌・連載期間(2015年6月~2019年11月、全8巻)・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "citrus",
+    "title": "citrus",
+    "titleKana": "しとらす",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "saburouta"
+    ],
+    "publisherId": "ichijinsha",
+    "labelId": "comic-yuri-hime",
+    "themeIds": [
+      "yuri",
+      "school",
+      "romance"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "彼氏を作ることが目標の派手なギャル系女子高生・柚子は、母の再婚をきっかけに厳格な校風で知られる女子校に転校させられ、真面目一辺倒の生徒会長・芽衣と義理の姉妹として同居することになる。何かと衝突していた二人だったが、ある日の不意のキスをきっかけに互いを強く意識し始め、家族としての立場と募っていく恋心の板挟みに揺れ動いていく姿を描く。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Citrus_(漫画)"
+    },
+    "sourceNote": "日本語版Wikipedia『Citrus (漫画)』記事(2026-08-03閲覧)で作者・掲載誌・連載期間(2012年11月~2018年8月、全10巻)・アニメ化を確認。2019年から続編『citrus+』が別シリーズとして連載中だが、本エントリは無印citrusのみを対象とする。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "yuru-yuri",
+    "title": "ゆるゆり",
+    "titleKana": "ゆるゆり",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "namori"
+    ],
+    "publisherId": "ichijinsha",
+    "labelId": "comic-yuri-hime-s",
+    "themeIds": [
+      "yuri",
+      "comedy",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2008,
+    "status": "ongoing",
+    "volumeCount": 24,
+    "synopsis": "桜ヶ丘女子中学校に通う赤座あかり・船見結衣・吉川ちなつ・氷室ふみの4人が、廃部になった茶道部の部室を間借りして結成した「ごらく部」を舞台に、他愛のないおしゃべりや部活動もどきの活動に興じる姿を描く4コマ漫画。友情とも恋愛感情ともつかない少女たちの微妙な距離感を、軽妙なテンポとギャグ交じりの掛け合いで綴る学園百合コメディの代表格。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゆるゆり"
+    },
+    "sourceNote": "日本語版Wikipedia『ゆるゆり』記事(2026-08-03閲覧)で作者・連載開始誌(コミック百合姫S、2008年6月)・既刊巻数(24巻、2025年10月時点)・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "aoi-hana",
+    "title": "青い花",
+    "titleKana": "あおいはな",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "shimura-takako"
+    ],
+    "publisherId": "ota-shuppan",
+    "labelId": "manga-erotics-f",
+    "themeIds": [
+      "yuri",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2004,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 8,
+    "synopsis": "鎌倉の進学校「松岡女子高等学校」に入学した泣き虫で人見知りな少女・万城目ふみは、入学式の日、幼なじみで別の女子校に通うことになったしっかり者の奥平あきらとおよそ10年ぶりに再会する。互いへの想いを自覚していくふみとあきら、そして周囲の先輩や友人たちの恋模様も交錯させながら、思春期特有の揺れ動く感情と成長を静謐な筆致で描く。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/青い花_(漫画)"
+    },
+    "sourceNote": "日本語版Wikipedia『青い花 (漫画)』記事(2026-08-03閲覧)で作者(既存artistId shimura-takakoを再利用。同一人物が『放浪息子』の作者として既に登録済み)・掲載誌(マンガ・エロティクスエフ)・連載期間(2004年~2013年、全8巻)・アニメ化を確認。アニメ版のみが対象の文化庁メディア芸術祭推薦作品は本サイトの方針上受賞歴に含めていない。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "watashi-ni-tenshi-ga-maiorita",
+    "title": "私に天使が舞い降りた!",
+    "titleKana": "わたしにてんしがまいおりた",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mukunoki-nanatsu"
+    ],
+    "publisherId": "ichijinsha",
+    "labelId": "comic-yuri-hime",
+    "themeIds": [
+      "yuri",
+      "comedy",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2025,
+    "status": "completed",
+    "volumeCount": 16,
+    "synopsis": "在宅で漫画やイラストの仕事をする20代の宮内ひなたは、姪であり同居している幼稚園児の空を溺愛するあまり、空の友達である美琴・こより・陽向たちにも過剰な愛情を注いでしまう。天使のように可愛い少女たちに振り回されながらも幸せな毎日を送るひなたと園児たちの掛け合いを、ほのぼのとしたコメディタッチで描く4コマ百合作品。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/私に天使が舞い降りた!"
+    },
+    "sourceNote": "日本語版Wikipedia『私に天使が舞い降りた!』記事(2026-08-03閲覧)で作者・掲載誌・連載期間(2016年11月~2025年5月完結、全16巻)・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "adachi-to-shimamura",
+    "title": "安達としまむら",
+    "titleKana": "あだちとしまむら",
+    "originalAuthorIds": [
+      "iruma-hitoma"
+    ],
+    "artistIds": [
+      "yuzuhara-moke"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "dengeki-daioh",
+    "themeIds": [
+      "yuri",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2019,
+    "status": "ongoing",
+    "volumeCount": 8,
+    "synopsis": "クラスに馴染めず教室に居場所を失っていた安達と、これといった理由もなく学校をサボりがちな島村は、授業を抜け出した体育館の裏でよく顔を合わせるうちに、二人だけの時間を過ごすようになる。誰とも深く踏み込んだ関係を求めてこなかった安達が、島村への言葉にできない感情に戸惑いながら、少しずつその距離を縮めていく穏やかな日常を描く。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/安達としまむら"
+    },
+    "sourceNote": "日本語版Wikipedia『安達としまむら』記事(2026-08-03閲覧)で確認。入間人間による同名ライトノベルが原作で、コミカライズは月刊コミック電撃大王版(柚原もけ作画、2019年5月~、既刊8巻・2026年4月時点)とガンガンONLINE版(まに作画、2016~2017年、全3巻・連載終了)の2種が存在する。本エントリは現在も連載が続く電撃大王版を採用した。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "sekaiichi-hatsukoi",
+    "title": "世界一初恋",
+    "titleKana": "せかいいちはつこい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nakamura-shungiku"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "the-ruby",
+    "themeIds": [
+      "boys-love",
+      "workplace-drama",
+      "romance"
+    ],
+    "firstPublishedYear": 2008,
+    "status": "ongoing",
+    "volumeCount": 21,
+    "synopsis": "大手出版社の文芸編集者だった小野寺律は、ある事情から突然少女漫画雑誌「エメラルド」編集部へ異動させられ、仕事に厳しい鬼編集長・高野政宗の下で慣れない現場に奮闘することになる。実は政宗は律の高校時代の初恋の相手で、互いにそうと気づかぬまま因縁の再会を果たす。多忙を極める編集部を舞台に繰り広げられる、年上の上司との不器用な恋愛模様を描く。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/世界一初恋"
+    },
+    "sourceNote": "日本語版Wikipedia『世界一初恋』記事、マンガペディア『中村春菊』記事(2026-08-03閲覧)で作者・連載開始誌(The Ruby、2008年)・既刊巻数(21巻、2026年5月時点)・アニメ化を確認。連載開始後にCIEL、エメラルドへも掲載を広げているが、labelIdは連載開始時点のThe Rubyを採用。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "junjou-romantica",
+    "title": "純情ロマンチカ",
+    "titleKana": "じゅんじょうろまんちか",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nakamura-shungiku"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "ciel-tres-tres",
+    "themeIds": [
+      "boys-love",
+      "romance"
+    ],
+    "firstPublishedYear": 2002,
+    "status": "ongoing",
+    "volumeCount": 30,
+    "synopsis": "両親を早くに亡くし兄と二人で暮らしてきた高校生・高橋美咲は、大学受験を控えて兄に頼まれ、人気小説家・宇佐見秋彦の家に家庭教師を受けに通うことになる。強引で子供っぽいところもある秋彦に振り回されながらも次第に惹かれていく美咲は、大学合格後もそのまま秋彦の家に居候することになり、年の差のある二人の賑やかな同居生活が始まる。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/純情ロマンチカ"
+    },
+    "sourceNote": "日本語版Wikipedia『純情ロマンチカ』記事、マンガペディア『中村春菊』記事(2026-08-03閲覧)で作者・連載開始誌(CIEL TresTres、2002年。2014年8月よりEmeraldへ移籍)・既刊巻数(30巻、2025年9月時点)・アニメ化を確認。labelIdは連載開始時点のCIEL TresTresを採用。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "saezuru-tori-wa-habatakanai",
+    "title": "囀る鳥は羽ばたかない",
+    "titleKana": "さえずるとりははばたかない",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yoneda-kou"
+    ],
+    "publisherId": "taiyo-tosho",
+    "labelId": "ihr-hertz",
+    "themeIds": [
+      "boys-love",
+      "crime-underworld",
+      "romance"
+    ],
+    "firstPublishedYear": 2011,
+    "status": "ongoing",
+    "volumeCount": 9,
+    "awardResults": [
+      {
+        "awardId": "frau-manga-award",
+        "year": 2015,
+        "result": "大賞(第3回)"
+      }
+    ],
+    "synopsis": "極道の若頭を務める矢代は、女好きでどこか自暴自棄な一面を隠しながら組をまとめている。かつて警察官だったが職を追われ、成り行きで矢代の身辺警護を任されることになった百目鬼は、矢代の危うさと脆さに次第に引き込まれていく。裏社会という濃密な舞台の中で、それぞれ拭えない傷を抱えた者同士が惹かれ合っていく様を描く重厚な人間ドラマ。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/囀る鳥は羽ばたかない"
+    },
+    "sourceNote": "日本語版Wikipedia『囀る鳥は羽ばたかない』記事(2026-08-03閲覧)で作者・掲載誌(ihr HertZ、大洋図書)・連載開始(2011年8月)・既刊巻数(9巻、2024年10月時点)・劇場アニメ化・第3回FRaUマンガ大賞受賞(2015年9月発表、コミックナタリー記事・作者本人のnote記事で確認)を確認。BLアワード等でも複数回1位を獲得しているが具体的な年・順位を一次情報で特定できなかったためawardResultsには含めていない。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ten-count",
+    "title": "テンカウント",
+    "titleKana": "てんかうんと",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "takarai-rihito"
+    ],
+    "publisherId": "shinshokan",
+    "labelId": "dear-plus",
+    "themeIds": [
+      "boys-love",
+      "suspense-psychological",
+      "romance"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 6,
+    "awardResults": [
+      {
+        "awardId": "bl-award",
+        "year": 2015,
+        "result": "コミック部門1位"
+      },
+      {
+        "awardId": "kono-bl-ga-yabai",
+        "year": 2016,
+        "result": "1位"
+      },
+      {
+        "awardId": "sugoi-japan-award",
+        "year": 2017,
+        "result": "マンガ部門3位"
+      }
+    ],
+    "synopsis": "重度の潔癖症に悩む社長秘書・城谷は、通勤電車の中で偶然出会った無愛想なカウンセラー・黒瀬から声をかけられ、苦手なものに一つずつ触れていく独自のカウンセリングを受けることになる。人と触れ合うことすら苦痛だった城谷が、10段階のステップを一つずつクリアしていく過程で、次第に黒瀬への特別な感情に気づいていく姿を丁寧に描く。",
+    "mediaMix": {
+      "anime": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/テンカウント"
+    },
+    "sourceNote": "日本語版Wikipedia『テンカウント』記事(2026-08-03閲覧)で作者・掲載誌(ディアプラス、新書館)・連載期間(2013年7月~2017年11月、全6巻)・受賞歴(BLアワード2015コミック部門1位、このBLがやばい!2016 1位、SUGOI JAPAN Award 2017マンガ部門3位)を確認。2023年に劇場アニメ化が発表されたが2024年1月に制作中止となったため、mediaMix.animeはfalseとした。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "super-lovers",
+    "title": "SUPER LOVERS",
+    "titleKana": "すーぱーらばーず",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "abe-miyuki"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "ciel-tres-tres",
+    "themeIds": [
+      "boys-love",
+      "slice-of-life",
+      "romance"
+    ],
+    "firstPublishedYear": 2009,
+    "status": "ongoing",
+    "volumeCount": 20,
+    "synopsis": "母親が危篤だという嘘の知らせを受けて海外に渡った海棠晴は、現地で大人を信じられず心を閉ざした少年・零と出会い、父親から「今日からお前の弟だ」と告げられる。晴に少しずつ心を開き始めた零だったが、晴の身に起きた事故をきっかけに二人は離れ離れになってしまう。5年後に再会した晴と零が、兄弟という枠を超えていく複雑な関係を描く。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/SUPER_LOVERS_(漫画)"
+    },
+    "sourceNote": "日本語版Wikipedia『SUPER LOVERS (漫画)』記事(2026-08-03閲覧)で作者・連載開始誌(CIEL TresTres、2009年12月号)・既刊巻数(20巻、2025年9月時点)・アニメ化(2016・2017年の2期)を確認。2014年8月よりEmeraldへ移籍しているが、labelIdは連載開始時点のCIEL TresTresを採用。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "love-stage",
+    "title": "LOVE STAGE!!",
+    "titleKana": "らぶすてーじ",
+    "originalAuthorIds": [
+      "eiki-eiki"
+    ],
+    "artistIds": [
+      "zaou-taishi"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "ciel",
+    "themeIds": [
+      "boys-love",
+      "comedy",
+      "romance"
+    ],
+    "firstPublishedYear": 2010,
+    "latestPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 7,
+    "synopsis": "芸能一家に生まれながら唯一の一般人として漫画家を目指すオタク大学生・瀬名泉は、家業の仕事で渋々出演したCM撮影で、人気俳優・一条龍馬と再会する。実は龍馬は10年前に女の子だと勘違いして泉に一目惚れしており、性別が男だと知った今もその想いは変わっていなかった。芸能界を舞台に繰り広げられる、すれ違いだらけのドタバタ相思相愛ラブコメディ。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/LOVE_STAGE!!"
+    },
+    "sourceNote": "日本語版Wikipedia『LOVE STAGE!!』記事(2026-08-03閲覧)で原作(影木栄貴)・作画(蔵王大志)・掲載誌(CIEL、2010年)・連載期間(単行本2011年~2016年、全7巻)・アニメ化(2014年)を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
   }
 ]

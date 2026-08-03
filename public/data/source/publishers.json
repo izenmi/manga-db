@@ -441,5 +441,38 @@
     },
     "sourceNote": "日本語版Wikipedia『文藝春秋』『アドルフに告ぐ』記事(2026-08-03閲覧)で確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ota-shuppan",
+    "name": "太田出版",
+    "nameKana": "おおたしゅっぱん",
+    "description": "サブカルチャー・人文書からコミックまで幅広く手がける出版社。『青い花』が連載された『マンガ・エロティクスエフ』を発行する。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/太田出版"
+    },
+    "sourceNote": "日本語版Wikipedia『太田出版』『青い花 (漫画)』記事(2026-08-03閲覧)で確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "shinshokan",
+    "name": "新書館",
+    "nameKana": "しんしょかん",
+    "description": "BL誌『ディアプラス』等を発行する出版社。演劇・バレエ関連書籍でも知られる老舗出版社。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/新書館"
+    },
+    "sourceNote": "日本語版Wikipedia『新書館』『テンカウント』記事(2026-08-03閲覧)で確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "taiyo-tosho",
+    "name": "大洋図書",
+    "nameKana": "たいようとしょ",
+    "description": "BL誌『ihr HertZ』等を発行する出版社。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/大洋図書"
+    },
+    "sourceNote": "日本語版Wikipedia『囀る鳥は羽ばたかない』記事(2026-08-03閲覧)で掲載誌の発行元として確認。",
+    "updatedAt": "2026-08-03"
   }
 ]
