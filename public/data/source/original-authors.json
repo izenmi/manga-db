@@ -1266,5 +1266,69 @@
     },
     "sourceNote": "日本語版Wikipedia『夏緑』記事(2026-08-03閲覧)で読み・経歴・代表作を確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "nigatsu-kou",
+    "name": "二月公",
+    "nameKana": "にがつこう",
+    "description": "ライトノベル作家。『声優ラジオのウラオモテ』原作者。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/声優ラジオのウラオモテ"
+    },
+    "sourceNote": "日本語版Wikipedia『声優ラジオのウラオモテ』記事(2026-08-03閲覧)で原作者として確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kumeta-koji",
+    "name": "久米田康治",
+    "nameKana": "くめたこうじ",
+    "description": "漫画家。『さよなら絶望先生』などで知られ、『じょしらく』では原作を担当した。",
+    "externalLinks": {},
+    "sourceNote": "ebookjapan/BOOK☆WALKER『じょしらく』商品ページ(2026-08-03閲覧)で原作者として確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "motoazabu-factory",
+    "name": "元麻布ファクトリー",
+    "nameKana": "もとあざぶふぁくとりー",
+    "description": "『AKB49〜恋愛禁止条例〜』の原作(原案)を担当した制作者名義。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/AKB49〜恋愛禁止条例〜"
+    },
+    "sourceNote": "日本語版Wikipedia『AKB49〜恋愛禁止条例〜』記事(2026-08-03閲覧)で原作者として確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kouno-sakurako",
+    "name": "公野櫻子",
+    "nameKana": "こうのさくらこ",
+    "description": "シナリオライター。『ラブライブ!』シリーズの原作・原案を多数手がける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ラブライブ!"
+    },
+    "sourceNote": "日本語版Wikipedia『ラブライブ!』記事(2026-08-03閲覧)で漫画版の原作・原案担当として確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "matayoshi-naoki",
+    "name": "又吉直樹",
+    "nameKana": "またよしなおき",
+    "description": "お笑いコンビ「ピース」のボケ担当にして作家。小説『火花』で第153回芥川賞を受賞。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/又吉直樹"
+    },
+    "sourceNote": "日本語版Wikipedia等(2026-08-03閲覧)で小説『火花』原作者・漫画版原作クレジットを確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "asano-masumi",
+    "name": "あさのますみ",
+    "nameKana": "あさのますみ",
+    "description": "声優・児童文学作家。自身の声優としての経験を元に『それが声優!』を原作した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/それが声優!"
+    },
+    "sourceNote": "日本語版Wikipedia『それが声優!』記事(2026-08-03閲覧)で原作者として確認。",
+    "updatedAt": "2026-08-03"
   }
 ]

@@ -4630,5 +4630,96 @@
     },
     "sourceNote": "日本語版Wikipedia『とりのなん子』『とりぱん』両記事(2026-08-03閲覧)で確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "miuchi-suzue",
+    "name": "美内すずえ",
+    "nameKana": "みうちすずえ",
+    "description": "漫画家。『ガラスの仮面』の原作・作画を単独で手がける(オリジナル作品)。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/美内すずえ"
+    },
+    "sourceNote": "日本語版Wikipedia『ガラスの仮面』記事(2026-08-03閲覧)で作者として確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "makimoto-umemi",
+    "name": "巻本梅実",
+    "nameKana": "まきもとうめみ",
+    "description": "漫画家。『声優ラジオのウラオモテ』のコミカライズ作画を担当。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/声優ラジオのウラオモテ"
+    },
+    "sourceNote": "日本語版Wikipedia『声優ラジオのウラオモテ』記事(2026-08-03閲覧)でコミカライズ作画担当として確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "hirao-auri",
+    "name": "平尾アウリ",
+    "nameKana": "ひらおあうり",
+    "description": "漫画家。『推しが武道館いってくれたら死ぬ』の作者(オリジナル作品)。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/推しが武道館いってくれたら死ぬ"
+    },
+    "sourceNote": "日本語版Wikipedia『推しが武道館いってくれたら死ぬ』記事(2026-08-03閲覧)で作者として確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "yasu",
+    "name": "ヤス",
+    "nameKana": "やす",
+    "description": "イラストレーター・漫画家。『じょしらく』の作画を担当。",
+    "externalLinks": {},
+    "sourceNote": "ebookjapan/BOOK☆WALKER『じょしらく』商品ページ(2026-08-03閲覧)で作画担当として確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "miyajima-reiji",
+    "name": "宮島礼吏",
+    "nameKana": "みやじまれいじ",
+    "description": "漫画家。『AKB49〜恋愛禁止条例〜』の作画を担当。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/AKB49〜恋愛禁止条例〜"
+    },
+    "sourceNote": "日本語版Wikipedia『AKB49〜恋愛禁止条例〜』記事(2026-08-03閲覧)で作画担当として確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "tokita-arumi",
+    "name": "鴇田アルミ",
+    "nameKana": "ときたあるみ",
+    "description": "漫画家。『ラブライブ!』漫画版の作画を担当。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ラブライブ!"
+    },
+    "sourceNote": "日本語版Wikipedia『ラブライブ!』記事(2026-08-03閲覧)で漫画版作画担当として確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "mizushina-takayuki",
+    "name": "みずしな孝之",
+    "nameKana": "みずしなたかゆき",
+    "description": "漫画家。『戦え!アナウンサー』の作者(オリジナル作品)。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『戦え!アナウンサー』記事(2026-08-03閲覧)で作者として確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "taketomi-kenji",
+    "name": "武富健治",
+    "nameKana": "たけとみけんじ",
+    "description": "漫画家。『鈴木先生』などで知られ、『火花』の漫画版作画を担当した。",
+    "externalLinks": {},
+    "sourceNote": "BOOK☆WALKER/小学館eコミックストア『火花』商品ページ(2026-08-03閲覧)で作画担当として確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kujira",
+    "name": "KUJIRA",
+    "nameKana": "くじら",
+    "description": "漫画家。『万歳!-MANZAI-』の作者(オリジナル作品)。",
+    "externalLinks": {},
+    "sourceNote": "ホーム社公式サイト『万歳!-MANZAI-』商品ページ(2026-08-03閲覧)で作者として確認。",
+    "updatedAt": "2026-08-03"
   }
 ]

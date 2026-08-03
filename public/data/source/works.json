@@ -16193,5 +16193,312 @@
     },
     "sourceNote": "日本語版Wikipedia『とりぱん』記事(2026-08-03閲覧)で作者・掲載誌(モーニング)・連載開始年(2005年)・既刊巻数(2026年7月時点36巻)・内容を確認。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "garasu-no-kamen",
+    "title": "ガラスの仮面",
+    "titleKana": "がらすのかめん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "miuchi-suzue"
+    ],
+    "publisherId": "hakusensha",
+    "labelId": "hana-to-yume",
+    "themeIds": [
+      "entertainment-industry",
+      "arts"
+    ],
+    "firstPublishedYear": 1976,
+    "status": "unknown",
+    "volumeCount": 49,
+    "synopsis": "貧しい出前持ちの少女・北島マヤは、演劇にのめり込むうちに天賦の演技力を見出され、かつての大女優・月影千草の内弟子となる。名門劇団の令嬢でライバルの姫川亜弓と競い合いながら、伝説の戯曲「紅天女」の主演の座を懸けたオーディションに挑む。恋人・速水真澄との関係も絡む、演劇界を舞台にした長編大河ドラマ。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ガラスの仮面"
+    },
+    "sourceNote": "日本語版Wikipedia『ガラスの仮面』記事(2026-08-03閲覧)で1976年『花とゆめ』連載開始・白泉社刊・アニメ化等を確認。既刊49巻(2012年10月発売)から長期休載が続いており、作者は2024年のインタビューで完結への意欲を表明しているが再開時期未定のためstatusはunknownとした。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "beshari-gurashi",
+    "title": "べしゃり暮らし",
+    "titleKana": "べしゃりぐらし",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "morita-masanori"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "entertainment-industry",
+      "comedy"
+    ],
+    "firstPublishedYear": 2005,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 20,
+    "synopsis": "「学校一のお笑い芸人」を自称する高校生・上妻圭右は、東京から転校してきた辻本潤の実力に衝撃を受け、彼を相方に誘ってコンビを結成する。「きそばAT」から改名した「べしゃり暮らし」として、養成所での修行やアマチュア大会、テレビ出演を経ながら、笑いに人生を懸ける若者たちの葛藤と成長を描く青春群像劇。",
+    "mediaMix": {
+      "anime": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/べしゃり暮らし"
+    },
+    "sourceNote": "日本語版Wikipedia『べしゃり暮らし』記事(2026-08-03閲覧)で確認。2005年『週刊少年ジャンプ』で連載開始後、2007年より『週刊ヤングジャンプ』に移籍し2019年に完結(全20巻)。labelIdは連載開始時点の初出誌である週刊少年ジャンプを採用。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "seiyuu-radio-no-ura-omote",
+    "title": "声優ラジオのウラオモテ",
+    "titleKana": "せいゆうらじおのうらおもて",
+    "originalAuthorIds": [
+      "nigatsu-kou"
+    ],
+    "artistIds": [
+      "makimoto-umemi"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "dengeki-maoh",
+    "themeIds": [
+      "entertainment-industry",
+      "school"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2026,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "学校では素っ気ない関係の女子高生・佐藤由美子と渡辺千佳。実は二人とも若手声優として活動しており、コンビでラジオ番組のパーソナリティーを任されることになる。学校での「表」の顔と声優としての「裏」の顔のギャップに戸惑いながら、収録現場やイベントでの失敗と成長を通して、ライバルであり相棒でもある関係を築いていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/声優ラジオのウラオモテ"
+    },
+    "sourceNote": "二月公によるライトノベル(電撃文庫)のコミカライズ。日本語版Wikipedia『声優ラジオのウラオモテ』記事およびKADOKAWA商品ページ(2026-08-03閲覧)で、2020年『電撃マオウ』で連載開始・全6巻で完結したことを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "oshi-ga-budoukan-ittekuretara-shinu",
+    "title": "推しが武道館いってくれたら死ぬ",
+    "titleKana": "おしがぶどうかんいってくれたらしぬ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hirao-auri"
+    ],
+    "publisherId": "tokuma-shoten",
+    "labelId": "comic-ryu",
+    "themeIds": [
+      "entertainment-industry",
+      "romance"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2025,
+    "status": "completed",
+    "volumeCount": 12,
+    "synopsis": "フリーターのえりは、岡山を拠点に活動する7人組の地下アイドルグループ「ChamJam」で最下位に甘んじるメンバー・舞菜の熱狂的なファンであり、収入のほとんどをファン活動に注ぎ込んでいる。舞菜も内心えりに好意を寄せているが、あまりに押しの強いえりに塩対応してしまい、二人の想いはすれ違い続ける。推しとオタクのいびつで切実な関係を描く。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/推しが武道館いってくれたら死ぬ"
+    },
+    "sourceNote": "日本語版Wikipedia『推しが武道館いってくれたら死ぬ』記事(2026-08-03閲覧)で確認。2015年『月刊COMICリュウ』で連載開始(後にCOMICリュウWEBへ移行)、2025年11月に全12巻で完結。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "joshiraku",
+    "title": "じょしらく",
+    "titleKana": "じょしらく",
+    "originalAuthorIds": [
+      "kumeta-koji"
+    ],
+    "artistIds": [
+      "yasu"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "bessatsu-shonen-magazine",
+    "themeIds": [
+      "entertainment-industry",
+      "comedy"
+    ],
+    "firstPublishedYear": 2009,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "落語家一門に所属する若手の女性噺家5人が、寄席の楽屋でとりとめのないおしゃべりを繰り広げる日常ギャグコメディ。実際の高座での落語シーンはほとんど描かれず、時事ネタやくだらない雑談が延々と続く楽屋トークが中心となる。『さよなら絶望先生』の久米田康治が原作を手がけ、演芸界を舞台にゆるく毒のある笑いを描く。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/じょしらく"
+    },
+    "sourceNote": "日本語版Wikipedia『じょしらく』記事(2026-08-03閲覧)で確認。2009年『別冊少年マガジン』で連載開始、2013年に全6巻で完結。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "akb49-renai-kinshi-jourei",
+    "title": "AKB49〜恋愛禁止条例〜",
+    "titleKana": "AKB49-れんあいきんしじょうれい-",
+    "originalAuthorIds": [
+      "motoazabu-factory"
+    ],
+    "artistIds": [
+      "miyajima-reiji"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "entertainment-industry",
+      "comedy"
+    ],
+    "firstPublishedYear": 2010,
+    "latestPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 29,
+    "synopsis": "アイドルオタクの高校生男子・浦川翔太は、想いを寄せる先輩の後を追い、国民的アイドルグループ「AKB49」のオーディションに女装して合格してしまう。「浦川実乃梨」として研究生生活を送りながら、恋愛が禁止された芸能界の掟と正体がばれる危機に振り回されつつ、正規メンバー入りを目指していくアイドル業界コメディ。",
+    "mediaMix": {
+      "anime": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/AKB49〜恋愛禁止条例〜"
+    },
+    "sourceNote": "日本語版Wikipedia『AKB49〜恋愛禁止条例〜』記事(2026-08-03閲覧)で確認。2010年『週刊少年マガジン』で連載開始、2016年に全29巻で完結。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "love-live",
+    "title": "ラブライブ!",
+    "titleKana": "らぶらいぶ",
+    "originalAuthorIds": [
+      "kouno-sakurako"
+    ],
+    "artistIds": [
+      "tokita-arumi"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "dengeki-gs-magazine",
+    "themeIds": [
+      "entertainment-industry",
+      "school"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2017,
+    "status": "unknown",
+    "volumeCount": 5,
+    "synopsis": "生徒数減少で廃校の危機にある音ノ木坂学院を救うため、高坂穂乃果はスクールアイドルグループの結成を思い立つ。幼なじみのことり・海未や後輩の凛たちを巻き込みながら奔走し、最終的に9人が揃って「μ's」を結成。日本一のスクールアイドルを決める祭典「ラブライブ!」での優勝を目指し、学校存続を懸けて活動していく。",
+    "mediaMix": {
+      "anime": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ラブライブ!"
+    },
+    "sourceNote": "日本語版Wikipedia『ラブライブ!』記事(2026-08-03閲覧)で確認。2012年『電撃G's magazine』で連載開始(電撃G'sコミックへの一時移籍を経て復帰)、既刊5巻(2017年5月時点)。掲載誌『電撃G's magazine』の休刊により2017年11月号を最後に長期休載中で未完のためstatusはunknownとした。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "tatakae-announcer",
+    "title": "戦え!アナウンサー",
+    "titleKana": "たたかえあなうんさー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mizushina-takayuki"
+    ],
+    "publisherId": "hakusensha",
+    "labelId": "young-animal",
+    "themeIds": [
+      "entertainment-industry",
+      "comedy"
+    ],
+    "firstPublishedYear": 1997,
+    "latestPublishedYear": 2003,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "お台場にある架空のテレビ局「マルテレビ」を舞台に、個性豊かな男女アナウンサーたちが、生放送でのハプニングや局内の人間関係、視聴率競争に振り回されながらも奮闘する日々をテンポよく描く4コマギャグ漫画。朝・昼・夜のニュースや情報番組といった時間帯ごとの現場の空気も交えつつ、華やかに見えるテレビ局の裏側にある泥臭さや理不尽さをコミカルに切り取った作品。",
+    "mediaMix": {
+      "anime": false
+    },
+    "externalLinks": {},
+    "sourceNote": "Web検索で確認できた複数の書誌情報(2026-08-03閲覧)で、みずしな孝之作、白泉社『ヤングアニマル』にて1997年〜2003年連載・全6巻であることを確認。日本語版Wikipedia記事は未確認のため出版社サイト等の情報を用いた。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "hibana",
+    "title": "火花",
+    "titleKana": "ひばな",
+    "originalAuthorIds": [
+      "matayoshi-naoki"
+    ],
+    "artistIds": [
+      "taketomi-kenji"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-spirits",
+    "themeIds": [
+      "entertainment-industry",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "熱海の花火大会の営業先で、売れない若手漫才師の徳永は、四つ年上の先輩芸人・神谷の型破りな生き様と独自の芸人哲学に強く魅了され、弟子にしてほしいと志願する。芽が出ないまま歳を重ねる中で互いに影響を与え合いながらもすれ違っていく二人の姿を通し、お笑いという生き方に人生を懸けた者たちの誇りと挫折、友情を描く人間ドラマ。",
+    "mediaMix": {
+      "anime": false
+    },
+    "externalLinks": {},
+    "sourceNote": "又吉直樹の芥川賞受賞小説『火花』(2015年、文藝春秋)のコミカライズ。BOOK☆WALKER・小学館eコミックストア等の書誌情報(2026-08-03閲覧)で、武富健治作画により2016年『週刊ビッグコミックスピリッツ』で連載開始、全2巻で完結したことを確認。日本語版Wikipedia『火花』記事は小説本体が主な内容だったため、漫画版の書誌詳細は出版社系の電子書店情報で補完した。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "banzai-manzai",
+    "title": "万歳!-MANZAI-",
+    "titleKana": "ばんざいまんざい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kujira"
+    ],
+    "publisherId": "homesha",
+    "labelId": "spinel",
+    "themeIds": [
+      "entertainment-industry",
+      "comedy"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "幼い頃から漫才師を志していた田中哲夫は、一度は夢に挫折するものの、幼なじみの白井と再びコンビを組み直し「万歳」を結成する。大阪から上京し、慣れない東京の舞台での度重なる失敗やコンビ間のすれ違いを乗り越えながら、養成所の仲間たちにも支えられて少しずつ才能を見出されていく姿を描く、漫才師を目指す者たちの青春ギャグ漫画。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia記事は未確認のため、ホーム社公式サイトの商品ページおよびマンガペディア(2026-08-03閲覧)で確認。KUJIRA作、ホーム社のWebコミックサイト『スピネル』にて2016年4月連載開始、2018年1月発売の第2巻で完結。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "sore-ga-seiyuu",
+    "title": "それが声優!",
+    "titleKana": "それがせいゆう",
+    "originalAuthorIds": [
+      "asano-masumi"
+    ],
+    "artistIds": [
+      "hata-kenjirou"
+    ],
+    "publisherId": "ichijinsha",
+    "labelId": "hajimemashite-doujin-web",
+    "themeIds": [
+      "entertainment-industry",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2011,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "新人声優の双葉・いちご・凛の3人は、同じ収録現場で出会ったことをきっかけに、声優ユニット「イヤホンズ」を結成する。性格も家庭環境もばらばらな3人が、オーディションの結果に一喜一憂し、初めての収録現場やイベントでの数々の失敗を乗り越えながら、声優という仕事の厳しさとやりがいを実感していく日常コメディ。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/それが声優!"
+    },
+    "sourceNote": "日本語版Wikipedia『それが声優!』記事(2026-08-03閲覧)で確認。声優・あさのますみと漫画家・畑健二郎による同人サークル「はじめまして。」名義で2011年12月にコミックマーケット81で頒布開始、並行してWebブログでも連載。2015年のテレビアニメ化に合わせ一迅社(5巻のみ講談社と共同)より商業単行本化され全5巻(2017年12月完結)。通常の雑誌連載と異なる特殊な連載形態のため、firstPublishedYearは同人・Web版の開始年(2011年)を採用し、labelIdは便宜上の新規レーベルを設定した。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
   }
 ]

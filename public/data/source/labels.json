@@ -1766,5 +1766,55 @@
     "externalLinks": {},
     "sourceNote": "秋乃茉莉『Petshop of Horrors』の1995年連載開始時点の初出掲載誌として、複数の書誌情報サイト(cmoa.jp等、2026-08-03閲覧)で確認。Wikipedia記事は未確認のためexternalLinksは空。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "dengeki-maoh",
+    "name": "電撃マオウ",
+    "nameKana": "でんげきまおう",
+    "publisherId": "kadokawa",
+    "description": "KADOKAWAが刊行していたコミック雑誌。『声優ラジオのウラオモテ』はここで連載を開始した(後にカドコミへ移籍)。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『声優ラジオのウラオモテ』記事(2026-08-03閲覧)で初出誌として確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "comic-ryu",
+    "name": "月刊COMICリュウ",
+    "nameKana": "げっかんこみっくりゅう",
+    "publisherId": "tokuma-shoten",
+    "description": "徳間書店が刊行していたコミック雑誌(後にWeb版COMICリュウWEBへ移行)。『推しが武道館いってくれたら死ぬ』の初出誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『推しが武道館いってくれたら死ぬ』記事(2026-08-03閲覧)で初出誌として確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "dengeki-gs-magazine",
+    "name": "電撃G's magazine",
+    "nameKana": "でんげきじーずまがじん",
+    "publisherId": "kadokawa",
+    "description": "KADOKAWA(アスキー・メディアワークス)発行の雑誌。『ラブライブ!』漫画版の連載誌(電撃G'sコミックへの一時移籍を経て復帰)。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『ラブライブ!』記事(2026-08-03閲覧)で連載誌として確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "spinel",
+    "name": "スピネル",
+    "nameKana": "すぴねる",
+    "publisherId": "homesha",
+    "description": "ホーム社が2016年3月に開設したWebコミックサイト。2022年に「Z」「ねこねこ横丁」と統合され「COMIC OGYAAA!!」となった。『万歳!-MANZAI-』の連載媒体。",
+    "externalLinks": {},
+    "sourceNote": "Web検索(ホーム社の沿革・プレスリリース、2026-08-03閲覧)でスピネルの開設・統合経緯を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "hajimemashite-doujin-web",
+    "name": "同人サークル「はじめまして。」(それが声優!)",
+    "nameKana": "どうじんさーくるはじめまして",
+    "publisherId": "ichijinsha",
+    "description": "あさのますみ・畑健二郎による同人サークル「はじめまして。」名義での自主制作・Webブログ連載作品。2015年のテレビアニメ化に合わせ一迅社(一部巻はローソンHMVエンタテイメント・講談社と共同)より商業単行本化された。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『それが声優!』記事(2026-08-03閲覧)で、同人誌・Webブログ連載として始まり後に商業化された経緯を確認。通常の雑誌連載ではないため便宜上のレーベルとして登録。",
+    "updatedAt": "2026-08-03"
   }
 ]

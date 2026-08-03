@@ -486,5 +486,17 @@
     },
     "sourceNote": "日本語版Wikipedia『宙出版』記事および宙出版公式サイト(ohzora.jp、2026-08-03閲覧)で読み(おおぞらしゅっぱん)・沿革を確認。『Petshop of Horrors』の初出掲載誌『アップルミステリー』の発行元として新規追加。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "homesha",
+    "name": "ホーム社",
+    "nameKana": "ほーむしゃ",
+    "parentCompany": "集英社",
+    "description": "集英社グループの出版社。女性向けコミック・小説などを刊行し、Webコミックサイト「スピネル」(後にCOMIC OGYAAA!!へ統合)を運営していた。",
+    "externalLinks": {
+      "officialUrl": "https://www.homesha.co.jp/"
+    },
+    "sourceNote": "ホーム社公式サイト(2026-08-03閲覧)で集英社グループの出版社であることを確認。",
+    "updatedAt": "2026-08-03"
   }
 ]
