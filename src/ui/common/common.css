@@ -208,7 +208,10 @@ h1 {
    column left a lot of unused horizontal space on desktop widths. */
 .work-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(450px, 1fr));
+  /* min(450px, 100%) instead of a bare 450px — a bare minmax lower bound still forces that
+     track width even when the container is narrower, overflowing it (and the page) on mobile
+     instead of collapsing to a single full-width column. */
+  grid-template-columns: repeat(auto-fill, minmax(min(450px, 100%), 1fr));
   gap: 6px;
 }
 
