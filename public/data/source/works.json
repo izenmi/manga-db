@@ -15877,5 +15877,321 @@
     },
     "sourceNote": "日本語版Wikipedia『妖怪ウォッチ』記事(2026-08-03閲覧)で原作(レベルファイブ)・月刊コロコロコミック版の作画者(小西紀行)・連載開始(2012年12月15日、2013年1月号)・完結(2023年、全23巻)を確認。原作はゲーム企画元のレベルファイブ(企業)のためoriginalAuthorIdsに登録し、既存データの「GAINAX」と同様の扱いとした。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ginga-nagareboshi-gin",
+    "title": "銀牙 -流れ星 銀-",
+    "titleKana": "ぎんがながれぼしぎん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "takahashi-yoshihiro"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "animal",
+      "adventure"
+    ],
+    "firstPublishedYear": 1983,
+    "latestPublishedYear": 1987,
+    "status": "completed",
+    "volumeCount": 18,
+    "synopsis": "北海道の山中で祖父と父を人食い熊「赤カブト」に殺された秋田犬・銀は、その血と仇討ちの宿命を胸に秘めて育つ。長じた銀は全国から集まった気骨ある野犬たちと猟犬部隊「奥羽軍」を結成し、幾多の死闘と仲間との別れ、そして自らの成長を経ながら、宿敵・赤カブト打倒に挑んでいく。犬同士の会話を人語に置き換えることで彼らの友情・結束・誇りを描き出した、動物冒険漫画の金字塔的存在。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1987,
+        "result": "受賞(第32回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/銀牙_-流れ星_銀-"
+    },
+    "sourceNote": "日本語版Wikipedia『銀牙 -流れ星 銀-』『高橋よしひろ』両記事(2026-08-03閲覧)で連載期間・掲載誌・受賞歴・アニメ化を確認。既刊巻数はジャンプ・コミックス版全18巻を採用(文庫版全10巻は別編集のため未採用)。小学館漫画賞の受賞部門名までは情報源で明記されていなかったため'受賞'とだけ記載。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "chiizu-sweet-home",
+    "title": "チーズスイートホーム",
+    "titleKana": "ちーずすいーとほーむ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "konami-kanata"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning",
+    "themeIds": [
+      "animal",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2004,
+    "latestPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 12,
+    "synopsis": "散歩中にはぐれて迷子になっていた白い子猫を、偶然通りかかった山田家の親子が拾う。実はペット禁止のマンションで暮らす山田家は、こっそり子猫「チー」を育て始めるが、やがてペット可のマンションへ引っ越し、正式に家族として迎え入れられる。新しい環境や先住猫との交流を通じて少しずつ世界を広げていく子猫の姿を、当人(猫)目線の一人称スタイルで綴った、フルカラーの癒し系日常漫画。",
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/チーズスイートホーム"
+    },
+    "sourceNote": "日本語版Wikipedia『チーズスイートホーム』記事(2026-08-03閲覧)で作者・掲載誌・連載期間・既刊巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "whats-michael",
+    "title": "ホワッツマイケル",
+    "titleKana": "ほわっつまいける",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kobayashi-makoto"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning",
+    "themeIds": [
+      "animal",
+      "comedy"
+    ],
+    "firstPublishedYear": 1984,
+    "latestPublishedYear": 2003,
+    "status": "completed",
+    "volumeCount": 9,
+    "synopsis": "人間社会をそのまま猫だらけの街に置き換えたような世界を舞台に、口ひげとダンスが得意な暴れん坊猫マイケルの奔放な行動と、周囲の猫たち・飼い主一家との間で巻き起こる悲喜こもごもを一話完結形式で描く連作コメディ。猫の生態や習性を大胆に擬人化・デフォルメして笑いに変える手法は後続の猫漫画・動物コメディにも大きな影響を与え、講談社漫画賞一般部門を受賞した。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1986,
+        "result": "一般部門(第10回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ホワッツマイケル"
+    },
+    "sourceNote": "日本語版Wikipedia『ホワッツマイケル』記事(2026-08-03閲覧)で連載期間(1984-1989年、2001年イブニング誌上で再開し2003年に第9巻完結)・受賞歴・アニメ化を確認。firstPublishedYear/latestPublishedYearは本編連載開始年と最終巻刊行年を採用。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "juui-dolittle",
+    "title": "獣医ドリトル",
+    "titleKana": "じゅういどりとる",
+    "originalAuthorIds": [
+      "natsumidori"
+    ],
+    "artistIds": [
+      "chikuyama-kiyoshi"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic",
+    "themeIds": [
+      "animal",
+      "medical"
+    ],
+    "firstPublishedYear": 2001,
+    "latestPublishedYear": 2014,
+    "status": "completed",
+    "volumeCount": 20,
+    "synopsis": "東京の下町で動物病院を営む獣医・十時啓一郎は、治療費や経営面ではシビアな現実主義者を自認する一方、動物だけでなく飼い主の事情や生活環境にまで目を配り、命と真摯に向き合っていく。ペットから野生動物、時には人間社会の闇まで様々な症例を通じて、獣医療の現実と人と動物の複雑な関わりを描いた社会派医療漫画。2010年にはTBSでテレビドラマ化もされた。",
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/獣医ドリトル"
+    },
+    "sourceNote": "日本語版Wikipedia『獣医ドリトル』記事(2026-08-03閲覧)で原作・作画・掲載誌・連載期間・既刊巻数・ドラマ化を確認。初出は『ビッグコミック増刊号』(ビッグコミックの増刊)で、後に本誌『ビッグコミック』にも掲載されたため、既存レーベルbig-comicを採用(増刊専用の新規レーベルは追加せず)。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "inubu-bokura-no-shippo-senki",
+    "title": "犬部！ボクらのしっぽ戦記",
+    "titleKana": "いぬぶぼくらのしっぽせんき",
+    "originalAuthorIds": [
+      "katano-yuka"
+    ],
+    "artistIds": [
+      "takakura-yoki"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "animal",
+      "school"
+    ],
+    "firstPublishedYear": 2011,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "東北の大学に実在する学生サークル「犬部」を題材に、キャンパスや地域で保護した飼い主のいない犬たちを、獣医学部の設備や知識も活かしながら世話をし、新しい飼い主のもとへ送り出そうと奮闘する部員たちの姿を描く。片野ゆかによるノンフィクション作品を原作に、失敗や葛藤を重ねながら犬の命と向き合う若者たちの成長を描いた青春群像劇。2021年には実写映画化もされた。",
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/犬部!"
+    },
+    "sourceNote": "日本語版Wikipedia『犬部!』記事(2026-08-03閲覧)で原作・作画・掲載誌(週刊少年サンデー)・連載期間・既刊巻数・映画化を確認。原作者片野ゆかのノンフィクション書籍が原作のためoriginalAuthorIdsに設定。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "chinju-no-oishasan",
+    "title": "珍獣のお医者さん",
+    "titleKana": "ちんじゅうのおいしゃさん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ninomiya-kano"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "harta",
+    "themeIds": [
+      "animal",
+      "medical"
+    ],
+    "firstPublishedYear": 2022,
+    "status": "ongoing",
+    "volumeCount": 4,
+    "synopsis": "犬猫以外の「珍獣」、すなわちトカゲやタランチュラ、リスザルといった一風変わったエキゾチックアニマルを専門に診る動物病院が舞台。新米獣医師が、飼育情報も乏しい個性豊かな患者たちの珍しい症例ひとつひとつに奮闘しながら、知られざる生態や飼い主との向き合い方を少しずつ学んでいく姿をコミカルに描く、獣医漫画の中でも珍しい切り口の連載作品。",
+    "externalLinks": {
+      "officialUrl": "https://www.harta.jp/articles/001018.html"
+    },
+    "sourceNote": "KADOKAWA公式商品ページ・ハルタ公式サイト(harta.jp)・複数電子書店サイト(2026-08-03閲覧)で作者・掲載誌(月刊ハルタ)・連載開始時期(2022年)・既刊巻数(2025年時点4巻)を確認。日本語版Wikipediaに単独記事は未確認のためexternalLinksは公式サイトを使用。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "shippo-machi-no-koo-sensei",
+    "title": "しっぽ街のコオ先生",
+    "titleKana": "しっぽまちのこおせんせい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tarasawa-michi"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "office-you",
+    "themeIds": [
+      "animal",
+      "medical"
+    ],
+    "firstPublishedYear": 2017,
+    "status": "ongoing",
+    "volumeCount": 20,
+    "synopsis": "神楽坂の情緒あふれる街で動物病院を営む人情派獣医・コオ先生のもとに、経験の浅い新米獣医師二人が加わることになった。動物思いだが少々お人好しなコオ先生と、まだ頼りない若手獣医師たちが、動物病院の改装をきっかけに繰り広げる、街の人々とペットたちとの温かい交流の日々を描く。同作者による『MF動物病院日誌』から続く動物病院シリーズの最新作。",
+    "externalLinks": {
+      "officialUrl": "https://www.shueisha.co.jp/books/items/contents.html?isbn=978-4-420-15484-0"
+    },
+    "sourceNote": "日本語版Wikipedia『たらさわみち』記事および集英社公式書誌ページ(2026-08-03閲覧)で作者・掲載誌(月刊office YOU)・連載開始年(2017年)・既刊巻数(2026年時点20巻)を確認。作品単独のWikipedia記事は未確認のためexternalLinksは出版社公式ページを使用。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "petshop-of-horrors",
+    "title": "Petshop of Horrors",
+    "titleKana": "ぺっとしょっぷおぶほらーず",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "akino-matsuri"
+    ],
+    "publisherId": "ohzora-shuppan",
+    "labelId": "apple-mystery",
+    "themeIds": [
+      "animal",
+      "horror"
+    ],
+    "firstPublishedYear": 1995,
+    "latestPublishedYear": 2000,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "ロサンゼルスのチャイナタウンにひっそりと構える、奇妙なペットショップ。中国人青年の店主D伯爵が客に譲る動物たちは、それぞれ厳格な契約を交わす条件付きで、飼い主が抱える隠れた欲望や心の闇を映し出すかのように、不可解で恐ろしい出来事を引き起こしていく。動物と人間の業を絡めた一話完結形式のダークファンタジー・ミステリー。1999年にはテレビアニメ化もされた。",
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Petshop_of_Horrors"
+    },
+    "sourceNote": "日本語版Wikipedia『Petshop of Horrors』記事および複数書誌情報サイト(2026-08-03閲覧)で作者・初出掲載誌(宙出版『アップルミステリー』、1995年連載開始)・既刊巻数(ミッシィコミックス版全10巻)・アニメ化を確認。1998年の雑誌休刊後は『ホラーM』(ぶんか社)に移籍したが、labelIdは連載開始時点の初出媒体を採用する方針に従いアップルミステリーとした。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "magmell-shinkai-suizokukan",
+    "title": "マグメル深海水族館",
+    "titleKana": "まぐめるしんかいすいぞくかん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "sugishita-kiyomi"
+    ],
+    "publisherId": "shinchosha",
+    "labelId": "kurage-bunch",
+    "themeIds": [
+      "animal",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2017,
+    "status": "ongoing",
+    "volumeCount": 10,
+    "synopsis": "東京湾の水深200メートルに実在するという設定の、世界で唯一の水族館「マグメル深海水族館」。清掃アルバイトとして働くことになった青年・天城航太郎は、風変わりな館長・大瀬崎湊人や個性豊かな飼育員たちと出会い、ダイオウイカをはじめとする深海生物たちの知られざる生態や、来館者とのささやかな交流を通じて少しずつ成長していく、深海をテーマにした職場群像劇。",
+    "externalLinks": {
+      "officialUrl": "https://www.shinchosha.co.jp/book/772029/"
+    },
+    "sourceNote": "新潮社公式書誌ページ・くらげバンチ公式サイト(kuragebunch.com)・複数電子書店サイト(2026-08-03閲覧)で作者・掲載媒体(くらげバンチ)・連載開始年(2017年)・既刊巻数(2025年時点10巻)を確認。日本語版Wikipediaに単独記事は未確認のためexternalLinksは出版社公式ページを使用。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "sekai-no-owari-ni-shibainu-to",
+    "title": "世界の終わりに柴犬と",
+    "titleKana": "せかいのおわりにしばいぬと",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ishihara-yuu"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "comic-walker",
+    "themeIds": [
+      "animal",
+      "sci-fi"
+    ],
+    "firstPublishedYear": 2018,
+    "status": "ongoing",
+    "volumeCount": 4,
+    "synopsis": "文明が崩壊し、人の姿がほとんど見当たらなくなった世界。「ご主人」と呼ばれる女子高生は、忠実な柴犬ハルさんや、旅の途中で出会う他の犬たちや動物たち、時には人外の者や異星人めいた存在とともに、荒廃した街をあてもなく旅していく。もとは作者個人のTwitter(現X)で発表され累計30万リツイートを超えて話題を呼んだ、犬と少女の静かな終末ロードムービー的日常漫画。",
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/世界の終わりに柴犬と"
+    },
+    "sourceNote": "日本語版Wikipedia『世界の終わりに柴犬と』記事(2026-08-03閲覧)で経緯・既刊巻数(2022年時点4巻)・メディアミックスを確認。2018年にTwitterで発表後、同年3月27日からKADOKAWAの『コミックウォーカー』で正式配信開始、同年11月にMFC(KADOKAWA)より単行本化。labelIdは初出配信媒体のコミックウォーカーを採用。mediaMix.animeは2022年配信開始のYouTubeショートアニメを指す(通常のテレビアニメではない旨をここに明記)。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "toripan",
+    "title": "とりぱん",
+    "titleKana": "とりぱん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "torino-nanko"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning",
+    "themeIds": [
+      "animal",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2005,
+    "status": "ongoing",
+    "volumeCount": 36,
+    "synopsis": "東北の街に暮らす作者が、実家や仕事場の庭先に手作りの餌台を設置し、季節ごとに集まってくる野鳥たちを観察したり餌付けしたりする、のんびりとした日常を綴った4コマエッセイ漫画。話数が進むにつれて庭に居着いた野良猫や昆虫、草花なども登場するようになり、身近な自然や生き物への愛情がじんわりとにじみ出る長寿連載作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/とりぱん"
+    },
+    "sourceNote": "日本語版Wikipedia『とりぱん』記事(2026-08-03閲覧)で作者・掲載誌(モーニング)・連載開始年(2005年)・既刊巻数(2026年7月時点36巻)・内容を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
   }
 ]

@@ -4521,5 +4521,114 @@
     },
     "sourceNote": "日本語版Wikipedia『妖怪ウォッチ』記事(2026-08-03閲覧)で作画担当者として確認。人物単独記事は未確認のため作品記事を出典とした。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "takahashi-yoshihiro",
+    "name": "高橋よしひろ",
+    "nameKana": "たかはしよしひろ",
+    "description": "漫画家。『週刊少年ジャンプ』を中心に活動し、代表作『銀牙 -流れ星 銀-』で秋田犬をはじめとする野犬たちの群像劇を描き、国内外で高い人気を得た。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/高橋よしひろ"
+    },
+    "sourceNote": "日本語版Wikipedia『高橋よしひろ』記事(2026-08-03閲覧)で確認。少女漫画家の高橋留美子とは同姓の別人。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "konami-kanata",
+    "name": "こなみかなた",
+    "nameKana": "こなみかなた",
+    "description": "漫画家。迷い子猫の日常を描いた『チーズスイートホーム』で知られ、フルカラー・オールカラーの猫漫画を数多く手がけている。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『チーズスイートホーム』記事(2026-08-03閲覧)で作者名・経歴を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kobayashi-makoto",
+    "name": "小林まこと",
+    "nameKana": "こばやしまこと",
+    "description": "漫画家。『What's Michael?』『柔道部物語』などで知られ、擬人化した猫社会を描くコメディ漫画で講談社漫画賞を受賞した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/小林まこと"
+    },
+    "sourceNote": "日本語版Wikipedia『小林まこと』『ホワッツマイケル』両記事(2026-08-03閲覧)で確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "chikuyama-kiyoshi",
+    "name": "ちくやまきよし",
+    "nameKana": "ちくやまきよし",
+    "description": "漫画家。夏緑原作『獣医ドリトル』の作画を担当し、動物病院を舞台にした人間ドラマを描いた。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『獣医ドリトル』記事(2026-08-03閲覧)で作画担当として確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "takakura-yoki",
+    "name": "高倉陽樹",
+    "nameKana": "たかくらようき",
+    "description": "漫画家。大の犬好きとして知られ、実在の大学犬保護サークルを題材にしたノンフィクション『犬部！』を原作に『犬部！ボクらのしっぽ戦記』の作画を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『犬部!』記事(2026-08-03閲覧)で作画担当として確認。読み(なめかな)は複数の書誌情報サイトを参照した推定表記で、確定した公式ふりがなは未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ninomiya-kano",
+    "name": "二宮香乃",
+    "nameKana": "にのみやかの",
+    "description": "漫画家。エキゾチックアニマル専門の動物病院を舞台にした『珍獣のお医者さん』を『ハルタ』(KADOKAWA)で連載している。",
+    "externalLinks": {},
+    "sourceNote": "KADOKAWA公式商品ページ・ハルタ公式サイト(harta.jp、2026-08-03閲覧)で作者名・連載誌を確認。日本語版Wikipediaに単独記事は未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "tarasawa-michi",
+    "name": "たらさわみち",
+    "nameKana": "たらさわみち",
+    "description": "漫画家。動物病院を舞台にした『MF動物病院日誌』『僕とシッポと神楽坂』『しっぽ街のコオ先生』など、獣医・コオ先生を主人公にした一連のシリーズを長く手がけている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/たらさわみち"
+    },
+    "sourceNote": "日本語版Wikipedia『たらさわみち』記事(2026-08-03閲覧)で経歴・代表作を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "akino-matsuri",
+    "name": "秋乃茉莉",
+    "nameKana": "あきのまつり",
+    "description": "漫画家。伏線を張り巡らせた展開とどんでん返しを得意とし、ファンタジー・ミステリー色の強い作品が多い。代表作『Petshop of Horrors』は謎めいたペットショップを舞台にした一話完結の連作。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/秋乃茉莉"
+    },
+    "sourceNote": "日本語版Wikipedia『秋乃茉莉』記事(2026-08-03閲覧)で読み・経歴・代表作を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "sugishita-kiyomi",
+    "name": "椙下聖海",
+    "nameKana": "すぎしたきよみ",
+    "description": "漫画家。深海生物をテーマにした『マグメル深海水族館』で、架空の深海水族館を舞台にした人間ドラマを描いている。",
+    "externalLinks": {},
+    "sourceNote": "マンガペディア『椙下聖海』記事・複数の書誌情報サイト(2026-08-03閲覧)で読みを確認。日本語版Wikipediaに単独記事は未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ishihara-yuu",
+    "name": "石原雄",
+    "nameKana": "いしはらゆう",
+    "description": "漫画家。自身のTwitter(現X)で発表した柴犬と少女の物語『世界の終わりに柴犬と』が累計30万リツイートを超える話題作となり、書籍化された。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『世界の終わりに柴犬と』記事(2026-08-03閲覧)で作者名・経緯を確認。作者個人のWikipedia単独記事は未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "torino-nanko",
+    "name": "とりのなん子",
+    "nameKana": "とりのなんこ",
+    "description": "漫画家。岩手県出身、盛岡市在住。実家や仕事場の庭に集まる野鳥を観察するエッセイ漫画『とりぱん』を『モーニング』で長期連載している。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/とりのなん子"
+    },
+    "sourceNote": "日本語版Wikipedia『とりのなん子』『とりぱん』両記事(2026-08-03閲覧)で確認。",
+    "updatedAt": "2026-08-03"
   }
 ]

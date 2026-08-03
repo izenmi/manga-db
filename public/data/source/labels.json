@@ -1756,5 +1756,15 @@
     },
     "sourceNote": "日本語版Wikipedia『Champion タップ!』記事(2026-08-03閲覧)で開設・統合の経緯を確認。「魔法少女サイト」の連載開始時点(2013年)の初出媒体として新規追加。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "apple-mystery",
+    "name": "アップルミステリー",
+    "nameKana": "あっぷるみすてりー",
+    "publisherId": "ohzora-shuppan",
+    "description": "宙出版が刊行していた女性向けミステリー漫画雑誌。1998年に休刊し、以降の連載は同社の『月刊ホラーM』(ぶんか社)へ移った作品もある。",
+    "externalLinks": {},
+    "sourceNote": "秋乃茉莉『Petshop of Horrors』の1995年連載開始時点の初出掲載誌として、複数の書誌情報サイト(cmoa.jp等、2026-08-03閲覧)で確認。Wikipedia記事は未確認のためexternalLinksは空。",
+    "updatedAt": "2026-08-03"
   }
 ]

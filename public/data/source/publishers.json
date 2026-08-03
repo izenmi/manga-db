@@ -474,5 +474,17 @@
     },
     "sourceNote": "日本語版Wikipedia『囀る鳥は羽ばたかない』記事(2026-08-03閲覧)で掲載誌の発行元として確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ohzora-shuppan",
+    "name": "宙出版",
+    "nameKana": "おおぞらしゅっぱん",
+    "description": "女性向けコミックを中心に手がける出版社。1984年設立の株式会社宙(編集受託会社キーパーズが前身)と主婦と生活社などが1990年に統合して発足した。",
+    "foundedYear": 1990,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/宙出版"
+    },
+    "sourceNote": "日本語版Wikipedia『宙出版』記事および宙出版公式サイト(ohzora.jp、2026-08-03閲覧)で読み(おおぞらしゅっぱん)・沿革を確認。『Petshop of Horrors』の初出掲載誌『アップルミステリー』の発行元として新規追加。",
+    "updatedAt": "2026-08-03"
   }
 ]
