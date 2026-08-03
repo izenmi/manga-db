@@ -550,6 +550,88 @@ h1 {
   font-weight: 700;
 }
 
+.home-section {
+  margin: 26px 0;
+}
+
+.home-section__heading {
+  font-size: 1.15rem;
+  font-weight: 800;
+  color: var(--color-ink);
+  margin: 0 0 10px;
+}
+
+.home-section__more {
+  display: inline-block;
+  margin-top: 10px;
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: var(--color-orange-deep);
+  text-decoration: none;
+}
+
+.home-section__more:hover {
+  text-decoration: underline;
+}
+
+.home-award-name {
+  margin-right: 6px;
+  font-weight: 700;
+}
+
+.chip-row--lg {
+  gap: 8px;
+}
+
+.chip--lg {
+  padding: 5px 14px;
+  font-size: 0.85rem;
+}
+
+.sister-site-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 10px;
+}
+
+.sister-site-card {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 14px 16px;
+  border-radius: var(--radius-md);
+  background: var(--color-surface);
+  border: 2px solid var(--color-outline);
+  text-decoration: none;
+  color: var(--color-text);
+  transition: transform 0.15s ease;
+}
+
+.sister-site-card:hover {
+  transform: translateY(-2px);
+}
+
+.sister-site-card__name {
+  font-size: 1.1rem;
+  font-weight: 800;
+  color: var(--color-ink);
+}
+
+.sister-site-card__desc {
+  font-size: 0.82rem;
+  color: var(--color-text-muted);
+}
+
+.sister-site-card--ranobe {
+  border-color: #8bc4ea;
+  box-shadow: 0 3px 0 #8bc4ea;
+}
+
+.sister-site-card--game {
+  border-color: #8fd66b;
+  box-shadow: 0 3px 0 #8fd66b;
+}
+
 .source-note {
   color: var(--color-text-muted);
   font-size: 0.72rem;

@@ -3,14 +3,7 @@ import { getAward } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
 import { BASE_PATH, breadcrumbJsonLd, useSeo } from "../common/useSeo";
-
-const YEAR_COLORS = ["blue", "pink", "mint", "yellow", "peach", "purple"] as const;
-
-/** Deterministic pastel color per year, so scanning the winner list makes each year's cluster
- *  easy to spot instead of every row using the same pill color. */
-function colorForYear(year: number): (typeof YEAR_COLORS)[number] {
-  return YEAR_COLORS[Math.abs(year) % YEAR_COLORS.length];
-}
+import { colorForYear } from "../common/yearColor";
 
 export function AwardDetailPage() {
   const { id } = useParams<{ id: string }>();
