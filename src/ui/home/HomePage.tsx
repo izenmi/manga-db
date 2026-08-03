@@ -122,7 +122,7 @@ export function HomePage() {
         </p>
       </div>
 
-      <form onSubmit={handleSearch}>
+      <form className="home-search-form" onSubmit={handleSearch}>
         <input
           className="search-box"
           type="search"
