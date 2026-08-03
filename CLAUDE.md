@@ -86,6 +86,10 @@ npm run preview
 
 `useSeo.ts`(document.title/meta/canonical/OGP/JSON-LD設定)、`scripts/prerender.mjs`(`postbuild`フックでPlaywrightが全ルートをクロールし`dist/<route>/index.html`を書き出す、最後に`dist/index.html`を`dist/404.html`にコピー)、`scripts/generate-manifest.mjs`内のsitemap.xml生成の仕組みはranobe-dbと同一パターン。**canonical/og:urlはwindow.location.originでなくSITE_ORIGIN定数から組み立てる**(prerenderがvite previewのlocalhostから叩くための対策、詳細はranobe-dbのCLAUDE.md参照)。
 
+## 一覧ページの件数表示(2026-08-03実装)
+
+`WorkListPage`の件数表示(`page-subtitle`)は、絞り込み条件が1つでもある場合(`hasActiveFilters`)は「◯件 / 全□件」(絞り込み後件数 / 全体件数)、条件がない場合は「◯件」のみを表示する。全体件数は`worksState.data.length`(絞り込み前の全件)を使う。姉妹サイトのranobe-db(`WorkListPage`)・game-db(`GameListPage`)にも同一パターンで実装済み。
+
 ## データ規模(2026-08-02、4ラウンドの大量追加後)
 
 計399作品(scaffold5作品+第1ラウンド8バッチ104作品+第2ラウンド6バッチ75作品+第3ラウンド9バッチ104作品+第4ラウンド9バッチ111作品)。原作者94・作画家348・出版社35・レーベル143・テーマ24・アワード17。第2ラウンドはユーザーの「デスゲーム作品を多めに」という要望を受け、デスゲーム編2バッチ(今際の国のアリス、バトル・ロワイアル、ダーウィンズゲーム、王様ゲーム等22作品)を中心に音楽・アート/歴史・時代劇/ホラー・オカルト拡張/グルメ・日常・ゲーム系も追加。80候補中75採用(学糾法廷・六道の悪女たち・デスパレードはジャンル不一致/実在未確認で却下)。第3ラウンドも同様にデスゲーム強化(トモダチゲーム・ドラゴンヘッド・リアル鬼ごっこ・賭博破戒録カイジ・神さまの言うとおり弐等の既存シリーズ続編/類似作品を追加)を軸に、少年ジャンプ+/裏サンデー等のWeb発ヒット作(チェンソーマン・【推しの子】・怪獣8号等)・古典/クラシック(デビルマン・漂流教室・攻殻機動隊・銃夢等)も幅広く追加した。106候補中104採用(王様ゲーム 逆行・インシテミル7日間のデスゲームは実在確認できず却下)。各バッチはgeneral-purposeサブエージェントに日本語版Wikipedia調査を並行依頼し、完了順に`apply_batch.py`で逐次反映・ビルド確認・コミット/pushした(ranobe-dbの大量追加フローと同じ)。
