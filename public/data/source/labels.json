@@ -1634,5 +1634,35 @@
     "externalLinks": {},
     "sourceNote": "MUUSEO掲載の書誌情報・ORICON NEWS(2026-08-03閲覧)で1976年富士見書房刊・つのだじろう画であることを確認。富士見書房は現在KADOKAWAに統合されているため、姉妹レーベル「月刊ドラゴンエイジ」と同様にpublisherIdはkadokawaとした。連載誌ではなく描き下ろし単行本レーベルのため掲載誌の公式サイトは存在しない。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "shukan-bunshun",
+    "name": "週刊文春",
+    "nameKana": "しゅうかんぶんしゅん",
+    "publisherId": "bungeishunju",
+    "description": "文藝春秋が発行する週刊誌。手塚治虫『アドルフに告ぐ』が連載された。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『アドルフに告ぐ』記事(2026-08-03閲覧)で初出掲載誌として確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kodansha-bunko",
+    "name": "講談社文庫",
+    "nameKana": "こうだんしゃぶんこ",
+    "publisherId": "kodansha",
+    "description": "講談社の文庫レーベル。水木しげる『総員玉砕せよ！』は雑誌連載を経ない書き下ろし単行本として刊行され、後に同レーベルで文庫化された。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『総員玉砕せよ!』記事、講談社公式サイト(2026-08-03閲覧)で確認。1973年に描き下ろし単行本として講談社から刊行され、後年講談社文庫版(新装完全版含む)が継続して刊行されているため、雑誌名ではなく現行の叢書名をlabelIdとして採用した。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "weekly-manga-times",
+    "name": "週刊漫画TIMES",
+    "nameKana": "しゅうかんまんがたいむす",
+    "publisherId": "houbunsha",
+    "description": "芳文社が発行する青年漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『特攻の島』記事(2026-08-03閲覧)で初出掲載誌として確認。",
+    "updatedAt": "2026-08-03"
   }
 ]

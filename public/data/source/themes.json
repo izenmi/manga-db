@@ -129,5 +129,10 @@
     "id": "delinquent",
     "name": "不良・ヤンキー",
     "description": "不良・暴走族・ヤンキー・番長・喧嘩などを題材にした作品。"
+  },
+  {
+    "id": "war-military",
+    "name": "戦争・ミリタリー",
+    "description": "実在・架空の戦争や軍事組織を題材にした作品。"
   }
 ]

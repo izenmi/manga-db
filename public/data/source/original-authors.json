@@ -1145,5 +1145,29 @@
     },
     "sourceNote": "日本語版Wikipedia『横溝正史』記事(2026-08-03閲覧)で生没年・経歴・代表作を確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "sato-daisuke",
+    "name": "佐藤大輔",
+    "nameKana": "さとうだいすけ",
+    "description": "架空戦記ジャンルを代表するSF・歴史小説家。『皇国の守護者』『紺碧の艦隊』等の著者。2017年没。",
+    "birthYear": 1953,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/佐藤大輔"
+    },
+    "sourceNote": "日本語版Wikipedia『佐藤大輔』『皇国の守護者』記事(2026-08-03閲覧)で確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "alexievich-svetlana",
+    "name": "スヴェトラーナ・アレクシエーヴィチ",
+    "nameKana": "すう゛ぇとらーな・あれくしえーう゛ぃち",
+    "description": "ベラルーシのジャーナリスト・ノンフィクション作家。独ソ戦の女性従軍者への聞き取りをまとめた『戦争は女の顔をしていない』の著者。2015年ノーベル文学賞受賞。",
+    "birthYear": 1948,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/スベトラーナ・アレクシエービッチ"
+    },
+    "sourceNote": "日本語版Wikipedia『戦争は女の顔をしていない』記事(2026-08-03閲覧)で漫画版の原作者として確認。",
+    "updatedAt": "2026-08-03"
   }
 ]

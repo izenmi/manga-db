@@ -4261,5 +4261,67 @@
     "externalLinks": {},
     "sourceNote": "マンバ・まんがseek(2026-08-03閲覧)で経歴・代表作を確認。日本語版Wikipedia記事は未確認のためexternalLinksは空、生年は未記載。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "nakazawa-keiji",
+    "name": "中沢啓治",
+    "nameKana": "なかざわけいじ",
+    "description": "自身の被爆体験に基づく『はだしのゲン』で知られる漫画家。2012年没。",
+    "birthYear": 1939,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/中沢啓治"
+    },
+    "sourceNote": "日本語版Wikipedia『中沢啓治』『はだしのゲン』記事(2026-08-03閲覧)で確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "mizuki-shigeru",
+    "name": "水木しげる",
+    "nameKana": "みずきしげる",
+    "description": "『ゲゲゲの鬼太郎』等で知られる漫画家。自身の南方戦線での従軍・負傷経験をもとに『総員玉砕せよ！』等の戦記作品も多数手がけた。2015年没。",
+    "birthYear": 1922,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/水木しげる"
+    },
+    "sourceNote": "日本語版Wikipedia『水木しげる』『総員玉砕せよ!』記事(2026-08-03閲覧)で確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "takeda-kazuyoshi",
+    "name": "武田一義",
+    "nameKana": "たけだかずよし",
+    "description": "太平洋戦争のペリリューの戦いを題材にした『ペリリュー ―楽園のゲルニカ―』の作者。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/武田一義"
+    },
+    "sourceNote": "日本語版Wikipedia『ペリリュー_楽園のゲルニカ』記事(2026-08-03閲覧)で作者として確認。生年は明記された信頼できる情報源を確認できず未入力。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "koume-keito",
+    "name": "小梅けいと",
+    "nameKana": "こうめけいと",
+    "description": "『戦争は女の顔をしていない』の作画を担当する漫画家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『戦争は女の顔をしていない』記事(2026-08-03閲覧)で作画担当として確認。生年は確認できず未入力。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "takahashi-keitaro",
+    "name": "高橋慶太郎",
+    "nameKana": "たかはしけいたろう",
+    "description": "武器商人と少年兵を描くガンアクション『ヨルムンガンド』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『ヨルムンガンド(漫画)』記事(2026-08-03閲覧)で作者として確認。生年は確認できず未入力。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ito-yuu",
+    "name": "伊藤悠",
+    "nameKana": "いとうゆう",
+    "description": "佐藤大輔原作の架空戦記『皇国の守護者』を作画した漫画家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『皇国の守護者』記事(2026-08-03閲覧)で作画担当として確認。生年は確認できず未入力。",
+    "updatedAt": "2026-08-03"
   }
 ]

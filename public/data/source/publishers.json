@@ -418,5 +418,28 @@
     },
     "sourceNote": "日本語版Wikipedia『コアミックス』記事(2026-08-03閲覧)で設立年・設立経緯・刊行誌を確認。『アンサングシンデレラ 病院薬剤師 葵みどり』の掲載誌『月刊コミックゼノン』の発行元として追加。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "choubunsha",
+    "name": "汐文社",
+    "nameKana": "ちょうぶんしゃ",
+    "description": "児童書・教育関連書籍を中心とする出版社。『はだしのゲン』のコミック版・愛蔵版を刊行する。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/汐文社"
+    },
+    "sourceNote": "日本語版Wikipedia『はだしのゲン』記事、汐文社公式サイト(2026-08-03閲覧)で現行単行本の刊行元として確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "bungeishunju",
+    "name": "文藝春秋",
+    "nameKana": "ぶんげいしゅんじゅう",
+    "description": "「週刊文春」等を発行する大手出版社。文芸誌・総合誌を中心とし、コミック作品の刊行は少ない。",
+    "foundedYear": 1923,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/文藝春秋"
+    },
+    "sourceNote": "日本語版Wikipedia『文藝春秋』『アドルフに告ぐ』記事(2026-08-03閲覧)で確認。",
+    "updatedAt": "2026-08-03"
   }
 ]

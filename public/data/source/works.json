@@ -14801,5 +14801,399 @@
     },
     "sourceNote": "ORICON NEWS『金田一耕助シリーズ』掲載作品一覧・MUUSEO掲載書誌情報(2026-08-03閲覧)で、1976年に富士見書房が刊行した「ワイルド・コミックス 横溝正史シリーズ」の1冊としてつのだじろうが横溝正史『犬神家の一族』を漫画化(全1巻)したことを確認。同シリーズは同年の角川映画版とのメディアミックス企画で、他に『八つ墓村』『悪魔の手毬唄』も刊行された(全7巻構想のうち3巻のみ刊行)。現在は講談社漫画文庫・講談社プラチナコミックスとして再刊されているためpublisherIdはkodansha、labelIdの発行元(publisherId)は初出時の富士見書房(現・KADOKAWA)を踏まえkadokawaとした。原作小説自体のWikipedia記事はあるが漫画版単独の記事はないため、原作小説の記事をexternalLinksとして採用しつつ漫画化の事実自体はORICON/MUUSEOで裏取りした。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "hadashi-no-gen",
+    "title": "はだしのゲン",
+    "titleKana": "はだしのげん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nakazawa-keiji"
+    ],
+    "publisherId": "choubunsha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "war-military",
+      "historical"
+    ],
+    "firstPublishedYear": 1973,
+    "latestPublishedYear": 1987,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "1945年8月、広島。国民学校に通う少年・中岡元は、原爆投下により父と姉、弟を一瞬にして失う。焼け野原と化した街で母や仲間と支え合いながら、放射線障害や差別、貧困と闘い、力強く生き抜いていく。戦時下の食糧難や国民統制の様子も含め、作者自身の被爆体験に基づいて戦争と核兵器の悲惨さを子供の視点から描いた自伝的反戦漫画の金字塔。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/はだしのゲン"
+    },
+    "sourceNote": "日本語版Wikipedia『はだしのゲン』『中沢啓治』記事、汐文社公式サイト(2026-08-03閲覧)で確認。1973年に週刊少年ジャンプ(集英社)25号から連載開始、後に市民・文化評論・教育評論と掲載誌を移りながら1987年まで断続連載。作者自身のオリジナル(自伝的)作品のためoriginalAuthorIdsは空配列。labelIdは連載開始時点の週刊少年ジャンプを採用。現行の単行本(コミック版・愛蔵版とも全10巻)は汐文社刊行のためpublisherIdはchoubunsha。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "adorufu-ni-tsugu",
+    "title": "アドルフに告ぐ",
+    "titleKana": "あどるふにつぐ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tezuka-osamu"
+    ],
+    "publisherId": "bungeishunju",
+    "labelId": "shukan-bunshun",
+    "themeIds": [
+      "war-military",
+      "suspense-psychological",
+      "historical"
+    ],
+    "firstPublishedYear": 1983,
+    "latestPublishedYear": 1985,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "第二次世界大戦前後の神戸と欧州を舞台に、「ヒトラーにユダヤ人の血が流れている」という秘密文書を巡り、日本人記者・峠草平、独日混血のアドルフ・カウフマン、ユダヤ系ドイツ人のアドルフ・カミルという三人の男の運命が交錯する。少年時代の友情から敵対、そして戦後へと至るまで、歴史のうねりに翻弄される人間群像を重厚に描いた歴史サスペンス大作。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1986,
+        "result": "一般部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アドルフに告ぐ"
+    },
+    "sourceNote": "日本語版Wikipedia『アドルフに告ぐ』記事(2026-08-03閲覧)で確認。手塚治虫による原作・作画とも単独のオリジナル作品のためoriginalAuthorIdsは空配列(originalAuthorsのtezuka-osamuとは別に、artistsにも同idで登録済みのため既存idを再利用)。週刊文春(文藝春秋)にて1983-1985年連載、全5巻、1986年第10回講談社漫画賞一般部門受賞。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "the-cockpit",
+    "title": "ザ・コクピット",
+    "titleKana": "ざこくぴっと",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "matsumoto-reiji"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-original",
+    "themeIds": [
+      "war-military"
+    ],
+    "firstPublishedYear": 1975,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "第二次世界大戦の欧州・アフリカ・太平洋の各戦線を舞台に、名もなき兵士やパイロットたちの戦いを描く短編集。北アフリカの砂漠を飛ぶドイツ空軍のエースパイロットや、日本海軍の特攻兵器搭乗員など、敵味方を問わずそれぞれの誇りと運命を淡々と、時に叙情的に描き出す。松本零士による代表的な戦記漫画シリーズの一つで、後にOVA・海外アニメにもなった。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/戦場まんがシリーズ"
+    },
+    "sourceNote": "日本語版Wikipedia『戦場まんがシリーズ』記事等(2026-08-03閲覧)で確認。松本零士による第二次世界大戦題材の短編戦記漫画群のうち、ビッグコミックオリジナル(小学館)にて1975年から掲載された『ザ・コクピット』シリーズを代表作として採用(姉妹シリーズ『戦場まんがシリーズ』は週刊少年サンデー掲載)。原作・作画とも松本零士単独のオリジナル短編集のためoriginalAuthorIdsは空配列。巻数は小学館文庫版全11巻を採用。OVA化(1993年)・Netflixアニメ化(2023年『THE COCKPIT』)ありのためmediaMix.animeはtrue。連載終了年は短編集という性質上特定困難なため未入力。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "shidenkai-no-taka",
+    "title": "紫電改のタカ",
+    "titleKana": "しでんかいのたか",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "chiba-tetsuya"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "war-military",
+      "historical"
+    ],
+    "firstPublishedYear": 1963,
+    "latestPublishedYear": 1965,
+    "status": "completed",
+    "synopsis": "太平洋戦争末期、日本海軍のパイロット滝城太郎は、台湾の高雄基地を経て精鋭部隊「剣部隊」に配属され、新鋭戦闘機「紫電改」で数々の空戦を戦い抜く撃墜王となる。独自の「逆タカ戦法」で敵機を次々と撃墜していくが戦局は悪化の一途をたどり、彼もまた特攻隊員として出撃を命じられていく。少年の目線で戦う軍人の誇りと戦争の悲劇性の両面を描いた古典的戦記漫画。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/紫電改のタカ"
+    },
+    "sourceNote": "日本語版Wikipedia『紫電改のタカ』記事(2026-08-03閲覧)で確認。ちばてつやによるオリジナル作品のためoriginalAuthorIdsは空配列。週刊少年マガジン(講談社)にて1963年7月から1965年1月まで連載。既刊巻数は新書判・文庫版など複数のエディションが存在し統一的な巻数を確認できなかったため未入力。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "soin-gyokusai-seyo",
+    "title": "総員玉砕せよ！",
+    "titleKana": "そういんぎょくさいせよ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mizuki-shigeru"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "kodansha-bunko",
+    "themeIds": [
+      "war-military",
+      "historical"
+    ],
+    "firstPublishedYear": 1973,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "太平洋戦争末期、ニューブリテン島バイエンに配置された守備隊約500名は、圧倒的な物量の米軍を前に補給も絶たれ、飢えと病に苦しみながら戦い続ける。指揮官の下した「玉砕」命令のもと、兵士たちは次々と死地へ向かっていく。著者自身のニューギニア戦線での従軍・負傷体験をもとに描かれた、極限状況における人間の姿を描く戦記漫画。",
+    "awardResults": [
+      {
+        "awardId": "angouleme-award",
+        "year": 2009,
+        "result": "遺産賞"
+      },
+      {
+        "awardId": "eisner-award",
+        "year": 2012,
+        "result": "最優秀アジア作品賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/総員玉砕せよ!"
+    },
+    "sourceNote": "日本語版Wikipedia『総員玉砕せよ!』記事(2026-08-03閲覧)で確認。水木しげるによるオリジナル(自伝的実話ベース)作品のためoriginalAuthorIdsは空配列。1973年8月に雑誌連載を経ない描き下ろし単行本(全350ページ)として講談社から刊行(先行して短編版が週刊現代増刊『劇画ゲンダイ』に掲載されたが、本編は書き下ろし)。雑誌連載でないためlabelIdは現行刊行レーベルの講談社文庫を採用。2009年アングレーム国際漫画祭遺産賞、2012年アイズナー賞最優秀アジア作品賞を受賞。volumeCountは単巻作品のため1とした。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "tokkou-no-shima",
+    "title": "特攻の島",
+    "titleKana": "とっこうのしま",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "sato-shuho"
+    ],
+    "publisherId": "houbunsha",
+    "labelId": "weekly-manga-times",
+    "themeIds": [
+      "war-military",
+      "historical"
+    ],
+    "firstPublishedYear": 2004,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 9,
+    "synopsis": "太平洋戦争末期、人間魚雷「回天」の特攻基地がある大津島に配属された予科練出身の若者・渡辺裕三は、必ず死ぬことが前提の兵器に乗り込む意味を問い続ける。基地創設者の一人である仁科関夫中尉ら実在の人物とのやり取りを通じ、国家のために死ぬことと生きることの狭間で揺れる若者たちの葛藤を、菊水隊など複数の実際の作戦を軸に描いた戦争漫画。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/特攻の島"
+    },
+    "sourceNote": "日本語版Wikipedia『特攻の島』記事(2026-08-03閲覧)で確認。佐藤秀峰によるオリジナル作品のためoriginalAuthorIdsは空配列(artistsのsato-shuhoは既存id〈ブラックジャックによろしく〉を再利用)。週刊漫画TIMES(芳文社)にて2004年から2017年12月まで連載、全9巻。人間魚雷「回天」による特攻を題材とする。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "peleliu-rakuen-no-gerunika",
+    "title": "ペリリュー ―楽園のゲルニカ―",
+    "titleKana": "ぺりりゅーらくえんのげるにか",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "takeda-kazuyoshi"
+    ],
+    "publisherId": "hakusensha",
+    "labelId": "young-animal",
+    "themeIds": [
+      "war-military",
+      "historical"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2021,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "1944年、太平洋の孤島ペリリューに配属された漫画家志望の青年兵士・田丸は、圧倒的な兵力の米軍の攻撃を受け壊滅していく部隊の中で、周囲の死と向き合いながら生き延びていく。組織的な抵抗が崩壊した後も終戦を知らぬままゲリラ戦を続け、極限状態の中でなお仲間との絆や人間らしさを模索し続ける兵士たちの姿を、丹念な取材に基づいて描いた太平洋戦線もの。",
+    "awardResults": [
+      {
+        "awardId": "nihon-mangaka-kyokai-sho",
+        "year": 2017,
+        "result": "優秀賞"
+      },
+      {
+        "awardId": "bunkacho-media-geijutsusai",
+        "year": 2017,
+        "result": "審査委員会推薦作品"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ペリリュー_楽園のゲルニカ"
+    },
+    "sourceNote": "日本語版Wikipedia『ペリリュー_楽園のゲルニカ』記事(2026-08-03閲覧)で確認。武田一義によるオリジナル作品のためoriginalAuthorIdsは空配列(太平洋戦争研究会の平塚柾緒が資料協力・監修としてクレジットされるが、著者ではないため人物登録は見送った)。ヤングアニマル(白泉社)にて2016年4号から2021年8号まで連載、全11巻。2017年日本漫画家協会賞優秀賞、同年文化庁メディア芸術祭審査委員会推薦作品。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "sensou-wa-onna-no-kao-wo-shiteinai",
+    "title": "戦争は女の顔をしていない",
+    "titleKana": "せんそうはおんなのかおをしていない",
+    "originalAuthorIds": [
+      "alexievich-svetlana"
+    ],
+    "artistIds": [
+      "koume-keito"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "comic-walker",
+    "themeIds": [
+      "war-military",
+      "historical"
+    ],
+    "firstPublishedYear": 2019,
+    "status": "ongoing",
+    "volumeCount": 6,
+    "synopsis": "独ソ戦(第二次世界大戦の東部戦線)に従軍した元ソ連軍女性兵士たちへの膨大な聞き取りをもとにしたスヴェトラーナ・アレクシエーヴィチのノンフィクションを漫画化。看護師、狙撃手、洗濯係、戦車兵など様々な立場で戦場に立った女性たちの証言を一人一人丁寧に紡ぎ、公式の戦史には残らない戦争の実相と痛みを描き出していく作品。",
+    "awardResults": [
+      {
+        "awardId": "nihon-mangaka-kyokai-sho",
+        "year": 2021,
+        "result": "まんが王国とっとり賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/戦争は女の顔をしていない"
+    },
+    "sourceNote": "日本語版Wikipedia『戦争は女の顔をしていない』記事(2026-08-03閲覧)で確認。原作はスヴェトラーナ・アレクシエーヴィチのノンフィクション(ロシア語原著、2015年ノーベル文学賞)のためoriginalAuthorIdsに新規登録。作画は小梅けいと。監修の速水螺旋人は著者ではないため人物登録は見送った。KADOKAWAのWeb漫画サイトComicWalkerにて2019年4月連載開始、2026年3月時点既刊6巻(継続中)。2021年第50回日本漫画家協会賞にてまんが王国とっとり賞受賞。webComicSourceはComicWalkerが未実装プラットフォームのため設定せず、labelIdのみcomic-walkerを設定。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "archimedes-no-taisen",
+    "title": "アルキメデスの大戦",
+    "titleKana": "あるきめですのたいせん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mita-norifusa"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "young-magazine",
+    "themeIds": [
+      "war-military",
+      "historical"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2023,
+    "status": "completed",
+    "volumeCount": 38,
+    "synopsis": "太平洋戦争前夜、山本五十六少将は航空機主兵論の立場から、巨大戦艦「大和」の建造を推し進める平山忠道中将の計画を阻止しようとする。数学の天才である帝大生・櫂直を海軍に引き入れ、部下の田中正二郎少尉とともに、緻密な計算によって建艦計画に潜む欺瞞を暴こうと奔走するが、軍内部の権力闘争と歴史の必然に次第に巻き込まれていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アルキメデスの大戦"
+    },
+    "sourceNote": "日本語版Wikipedia『アルキメデスの大戦』記事(2026-08-03閲覧)で確認。三田紀房によるオリジナル作品のためoriginalAuthorIdsは空配列(artistsのmita-norifusaは既存id〈インベスターZ〉を再利用)。ヤングマガジン(講談社)にて2015年11月から2023年9月まで連載、全38巻。アニメ化はなし(実写映画化・舞台化あり)のためmediaMix.animeはfalse。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "jormungand",
+    "title": "ヨルムンガンド",
+    "titleKana": "よるむんがんど",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "takahashi-keitaro"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "sunday-gx",
+    "themeIds": [
+      "war-military",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2006,
+    "latestPublishedYear": 2012,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "両親を武器で亡くしながらも、武器を憎みきれず女性武器商人ココ・ヘクマティアルの私設部隊に加わった少年兵ヨナ。ココと護衛の傭兵たちは世界各地の紛争地帯を渡り歩き、武器取引と敵対勢力の排除を繰り返す。銃火器に彩られた過酷な旅の果てに、ココが密かに進める世界規模の計画「ヨルムンガンド」の正体が明らかになっていく現代軍事アクション。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ヨルムンガンド_(漫画)"
+    },
+    "sourceNote": "日本語版Wikipedia『ヨルムンガンド(漫画)』記事(2026-08-03閲覧)で確認。高橋慶太郎によるオリジナル作品のためoriginalAuthorIdsは空配列。月刊サンデーGX(小学館)にて2006年5月号から2012年2月号まで連載、全11巻。2012年TVアニメ化(第1期・第2期『PERFECT ORDER』)。武器商人・少年兵をめぐる現代の紛争地帯が舞台のためwar-militaryに加えbattle-actionも付与。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "shura-no-toki",
+    "title": "修羅の刻",
+    "titleKana": "しゅらのとき",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kawahara-masatoshi"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "monthly-shonen-magazine",
+    "themeIds": [
+      "war-military",
+      "historical",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1989,
+    "status": "ongoing",
+    "volumeCount": 26,
+    "synopsis": "最強の格闘技・陸奥圓明流を継承する陸奥一族の歴代当主たちが、源義経や織田信長、新選組、日露戦争の兵士など日本史上の実在の人物や戦乱に関わり、影から歴史を動かしてきた姿を描く連作歴史活劇。『修羅の門』の主人公の先祖たちが、源平合戦から戊辰戦争、日露戦争に至るまで、各時代の合戦や動乱を圧倒的な武で生き抜いていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/修羅の刻"
+    },
+    "sourceNote": "日本語版Wikipedia『陸奥圓明流外伝_修羅の刻』記事(2026-08-03閲覧)で確認。正式タイトルは『陸奥圓明流外伝 修羅の刻』だが、既存登録済みの『修羅の門』(shura-no-mon)との命名慣習に合わせ簡略化した『修羅の刻』を採用。川原正敏によるオリジナル作品のためoriginalAuthorIdsは空配列(artistsのkawahara-masatoshiは既存id〈修羅の門〉を再利用)。月刊少年マガジン(講談社)にて1989年7月号より断続連載中、既刊26巻(2025年10月時点)。源平合戦・戊辰戦争・関ヶ原の戦い等、実在の戦争・合戦を扱うエピソードが多いためwar-militaryを付与。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "koukoku-no-shugosha",
+    "title": "皇国の守護者",
+    "titleKana": "こうこくのしゅごしゃ",
+    "originalAuthorIds": [
+      "sato-daisuke"
+    ],
+    "artistIds": [
+      "ito-yuu"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "ultra-jump",
+    "themeIds": [
+      "war-military",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2004,
+    "latestPublishedYear": 2007,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "人と龍が共存する架空世界。貿易で栄える小国〈皇国〉は、貿易赤字を解消するために侵攻してきた大国〈帝国〉との全面戦争に突入する。皇国軍の若き将校・新城直衛は、剣牙虎や導術といった架空の存在も入り交じる戦場で、19世紀初頭欧州相当の銃火器を駆使し、圧倒的な兵力差を前に持てる知略のすべてを尽くして祖国を守ろうとする架空戦記。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/皇国の守護者"
+    },
+    "sourceNote": "日本語版Wikipedia『皇国の守護者』記事(2026-08-03閲覧)で確認。原作は佐藤大輔の小説(中央公論新社刊、未完)、漫画は伊藤悠が作画。ウルトラジャンプ(集英社)にて2004年7月号から2007年10月号まで連載、全5巻(2018年に遺族の意向により絶版)。18世紀末〜19世紀初頭の欧州相当の銃火器を用いた架空戦記で、ロボット・サイバーパンク要素はなし。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
   }
 ]
