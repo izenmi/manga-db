@@ -13512,5 +13512,356 @@
     },
     "sourceNote": "日本語版Wikipedia『BLOODY MONDAY』記事(2026-08-02閲覧)で原作(龍門諒)・作画(恵広史)、『週刊少年マガジン』(講談社)にて2007年17号〜2012年連載(第1シーズン全11巻、第2シーズン『絶望ノ匣』全8巻、ラストシーズン全4巻、合計23巻)・完結、敵組織・ウイルス名(BLOODY-X)等の設定を確認。原作者『龍門諒』は原作者・樹林伸が用いる複数のペンネームの一つであり、本データベース既存の『天樹征丸』(id: amagi-seimaru、同氏が『金田一少年の事件簿』で用いる別のペンネーム)と同一人物だが、作品ごとに異なるペンネーム・クレジットが使われているため、既存の共有ペンネーム方針(amagi-seimaru)に倣い別idとして新規登録した。テレビドラマ化(2008年・2010年)はあるがテレビアニメ化の記載はなくmediaMix.animeはfalseとした。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "godhand-teru",
+    "title": "ゴッドハンド輝",
+    "titleKana": "ごっどはんどてる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yamamoto-koki"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "medical",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2001,
+    "latestPublishedYear": 2011,
+    "status": "completed",
+    "volumeCount": 62,
+    "synopsis": "飛行機事故で父を亡くした青年・輝東寺輝は、屈指の名門病院「ヴァルハラ」に外科研修医として飛び込む。豊かな才能を持つ一方で臨床経験に乏しく、優秀なライバル・篠宮圭との激しい競い合いや過酷な現場での失敗と成長を繰り返しながら、患者の命を確実に救う「ゴッドハンド」と呼ばれる外科医を目指していく長編医療青春ドラマ。",
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゴッドハンド輝"
+    },
+    "sourceNote": "日本語版Wikipedia『ゴッドハンド輝』記事(2026-08-03閲覧)で、作者(原作・作画とも山本航暉の単独作品)・掲載誌(週刊少年マガジン)・出版社(講談社)・連載期間(2001年-2011年)・既刊巻数(単行本62巻、文庫版31巻)を確認。アニメ化はされていないが、2009年にTBS系でテレビドラマ化された(mediaMixのnovelizationは未確認のためfalseとした根拠は無いが、原作小説の存在は確認できなかったため暫定的にfalseとした)。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "dr-coto-shinryojo",
+    "title": "Dr.コトー診療所",
+    "titleKana": "どくたーことーしんりょうじょ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yamada-takatoshi"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "weekly-young-sunday",
+    "themeIds": [
+      "medical",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2000,
+    "status": "unknown",
+    "volumeCount": 25,
+    "synopsis": "都会の大病院で医療事故を経験し傷心の外科医・五島健助は、成り行きで離島唯一の診療所に赴任することになる。当初は無資格の「偽医者」と疑われ島民になかなか受け入れられなかったが、乏しい設備しかない環境で患者一人ひとりと真摯に向き合い続け、確かな執刀の腕前と誠実な人柄で少しずつ信頼を築き、「Dr.コトー」として島に欠かせない医師になっていく。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2004,
+        "result": "一般向け部門(第49回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Dr.コトー診療所"
+    },
+    "sourceNote": "日本語版Wikipedia『Dr.コトー診療所』記事(2026-08-03閲覧)で、作者(原作・作画とも山田貴敏の単独作品)・連載開始時の掲載誌(週刊ヤングサンデー、2000年-2008年、以後ビッグコミックオリジナルへ移行)・出版社(小学館)・既刊巻数(25巻)・第49回小学館漫画賞(一般向け部門、2004年)受賞を確認。作者の体調不良により2010年以降長期休載中で完結未発表のためstatusはunknownとした。テレビドラマ化(2003年・2006年)、映画化(2022年)あり。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "iryu-team-medical-dragon",
+    "title": "医龍-Team Medical Dragon-",
+    "titleKana": "いりゅーちーむめでぃかるどらごん",
+    "originalAuthorIds": [
+      "nagai-akira"
+    ],
+    "artistIds": [
+      "nogizaka-taro"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-superior",
+    "themeIds": [
+      "medical",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2002,
+    "latestPublishedYear": 2011,
+    "status": "completed",
+    "volumeCount": 25,
+    "synopsis": "型破りな天才心臓外科医・朝田龍太郎は、大学病院にはびこる権威主義や派閥争いにまるで臆することなく、自ら選んだ個性的な専門医たちとチームを組み、誰も助けられなかった難手術に次々と挑んでいく。医局の政治力学や出世争い、倫理的な葛藤が渦巻く現場で、実力と信頼だけを頼りに患者の命を最優先に据えた医療を貫こうとする姿を描く。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2005,
+        "result": "一般向け部門(第50回)"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/医龍-Team_Medical_Dragon-"
+    },
+    "sourceNote": "日本語版Wikipedia『医龍-Team Medical Dragon-』記事(2026-08-03閲覧)で、原作(構成・原案)永井明・作画乃木坂太郎・掲載誌(ビッグコミックスペリオール)・出版社(小学館)・連載期間(2002年-2011年)・既刊巻数(25巻)・第50回小学館漫画賞(一般向け部門)受賞を確認。受賞回次から授賞年を2005年と推定(第49回のDr.コトー診療所が2004年のため)。テレビドラマ化(2006年-2014年、全4シリーズ)あり、アニメ化なし。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "black-jack-ni-yoroshiku",
+    "title": "ブラックジャックによろしく",
+    "titleKana": "ぶらっくじゃっくによろしく",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "sato-shuho"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning",
+    "themeIds": [
+      "medical",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2002,
+    "latestPublishedYear": 2006,
+    "status": "completed",
+    "volumeCount": 13,
+    "synopsis": "臨床研修医となった斎藤英二郎は、大学病院の現場で抱いていた理想と過酷な現実との大きなギャップに直面していく。長時間労働や薄給といった研修医の待遇、医局の派閥政治、国の医療保険制度が抱えるひずみなど、日本の医療が抱える構造的な問題に真正面からぶつかりながら、一人の医師として自分に何ができるのかを問い続ける姿を赤裸々に描く社会派医療漫画。",
+    "awardResults": [
+      {
+        "awardId": "bunkacho-media-geijutsusai",
+        "year": 2002,
+        "result": "マンガ部門優秀賞(第6回)"
+      },
+      {
+        "awardId": "nihon-mangaka-kyokai-sho",
+        "year": 2004,
+        "result": "大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ブラックジャックによろしく"
+    },
+    "sourceNote": "日本語版Wikipedia『ブラックジャックによろしく』記事(2026-08-03閲覧)で、作者(原作・作画とも佐藤秀峰の単独作品)・掲載誌(モーニング)・出版社(講談社)・連載期間(2002年-2006年)・既刊巻数(第一部13巻、別途新シリーズ全9巻あり、volumeCountには第一部のみ計上)・文化庁メディア芸術祭マンガ部門優秀賞(2002年)・日本漫画家協会賞大賞(2004年)受賞を確認。2012年に作者が著作権をフリー化したことでも知られる。テレビドラマ化(2003年)あり。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "liaison",
+    "title": "リエゾン -こどものこころ診療所-",
+    "titleKana": "りえぞんーこどものこころしんりょうじょー",
+    "originalAuthorIds": [
+      "takemura-yusaku"
+    ],
+    "artistIds": [
+      "yonchan"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning",
+    "themeIds": [
+      "medical",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2025,
+    "status": "completed",
+    "volumeCount": 21,
+    "synopsis": "落ち着きのなさや不注意から研修先で失敗を重ねてきた小児科研修医・志保は、行き場を失い児童精神科クリニック「佐山クリニック」に配属される。自身も発達特性を持つ院長・佐山のもとで、発達障害や心の生きづらさを抱えた子どもたちとその家族に向き合ううちに、志保自身も自分自身の特性と向き合うようになり、児童精神科医としての道を見出していく物語。",
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/リエゾン_-こどものこころ診療所-"
+    },
+    "sourceNote": "日本語版Wikipedia『リエゾン -こどものこころ診療所-』記事(2026-08-03閲覧)で、原作竹村優作・作画ヨンチャン・掲載誌(モーニング)・出版社(講談社)・連載期間(2020年3月-2025年7月)・既刊巻数(全21巻)を確認。2023年にテレビ朝日系でドラマ化されたが、これはmediaMixの対象(アニメ/小説化)ではないため反映していない。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "super-doctor-k",
+    "title": "スーパードクターK",
+    "titleKana": "すーぱーどくたーけー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mafune-kazuo"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "medical",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1988,
+    "latestPublishedYear": 1998,
+    "status": "completed",
+    "volumeCount": 44,
+    "synopsis": "神業と称されるメスさばきと規格外の身体能力、そして揺るぎない胆力を併せ持つ天才外科医Kazuyaは、組織に属さず報酬次第でどんな依頼にも応じるフリーランスの医師として世界中を飛び回る。紛争地帯や陰謀の渦巻く事件現場に居合わせ、絶望的な状況で命の危機に陥った患者たちを、常識を超えた手術と機転で次々と救っていくハードボイルド医療アクション。",
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/スーパードクターK"
+    },
+    "sourceNote": "日本語版Wikipedia『スーパードクターK』記事(2026-08-03閲覧)で、作者(原作・作画とも真船一雄の単独作品)・掲載誌(週刊少年マガジン)・出版社(講談社)・連載期間(1988年-1998年)を確認。1996年に改題した続編『Doctor K』(全10巻)までを合算すると全54巻だが、volumeCountは前身の『スーパードクターK』分(44巻)のみを計上。2004年開始の続編『K2』は別作品として本バッチには含めていない。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "radiation-house",
+    "title": "ラジエーションハウス",
+    "titleKana": "らじえーしょんはうす",
+    "originalAuthorIds": [
+      "yokomaku-tomohiro"
+    ],
+    "artistIds": [
+      "morita-ishi"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "grand-jump",
+    "themeIds": [
+      "medical",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2015,
+    "status": "ongoing",
+    "volumeCount": 20,
+    "synopsis": "医師免許を持ちながら、あえて臨床の第一線ではなく診療放射線技師の道を選んだ五十嵐唯織は、X線やMRIなどの画像診断を通じて、担当医ですら見逃しがちな病変をいち早く見つけ出していく。皮肉屋の放射線科医・甘春らと連携し、時に対立もしながら、画像の中に隠された小さな異変から患者の命を救っていく姿を描く医療ドラマ。",
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ラジエーションハウス"
+    },
+    "sourceNote": "日本語版Wikipedia『ラジエーションハウス』記事(2026-08-03閲覧)で、原作横幕智裕・作画モリタイシ・掲載誌(グランドジャンプ)・出版社(集英社)・連載開始年(2015年)・既刊巻数(2026年4月時点20巻、連載中)を確認。フジテレビ系でドラマ化(2019年・2021年)、映画化(2022年)されたがmediaMixのアニメ化はなし。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "inhand",
+    "title": "インハンド",
+    "titleKana": "いんはんど",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "akato-ao"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "evening",
+    "themeIds": [
+      "medical",
+      "detective-mystery"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "右腕を失い義手を装着した変わり者の寄生虫学者・比戸倉哲は、原因不明の感染症や説明のつかない奇病の謎を、科学的知見と鋭い観察眼を武器に解き明かしていく。厚生労働省の担当官らとともに、バイオテロが疑われる事件や常識では説明できない病の現場に赴き、医学的な推理でその裏に潜む真相に迫っていく異色の医療サスペンス。",
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/インハンド"
+    },
+    "sourceNote": "日本語版Wikipedia『インハンド』記事(2026-08-03閲覧)で、作者(原作・作画とも朱戸アオの単独作品)・掲載誌(イブニング)・出版社(講談社)・連載期間(2018年10月-2020年11月)・既刊巻数(全6巻)を確認。TBS系でテレビドラマ化(2019年)されたがmediaMixのアニメ化はなし。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "masuikai-hana",
+    "title": "麻酔科医ハナ",
+    "titleKana": "ますいかいはな",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nakao-hakua"
+    ],
+    "publisherId": "futabasha",
+    "labelId": "manga-action",
+    "themeIds": [
+      "medical",
+      "comedy"
+    ],
+    "firstPublishedYear": 2007,
+    "latestPublishedYear": 2017,
+    "status": "unknown",
+    "volumeCount": 6,
+    "synopsis": "専門医の資格を取ったばかりの新米麻酔科医・花岡ハナ子は、手術室という舞台の中で、脚光を浴びがちな執刀医を陰から支える存在として日々奮闘している。患者やその家族からは見えにくいものの、命に直結する重い責任を担う麻酔科医という職業の実態を、ときにコミカルに、ときにシリアスに、等身大の姿で丁寧に描く医療漫画。",
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/麻酔科医ハナ"
+    },
+    "sourceNote": "日本語版Wikipedia『麻酔科医ハナ』記事(2026-08-03閲覧)で、作者(原作・作画とも、なかお白亜の単独作品、医療監修:松本克平)・掲載誌(漫画アクション)・出版社(双葉社)・連載開始(2007年13号)・不定期連載であることを確認。最新6巻の発行が2017年1月で、それ以降の続刊情報や完結の告知は確認できなかったためstatusはunknownとした。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kenshui-nanako",
+    "title": "研修医なな子",
+    "titleKana": "けんしゅいななこ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "morimoto-kozueko"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "office-you",
+    "themeIds": [
+      "medical",
+      "romance"
+    ],
+    "firstPublishedYear": 1994,
+    "latestPublishedYear": 1999,
+    "status": "completed",
+    "volumeCount": 7,
+    "synopsis": "国立大学の医学部を卒業したばかりの新米研修医・杉阪なな子は、大学病院の第二外科に配属される。不器用でドジな性格に悩まされ、失敗を繰り返しては落ち込みながらも、厳しい先輩医師たちの指導や数々の症例、患者との出会いを通じて臨床医としての経験を積み重ね、恋愛にも心を揺らしながら一人前の医師へと成長していく姿を描く。",
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/研修医なな子"
+    },
+    "sourceNote": "日本語版Wikipedia『研修医なな子』記事(2026-08-03閲覧)で、作者(原作・作画とも森本梢子の単独作品)・連載開始時の掲載誌(オフィスユー、1994年9月号-1995年6月号、以後YOUへ移行)・出版社(集英社)・連載期間(1994年-1999年)・既刊巻数(全7巻、全80話)を確認。テレビ朝日系でドラマ化(1997年)されたがmediaMixのアニメ化はなし。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "unsung-cinderella",
+    "title": "アンサングシンデレラ 病院薬剤師 葵みどり",
+    "titleKana": "あんさんぐしんでれらびょういんやくざいしあおいみどり",
+    "originalAuthorIds": [
+      "tomino-hiromichi"
+    ],
+    "artistIds": [
+      "arai-mamare"
+    ],
+    "publisherId": "coamix",
+    "labelId": "comic-zenon",
+    "themeIds": [
+      "medical",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2025,
+    "status": "completed",
+    "volumeCount": 15,
+    "synopsis": "総合病院に勤める病院薬剤師・葵みどりは、医師や看護師の陰に隠れて目立たない存在になりがちな薬剤師という仕事に、それでも誇りを持って向き合い続ける。処方箋の裏に潜む飲み合わせのリスクや患者の小さな異変にいち早く気づき、薬剤部のチームとともに医療現場を陰から支える姿を通じて、あまり知られていない病院薬剤師の役割と存在意義を描く医療漫画。",
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アンサングシンデレラ"
+    },
+    "sourceNote": "作品公式ページ(ゼノンプラス・コミックシーモア等、2026-08-03閲覧)で、作画荒井ママレ・医療原案富野浩充(焼津市立総合病院薬剤科)・掲載誌(月刊コミックゼノン、2018年7月号-2025年7月号連載)・発行元コアミックスを確認。フジテレビ系でテレビドラマ化(『アンサング・シンデレラ 病院薬剤師の処方箋』)されたがmediaMixのアニメ化はなし。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
   }
 ]
