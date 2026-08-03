@@ -514,8 +514,9 @@ h1 {
 .count-badges {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
   gap: 1px;
-  margin: 10px 0;
+  margin: 10px auto;
   background: var(--color-outline);
   border: 1px solid var(--color-outline);
   border-radius: var(--radius-sm);
