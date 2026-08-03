@@ -1,6 +1,7 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import { TopNav } from "./ui/common/TopNav";
 import { SiteFooter } from "./ui/common/SiteFooter";
+import { ScrollToTop } from "./ui/common/ScrollToTop";
 import { HomePage } from "./ui/home/HomePage";
 import { WorkListPage } from "./ui/works/WorkListPage";
 import { WorkDetailPage } from "./ui/works/WorkDetailPage";
@@ -16,6 +17,7 @@ import { NotFoundPage } from "./ui/common/NotFoundPage";
 export function App() {
   return (
     <BrowserRouter basename={import.meta.env.BASE_URL}>
+      <ScrollToTop />
       <TopNav />
       <Routes>
         <Route path="/" element={<HomePage />} />
