@@ -14454,5 +14454,352 @@
     },
     "sourceNote": "日本語版Wikipedia『ゴリラーマン』記事(2026-08-03閲覧)で作者(既存id harold-sakuishi)・連載期間(1988-1993年)・掲載誌(週刊ヤングマガジン)・巻数(全19巻)・第14回(1990年)講談社漫画賞一般部門受賞・OVA化(1992年・1993年の2作)を確認。小説化は記事内で確認できず未記入。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "qed-shomeishuryo",
+    "title": "Q.E.D.証明終了",
+    "titleKana": "きゅーいーでぃーしょうめいしゅうりょう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kato-motohiro"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "magazine-great",
+    "themeIds": [
+      "detective-mystery"
+    ],
+    "firstPublishedYear": 1997,
+    "latestPublishedYear": 2014,
+    "status": "completed",
+    "volumeCount": 50,
+    "synopsis": "MIT卒業という異色の経歴を持つ天才少年・燈馬想は、幼なじみで行動力抜群の女子高生・水原可奈とともに、日常のふとした瞬間に潜む不可解な事件へ次々と遭遇していく。持ち前の数学的な論理と博覧強記の知識でひとつひとつ証拠を積み上げ、密室殺人や不可能犯罪めいた謎を、決して奇をてらわず筋道立てて鮮やかに解き明かしていく、王道の本格推理漫画。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2009,
+        "result": "第33回 少年部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Q.E.D._証明終了"
+    },
+    "sourceNote": "日本語版Wikipedia『Q.E.D. 証明終了』記事(2026-08-03閲覧)で1997年『マガジンGREAT』誌上の読切からの連載開始・2014年完結・全50巻・2009年講談社漫画賞少年部門受賞を確認。原作・作画とも加藤元浩が単独で手がけるためoriginalAuthorIdsは空配列。アニメ化はされていないためmediaMix.animeはfalse。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "qed-iff-shomeishuryo",
+    "title": "Q.E.D.iff -証明終了-",
+    "titleKana": "きゅーいーでぃーいふしょうめいしゅうりょう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kato-motohiro"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine-r",
+    "themeIds": [
+      "detective-mystery"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2025,
+    "status": "completed",
+    "volumeCount": 30,
+    "synopsis": "前作『Q.E.D.証明終了』から続く、燈馬想と水原可奈のコンビによる後継シリーズ。大学生、そして社会人となり環境が移り変わっても、二人の周囲では変わらず難事件が起こり続ける。前作以上に登場人物同士の人間関係の機微や積み重ねてきた過去に踏み込みつつ、緻密な伏線の張り方と揺るぎない論理で謎を解き明かす姿勢は一貫している。",
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Q.E.D._証明終了"
+    },
+    "sourceNote": "英語版・日本語版Wikipedia『Q.E.D. 証明終了』関連記事(2026-08-03閲覧)で2015年『少年マガジンR』連載開始、2023年にWeb媒体『月マガ基地』へ移行、2025年2月完結、全30巻であることを確認。前作『Q.E.D.証明終了』の直接の後継作。原作・作画とも加藤元浩が単独で手がけるためoriginalAuthorIdsは空配列。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "cmb-shinra-hakubutsukan",
+    "title": "C.M.B.森羅博物館の事件目録",
+    "titleKana": "しーえむびーしんらはくぶつかんのじけんもくろく",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kato-motohiro"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "monthly-shonen-magazine",
+    "themeIds": [
+      "detective-mystery",
+      "adventure"
+    ],
+    "firstPublishedYear": 2005,
+    "latestPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 45,
+    "synopsis": "森羅博物館の若き館長・森羅シンラは、あらゆる研究・調査への関与を許される特別な資格の証「C.M.B.」の指輪を身につけている。人体発火現象や幽霊騒動といった、伝説や神秘に彩られた奇妙な事件を、正義感の強い幼なじみの七瀬立樹とともに、博物学的な知識と地道な考証を武器に解き明かしていく。同じ加藤元浩による『Q.E.D.証明終了』と世界観を共有する姉妹作。",
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/C.M.B._森羅博物館の事件目録"
+    },
+    "sourceNote": "日本語版Wikipedia『C.M.B. 森羅博物館の事件目録』記事(2026-08-03閲覧)で2005年『月刊少年マガジン』連載開始・2020年完結・全45巻・『Q.E.D.証明終了』と同一世界観の姉妹作であることを確認。原作・作画とも加藤元浩が単独で手がけるためoriginalAuthorIdsは空配列。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "tantei-gakuen-q",
+    "title": "探偵学園Q",
+    "titleKana": "たんていがくえんきゅー",
+    "originalAuthorIds": [
+      "amagi-seimaru"
+    ],
+    "artistIds": [
+      "sato-fumiya"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "detective-mystery"
+    ],
+    "firstPublishedYear": 2001,
+    "latestPublishedYear": 2005,
+    "status": "completed",
+    "volumeCount": 22,
+    "synopsis": "「世界一の名探偵」になることを夢見る中学生・九十九龍介(キュー)は、伝説の名探偵が創設した探偵養成学校D.D.S.に特待生として入学する。驚異的な記憶力を持つ少女や多才な同級生など、選ばれし精鋭「Qクラス」の仲間たちと切磋琢磨しながら、正体不明の犯罪組織「プルートゥ」が絡む難事件の数々に挑んでいく青春本格推理。『金田一少年の事件簿』と同じ原作・作画コンビによる作品。",
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/探偵学園Q"
+    },
+    "sourceNote": "日本語版Wikipedia『探偵学園Q』記事(2026-08-03閲覧)で天樹征丸(原作)・さとうふみや(作画)、2001年〜2005年『週刊少年マガジン』連載、全22巻(+プレミアム巻)、アニメ化を確認。原作者・作画家とも『金田一少年の事件簿』(既存作品)と同一人物のため既存idを再利用した。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "mystery-to-iunakare",
+    "title": "ミステリと言う勿れ",
+    "titleKana": "みすてりというなかれ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tamura-yumi"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "flowers",
+    "themeIds": [
+      "detective-mystery",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2016,
+    "status": "ongoing",
+    "volumeCount": 16,
+    "synopsis": "天然パーマの大学生・久能整は、居合わせただけの殺人事件の容疑者として警察の取り調べを受けるはめになる。持ち前の鋭い観察眼と、理屈っぽいほどに長い独特の語り口で、刑事や関係者が見落としていた事件の矛盾を一つずつ突き崩していく。事件そのものの真相解明以上に、そこに関わる人々が抱える心の傷や偏見と向き合っていく点が特徴の異色の推理漫画。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2022,
+        "result": "第67回 一般向け部門受賞"
+      },
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2019,
+        "result": "オンナ編2位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ミステリと言う勿れ"
+    },
+    "sourceNote": "日本語版Wikipedia『ミステリと言う勿れ』記事(2026-08-03閲覧)で田村由美による原作・作画のオリジナル作品であること、2016年11月『月刊フラワーズ』で連載開始、2022年第67回小学館漫画賞一般向け部門受賞、2019年このマンガがすごい!オンナ編2位、2026年2月時点既刊16巻であることを確認。実写ドラマ・映画化はされているがアニメ化情報は確認できずmediaMix.animeはfalseとした。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "jukkakukan-no-satsujin",
+    "title": "十角館の殺人",
+    "titleKana": "じゅっかくかんのさつじん",
+    "originalAuthorIds": [
+      "ayatsuji-yukito"
+    ],
+    "artistIds": [
+      "kiyohara-hiro"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "afternoon",
+    "themeIds": [
+      "detective-mystery",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "とある大学の推理小説研究会に所属する学生7人が、半年前に設計者の建築家が変死したという孤島の奇妙な洋館「十角館」を訪れ、合宿を始める。だが滞在初日から、館を模したあだ名で呼び合うメンバーが一人また一人と殺されていき、外部との連絡も絶たれた極限状況の中で真犯人探しが始まる。新本格ミステリの金字塔とされる綾辻行人の同名小説を、原作者公認の「コミックリメイク」として漫画化した作品。",
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/十角館の殺人"
+    },
+    "sourceNote": "日本語版Wikipedia『十角館の殺人』記事・コミックDAYS掲載情報(2026-08-03閲覧)で綾辻行人原作・清原紘作画、2019年10月号〜2022年6月号『月刊アフタヌーン』連載、全5巻、原作者が「コミックリメイク」と呼び高評価していることを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "spiral-suiri-no-kizuna",
+    "title": "スパイラル 〜推理の絆〜",
+    "titleKana": "すぱいらるすいりのきずな",
+    "originalAuthorIds": [
+      "shirodaira-kyo"
+    ],
+    "artistIds": [
+      "mizuno-eita"
+    ],
+    "publisherId": "square-enix",
+    "labelId": "gangan-monthly",
+    "themeIds": [
+      "detective-mystery",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 1999,
+    "latestPublishedYear": 2006,
+    "status": "completed",
+    "volumeCount": 15,
+    "synopsis": "亡き伝説の探偵の息子でありながら、天才だった兄・理のような推理の才を受け継げなかった青年・鳴海歩は、探偵事務所を営む莉緒とともに、大学や町中で起こる不可解な事件の調査を手伝う羽目になる。当初は密室殺人や暗号解読といった本格推理色の濃い学園ミステリだったが、やがて特殊な能力を持つ謎めいた集団「ブレイドチルドレン」の存在が明らかになり、兄との因縁を軸にした物語へと展開していく。",
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/スパイラル_〜推理の絆〜"
+    },
+    "sourceNote": "日本語版Wikipedia『スパイラル 〜推理の絆〜』記事(2026-08-03閲覧)で城平京原作・水野英多作画、1999年『月刊少年ガンガン』連載開始〜2006年完結・全15巻、アニメ化・小説化を確認。物語後半はバトル色が強まるが、序盤〜中盤は本格推理色が濃いため探偵・古典ミステリ枠として採用。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kyokou-suiri",
+    "title": "虚構推理",
+    "titleKana": "きょこうすいり",
+    "originalAuthorIds": [
+      "shirodaira-kyo"
+    ],
+    "artistIds": [
+      "katase-chashiba"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine-r",
+    "themeIds": [
+      "detective-mystery",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2015,
+    "status": "ongoing",
+    "volumeCount": 25,
+    "synopsis": "幼い頃の事故で片目と片足を失った代わりに、怪異たちの知恵を司る神として祭り上げられた女子高生・岩永琴子。彼女は、不死身の体を持つがゆえに怪異にすら恐れられる青年・桜川九郎とともに、人ならざるものが絡む奇妙な事件に関わっていく。だが二人が目指すのは科学的な真実の解明ではなく、怪異たちが納得できるだけの尤もらしい嘘=「虚構」を推理によって組み立てることだという、逆転の発想が持ち味の特殊設定ミステリ。",
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/虚構推理"
+    },
+    "sourceNote": "日本語版Wikipedia『虚構推理』記事(2026-08-03閲覧)で城平京原作・片瀬茶柴作画、2015年『少年マガジンR』連載開始(2020年より『月刊少年マガジン』にも掲載)、2026年5月時点既刊25巻、アニメ化・原作小説の存在を確認。labelIdは連載開始時点の初出誌である少年マガジンRを採用。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "gosick",
+    "title": "GOSICK -ゴシック-",
+    "titleKana": "ごしっく",
+    "originalAuthorIds": [
+      "sakuraba-kazuki"
+    ],
+    "artistIds": [
+      "amano-sakuya"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "dragon-age",
+    "themeIds": [
+      "detective-mystery",
+      "historical"
+    ],
+    "firstPublishedYear": 2008,
+    "latestPublishedYear": 2012,
+    "status": "completed",
+    "volumeCount": 8,
+    "synopsis": "1924年、遠く極東の島国から架空のヨーロッパの国ソヴュールにある寄宿学校へ留学してきた久城一弥は、校舎に併設された図書館塔の最上階で誰にも知られずひっそりと暮らす、奇妙で美しい少女ヴィクトリカと出会う。書物のあらゆる知識を吸収した彼女の卓越した推理と、一弥の行動力を組み合わせ、学園や町に持ち込まれる数々の怪事件を解決していく、桜庭一樹の人気ライトノベルシリーズのコミカライズ。",
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/GOSICK_-ゴシック-"
+    },
+    "sourceNote": "日本語版Wikipedia『GOSICK -ゴシック-』記事(2026-08-03閲覧)で原作・桜庭一樹(富士見ミステリー文庫)、漫画化は天乃咲哉作画で2008年〜2012年『月刊ドラゴンエイジ』連載・全8巻、アニメ化を確認。novelizationは原作小説自体が先行するコミカライズ作品のためfalseとした。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kindaichi-shonen-gaiden-hanningtachi",
+    "title": "金田一少年の事件簿外伝 犯人たちの事件簿",
+    "titleKana": "きんだいちしょうねんのじけんぼがいでんはんにんたちのじけんぼ",
+    "originalAuthorIds": [
+      "amagi-seimaru",
+      "kanari-yozaburo"
+    ],
+    "artistIds": [
+      "funatsu-shinpei"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "magazine-pocket",
+    "themeIds": [
+      "detective-mystery",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "『金田一少年の事件簿』の本編で名探偵・金田一一によって解き明かされてきた数々の凶悪犯罪を、今度は犯人側の視点から描き直す倒叙ミステリのスピンオフ。犯人がどのような動機を抱き、どのようなトリックで犯行を計画・実行したのか、そしてどこに綻びが生まれ金田一に見破られてしまったのかを、犯人自身の心情に寄り添いながら緻密な過程とともに追体験していく。",
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {
+      "officialUrl": "https://www.kodansha.co.jp/titles/1000030304"
+    },
+    "sourceNote": "講談社公式サイト『金田一少年の事件簿外伝 犯人たちの事件簿』既刊一覧・マガポケベース記事(2026-08-03閲覧)で原作クレジットが天樹征丸・金成陽三郎・さとうふみやの3名、作画が船津紳平、2017年7月『マガジンポケット』連載開始、2020年3月完結、全11巻であることを確認。さとうふみやは当サイトでは既に『金田一少年の事件簿』等の作画家(artists.json、既存id sato-fumiya)として登録済みのため、同一人物を原作者(originalAuthorIds)側にも重複登録しない方針に従い、本作のoriginalAuthorIdsには天樹征丸・金成陽三郎の2名のみを採用した。2022年に30周年記念で1巻のみ「R」として復活したが本体系列とは別扱いとし、latestPublishedYearは本編完結の目安として復活分の年を採用した。原作『金田一少年の事件簿』(既存作品、既存id)とは別作品として新規id発行。専用の日本語版Wikipedia記事は確認できなかったため出典は講談社公式サイトを使用。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "inugami-ke-no-ichizoku",
+    "title": "犬神家の一族",
+    "titleKana": "いぬがみけのいちぞく",
+    "originalAuthorIds": [
+      "yokomizo-seishi"
+    ],
+    "artistIds": [
+      "tsunoda-jiro"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "wild-comics-yokomizo-seishi",
+    "themeIds": [
+      "detective-mystery",
+      "historical"
+    ],
+    "firstPublishedYear": 1976,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "信州の大財閥・犬神家の当主が莫大な財産を遺して死去すると、複雑な血縁関係にある遺族たちの間で遺言状をめぐる醜い相続争いが始まる。まもなく、犬神家に伝わる三種の家宝である斧・琴・菊になぞらえるように遺族が次々と殺害されていく凄惨な連続殺人事件へと発展し、名探偵・金田一耕助が事件の裏に隠された一族の秘密を暴いていく。横溝正史の金田一耕助シリーズを代表する長編を、つのだじろうが漫画化した。",
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/犬神家の一族"
+    },
+    "sourceNote": "ORICON NEWS『金田一耕助シリーズ』掲載作品一覧・MUUSEO掲載書誌情報(2026-08-03閲覧)で、1976年に富士見書房が刊行した「ワイルド・コミックス 横溝正史シリーズ」の1冊としてつのだじろうが横溝正史『犬神家の一族』を漫画化(全1巻)したことを確認。同シリーズは同年の角川映画版とのメディアミックス企画で、他に『八つ墓村』『悪魔の手毬唄』も刊行された(全7巻構想のうち3巻のみ刊行)。現在は講談社漫画文庫・講談社プラチナコミックスとして再刊されているためpublisherIdはkodansha、labelIdの発行元(publisherId)は初出時の富士見書房(現・KADOKAWA)を踏まえkadokawaとした。原作小説自体のWikipedia記事はあるが漫画版単独の記事はないため、原作小説の記事をexternalLinksとして採用しつつ漫画化の事実自体はORICON/MUUSEOで裏取りした。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
   }
 ]

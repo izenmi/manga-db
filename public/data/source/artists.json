@@ -4199,5 +4199,67 @@
     },
     "sourceNote": "日本語版Wikipedia『魁!!クロマティ高校』記事(2026-08-03閲覧)で確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kato-motohiro",
+    "name": "加藤元浩",
+    "nameKana": "かとうもとひろ",
+    "description": "漫画家。理系大学建築学科出身。『Q.E.D.証明終了』『C.M.B.森羅博物館の事件目録』『Q.E.D.iff -証明終了-』等、原作・作画を1人で手がける本格推理漫画で知られる。2009年第33回講談社漫画賞少年部門受賞。",
+    "birthYear": 1966,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/加藤元浩"
+    },
+    "sourceNote": "日本語版Wikipedia『加藤元浩』記事・コミックナタリー・まんが探偵社(2026-08-03閲覧)で経歴・生年・代表作・受賞歴を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kiyohara-hiro",
+    "name": "清原紘",
+    "nameKana": "きよはらひろ",
+    "description": "漫画家・イラストレーター。愛知県出身。『きみにしか聞こえない』『Another』『十角館の殺人』等、小説原作のコミカライズを多く手がける。",
+    "birthYear": 1981,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/清原紘"
+    },
+    "sourceNote": "日本語版Wikipedia『清原紘』記事(2026-08-03閲覧)で経歴・生年・代表作を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "mizuno-eita",
+    "name": "水野英多",
+    "nameKana": "みずのえいた",
+    "description": "漫画家。1998年デビュー。城平京原作『スパイラル 〜推理の絆〜』『スパイラル・アライヴ』の作画で知られる。",
+    "externalLinks": {},
+    "sourceNote": "ニコニコ大百科・まんがseek(2026-08-03閲覧)で経歴・代表作を確認。日本語版Wikipedia記事は未確認のためexternalLinksは空、生年は情報が錯綜しており未記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "katase-chashiba",
+    "name": "片瀬茶柴",
+    "nameKana": "かたせちゃしば",
+    "description": "漫画家。2015年、城平京原作『虚構推理』(少年マガジンR)の作画でデビュー。以降同作を継続して担当している。",
+    "externalLinks": {},
+    "sourceNote": "コミックナタリー・まんがseek(2026-08-03閲覧)で経歴・代表作を確認。日本語版Wikipedia記事は未確認のためexternalLinksは空、生年非公表のため未記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "amano-sakuya",
+    "name": "天乃咲哉",
+    "nameKana": "あまのさくや",
+    "description": "漫画家。愛知県出身。桜庭一樹原作『GOSICK -ゴシック-』(月刊ドラゴンエイジ)の作画で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/天乃咲哉"
+    },
+    "sourceNote": "日本語版Wikipedia『天乃咲哉』記事(2026-08-03閲覧)で経歴・代表作を確認。生年は非公表のため未記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "funatsu-shinpei",
+    "name": "船津紳平",
+    "nameKana": "ふなつしんぺい",
+    "description": "漫画家。早稲田大学卒。『金田一少年の事件簿外伝 犯人たちの事件簿』の作画を担当。",
+    "externalLinks": {},
+    "sourceNote": "マンバ・まんがseek(2026-08-03閲覧)で経歴・代表作を確認。日本語版Wikipedia記事は未確認のためexternalLinksは空、生年は未記載。",
+    "updatedAt": "2026-08-03"
   }
 ]

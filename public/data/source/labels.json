@@ -1592,5 +1592,47 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipedia『スーパーヅガン』『ノーマーク爆牌党』『むこうぶち』『兎-野性の闘牌-』各記事(2026-08-03閲覧)で共通の初出媒体として確認。発行元は竹書房(既存publisherId『takeshobo』を使用)。既存レーベル『kindai-mahjong』(近代麻雀、無印)とは別の派生誌のため新規追加(CLAUDE.mdの類似誌名混同禁止ルールに従う)。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "magazine-great",
+    "name": "マガジンGREAT",
+    "nameKana": "まがじんぐれーと",
+    "publisherId": "kodansha",
+    "description": "講談社がかつて発行していた隔月刊青年漫画誌。後に『マガジンイーノ』『月刊少年マガジン+』へと改題した。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia『Q.E.D. 証明終了』記事(2026-08-03閲覧)で1997年創刊時の連載誌名として確認。現在は後継誌に統合され誌名として現存しないため公式サイトへのリンクはなし。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "shonen-magazine-r",
+    "name": "少年マガジンR",
+    "nameKana": "しょうねんまがじんあーる",
+    "publisherId": "kodansha",
+    "description": "講談社が配信していたWeb漫画雑誌(2023年に「月マガ基地」等へ統合)。『Q.E.D.iff -証明終了-』『虚構推理』の連載開始誌。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia『Q.E.D. 証明終了』『虚構推理』記事(2026-08-03閲覧)で連載開始誌として確認。2023年に後継のWeb媒体へ移行済みのため公式サイトへのリンクはなし。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "magazine-pocket",
+    "name": "マガジンポケット",
+    "nameKana": "まがじんぽけっと",
+    "publisherId": "kodansha",
+    "description": "講談社が運営する漫画配信アプリ・Webサイト。オリジナル連載作品を多数抱える。",
+    "externalLinks": {
+      "officialUrl": "https://pocket.shonenmagazine.com/"
+    },
+    "sourceNote": "講談社公式サイト・マガポケベース記事(2026-08-03閲覧)で『金田一少年の事件簿外伝 犯人たちの事件簿』の連載開始誌であることを確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "wild-comics-yokomizo-seishi",
+    "name": "ワイルド・コミックス 横溝正史シリーズ",
+    "nameKana": "わいるどこみっくすよこみぞせいししりーず",
+    "publisherId": "kadokawa",
+    "description": "富士見書房(現・KADOKAWA)が1976年に刊行した描き下ろし単行本レーベル。角川映画『犬神家の一族』とのメディアミックス企画として、つのだじろうが横溝正史作品を漫画化した。",
+    "externalLinks": {},
+    "sourceNote": "MUUSEO掲載の書誌情報・ORICON NEWS(2026-08-03閲覧)で1976年富士見書房刊・つのだじろう画であることを確認。富士見書房は現在KADOKAWAに統合されているため、姉妹レーベル「月刊ドラゴンエイジ」と同様にpublisherIdはkadokawaとした。連載誌ではなく描き下ろし単行本レーベルのため掲載誌の公式サイトは存在しない。",
+    "updatedAt": "2026-08-03"
   }
 ]

@@ -1099,5 +1099,51 @@
     },
     "sourceNote": "日本語版Wikipedia『さいふうめい』記事(2026-08-03閲覧)で本名・生年・『哲也-雀聖と呼ばれた男-』原作で第24回講談社漫画賞少年部門受賞を確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ayatsuji-yukito",
+    "name": "綾辻行人",
+    "nameKana": "あやつじゆきと",
+    "description": "小説家。1987年『十角館の殺人』でデビューし、新本格ミステリムーブメントの先駆けとなった。「館」シリーズで知られる。",
+    "birthYear": 1960,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/綾辻行人"
+    },
+    "sourceNote": "日本語版Wikipedia『綾辻行人』記事(2026-08-03閲覧)で経歴・代表作・生年を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "shirodaira-kyo",
+    "name": "城平京",
+    "nameKana": "しろだいらきょう",
+    "description": "小説家・漫画原作者。1998年『名探偵に薔薇を』でデビューし、同年より『スパイラル 〜推理の絆〜』の原作を担当。2011年『虚構推理 鋼人七瀬』で本格ミステリ大賞受賞。",
+    "birthYear": 1974,
+    "externalLinks": {},
+    "sourceNote": "コミックナタリー・ニコニコ大百科等(2026-08-03閲覧)で経歴・代表作・生年を確認。日本語版Wikipedia記事は未確認のためexternalLinksは空にした。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "sakuraba-kazuki",
+    "name": "桜庭一樹",
+    "nameKana": "さくらばかずき",
+    "description": "小説家。2007年『赤朽葉家の伝説』で日本推理作家協会賞、2008年『私の男』で直木賞を受賞。『GOSICK』シリーズ等ライトノベルでも人気。",
+    "birthYear": 1971,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/桜庭一樹"
+    },
+    "sourceNote": "日本語版Wikipedia『桜庭一樹』記事(2026-08-03閲覧)で経歴・代表作・生年を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "yokomizo-seishi",
+    "name": "横溝正史",
+    "nameKana": "よこみぞせいし",
+    "description": "小説家(1902-1981)。名探偵・金田一耕助シリーズの生みの親で、江戸川乱歩と並び日本探偵小説の礎を築いた。「犬神家の一族」「獄門島」等の代表作を持つ。",
+    "birthYear": 1902,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/横溝正史"
+    },
+    "sourceNote": "日本語版Wikipedia『横溝正史』記事(2026-08-03閲覧)で生没年・経歴・代表作を確認。",
+    "updatedAt": "2026-08-03"
   }
 ]
