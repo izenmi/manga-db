@@ -1,7 +1,7 @@
 .page {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 14px 20px 32px;
+  padding: 14px 20px 16px;
 }
 
 /* Not sticky — the user wants the full screen for content, header scrolls away. Kept subdued
@@ -57,9 +57,17 @@
 }
 
 .site-footer {
-  margin-top: 40px;
+  margin-top: 20px;
   border-top: 2px solid var(--color-outline);
   background: var(--color-surface-variant);
+}
+
+/* Mobile only: breathing room below the footer so its links aren't flush against the device's
+   bottom edge / gesture-nav area. Desktop keeps the tighter margin above untouched. */
+@media (max-width: 640px) {
+  .site-footer {
+    padding-bottom: max(24px, env(safe-area-inset-bottom));
+  }
 }
 
 .site-footer__inner {
@@ -488,66 +496,86 @@ h1 {
   line-height: 1.6;
 }
 
+/* A single joined "stat strip" (hairline dividers via the 1px gap + outline-colored background
+   showing through) reads calmer and more dashboard-like than six separate sticker-shadow boxes. */
 .count-badges {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
-  gap: 8px;
+  gap: 1px;
   margin: 14px 0;
+  background: var(--color-outline);
+  border: 1px solid var(--color-outline);
+  border-radius: var(--radius-md);
+  overflow: hidden;
 }
 
 .count-badge {
-  display: block;
-  text-align: center;
-  padding: 12px 8px;
-  border-radius: var(--radius-md);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3px;
+  padding: 16px 8px 13px;
   background: var(--color-surface);
-  border: 2px solid var(--color-outline);
+  border-bottom: 2px solid transparent;
   text-decoration: none;
   color: var(--color-text);
-  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  transition: background 0.15s ease;
 }
 
 .count-badge:hover {
-  transform: translateY(-2px);
-  box-shadow: none;
+  background: var(--color-surface-variant);
 }
 
 .count-badge--pink {
-  border-color: var(--color-pink-strong);
-  box-shadow: 0 3px 0 var(--color-pink-strong);
+  border-bottom-color: var(--color-pink-strong);
 }
 .count-badge--blue {
-  border-color: var(--color-blue-strong);
-  box-shadow: 0 3px 0 var(--color-blue-strong);
+  border-bottom-color: var(--color-blue-strong);
 }
 .count-badge--mint {
-  border-color: var(--color-mint-strong);
-  box-shadow: 0 3px 0 var(--color-mint-strong);
+  border-bottom-color: var(--color-mint-strong);
 }
 .count-badge--yellow {
-  border-color: var(--color-yellow-strong);
-  box-shadow: 0 3px 0 var(--color-yellow-strong);
+  border-bottom-color: var(--color-yellow-strong);
 }
 .count-badge--purple {
-  border-color: var(--color-primary);
-  box-shadow: 0 3px 0 var(--color-primary);
+  border-bottom-color: var(--color-primary);
 }
 .count-badge--peach {
-  border-color: var(--color-peach-strong);
-  box-shadow: 0 3px 0 var(--color-peach-strong);
+  border-bottom-color: var(--color-peach-strong);
 }
 
 .count-badge__number {
-  display: block;
-  font-size: 1.5rem;
+  font-size: 1.6rem;
   font-weight: 800;
+  font-variant-numeric: tabular-nums;
   color: var(--color-ink);
 }
 
+.count-badge--pink .count-badge__number {
+  color: var(--color-pink-strong);
+}
+.count-badge--blue .count-badge__number {
+  color: var(--color-blue-strong);
+}
+.count-badge--mint .count-badge__number {
+  color: var(--color-mint-strong);
+}
+.count-badge--yellow .count-badge__number {
+  color: var(--color-yellow-strong);
+}
+.count-badge--purple .count-badge__number {
+  color: var(--color-primary);
+}
+.count-badge--peach .count-badge__number {
+  color: var(--color-peach-strong);
+}
+
 .count-badge__label {
-  font-size: 0.8rem;
+  font-size: 0.76rem;
   color: var(--color-text-muted);
   font-weight: 700;
+  letter-spacing: 0.02em;
 }
 
 .home-section {
@@ -598,38 +626,53 @@ h1 {
   display: flex;
   flex-direction: column;
   gap: 4px;
-  padding: 14px 16px;
+  padding: 16px 18px;
   border-radius: var(--radius-md);
   background: var(--color-surface);
-  border: 2px solid var(--color-outline);
+  border: 1px solid var(--color-outline);
+  border-left: 3px solid var(--color-outline);
   text-decoration: none;
   color: var(--color-text);
-  transition: transform 0.15s ease;
+  transition: border-color 0.15s ease, background 0.15s ease;
 }
 
 .sister-site-card:hover {
-  transform: translateY(-2px);
+  background: var(--color-surface-variant);
 }
 
 .sister-site-card__name {
-  font-size: 1.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  font-size: 1.05rem;
   font-weight: 800;
   color: var(--color-ink);
+}
+
+.sister-site-card__name::after {
+  content: "→";
+  font-weight: 700;
+  color: var(--color-text-muted);
+  transition: transform 0.15s ease;
+}
+
+.sister-site-card:hover .sister-site-card__name::after {
+  transform: translateX(3px);
 }
 
 .sister-site-card__desc {
   font-size: 0.82rem;
   color: var(--color-text-muted);
+  line-height: 1.5;
 }
 
 .sister-site-card--ranobe {
-  border-color: #8bc4ea;
-  box-shadow: 0 3px 0 #8bc4ea;
+  border-left-color: #8bc4ea;
 }
 
 .sister-site-card--game {
-  border-color: #8fd66b;
-  box-shadow: 0 3px 0 #8fd66b;
+  border-left-color: #8fd66b;
 }
 
 .source-note {
