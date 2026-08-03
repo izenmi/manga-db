@@ -1562,5 +1562,35 @@
     },
     "sourceNote": "日本語版Wikipedia『月刊コミックゼノン』記事(2026-08-03閲覧)で創刊経緯・現行発行元を確認。『アンサングシンデレラ 病院薬剤師 葵みどり』は2018年の連載開始時点で本誌に掲載されていたため、現行発行元コアミックスをpublisherIdとして設定。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kindai-mahjong-gold",
+    "name": "近代麻雀ゴールド",
+    "nameKana": "きんだいまーじゃんごーるど",
+    "publisherId": "takeshobo",
+    "description": "竹書房が発行していた麻雀漫画雑誌。『近代麻雀』の派生誌の一つ。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『天 天和通りの快男児』記事(2026-08-03閲覧)で『天 天和通りの快男児』(福本伸行、1989〜2002年)の初出媒体として確認。発行元は竹書房(既存publisherId『takeshobo』を使用)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "bessatsu-kindai-mahjong",
+    "name": "別冊近代麻雀",
+    "nameKana": "べっさつきんだいまーじゃん",
+    "publisherId": "takeshobo",
+    "description": "竹書房が発行していた麻雀漫画雑誌。『近代麻雀』の増刊・派生誌の一つ。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『麻雀飛翔伝 哭きの竜』記事(2026-08-03閲覧)で『哭きの竜』(能條純一、1985〜1990年)の初出媒体として確認。発行元は竹書房(既存publisherId『takeshobo』を使用)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kindai-mahjong-original",
+    "name": "近代麻雀オリジナル",
+    "nameKana": "きんだいまーじゃんおりじなる",
+    "publisherId": "takeshobo",
+    "description": "竹書房が発行する麻雀漫画雑誌。『近代麻雀』の派生誌の一つ。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『スーパーヅガン』『ノーマーク爆牌党』『むこうぶち』『兎-野性の闘牌-』各記事(2026-08-03閲覧)で共通の初出媒体として確認。発行元は竹書房(既存publisherId『takeshobo』を使用)。既存レーベル『kindai-mahjong』(近代麻雀、無印)とは別の派生誌のため新規追加(CLAUDE.mdの類似誌名混同禁止ルールに従う)。",
+    "updatedAt": "2026-08-03"
   }
 ]

@@ -4050,5 +4050,88 @@
     "externalLinks": {},
     "sourceNote": "ゼノンプラス・コミックシーモア等の作品ページ(2026-08-03閲覧)で作画クレジットを確認。生年等の詳細プロフィールは未確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "nojo-junichi",
+    "name": "能條純一",
+    "nameKana": "のうじょうじゅんいち",
+    "description": "『哭きの竜』『月下の棋士』などで知られる漫画家。1985年『哭きの竜』で人気を博し、劇画タッチの勝負ものを多く手がけた。",
+    "birthYear": 1951,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/能條純一"
+    },
+    "sourceNote": "日本語版Wikipedia『能條純一』記事(2026-08-03閲覧)で生年・経歴・『哭きの竜』(1985年『別冊近代麻雀』連載開始)が代表作の一つであることを確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "amajishi-etsuya",
+    "name": "天獅子悦也",
+    "nameKana": "あまじしえつや",
+    "description": "『むこうぶち』の作者。バブル期の高レート裏麻雀を舞台に、主人公に敗れた者たちの視点から物語を描く麻雀劇画で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/天獅子悦也"
+    },
+    "sourceNote": "日本語版Wikipedia『天獅子悦也』および『むこうぶち』記事(2026-08-03閲覧)で経歴・代表作を確認。生年は未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "katayama-masayuki",
+    "name": "片山まさゆき",
+    "nameKana": "かたやままさゆき",
+    "description": "『スーパーヅガン』『ノーマーク爆牌党』『打姫オバカミーコ』などの麻雀漫画で知られる漫画家。自身も麻雀の実力者として知られ、麻雀理論に基づいた作風を特徴とする。",
+    "birthYear": 1959,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/片山まさゆき"
+    },
+    "sourceNote": "日本語版Wikipedia『片山まさゆき』記事(2026-08-03閲覧)で生年・経歴・代表作(『スーパーヅガン』『ノーマーク爆牌党』等)を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "minegishi-nobuaki",
+    "name": "嶺岸信明",
+    "nameKana": "みねぎしのぶあき",
+    "description": "『天牌』の作画を担当する漫画家。麻雀劇画を中心に、テレビドラマ化・映画化された作品も含め幅広いジャンルを手がける。",
+    "birthYear": 1959,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/嶺岸信明"
+    },
+    "sourceNote": "日本語版Wikipedia『嶺岸信明』記事(2026-08-03閲覧)で生年・経歴・『天牌』作画担当であることを確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "hoshino-yasushi",
+    "name": "星野泰視",
+    "nameKana": "ほしのやすし",
+    "description": "『哲也-雀聖と呼ばれた男-』の作画を担当する漫画家。浦沢直樹のアシスタントを経てデビューし、同作で第24回講談社漫画賞少年部門を受賞した。",
+    "birthYear": 1969,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/星野泰視"
+    },
+    "sourceNote": "日本語版Wikipedia『星野泰視』記事(2026-08-03閲覧)で生年・経歴・『哲也-雀聖と呼ばれた男-』作画担当・講談社漫画賞受賞を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "tanaka-makoto",
+    "name": "田中誠",
+    "nameKana": "たなかまこと",
+    "description": "『ギャンブルレーサー』の作者。競輪を題材にしたギャンブル漫画で知られる漫画家。",
+    "birthYear": 1960,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/田中誠_(漫画家)"
+    },
+    "sourceNote": "日本語版Wikipedia『田中誠(漫画家)』記事(2026-08-03閲覧)で生年・経歴・『ギャンブルレーサー』の連載経緯(モーニング1988年開始〜2002年、イブニングへ移行後2006年まで)を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ito-makoto",
+    "name": "伊藤誠",
+    "nameKana": "いとうまこと",
+    "description": "『兎-野性の闘牌-』の作者。麻雀漫画を専門とする漫画家。",
+    "birthYear": 1969,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/伊藤誠_(漫画家)"
+    },
+    "sourceNote": "日本語版Wikipedia『伊藤誠(漫画家)』記事(2026-08-03閲覧)で生年・経歴・『兎-野性の闘牌-』(竹書房、全17巻)が代表作であることを確認。",
+    "updatedAt": "2026-08-03"
   }
 ]

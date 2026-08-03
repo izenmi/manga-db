@@ -13863,5 +13863,293 @@
     },
     "sourceNote": "作品公式ページ(ゼノンプラス・コミックシーモア等、2026-08-03閲覧)で、作画荒井ママレ・医療原案富野浩充(焼津市立総合病院薬剤科)・掲載誌(月刊コミックゼノン、2018年7月号-2025年7月号連載)・発行元コアミックスを確認。フジテレビ系でテレビドラマ化(『アンサング・シンデレラ 病院薬剤師の処方箋』)されたがmediaMixのアニメ化はなし。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ten-tenhodori-no-kaidanji",
+    "title": "天 天和通りの快男児",
+    "titleKana": "てん てんほーどおりのかいだんじ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "fukumoto-nobuyuki"
+    ],
+    "publisherId": "takeshobo",
+    "labelId": "kindai-mahjong-gold",
+    "themeIds": [
+      "gambling",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 1989,
+    "latestPublishedYear": 2002,
+    "status": "completed",
+    "volumeCount": 18,
+    "synopsis": "理論派の雀士とカリスマ性を持つ博打打ちが、ある喫茶店で出会ったことをきっかけに、裏社会の高レート麻雀の世界へと身を投じていく。二人を軸にした人間ドラマとして始まった物語は、やがて麻雀界の頂点を決める大規模な団体戦「東西戦」へと発展していく。福本伸行の実質的な出世作であり、後の代表作『アカギ』が誕生するきっかけともなった、麻雀漫画史における重要な一作。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/天_天和通りの快男児"
+    },
+    "sourceNote": "日本語版Wikipedia『天 天和通りの快男児』記事(2026-08-03閲覧)で作者(福本伸行、既存artist id『fukumoto-nobuyuki』を再利用、オリジナル作品)・近代麻雀ゴールド(竹書房)にて1989〜2002年連載・単行本全18巻・『アカギ』のスピンオフ元であることを確認。2018年にテレビドラマ化(実写)されているがアニメ化は確認できずmediaMix.animeはfalseとした。あらすじは独自要約。テーマは既存id『gambling』『suspense-psychological』を付与。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "naki-no-ryu",
+    "title": "哭きの竜",
+    "titleKana": "なきのりゅう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nojo-junichi"
+    ],
+    "publisherId": "takeshobo",
+    "labelId": "bessatsu-kindai-mahjong",
+    "themeIds": [
+      "gambling",
+      "suspense-psychological",
+      "crime-underworld"
+    ],
+    "firstPublishedYear": 1985,
+    "latestPublishedYear": 1990,
+    "status": "completed",
+    "volumeCount": 9,
+    "synopsis": "裏社会の巨大な利権が絡む闇麻雀の世界で、驚異的な強運と、通常は不利とされる「鳴き」を武器にした独自の打ち筋を持つ雀士「哭きの竜」の存在が知られるようになる。その規格外の力を我が物にしようと、複数の暴力団組織が彼を巡って争いを繰り広げていく。イカサマ描写が主流だった麻雀漫画の潮流を大きく変えたとされる、劇画タッチの先駆的作品として高く評価されている。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/麻雀飛翔伝_哭きの竜"
+    },
+    "sourceNote": "日本語版Wikipedia『麻雀飛翔伝 哭きの竜』記事(2026-08-03閲覧)で正式タイトル・作者(能條純一、既存artist該当なしのため新規id『nojo-junichi』を発行、オリジナル作品)・別冊近代麻雀(竹書房)にて1985〜1990年連載・単行本全9巻(英語版Wikipediaで確認)・OVA化(1988〜1990年、アニメ)されたことを確認。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "mukoubuchi",
+    "title": "むこうぶち",
+    "titleKana": "むこうぶち",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "amajishi-etsuya"
+    ],
+    "publisherId": "takeshobo",
+    "labelId": "kindai-mahjong-original",
+    "themeIds": [
+      "gambling",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 1999,
+    "status": "ongoing",
+    "volumeCount": 65,
+    "synopsis": "バブル経済期の日本を舞台に、裏社会の高レート麻雀に出没する謎めいた雀士・傀を中心に据えながら、あえて彼自身の視点ではなく、彼に挑んでは敗れ去っていく者たちの側から物語を紡いでいく異色の麻雀劇画。勝者の栄光ではなく敗者の人生模様に焦点を当てる語り口が特徴で、開始から四半世紀以上を経てなお竹書房の看板作品として長期連載を続けている。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/むこうぶち"
+    },
+    "sourceNote": "日本語版Wikipedia『むこうぶち』記事(2026-08-03閲覧)で作者(天獅子悦也、既存artist該当なしのため新規id『amajishi-etsuya』を発行。協力者の安藤満/ケネス徳田は原作者ではなく闘牌協力のクレジットのためoriginalAuthorIdsには含めない)・初出は近代麻雀オリジナル(1999年連載開始、竹書房)・2000年に近代麻雀へ移籍・既刊65巻(2026年3月時点)・連載中であることを確認。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "super-zugan",
+    "title": "スーパーヅガン",
+    "titleKana": "すーぱーづがん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "katayama-masayuki"
+    ],
+    "publisherId": "takeshobo",
+    "labelId": "kindai-mahjong-original",
+    "themeIds": [
+      "gambling",
+      "comedy",
+      "romance"
+    ],
+    "firstPublishedYear": 1981,
+    "latestPublishedYear": 1989,
+    "status": "completed",
+    "volumeCount": 9,
+    "synopsis": "かつて優等生だった青年が、不良たちとの麻雀勝負に敗れたことをきっかけに人生が転落し、以後は極端な不運にとりつかれてしまう。そんな彼にひそかに想いを寄せる同級生の女子もまた麻雀に目覚め、驚異的な強運を発揮していくようになる。二人の恋愛模様と麻雀の駆け引きが絡み合いながら展開するコメディタッチの作品で、麻雀人口の拡大にも貢献したとされる。後年には未完のまま終わった続編も存在する。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/スーパーヅガン"
+    },
+    "sourceNote": "日本語版Wikipedia『スーパーヅガン』記事(2026-08-03閲覧)で作者(片山まさゆき、既存artist該当なしのため新規id『katayama-masayuki』を発行、オリジナル作品)・近代麻雀オリジナル(竹書房)にて1981〜1989年連載・単行本全9巻・1992〜1993年にテレビアニメ化されたことを確認。続編『スーパーヅガンアダルト』(全3巻、未完)は本作とは別作品として本batchには含めない。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "tenpai",
+    "title": "天牌",
+    "titleKana": "てんぱい",
+    "originalAuthorIds": [
+      "raiga-tomoshi"
+    ],
+    "artistIds": [
+      "minegishi-nobuaki"
+    ],
+    "publisherId": "nihon-bungeisha",
+    "labelId": "weekly-manga-goraku",
+    "themeIds": [
+      "gambling",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 1999,
+    "status": "ongoing",
+    "volumeCount": 117,
+    "synopsis": "大学を中退してプロの雀士を志した青年が、伝説的な「打ち師」と呼ばれる雀士のもとに弟子入りし、数々の強豪たちと卓を囲みながら己の腕を磨いていく本格麻雀劇画。正式題名は『麻雀飛龍伝説 天牌』。裏社会の思惑も絡む高レートの真剣勝負を積み重ねながら、麻雀界の頂点を目指していく姿を描く、休載を挟みつつも1999年から続く超長期連載シリーズ。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/天牌"
+    },
+    "sourceNote": "日本語版Wikipedia『天牌』記事(2026-08-03閲覧)で正式タイトル(麻雀飛龍伝説 天牌)・原作(来賀友志、既存original-author該当なしのため新規id『raiga-tomoshi』を発行)・作画(嶺岸信明、既存artist該当なしのため新規id『minegishi-nobuaki』を発行)・週刊漫画ゴラク(日本文芸社、既存labelId『weekly-manga-goraku』を再利用)にて1999年5月連載開始・2026年6月時点で既刊117巻・一時休載を経て2026年2月に連載再開し現在も連載中であることを確認。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "no-mark-bakuhaitou",
+    "title": "ノーマーク爆牌党",
+    "titleKana": "のーまーくばくはいとう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "katayama-masayuki"
+    ],
+    "publisherId": "takeshobo",
+    "labelId": "kindai-mahjong-original",
+    "themeIds": [
+      "gambling",
+      "suspense-psychological",
+      "comedy"
+    ],
+    "firstPublishedYear": 1989,
+    "latestPublishedYear": 1997,
+    "status": "completed",
+    "volumeCount": 9,
+    "synopsis": "大学の雀荘に集う学生たちの前に、相手の手牌を読み切る「爆牌」という技を武器に麻雀界の三大タイトルを独占する天才雀士・爆岡弾十郎が現れる。その圧倒的な力に魅せられたライバルの学生が、独自に編み出した戦術「色の支配」を武器に幾度も挑み続けていく様を描く。麻雀ライターの全面協力による、理論に裏打ちされた緻密な闘牌描写で高く評価された作品。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ノーマーク爆牌党"
+    },
+    "sourceNote": "日本語版Wikipedia『ノーマーク爆牌党』記事(2026-08-03閲覧)で作者(片山まさゆき、既存artist id『katayama-masayuki』を再利用、オリジナル作品)・近代麻雀オリジナル(竹書房)にて1989〜1997年連載・単行本全9巻を確認。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "tetsuya-jansei-to-yobareta-otoko",
+    "title": "哲也-雀聖と呼ばれた男-",
+    "titleKana": "てつやじゃんせいとよばれたおとこ",
+    "originalAuthorIds": [
+      "sai-fuumei"
+    ],
+    "artistIds": [
+      "hoshino-yasushi"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "gambling",
+      "suspense-psychological",
+      "historical"
+    ],
+    "firstPublishedYear": 1997,
+    "latestPublishedYear": 2005,
+    "status": "completed",
+    "volumeCount": 41,
+    "synopsis": "戦後まもない混乱期の日本を舞台に、天性の強運を持つ青年・哲也が博打の世界に身を投じ、個性豊かな強豪雀士たちとの命がけの勝負を幾度も経ながら、やがて「雀聖」と呼ばれるまでに成長していく姿を描く。作家・阿佐田哲也の実体験的な作品群を下敷きにした麻雀漫画で、多くの読者を獲得し第24回講談社漫画賞少年部門を受賞した人気シリーズ。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2000,
+        "result": "少年部門受賞(第24回)"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/哲也-雀聖と呼ばれた男"
+    },
+    "sourceNote": "日本語版Wikipedia『哲也-雀聖と呼ばれた男』記事(2026-08-03閲覧)で原作(さいふうめい、新規id『sai-fuumei』を発行)・作画(星野泰視、新規id『hoshino-yasushi』を発行)・週刊少年マガジン(講談社、既存labelId『shonen-magazine』を再利用)にて1997〜2005年連載・単行本全41巻・2000年第24回講談社漫画賞少年部門受賞(既存awardId『kodansha-manga-award』を再利用)を確認。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "gamble-racer",
+    "title": "ギャンブルレーサー",
+    "titleKana": "ぎゃんぶるれーさー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tanaka-makoto"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning",
+    "themeIds": [
+      "gambling",
+      "sports",
+      "comedy"
+    ],
+    "firstPublishedYear": 1988,
+    "latestPublishedYear": 2002,
+    "status": "completed",
+    "volumeCount": 39,
+    "synopsis": "競輪選手の関優勝は、生来の博打好きで日頃は怠け癖を隠さない男だが、いざ勝負事となると異様な集中力を発揮する異色の存在。私生活でのあらゆる賭け事にまつわるコメディタッチの描写から始まり、物語が進むにつれて競輪という競技そのものの戦術や駆け引き、心理戦を緻密に描く本格派の作品へと進化していく。連載終了後も改題した続編が長く続いた人気シリーズ。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ギャンブルレーサー"
+    },
+    "sourceNote": "日本語版Wikipedia『ギャンブルレーサー』記事(2026-08-03閲覧)で作者(田中誠、既存artist該当なしのため新規id『tanaka-makoto』を発行、オリジナル作品)・モーニング(講談社)にて1988〜2002年連載・単行本全39巻を確認。2002年以降は『二輪乃書 ギャンブルレーサー』と改題してイブニングへ移籍し2006年まで続巻(全7巻)、さらに2013〜2015年に続編『セカンドレーサー』が連載されたが、firstPublishedYear/labelIdは初出の『ギャンブルレーサー』(モーニング)を採用し、改題後の展開はsourceNoteに記載するに留めた。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "utahime-obaka-miiko",
+    "title": "打姫オバカミーコ",
+    "titleKana": "うたひめおばかみーこ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "katayama-masayuki"
+    ],
+    "publisherId": "takeshobo",
+    "labelId": "kindai-mahjong",
+    "themeIds": [
+      "gambling",
+      "comedy"
+    ],
+    "firstPublishedYear": 2004,
+    "latestPublishedYear": 2010,
+    "status": "completed",
+    "volumeCount": 15,
+    "synopsis": "麻雀の基礎知識すら怪しい新人女流プロ雀士のミーコが、かつて栄光を極めながらも一度は落ちぶれた雀士との出会いをきっかけに弟子入りし、厳しい勝負の世界で少しずつ実力をつけていく成長物語。ほぼ毎話に具体的な麻雀の戦術解説を織り込む構成が特徴で、「読むと麻雀が強くなる」と評判になった、実用書的な側面も併せ持つ異色の麻雀漫画。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/打姫オバカミーコ"
+    },
+    "sourceNote": "日本語版Wikipedia『打姫オバカミーコ』記事(2026-08-03閲覧)で作者(片山まさゆき、既存artist id『katayama-masayuki』を再利用、オリジナル作品)・近代麻雀(竹書房、既存labelId『kindai-mahjong』を再利用)にて2004〜2010年連載・単行本全15巻を確認。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "usagi-yasei-no-touhai",
+    "title": "兎-野性の闘牌-",
+    "titleKana": "うさぎやせいのとうはい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ito-makoto"
+    ],
+    "publisherId": "takeshobo",
+    "labelId": "kindai-mahjong-original",
+    "themeIds": [
+      "gambling",
+      "suspense-psychological",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1996,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 17,
+    "synopsis": "学校でいじめられていた高校生が、大人に代わって麻雀を打つ十代の「代打ち」集団ZOOに加わり、次々と麻雀勝負を繰り広げながら成長していく物語。裏社会の組織や、それぞれ特殊な能力を持つ敵対者たちとの過酷な闘牌を経て、次第に危険度を増していく抗争に巻き込まれていく、バトル漫画としての色合いが強い麻雀漫画。アーケードゲーム化・Vシネマ化・映画化もされた人気シリーズ。",
+    "awardResults": [],
+    "mediaMix": {
+      "anime": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/兎-野性の闘牌-"
+    },
+    "sourceNote": "日本語版Wikipedia『兎-野性の闘牌-』記事(2026-08-03閲覧)で作者(伊藤誠、新規id『ito-makoto』を発行、オリジナル作品)・近代麻雀オリジナル(竹書房)にて1996年連載開始・その後WINNING/近代麻雀へ移籍・2017年6月完結・単行本全17巻を確認。実写Vシネマ・映画化はあるがアニメ化は確認できずmediaMix.animeはfalseとした。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
   }
 ]
