@@ -461,14 +461,6 @@ h1 {
   line-height: 1.6;
 }
 
-/* Constrains the home hero's search box — full page width (1200px) read as oversized for a
-   single search field. Matches .count-badges' max-width just below it so the two line up.
-   List-page filter rows keep the unconstrained .search-box. */
-.home-search-form {
-  max-width: 620px;
-  margin: 0 auto;
-}
-
 /* A single joined "stat strip" (hairline dividers via the 1px gap + outline-colored background
    showing through) reads calmer and more dashboard-like than six separate sticker-shadow boxes. */
 /* flex-wrap (not grid auto-fit) so a partially-filled last row doesn't leave empty phantom
