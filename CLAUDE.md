@@ -68,7 +68,7 @@
 - 見出しフォントは`M PLUS Rounded 1c`、チップ(テーマ・受賞)で情報を出す
 - PC画面の余白を無駄にしない(`.work-grid`は2カラムグリッド、`.page`は`max-width: 1200px`)
 - `src/theme/theme.css`・`src/ui/common/common.css`はranobe-dbからほぼ無変更でコピーしている(アクセントカラー以外)
-- 作品カード(`WorkCard.tsx`)はカード全体(下部の余白含む)をクリックすると作品詳細へ遷移する。内部のテーマチップだけは`stopPropagation`でテーマページへの遷移を維持している(`<a>`のネスト防止のため、カード自体は`<Link>`でなく`role="link"`付きの`div`)
+- 作品カード(`WorkCard.tsx`)はカード全体(下部の余白含む)がクリック領域になっている。2026-08-03に「中クリックで新規タブが開かない」不具合を修正するため、`role="link"`付き`div`+`onClick`方式から「ストレッチリンク」方式(カード全体を覆う透明な`<Link>`を`position: absolute; inset: 0;`で重ね、内部のテーマチップ`<Link>`だけ`position: relative`でその上に表示)に変更した。これにより中クリック・Ctrl+クリック・右クリックメニュー・キーボード操作がすべてネイティブな`<a>`の挙動になった(`stopPropagation`は不要になり削除)
 - 作品一覧のフィルターに「Web漫画原作で絞り込み」は無い(2026-08-02にユーザー要望で削除)。`WebComicPlatform`型・`webComicSource`フィールド自体は残っており、作品詳細ページのWeb版リンクでは引き続き使う
 
 ## コマンド
@@ -97,7 +97,7 @@ npm run preview
 - **ピックアップ作品**: `getWorks()`で全作品を取得し、`pickRandomWorks()`(部分Fisher–Yates)で6件をランダム抽出して`WorkCard`で表示。`useMemo`の依存が`worksState`(オブジェクト全体)なので、ページ再マウント時(=遷移して戻ってきたとき)だけ再抽選され、検索ボックス入力等の再レンダーでは変わらない
 - **受賞作スポットライト**: 全作品の`awardSummaries`を`flattenRecentAwards()`でフラット化し年降順で上位6件を表示。`AwardDetailPage.tsx`の`winner-list`パターンを流用(賞名リンクを追加した点だけ拡張)
 - **人気テーマ**: `getThemes()`を`workCount`降順で上位12件、チップリンクで`/works?theme=<id>`へ
-- **姉妹サイト紹介カード**: 既存の`SiteFooter`の小さいテキストリンクとは別に、より目立つカード(残り2サイトへのリンク、各リンク先サイト自身のアクセントカラーで縁取り)を新設。データはHomePage内のローカル定数(SiteFooterとは共有しない)
+- **姉妹サイト紹介カード**: より目立つカード(残り2サイトへのリンク、各リンク先サイト自身のアクセントカラーで縁取り)を新設。データはHomePage内のローカル定数。**全ページ下部の`SiteFooter`(姉妹サイトへの小さいテキストリンク)は2026-08-03にユーザー指示で削除済み**(`App.tsx`からの呼び出し・コンポーネント本体・`common.css`の`.site-footer*`ルールを削除)。姉妹サイトへの導線はこのホームページのカードのみに一本化されている
 
 `colorForYear`/`YEAR_COLORS`は従来`AwardDetailPage.tsx`にprivateで定義されていたが、受賞作スポットライトからも使うため`src/ui/common/yearColor.ts`に抽出した。姉妹サイト(ranobe-db/game-db)にも同一パターンで実装済み(エンティティ名・ルート名・アクセントカラーのみ置き換え)。
 

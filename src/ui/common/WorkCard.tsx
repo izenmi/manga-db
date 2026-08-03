@@ -1,4 +1,4 @@
-import { Link, useNavigate } from "react-router-dom";
+import { Link } from "react-router-dom";
 import type { WorkGenerated } from "../../types";
 import { WorkCover } from "./WorkCover";
 
@@ -22,27 +22,16 @@ function mediaMixLabel(work: WorkGenerated): string | null {
 }
 
 /** Fuller card for the main work list page: cover thumbnail on the left, and a right-hand
- *  column (title/author/label/awards + clickable theme tags). The whole card navigates to the
- *  work page on click (including the empty space below the tags), so it's a div rather than an
- *  <a> — nesting the theme tags' own <Link>s inside an outer <a> isn't valid HTML. Theme tag
- *  clicks stop propagation so they go to the theme page instead of the work page. */
+ *  column (title/author/label/awards + clickable theme tags). The whole card navigates to
+ *  the work page via a "stretched link" (`work-card__cover-link`, an absolutely-positioned
+ *  <Link> covering the entire card) rather than a `<div onClick>` — that keeps the click target
+ *  a real `<a>` so middle-click/ctrl-click "open in new tab" and keyboard nav work natively. The
+ *  theme tags' own `<Link>`s are layered above it (`position: relative` in CSS) so they still
+ *  navigate to their own theme page instead of the work page. */
 export function WorkCard({ work }: { work: WorkGenerated }) {
-  const navigate = useNavigate();
-  const goToWork = () => navigate(`/works/${work.id}`);
-
   return (
-    <div
-      className="work-card"
-      role="link"
-      tabIndex={0}
-      onClick={goToWork}
-      onKeyDown={(e) => {
-        if (e.key === "Enter" || e.key === " ") {
-          e.preventDefault();
-          goToWork();
-        }
-      }}
-    >
+    <div className="work-card">
+      <Link to={`/works/${work.id}`} className="work-card__cover-link" aria-label={work.title} />
       <WorkCover title={work.title} coverUrl={work.coverUrl} size="sm" />
       <div className="work-card__content">
         <div className="work-card__title">{work.title}</div>
@@ -62,7 +51,7 @@ export function WorkCard({ work }: { work: WorkGenerated }) {
         {work.themeIds.length > 0 && (
           <div className="chip-row">
             {work.themeIds.map((themeId, i) => (
-              <Link className="chip" to={`/themes/${themeId}`} key={themeId} onClick={(e) => e.stopPropagation()}>
+              <Link className="chip" to={`/themes/${themeId}`} key={themeId}>
                 {work.themeNames[i]}
               </Link>
             ))}

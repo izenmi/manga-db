@@ -1,6 +1,5 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import { TopNav } from "./ui/common/TopNav";
-import { SiteFooter } from "./ui/common/SiteFooter";
 import { ScrollToTop } from "./ui/common/ScrollToTop";
 import { HomePage } from "./ui/home/HomePage";
 import { WorkListPage } from "./ui/works/WorkListPage";
@@ -36,7 +35,6 @@ export function App() {
         <Route path="/about" element={<AboutPage />} />
         <Route path="*" element={<NotFoundPage />} />
       </Routes>
-      <SiteFooter />
     </BrowserRouter>
   );
 }

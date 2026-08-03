@@ -56,60 +56,6 @@
   color: var(--color-orange-deep);
 }
 
-.site-footer {
-  margin-top: 10px;
-  border-top: 2px solid var(--color-outline);
-  background: var(--color-surface-variant);
-}
-
-/* Mobile only: breathing room below the footer so its links aren't flush against the device's
-   bottom edge / gesture-nav area. Desktop keeps the tighter margin above untouched. */
-@media (max-width: 640px) {
-  .site-footer {
-    padding-bottom: max(24px, env(safe-area-inset-bottom));
-  }
-}
-
-.site-footer__inner {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 6px 20px;
-  text-align: center;
-}
-
-.site-footer__label {
-  margin: 0 0 8px;
-  font-size: 0.78rem;
-  color: var(--color-text-muted);
-  font-weight: 700;
-}
-
-.site-footer__links {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 6px 18px;
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-.site-footer__links a {
-  color: var(--color-orange-deep);
-  font-weight: 700;
-  text-decoration: none;
-}
-
-.site-footer__links a:hover {
-  text-decoration: underline;
-}
-
-.site-footer__desc {
-  color: var(--color-text-muted);
-  font-size: 0.8rem;
-  margin-left: 4px;
-}
-
 h1 {
   font-size: 1.35rem;
   margin: 4px 0 2px;
@@ -216,6 +162,7 @@ h1 {
 }
 
 .work-card {
+  position: relative;
   display: flex;
   gap: 12px;
   padding: 8px 10px;
@@ -225,6 +172,21 @@ h1 {
   color: var(--color-text);
   margin-bottom: 5px;
   cursor: pointer;
+}
+
+/* Stretched link: covers the whole card so the entire card area is a real <a> click target
+   (native middle-click/ctrl-click "open in new tab", right-click menu, keyboard focus), while
+   staying invisible. The theme chip <Link>s below get `position: relative` so they stack above
+   it and remain independently clickable. */
+.work-card__cover-link {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+}
+
+.work-card .chip-row {
+  position: relative;
+  z-index: 1;
 }
 
 .work-grid .work-card {
@@ -500,9 +462,10 @@ h1 {
 }
 
 /* Constrains the home hero's search box — full page width (1200px) read as oversized for a
-   single search field. List-page filter rows keep the unconstrained .search-box. */
+   single search field. Matches .count-badges' max-width just below it so the two line up.
+   List-page filter rows keep the unconstrained .search-box. */
 .home-search-form {
-  max-width: 420px;
+  max-width: 620px;
   margin: 0 auto;
 }
 
