@@ -14151,5 +14151,308 @@
     },
     "sourceNote": "日本語版Wikipedia『兎-野性の闘牌-』記事(2026-08-03閲覧)で作者(伊藤誠、新規id『ito-makoto』を発行、オリジナル作品)・近代麻雀オリジナル(竹書房)にて1996年連載開始・その後WINNING/近代麻雀へ移籍・2017年6月完結・単行本全17巻を確認。実写Vシネマ・映画化はあるがアニメ化は確認できずmediaMix.animeはfalseとした。あらすじは独自要約。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "be-bop-high-school",
+    "title": "ビー・バップ・ハイスクール",
+    "titleKana": "びーばっぷはいすくーる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kiuchi-kazuhiro"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "young-magazine",
+    "themeIds": [
+      "delinquent",
+      "school"
+    ],
+    "firstPublishedYear": 1983,
+    "latestPublishedYear": 2003,
+    "status": "completed",
+    "volumeCount": 48,
+    "synopsis": "私立正義高校に通うツッパリコンビ、ヒロシとトオルは、留年を繰り返しながら喧嘩とバイクに明け暮れる日々を送っている。他校の不良グループとの抗争や、それぞれの恋人・親友との人間関係を交えつつ、粗暴だが仲間思いで義理堅い二人の破天荒な学園生活と、少しずつ大人になっていく姿を軽妙な筆致で描く。数多くの実写映画・ドラマ化も生んだヤンキー漫画の金字塔的作品。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ビー・バップ・ハイスクール"
+    },
+    "sourceNote": "日本語版Wikipedia『ビー・バップ・ハイスクール』記事(2026-08-03閲覧)で作者・連載期間(1983-2003年)・掲載誌(週刊ヤングマガジン)・巻数(全48巻)・第12回講談社漫画賞受賞・OVA化(1990-1998年、全7巻)を確認。あらすじは独自要約(コピペなし)。実写映画・Vシネマ・テレビドラマ化多数だが、mediaMixはアニメ(OVA)化の有無のみ明記し小説化は記事内で確認できず未記入。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "shonan-junai-gumi",
+    "title": "湘南純愛組!",
+    "titleKana": "しょうなんじゅんあいぐみ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "fujisawa-toru"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "delinquent",
+      "romance"
+    ],
+    "firstPublishedYear": 1990,
+    "latestPublishedYear": 1996,
+    "status": "completed",
+    "volumeCount": 31,
+    "synopsis": "かつて湘南を仕切っていた番長コンビ、鬼塚英吉と團暎二は暴れん坊生活と決別し、平凡な高校生として生きようとするが、周囲の不良グループとの過去の因縁や新たな抗争に次々と巻き込まれていく。「男らしさとは何か」を軸に、荒々しい喧嘩と不器用な恋愛を通じて主人公たちが成長していく姿を描いた青春群像劇。後に鬼塚が教師となる『GTO』の前日譚にあたる作品でもある。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/湘南純愛組!"
+    },
+    "sourceNote": "日本語版Wikipedia『湘南純愛組!』記事(2026-08-03閲覧)で作者(藤沢とおる、原作・作画とも単独)・連載期間(1990年43号-1996年42号)・掲載誌(週刊少年マガジン)・巻数(全31巻)・『GTO』への繋がりを確認。既存work『GTO』(id: gto)と同一作者のためartistIdsはfujisawa-toru(既存id)を再利用。あらすじは独自要約(コピペなし)。メディアミックス(アニメ化・小説化の有無)は記事内で確認できず未記入。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "hot-road",
+    "title": "ホットロード",
+    "titleKana": "ほっとろーど",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tsumugi-taku"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "bessatsu-margaret",
+    "themeIds": [
+      "delinquent",
+      "romance"
+    ],
+    "firstPublishedYear": 1986,
+    "latestPublishedYear": 1987,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "母親との関係に悩み家に居場所を見出せない14歳の中学生・宮市和希は、暴走族「NIGHTS」のリーダーを目指す不良少年・春山洋志と偶然出会い、彼のまっすぐな生き方に強く惹かれていく。バイクの爆音が響く夜の街で危険な暴走行為や抗争に身を置きながらも揺れ動く、思春期の少女の恋心と成長を繊細な筆致で描いた、少女漫画によるヤンキーもの代表作。",
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ホットロード"
+    },
+    "sourceNote": "日本語版Wikipedia『ホットロード』記事(2026-08-03閲覧)で作者・連載期間(1986-1987年)・掲載誌(別冊マーガレット)・巻数(全4巻)・2014年実写映画化を確認。記事内にアニメ化・小説化の記載がないため両方falseとした。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "rookies",
+    "title": "ROOKIES",
+    "titleKana": "るーきーず",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "morita-masanori"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "delinquent",
+      "sports",
+      "school"
+    ],
+    "firstPublishedYear": 1998,
+    "latestPublishedYear": 2003,
+    "status": "completed",
+    "volumeCount": 24,
+    "synopsis": "部員の不祥事によって活動停止に追い込まれた高校野球部に、元プロ野球選手を夢見ていた熱血教師・川藤幸一が顧問として着任する。野球の専門知識には乏しいながらも、荒れた不良部員一人ひとりの心の奥にある情熱と真摯に向き合う川藤に、当初は反発していた部員たちも次第に心を開き始め、周囲の偏見を跳ね返しながら夢の甲子園出場を目指して団結していく姿を描く学園野球漫画。",
+    "mediaMix": {
+      "anime": false,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ROOKIES"
+    },
+    "sourceNote": "日本語版Wikipedia『ROOKIES』記事(2026-08-03閲覧)で作者(既存id morita-masanori、『ろくでなしBLUES』と同一人物のため再利用)・連載期間(1998年10号-2003年39号)・掲載誌(週刊少年ジャンプ)・巻数(全24巻)・2008年ドラマ化・2009年映画化・小説版(浜崎達也著、2009年集英社刊)を確認。アニメ化はされていないと明記。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "shinjuku-swan",
+    "title": "新宿スワン",
+    "titleKana": "しんじゅくすわん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "wakui-ken"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "young-magazine",
+    "themeIds": [
+      "delinquent",
+      "crime-underworld"
+    ],
+    "firstPublishedYear": 2005,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 38,
+    "synopsis": "職も金もなく新宿・歌舞伎町に流れ着いた不良少年・白鳥龍彦は、街を仕切るスカウトマン集団の頭・真虎に拾われ、荒くれ者だらけのスカウト業の世界に足を踏み入れる。歌舞伎町の裏社会を巡る縄張り争いと欲望が渦巻く中、暴力と裏切りにまみれながらも仲間との絆を頼りにのし上がっていく龍彦の姿を、著者自身の元スカウトマンとしての経験を交えて描く実録寄りの不良漫画。",
+    "mediaMix": {
+      "anime": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/新宿スワン"
+    },
+    "sourceNote": "日本語版Wikipedia『新宿スワン』記事(2026-08-03閲覧)で作者(既存id wakui-ken、原作・作画とも単独)・連載期間(2005年20号-2013年45号)・掲載誌(週刊ヤングマガジン)・巻数(全38巻)・2015年/2017年実写映画化2作を確認。テレビアニメ化はされていないと明記。小説化は記事内で確認できず未記入。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "chameleon",
+    "title": "カメレオン",
+    "titleKana": "かめれおん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kase-atsushi"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "delinquent",
+      "school",
+      "comedy"
+    ],
+    "firstPublishedYear": 1990,
+    "latestPublishedYear": 2000,
+    "status": "completed",
+    "volumeCount": 47,
+    "synopsis": "中学時代はいじめられっ子だった矢沢栄作は、高校進学を機に周囲を欺いて不良デビューを果たす。喧嘩の実力そのものは乏しいものの、持ち前のハッタリと悪運、口の上手さを武器に数々の強豪不良たちとの対決を紙一重で切り抜けていくうち、いつしか本物のカリスマとして周囲から慕われるリーダーへとのし上がっていく、ハッタリと成り上がりが痛快な学園ヤンキー漫画。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1999,
+        "result": "少年部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/カメレオン_(漫画)"
+    },
+    "sourceNote": "日本語版Wikipedia『カメレオン (漫画)』記事(2026-08-03閲覧、Web検索で受賞年を追加確認)で作者・連載期間(1990年17号-2000年10月号)・掲載誌(週刊少年マガジン)・巻数(全47巻)・第23回(1999年)講談社漫画賞少年部門受賞・OVA化(1992-1996年、全6巻)を確認。小説化は記事内で確認できず未記入。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "koukou-tekken-den-tough",
+    "title": "高校鉄拳伝タフ",
+    "titleKana": "こうこうてっけんでんたふ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "saruwatari-tetsuya"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "young-jump",
+    "themeIds": [
+      "delinquent",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1993,
+    "latestPublishedYear": 2003,
+    "status": "completed",
+    "volumeCount": 42,
+    "synopsis": "古武術・灘神影流の第15代継承者である高校生・宮沢輝一は、学校で幅を利かせる喧嘩自慢の不良たちから、格闘技のプロや裏社会の異種格闘技の猛者に至るまで、あらゆる強者との真剣勝負に身を投じていく。空手・柔道・ボクシング・プロレス・ムエタイ・相撲・柔術など様々な格闘技の技を、他の格闘漫画では省略されがちな関節技・組み技まで緻密に描き込み、やがて最強を決する大規模トーナメント「T.D.K.」へと物語は展開していく。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/高校鉄拳伝タフ"
+    },
+    "sourceNote": "日本語版Wikipedia『高校鉄拳伝タフ』記事(2026-08-03閲覧)で作者・連載期間(1993年33号-2003年29号)・掲載誌(週刊ヤングジャンプ)・巻数(全42巻)・OVA化(全3巻、2002-2004年)・続編『TOUGH』『TOUGH外伝 龍を継ぐ男』の存在を確認。あらすじは独自要約(コピペなし)。小説化は記事内で確認できず未記入。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "shonan-bakusozoku",
+    "title": "湘南爆走族",
+    "titleKana": "しょうなんばくそうぞく",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yoshida-satoshi"
+    ],
+    "publisherId": "shonen-gahosha",
+    "labelId": "shonen-king",
+    "themeIds": [
+      "delinquent"
+    ],
+    "firstPublishedYear": 1982,
+    "latestPublishedYear": 1987,
+    "status": "completed",
+    "volumeCount": 16,
+    "synopsis": "神奈川・湘南の海沿いを縄張りとする暴走族「湘南爆走族」の2代目総長・江口洋助は、学校では手芸部の部長を務めるという意外な一面も持つ高校生。抜群のバイクテクニックを誇る5人の仲間たちと共に、ライバルチーム「ヘルズアーミー」との激しい抗争や、それぞれの恋愛模様を繰り広げていく青春を描く。単車と友情、そして海辺の街の青春群像を活写した暴走族漫画の先駆的作品。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/湘南爆走族"
+    },
+    "sourceNote": "日本語版Wikipedia『湘南爆走族』記事(2026-08-03閲覧)で作者・連載期間(1982年読切掲載、同年12月正式連載開始-1987年)・掲載誌(少年KING)・出版社(少年画報社)・巻数(全16巻)・OVA化(全12話)・1987年実写映画化を確認。新規publisher不要(既存id shonen-gahosha)、既存label id shonen-kingを再利用。あらすじは独自要約(コピペなし)。小説化は記事内で確認できず未記入。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "sakigake-cromartie-koukou",
+    "title": "魁!!クロマティ高校",
+    "titleKana": "さきがけくろまてぃこうこう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nonaka-eiji"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "delinquent",
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 2000,
+    "latestPublishedYear": 2006,
+    "status": "completed",
+    "volumeCount": 17,
+    "synopsis": "真面目な優等生・神山高志は、中学時代の恩人と同じ高校に通うことを目指すが、親友は不合格となり「ワルのメジャーリーグ」と呼ばれる不良校クロマティ高校にただ一人入学することになる。ロボット型の番長やゴリラの生徒、機械マニアの不良など常識外れなクラスメイトたちに振り回されながらも、大真面目にツッコミを入れつつ学園生活を送る神山の姿を描く、不条理ギャグ満載のヤンキー学園パロディ漫画。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2002,
+        "result": "少年部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/魁!!クロマティ高校"
+    },
+    "sourceNote": "日本語版Wikipedia『魁!!クロマティ高校』記事(2026-08-03閲覧)で作者・連載期間(2000年34号-2006年24号)・掲載誌(週刊少年マガジン)・巻数(全17巻)・第26回(2002年)講談社漫画賞少年部門受賞・テレビアニメ化(2003-2004年、全26話)・小説化(増本庄一郎著、2007年講談社刊)を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "gorilla-man",
+    "title": "ゴリラーマン",
+    "titleKana": "ごりらーまん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "harold-sakuishi"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "young-magazine",
+    "themeIds": [
+      "delinquent",
+      "school"
+    ],
+    "firstPublishedYear": 1988,
+    "latestPublishedYear": 1993,
+    "status": "completed",
+    "volumeCount": 19,
+    "synopsis": "ゴリラのような風貌から周囲に「ゴリラーマン」と恐れられる転校生・池戸定治は、口数少なく物静かながら圧倒的な喧嘩の強さを隠し持つ高校生。白岳高校での何気ない日常を穏やかに送りたいだけなのに、その強さを聞きつけた近隣校の不良グループから次々と勝負を挑まれ、望まぬ衝突に巻き込まれていく姿を、独特の間合いと乾いたユーモアで描いた青春コメディ作品。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1990,
+        "result": "一般部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゴリラーマン"
+    },
+    "sourceNote": "日本語版Wikipedia『ゴリラーマン』記事(2026-08-03閲覧)で作者(既存id harold-sakuishi)・連載期間(1988-1993年)・掲載誌(週刊ヤングマガジン)・巻数(全19巻)・第14回(1990年)講談社漫画賞一般部門受賞・OVA化(1992年・1993年の2作)を確認。小説化は記事内で確認できず未記入。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
   }
 ]

@@ -4133,5 +4133,71 @@
     },
     "sourceNote": "日本語版Wikipedia『伊藤誠(漫画家)』記事(2026-08-03閲覧)で生年・経歴・『兎-野性の闘牌-』(竹書房、全17巻)が代表作であることを確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kiuchi-kazuhiro",
+    "name": "きうちかずひろ",
+    "nameKana": "きうちかずひろ",
+    "description": "漫画家。代表作『ビー・バップ・ハイスクール』でヤンキー漫画の代表的作家として知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/きうちかずひろ"
+    },
+    "sourceNote": "日本語版Wikipedia『ビー・バップ・ハイスクール』記事(2026-08-03閲覧)で原作・作画を単独で手がけていることを確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "tsumugi-taku",
+    "name": "紡木たく",
+    "nameKana": "つむぎたく",
+    "description": "漫画家。代表作『ホットロード』で知られる少女漫画家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/紡木たく"
+    },
+    "sourceNote": "日本語版Wikipedia『ホットロード』記事(2026-08-03閲覧)で確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kase-atsushi",
+    "name": "加瀬あつし",
+    "nameKana": "かせあつし",
+    "description": "漫画家。代表作『カメレオン』で第23回講談社漫画賞少年部門を受賞。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/加瀬あつし"
+    },
+    "sourceNote": "日本語版Wikipedia『カメレオン (漫画)』記事(2026-08-03閲覧)で確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "saruwatari-tetsuya",
+    "name": "猿渡哲也",
+    "nameKana": "さるわたりてつや",
+    "description": "漫画家。代表作『高校鉄拳伝タフ』シリーズ等、格闘ものを多く手がける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/猿渡哲也"
+    },
+    "sourceNote": "日本語版Wikipedia『高校鉄拳伝タフ』記事(2026-08-03閲覧)で確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "yoshida-satoshi",
+    "name": "吉田聡",
+    "nameKana": "よしださとし",
+    "description": "漫画家。代表作『湘南爆走族』で暴走族ものの先駆的作品を手がけた。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/吉田聡"
+    },
+    "sourceNote": "日本語版Wikipedia『湘南爆走族』記事(2026-08-03閲覧)で確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "nonaka-eiji",
+    "name": "野中英次",
+    "nameKana": "のなかえいじ",
+    "description": "漫画家。代表作『魁!!クロマティ高校』で第26回講談社漫画賞少年部門を受賞。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/野中英次"
+    },
+    "sourceNote": "日本語版Wikipedia『魁!!クロマティ高校』記事(2026-08-03閲覧)で確認。",
+    "updatedAt": "2026-08-03"
   }
 ]
