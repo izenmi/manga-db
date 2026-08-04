@@ -55,6 +55,17 @@ function pickRandomWorks(works: WorkGenerated[], count: number): WorkGenerated[]
   return result;
 }
 
+/** Cached for the lifetime of the SPA session so the row stays put when the reader navigates
+ *  away and comes back (including via the browser's Back button) — re-rolling on every remount
+ *  silently replaced the works they had just been looking at. A full page reload starts a new
+ *  module instance and therefore reshuffles. */
+let cachedPickup: WorkGenerated[] | null = null;
+
+function getPickupWorks(works: WorkGenerated[]): WorkGenerated[] {
+  if (!cachedPickup) cachedPickup = pickRandomWorks(works, PICKUP_COUNT);
+  return cachedPickup;
+}
+
 interface RecentAward {
   workId: string;
   workTitle: string;
@@ -77,7 +88,7 @@ export function HomePage() {
   const worksState = useAsyncData(getWorks, []);
   const themesState = useAsyncData(getThemes, []);
   const pickupWorks = useMemo(
-    () => (worksState.status === "ready" ? pickRandomWorks(worksState.data, PICKUP_COUNT) : []),
+    () => (worksState.status === "ready" ? getPickupWorks(worksState.data) : []),
     [worksState]
   );
   const recentAwards = useMemo(
