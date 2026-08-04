@@ -17,7 +17,9 @@ const dataDir = path.join(rootDir, "public", "data", "generated");
 
 // Must match vite.config.ts `base`.
 const BASE = "/manga-db";
-const PORT = 4319;
+// --strictPort means a leftover preview server from another project squatting on this port makes
+// the build fail outright, so allow overriding it (PRERENDER_PORT=4322 npm run build).
+const PORT = Number(process.env.PRERENDER_PORT) || 4319;
 const CONCURRENCY = Number(process.env.PRERENDER_CONCURRENCY) || 6;
 
 function readData(name) {
