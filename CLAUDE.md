@@ -38,7 +38,7 @@
   - **フラグ**: `--only=id1,id2` / `--force` / `--retry-misses`(2026-08-04追加、`coverUrl`が`null`のエントリだけ再試行)。**未解決分の再挑戦には必ず`--retry-misses`を使う**こと(`--force`は手動修正済みのエントリも上書きするため、誤マッチを除去した直後に`--force`で回すと同じ誤マッチが復活する。実際に過去そうなった)。楽天の認証情報を渡さずに実行するとBOOK☆WALKERのみで解決する
   - **楽天の認証情報は姉妹サイトと共用できる(2026-08-04に実証)**: 以前は「アプリ登録はアプリケーションURLに紐づくのでranobe-dbのキーは使い回せない」と記載していたが、現行の新gateway形式の認証情報(UUIDの`applicationId`+`pk_`始まりの`accessKey`)は3サイトいずれのRefererからも通ることを実測で確認した
   - **未実行(2026-08-02時点)**: 楽天ウェブサービスのアプリ登録はサイトのURL(アプリケーションURL)に紐づくため、ranobe-dbの`RAKUTEN_APP_ID`/`RAKUTEN_ACCESS_KEY`は使い回せない。[webservice.rakuten.co.jp](https://webservice.rakuten.co.jp/)でmanga-db用に新規登録(アプリケーションURL: `https://izenmi.github.io/manga-db/`)してから`npm run fetch-covers`を実行すること
-- **購入リンクは検索URL形式のみ**。個別商品ページへの直リンクは使わない(理由はranobe-dbと同じ: works.jsonがシリーズ単位のデータしか持たないため)。`amazonSearchUrl(title, volumeLabel?)`(`src/ui/common/WorkCover.tsx`)がアフィリエイトタグ`izenmi-22`(ranobe-dbと共通)付きの検索URLを生成する
+- **購入リンクは検索URL形式のみ**。個別商品ページへの直リンクは使わない(理由はranobe-dbと同じ: works.jsonがシリーズ単位のデータしか持たないため)。`amazonSearchUrl(title)`(`src/ui/common/WorkCover.tsx`)がアフィリエイトタグ`izenmi-22`(ranobe-dbと共通)付きの検索URLを生成する。作品詳細ページのリンクは「Amazonで購入」の1本のみ(2026-08-05にユーザー指示で「1巻をAmazonで探す」を廃止し、シリーズ全体検索に統一。姉妹サイト3サイト共通)
 - **Web漫画プラットフォームへのリンクは検索URLパターンのみ**使う。**新しいプラットフォームを`WebComicPlatform`型に追加する場合は、必ず実装前にブラウザで実際にそのサイトの検索機能を使い、結果のURL(クエリパラメータ名・パス構造)を目視確認してから追加すること。憶測でURLパターンを書かない**(ranobe-dbの「個別作品のパーマリンクを推測しない」方針を検索URL自体にも適用したもの)。現在確認済みで実装しているのは以下の2つのみ:
   - 少年ジャンプ+: `https://shonenjumpplus.com/search?q=<encoded>`(2026-08-02にブラウザで実検索して確認)
   - となりのヤングジャンプ: `https://tonarinoyj.jp/search?q=<encoded>`(2026-08-02にブラウザで実検索して確認、ドメインは`tonarinoyj.jp`)

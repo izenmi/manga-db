@@ -36,11 +36,9 @@ const AMAZON_AFFILIATE_TAG = "izenmi-22";
 
 /** Amazon search-results link — never a direct product page. works.json only tracks
  *  series-level data (no per-volume ISBN/ASIN), so we can't link a specific product reliably;
- *  see CLAUDE.md "購入リンクは検索URL形式のみ". Pass `volumeLabel` (e.g. "1巻") to narrow the
- *  query to one volume, or omit it to search the whole series. */
-export function amazonSearchUrl(title: string, volumeLabel?: string): string {
-  const query = volumeLabel ? `${title} ${volumeLabel}` : title;
-  const params = new URLSearchParams({ k: query, tag: AMAZON_AFFILIATE_TAG });
+ *  see CLAUDE.md "購入リンクは検索URL形式のみ". */
+export function amazonSearchUrl(title: string): string {
+  const params = new URLSearchParams({ k: title, tag: AMAZON_AFFILIATE_TAG });
   return `https://www.amazon.co.jp/s?${params.toString()}`;
 }
 
