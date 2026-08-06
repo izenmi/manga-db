@@ -303,6 +303,7 @@ const sitemapEntries = [
   ...labels.map((l) => urlEntry(`/labels/${l.id}`, l.updatedAt?.slice(0, 10))),
   urlEntry("/awards"),
   ...awards.map((a) => urlEntry(`/awards/${a.id}`, a.updatedAt?.slice(0, 10))),
+  urlEntry("/timeline"),
   urlEntry("/about"),
 ];
 

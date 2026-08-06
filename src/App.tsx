@@ -10,6 +10,7 @@ import { PersonListPage } from "./ui/common/PersonListPage";
 import { PersonDetailPage } from "./ui/common/PersonDetailPage";
 import { AwardListPage } from "./ui/awards/AwardListPage";
 import { AwardDetailPage } from "./ui/awards/AwardDetailPage";
+import { TimelinePage } from "./ui/timeline/TimelinePage";
 import { AboutPage } from "./ui/about/AboutPage";
 import { NotFoundPage } from "./ui/common/NotFoundPage";
 
@@ -32,6 +33,7 @@ export function App() {
         <Route path="/labels/:id" element={<PersonDetailPage kind="label" />} />
         <Route path="/awards" element={<AwardListPage />} />
         <Route path="/awards/:id" element={<AwardDetailPage />} />
+        <Route path="/timeline" element={<TimelinePage />} />
         <Route path="/about" element={<AboutPage />} />
         <Route path="*" element={<NotFoundPage />} />
       </Routes>
