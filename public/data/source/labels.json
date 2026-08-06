@@ -1986,5 +1986,115 @@
     "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
     "updatedAt": "2026-08-06",
     "publisherId": "shueisha"
+  },
+  {
+    "id": "monthly-shonen-jump",
+    "name": "月刊少年ジャンプ",
+    "nameKana": "げっかんしょうねんじゃんぷ",
+    "description": "集英社が発行していた月刊少年漫画雑誌。休刊後、連載作品の多くはジャンプスクエアへ移った。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "shueisha"
+  },
+  {
+    "id": "manga-box",
+    "name": "マンガボックス",
+    "nameKana": "まんがぼっくす",
+    "description": "講談社系のディー・エヌ・エーが運営していた漫画アプリ。書き下ろし作品を配信した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "kodansha"
+  },
+  {
+    "id": "magazine-be-boy",
+    "name": "MAGAZINE BE×BOY",
+    "nameKana": "まがじんびーぼーい",
+    "description": "リブレが発行するボーイズラブ漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "libre"
+  },
+  {
+    "id": "asahi-geino",
+    "name": "週刊アサヒ芸能",
+    "nameKana": "しゅうかんあさひげいのう",
+    "description": "徳間書店が発行する週刊誌。漫画連載も掲載している。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "tokuma-shoten"
+  },
+  {
+    "id": "cutie",
+    "name": "CUTiE",
+    "nameKana": "きゅーてぃー",
+    "description": "宝島社が発行していた女性向けファッション誌。漫画も掲載していた。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "takarajimasha"
+  },
+  {
+    "id": "manga-up",
+    "name": "マンガUP!",
+    "nameKana": "まんがあっぷ",
+    "description": "スクウェア・エニックスが運営する漫画アプリ。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "square-enix"
+  },
+  {
+    "id": "comic-earth-star",
+    "name": "コミック アース・スター",
+    "nameKana": "こみっくあーすすたー",
+    "description": "アース・スター エンターテイメントが運営するWeb漫画サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "earth-star-entertainment"
+  },
+  {
+    "id": "shonen-magazine-edge",
+    "name": "少年マガジンエッジ",
+    "nameKana": "しょうねんまがじんえっじ",
+    "description": "講談社が発行していた月刊少年漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "kodansha"
+  },
+  {
+    "id": "monthly-comic-blade",
+    "name": "月刊コミックブレイド",
+    "nameKana": "げっかんこみっくぶれいど",
+    "description": "マッグガーデンが発行していた漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "mag-garden"
+  },
+  {
+    "id": "young-magazine-uppers",
+    "name": "ヤングマガジンアッパーズ",
+    "nameKana": "やんぐまがじんあっぱーず",
+    "description": "講談社が発行していた青年漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "kodansha"
+  },
+  {
+    "id": "monthly-comic-bunch",
+    "name": "月刊コミックバンチ",
+    "nameKana": "げっかんこみっくばんち",
+    "description": "新潮社が発行する漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "shinchosha"
   }
 ]

@@ -5648,5 +5648,599 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "amano-akira",
+    "name": "天野明",
+    "nameKana": "あまのあきら",
+    "description": "漫画家。『家庭教師ヒットマンREBORN!』『エルドライブ』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "asada-hiroyuki",
+    "name": "浅田弘幸",
+    "nameKana": "あさだひろゆき",
+    "description": "漫画家。『テガミバチ』『I'll』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ikeda-akihisa",
+    "name": "池田晃久",
+    "nameKana": "いけだあきひさ",
+    "description": "漫画家。『ロザリオとバンパイア』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "tanaka-motoyuki",
+    "name": "田中モトユキ",
+    "nameKana": "たなかもとゆき",
+    "description": "漫画家。サッカー漫画『BE BLUES!』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "asaki-masashi",
+    "name": "朝基まさし",
+    "nameKana": "あさきまさし",
+    "description": "漫画家。『サイコメトラーEIJI』『Dr.DMAT』の作画を担当した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "hiruta-tatsuya",
+    "name": "蛭田達也",
+    "nameKana": "ひるたたつや",
+    "description": "漫画家。『コータローまかりとおる!』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ooba-takahiro",
+    "name": "大羽隆廣",
+    "nameKana": "おおばたかひろ",
+    "description": "漫画家。『天空侵犯』の作画を担当した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kagemaru-joya",
+    "name": "影丸譲也",
+    "nameKana": "かげまるじょうや",
+    "description": "漫画家。『空手バカ一代』の作画などを手がけた。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "yamagami-tatsuhiko",
+    "name": "山上たつひこ",
+    "nameKana": "やまがみたつひこ",
+    "description": "漫画家。『がきデカ』でギャグ漫画の潮流を変えた。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kamogawa-tsubame",
+    "name": "鴨川つばめ",
+    "nameKana": "かもがわつばめ",
+    "description": "漫画家。疾走感のあるギャグ『マカロニほうれん荘』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "nakamura-yuji",
+    "name": "中村勇志",
+    "nameKana": "なかむらゆうじ",
+    "description": "漫画家。『六道の悪女たち』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "shimamoto-kazuhiko",
+    "name": "島本和彦",
+    "nameKana": "しまもとかずひこ",
+    "description": "漫画家。『炎の転校生』『アオイホノオ』など熱血とパロディを持ち味とする。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "okazaki-kyoko",
+    "name": "岡崎京子",
+    "nameKana": "おかざききょうこ",
+    "description": "漫画家。『リバーズ・エッジ』『ヘルタースケルター』で90年代の空気を切り取った。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "yamashita-tomoko",
+    "name": "ヤマシタトモコ",
+    "nameKana": "やましたともこ",
+    "description": "漫画家。『さんかく窓の外側は夜』『違国日記』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kouno-fumiyo",
+    "name": "こうの史代",
+    "nameKana": "こうのふみよ",
+    "description": "漫画家。『夕凪の街 桜の国』『この世界の片隅に』で戦中戦後の日常を描いた。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "koyama-yujiro",
+    "name": "小山ゆうじろう",
+    "nameKana": "こやまゆうじろう",
+    "description": "漫画家。『とんかつDJアゲ太郎』の作画を担当した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "yamamori-mika",
+    "name": "やまもり三香",
+    "nameKana": "やまもりみか",
+    "description": "漫画家。『ひるなかの流星』『うるわしの宵の月』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ojiro-makoto",
+    "name": "オジロマコト",
+    "nameKana": "おじろまこと",
+    "description": "漫画家。『君は放課後インソムニア』『猫のお寺の知恩さん』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "asano-rin",
+    "name": "浅野りん",
+    "nameKana": "あさのりん",
+    "description": "漫画家。京都の和菓子屋を舞台にした『であいもん』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "konari-misato",
+    "name": "コナリミサト",
+    "nameKana": "こなりみさと",
+    "description": "漫画家。『凪のお暇』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ando-natsumi",
+    "name": "安藤なつみ",
+    "nameKana": "あんどうなつみ",
+    "description": "漫画家。『夢色パティシエール』『私たちはどうかしている』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "tabii-tori",
+    "name": "旅井とり",
+    "nameKana": "たびいとり",
+    "description": "漫画家。『めしばな刑事タチバナ』の作画を担当している。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "asano-inio",
+    "name": "浅野いにお",
+    "nameKana": "あさのいにお",
+    "description": "漫画家。『ソラニン』『おやすみプンプン』など現代の閉塞感を描く作品で知られる。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "hanada-ryo",
+    "name": "花田陵",
+    "nameKana": "はなだりょう",
+    "description": "漫画家。『デビルズライン』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "tohme-kei",
+    "name": "冬目景",
+    "nameKana": "とうめけい",
+    "description": "漫画家。『イエスタデイをうたって』『羊のうた』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kashiki-takuto",
+    "name": "樫木祐人",
+    "nameKana": "かしきたくと",
+    "description": "漫画家。小人たちの暮らしを描く『ハクメイとミコチ』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "izumi-mitsu",
+    "name": "泉光",
+    "nameKana": "いずみみつ",
+    "description": "漫画家。緻密な世界観の『図書館の大魔術師』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kunieda",
+    "name": "九二枝",
+    "nameKana": "くにえだ",
+    "description": "漫画家。『ダンジョンに出会いを求めるのは間違っているだろうか』のコミカライズを担当した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kumanomata-kenji",
+    "name": "熊之股鍵次",
+    "nameKana": "くまのまたけんじ",
+    "description": "漫画家。『魔王城でおやすみ』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kawazoe-taichi",
+    "name": "河添太一",
+    "nameKana": "かわぞえたいち",
+    "description": "漫画家。『不徳のギルド』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "hotondo-shindeiru",
+    "name": "殆ど死んでいる",
+    "nameKana": "ほとんどしんでいる",
+    "description": "漫画家。『異世界おじさん』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "banno-anri",
+    "name": "坂野杏梨",
+    "nameKana": "ばんのあんり",
+    "description": "漫画家。『陰の実力者になりたくて!』のコミカライズを担当している。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "fushimachi-hajime",
+    "name": "臥待始",
+    "nameKana": "ふしまちはじめ",
+    "description": "漫画家。『たとえばラストダンジョン前の村の少年が序盤の街で暮らすような物語』の作画を担当した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kuji-megumi",
+    "name": "空路恵",
+    "nameKana": "くうじめぐみ",
+    "description": "漫画家。『落第騎士の英雄譚』の作画を担当した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ueda-satoshi",
+    "name": "上田悟司",
+    "nameKana": "うえださとし",
+    "description": "漫画家。『現実主義勇者の王国再建記』の作画を担当している。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "hizuki-neko",
+    "name": "日月ネコ",
+    "nameKana": "ひづきねこ",
+    "description": "漫画家。『理想のヒモ生活』の作画を担当している。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kugatsu-takaaki",
+    "name": "九月タカアキ",
+    "nameKana": "くがつたかあき",
+    "description": "漫画家。『異世界食堂』の作画を担当した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "yasumura-yohei",
+    "name": "安村洋平",
+    "nameKana": "やすむらようへい",
+    "description": "漫画家。『迷宮ブラックカンパニー』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "akagishi-k",
+    "name": "赤岸K",
+    "nameKana": "あかぎしけー",
+    "description": "漫画家。『とんでもスキルで異世界放浪メシ』の作画を担当している。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ukichi-sho",
+    "name": "鵜吉しょう",
+    "nameKana": "うきちしょう",
+    "description": "漫画家。『ハズレ枠の【状態異常スキル】で最強になった俺がすべてを蹂躙するまで』の作画を担当している。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "nanao-ikki",
+    "name": "七緒一綺",
+    "nameKana": "ななおいっき",
+    "description": "漫画家。『魔女の旅々』のコミカライズを担当した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "fuji-ryosuke",
+    "name": "不二涼介",
+    "nameKana": "ふじりょうすけ",
+    "description": "漫画家。『シャングリラ・フロンティア』の作画を担当している。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "natto-hanamaru",
+    "name": "納都花丸",
+    "nameKana": "なつはなまる",
+    "description": "漫画家。『即死チートが最強すぎて、異世界のやつらがまるで相手にならないんですが。』の作画を担当している。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ruusuboi",
+    "name": "るーすぼーい",
+    "nameKana": "るーすぼーい",
+    "description": "漫画原作者・漫画家。『無能なナナ』の原作で知られる。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "minami-manga",
+    "name": "みなみ",
+    "nameKana": "みなみ",
+    "description": "漫画家。『豚のレバーは加熱しろ』のコミカライズを担当している。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "haku",
+    "name": "博",
+    "nameKana": "はく",
+    "description": "漫画家。『明日ちゃんのセーラー服』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "fukuda-shinichi",
+    "name": "福田晋一",
+    "nameKana": "ふくだしんいち",
+    "description": "漫画家。『その着せ替え人形は恋をする』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "hiiragi-yutaka",
+    "name": "柊ゆたか",
+    "nameKana": "ひいらぎゆたか",
+    "description": "漫画家。『新米姉妹のふたりごはん』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ishizuka-chihiro",
+    "name": "石塚千尋",
+    "nameKana": "いしづかちひろ",
+    "description": "漫画家。『ふらいんぐうぃっち』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "nakamichi-hirotomo",
+    "name": "中道裕大",
+    "nameKana": "なかみちひろとも",
+    "description": "漫画家。『放課後さいころ倶楽部』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "higuchi-akihiko",
+    "name": "樋口彰彦",
+    "nameKana": "ひぐちあきひこ",
+    "description": "漫画家。『江戸前エルフ』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ito-izumo",
+    "name": "伊藤いづも",
+    "nameKana": "いとういづも",
+    "description": "漫画家。『まちカドまぞく』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "uchino-maiko",
+    "name": "うちのまいこ",
+    "nameKana": "うちのまいこ",
+    "description": "漫画家。『スローループ』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "mountain-pukuichi",
+    "name": "マウンテンプクイチ",
+    "nameKana": "まうんてんぷくいち",
+    "description": "漫画家。女子野球を描く『球詠』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "tanaka-ai",
+    "name": "田中相",
+    "nameKana": "たなかあい",
+    "description": "漫画家。『天狗の台所』『千年万年りんごの子』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "miyata-yuri",
+    "name": "未幡",
+    "nameKana": "みはた",
+    "description": "漫画家。『私の百合はお仕事です!』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "bako-hajime",
+    "name": "バコハジメ",
+    "nameKana": "ばこはじめ",
+    "description": "漫画家。『血と灰の女王』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "tanaka-ikko",
+    "name": "田中一行",
+    "nameKana": "たなかいっこう",
+    "description": "漫画家。『ジャンケットバンク』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "sako-toshio",
+    "name": "迫稔雄",
+    "nameKana": "さことしお",
+    "description": "漫画家。『嘘喰い』『バトゥーキ』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "sano-nami",
+    "name": "佐野菜見",
+    "nameKana": "さのなみ",
+    "description": "漫画家。『坂本ですが?』『ミギとダリ』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "shiina-umi",
+    "name": "椎名うみ",
+    "nameKana": "しいなうみ",
+    "description": "漫画家。『青野くんに触りたいから死にたい』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "yotsuya-keitaro",
+    "name": "四谷啓太郎",
+    "nameKana": "よつやけいたろう",
+    "description": "漫画家。『悪魔のメムメムちゃん』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "itakura-azusa",
+    "name": "板倉梓",
+    "nameKana": "いたくらあずさ",
+    "description": "漫画家。『瓜を破る』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "yanagihara-nozomi",
+    "name": "柳原望",
+    "nameKana": "やなぎはらのぞみ",
+    "description": "漫画家。『高杉さん家のおべんとう』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "segawa-masaki",
+    "name": "せがわまさき",
+    "nameKana": "せがわまさき",
+    "description": "漫画家。山田風太郎の忍法帖シリーズのコミカライズで知られる。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "nakajima-michitsune",
+    "name": "中島三千恒",
+    "nameKana": "なかじまみちつね",
+    "description": "漫画家。『軍靴のバルツァー』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
   }
 ]
