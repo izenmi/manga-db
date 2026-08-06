@@ -1330,5 +1330,77 @@
     },
     "sourceNote": "日本語版Wikipedia『それが声優!』記事(2026-08-03閲覧)で原作者として確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "buronson",
+    "name": "武論尊",
+    "nameKana": "ぶろんそん",
+    "description": "漫画原作者。『北斗の拳』『サンクチュアリ』などハードな男性像を描く作品を数多く手がけた。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "nisioisin",
+    "name": "西尾維新",
+    "nameKana": "にしおいしん",
+    "description": "小説家。〈物語〉シリーズなどで知られ、漫画原作も手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ooba-tsugumi",
+    "name": "大場つぐみ",
+    "nameKana": "おおばつぐみ",
+    "description": "漫画原作者。『DEATH NOTE』『バクマン。』で小畑健と組んだ。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "matsuki-tatsuya",
+    "name": "マツキタツヤ",
+    "nameKana": "まつきたつや",
+    "description": "漫画原作者。『アクタージュ act-age』の原作を担当した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "tajima-takashi",
+    "name": "田島隆",
+    "nameKana": "たじまたかし",
+    "description": "行政書士・漫画原作者。法律実務を題材にした作品を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "sandrovich-yabako",
+    "name": "サンドロビッチ・ヤバ子",
+    "nameKana": "さんどろびっちやばこ",
+    "description": "漫画原作者。『ケンガンアシュラ』『ダンベル何キロ持てる?』の原作で知られる。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "mizuki-kyoko",
+    "name": "水木杏子",
+    "nameKana": "みずききょうこ",
+    "description": "作家・漫画原作者。『キャンディ♡キャンディ』の原作を担当した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kajiwara-ikki",
+    "name": "梶原一騎",
+    "nameKana": "かじわらいっき",
+    "description": "漫画原作者。『巨人の星』『あしたのジョー』などスポ根作品の代表的な書き手。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
   }
 ]

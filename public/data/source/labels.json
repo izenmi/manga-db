@@ -1816,5 +1816,45 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipedia『それが声優!』記事(2026-08-03閲覧)で、同人誌・Webブログ連載として始まり後に商業化された経緯を確認。通常の雑誌連載ではないため便宜上のレーベルとして登録。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "magazine-special",
+    "name": "マガジンSPECIAL",
+    "nameKana": "まがじんすぺしゃる",
+    "description": "講談社が発行していた月刊の少年漫画雑誌。『週刊少年マガジン』の増刊として創刊された。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "kodansha"
+  },
+  {
+    "id": "manga-sunday",
+    "name": "週刊漫画サンデー",
+    "nameKana": "しゅうかんまんがさんでー",
+    "description": "実業之日本社が発行していた週刊青年漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "jitsugyo-no-nihonsha"
+  },
+  {
+    "id": "garo",
+    "name": "月刊漫画ガロ",
+    "nameKana": "げっかんまんががろ",
+    "description": "青林堂が発行していた月刊漫画雑誌。実験的・前衛的な作品の発表の場となった。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "seirindo"
+  },
+  {
+    "id": "shojo-friend",
+    "name": "週刊少女フレンド",
+    "nameKana": "しゅうかんしょうじょふれんど",
+    "description": "講談社が発行していた少女漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "kodansha"
   }
 ]

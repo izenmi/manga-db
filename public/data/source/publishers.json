@@ -498,5 +498,23 @@
     },
     "sourceNote": "ホーム社公式サイト(2026-08-03閲覧)で集英社グループの出版社であることを確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "jitsugyo-no-nihonsha",
+    "name": "実業之日本社",
+    "nameKana": "じつぎょうのにほんしゃ",
+    "description": "日本の出版社。『週刊漫画サンデー』などを発行していた。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "seirindo",
+    "name": "青林堂",
+    "nameKana": "せいりんどう",
+    "description": "日本の出版社。1964年に『月刊漫画ガロ』を創刊し、前衛的な作品を世に送り出した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
   }
 ]
