@@ -1856,5 +1856,135 @@
     "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
     "updatedAt": "2026-08-06",
     "publisherId": "kodansha"
+  },
+  {
+    "id": "itan",
+    "name": "ITAN",
+    "nameKana": "いーたん",
+    "description": "講談社が発行していた女性向け漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "kodansha"
+  },
+  {
+    "id": "comic-birz",
+    "name": "コミックバーズ",
+    "nameKana": "こみっくばーず",
+    "description": "幻冬舎コミックスが発行する漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "gentosha"
+  },
+  {
+    "id": "monthly-stencil",
+    "name": "月刊ステンシル",
+    "nameKana": "げっかんすてんしる",
+    "description": "エニックスが発行していた漫画雑誌。休刊後、連載作品の多くはマッグガーデンの雑誌へ移った。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "square-enix"
+  },
+  {
+    "id": "young-king",
+    "name": "ヤングキング",
+    "nameKana": "やんぐきんぐ",
+    "description": "少年画報社が発行する青年漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "shonen-gahosha"
+  },
+  {
+    "id": "shonen-kobunsha",
+    "name": "少年",
+    "nameKana": "しょうねん",
+    "description": "光文社が発行していた月刊少年漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "kobunsha"
+  },
+  {
+    "id": "wings",
+    "name": "月刊ウィングス",
+    "nameKana": "げっかんうぃんぐす",
+    "description": "新書館が発行する少女・女性向け漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "shinshokan"
+  },
+  {
+    "id": "nemuki",
+    "name": "ネムキ",
+    "nameKana": "ねむき",
+    "description": "朝日ソノラマから朝日新聞出版へ引き継がれた、ホラー・ミステリー系の漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "asahi-shimbun-shuppan"
+  },
+  {
+    "id": "bouquet",
+    "name": "ぶ〜け",
+    "nameKana": "ぶーけ",
+    "description": "集英社が発行していた少女漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "shueisha"
+  },
+  {
+    "id": "elegance-eve",
+    "name": "Eleganceイブ",
+    "nameKana": "えれがんすいぶ",
+    "description": "秋田書店が発行する女性向け漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "akita-shoten"
+  },
+  {
+    "id": "kirara-max",
+    "name": "まんがタイムきららMAX",
+    "nameKana": "まんがたいむきららまっくす",
+    "description": "芳文社が発行する4コマ漫画誌。きらら系列の一誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "houbunsha"
+  },
+  {
+    "id": "kirara-carat",
+    "name": "まんがタイムきららキャラット",
+    "nameKana": "まんがたいむきららきゃらっと",
+    "description": "芳文社が発行する4コマ漫画誌。きらら系列の一誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "houbunsha"
+  },
+  {
+    "id": "comptiq",
+    "name": "コンプティーク",
+    "nameKana": "こんぷてぃーく",
+    "description": "KADOKAWAが発行するゲーム情報誌。漫画連載も掲載している。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "kadokawa"
+  },
+  {
+    "id": "jump-kai",
+    "name": "ジャンプ改",
+    "nameKana": "じゃんぷかい",
+    "description": "集英社が発行していた漫画雑誌。『ジャンプ SQ.19』の後継として刊行された。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "shueisha"
   }
 ]

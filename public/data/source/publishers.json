@@ -516,5 +516,32 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kobunsha",
+    "name": "光文社",
+    "nameKana": "こうぶんしゃ",
+    "description": "日本の出版社。かつて月刊誌『少年』を発行し、『鉄腕アトム』などを連載した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "gakudosha",
+    "name": "学童社",
+    "nameKana": "がくどうしゃ",
+    "description": "日本の出版社。『漫画少年』を発行し、戦後漫画の書き手を数多く輩出した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "mag-garden",
+    "name": "マッグガーデン",
+    "nameKana": "まっぐがーでん",
+    "description": "日本の出版社。『月刊コミックブレイド』などを発行している。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
   }
 ]
