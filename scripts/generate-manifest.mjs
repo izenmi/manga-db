@@ -80,8 +80,87 @@ if (errors.length > 0) {
   process.exit(1);
 }
 
+// ---- related works ("この作品が好きなら") ----
+// Cosine similarity over IDF-weighted theme tags, plus a bonus for sharing an artist or original author.
+// IDF matters because the tag vocabulary is deliberately small and reused (see CLAUDE.md
+// 「テーマタグの方針」): a tag carried by hundreds of works says almost nothing about similarity,
+// while a rare one is highly informative. Weighting every shared tag equally would just
+// surface the most generic works on every page.
+const RELATED_COUNT = 6;
+const SAME_ARTIST_BONUS = 0.15;
+const SAME_ORIGINAL_AUTHOR_BONUS = 0.1;
+
+const worksById = new Map(works.map((x) => [x.id, x]));
+
+const tagsOf = (x) => x.themeIds;
+
+const tagDocFreq = new Map();
+for (const x of works) {
+  for (const t of tagsOf(x)) tagDocFreq.set(t, (tagDocFreq.get(t) ?? 0) + 1);
+}
+// A tag carried by every work gets idf 0 and drops out of the scoring entirely.
+const tagIdf = new Map([...tagDocFreq].map(([t, df]) => [t, Math.log(works.length / df)]));
+
+const tagNorm = new Map(
+  works.map((x) => {
+    let sumSquares = 0;
+    for (const t of tagsOf(x)) sumSquares += tagIdf.get(t) ** 2;
+    return [x.id, Math.sqrt(sumSquares)];
+  }),
+);
+
+const tagToItems = new Map();
+for (const x of works) {
+  for (const t of tagsOf(x)) {
+    if (!tagToItems.has(t)) tagToItems.set(t, []);
+    tagToItems.get(t).push(x);
+  }
+}
+
+function relatedIdsFor(item) {
+  // Accumulate the dot product only over works that share at least one tag, rather than
+  // scanning all N works for each of N works.
+  const dotProducts = new Map();
+  for (const t of tagsOf(item)) {
+    const weight = tagIdf.get(t) ** 2;
+    if (weight === 0) continue;
+    for (const other of tagToItems.get(t)) {
+      if (other.id === item.id) continue;
+      dotProducts.set(other.id, (dotProducts.get(other.id) ?? 0) + weight);
+    }
+  }
+
+  const ownArtists = new Set(item.artistIds);
+  const ownOriginalAuthors = new Set(item.originalAuthorIds);
+
+  // Same-artist works are a strong recommendation even with no tag overlap, so seed them in.
+  for (const other of works) {
+    if (other.id === item.id || dotProducts.has(other.id)) continue;
+    if (other.artistIds.some((id) => ownArtists.has(id))) dotProducts.set(other.id, 0);
+  }
+
+  const ownNorm = tagNorm.get(item.id);
+  const scored = [];
+  for (const [otherId, dot] of dotProducts) {
+    const other = worksById.get(otherId);
+    const otherNorm = tagNorm.get(otherId);
+    let score = ownNorm > 0 && otherNorm > 0 ? dot / (ownNorm * otherNorm) : 0;
+    if (other.artistIds.some((id) => ownArtists.has(id))) score += SAME_ARTIST_BONUS;
+    if (other.originalAuthorIds.some((id) => ownOriginalAuthors.has(id)))
+      score += SAME_ORIGINAL_AUTHOR_BONUS;
+    if (score > 0) scored.push({ id: otherId, score });
+  }
+
+  // Tie-break by id so the output (and therefore the prerendered HTML) is stable across builds.
+  scored.sort((a, b) => b.score - a.score || a.id.localeCompare(b.id));
+  return scored.slice(0, RELATED_COUNT).map((s) => s.id);
+}
+
+const relatedById = new Map(works.map((x) => [x.id, relatedIdsFor(x)]));
+
 // ---- generated/works.json ----
 const worksGenerated = works.map((w) => ({
+  relatedWorkIds: relatedById.get(w.id),
   ...w,
   originalAuthorNames: w.originalAuthorIds.map((id) => originalAuthorsById.get(id).name),
   artistNames: w.artistIds.map((id) => artistsById.get(id).name),
@@ -103,7 +182,11 @@ const worksGenerated = works.map((w) => ({
 const worksGeneratedById = new Map(worksGenerated.map((w) => [w.id, w]));
 
 function fullWork(w) {
-  return worksGeneratedById.get(w.id);
+  // Only the work detail page renders related works, and each work is embedded in roughly eight
+  // of these cross-reference lists, so keeping relatedWorkIds out of the embedded copies avoids
+  // a large amount of duplicated ids across generated/.
+  const { relatedWorkIds, ...rest } = worksGeneratedById.get(w.id);
+  return rest;
 }
 
 // ---- generated/{original-authors,artists,publishers}.json ----

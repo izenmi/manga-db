@@ -118,6 +118,10 @@ export interface WorkGenerated extends WorkSource {
   /** Resolved at build time from public/data/source/covers-cache.json (see scripts/fetch-covers.mjs).
    *  Absent when no ISBN/cover could be matched — callers must fall back to the placeholder cover. */
   coverUrl?: string;
+  /** Ids of similar works, best first, computed at build time by generate-manifest.mjs.
+   *  Only present in generated/works.json — the copies embedded in the cross-reference lists
+   *  omit it to keep those files small. */
+  relatedWorkIds?: string[];
 }
 
 /** Shared shape for original-author/artist/publisher list+detail pages. */
