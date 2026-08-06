@@ -42,6 +42,12 @@ function workJsonLd(id: string, w: WorkGenerated) {
   ];
 }
 
+/** relatedNovelUrl は姉妹サイト2つのどちらかを指す。サイト名は別フィールドに持たず URL から導く
+ *  (二重管理を避けるため — link-sister-works.mjs が張る URL が唯一の真実)。 */
+function sisterSiteLabel(url: string): string {
+  return url.includes("/mystery-db/") ? "ミステリDB" : "らのべDB";
+}
+
 export function WorkDetailPage() {
   const { id } = useParams<{ id: string }>();
   const state = useAsyncData(() => getWork(id!), [id]);
@@ -158,6 +164,14 @@ export function WorkDetailPage() {
                 );
               })()}
           </p>
+
+          {state.data.relatedNovelUrl && (
+            <p>
+              <a className="sister-link" href={state.data.relatedNovelUrl}>
+                原作小説を{sisterSiteLabel(state.data.relatedNovelUrl)}で見る →
+              </a>
+            </p>
+          )}
 
           {relatedWorks.length > 0 && (
             <div className="home-section">

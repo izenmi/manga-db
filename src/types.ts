@@ -40,8 +40,9 @@ export interface WorkSource {
   webComicSource?: { platform: WebComicPlatform };
   /** メディアミックス状況。Wikipedia記事等で確認できた場合のみ true/false を明記する。 */
   mediaMix?: { anime?: boolean; novelization?: boolean };
-  /** 将来、姉妹サイト ranobe-db の同一原作ラノベ作品ページへ相互リンクするための予約フィールド。
-   *  現時点では実装・入力しない(常にundefinedのまま)。 */
+  /** 姉妹サイト らのべDB / ミステリDB の同一原作小説ページへの相互リンク。
+   *  scripts/link-sister-works.mjs が3リポジトリ分まとめて書き込む(手動実行)。
+   *  どちらの姉妹サイトを指すかは URL から判別する(サイト名は別フィールドに持たない)。 */
   relatedNovelUrl?: string;
   externalLinks: ExternalLinks;
   sourceNote: string;

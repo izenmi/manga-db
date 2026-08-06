@@ -3012,7 +3012,8 @@
     },
     "sourceNote": "日本語版Wikipedia『転生したらスライムだった件』記事(2026-08-02閲覧)で原作者・作画者・掲載誌・巻数・受賞歴を確認。既刊32巻(2026年6月時点の情報)。",
     "updatedAt": "2026-08-02",
-    "labelId": "shonen-sirius"
+    "labelId": "shonen-sirius",
+    "relatedNovelUrl": "https://izenmi.github.io/ranobe-db/works/tensei-shitara-slime-datta-ken"
   },
   {
     "id": "re-zero",
@@ -3044,7 +3045,8 @@
     },
     "sourceNote": "日本語版Wikipedia『Re:ゼロから始める異世界生活』記事(2026-08-02閲覧)で確認。原作小説は章ごとに複数の漫画家・出版社によって並行してコミカライズされている(第一・三章:マツセダイチ/KADOKAWA『月刊コミックアライブ』、第二章:楓月誠/スクウェア・エニックス『月刊ビッグガンガン』、第四章:花鶏ハルノ/KADOKAWA『月刊コミックアライブ』)。works.jsonが単一artistId/publisherIdしか持てない制約上、2019年から継続中で最新章にあたる第四章を代表として採用し、volumeCountは章ごとに巻数がリセットされるため意味をなさないと判断し未入力とした。受賞歴は作品(コミック版)自体のものは確認できず空配列。",
     "updatedAt": "2026-08-02",
-    "labelId": "comic-alive"
+    "labelId": "comic-alive",
+    "relatedNovelUrl": "https://izenmi.github.io/ranobe-db/works/re-zero"
   },
   {
     "id": "overlord",
@@ -4675,7 +4677,8 @@
     "externalLinks": {},
     "sourceNote": "原作は日本語版Wikipedia『王様ゲーム(小説)』記事(2026-08-02閲覧)で確認。漫画版(連打一人作画、双葉社アクションコミックス、全5巻完結)は同作の日本語版Wikipediaに独立記事がなかったため、BOOK☆WALKER・ebookjapan等の電子書店書誌情報および連打一人の日本語版Wikipedia記事(2026-08-02閲覧)で作画者・出版社・巻数・完結状況を確認。",
     "updatedAt": "2026-08-02",
-    "labelId": "everystar-premium"
+    "labelId": "everystar-premium",
+    "relatedNovelUrl": "https://izenmi.github.io/ranobe-db/works/ousama-game"
   },
   {
     "id": "btooom",
@@ -4858,7 +4861,8 @@
     "externalLinks": {},
     "sourceNote": "川上亮のホラー小説『人狼ゲーム』シリーズのコミカライズ版。原作は日本語版Wikipedia『人狼ゲーム(小説)』記事で確認したが、漫画版自体には独立記事がなかったため、竹書房公式サイト・BOOK☆WALKER等の電子書店書誌情報(いずれも2026-08-02閲覧)で作画(小独活)・連載誌(月刊キスカ)・連載期間(2014年2月号～2015年7月号)・全3巻・完結・出版社(竹書房)を確認。あらすじは独自要約。同シリーズの他タイトル(クレイジーフォックス等)は別作品のため対象外とした。",
     "updatedAt": "2026-08-02",
-    "labelId": "monthly-kissca"
+    "labelId": "monthly-kissca",
+    "relatedNovelUrl": "https://izenmi.github.io/ranobe-db/works/jinrou-game"
   },
   {
     "id": "doubt",
@@ -5606,7 +5610,8 @@
     },
     "sourceNote": "日本語版Wikipedia『ひぐらしのなく頃に』記事(2026-08-02閲覧)で確認。原作は竜騎士07(07th Expansion)のサウンドノベル。漫画版は出題編・解答編ごとに担当作画が分かれる大型シリーズのため、本エントリでは確認できた最初の2作『鬼隠し編』(作画:鈴羅木かりん、全2巻、2005年〜)と『綿流し編』(作画:方条ゆとり、全2巻)を代表として登録し、volumeCountはこの2作の合計4巻とした。以降の祟殺し編・暇潰し編等や解答編、および続編『巡』『卒』『令』『鬼』等の派生シリーズは範囲外・未登録。",
     "updatedAt": "2026-08-02",
-    "labelId": "gangan-powered"
+    "labelId": "gangan-powered",
+    "relatedNovelUrl": "https://izenmi.github.io/ranobe-db/works/higurashi-no-naku-koro-ni-shousetsu"
   },
   {
     "id": "umineko-no-naku-koro-ni",
@@ -5639,7 +5644,8 @@
     },
     "sourceNote": "日本語版Wikipedia『うみねこのなく頃に episode1 - Legend of the golden witch』記事(2026-08-02閲覧)で確認。原作は竜騎士07(07th Expansion)。漫画版はエピソードごとに担当作画が分かれるシリーズのため、確認できた最初の『Episode1: Legend of the golden witch』(作画:夏海ケイ、ガンガンパワード〜月刊ガンガンJOKER、2008年〜2009年、全4巻)を代表として登録。Episode2以降は別の作画者が担当しており本エントリの範囲外。",
     "updatedAt": "2026-08-02",
-    "labelId": "gangan-powered"
+    "labelId": "gangan-powered",
+    "relatedNovelUrl": "https://izenmi.github.io/ranobe-db/works/umineko-no-naku-koro-ni-shousetsu"
   },
   {
     "id": "jigoku-sensei-nube",
@@ -5875,7 +5881,8 @@
     },
     "sourceNote": "日本語版Wikipedia『悪霊シリーズ』記事・講談社なかよし公式サイト・電子書店書誌情報(2026-08-02閲覧)で確認。小野不由美の小説「悪霊シリーズ」を原作に、いなだ詩穂が1998年より『Amie』『なかよし』誌で漫画化(全12巻完結)。原作者は屍鬼と同一人物のためono-fuyumiを本バッチ内で再利用(重複新規登録なし)。あらすじは独自要約(コピペなし)。明記された受賞歴は確認できず空配列。",
     "updatedAt": "2026-08-02",
-    "labelId": "amie"
+    "labelId": "amie",
+    "relatedNovelUrl": "https://izenmi.github.io/ranobe-db/works/ghost-hunt"
   },
   {
     "id": "kasane",
@@ -7110,7 +7117,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/GOTH_リストカット事件"
     },
     "sourceNote": "日本語版Wikipedia『GOTH リストカット事件』記事および検索結果(2026-08-02閲覧)で、原作は乙一の同名小説(第3回本格ミステリ大賞受賞)、漫画版は大岩ケンヂ作画で『月刊少年エース』2003年2月号〜5月号に連載・角川コミックス・エースより単行本全1巻刊行されたことを確認。novelizationは原作が小説でありコミカライズ自体なのでfalse(逆方向のため対象外)とした。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "relatedNovelUrl": "https://izenmi.github.io/mystery-db/works/goth"
   },
   {
     "id": "happiness",
@@ -7464,7 +7472,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゴブリンスレイヤー"
     },
     "sourceNote": "日本語版Wikipedia『ゴブリンスレイヤー』『蝸牛くも』『黒瀬浩介』各記事(2026-08-02閲覧)で確認。原作ライトノベルは蝸牛くも(GA文庫/SBクリエイティブ、2016年2月刊行開始)、本編漫画版は黒瀬浩介が作画を担当し月刊ビッグガンガン(スクウェア・エニックス)で2016年5月連載開始、既刊17巻(2025年12月時点)で連載中。キャラクター原案の神奈月昇は小説版のイラストレーターであり漫画の作画担当ではないためartistIdsには含めていない。依頼文中にあった「蒼井仁」という作画者名はWikipedia本文・関連する複数の書誌情報源のいずれにも見当たらず、実際の作画クレジットは黒瀬浩介であることを複数ソースで確認したため、そちらを採用した(要人力再確認)。漫画版自体の受賞歴は確認できず空配列。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "relatedNovelUrl": "https://izenmi.github.io/ranobe-db/works/goblin-slayer"
   },
   {
     "id": "summertime-render",
@@ -9588,7 +9597,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/薬屋のひとりごと"
     },
     "sourceNote": "日本語版Wikipedia『薬屋のひとりごと』記事およびWeb検索結果(2026-08-02閲覧)で、本作には少なくとも2種類の漫画版が存在することを確認: (1)原作:日向夏、漫画:ねこクラゲ、構成:七緒一綺による『月刊ビッグガンガン』(スクウェア・エニックス)版(2017年5月25日連載開始、既刊17巻)、(2)倉田三ノ路による『月刊サンデーGX』(小学館)版(2017年8月19日連載開始、既刊22巻)。アニメ化(2023年)・次にくるマンガ大賞2019コミックス部門1位はいずれも(1)のビッグガンガン版が対象であり、こちらがより広く知られる主流版と判断し(1)を登録した。依頼メモにあった『小学館ビッグガンガン版・作画倉田三ノ路』という組み合わせは実際には存在せず(ビッグガンガンはスクウェア・エニックス発行、倉田三ノ路は小学館サンデーGX版の担当)、事実関係を訂正した上で登録した。原作者・日向夏は既存original-authorに未登録のため新規追加。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "relatedNovelUrl": "https://izenmi.github.io/ranobe-db/works/kusuriya-no-hitorigoto"
   },
   {
     "id": "chi-no-wadachi",
@@ -11786,7 +11796,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/まんがで読破"
     },
     "sourceNote": "日本語版Wikipedia『ドグラ・マグラ』『まんがで読破』記事(2026-08-02閲覧)で、原作小説の漫画化として2008年にイースト・プレス『まんがで読破』シリーズより刊行(作画クレジット:バラエティ・アートワークス)、全1巻、原作の多義的な解釈のうち一つを採用した再構成であることを確認。原作小説自体は原作者(夢野久作)の単独作のためoriginalAuthorIdsに登録し、作画はシリーズ制作集団のためartistIdsに新設した団体idを登録した。テレビアニメ化は確認できずmediaMix.animeはfalseとした。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "relatedNovelUrl": "https://izenmi.github.io/mystery-db/works/dogura-magura"
   },
   {
     "id": "souichi",
@@ -11880,7 +11891,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/盾の勇者の成り上がり"
     },
     "sourceNote": "日本語版Wikipedia『盾の勇者の成り上がり』記事、BOOK☆WALKER・ebookjapan等の書誌情報(2026-08-02閲覧)で原作者・作画担当者・掲載誌(コミックフラッパー、2014年3月号連載開始)・既刊巻数(30巻、2026年5月時点)・現在も連載中であること(2026年7月に最新話更新確認)・アニメ化・ピッコマAWARD 2019 AQUA賞受賞歴を確認。あらすじは自分の言葉で要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "relatedNovelUrl": "https://izenmi.github.io/ranobe-db/works/tate-no-yuusha-no-nariagari"
   },
   {
     "id": "kono-subarashii-sekai-ni-shukufuku-wo",
@@ -11913,7 +11925,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/この素晴らしい世界に祝福を!"
     },
     "sourceNote": "日本語版Wikipedia『この素晴らしい世界に祝福を!』記事、渡真仁関連の書誌情報(2026-08-02閲覧)で原作者・作画担当者・掲載誌(月刊ドラゴンエイジ、2014年10月連載開始)・アニメ化(複数期・劇場版)を確認。既刊巻数は2020年発売の11巻の情報を確認できたが最新巻数は要再確認。あらすじは自分の言葉で要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "relatedNovelUrl": "https://izenmi.github.io/ranobe-db/works/konosuba"
   },
   {
     "id": "mushoku-tensei",
@@ -11946,7 +11959,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/無職転生"
     },
     "sourceNote": "日本語版Wikipedia『無職転生』記事(2026-08-02閲覧)で原作者・作画担当者・掲載誌(コミックフラッパー、2014年5月連載開始)・既刊巻数(24巻、2026年2月時点)・アニメ化・シリーズ累計1800万部突破を確認。あらすじは自分の言葉で要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "relatedNovelUrl": "https://izenmi.github.io/ranobe-db/works/mushoku-tensei"
   },
   {
     "id": "kumo-desu-ga-nani-ka",
@@ -11985,7 +11999,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/蜘蛛ですが、なにか?"
     },
     "sourceNote": "日本語版Wikipedia『蜘蛛ですが、なにか?』記事(2026-08-02閲覧)で原作者・作画担当者・掲載誌(ヤングエースUP、2015年12月連載開始)・既刊巻数(16巻、2026年2月時点)・アニメ化(2021年)・ピッコマAWARD 2022 IGNIS賞受賞歴を確認。あらすじは自分の言葉で要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "relatedNovelUrl": "https://izenmi.github.io/ranobe-db/works/kumo-desu-ga-nanika"
   },
   {
     "id": "tensei-shitara-ken-deshita",
@@ -12018,7 +12033,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/転生したら剣でした"
     },
     "sourceNote": "日本語版Wikipedia『転生したら剣でした』記事、コミックシーモア・BOOK☆WALKER等の書誌情報(2026-08-02閲覧)で原作者・作画担当者・掲載媒体(でんしバーズ、2016年12月連載開始、後にcomicブーストへ移行)・単行本レーベル(バーズコミックス、幻冬舎コミックス)・既刊巻数(19巻程度、2025-2026年時点)・アニメ化(2022年、第2期2026年予定)を確認。あらすじは自分の言葉で要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "relatedNovelUrl": "https://izenmi.github.io/ranobe-db/works/tensei-shitara-ken-deshita"
   },
   {
     "id": "youjo-senki",
@@ -12051,7 +12067,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/幼女戦記"
     },
     "sourceNote": "日本語版Wikipedia『幼女戦記』記事(2026-08-02閲覧)で原作者・作画担当者・掲載誌(月刊コンプエース、2016年6月連載開始)・既刊巻数(34巻、2026年3月時点)・アニメ化(TV版2017年、劇場版2019年)・シリーズ累計950万部超を確認。あらすじは自分の言葉で要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "relatedNovelUrl": "https://izenmi.github.io/ranobe-db/works/youjo-senki"
   },
   {
     "id": "honzuki-no-gekokujou",
@@ -12085,7 +12102,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/本好きの下剋上"
     },
     "sourceNote": "日本語版Wikipedia『本好きの下剋上』記事、コロナEX公式サイト(to-corona-ex.com、2026-08-02閲覧)で原作者・各部作画担当者(第一部・第二部・第五部:鈴華、第三部:波野涼、第四部:勝木光)・連載開始媒体(ニコニコ静画/ニコニコ漫画、2015年10月30日、後にcomicコロナ→コロナEXへ移行)・既刊巻数(第一部7+第二部13+第三部9+第四部12+第五部1=42巻、2026年時点)・アニメ化を確認。単行本刊行元はTOブックスだが連載開始媒体の運営元はドワンゴ(当時)のため、レーベルのpublisherIdとwork.publisherIdが一致しない(ハチミツとクローバー方式)。あらすじは自分の言葉で要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "relatedNovelUrl": "https://izenmi.github.io/ranobe-db/works/honzuki-no-gekokujou"
   },
   {
     "id": "arifureta",
@@ -12118,7 +12136,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ありふれた職業で世界最強"
     },
     "sourceNote": "日本語版Wikipedia『ありふれた職業で世界最強』記事、コミックガルド公式サイト・BOOK☆WALKER・ebookjapan等(2026-08-02閲覧)で原作者・作画担当者・掲載媒体(コミックガルド、2016年12月連載開始)・既刊巻数(主軸シリーズ17巻、2026年8月時点)・連載中であること・アニメ化(3期)を確認。スピンオフ・外伝巻は主軸シリーズと別集計のため既刊巻数には含めていない。あらすじは自分の言葉で要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "relatedNovelUrl": "https://izenmi.github.io/ranobe-db/works/arifureta-shokugyou-de-sekai-saikyou"
   },
   {
     "id": "kenja-no-mago",
@@ -12152,7 +12171,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/賢者の孫"
     },
     "sourceNote": "日本語版Wikipedia『賢者の孫』記事(2026-08-02閲覧)で原作者・作画担当者・掲載誌(ヤングエースUP、2016年3月連載開始)・既刊巻数(28巻、2026年2月時点)・アニメ化(2019年)を確認。あらすじは自分の言葉で要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "relatedNovelUrl": "https://izenmi.github.io/ranobe-db/works/kenja-no-mago"
   },
   {
     "id": "re-monster",
@@ -12183,7 +12203,8 @@
     },
     "externalLinks": {},
     "sourceNote": "コミックナタリー特集記事、BOOK☆WALKER・版元ドットコム・アルファポリス公式サイト(2026-08-02閲覧)で原作者・作画担当者・掲載媒体(アルファポリス公式Web漫画/アルファポリスCOMICS、2014年3月連載開始)・既刊巻数(14巻、2026年時点)・アニメ化(2024年、第2期制作決定)を確認。単独のWikipedia記事は確認できず。あらすじは自分の言葉で要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "relatedNovelUrl": "https://izenmi.github.io/ranobe-db/works/re-monster"
   },
   {
     "id": "hachinan-tte-sore-wa-nai-deshou",
@@ -12216,7 +12237,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/八男って、それはないでしょう!"
     },
     "sourceNote": "日本語版Wikipedia『八男って、それはないでしょう!』記事、ニコニコ漫画・comic-walker.com掲載ページ(2026-08-02閲覧)で原作者・主流版作画担当者(楠本弘樹)・掲載媒体(カドコミ、2015年4月連載開始)・既刊巻数(楠本版16巻、2025年10月時点)・アニメ化(2020年)を確認。あらすじは自分の言葉で要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "relatedNovelUrl": "https://izenmi.github.io/ranobe-db/works/hachinan-tte-sore-wa-naideshou"
   },
   {
     "id": "slime-taoshite-300-nen",
@@ -12249,7 +12271,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/スライム倒して300年、知らないうちにレベルMAXになってました"
     },
     "sourceNote": "日本語版Wikipedia『スライム倒して300年、知らないうちにレベルMAXになってました』記事(2026-08-02閲覧)で原作者・作画担当者・掲載誌(ガンガンONLINE、2017年6月連載開始)・既刊巻数(17巻、2025年12月時点)・アニメ化(2021年、第2期予定)を確認。あらすじは自分の言葉で要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "relatedNovelUrl": "https://izenmi.github.io/ranobe-db/works/slime-taoshite-300-nen"
   },
   {
     "id": "hamefura",
@@ -12289,7 +12312,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…"
     },
     "sourceNote": "日本語版Wikipedia『乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…』記事(2026-08-02閲覧)で原作者・作画担当者・掲載誌(コミックZERO-SUM、2017年10月号連載開始)・既刊巻数(13巻、2026年5月時点)・アニメ化(2期・劇場版)・次にくるマンガ大賞2019コミックス部門第4位を確認。あらすじは自分の言葉で要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "relatedNovelUrl": "https://izenmi.github.io/ranobe-db/works/otome-game-no-hametsu-flag"
   },
   {
     "id": "kuma-kuma-kuma-bear",
@@ -12323,7 +12347,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/くまクマ熊ベアー"
     },
     "sourceNote": "日本語版Wikipedia『くまクマ熊ベアー』記事(2026-08-02閲覧)で原作者・メイン連載版作画担当者(せるげい)・掲載媒体(コミックPASH!、2018年3月連載開始、後にPASH UP!へ改称)・既刊巻数(メイン連載14巻、2026年6月時点)・アニメ化(2期)を確認。あらすじは自分の言葉で要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "relatedNovelUrl": "https://izenmi.github.io/ranobe-db/works/kuma-kuma-kuma-bear"
   },
   {
     "id": "death-march-kara-hajimaru-isekai-kyousoukyoku",
@@ -12356,7 +12381,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/デスマーチからはじまる異世界狂想曲"
     },
     "sourceNote": "日本語版Wikipedia『デスマーチからはじまる異世界狂想曲』記事(2026-08-02閲覧)で原作者・作画担当者・連載開始媒体(エイジプレミアム、2014年12月)・単行本レーベル(ドラゴンコミックスエイジ)・既刊巻数(19巻以上、2026年時点)・アニメ化(2018年)・シリーズ累計850万部突破を確認。あらすじは自分の言葉で要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "relatedNovelUrl": "https://izenmi.github.io/ranobe-db/works/death-march-kara-hajimaru-isekai-kyousoukyoku"
   },
   {
     "id": "kidou-senshi-gundam-the-origin",
@@ -14646,7 +14672,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/十角館の殺人"
     },
     "sourceNote": "日本語版Wikipedia『十角館の殺人』記事・コミックDAYS掲載情報(2026-08-03閲覧)で綾辻行人原作・清原紘作画、2019年10月号〜2022年6月号『月刊アフタヌーン』連載、全5巻、原作者が「コミックリメイク」と呼び高評価していることを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "relatedNovelUrl": "https://izenmi.github.io/mystery-db/works/jukkakukan"
   },
   {
     "id": "spiral-suiri-no-kizuna",
@@ -14707,7 +14734,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/虚構推理"
     },
     "sourceNote": "日本語版Wikipedia『虚構推理』記事(2026-08-03閲覧)で城平京原作・片瀬茶柴作画、2015年『少年マガジンR』連載開始(2020年より『月刊少年マガジン』にも掲載)、2026年5月時点既刊25巻、アニメ化・原作小説の存在を確認。labelIdは連載開始時点の初出誌である少年マガジンRを採用。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "relatedNovelUrl": "https://izenmi.github.io/mystery-db/works/kyoko-suiri"
   },
   {
     "id": "gosick",
@@ -14738,7 +14766,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/GOSICK_-ゴシック-"
     },
     "sourceNote": "日本語版Wikipedia『GOSICK -ゴシック-』記事(2026-08-03閲覧)で原作・桜庭一樹(富士見ミステリー文庫)、漫画化は天乃咲哉作画で2008年〜2012年『月刊ドラゴンエイジ』連載・全8巻、アニメ化を確認。novelizationは原作小説自体が先行するコミカライズ作品のためfalseとした。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "relatedNovelUrl": "https://izenmi.github.io/ranobe-db/works/gosick"
   },
   {
     "id": "kindaichi-shonen-gaiden-hanningtachi",
@@ -14800,7 +14829,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/犬神家の一族"
     },
     "sourceNote": "ORICON NEWS『金田一耕助シリーズ』掲載作品一覧・MUUSEO掲載書誌情報(2026-08-03閲覧)で、1976年に富士見書房が刊行した「ワイルド・コミックス 横溝正史シリーズ」の1冊としてつのだじろうが横溝正史『犬神家の一族』を漫画化(全1巻)したことを確認。同シリーズは同年の角川映画版とのメディアミックス企画で、他に『八つ墓村』『悪魔の手毬唄』も刊行された(全7巻構想のうち3巻のみ刊行)。現在は講談社漫画文庫・講談社プラチナコミックスとして再刊されているためpublisherIdはkodansha、labelIdの発行元(publisherId)は初出時の富士見書房(現・KADOKAWA)を踏まえkadokawaとした。原作小説自体のWikipedia記事はあるが漫画版単独の記事はないため、原作小説の記事をexternalLinksとして採用しつつ漫画化の事実自体はORICON/MUUSEOで裏取りした。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "relatedNovelUrl": "https://izenmi.github.io/mystery-db/works/inugamike"
   },
   {
     "id": "hadashi-no-gen",
@@ -15194,7 +15224,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/皇国の守護者"
     },
     "sourceNote": "日本語版Wikipedia『皇国の守護者』記事(2026-08-03閲覧)で確認。原作は佐藤大輔の小説(中央公論新社刊、未完)、漫画は伊藤悠が作画。ウルトラジャンプ(集英社)にて2004年7月号から2007年10月号まで連載、全5巻(2018年に遺族の意向により絶版)。18世紀末〜19世紀初頭の欧州相当の銃火器を用いた架空戦記で、ロボット・サイバーパンク要素はなし。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "relatedNovelUrl": "https://izenmi.github.io/ranobe-db/works/koukoku-no-shugosha"
   },
   {
     "id": "yagate-kimi-ni-naru",
@@ -15369,7 +15400,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/安達としまむら"
     },
     "sourceNote": "日本語版Wikipedia『安達としまむら』記事(2026-08-03閲覧)で確認。入間人間による同名ライトノベルが原作で、コミカライズは月刊コミック電撃大王版(柚原もけ作画、2019年5月~、既刊8巻・2026年4月時点)とガンガンONLINE版(まに作画、2016~2017年、全3巻・連載終了)の2種が存在する。本エントリは現在も連載が続く電撃大王版を採用した。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "relatedNovelUrl": "https://izenmi.github.io/ranobe-db/works/adachi-to-shimamura"
   },
   {
     "id": "sekaiichi-hatsukoi",
@@ -15688,7 +15720,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔法少女育成計画"
     },
     "sourceNote": "日本語版Wikipedia『魔法少女育成計画』記事(2026-08-03閲覧)で原作(遠藤浅蜊、このライトノベルがすごい!文庫)・漫画版「無印」の作画者(江戸屋ぽち)・掲載誌(月刊コンプエース)・連載期間(2014年11月号〜2015年12月号)・既刊巻数(全2巻)・2016年アニメ化を確認。同作には他に「リスタート」「F2P」等別作画者による複数のコミカライズが存在するが、本エントリは最初の「無印」版を採用した。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "relatedNovelUrl": "https://izenmi.github.io/ranobe-db/works/mahou-shoujo-ikusei-keikaku"
   },
   {
     "id": "mahou-shoujo-site",
@@ -15779,7 +15812,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/灼眼のシャナ"
     },
     "sourceNote": "日本語版Wikipedia『灼眼のシャナ』『笹倉綾人』記事(2026-08-03閲覧)で原作(高橋弥七郎、電撃文庫)・漫画版作画者(笹倉綾人)・掲載誌(月刊コミック電撃大王)・連載期間(2005年4月号〜2011年10月号)・既刊巻数(全10巻)を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "relatedNovelUrl": "https://izenmi.github.io/ranobe-db/works/shakugan-no-shana"
   },
   {
     "id": "trinity-seven",
@@ -15844,7 +15878,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/十二大戦"
     },
     "sourceNote": "日本語版Wikipedia『十二大戦』記事(2026-08-03閲覧)で原作(西尾維新)・漫画版作画者(暁月あきら)・掲載媒体(少年ジャンプ+)・連載期間(2017年9月23日〜2018年5月12日)・既刊巻数(全4巻)を確認。少年ジャンプ+初出のためwebComicSourceを設定。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "relatedNovelUrl": "https://izenmi.github.io/ranobe-db/works/juuni-taisen"
   },
   {
     "id": "youkai-watch",
@@ -16274,7 +16309,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/声優ラジオのウラオモテ"
     },
     "sourceNote": "二月公によるライトノベル(電撃文庫)のコミカライズ。日本語版Wikipedia『声優ラジオのウラオモテ』記事およびKADOKAWA商品ページ(2026-08-03閲覧)で、2020年『電撃マオウ』で連載開始・全6巻で完結したことを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "relatedNovelUrl": "https://izenmi.github.io/ranobe-db/works/seiyuu-radio-no-uraomote"
   },
   {
     "id": "oshi-ga-budoukan-ittekuretara-shinu",
