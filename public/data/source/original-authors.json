@@ -1591,5 +1591,131 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "nigojuu",
+    "name": "二語十",
+    "nameKana": "にごじゅう",
+    "description": "小説家。『探偵はもう、死んでいる。』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "nakamura-rikito",
+    "name": "中村力斗",
+    "nameKana": "なかむらりきと",
+    "description": "漫画原作者。『君のことが大大大大大好きな100人の彼女』の原作を担当している。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "yamasaki-juzo",
+    "name": "やまさき十三",
+    "nameKana": "やまさきじゅうぞう",
+    "description": "漫画原作者。『釣りバカ日誌』の原作を担当している。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "harada-shigemitsu",
+    "name": "原田重光",
+    "nameKana": "はらだしげみつ",
+    "description": "漫画原作者。『はたらく細胞BLACK』『理系が恋に落ちたので証明してみた。』の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "wagahara-satoshi",
+    "name": "和ヶ原聡司",
+    "nameKana": "わがはらさとし",
+    "description": "小説家。『はたらく魔王さま!』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kamachi-kazuma",
+    "name": "鎌池和馬",
+    "nameKana": "かまちかずま",
+    "description": "小説家。『とある魔術の禁書目録』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kinugasa-shogo",
+    "name": "衣笠彰梧",
+    "nameKana": "きぬがさしょうご",
+    "description": "小説家。『ようこそ実力至上主義の教室へ』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "shinkai-makoto",
+    "name": "新海誠",
+    "nameKana": "しんかいまこと",
+    "description": "アニメーション監督。『君の名は。』『天気の子』などの原作・監督を務める。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "hosoda-mamoru",
+    "name": "細田守",
+    "nameKana": "ほそだまもる",
+    "description": "アニメーション監督。『サマーウォーズ』『時をかける少女』などを手がけた。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "narita-ryohgo",
+    "name": "成田良悟",
+    "nameKana": "なりたりょうご",
+    "description": "小説家。『デュラララ!!』『バッカーノ!』の作者で、漫画原作も手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kusaka-hidenori",
+    "name": "日下秀憲",
+    "nameKana": "くさかひでのり",
+    "description": "漫画原作者。『ポケットモンスターSPECIAL』の原作を担当している。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kawamata-chiaki",
+    "name": "川又千秋",
+    "nameKana": "かわまたちあき",
+    "description": "SF作家。『ドラゴンクエスト列伝 ロトの紋章』の原作・設定を担当した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "type-moon",
+    "name": "TYPE-MOON",
+    "nameKana": "たいぷむーん",
+    "description": "ゲームブランド・制作集団。『Fate/stay night』『月姫』などの原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "girls-und-panzer-committee",
+    "name": "ガールズ&パンツァー製作委員会",
+    "nameKana": "がーるずあんどぱんつぁーせいさくいいんかい",
+    "description": "アニメ『ガールズ&パンツァー』の製作委員会。コミカライズの原作としてクレジットされている。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
   }
 ]

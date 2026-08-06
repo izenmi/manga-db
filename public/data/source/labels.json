@@ -2096,5 +2096,45 @@
     "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
     "updatedAt": "2026-08-06",
     "publisherId": "shinchosha"
+  },
+  {
+    "id": "monthly-shonen-ace",
+    "name": "月刊少年エース",
+    "nameKana": "げっかんしょうねんえーす",
+    "description": "KADOKAWAが発行する月刊少年漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "kadokawa"
+  },
+  {
+    "id": "shukan-gendai",
+    "name": "週刊現代",
+    "nameKana": "しゅうかんげんだい",
+    "description": "講談社が発行する週刊誌。漫画連載も掲載している。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "kodansha"
+  },
+  {
+    "id": "comic-pool",
+    "name": "comic POOL",
+    "nameKana": "こみっくぷーる",
+    "description": "一迅社が運営するWeb漫画サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "ichijinsha"
+  },
+  {
+    "id": "corocoro",
+    "name": "月刊コロコロコミック",
+    "nameKana": "げっかんころころこみっく",
+    "description": "小学館が発行する児童向け漫画雑誌。ホビー漫画の一大拠点として知られる。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "shogakukan"
   }
 ]

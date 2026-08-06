@@ -6242,5 +6242,383 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "minekura-kazuya",
+    "name": "峰倉かずや",
+    "nameKana": "みねくらかずや",
+    "description": "漫画家。『最遊記』シリーズの作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "hagiwara-kazushi",
+    "name": "萩原一至",
+    "nameKana": "はぎわらかずし",
+    "description": "漫画家。『BASTARD!!』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kigitsu-katsuhisa",
+    "name": "木々津克久",
+    "nameKana": "きぎつかつひさ",
+    "description": "漫画家。『名探偵マーニー』『フランケン・ふらん』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "mugiko",
+    "name": "麦子",
+    "nameKana": "むぎこ",
+    "description": "漫画家。『探偵はもう、死んでいる。』のコミカライズを担当した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "seo-kouji",
+    "name": "瀬尾公治",
+    "nameKana": "せおこうじ",
+    "description": "漫画家。『君のいる町』『女神のカフェテラス』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ueno-meguru",
+    "name": "植野メグル",
+    "nameKana": "うえのめぐる",
+    "description": "漫画家。『はじめてのギャル』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "nanashi",
+    "name": "ナナシ",
+    "nameKana": "ななし",
+    "description": "漫画家。『イジらないで、長瀞さん』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "nozawa-yukiko",
+    "name": "野澤ゆき子",
+    "nameKana": "のざわゆきこ",
+    "description": "漫画家。『君のことが大大大大大好きな100人の彼女』の作画を担当している。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "yasu-miko",
+    "name": "泰三子",
+    "nameKana": "やすみこ",
+    "description": "漫画家。元警察官の経験をもとに『ハコヅメ』を描いた。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "horio-shota",
+    "name": "堀尾省太",
+    "nameKana": "ほりおしょうた",
+    "description": "漫画家。『ゴールデンゴールド』『ハミダシクリエイティブ』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "yanagisawa-kimio",
+    "name": "柳沢きみお",
+    "nameKana": "やなぎさわきみお",
+    "description": "漫画家。『翔んだカップル』『特命係長 只野仁』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "george-akiyama",
+    "name": "ジョージ秋山",
+    "nameKana": "じょーじあきやま",
+    "description": "漫画家。『浮浪雲』『銭ゲバ』など幅広い作風で知られる。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kitami-kenichi",
+    "name": "北見けんいち",
+    "nameKana": "きたみけんいち",
+    "description": "漫画家。『釣りバカ日誌』の作画を担当している。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kuze-gaku",
+    "name": "久世岳",
+    "nameKana": "くぜがく",
+    "description": "漫画家。『うらみちお兄さん』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "hatsukaya-issei",
+    "name": "初嘉屋一生",
+    "nameKana": "はつかやいっせい",
+    "description": "漫画家。『はたらく細胞BLACK』の作画を担当した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "hiiragi-akio",
+    "name": "柊暁生",
+    "nameKana": "ひいらぎあきお",
+    "description": "漫画家。『はたらく魔王さま!』のコミカライズを担当した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kogino-chuya",
+    "name": "近木野中哉",
+    "nameKana": "こぎのちゅうや",
+    "description": "漫画家。『とある魔術の禁書目録』のコミカライズを担当した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "enomiya-yu",
+    "name": "榎宮祐",
+    "nameKana": "かみやゆう",
+    "description": "漫画家・小説家。『ノーゲーム・ノーライフ』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ichino-yuyu",
+    "name": "一乃ゆゆ",
+    "nameKana": "いちのゆゆ",
+    "description": "漫画家。『ようこそ実力至上主義の教室へ』のコミカライズを担当した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kotone-ranmaru",
+    "name": "琴音らんまる",
+    "nameKana": "ことねらんまる",
+    "description": "漫画家。『君の名は。』のコミカライズを担当した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kubota-wataru",
+    "name": "窪田航",
+    "nameKana": "くぼたわたる",
+    "description": "漫画家。『天気の子』のコミカライズを担当した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "sugimoto-ikura",
+    "name": "杉基イクラ",
+    "nameKana": "すぎもといくら",
+    "description": "漫画家。『サマーウォーズ』のコミカライズを担当した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kajisa-osamu",
+    "name": "加治佐修",
+    "nameKana": "かじさおさむ",
+    "description": "漫画家。『バーテンダー』シリーズの作画を担当している。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "shirahama-kamome",
+    "name": "白浜鴎",
+    "nameKana": "しらはまかもめ",
+    "description": "漫画家。緻密な線で魔法の世界を描く『とんがり帽子のアトリエ』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "satake-kousuke",
+    "name": "佐竹幸典",
+    "nameKana": "さたけこうすけ",
+    "description": "漫画家。『魔女と野獣』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "fujimoto-shinta",
+    "name": "藤本新太",
+    "nameKana": "ふじもとしんた",
+    "description": "漫画家。『デッドマウント・デスプレイ』の作画を担当している。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "aimoto-sho",
+    "name": "藍本松",
+    "nameKana": "あいもとしょう",
+    "description": "漫画家。『保健室の死神』『怪物事変』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "nishi-yoshiyuki",
+    "name": "西義之",
+    "nameKana": "にしよしゆき",
+    "description": "漫画家。『ムヒョとロージーの魔法律相談事務所』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "murase-noriyuki",
+    "name": "村瀬範行",
+    "nameKana": "むらせのりゆき",
+    "description": "漫画家。『ケシカスくん』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kashimoto-manabu",
+    "name": "樫本学ヴ",
+    "nameKana": "かしもとまなぶ",
+    "description": "漫画家。『コロッケ!』『学級王ヤマザキ』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "takahashi-kazuki",
+    "name": "高橋和希",
+    "nameKana": "たかはしかずき",
+    "description": "漫画家。『遊☆戯☆王』の作者。カードゲームブームの原点となった。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "koshita-tetsuhiro",
+    "name": "こしたてつひろ",
+    "nameKana": "こしたてつひろ",
+    "description": "漫画家。『爆走兄弟レッツ&ゴー!!』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "tokuda-zaurus",
+    "name": "徳田ザウルス",
+    "nameKana": "とくだざうるす",
+    "description": "漫画家。ミニ四駆ブームを牽引した『ダッシュ!四駆郎』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "hikawa-hirokazu",
+    "name": "ひかわ博一",
+    "nameKana": "ひかわひろかず",
+    "description": "漫画家。『星のカービィ デデデでプププなものがたり』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "yamamoto-satoshi",
+    "name": "山本サトシ",
+    "nameKana": "やまもとさとし",
+    "description": "漫画家。『ポケットモンスターSPECIAL』の作画を担当している。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "fujiwara-kamui",
+    "name": "藤原カムイ",
+    "nameKana": "ふじわらかむい",
+    "description": "漫画家。『ドラゴンクエスト列伝 ロトの紋章』『雷火』の作画で知られる。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "nishiwaki-datto",
+    "name": "西脇だっと",
+    "nameKana": "にしわきだっと",
+    "description": "漫画家。『Fate/stay night』のコミカライズを担当した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "shin-jiro",
+    "name": "真じろう",
+    "nameKana": "しんじろう",
+    "description": "漫画家。『Fate/Zero』のコミカライズを担当した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "saitaniya-ryuichiro",
+    "name": "才谷屋龍一",
+    "nameKana": "さいたにやりゅういちろう",
+    "description": "漫画家。『ガールズ&パンツァー』のコミカライズを担当した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "soumatou",
+    "name": "ソウマトウ",
+    "nameKana": "そうまとう",
+    "description": "漫画家ユニット。『シャドーハウス』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kaku-yuji",
+    "name": "賀来ゆうじ",
+    "nameKana": "かくゆうじ",
+    "description": "漫画家。『地獄楽』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "tsutsui-taishi",
+    "name": "筒井大志",
+    "nameKana": "つついたいし",
+    "description": "漫画家。『ぼくたちは勉強ができない』の作者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
   }
 ]
