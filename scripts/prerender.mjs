@@ -48,6 +48,7 @@ const routes = [
   "/awards",
   ...awards.map((a) => `/awards/${a.id}`),
   "/timeline",
+  "/search",
   "/about",
 ];
 

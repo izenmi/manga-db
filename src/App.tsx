@@ -11,6 +11,7 @@ import { PersonDetailPage } from "./ui/common/PersonDetailPage";
 import { AwardListPage } from "./ui/awards/AwardListPage";
 import { AwardDetailPage } from "./ui/awards/AwardDetailPage";
 import { TimelinePage } from "./ui/timeline/TimelinePage";
+import { CrossSearchPage } from "./ui/search/CrossSearchPage";
 import { AboutPage } from "./ui/about/AboutPage";
 import { NotFoundPage } from "./ui/common/NotFoundPage";
 
@@ -34,6 +35,7 @@ export function App() {
         <Route path="/awards" element={<AwardListPage />} />
         <Route path="/awards/:id" element={<AwardDetailPage />} />
         <Route path="/timeline" element={<TimelinePage />} />
+        <Route path="/search" element={<CrossSearchPage />} />
         <Route path="/about" element={<AboutPage />} />
         <Route path="*" element={<NotFoundPage />} />
       </Routes>

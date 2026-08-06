@@ -8,6 +8,7 @@ const LINKS = [
   { to: "/labels", label: "レーベル" },
   { to: "/awards", label: "アワード" },
   { to: "/timeline", label: "年表" },
+  { to: "/search", label: "横断検索" },
 ];
 
 export function TopNav() {
