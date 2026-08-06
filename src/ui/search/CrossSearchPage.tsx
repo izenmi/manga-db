@@ -20,11 +20,11 @@ interface SearchIndex {
   items: IndexItem[];
 }
 
-/** Which of the four sites this build is. Self results are listed first and link through React
+/** Which of the five sites this build is. Self results are listed first and link through React
  *  Router; the sister sites are plain full-page links. */
 const SELF_SITE = "manga";
 
-/** All four sites live under izenmi.github.io, so in production these are same-origin requests —
+/** All five sites live under izenmi.github.io, so in production these are same-origin requests —
  *  no CORS config and no backend. The self index is loaded from BASE_URL instead so that `npm run
  *  dev` and the prerender pass (which run on localhost) still find it. */
 const SISTER_INDEX_URLS: Record<string, string> = {
@@ -32,9 +32,10 @@ const SISTER_INDEX_URLS: Record<string, string> = {
   manga: "https://izenmi.github.io/manga-db/data/generated/search-index.json",
   mystery: "https://izenmi.github.io/mystery-db/data/generated/search-index.json",
   game: "https://izenmi.github.io/game-db/data/generated/search-index.json",
+  tech: "https://izenmi.github.io/tech-db/data/generated/search-index.json",
 };
 
-const SITE_ORDER = ["ranobe", "manga", "mystery", "game"];
+const SITE_ORDER = ["ranobe", "manga", "mystery", "game", "tech"];
 
 /** Results shown per site before truncating. A one-character query matches most of the catalogue,
  *  and rendering a few thousand rows makes the page unusable. */
@@ -82,7 +83,7 @@ export function CrossSearchPage() {
 
   useSeo({
     title: "横断検索",
-    description: "らのべDB・まんがDB・ミステリDB・ゲームDBの4サイトをまとめて検索できます。",
+    description: "らのべDB・まんがDB・ミステリDB・ゲームDB・技術書DBの5サイトをまとめて検索できます。",
   });
 
   const results = useMemo(() => {
@@ -110,7 +111,7 @@ export function CrossSearchPage() {
   return (
     <div className="page">
       <h1>横断検索</h1>
-      <p className="page-subtitle">らのべDB・まんがDB・ミステリDB・ゲームDBをまとめて検索します。</p>
+      <p className="page-subtitle">らのべDB・まんがDB・ミステリDB・ゲームDB・技術書DBをまとめて検索します。</p>
 
       <form
         onSubmit={(e) => {
@@ -124,7 +125,7 @@ export function CrossSearchPage() {
           value={draft}
           onChange={(e) => setDraft(e.target.value)}
           placeholder="作品名・著者名・会社名で検索"
-          aria-label="4サイト横断検索"
+          aria-label="5サイト横断検索"
         />
       </form>
 

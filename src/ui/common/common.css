@@ -653,6 +653,11 @@ h1 {
   border-left-color: #9d8ae6;
 }
 
+.sister-site-card--tech {
+  border-left-color: #6fd6c6;
+}
+
+
 .source-note {
   color: var(--color-text-muted);
   font-size: 0.72rem;

@@ -40,6 +40,12 @@ const SISTER_SITES = [
     url: "https://izenmi.github.io/mystery-db/",
     tagline: "国内外の推理小説を著者・名探偵・翻訳者・受賞歴・テーマから探せるデータベース",
   },
+  {
+    key: "tech",
+    name: "技術書DB",
+    url: "https://izenmi.github.io/tech-db/",
+    tagline: "ITエンジニア向けの技術書を技術スタック・対象レベル・著者・出版社から探せるデータベース",
+  },
 ] as const;
 
 /** Returns up to `count` elements from `works` in random order, without mutating the input. */
