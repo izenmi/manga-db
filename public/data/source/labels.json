@@ -2276,5 +2276,25 @@
     "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
     "updatedAt": "2026-08-06",
     "publisherId": "flex-comix"
+  },
+  {
+    "id": "monthly-ikki",
+    "name": "月刊IKKI",
+    "nameKana": "げっかんいっき",
+    "description": "小学館が発行していた青年漫画雑誌。作家性の強い作品を多く掲載した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "shogakukan"
+  },
+  {
+    "id": "everystar",
+    "name": "E☆エブリスタ",
+    "nameKana": "えぶりすた",
+    "description": "投稿型の電子書籍・小説漫画プラットフォーム。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "futabasha"
   }
 ]
