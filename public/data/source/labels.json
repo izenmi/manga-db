@@ -2296,5 +2296,125 @@
     "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
     "updatedAt": "2026-08-06",
     "publisherId": "futabasha"
+  },
+  {
+    "id": "craft",
+    "name": "CRAFT",
+    "nameKana": "くらふと",
+    "description": "大洋図書が発行していたボーイズラブ漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "taiyo-tosho"
+  },
+  {
+    "id": "comic-gyutto",
+    "name": "COMICぎゅっと!",
+    "nameKana": "こみっくぎゅっと",
+    "description": "平和出版が発行していた漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "heiwa-shuppan"
+  },
+  {
+    "id": "kirara-miracle",
+    "name": "まんがタイムきららミラク",
+    "nameKana": "まんがたいむきららみらく",
+    "description": "芳文社が発行していた4コマ漫画誌。きらら系列の一誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "houbunsha"
+  },
+  {
+    "id": "manga-time-special",
+    "name": "まんがタイムスペシャル",
+    "nameKana": "まんがたいむすぺしゃる",
+    "description": "芳文社が発行する4コマ漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "houbunsha"
+  },
+  {
+    "id": "seventeen",
+    "name": "月刊セブンティーン",
+    "nameKana": "げっかんせぶんてぃーん",
+    "description": "集英社が発行していた少女向け雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "shueisha"
+  },
+  {
+    "id": "manga-life",
+    "name": "まんがライフ",
+    "nameKana": "まんがらいふ",
+    "description": "竹書房が発行する4コマ漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "takeshobo"
+  },
+  {
+    "id": "yomiuri",
+    "name": "読売新聞",
+    "nameKana": "よみうりしんぶん",
+    "description": "読売新聞社が発行する日刊紙。朝刊に4コマ漫画を掲載している。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "yomiuri-shimbun"
+  },
+  {
+    "id": "gakunenshi",
+    "name": "小学館の学年別学習雑誌",
+    "nameKana": "しょうがくかんのがくねんべつがくしゅうざっし",
+    "description": "小学館が学年ごとに発行していた児童向け学習雑誌の総称。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "shogakukan"
+  },
+  {
+    "id": "kodomo-no-hikari",
+    "name": "こどもの光",
+    "nameKana": "こどものひかり",
+    "description": "家の光協会が発行していた児童向け雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "ienohikari"
+  },
+  {
+    "id": "dengeki-comic-gao",
+    "name": "月刊電撃コミックガオ!",
+    "nameKana": "げっかんでんげきこみっくがお",
+    "description": "メディアワークスが発行していた漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "kadokawa"
+  },
+  {
+    "id": "asahi-shimbun",
+    "name": "朝日新聞",
+    "nameKana": "あさひしんぶん",
+    "description": "朝日新聞社が発行する日刊紙。朝刊に4コマ漫画を掲載してきた。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "asahi-shimbunsha"
+  },
+  {
+    "id": "comic-tom",
+    "name": "コミックトム",
+    "nameKana": "こみっくとむ",
+    "description": "潮出版社が発行していた漫画雑誌。歴史ものを多く掲載した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "ushio-shuppansha"
   }
 ]

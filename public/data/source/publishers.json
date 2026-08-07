@@ -570,5 +570,50 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "heiwa-shuppan",
+    "name": "平和出版",
+    "nameKana": "へいわしゅっぱん",
+    "description": "漫画雑誌『COMICぎゅっと!』などを発行していた日本の出版社。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "yomiuri-shimbun",
+    "name": "読売新聞社",
+    "nameKana": "よみうりしんぶんしゃ",
+    "description": "日本の新聞社。朝刊に4コマ漫画を連載している。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ienohikari",
+    "name": "家の光協会",
+    "nameKana": "いえのひかりきょうかい",
+    "description": "農協系の出版団体。雑誌『こどもの光』などを発行していた。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "asahi-shimbunsha",
+    "name": "朝日新聞社",
+    "nameKana": "あさひしんぶんしゃ",
+    "description": "日本の新聞社。朝刊に長く漫画を連載してきた。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "enterbrain",
+    "name": "エンターブレイン",
+    "nameKana": "えんたーぶれいん",
+    "description": "ゲーム・漫画雑誌を発行していた日本の出版社。現在はKADOKAWAのブランド。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06"
   }
 ]
