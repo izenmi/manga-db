@@ -2226,5 +2226,55 @@
     "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
     "updatedAt": "2026-08-06",
     "publisherId": "hero-s"
+  },
+  {
+    "id": "weekly-playboy",
+    "name": "週刊プレイボーイ",
+    "nameKana": "しゅうかんぷれいぼーい",
+    "description": "集英社が発行する男性向け週刊誌。漫画連載も掲載している。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "shueisha"
+  },
+  {
+    "id": "bs-log-comic",
+    "name": "B's-LOG COMIC",
+    "nameKana": "びーずろぐこみっく",
+    "description": "KADOKAWAが発行する女性向け漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "kadokawa"
+  },
+  {
+    "id": "manga-life-storia",
+    "name": "まんがライフSTORIA",
+    "nameKana": "まんがらいふすとーりあ",
+    "description": "竹書房が発行していた漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "takeshobo"
+  },
+  {
+    "id": "feel-young",
+    "name": "FEEL YOUNG",
+    "nameKana": "ふぃーるやんぐ",
+    "description": "祥伝社が発行する女性向け漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "shodensha"
+  },
+  {
+    "id": "comic-meteor",
+    "name": "COMIC メテオ",
+    "nameKana": "こみっくめてお",
+    "description": "フレックスコミックスが運営するWeb漫画サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "flex-comix"
   }
 ]
