@@ -624,5 +624,23 @@
     "sourceNote": "国立国会図書館サーチの書誌および公式サイトで存在を確認(2026-08-07)。",
     "updatedAt": "2026-08-07",
     "nameKana": "りいどしゃ"
+  },
+  {
+    "id": "magazine-house",
+    "name": "マガジンハウス",
+    "nameKana": "まがじんはうす",
+    "description": "雑誌『an・an』『Hanako』などを刊行する出版社。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "north-stars",
+    "name": "ノース・スターズ・ピクチャーズ",
+    "nameKana": "のーすすたーずぴくちゃーず",
+    "description": "原哲夫が設立した制作会社。『月刊コミックゼノン』を発行する。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
   }
 ]
