@@ -669,6 +669,14 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-06T23:57:44.263Z"
   },
+  "barubara-ikai": {
+    "title": "バルバラ異界",
+    "isbn": null,
+    "matchedTitle": "バルバラ異界（１）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0490/2000000200490.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-07T23:29:10.808Z"
+  },
   "basara": {
     "title": "BASARA",
     "isbn": null,
@@ -1014,6 +1022,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3177/9784884753177.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T00:39:59.830Z"
+  },
+  "boru-ando-chein": {
+    "title": "ボールアンドチェイン",
+    "isbn": "9784838732630",
+    "matchedTitle": "ボールアンドチェイン 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2630/9784838732630_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T23:28:59.838Z"
   },
   "boukyaku-battery": {
     "title": "忘却バッテリー",
@@ -1677,6 +1693,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-02T09:38:02.988Z"
   },
+  "donto-kurai-garu": {
+    "title": "ドントクライ、ガール",
+    "isbn": null,
+    "matchedTitle": "ドントクライ、ガール",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2956/2000000192956.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-07T23:28:58.658Z"
+  },
   "doraemon": {
     "title": "ドラえもん",
     "isbn": "9784091400017",
@@ -2126,6 +2150,14 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-07T00:39:27.925Z"
+  },
+  "gekikou-kamen": {
+    "title": "劇光仮面",
+    "isbn": "9784098613632",
+    "matchedTitle": "劇光仮面（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3632/9784098613632_1_11.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T23:29:14.291Z"
   },
   "gekkan-shoujo-nozaki-kun": {
     "title": "月刊少女野崎くん",
@@ -2673,6 +2705,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-06T23:47:19.794Z"
   },
+  "hatarakiman": {
+    "title": "働きマン",
+    "isbn": "9784063724530",
+    "matchedTitle": "働きマン（2）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4530/9784063724530_1_16.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T23:29:06.891Z"
+  },
   "hataraku-maousama": {
     "title": "はたらく魔王さま!",
     "isbn": "9784048867214",
@@ -2728,6 +2768,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5937/9784865545937_1_6.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-06T23:48:03.257Z"
+  },
+  "heiwa-no-kuni-no-shimazaki-e": {
+    "title": "平和の国の島崎へ",
+    "isbn": "9784065376973",
+    "matchedTitle": "平和の国の島崎へ　CONFIDENTIAL　INFORMATION",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6973/9784065376973_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T23:29:13.131Z"
   },
   "hellsing": {
     "title": "HELLSING",
@@ -3293,6 +3341,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-06T23:34:29.498Z"
   },
+  "iyahayaatamikunbunsatsubanzerozeroichi": {
+    "title": "いやはや熱海くん",
+    "isbn": "9784047373372",
+    "matchedTitle": "いやはや熱海くん　1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3372/9784047373372_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T23:29:01.010Z"
+  },
   "jagaan": {
     "title": "ジャガーン",
     "isbn": null,
@@ -3356,6 +3412,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4044/2000003254044.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-07T16:15:01.122Z"
+  },
+  "jin-buraido": {
+    "title": "ジーンブライド",
+    "isbn": "9784396768447",
+    "matchedTitle": "ジーンブライド（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8447/9784396768447_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T23:28:55.144Z"
   },
   "jinrou-game": {
     "title": "人狼ゲーム",
@@ -4673,6 +4737,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-06T23:34:10.763Z"
   },
+  "machi-de-uwasa-no-tengu-no-ko": {
+    "title": "町でうわさの天狗の子",
+    "isbn": null,
+    "matchedTitle": "町でうわさの天狗の子（１）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6072/2000000166072.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-07T23:29:21.302Z"
+  },
   "machida-kun-no-sekai": {
     "title": "町田くんの世界",
     "isbn": null,
@@ -4696,6 +4768,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6393/9784832246393.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-06T23:48:17.456Z"
+  },
+  "madan-no-ichi": {
+    "title": "魔男のイチ",
+    "isbn": "9784088844022",
+    "matchedTitle": "魔男のイチ 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4022/9784088844022_1_20.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T23:29:02.228Z"
   },
   "magi": {
     "title": "マギ",
@@ -6205,6 +6285,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-07T22:28:55.919Z"
   },
+  "robounofujiitanwa": {
+    "title": "路傍のフジイ",
+    "isbn": "9784098625420",
+    "matchedTitle": "路傍のフジイ（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5420/9784098625420_1_10.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T23:29:11.970Z"
+  },
   "rokudenashi-blues": {
     "title": "ろくでなしBLUES",
     "isbn": null,
@@ -7011,6 +7099,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-03T23:22:36.544Z"
   },
+  "shuumatsu-no-warukyure": {
+    "title": "終末のワルキューレ",
+    "isbn": "9784867201145",
+    "matchedTitle": "終末のワルキューレ（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1145/9784867201145.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T23:29:16.648Z"
+  },
   "sidonia-no-kishi": {
     "title": "シドニアの騎士",
     "isbn": null,
@@ -7374,6 +7470,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2619/9784091842619_1_11.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-06T23:57:15.598Z"
+  },
+  "tasogare-takako": {
+    "title": "たそがれたかこ",
+    "isbn": null,
+    "matchedTitle": "たそがれたかこ（１）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0768/2000002500768.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-07T23:29:05.695Z"
   },
   "tatakae-announcer": {
     "title": "戦え!アナウンサー",
@@ -7865,6 +7969,14 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-07T00:16:55.903Z"
   },
+  "toukyou-higoro": {
+    "title": "東京ヒゴロ",
+    "isbn": "9784098611171",
+    "matchedTitle": "東京ヒゴロ（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1171/9784098611171_1_21.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T23:29:15.486Z"
+  },
   "trigun": {
     "title": "トライガン",
     "isbn": "9784785920050",
@@ -7880,6 +7992,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7609/9784047127609_1_2.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-03T23:23:12.329Z"
+  },
+  "tsubakichou-ronri-puranetto": {
+    "title": "椿町ロンリープラネット",
+    "isbn": "9784088454290",
+    "matchedTitle": "椿町ロンリープラネット（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4290/9784088454290.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T23:29:17.817Z"
   },
   "tsubasa-reservoir-chronicle": {
     "title": "ツバサ-RESERVoir CHRoNiCLE-",
@@ -8086,6 +8206,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7771/9784065217771_1_97.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-06T23:47:32.024Z"
+  },
+  "usagi-doroppu": {
+    "title": "うさぎドロップ",
+    "isbn": "9784396763800",
+    "matchedTitle": "うさぎドロップ（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3967/39676380.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T23:29:22.465Z"
   },
   "usagi-yasei-no-touhai": {
     "title": "兎-野性の闘牌-",

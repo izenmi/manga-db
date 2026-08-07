@@ -37115,5 +37115,561 @@
     "externalLinks": {},
     "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
     "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "koori-no-jouheki",
+    "title": "氷の城壁",
+    "titleKana": "こおりのじょうへき",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "agasawakoucha"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonenjump-plus",
+    "themeIds": [
+      "school",
+      "slice-of-life",
+      "romance"
+    ],
+    "firstPublishedYear": 2023,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 14,
+    "synopsis": "高校生たちの、少しずつ変わっていく関係を丁寧に描く群像青春もの。",
+    "awardResults": [
+      {
+        "awardId": "zenkoku-shoten-in-osusume-comic",
+        "year": 2024,
+        "result": "2024年 第6位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "handakun",
+    "title": "はんだくん",
+    "titleKana": "はんだくん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yoshino-satsuki"
+    ],
+    "publisherId": "square-enix",
+    "labelId": "gangan-monthly",
+    "themeIds": [
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 7,
+    "synopsis": "不器用な高校生・半田くんをめぐる学園コメディ。『ばらかもん』のスピンオフ。",
+    "awardResults": [
+      {
+        "awardId": "zenkoku-shoten-in-osusume-comic",
+        "year": 2015,
+        "result": "2015年 第7位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hani",
+    "title": "ハニー",
+    "titleKana": "はにー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "meguroamu"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "margaret",
+    "themeIds": [
+      "romance",
+      "school"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 8,
+    "synopsis": "高校生の恋を描いた少女漫画。",
+    "awardResults": [
+      {
+        "awardId": "zenkoku-shoten-in-osusume-comic",
+        "year": 2014,
+        "result": "2014年 第7位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "borurumu-e-youkoso",
+    "title": "ボールルームへようこそ",
+    "titleKana": "ぼーるるーむえようこそ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "takeuchitomo"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "monthly-shonen-magazine",
+    "themeIds": [
+      "sports",
+      "school",
+      "romance"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 12,
+    "synopsis": "競技ダンスに出会った高校生・富士田多々良が、その世界にのめり込んでいく。",
+    "awardResults": [
+      {
+        "awardId": "zenkoku-shoten-in-osusume-comic",
+        "year": 2013,
+        "result": "2013年 第7位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nezumi-no-hatsukoi",
+    "title": "ねずみの初恋",
+    "titleKana": "ねずみのはつこい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "oosetoriku"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "young-magazine",
+    "themeIds": [
+      "crime-underworld",
+      "romance",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2024,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 10,
+    "synopsis": "ヤクザ組織に殺し屋として育てられた少年と、彼が出会う少女を描く。",
+    "awardResults": [
+      {
+        "awardId": "zenkoku-shoten-in-osusume-comic",
+        "year": 2025,
+        "result": "2025年 第8位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ano-ko-no-kodomo",
+    "title": "あの子の子ども",
+    "titleKana": "あのこのこども",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "aoimamoru"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "bessatsu-friend",
+    "themeIds": [
+      "romance",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2024,
+    "status": "ongoing",
+    "volumeCount": 10,
+    "synopsis": "高校生の川上福と、彼女を「フク」と呼ぶ同級生。予期せぬ妊娠をめぐる現実を描く。",
+    "awardResults": [
+      {
+        "awardId": "zenkoku-shoten-in-osusume-comic",
+        "year": 2022,
+        "result": "2022年 第8位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kawaii-dake-ja-nai-shikimorisan",
+    "title": "可愛いだけじゃない式守さん",
+    "titleKana": "かわいいだけじゃないしきもりさん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "makikeigo"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "romance",
+      "school",
+      "comedy"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2023,
+    "status": "ongoing",
+    "volumeCount": 20,
+    "synopsis": "不幸体質の男子高校生・和泉くんと、いざというとき格好よすぎる彼女・式守さん。",
+    "awardResults": [
+      {
+        "awardId": "zenkoku-shoten-in-osusume-comic",
+        "year": 2020,
+        "result": "2020年 第8位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "yakumosan-wa-ezuke-ga-shitai",
+    "title": "八雲さんは餌づけがしたい。",
+    "titleKana": "やくもさんわえずけがしたい。",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "satomiu"
+    ],
+    "publisherId": "square-enix",
+    "labelId": "young-gangan",
+    "themeIds": [
+      "romance",
+      "gourmet",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2021,
+    "status": "ongoing",
+    "volumeCount": 11,
+    "synopsis": "一人暮らしの未亡人・八雲柊子が、食べさせることを通して人と関わっていく。",
+    "awardResults": [
+      {
+        "awardId": "zenkoku-shoten-in-osusume-comic",
+        "year": 2018,
+        "result": "2018年 第8位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kuu-neru-futari-sumu-futari",
+    "title": "喰う寝るふたり 住むふたり",
+    "titleKana": "くうねるふたりすむふたり",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "higurashikinoko"
+    ],
+    "publisherId": "north-stars",
+    "labelId": "comic-zenon",
+    "themeIds": [
+      "romance",
+      "slice-of-life",
+      "comedy"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2023,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "同棲するカップルの日常を、食事と眠りと暮らしから描く。",
+    "awardResults": [
+      {
+        "awardId": "zenkoku-shoten-in-osusume-comic",
+        "year": 2014,
+        "result": "2014年 第8位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "mikkusu",
+    "title": "MIX",
+    "titleKana": "みっくす",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "adachi-mitsuru"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "gessan",
+    "themeIds": [
+      "sports",
+      "school",
+      "romance"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 25,
+    "synopsis": "野球に打ち込む双子と義兄弟。『タッチ』と同じ明青学園を舞台にした続編的作品。",
+    "awardResults": [
+      {
+        "awardId": "zenkoku-shoten-in-osusume-comic",
+        "year": 2013,
+        "result": "2013年 第8位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kujima-utaeba-ie-hororo",
+    "title": "クジマ歌えば家ほろろ",
+    "titleKana": "くじまうたえばいえほろろ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "konnoakira"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "gessan",
+    "themeIds": [
+      "comedy",
+      "slice-of-life",
+      "school"
+    ],
+    "firstPublishedYear": 2022,
+    "latestPublishedYear": 2024,
+    "status": "ongoing",
+    "volumeCount": 5,
+    "synopsis": "中学1年の鴻田新のもとに、鳥のような謎の生き物クジマが現れる。",
+    "awardResults": [
+      {
+        "awardId": "zenkoku-shoten-in-osusume-comic",
+        "year": 2023,
+        "result": "2023年 第9位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "senchimentaru-kisu",
+    "title": "センチメンタルキス",
+    "titleKana": "せんちめんたるきす",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "komorimikko"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "margaret",
+    "themeIds": [
+      "romance",
+      "school"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 14,
+    "synopsis": "クリスマスが近づくなか、デートに誘われた日和。高校生たちの恋を描く。",
+    "awardResults": [
+      {
+        "awardId": "zenkoku-shoten-in-osusume-comic",
+        "year": 2022,
+        "result": "2022年 第9位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "takane-to-hana",
+    "title": "高嶺と花",
+    "titleKana": "たかねとはな",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "shiwasuyuki"
+    ],
+    "publisherId": "hakusensha",
+    "labelId": "hana-to-yume",
+    "themeIds": [
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2020,
+    "status": "ongoing",
+    "volumeCount": 18,
+    "synopsis": "ヤクザの組長と女子高生という、極端な組み合わせのラブコメディ。",
+    "awardResults": [
+      {
+        "awardId": "zenkoku-shoten-in-osusume-comic",
+        "year": 2016,
+        "result": "2016年 第9位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hosuto-to-shachiku",
+    "title": "ホストと社畜",
+    "titleKana": "ほすととしゃちく",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kawajirimitsuru"
+    ],
+    "publisherId": "futabasha",
+    "labelId": "manga-action",
+    "themeIds": [
+      "comedy",
+      "workplace-drama",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2024,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 4,
+    "synopsis": "ホストと社畜、生活時間の合わない二人の関係を描く。",
+    "awardResults": [
+      {
+        "awardId": "zenkoku-shoten-in-osusume-comic",
+        "year": 2025,
+        "result": "2025年 第10位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "pipipipipipi",
+    "title": "PPPPPP",
+    "titleKana": "ぴぴぴぴぴぴ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "maporo3gou"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "music",
+      "school",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2022,
+    "latestPublishedYear": 2023,
+    "status": "ongoing",
+    "volumeCount": 8,
+    "synopsis": "音上ミイヒらピアニストたちが才能をぶつけ合う、音楽をテーマにした異色作。",
+    "awardResults": [
+      {
+        "awardId": "zenkoku-shoten-in-osusume-comic",
+        "year": 2023,
+        "result": "2023年 第10位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kujou-no-taizai",
+    "title": "九条の大罪",
+    "titleKana": "くじょうのたいざい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "manabe-shohei"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-spirits",
+    "themeIds": [
+      "crime-underworld",
+      "workplace-drama",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 17,
+    "synopsis": "弁護士・九条間人が請け負うのは、半グレや裏社会の依頼ばかり。法の際どい部分を描く。",
+    "awardResults": [
+      {
+        "awardId": "zenkoku-shoten-in-osusume-comic",
+        "year": 2022,
+        "result": "2022年 第10位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
   }
 ]
