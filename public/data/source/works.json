@@ -33910,5 +33910,1049 @@
     "externalLinks": {},
     "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。 『このマンガがすごい!』のランキングはWikipedia日本語版「このマンガがすごい!」の受賞作一覧(第10位まで)で確認(2026-08-07照会)。",
     "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kimi-to-uchuu-o-aruku-tame-ni",
+    "title": "君と宇宙を歩くために",
+    "titleKana": "きみとうちゅうおあるくために",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "doronodainuhiko"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "afternoon",
+    "themeIds": [
+      "slice-of-life",
+      "school",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2023,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 6,
+    "synopsis": "勉強に身が入らずアルバイトも続かないヤンキー風の高校生・小林大和が、宇宙人を名乗る同級生と出会う。生きづらさに寄り添う青春もの。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2025,
+        "result": "2025年版 オトコ版 第1位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "daiyamondo-no-kouzai",
+    "title": "ダイヤモンドの功罪",
+    "titleKana": "だいやもんどのこうざい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hiraioohashi"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "young-jump",
+    "themeIds": [
+      "sports",
+      "school",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2023,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 10,
+    "synopsis": "圧倒的な才能ゆえ、どんな競技でもすぐに経験者を追い越してしまう少年。野球に打ち込む彼を取り巻く才能と重圧を描く。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2024,
+        "result": "2024年版 オトコ版 第1位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "umibe-no-sutobu-ooshiro-kogani-tanpenshuu",
+    "title": "うみべのストーブ 大白小蟹短編集",
+    "titleKana": "うみべのすとーぶ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ooshirokogani"
+    ],
+    "publisherId": "leed-sha",
+    "labelId": "torch-web",
+    "themeIds": [
+      "slice-of-life",
+      "romance"
+    ],
+    "firstPublishedYear": 2022,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "生活のなかから生まれた感情を短編で掬い上げる、新鋭の初単行本。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2024,
+        "result": "2024年版 オンナ版 第1位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "rukku-bakku",
+    "title": "ルックバック",
+    "titleKana": "るっくばっく",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "fujimoto-tatsuki"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonenjump-plus",
+    "themeIds": [
+      "arts",
+      "slice-of-life",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2024,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "自分の才能に自信を持つ藤野と、引きこもりの京本。田舎町でともに漫画を描き始めた二人の関係を描く読み切り作品。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2022,
+        "result": "2022年版 オトコ版 第1位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sayonara-mini-sukato",
+    "title": "さよならミニスカート",
+    "titleKana": "さよならみにすかーと",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "makinoaoi"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "ribon",
+    "themeIds": [
+      "school",
+      "slice-of-life",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2025,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "アイドルだった少女の失踪をきっかけに、教室の空気が変わっていく。少女漫画誌に載った異色の問題作。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2020,
+        "result": "2020年版 オンナ版 第1位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "maronie-oukoku-no-shichinin-no-kishi",
+    "title": "マロニエ王国の七人の騎士",
+    "titleKana": "まろにえおうこくのしちにんのきし",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "iwamotonao"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "flowers",
+    "themeIds": [
+      "adventure",
+      "dark-fantasy",
+      "romance"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2026,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "マロニエ王国を舞台に、七人の騎士と王女をめぐる物語が動き出すファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2018,
+        "result": "2018年版 オンナ版 第1位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kin-no-kuni-mizu-no-kuni",
+    "title": "金の国 水の国",
+    "titleKana": "きんのくにみずのくに",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "iwamotonao"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "flowers",
+    "themeIds": [
+      "adventure",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2023,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "いがみ合う隣国どうしの和平のため、それぞれの国から送り出された娘と青年。噛み合わない二人の旅を描く一巻完結作。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2017,
+        "result": "2017年版 オンナ版 第1位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "chichan-wa-chotto-tarinai",
+    "title": "ちーちゃんはちょっと足りない",
+    "titleKana": "ちーちゃんわちょっとたりない",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "abetomomi"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "bessatsu-shonen-champion",
+    "themeIds": [
+      "school",
+      "slice-of-life",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2014,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "あれも欲しい、これも欲しい——いつも何か物足りない中学2年生の女子の日常が、静かに軋んでいく。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2015,
+        "result": "2015年版 オンナ版 第1位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sayonara-sorushie",
+    "title": "さよならソルシエ",
+    "titleKana": "さよならそるしえ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hozumi"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "flowers",
+    "themeIds": [
+      "historical",
+      "arts",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "19世紀末のパリに現れたふたりのゴッホ。天才画家の兄フィンセントと、画商である弟テオの関係を描き直す。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2014,
+        "result": "2014年版 オンナ版 第1位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "detoroito-metaru-shiti",
+    "title": "デトロイト・メタル・シティ",
+    "titleKana": "でとろいとめたるしてぃ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "wakasugikiminori"
+    ],
+    "publisherId": "hakusensha",
+    "labelId": "young-animal",
+    "themeIds": [
+      "comedy",
+      "music",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2006,
+    "latestPublishedYear": 2010,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "おしゃれなポップスを愛する青年が、なぜかデスメタルバンドのボーカルとして覚醒してしまう。ギャップを笑いに変えたギャグ漫画。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2007,
+        "result": "2007年版 オトコ版 第1位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "yomi-no-tsugai",
+    "title": "黄泉のツガイ",
+    "titleKana": "よみのつがい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "arakawa-hiromu"
+    ],
+    "publisherId": "square-enix",
+    "labelId": "gangan-monthly",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2022,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 13,
+    "synopsis": "山奥の東村で明け方に生まれた男女の双子。「ツガイ」と呼ばれる存在をめぐる伝奇バトルファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2024,
+        "result": "2024年版 オトコ版 第2位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sayonara-eri",
+    "title": "さよなら絵梨",
+    "titleKana": "さよならえり",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "fujimoto-tatsuki"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonenjump-plus",
+    "themeIds": [
+      "arts",
+      "slice-of-life",
+      "romance"
+    ],
+    "firstPublishedYear": 2022,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "病の母の願いから始まった映画作りと、絵梨という少女との出会い。虚構と現実の境目を扱う読み切り作品。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2023,
+        "result": "2023年版 オトコ版 第2位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tsukuritai-onna-to-tabetai-onna",
+    "title": "作りたい女と食べたい女",
+    "titleKana": "つくりたいおんなとたべたいおんな",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yuzakisakaomi"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "kurage-bunch",
+    "themeIds": [
+      "gourmet",
+      "yuri",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 6,
+    "synopsis": "たくさん作りたい女と、たくさん食べたい女。食卓を共にすることから始まる二人の関係を描く。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2022,
+        "result": "2022年版 オンナ版 第2位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "go-happi-mania",
+    "title": "後ハッピーマニア",
+    "titleKana": "(ご)はっぴーまにあ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "annomoyoko"
+    ],
+    "publisherId": "shodensha",
+    "labelId": "feel-young",
+    "themeIds": [
+      "romance",
+      "comedy",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 6,
+    "synopsis": "『ハッピー・マニア』の続編。結婚後のカヨコが再び恋と欲望に振り回される。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2021,
+        "result": "2021年版 オンナ版 第2位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "robo-sapiensu-zenshi",
+    "title": "ロボ・サピエンス前史",
+    "titleKana": "ろぼさぴえんすぜんし",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "shimadatoranosuke"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning",
+    "themeIds": [
+      "sci-fi",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "ロボットの捜索を職とするサルベージ屋を軸に、人と機械の長い時間を描く連作。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2020,
+        "result": "2020年版 オトコ版 第2位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kongouji-san-wa-mendoukusai",
+    "title": "金剛寺さんは面倒臭い",
+    "titleKana": "こんごうじさんわめんどうくさい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "toyodaminoru"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "gessan",
+    "themeIds": [
+      "comedy",
+      "school",
+      "romance"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 7,
+    "synopsis": "唯一無二のギミックを仕込んだラブコメディ。ページの使い方そのものが仕掛けになっている。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2019,
+        "result": "2019年版 オトコ版 第2位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "watashi-no-shounen",
+    "title": "私の少年",
+    "titleKana": "わたしのしょうねん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "takanohitomi"
+    ],
+    "publisherId": "futabasha",
+    "labelId": "young-magazine",
+    "themeIds": [
+      "slice-of-life",
+      "romance",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 9,
+    "synopsis": "30歳のOL・多和田聡子と、12歳の少年・真修。年齢差のある二人の関係を慎重な筆致で描く。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2017,
+        "result": "2017年版 オトコ版 第2位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sakamoto-desuga",
+    "title": "坂本ですが？",
+    "titleKana": "さかもとですが",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "sano-nami"
+    ],
+    "publisherId": "enterbrain",
+    "labelId": "comic-beam",
+    "themeIds": [
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "戦国時代からタイムスリップしてきたかのような高校生・坂本。何をしてもクールに決まってしまう彼の学園生活を描くギャグ。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2014,
+        "result": "2014年版 オトコ版 第2位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tokimeki-tunaito-makabe-shun-no-jijou",
+    "title": "ときめきトゥナイト 真壁俊の事情",
+    "titleKana": "ときめきとぅないとまかべしゅんのじじょう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ikeno-koi"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "ribon",
+    "themeIds": [
+      "romance",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "『ときめきトゥナイト』の登場人物・真壁俊の側から描かれたスピンオフ。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2014,
+        "result": "2014年版 オンナ版 第2位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shiki-no-zenjitsu",
+    "title": "式の前日",
+    "titleKana": "しきのぜんじつ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hozumi"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "flowers",
+    "themeIds": [
+      "slice-of-life",
+      "romance"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2012,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "双子の兄弟、訳ありの親子、結婚を控えた男女——「ふたりきり」の関係を切り取った短編集。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2013,
+        "result": "2013年版 オンナ版 第2位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "eki-kara-5fun",
+    "title": "駅から5分",
+    "titleKana": "えきから5ふん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kuramochifusako"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "cocohana",
+    "themeIds": [
+      "slice-of-life",
+      "romance",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2007,
+    "latestPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "亡くなった祖父に代わり、おんぼろアパート「鬼首荘」の大家になった女性。住人たちの人生が交差する。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2009,
+        "result": "2009年版 オンナ版 第2位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sankyu-picchi",
+    "title": "サンキューピッチ",
+    "titleKana": "さんきゅーぴっち",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "sumiyoshikyuu"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "sports",
+      "school"
+    ],
+    "firstPublishedYear": 2025,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 6,
+    "synopsis": "神奈川の高校球児の間で囁かれる噂から始まる野球漫画。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2026,
+        "result": "2026年版 オトコ版 第3位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "takopi-no-genzai",
+    "title": "タコピーの原罪",
+    "titleKana": "たこぴーのげんざい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "taizan5"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonenjump-plus",
+    "themeIds": [
+      "sci-fi",
+      "suspense-psychological",
+      "school"
+    ],
+    "firstPublishedYear": 2022,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "ハッピーを広めるために地球へやってきたハッピー星人タコピーが、小学生の少女の現実に触れる。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2023,
+        "result": "2023年版 オトコ版 第3位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "majime-na-kaishain",
+    "title": "まじめな会社員",
+    "titleKana": "まじめなかいしゃいん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "fuyunoumeko"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning",
+    "themeIds": [
+      "slice-of-life",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2022,
+    "status": "ongoing",
+    "volumeCount": 4,
+    "synopsis": "「普通の人でいたい」と願いながら、うまくいかない日々を送る会社員を描く。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2023,
+        "result": "2023年版 オンナ版 第3位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kuron-jenerikku-romansu",
+    "title": "九龍ジェネリックロマンス",
+    "titleKana": "くーろんじぇねりっくろまんす",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mayuzuki-jun"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "young-jump",
+    "themeIds": [
+      "sci-fi",
+      "romance",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 12,
+    "synopsis": "香港上空に建設された「ジェネリックテラ」。失われた街の記憶をめぐるSFロマンス。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2021,
+        "result": "2021年版 オトコ版 第3位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "bokunokokoronoyabaiyatsubunsatsuban001",
+    "title": "僕の心のヤバイやつ",
+    "titleKana": "ぼくのこころのやばいやつぶんさつばん001",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "sakurai-norio"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "shonen-champion",
+    "themeIds": [
+      "school",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 14,
+    "synopsis": "陰キャの中二病少年・市川京太郎と、クラスの人気者・山田杏奈。図書室で交わる二人の距離が少しずつ縮まっていく。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2020,
+        "result": "2020年版 オトコ版 第3位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "faia-panchi",
+    "title": "ファイアパンチ",
+    "titleKana": "ふぁいあぱんち",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "fujimoto-tatsuki"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonenjump-plus",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 8,
+    "synopsis": "炎に焼かれ続ける「祝福」を持つ青年アグニの復讐を描く、藤本タツキの初連載作品。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2017,
+        "result": "2017年版 オトコ版 第3位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kuro-hakubutsukan-gosuto-ando-redi",
+    "title": "黒博物館 ゴーストアンドレディ",
+    "titleKana": "くろはくぶつかんごーすとあんどれでぃ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "fujita-kazuhiro"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning",
+    "themeIds": [
+      "historical",
+      "dark-fantasy",
+      "adventure"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "決闘代理人はなぜ劇場の幽霊となったのか。ナイチンゲールを題材に、19世紀の英国を舞台にした物語。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2016,
+        "result": "2016年版 オトコ版 第3位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kodomo-wa-wakatte-agenai",
+    "title": "子供はわかってあげない",
+    "titleKana": "こどもわわかってあげない",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tajimarettou"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning",
+    "themeIds": [
+      "romance",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2026,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "高校2年の朔田美波と、父を訪ねる旅に出る少年。ゆるやかな筆致で描かれる青春もの。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2015,
+        "result": "2015年版 オトコ版 第3位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tsukikage-beibe",
+    "title": "月影ベイベ",
+    "titleKana": "つきかげべいべ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kodama-yuki"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "flowers",
+    "themeIds": [
+      "romance",
+      "slice-of-life",
+      "arts"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 9,
+    "synopsis": "富山県八尾町を舞台に、おわら風の盆に関わる高校生たちの想いを描く。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2014,
+        "result": "2014年版 オンナ版 第3位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
   }
 ]
