@@ -2416,5 +2416,55 @@
     "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
     "updatedAt": "2026-08-06",
     "publisherId": "ushio-shuppansha"
+  },
+  {
+    "id": "petit-flower",
+    "name": "プチフラワー",
+    "nameKana": "ぷちふらわー",
+    "publisherId": "shogakukan",
+    "description": "小学館が1980年から2002年まで刊行していた少女漫画誌。萩尾望都ら大手作家の長期連載を掲載した。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌および各作品の連載情報で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "davinci",
+    "name": "ダ・ヴィンチ",
+    "nameKana": "だゔぃんち",
+    "publisherId": "kadokawa",
+    "description": "KADOKAWA(旧メディアファクトリー)が刊行する書籍情報誌。漫画作品の連載も掲載している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌および各作品の連載情報で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "cocohana",
+    "name": "ココハナ",
+    "nameKana": "ここはな",
+    "publisherId": "shueisha",
+    "description": "集英社の女性漫画誌。2011年に『Chorus』を引き継いで創刊された。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌および各作品の連載情報で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "torch-web",
+    "name": "トーチweb",
+    "nameKana": "とーちうぇぶ",
+    "publisherId": "leed-sha",
+    "description": "リイド社が運営するWebコミック配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌および各作品の連載情報で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "monthly-super-action",
+    "name": "月刊スーパーアクション",
+    "nameKana": "げっかんすーぱーあくしょん",
+    "publisherId": "futabasha",
+    "description": "双葉社が1980年代に刊行していた漫画誌。『西遊妖猿伝』などを連載した。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌および各作品の連載情報で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
   }
 ]

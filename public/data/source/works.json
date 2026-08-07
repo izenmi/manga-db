@@ -31484,5 +31484,978 @@
       "novelization": false
     },
     "sourceNote": "日本語版Wikipedia『BUNGO -ブンゴ-』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "zankokuna-kami-ga-shihaisuru",
+    "title": "残酷な神が支配する",
+    "titleKana": "ざんこくなかみがしはいする",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hagio-moto"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "petit-flower",
+    "themeIds": [
+      "suspense-psychological",
+      "slice-of-life",
+      "romance"
+    ],
+    "firstPublishedYear": 1993,
+    "latestPublishedYear": 2005,
+    "status": "completed",
+    "volumeCount": 17,
+    "synopsis": "ボストンとロンドンを舞台に、義父からの虐待という重い主題を長い時間をかけて描いた萩尾望都の長編。第2回手塚治虫文化賞マンガ優秀賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 1997,
+        "result": "マンガ優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "bocchan-no-jidai",
+    "title": "「坊っちゃん」の時代",
+    "titleKana": "ぼっちゃんのじだい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "taniguchi-jiro"
+    ],
+    "publisherId": "futabasha",
+    "labelId": "manga-action",
+    "themeIds": [
+      "historical",
+      "slice-of-life",
+      "arts"
+    ],
+    "firstPublishedYear": 1987,
+    "latestPublishedYear": 2021,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "一般に痛快な青春小説として読まれてきた『坊っちゃん』を、文明開化という時代のうねりのなかに置き直して読み替える歴史漫画。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 1998,
+        "result": "マンガ大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shindou",
+    "title": "神童",
+    "titleKana": "しんどう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "sasouakira"
+    ],
+    "publisherId": "futabasha",
+    "labelId": "manga-action",
+    "themeIds": [
+      "music",
+      "slice-of-life",
+      "arts"
+    ],
+    "firstPublishedYear": 1998,
+    "latestPublishedYear": 2007,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "将棋のプロを目指す奨励会三段リーグ——ではなく音楽の天才少女と音大生の出会いを描く。才能とは何かを問う作品。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 1999,
+        "result": "マンガ優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "saiyuu-youenden",
+    "title": "西遊妖猿伝",
+    "titleKana": "さいゆうようえんでん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "morohoshi-daijiro"
+    ],
+    "publisherId": "futabasha",
+    "labelId": "monthly-super-action",
+    "themeIds": [
+      "adventure",
+      "historical",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 1984,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 14,
+    "synopsis": "『西遊記』を史実の唐代に置き直して再構成した長編。玄奘三蔵の旅を、宗教と政治が渦巻く現実の中国大陸として描く。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2000,
+        "result": "マンガ大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "yajikita-in-deep",
+    "title": "弥次喜多 in DEEP",
+    "titleKana": "やじきたindeep",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "shiriagarikotobuki"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "comic-beam",
+    "themeIds": [
+      "comedy",
+      "adventure",
+      "historical"
+    ],
+    "firstPublishedYear": 1998,
+    "latestPublishedYear": 2005,
+    "status": "completed",
+    "volumeCount": 8,
+    "synopsis": "弥次さん喜多さんの東海道中を、幻覚と現実が溶け合う語り口で描き直した異色作。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2001,
+        "result": "マンガ優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kiiroi-hon-jakku-chibo-to-yuu-na-no-yuujin",
+    "title": "黄色い本 ジャック・チボーという名の友人",
+    "titleKana": "きいろいほん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "takanofumiko"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "afternoon",
+    "themeIds": [
+      "slice-of-life",
+      "arts"
+    ],
+    "firstPublishedYear": 2002,
+    "latestPublishedYear": 2002,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "一冊の本『チボー家の人々』とともに過ごした少女時代を、静謐な筆致で描いた短編集。第7回手塚治虫文化賞マンガ大賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2003,
+        "result": "マンガ大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "heruta-sukeruta",
+    "title": "ヘルタースケルター",
+    "titleKana": "へるたーすけるたー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "okazaki-kyoko"
+    ],
+    "publisherId": "shodensha",
+    "labelId": "feel-young",
+    "themeIds": [
+      "suspense-psychological",
+      "entertainment-industry",
+      "romance"
+    ],
+    "firstPublishedYear": 2003,
+    "latestPublishedYear": 2012,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "美容整形を繰り返して頂点に立ったトップモデルが、その代償に蝕まれていく。消費される美を描いた岡崎京子の代表作。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2004,
+        "result": "マンガ大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "oeru-shinkaron",
+    "title": "OL進化論",
+    "titleKana": "おーえるしんかろん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "akitsukirisu"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning",
+    "themeIds": [
+      "comedy",
+      "workplace-drama",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 1991,
+    "latestPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 42,
+    "synopsis": "オフィスに集う人々の日常を、愛情を持って切り取る4コマ漫画。長期連載として多くの読者に親しまれた。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2004,
+        "result": "短編賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "maihime-terepushikora",
+    "title": "舞姫 テレプシコーラ",
+    "titleKana": "まいひめ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yamagishi-ryoko"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "davinci",
+    "themeIds": [
+      "arts",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2001,
+    "latestPublishedYear": 2010,
+    "status": "completed",
+    "volumeCount": 25,
+    "synopsis": "バレエに打ち込む姉妹を軸に、才能と身体、そして家族を描いた長編。第9回手塚治虫文化賞マンガ大賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2007,
+        "result": "マンガ大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "oosaka-hamuretto",
+    "title": "大阪ハムレット",
+    "titleKana": "おおさかはむれっと",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "morishita-hiromi"
+    ],
+    "publisherId": "futabasha",
+    "labelId": "manga-action",
+    "themeIds": [
+      "slice-of-life",
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 2006,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "大阪の下町に暮らす家族の姿を、笑いと哀しみを織り交ぜて描く連作。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2007,
+        "result": "短編賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "panoramatou-kitan",
+    "title": "パノラマ島綺譚",
+    "titleKana": "ぱのらまとうきたん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "maruo-suehiro"
+    ],
+    "publisherId": "enterbrain",
+    "labelId": "comic-beam",
+    "themeIds": [
+      "dark-fantasy",
+      "historical",
+      "ero-guro"
+    ],
+    "firstPublishedYear": 2008,
+    "latestPublishedYear": 2008,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "江戸川乱歩の同名小説を丸尾末広が漫画化。人工楽園をめぐる耽美的で幻想的な絵物語として描き直している。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2009,
+        "result": "新生賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "mushi-to-uta",
+    "title": "虫と歌",
+    "titleKana": "むしとうた",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ichikawa-haruko"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "afternoon",
+    "themeIds": [
+      "sci-fi",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2009,
+    "latestPublishedYear": 2009,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "人と人ならざるものの境界を、静かな筆致で描いた短編集。市川春子の初期作品集。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2010,
+        "result": "新生賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shikyuu-sarariman-kouza",
+    "title": "C級さらりーまん講座",
+    "titleKana": "しーきゅうさらりーまんこうざ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yamashinakeisuke"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic",
+    "themeIds": [
+      "comedy",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 1994,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "サラリーマンの悲哀を誇張して描く4コマ漫画。ビッグコミックの人気連載となった。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2011,
+        "result": "短編賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kikaijikake-no-ai",
+    "title": "機械仕掛けの愛",
+    "titleKana": "きかいじかけのあい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "goudayoshiie"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-original",
+    "themeIds": [
+      "sci-fi",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2025,
+    "status": "completed",
+    "volumeCount": 7,
+    "synopsis": "ロボットと人の関係を1話完結で描く連作。手塚治虫文化賞短編賞と文化庁メディア芸術祭の両方で評価された。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2013,
+        "result": "短編賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "machida-kun-no-sekai",
+    "title": "町田くんの世界",
+    "titleKana": "まちだくんのせかい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "andouyuki"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "bessatsu-margaret",
+    "themeIds": [
+      "school",
+      "romance",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 7,
+    "synopsis": "運動も勉強も苦手で見た目も地味な高校生・町田くん。しかし彼には人を惹きつける不思議な力がある。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2016,
+        "result": "新生賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "jimihen",
+    "title": "じみへん",
+    "titleKana": "じみへん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nakazakitatsuya"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-spirits",
+    "themeIds": [
+      "comedy",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 1991,
+    "latestPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "日常のささやかな違和感を切り取り続けた1ページ漫画の長期連載。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2016,
+        "result": "短編賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hana-ni-somu",
+    "title": "花に染む",
+    "titleKana": "はなにそむ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kuramochifusako"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "cocohana",
+    "themeIds": [
+      "school",
+      "romance",
+      "sports"
+    ],
+    "firstPublishedYear": 2010,
+    "latestPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 8,
+    "synopsis": "比々羅木神社の息子・圓城陽大が、兄と従妹とともに弓道に打ち込む日々を描く。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2017,
+        "result": "マンガ大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sono-onna-jiruba-jiruba-za-fotizu",
+    "title": "その女、ジルバ",
+    "titleKana": "そのおんなじるば",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "arimashinobu"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-original",
+    "themeIds": [
+      "slice-of-life",
+      "workplace-drama",
+      "romance"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "40歳にして恋人も貯金もない笛吹新が、老後への不安を抱えながらある店と出会う。人生の後半を描く物語。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2019,
+        "result": "マンガ大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "areyo-hoshikuzu",
+    "title": "あれよ星屑",
+    "titleKana": "あれよほしくず",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yamadasansuke"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "comic-beam",
+    "themeIds": [
+      "war-military",
+      "historical",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 7,
+    "synopsis": "敗戦直後の焼け野原の東京。復員兵の川島徳太郎が闇市で雑炊屋を営みながら、戦争が残したものと向き合う。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2019,
+        "result": "新生賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "muchuu-sa-kimi-ni",
+    "title": "夢中さ、きみに。",
+    "titleKana": "むちゅうさきみに",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "wayama-yama"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "comic-beam",
+    "themeIds": [
+      "comedy",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "同人誌即売会で頒布された同名作品を含む短編集。高校生たちの微妙な距離感を独特のテンポで描く。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2020,
+        "result": "短編賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "rando",
+    "title": "ランド",
+    "titleKana": "らんど",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yamashitakazumi"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning",
+    "themeIds": [
+      "sci-fi",
+      "dark-fantasy",
+      "adventure"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "閉ざされた土地に生きる人々の世界を、少女の視点から解き明かしていく長編ファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2021,
+        "result": "マンガ大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kyoushitsu-no-katasumi-de-seishun-ga-hajimaru",
+    "title": "教室の片隅で青春がはじまる",
+    "titleKana": "きょうしつのかたすみでせいしゅんがはじまる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "taniguchinatsuko"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "comic-beam",
+    "themeIds": [
+      "school",
+      "comedy",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2021,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "有名になりたいのに、いつも主役になりきれない吉田まりも。教室の片隅から始まる青春を描く。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2022,
+        "result": "新生賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "yuria-sensei-no-akai-ito",
+    "title": "ゆりあ先生の赤い糸",
+    "titleKana": "ゆりあせんせいのあかいいと",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "iriekiwa"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "be-love",
+    "themeIds": [
+      "slice-of-life",
+      "romance",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "刺繍教室の先生・伊沢ゆりあの人生が、思わぬ出来事から大きく動き出す。中年女性の再出発を描く長編。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2023,
+        "result": "マンガ大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "onnanoko-ga-iru-basho-wa",
+    "title": "女の子がいる場所は",
+    "titleKana": "おんなのこがいるばしょわ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yamajiebine"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "comic-beam",
+    "themeIds": [
+      "slice-of-life",
+      "historical"
+    ],
+    "firstPublishedYear": 2022,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "遠い国に生きる少女たちの現実を描き、差別される側という視点を共有する作品。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2023,
+        "result": "短編賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kanda-gokurachou-shokuninbanashi",
+    "title": "神田ごくら町職人ばなし",
+    "titleKana": "かんだごくらちょうしょくにんばなし",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "sakaueakihito"
+    ],
+    "publisherId": "leed-sha",
+    "labelId": "torch-web",
+    "themeIds": [
+      "historical",
+      "workplace-drama",
+      "arts"
+    ],
+    "firstPublishedYear": 2023,
+    "latestPublishedYear": 2026,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "江戸の職人たちの技と意地を、圧巻の描写で描く連作。腕はあっても意気地のない者に職人の資格はない——",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2024,
+        "result": "新生賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "dokudami-no-hana-saku-koro",
+    "title": "どくだみの花咲くころ",
+    "titleKana": "どくだみのはなさくころ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kidoshiho"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "afternoon",
+    "themeIds": [
+      "school",
+      "slice-of-life",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2024,
+    "latestPublishedYear": 2025,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "癇癪持ちで予測不能な信楽と、なんでもソツなくこなす同級生。かみ合わない二人の関係を描く。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2025,
+        "result": "新生賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hon-nara-uruhodo",
+    "title": "本なら売るほど",
+    "titleKana": "ほんならうるほど",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kojimaao"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "harta",
+    "themeIds": [
+      "slice-of-life",
+      "comedy"
+    ],
+    "firstPublishedYear": 2025,
+    "latestPublishedYear": 2026,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "古本屋「十月堂」を舞台に、店主と本を求めて訪れる人々の交流を描く連作。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2026,
+        "result": "マンガ大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kaijuu-o-kaibou-suru",
+    "title": "怪獣を解剖する",
+    "titleKana": "かいじゅうおかいぼうする",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "saitoumado"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "comic-beam",
+    "themeIds": [
+      "sci-fi",
+      "adventure",
+      "comedy"
+    ],
+    "firstPublishedYear": 2025,
+    "latestPublishedYear": 2025,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "怪獣を解剖するという仕事を通して、巨大な生き物と人の関わりを描く作品。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2026,
+        "result": "新生賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
   }
 ]
