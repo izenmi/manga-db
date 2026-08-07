@@ -24892,5 +24892,1441 @@
       "novelization": false
     },
     "sourceNote": "日本語版Wikipedia『ぼくたちは勉強ができない』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "zipang",
+    "title": "ジパング",
+    "titleKana": "じぱんぐ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kawaguchi-kaiji"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning",
+    "themeIds": [
+      "war-military",
+      "historical",
+      "sci-fi"
+    ],
+    "firstPublishedYear": 2000,
+    "status": "completed",
+    "synopsis": "最新鋭のイージス艦「みらい」が、太平洋戦争のミッドウェー海戦直前へタイムスリップする。歴史に介入すべきかという問いを軸に、乗組員と当時の軍人たちの思惑が交錯する架空戦記。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%91%E3%83%B3%E3%82%B0_%28%E6%BC%AB%E7%94%BB%29"
+    },
+    "updatedAt": "2026-08-06",
+    "latestPublishedYear": 2009,
+    "volumeCount": 43,
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ジパング (漫画)』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "shoukoku-no-altair",
+    "title": "将国のアルタイル",
+    "titleKana": "しょうこくのあるたいる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kato-kotono"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-sirius",
+    "themeIds": [
+      "historical",
+      "war-military",
+      "adventure"
+    ],
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "中東と地中海世界を思わせる架空の国々を舞台に、最年少の将軍マフムートが戦争を避けるために各国を渡り歩く。外交と軍事の駆け引きを丁寧に描いた歴史ファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%B0%86%E5%9B%BD%E3%81%AE%E3%82%A2%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%AB"
+    },
+    "updatedAt": "2026-08-06",
+    "latestPublishedYear": 2024,
+    "volumeCount": 27,
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『将国のアルタイル』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "ookami-to-koushinryou",
+    "title": "狼と香辛料",
+    "titleKana": "おおかみとこうしんりょう",
+    "originalAuthorIds": [
+      "hasekura-isuna"
+    ],
+    "artistIds": [
+      "koume-keito"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "dengeki-maoh-old",
+    "themeIds": [
+      "isekai",
+      "romance",
+      "business"
+    ],
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "行商人ロレンスと、豊作を司る狼の化身ホロが旅を続ける。中世ヨーロッパを思わせる世界で、通貨や関税をめぐる商いの駆け引きが物語の中心に据えられている異色のファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%8B%BC%E3%81%A8%E9%A6%99%E8%BE%9B%E6%96%99"
+    },
+    "updatedAt": "2026-08-06",
+    "latestPublishedYear": 2018,
+    "volumeCount": 16,
+    "mediaMix": {
+      "anime": false,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『狼と香辛料』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "wolfsmund",
+    "title": "狼の口 〜ヴォルフスムント〜",
+    "titleKana": "おおかみのくちゔぉるふすむんと",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kuji-mitsuhisa"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "fellows",
+    "themeIds": [
+      "historical",
+      "war-military",
+      "ero-guro"
+    ],
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "14世紀のスイス、聖ゴットハルト峠の関所を舞台に、独立を目指す民衆と冷酷な関所長との攻防を描く。残酷な処刑描写も辞さない筆致で、史実に沿った独立戦争を追う歴史漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%8B%BC%E3%81%AE%E5%8F%A3_%E3%80%9C%E3%83%B4%E3%82%A9%E3%83%AB%E3%83%95%E3%82%B9%E3%83%A0%E3%83%B3%E3%83%88%E3%80%9C"
+    },
+    "updatedAt": "2026-08-06",
+    "latestPublishedYear": 2016,
+    "volumeCount": 8,
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『狼の口 〜ヴォルフスムント〜』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "dampier",
+    "title": "ダンピアのおいしい冒険",
+    "titleKana": "だんぴあのおいしいぼうけん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tomato-soup"
+    ],
+    "publisherId": "east-press",
+    "labelId": "matogrosso",
+    "themeIds": [
+      "historical",
+      "adventure",
+      "gourmet"
+    ],
+    "firstPublishedYear": 2019,
+    "status": "completed",
+    "synopsis": "17世紀の海賊にして博物学者ウィリアム・ダンピアが、世界を巡りながら見知らぬ土地の食べ物を記録していく。史実の航海記をもとに、探究心と食への好奇心を軽やかに描く歴史漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%B3%E3%83%94%E3%82%A2%E3%81%AE%E3%81%8A%E3%81%84%E3%81%97%E3%81%84%E5%86%92%E9%99%BA"
+    },
+    "updatedAt": "2026-08-06",
+    "latestPublishedYear": 2023,
+    "volumeCount": 6,
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ダンピアのおいしい冒険』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "tenmaku-no-jadougal",
+    "title": "天幕のジャードゥーガル",
+    "titleKana": "てんまくのじゃーどぅーがる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tomato-soup"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "souffle",
+    "themeIds": [
+      "historical",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2021,
+    "status": "ongoing",
+    "synopsis": "13世紀、モンゴル帝国に連れ去られた奴隷の少女ファーティマが、知識を武器に宮廷で地位を築いていく。史実の人物を題材に、女性が権力に近づく過程を丹念に描いた歴史漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%A4%A9%E5%B9%95%E3%81%AE%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%89%E3%82%A5%E3%83%BC%E3%82%AC%E3%83%AB"
+    },
+    "updatedAt": "2026-08-06",
+    "volumeCount": 6,
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『天幕のジャードゥーガル』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "suuji-de-asobo",
+    "title": "数字であそぼ。",
+    "titleKana": "すうじであそぼ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kinuta-murako"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "flowers",
+    "themeIds": [
+      "school",
+      "comedy"
+    ],
+    "firstPublishedYear": 2018,
+    "status": "ongoing",
+    "synopsis": "記憶力だけで京大の数学科に入った青年・横山が、理解を伴わない学力の限界に直面する。数学科の日常を細かく描きながら、学ぶことの意味を問う学園コメディ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%95%B0%E5%AD%97%E3%81%A7%E3%81%82%E3%81%9D%E3%81%BC%E3%80%82"
+    },
+    "updatedAt": "2026-08-06",
+    "latestPublishedYear": 2018,
+    "volumeCount": 16,
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『数字であそぼ。』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "amakusu-takao",
+    "title": "天久鷹央の推理カルテ",
+    "titleKana": "あめくたかおのすいりかるて",
+    "originalAuthorIds": [
+      "chinen-mikito"
+    ],
+    "artistIds": [
+      "ohara-hiroki"
+    ],
+    "publisherId": "shinchosha",
+    "labelId": "monthly-comic-bunch",
+    "themeIds": [
+      "medical",
+      "detective-mystery"
+    ],
+    "firstPublishedYear": 2016,
+    "status": "completed",
+    "synopsis": "統括診断部の天才医師・天久鷹央が、原因不明の症状の裏にある謎を医学的な知識で解き明かす。医療ミステリとして症例の推理を軸に据えつつ、変わり者の医師の人物像を描く。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%80%8C%E5%A4%A9%E4%B9%85%E9%B7%B9%E5%A4%AE%E3%80%8D%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
+    },
+    "updatedAt": "2026-08-06",
+    "latestPublishedYear": 2018,
+    "volumeCount": 4,
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『「天久鷹央」シリーズ』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "takatsuki-akira",
+    "title": "准教授・高槻彰良の推察",
+    "titleKana": "じゅんきょうじゅたかつきあきらのすいさつ",
+    "originalAuthorIds": [
+      "sawamura-mikage"
+    ],
+    "artistIds": [
+      "aio-toji"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "comic-gene",
+    "themeIds": [
+      "detective-mystery",
+      "dark-fantasy",
+      "school"
+    ],
+    "firstPublishedYear": 2020,
+    "status": "completed",
+    "synopsis": "民俗学を専門とする准教授・高槻彰良が、怪異の噂を「本物」を求めて調査する。噂の裏にある人間の思惑を暴く安楽椅子探偵ものでありながら、本物の怪異の気配も漂わせている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%87%86%E6%95%99%E6%8E%88%E3%83%BB%E9%AB%98%E6%A7%BB%E5%BD%B0%E8%89%AF%E3%81%AE%E6%8E%A8%E5%AF%9F"
+    },
+    "updatedAt": "2026-08-06",
+    "latestPublishedYear": 2024,
+    "volumeCount": 7,
+    "mediaMix": {
+      "anime": false,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『准教授・高槻彰良の推察』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "sakurako-san",
+    "title": "櫻子さんの足下には死体が埋まっている",
+    "titleKana": "さくらこさんのあしもとにはしたいがうまっている",
+    "originalAuthorIds": [
+      "ota-shiori"
+    ],
+    "artistIds": [
+      "mizuguchi-to"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "young-ace",
+    "themeIds": [
+      "detective-mystery",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2015,
+    "status": "completed",
+    "synopsis": "骨を偏愛する標本士・九条櫻子が、高校生の正太郎とともに死体の骨から真相を読み解く。骨格や死因の科学的な考察を軸にしたミステリで、独特の距離感の二人の関係も見どころ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%AB%BB%E5%AD%90%E3%81%95%E3%82%93%E3%81%AE%E8%B6%B3%E4%B8%8B%E3%81%AB%E3%81%AF%E6%AD%BB%E4%BD%93%E3%81%8C%E5%9F%8B%E3%81%BE%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B"
+    },
+    "updatedAt": "2026-08-06",
+    "latestPublishedYear": 2017,
+    "volumeCount": 2,
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『櫻子さんの足下には死体が埋まっている』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "okitegami-kyoko",
+    "title": "掟上今日子の備忘録",
+    "titleKana": "おきてがみきょうこのびぼうろく",
+    "originalAuthorIds": [
+      "nisioisin"
+    ],
+    "artistIds": [
+      "asami-you"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "detective-mystery",
+      "comedy"
+    ],
+    "firstPublishedYear": 2015,
+    "status": "completed",
+    "synopsis": "眠ると記憶が失われる「忘却探偵」掟上今日子が、その日のうちに事件を解決する。記憶が残らないという制約を推理の条件として組み込み、原作の軽妙な語りをコミカライズした作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%BF%98%E5%8D%B4%E6%8E%A2%E5%81%B5%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
+    },
+    "updatedAt": "2026-08-06",
+    "latestPublishedYear": 2017,
+    "volumeCount": 5,
+    "mediaMix": {
+      "anime": false,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『忘却探偵シリーズ』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "hanzawa-san",
+    "title": "名探偵コナン 犯人の犯沢さん",
+    "titleKana": "はんにんのはんざわさん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "aoyama-gosho"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "sunday-s",
+    "themeIds": [
+      "comedy",
+      "crime-underworld",
+      "detective-mystery"
+    ],
+    "firstPublishedYear": 2017,
+    "status": "ongoing",
+    "synopsis": "『名探偵コナン』の黒衣の犯人を主人公に、日常のささやかな困りごとを描くスピンオフ。殺人事件を起こす前の生活を淡々と映し、本編の緊張感を裏返した脱力系ギャグとして展開する。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%90%8D%E6%8E%A2%E5%81%B5%E3%82%B3%E3%83%8A%E3%83%B3_%E7%8A%AF%E4%BA%BA%E3%81%AE%E7%8A%AF%E6%B2%A2%E3%81%95%E3%82%93"
+    },
+    "updatedAt": "2026-08-06",
+    "latestPublishedYear": 2017,
+    "volumeCount": 10,
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『名探偵コナン 犯人の犯沢さん』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "ao-no-miburo",
+    "title": "青のミブロ",
+    "titleKana": "あおのみぶろ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yasuda-tsuyoshi"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "historical",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2021,
+    "status": "ongoing",
+    "synopsis": "幕末の京都で、団子屋の少年にろが壬生浪士組に加わる。後の新選組となる集団の草創期を、少年たちの視点から描き、剣戟と時代の空気を少年漫画の熱量で見せる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%9D%92%E3%81%AE%E3%83%9F%E3%83%96%E3%83%AD"
+    },
+    "updatedAt": "2026-08-06",
+    "latestPublishedYear": 2021,
+    "volumeCount": 14,
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『青のミブロ』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "chojun-chojo-senpai",
+    "title": "超巡!超条先輩",
+    "titleKana": "ちょうじゅんちょうじょうせんぱい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "numa-shun"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "comedy",
+      "detective-mystery"
+    ],
+    "firstPublishedYear": 2024,
+    "status": "completed",
+    "synopsis": "超能力を使える刑事たちが所属する部署で、能力に頼りきりの超条先輩と後輩が事件に挑む。能力の使い方を毎回ずらして笑いに変える、テンポの速いギャグ漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E8%B6%85%E5%B7%A1%21%E8%B6%85%E6%9D%A1%E5%85%88%E8%BC%A9"
+    },
+    "updatedAt": "2026-08-06",
+    "latestPublishedYear": 2025,
+    "volumeCount": 8,
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『超巡!超条先輩』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "green-green-greens",
+    "title": "グリーングリーングリーンズ",
+    "titleKana": "ぐりーんぐりーんぐりーんず",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "terasaka-kento"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "sports",
+      "school"
+    ],
+    "firstPublishedYear": 2023,
+    "status": "completed",
+    "synopsis": "廃業寸前のゴルフ場を立て直すため、高校生たちがゴルフに挑む。プレーの理屈を丁寧に描きつつ、若者たちが土地と向き合っていく姿を爽やかに描いたスポーツ漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%BA"
+    },
+    "updatedAt": "2026-08-06",
+    "latestPublishedYear": 2024,
+    "volumeCount": 3,
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『グリーングリーングリーンズ』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "ichinose-ke-no-taizai",
+    "title": "一ノ瀬家の大罪",
+    "titleKana": "いちのせけのたいざい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "taizan5"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "suspense-psychological",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2022,
+    "status": "completed",
+    "synopsis": "事故で家族全員が記憶を失った一ノ瀬家が、互いの関係を手探りで作り直そうとする。ホームドラマとして始まりながら、記憶が戻るにつれて家族の抱えていた歪みが露わになる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E4%B8%80%E3%83%8E%E7%80%AC%E5%AE%B6%E3%81%AE%E5%A4%A7%E7%BD%AA"
+    },
+    "updatedAt": "2026-08-06",
+    "latestPublishedYear": 2023,
+    "volumeCount": 6,
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『一ノ瀬家の大罪』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "kasane-matsuura",
+    "title": "累 -かさね-",
+    "titleKana": "かさね",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "matsuura-daruma"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "evening",
+    "themeIds": [
+      "suspense-psychological",
+      "arts",
+      "horror"
+    ],
+    "firstPublishedYear": 2013,
+    "status": "completed",
+    "synopsis": "醜い容貌に苦しむ少女・累が、母の遺した口紅で他人と顔を入れ替え、舞台女優として頂点を目指す。才能と外見をめぐる欲望が絡み合い、破滅へ向かう心理劇として展開する。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%B4%AF"
+    },
+    "updatedAt": "2026-08-06",
+    "latestPublishedYear": 2018,
+    "volumeCount": 14,
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『累』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "haunted-campus",
+    "title": "ホーンテッド・キャンパスシリーズ",
+    "titleKana": "ほーんてっどきゃんぱす",
+    "originalAuthorIds": [
+      "kushiki-riu"
+    ],
+    "artistIds": [
+      "hashii-chizu"
+    ],
+    "publisherId": "asahi-shimbun-shuppan",
+    "labelId": "nemuki-plus",
+    "themeIds": [
+      "horror",
+      "detective-mystery",
+      "school"
+    ],
+    "firstPublishedYear": 2014,
+    "status": "completed",
+    "synopsis": "オカルト研究会に所属する大学生たちが、心霊がらみの相談を持ち込まれ調査に乗り出す。怪異の裏に人の悪意を見出す構成で、青春ミステリとしての側面も強い作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%BC%E3%83%B3%E3%83%86%E3%83%83%E3%83%89%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%91%E3%82%B9%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
+    },
+    "updatedAt": "2026-08-06",
+    "latestPublishedYear": 2016,
+    "volumeCount": 3,
+    "mediaMix": {
+      "anime": false,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『ホーンテッド・キャンパスシリーズ』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "majo-ni-sasageru-trick",
+    "title": "魔女に捧げるトリック",
+    "titleKana": "まじょにささげるとりっく",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "watanabe-shizumu"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "suspense-psychological",
+      "school",
+      "horror"
+    ],
+    "firstPublishedYear": 2020,
+    "status": "completed",
+    "synopsis": "人が消える現象が続く街で、魔女と呼ばれる存在をめぐる駆け引きが始まる。誰が味方かわからない状況で、心理戦と反転を積み重ねるサスペンス作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%AD%94%E5%A5%B3%E3%81%AB%E6%8D%A7%E3%81%92%E3%82%8B%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF"
+    },
+    "updatedAt": "2026-08-06",
+    "latestPublishedYear": 2021,
+    "volumeCount": 4,
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『魔女に捧げるトリック』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "amano-megumi",
+    "title": "天野めぐみはスキだらけ!",
+    "titleKana": "あまのめぐみはすきだらけ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nekoguchi"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "sunday-s",
+    "themeIds": [
+      "romance",
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 2015,
+    "status": "completed",
+    "synopsis": "幼馴染の少女・天野めぐみが、無自覚に距離を詰めてくることに振り回される高校生の物語。お色気を交えつつ、二人の関係が少しずつ変わっていく学園ラブコメディ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%A4%A9%E9%87%8E%E3%82%81%E3%81%90%E3%81%BF%E3%81%AF%E3%82%B9%E3%82%AD%E3%81%A0%E3%82%89%E3%81%91%21"
+    },
+    "updatedAt": "2026-08-06",
+    "latestPublishedYear": 2021,
+    "volumeCount": 28,
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『天野めぐみはスキだらけ!』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "saigo-wa-straight",
+    "title": "最後は?ストレート!!",
+    "titleKana": "さいごはストレート",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "samukawa-kazuyuki"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "sports",
+      "school"
+    ],
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "投手としての才能に恵まれなかった少年が、配球と観察で打者を抑えることを覚えていく。派手さのない野球を、駆け引きの積み重ねとして丁寧に描いた作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%9C%80%E5%BE%8C%E3%81%AF%3F%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%83%88%21%21"
+    },
+    "updatedAt": "2026-08-06",
+    "latestPublishedYear": 2016,
+    "volumeCount": 20,
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『最後は?ストレート!!』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "kimi-wa-008",
+    "title": "君は008",
+    "titleKana": "きみは008",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "matsuena-syun"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "spy-action",
+      "school",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "スパイに憧れる高校生・遠藤エイトが、実在するスパイ養成校に入学する。訓練と実戦を通して成長する姿を、格闘描写に定評のある作者らしい迫力で描いたアクション作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%90%9B%E3%81%AF008"
+    },
+    "updatedAt": "2026-08-06",
+    "latestPublishedYear": 2024,
+    "volumeCount": 33,
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『君は008』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "dandadaan",
+    "title": "だんドーン",
+    "titleKana": "だんどーん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yasu-miko"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning",
+    "themeIds": [
+      "historical",
+      "comedy",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2023,
+    "status": "ongoing",
+    "synopsis": "幕末から明治にかけて日本の警察制度を作った川路利良を主人公に、時代の転換期を描く。史実を踏まえながら、現代的な感覚の会話とギャグで読ませる歴史漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%A0%E3%82%93%E3%83%89%E3%83%BC%E3%83%B3"
+    },
+    "updatedAt": "2026-08-06",
+    "latestPublishedYear": 2023,
+    "volumeCount": 11,
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『だんドーン』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "wandance",
+    "title": "ワンダンス",
+    "titleKana": "わんだんす",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "coffee"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "afternoon",
+    "themeIds": [
+      "arts",
+      "school"
+    ],
+    "firstPublishedYear": 2019,
+    "status": "ongoing",
+    "synopsis": "吃音に悩む高校生・小谷花木が、ダンス部の湾田光莉に惹かれて踊り始める。言葉にできない感情を身体で表す過程を、躍動感のあるコマ運びで描いた青春漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%B3%E3%83%80%E3%83%B3%E3%82%B9"
+    },
+    "updatedAt": "2026-08-06",
+    "latestPublishedYear": 2019,
+    "volumeCount": 15,
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ワンダンス』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "uq-holder",
+    "title": "UQ HOLDER!",
+    "titleKana": "ゆーきゅーほるだー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "akamatsu-ken"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "battle-action",
+      "dark-fantasy",
+      "school"
+    ],
+    "firstPublishedYear": 2013,
+    "status": "completed",
+    "synopsis": "不老不死となった少年・近衛刀太が、同じく死なない者たちの組織UQ HOLDERに加わる。『魔法先生ネギま!』の後日譚として、魔法世界の争いに巻き込まれていくバトルファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/UQ_HOLDER%21"
+    },
+    "updatedAt": "2026-08-06",
+    "latestPublishedYear": 2022,
+    "volumeCount": 28,
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『UQ HOLDER!』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "ai-ga-tomaranai",
+    "title": "A・Iが止まらない!",
+    "titleKana": "えーあいがとまらない",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "akamatsu-ken"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "romance",
+      "comedy",
+      "sci-fi"
+    ],
+    "firstPublishedYear": 1994,
+    "status": "completed",
+    "synopsis": "パソコンから現れた人工知能の少女サーティが、作者である高校生と暮らし始める。プログラムとしての存在が心を持つのかという問いを、ラブコメディの枠組みで描いた作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/A%E3%83%BBI%E3%81%8C%E6%AD%A2%E3%81%BE%E3%82%89%E3%81%AA%E3%81%84%21"
+    },
+    "updatedAt": "2026-08-06",
+    "latestPublishedYear": 1997,
+    "volumeCount": 9,
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『A・Iが止まらない!』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "gs-mikami",
+    "title": "GS美神 極楽大作戦!!",
+    "titleKana": "ごーすとすいーぱーみかみ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "shiina-takashi"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "comedy",
+      "dark-fantasy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1991,
+    "status": "completed",
+    "synopsis": "金にがめつい美人霊能力者・美神令子と、助手の横島忠夫が除霊の依頼をこなす。ギャグを主体としながら、後半は本格的な霊的バトルへと発展していくオカルトコメディ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/GS%E7%BE%8E%E7%A5%9E_%E6%A5%B5%E6%A5%BD%E5%A4%A7%E4%BD%9C%E6%88%A6%21%21"
+    },
+    "updatedAt": "2026-08-06",
+    "latestPublishedYear": 1999,
+    "volumeCount": 39,
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『GS美神 極楽大作戦!!』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "magic-kaito",
+    "title": "まじっく快斗",
+    "titleKana": "まじっくかいと",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "aoyama-gosho"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "detective-mystery",
+      "comedy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1987,
+    "status": "ongoing",
+    "synopsis": "手品師の父を殺された高校生・黒羽快斗が、怪盗キッドとして宝石を狙う。奇術を駆使した鮮やかな盗みと、父の死の真相を追う筋立てが並行する。『名探偵コナン』とも世界を共有している。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%BE%E3%81%98%E3%81%A3%E3%81%8F%E5%BF%AB%E6%96%97"
+    },
+    "updatedAt": "2026-08-06",
+    "volumeCount": 5,
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『まじっく快斗』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "yaiba",
+    "title": "YAIBA",
+    "titleKana": "やいば",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "aoyama-gosho"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "battle-action",
+      "comedy",
+      "adventure"
+    ],
+    "firstPublishedYear": 1988,
+    "status": "completed",
+    "synopsis": "野生児の少年・鉄刃が、伝説の剣をめぐる戦いに身を投じる。剣士としての成長と、次々に現れる強敵との対決を、ギャグを交えたテンポの良い展開で描く冒険活劇。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/YAIBA"
+    },
+    "updatedAt": "2026-08-06",
+    "latestPublishedYear": 1993,
+    "volumeCount": 24,
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『YAIBA』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "bengoshi-no-kuzu",
+    "title": "弁護士のくず",
+    "titleKana": "べんごしのくず",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "iura-hideo"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-original",
+    "themeIds": [
+      "workplace-drama",
+      "crime-underworld"
+    ],
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "品行に問題のある弁護士・九頭元人が、常識外れの手法で依頼人を救う。実際の法律問題を題材に、正義とは何かを問い直す視点で描かれる法廷ドラマ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%BC%81%E8%AD%B7%E5%A3%AB%E3%81%AE%E3%81%8F%E3%81%9A"
+    },
+    "updatedAt": "2026-08-06",
+    "latestPublishedYear": 2014,
+    "volumeCount": 21,
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『弁護士のくず』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "gokuaku-ganbo",
+    "title": "極悪がんぼ",
+    "titleKana": "ごくあくがんぼ",
+    "originalAuthorIds": [
+      "tajima-takashi"
+    ],
+    "artistIds": [
+      "kochi-takahiro"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "evening",
+    "themeIds": [
+      "crime-underworld",
+      "business"
+    ],
+    "firstPublishedYear": 2001,
+    "status": "completed",
+    "synopsis": "事件屋として裏社会と法律の隙間で稼ぐ人々を描く。債権回収や地面師といった実際の手口を題材に、法の抜け道を使い合う駆け引きを緊迫感をもって描いた作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%A5%B5%E6%82%AA%E3%81%8C%E3%82%93%E3%81%BC"
+    },
+    "updatedAt": "2026-08-06",
+    "latestPublishedYear": 2009,
+    "volumeCount": 16,
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『極悪がんぼ』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "one-outs",
+    "title": "ONE OUTS",
+    "titleKana": "わんなうつ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kaitani-shinobu"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "business-jump",
+    "themeIds": [
+      "sports",
+      "gambling",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 1998,
+    "status": "completed",
+    "synopsis": "賭博野球で無敗を誇る投手・渡久地東亜が、プロ球団と1アウトごとに報酬が変動する契約を結ぶ。球速ではなく心理と情報で打者を封じる、頭脳戦としての野球漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ONE_OUTS"
+    },
+    "updatedAt": "2026-08-06",
+    "latestPublishedYear": 2006,
+    "volumeCount": 19,
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ONE OUTS』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "kami-no-shizuku",
+    "title": "神の雫",
+    "titleKana": "かみのしずく",
+    "originalAuthorIds": [
+      "agi-tadashi"
+    ],
+    "artistIds": [
+      "okimoto-shu"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning",
+    "themeIds": [
+      "gourmet",
+      "business",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "著名なワイン評論家の遺言により、息子とライバルが十二本のワインを言い当てる勝負に挑む。銘柄の背景や味の表現を詩的な比喩で描き、ワインブームを生んだ作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E3%81%AE%E9%9B%AB"
+    },
+    "updatedAt": "2026-08-06",
+    "latestPublishedYear": 2014,
+    "volumeCount": 44,
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『神の雫』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "nomijoshi",
+    "title": "のみじょし",
+    "titleKana": "のみじょし",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ukatsu"
+    ],
+    "publisherId": "takeshobo",
+    "labelId": "manga-club",
+    "themeIds": [
+      "gourmet",
+      "comedy",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2013,
+    "status": "ongoing",
+    "synopsis": "酒好きの女性たちが、家でも店でも思うままに飲み食いする姿を描く4コマ漫画。銘柄や肴の組み合わせを具体的に紹介しながら、飲む楽しさを軽やかに切り取っている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%AE%E3%81%BF%E3%81%98%E3%82%87%E3%81%97"
+    },
+    "updatedAt": "2026-08-06",
+    "latestPublishedYear": 2022,
+    "volumeCount": 14,
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『のみじょし』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "sake-no-hosomichi",
+    "title": "酒のほそ道",
+    "titleKana": "さけのほそみち",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "razuweru-hosoki"
+    ],
+    "publisherId": "nihon-bungeisha",
+    "labelId": "manga-goraku",
+    "themeIds": [
+      "gourmet",
+      "slice-of-life",
+      "comedy"
+    ],
+    "firstPublishedYear": 1994,
+    "status": "ongoing",
+    "synopsis": "酒と肴をこよなく愛する会社員・岩間宗達が、季節や場面に応じた飲み方を追求する。うんちくと実践を交えながら、日常の中の一杯を丁寧に描き続ける長期連載作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%85%92%E3%81%AE%E3%81%BB%E3%81%9D%E9%81%93"
+    },
+    "updatedAt": "2026-08-06",
+    "volumeCount": 59,
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『酒のほそ道』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "plinius",
+    "title": "プリニウス",
+    "titleKana": "ぷりにうす",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yamazaki-mari"
+    ],
+    "publisherId": "shinchosha",
+    "labelId": "kurage-bunch",
+    "themeIds": [
+      "historical",
+      "adventure"
+    ],
+    "firstPublishedYear": 2014,
+    "status": "completed",
+    "synopsis": "古代ローマの博物学者プリニウスが、火山や動植物を観察しながら帝国各地を巡る。ネロの治世という時代背景を重ね、知への渇望と人間の営みを重厚な画面で描いた歴史漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AA%E3%83%8B%E3%82%A6%E3%82%B9_%28%E6%BC%AB%E7%94%BB%29"
+    },
+    "updatedAt": "2026-08-06",
+    "latestPublishedYear": 2023,
+    "volumeCount": 12,
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『プリニウス (漫画)』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "cesare",
+    "title": "チェーザレ 破壊の創造者",
+    "titleKana": "ちぇーざれはかいのそうぞうしゃ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "soryo-fuyumi"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning",
+    "themeIds": [
+      "historical",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "ルネサンス期のイタリアを舞台に、若き日のチェーザレ・ボルジアを描く。徹底した時代考証をもとに、大学都市ピサでの学生生活と教会・諸侯の政治が絡み合う歴史大作。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%83%BC%E3%82%B6%E3%83%AC_%E7%A0%B4%E5%A3%8A%E3%81%AE%E5%89%B5%E9%80%A0%E8%80%85"
+    },
+    "updatedAt": "2026-08-06",
+    "latestPublishedYear": 2021,
+    "volumeCount": 13,
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『チェーザレ 破壊の創造者』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "torikae-baya",
+    "title": "とりかえ・ばや",
+    "titleKana": "とりかえばや",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "saito-chiho"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "flowers",
+    "themeIds": [
+      "historical",
+      "romance",
+      "school"
+    ],
+    "firstPublishedYear": 2012,
+    "status": "completed",
+    "synopsis": "平安時代を舞台に、男装の姉と女装の弟が入れ替わって宮仕えする。古典『とりかへばや物語』を下敷きに、性別と役割に縛られる苦しさを丁寧に描いた作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%A8%E3%82%8A%E3%81%8B%E3%81%88%E3%83%BB%E3%81%B0%E3%82%84"
+    },
+    "updatedAt": "2026-08-06",
+    "latestPublishedYear": 2018,
+    "volumeCount": 13,
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『とりかえ・ばや』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "akatsuki-no-yona",
+    "title": "暁のヨナ",
+    "titleKana": "あかつきのよな",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kusanagi-mizuho"
+    ],
+    "publisherId": "hakusensha",
+    "labelId": "hana-to-yume",
+    "themeIds": [
+      "adventure",
+      "battle-action",
+      "romance"
+    ],
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "父王を殺され城を追われた王女ヨナが、護衛のハクとともに伝説の四龍を探す旅に出る。守られる姫だった少女が、自ら弓を取り国を取り戻そうとするまでを描くファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%9A%81%E3%81%AE%E3%83%A8%E3%83%8A"
+    },
+    "updatedAt": "2026-08-06",
+    "latestPublishedYear": 2026,
+    "volumeCount": 47,
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『暁のヨナ』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "omoi-omoware",
+    "title": "思い、思われ、ふり、ふられ",
+    "titleKana": "おもいおもわれふりふられ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "sakisaka-io"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "bessatsu-margaret",
+    "themeIds": [
+      "romance",
+      "school"
+    ],
+    "firstPublishedYear": 2015,
+    "status": "completed",
+    "synopsis": "恋に夢中な少女と冷静な少女、二組の男女が織りなす四人の関係を描く。相手を思う気持ちと、思われることの重さを、四者それぞれの視点から丁寧にすくい取った少女漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%80%9D%E3%81%84%E3%80%81%E6%80%9D%E3%82%8F%E3%82%8C%E3%80%81%E3%81%B5%E3%82%8A%E3%80%81%E3%81%B5%E3%82%89%E3%82%8C"
+    },
+    "updatedAt": "2026-08-06",
+    "latestPublishedYear": 2019,
+    "volumeCount": 12,
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『思い、思われ、ふり、ふられ』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "strobe-edge",
+    "title": "ストロボ・エッジ",
+    "titleKana": "すとろぼえっじ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "sakisaka-io"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "bessatsu-margaret",
+    "themeIds": [
+      "romance",
+      "school"
+    ],
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "恋を知らない高校生・仁菜子が、学校の人気者である蓮に惹かれていく。互いに好きな人がいる状況で揺れる気持ちを、静かな筆致で描いた少女漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%88%E3%83%AD%E3%83%9C%E3%83%BB%E3%82%A8%E3%83%83%E3%82%B8"
+    },
+    "updatedAt": "2026-08-06",
+    "latestPublishedYear": 2010,
+    "volumeCount": 10,
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ストロボ・エッジ』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "kyou-no-kira-kun",
+    "title": "きょうのキラ君",
+    "titleKana": "きょうのきらくん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mikimoto-rin"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "bessatsu-friend",
+    "themeIds": [
+      "romance",
+      "school"
+    ],
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "余命わずかと告げられた少年・吉良雄太と、彼に惹かれる少女・折原ニノの日々を描く。限られた時間の中で恋を選ぶことの重みを、感傷に流されずに描いた作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%8D%E3%82%87%E3%81%86%E3%81%AE%E3%82%AD%E3%83%A9%E5%90%9B"
+    },
+    "updatedAt": "2026-08-06",
+    "latestPublishedYear": 2014,
+    "volumeCount": 9,
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『きょうのキラ君』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "tonari-no-kaibutsu-kun",
+    "title": "となりの怪物くん",
+    "titleKana": "となりのかいぶつくん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "robico"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "dessert",
+    "themeIds": [
+      "romance",
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "勉強しか興味のない少女・水谷雫と、問題児として恐れられる吉田春の関係を描く。人との関わり方を知らない二人が、少しずつ他人と繋がっていく学園ラブコメディ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%AE%E6%80%AA%E7%89%A9%E3%81%8F%E3%82%93"
+    },
+    "updatedAt": "2026-08-06",
+    "latestPublishedYear": 2014,
+    "volumeCount": 13,
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『となりの怪物くん』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "gakuen-babysitters",
+    "title": "学園ベビーシッターズ",
+    "titleKana": "がくえんべびーしったーず",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tokeino-hari"
+    ],
+    "publisherId": "hakusensha",
+    "labelId": "lala",
+    "themeIds": [
+      "comedy",
+      "slice-of-life",
+      "school"
+    ],
+    "firstPublishedYear": 2009,
+    "status": "ongoing",
+    "synopsis": "両親を事故で亡くした兄弟が引き取られた高校で、託児室の保育士を手伝うことになる。園児たちの騒動を中心に、喪失を抱えた兄弟が居場所を得ていく過程を描く。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%AD%A6%E5%9C%92%E3%83%99%E3%83%93%E3%83%BC%E3%82%B7%E3%83%83%E3%82%BF%E3%83%BC%E3%82%BA"
+    },
+    "updatedAt": "2026-08-06",
+    "latestPublishedYear": 2009,
+    "volumeCount": 27,
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『学園ベビーシッターズ』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "wotakoi",
+    "title": "ヲタクに恋は難しい",
+    "titleKana": "をたくにこいはむずかしい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "fujita-manga"
+    ],
+    "publisherId": "ichijinsha",
+    "labelId": "comic-pool",
+    "themeIds": [
+      "romance",
+      "comedy",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2014,
+    "status": "completed",
+    "synopsis": "職場で再会したオタク同士の男女が、趣味を隠さずに付き合い始める。同人誌やゲームの話題を交えながら、大人になってからの恋愛の面倒さと気楽さを描いたラブコメディ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%B2%E3%82%BF%E3%82%AF%E3%81%AB%E6%81%8B%E3%81%AF%E9%9B%A3%E3%81%97%E3%81%84"
+    },
+    "updatedAt": "2026-08-06",
+    "latestPublishedYear": 2021,
+    "volumeCount": 11,
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ヲタクに恋は難しい』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "eizouken",
+    "title": "映像研には手を出すな!",
+    "titleKana": "えいぞうけんにはてをだすな",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "oowara-sumito"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "gekkan-spirits",
+    "themeIds": [
+      "arts",
+      "school",
+      "comedy"
+    ],
+    "firstPublishedYear": 2016,
+    "status": "ongoing",
+    "synopsis": "設定を描くのが好きな浅草氏、金勘定に長けた金森氏、アニメーターの水崎氏が映像研を立ち上げる。アニメ制作の工程と想像の飛躍を、独特の線と構図で描いた作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%98%A0%E5%83%8F%E7%A0%94%E3%81%AB%E3%81%AF%E6%89%8B%E3%82%92%E5%87%BA%E3%81%99%E3%81%AA%21"
+    },
+    "updatedAt": "2026-08-06",
+    "latestPublishedYear": 2016,
+    "volumeCount": 10,
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『映像研には手を出すな!』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "mayonaka-no-occult-koumuin",
+    "title": "真夜中のオカルト公務員",
+    "titleKana": "まよなかのおかるとこうむいん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tamotsu-yoko"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "monthly-asuka",
+    "themeIds": [
+      "dark-fantasy",
+      "workplace-drama",
+      "detective-mystery"
+    ],
+    "firstPublishedYear": 2015,
+    "status": "completed",
+    "synopsis": "人ならざるものへの対応を担当する夜間地域交流課の新人・宮古新が、あやかしたちの相談に向き合う。神話や伝承を下敷きに、公務員の職務として怪異を扱う設定が面白い作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%9C%9F%E5%A4%9C%E4%B8%AD%E3%81%AE%E3%82%AA%E3%82%AB%E3%83%AB%E3%83%88%E5%85%AC%E5%8B%99%E5%93%A1"
+    },
+    "updatedAt": "2026-08-06",
+    "latestPublishedYear": 2022,
+    "volumeCount": 17,
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『真夜中のオカルト公務員』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。"
+  },
+  {
+    "id": "atom-the-beginning",
+    "title": "アトム ザ・ビギニング",
+    "titleKana": "あとむざびぎにんぐ",
+    "originalAuthorIds": [
+      "tezuka-osamu"
+    ],
+    "artistIds": [
+      "kasahara-tetsuro"
+    ],
+    "publisherId": "hero-s",
+    "labelId": "monthly-hero-s",
+    "themeIds": [
+      "sci-fi",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2014,
+    "status": "completed",
+    "synopsis": "『鉄腕アトム』以前の時代を描く前日譚。大学院生の天馬午太郎と御茶ノ水博士が、人工知能を搭載したロボットA106を作り上げ、ロボットが心を持つとは何かを探っていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%88%E3%83%A0_%E3%82%B6%E3%83%BB%E3%83%93%E3%82%AE%E3%83%8B%E3%83%B3%E3%82%B0"
+    },
+    "updatedAt": "2026-08-06",
+    "latestPublishedYear": 2020,
+    "volumeCount": 26,
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『アトム ザ・ビギニング』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。"
   }
 ]

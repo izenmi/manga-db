@@ -2136,5 +2136,95 @@
     "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
     "updatedAt": "2026-08-06",
     "publisherId": "shogakukan"
+  },
+  {
+    "id": "dengeki-maoh-old",
+    "name": "電撃マ王",
+    "nameKana": "でんげきまおう",
+    "description": "KADOKAWAが発行する月刊漫画雑誌。ライトノベルのコミカライズを多く掲載する。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "kadokawa"
+  },
+  {
+    "id": "matogrosso",
+    "name": "マトグロッソ",
+    "nameKana": "まとぐろっそ",
+    "description": "イースト・プレスが運営するWebメディア。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "east-press"
+  },
+  {
+    "id": "souffle",
+    "name": "Souffle",
+    "nameKana": "すふれ",
+    "description": "秋田書店が運営するWeb漫画サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "akita-shoten"
+  },
+  {
+    "id": "sunday-s",
+    "name": "週刊少年サンデーS",
+    "nameKana": "しゅうかんしょうねんさんでーすーぱー",
+    "description": "小学館が発行する月刊漫画雑誌。『週刊少年サンデー』の増刊として刊行されている。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "shogakukan"
+  },
+  {
+    "id": "nemuki-plus",
+    "name": "Nemuki+",
+    "nameKana": "ねむきぷらす",
+    "description": "朝日新聞出版が発行する漫画雑誌。『ネムキ』の後継誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "asahi-shimbun-shuppan"
+  },
+  {
+    "id": "manga-goraku",
+    "name": "週刊漫画ゴラク",
+    "nameKana": "しゅうかんまんがごらく",
+    "description": "日本文芸社が発行する青年漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "nihon-bungeisha"
+  },
+  {
+    "id": "manga-club",
+    "name": "まんがくらぶ",
+    "nameKana": "まんがくらぶ",
+    "description": "竹書房が発行する4コマ漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "takeshobo"
+  },
+  {
+    "id": "monthly-asuka",
+    "name": "月刊Asuka",
+    "nameKana": "げっかんあすか",
+    "description": "KADOKAWAが発行する少女漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "kadokawa"
+  },
+  {
+    "id": "monthly-hero-s",
+    "name": "月刊ヒーローズ",
+    "nameKana": "げっかんひーろーず",
+    "description": "ヒーローズが発行していた月刊漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
+    "updatedAt": "2026-08-06",
+    "publisherId": "hero-s"
   }
 ]
