@@ -657,6 +657,10 @@ h1 {
   border-left-color: #6fd6c6;
 }
 
+.sister-site-card--anime {
+  border-left-color: #ff86ad;
+}
+
 
 .source-note {
   color: var(--color-text-muted);
