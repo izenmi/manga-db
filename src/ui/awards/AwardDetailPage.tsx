@@ -63,7 +63,9 @@ export function AwardDetailPage() {
           {[...byYear.entries()].map(([year, winners]) => (
             <section key={year} className="award-year">
               <h3 className="award-year__heading">
-                <span className={`winner-year winner-year--${colorForYear(year)}`}>{year}</span>
+                <span className={`award-year__year winner-year--${colorForYear(year)}`}>{year}</span>
+                <span className="award-year__count">{winners.length}件</span>
+                <span className="award-year__rule" aria-hidden="true" />
               </h3>
               <div className="work-grid">
                 {winners.map((winner) => {

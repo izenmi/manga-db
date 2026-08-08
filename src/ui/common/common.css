@@ -793,8 +793,38 @@ h1 {
 }
 
 .award-year__heading {
-  margin: 0 0 10px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin: 0 0 14px;
   font-size: 1rem;
+}
+
+/* 年は「その年の受賞作の区切り」であって飾りではないので、ピルを大きめに取って
+   件数と罫線を添える。背景色は .winner-year--* をそのまま流用し、年ごとの
+   色ローテーションを受賞歴・年表ページと一致させている。 */
+.award-year__year {
+  color: var(--color-ink-on-accent);
+  border-radius: var(--radius-pill);
+  padding: 4px 18px;
+  font-weight: 800;
+  font-variant-numeric: tabular-nums;
+  font-size: 1.2rem;
+  line-height: 1.3;
+}
+
+.award-year__count {
+  color: var(--color-text-muted);
+  font-size: 0.85rem;
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.award-year__rule {
+  flex: 1;
+  height: 1px;
+  min-width: 0;
+  background: var(--color-outline);
 }
 
 .award-entry {
