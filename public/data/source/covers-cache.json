@@ -1857,6 +1857,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-06T23:48:16.311Z"
   },
+  "efu-no-shichinin": {
+    "title": "衛府の七忍",
+    "isbn": "9784253238519",
+    "matchedTitle": "衛府の七忍（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8519/9784253238519.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T00:18:29.762Z"
+  },
   "eiga-daisuki-pompo-san": {
     "title": "映画大好きポンポさん",
     "isbn": "9784040694535",
@@ -1932,6 +1940,14 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-04T00:10:03.118Z"
+  },
+  "famiresu-iko": {
+    "title": "ファミレス行こ。",
+    "isbn": "9784047377479",
+    "matchedTitle": "ファミレス行こ。 上",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7479/9784047377479_1_21.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T00:18:32.070Z"
   },
   "fantomu-basutazu": {
     "title": "ファントムバスターズ",
@@ -2382,6 +2398,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6734/9784065236734_1_2.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-03T23:21:56.609Z"
+  },
+  "goshiki-no-fune": {
+    "title": "五色の舟",
+    "isbn": "9784047295476",
+    "matchedTitle": "五色の舟",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5476/9784047295476.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T00:18:46.175Z"
   },
   "gosick": {
     "title": "GOSICK -ゴシック-",
@@ -3104,6 +3128,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0308/2000004820308.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-02T14:12:31.500Z"
+  },
+  "hoshitabi-shounen": {
+    "title": "星旅少年",
+    "isbn": "9784756256492",
+    "matchedTitle": "星旅少年1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6492/9784756256492_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T00:18:26.215Z"
   },
   "hosuto-to-shachiku": {
     "title": "ホストと社畜",
@@ -4453,6 +4485,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T23:45:04.850Z"
   },
+  "kore-kaite-shine": {
+    "title": "これ描いて死ね",
+    "isbn": "9784098511433",
+    "matchedTitle": "これ描いて死ね（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1433/9784098511433_1_33.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T00:18:34.404Z"
+  },
   "koroshiya-1": {
     "title": "殺し屋1",
     "isbn": null,
@@ -4468,6 +4508,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0051/2000000190051.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-06T23:46:35.808Z"
+  },
+  "koudaike-no-hitobito": {
+    "title": "高台家の人々",
+    "isbn": "9784088451091",
+    "matchedTitle": "高台家の人々 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1091/9784088451091.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T00:18:47.343Z"
   },
   "koukoku-no-shugosha": {
     "title": "皇国の守護者",
@@ -5471,6 +5519,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-03T23:21:23.515Z"
   },
+  "nami-yo-kiite-kure": {
+    "title": "波よ聞いてくれ",
+    "isbn": "9784065351406",
+    "matchedTitle": "波よ聞いてくれ（11）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1406/9784065351406_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T00:18:44.997Z"
+  },
   "nana": {
     "title": "NANA",
     "isbn": "9784088562094",
@@ -6167,6 +6223,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-02T09:04:03.591Z"
   },
+  "po-no-ichizoku-yunikon": {
+    "title": "ポーの一族 ユニコーン",
+    "isbn": "9784098705795",
+    "matchedTitle": "ポーの一族 ユニコーン",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5795/9784098705795_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T00:18:35.581Z"
+  },
   "poe-no-ichizoku": {
     "title": "ポーの一族",
     "isbn": "9784091384003",
@@ -6669,6 +6733,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-02T22:03:09.451Z"
   },
+  "sanju-mariko": {
+    "title": "傘寿まり子",
+    "isbn": null,
+    "matchedTitle": "傘寿まり子（１）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3429/2000004783429.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-08T00:18:40.278Z"
+  },
   "sankaku-mado": {
     "title": "さんかく窓の外側は夜",
     "isbn": "9784799714362",
@@ -7051,6 +7123,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-02T09:04:57.357Z"
   },
+  "shinzou": {
+    "title": "心臓",
+    "isbn": "9784845860265",
+    "matchedTitle": "心臓",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0265/9784845860265.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T00:18:28.586Z"
+  },
   "shion-no-ou": {
     "title": "しおんの王",
     "isbn": null,
@@ -7179,6 +7259,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T00:05:25.151Z"
   },
+  "shouwa-tennou-monogatari": {
+    "title": "昭和天皇物語",
+    "isbn": "9784091897176",
+    "matchedTitle": "昭和天皇物語（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7176/9784091897176_1_17.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T00:18:36.776Z"
+  },
   "showa-genroku-rakugo-shinju": {
     "title": "昭和元禄落語心中",
     "isbn": "9784065383353",
@@ -7194,6 +7282,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4213/9784088914213.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-02T22:02:06.292Z"
+  },
+  "shugashuga-run": {
+    "title": "シュガシュガルーン",
+    "isbn": "9784091793263",
+    "matchedTitle": "シュガシュガルーン・コレクションブック",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3263/9784091793263_1_13.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T00:18:30.936Z"
   },
   "shura-no-mon": {
     "title": "修羅の門",
@@ -8097,6 +8193,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T23:29:15.486Z"
   },
+  "toumei-na-yurikago-sanfujinka-iin-kangoshi-minar": {
+    "title": "透明なゆりかご 産婦人科医院 看護師見習い日記",
+    "isbn": null,
+    "matchedTitle": "透明なゆりかご〜産婦人科医院看護師見習い日記〜（１）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4544/2000003174544.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-08T00:18:43.817Z"
+  },
   "trigun": {
     "title": "トライガン",
     "isbn": "9784785920050",
@@ -8374,6 +8478,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6079/2000000216079.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-07T00:25:15.373Z"
+  },
+  "usuzumi-no-hate-misshon-in-ji-apokaripusu": {
+    "title": "ウスズミの果て",
+    "isbn": "9784047374553",
+    "matchedTitle": "ウスズミの果て　1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4553/9784047374553_1_16.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T00:18:33.233Z"
   },
   "utahime-obaka-miiko": {
     "title": "打姫オバカミーコ",

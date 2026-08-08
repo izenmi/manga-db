@@ -38159,5 +38159,352 @@
     "externalLinks": {},
     "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
     "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "raidon-kingu",
+    "title": "ライドンキング",
+    "titleKana": "らいどんきんぐ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "babayasushi"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-sirius",
+    "themeIds": [
+      "adventure",
+      "comedy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 16,
+    "synopsis": "中央アジアの小国の大統領が、異世界に転移してしまう。規格外の主人公が暴れるアクションコメディ。",
+    "awardResults": [
+      {
+        "awardId": "zenkoku-shoten-in-osusume-comic",
+        "year": 2020,
+        "result": "2020年 第10位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hananoi-kun-to-koi-no-yamai-aimu-adikutido-tu-yu",
+    "title": "花野井くんと恋の病",
+    "titleKana": "はなのいくんとこいのやまい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "morinomegumi"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "dessert",
+    "themeIds": [
+      "romance",
+      "school"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 19,
+    "synopsis": "高校1年の冬、隣のクラスの花野井くんに告白された少女。重すぎる愛を描く少女漫画。",
+    "awardResults": [
+      {
+        "awardId": "zenkoku-shoten-in-osusume-comic",
+        "year": 2019,
+        "result": "2019年 第10位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "outen-no-mon",
+    "title": "応天の門",
+    "titleKana": "おうてんのもん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "haibarayaku"
+    ],
+    "publisherId": "shinchosha",
+    "labelId": "monthly-comic-bunch",
+    "themeIds": [
+      "historical",
+      "detective-mystery",
+      "school"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 21,
+    "synopsis": "藤原氏が実権を握りつつある平安京。若き菅原道真と在原業平が、都で起きる怪事件を追う。",
+    "awardResults": [
+      {
+        "awardId": "zenkoku-shoten-in-osusume-comic",
+        "year": 2016,
+        "result": "2016年 第10位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "aozora-eru",
+    "title": "青空エール",
+    "titleKana": "あおぞらえーる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kawahara-kazune"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "margaret",
+    "themeIds": [
+      "sports",
+      "school",
+      "music"
+    ],
+    "firstPublishedYear": 2008,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 19,
+    "synopsis": "野球部を応援する吹奏楽部員の少女を主人公にした青春もの。",
+    "awardResults": [
+      {
+        "awardId": "zenkoku-shoten-in-osusume-comic",
+        "year": 2010,
+        "result": "2010年 第10位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nue-no-onmyouji",
+    "title": "鵺の陰陽師",
+    "titleKana": "ぬえのおんみょうじ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kawaekouta"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "battle-action",
+      "dark-fantasy",
+      "school"
+    ],
+    "firstPublishedYear": 2023,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 15,
+    "synopsis": "鵺と呼ばれる存在に憑かれた少年が、陰陽師として妖と戦う。",
+    "awardResults": [
+      {
+        "awardId": "zenkoku-shoten-in-osusume-comic",
+        "year": 2024,
+        "result": "2024年 第11位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hoteru-mettsapeura-e-youkoso",
+    "title": "ホテル・メッツァペウラへようこそ",
+    "titleKana": "ほてるめっつぁぺうらえようこそ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "fukutaseira"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "harta",
+    "themeIds": [
+      "slice-of-life",
+      "gourmet",
+      "romance"
+    ],
+    "firstPublishedYear": 2022,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 8,
+    "synopsis": "フィンランド・ラップランド地方の小さなホテルを舞台にした物語。",
+    "awardResults": [
+      {
+        "awardId": "zenkoku-shoten-in-osusume-comic",
+        "year": 2023,
+        "result": "2023年 第11位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "raise-wa-tanin-ga-ii",
+    "title": "来世は他人がいい",
+    "titleKana": "らいせわたにんがいい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "konishiasuka"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "afternoon",
+    "themeIds": [
+      "romance",
+      "crime-underworld",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2023,
+    "status": "ongoing",
+    "volumeCount": 8,
+    "synopsis": "極道の家に生まれた染井吉乃が、政略結婚の相手として現れた男と向き合う。",
+    "awardResults": [
+      {
+        "awardId": "zenkoku-shoten-in-osusume-comic",
+        "year": 2019,
+        "result": "2019年 第11位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hokuhokusei-ni-kumo-to-yuke",
+    "title": "北北西に曇と往け",
+    "titleKana": "ほくほくせいにくもとゆけ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "irieaki"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "harta",
+    "themeIds": [
+      "slice-of-life",
+      "adventure"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2024,
+    "status": "ongoing",
+    "volumeCount": 7,
+    "synopsis": "アイスランドを舞台に、探し物を見つける力を持つ青年を描く。",
+    "awardResults": [
+      {
+        "awardId": "zenkoku-shoten-in-osusume-comic",
+        "year": 2018,
+        "result": "2018年 第12位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hatarakanai-futari",
+    "title": "働かないふたり",
+    "titleKana": "はたらかないふたり",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yoshidasatoru"
+    ],
+    "publisherId": "shinchosha",
+    "labelId": "kurage-bunch",
+    "themeIds": [
+      "comedy",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 38,
+    "synopsis": "働かない兄と妹の、力の抜けた日常を描く4コマ。",
+    "awardResults": [
+      {
+        "awardId": "zenkoku-shoten-in-osusume-comic",
+        "year": 2015,
+        "result": "2015年 第12位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ran-to-haiiro-no-sekai",
+    "title": "乱と灰色の世界",
+    "titleKana": "らんとはいいろのせかい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "irieaki"
+    ],
+    "publisherId": "enterbrain",
+    "labelId": "comic-beam",
+    "themeIds": [
+      "dark-fantasy",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2009,
+    "latestPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 7,
+    "synopsis": "不器用な魔法使い・乱をめぐる、灰色の世界のファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "zenkoku-shoten-in-osusume-comic",
+        "year": 2011,
+        "result": "2011年 第12位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
   }
 ]
