@@ -427,6 +427,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-06T23:48:31.280Z"
   },
+  "aozora-eru": {
+    "title": "青空エール",
+    "isbn": null,
+    "matchedTitle": "青空エール 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0359/2000000220359.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-08T00:40:05.424Z"
+  },
   "appleseed": {
     "title": "アップルシード",
     "isbn": null,
@@ -2669,6 +2677,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-02T09:03:45.804Z"
   },
+  "hananoi-kun-to-koi-no-yamai-aimu-adikutido-tu-yu": {
+    "title": "花野井くんと恋の病",
+    "isbn": "9784065114698",
+    "matchedTitle": "花野井くんと恋の病（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4698/9784065114698_1_17.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T00:40:00.755Z"
+  },
   "hanasakeru-seishonen": {
     "title": "花咲ける青少年",
     "isbn": "9784592198376",
@@ -2760,6 +2776,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3669/9784091793669_1_2.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-06T23:47:19.794Z"
+  },
+  "hatarakanai-futari": {
+    "title": "働かないふたり",
+    "isbn": "9784107717443",
+    "matchedTitle": "働かないふたり（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7443/9784107717443.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T00:40:11.338Z"
   },
   "hatarakiman": {
     "title": "働きマン",
@@ -3033,6 +3057,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-06T23:57:55.753Z"
   },
+  "hokuhokusei-ni-kumo-to-yuke": {
+    "title": "北北西に曇と往け",
+    "isbn": "9784047348318",
+    "matchedTitle": "北北西に曇と往け　1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8318/9784047348318_1_8.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T00:40:10.150Z"
+  },
   "hokuto-no-ken": {
     "title": "北斗の拳",
     "isbn": "9784087826036",
@@ -3152,6 +3184,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3311/2000000123311.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-03T23:21:44.799Z"
+  },
+  "hoteru-mettsapeura-e-youkoso": {
+    "title": "ホテル・メッツァペウラへようこそ",
+    "isbn": "9784047367678",
+    "matchedTitle": "ホテル・メッツァペウラへようこそ 1巻",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7678/9784047367678_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T00:40:07.800Z"
   },
   "houkago-saikoro-club": {
     "title": "放課後さいころ倶楽部",
@@ -5763,6 +5803,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-07T00:25:31.975Z"
   },
+  "nue-no-onmyouji": {
+    "title": "鵺の陰陽師",
+    "isbn": "9784088836874",
+    "matchedTitle": "鵺の陰陽師 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6874/9784088836874_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T00:40:06.621Z"
+  },
   "nurarihyon-no-mago": {
     "title": "ぬらりひょんの孫",
     "isbn": "9784088836072",
@@ -6081,6 +6129,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-02T09:38:10.064Z"
   },
+  "outen-no-mon": {
+    "title": "応天の門",
+    "isbn": "9784107717429",
+    "matchedTitle": "応天の門（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7429/9784107717429.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T00:40:01.937Z"
+  },
   "overlord": {
     "title": "オーバーロード",
     "isbn": null,
@@ -6303,6 +6359,22 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-03T23:21:14.063Z"
   },
+  "raidon-kingu": {
+    "title": "ライドンキング",
+    "isbn": "9784065142103",
+    "matchedTitle": "ライドンキング（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2103/9784065142103_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T00:39:59.619Z"
+  },
+  "raise-wa-tanin-ga-ii": {
+    "title": "来世は他人がいい",
+    "isbn": "9784065103760",
+    "matchedTitle": "来世は他人がいい（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3760/9784065103760_1_48.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T00:40:08.977Z"
+  },
   "rakudai-kishi": {
     "title": "落第騎士の英雄譚",
     "isbn": null,
@@ -6326,6 +6398,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1372/2000000201372.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-02T14:12:10.980Z"
+  },
+  "ran-to-haiiro-no-sekai": {
+    "title": "乱と灰色の世界",
+    "isbn": "9784047273832",
+    "matchedTitle": "乱と灰色の世界（3巻）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3832/9784047273832.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T00:40:12.503Z"
   },
   "rando": {
     "title": "ランド",

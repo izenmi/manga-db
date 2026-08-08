@@ -38506,5 +38506,320 @@
     "externalLinks": {},
     "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
     "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "paresu-meiji",
+    "title": "パレス・メイヂ",
+    "titleKana": "ぱれすめいじ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kuzebanko"
+    ],
+    "publisherId": "hakusensha",
+    "labelId": "hana-to-yume",
+    "themeIds": [
+      "historical",
+      "romance",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2020,
+    "status": "ongoing",
+    "volumeCount": 7,
+    "synopsis": "明治時代をモデルにした架空の日本。宮中の女官たちの世界を描く。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2014,
+        "result": "2014年版 オンナ版 第6位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "rasuto-gemu",
+    "title": "ラストゲーム",
+    "titleKana": "らすとげーむ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "amanoshinobu"
+    ],
+    "publisherId": "hakusensha",
+    "labelId": "hana-to-yume",
+    "themeIds": [
+      "sports",
+      "school",
+      "romance"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2016,
+    "status": "ongoing",
+    "volumeCount": 11,
+    "synopsis": "バスケットボールの熱狂的なファンである少女と、彼女に振り回される少年の関係を描く。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2013,
+        "result": "2013年版 オンナ版 第6位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "koukou-kyuuji-zawasan",
+    "title": "高校球児ザワさん",
+    "titleKana": "こうこうきゅうじざわさん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mishimaeriko"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-spirits",
+    "themeIds": [
+      "sports",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2009,
+    "latestPublishedYear": 2013,
+    "status": "ongoing",
+    "volumeCount": 12,
+    "synopsis": "西東京の野球強豪校を舞台に、女子部員ザワさんの日常を淡々と描く。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2010,
+        "result": "2010年版 オトコ版 第6位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "amenashimura-yakuba-sangyouka-ken-kankougakari",
+    "title": "雨無村役場産業課兼観光係",
+    "titleKana": "あめなしむらやくばさんぎょうかけんかんこうがかり",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "iwamotonao"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "flowers",
+    "themeIds": [
+      "comedy",
+      "slice-of-life",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2008,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "故郷の雨無村に戻り、役場の産業課兼観光係として働くことになった青年を描く。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2009,
+        "result": "2009年版 オンナ版 第6位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "wanitokagegisu",
+    "title": "わにとかげぎす",
+    "titleKana": "わにとかげぎす",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "furuya-minoru"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "young-magazine",
+    "themeIds": [
+      "suspense-psychological",
+      "slice-of-life",
+      "crime-underworld"
+    ],
+    "firstPublishedYear": 2006,
+    "latestPublishedYear": 2017,
+    "status": "ongoing",
+    "volumeCount": 4,
+    "synopsis": "うだつの上がらない男の日常が、ある出会いをきっかけに一変していく。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2007,
+        "result": "2007年版 オトコ版 第6位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "suru-romansu",
+    "title": "スルーロマンス",
+    "titleKana": "するーろまんす",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "fuyunoumeko"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning",
+    "themeIds": [
+      "romance",
+      "slice-of-life",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2023,
+    "latestPublishedYear": 2024,
+    "status": "ongoing",
+    "volumeCount": 5,
+    "synopsis": "元・舞台俳優の待宵マリと、フリーターの日常を描く。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2025,
+        "result": "2025年版 オンナ版 第7位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "busu-nante-iwanaide",
+    "title": "ブスなんて言わないで",
+    "titleKana": "ぶすなんていわないで",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "toaruarako"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "afternoon",
+    "themeIds": [
+      "school",
+      "suspense-psychological",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2022,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 6,
+    "synopsis": "「ブスだから」と学生時代にいじめられた女性たちの、その後を描く。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2023,
+        "result": "2023年版 オンナ版 第7位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "daidaku",
+    "title": "大ダーク",
+    "titleKana": "だいだーく",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hayashida-kyuu"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "gessan",
+    "themeIds": [
+      "adventure",
+      "dark-fantasy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 9,
+    "synopsis": "『ドロヘドロ』の作者による、宇宙を舞台にしたダークファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2021,
+        "result": "2021年版 オトコ版 第7位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tedaremonra",
+    "title": "てだれもんら",
+    "titleKana": "てだれもんら",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nakanoshizuka"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "comic-beam",
+    "themeIds": [
+      "slice-of-life",
+      "arts",
+      "sci-fi"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 3,
+    "synopsis": "手練れの職人たちが登場する、独特の空気をまとった作品集。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2020,
+        "result": "2020年版 オンナ版 第7位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
   }
 ]
