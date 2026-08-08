@@ -1951,5 +1951,131 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および人物記事で確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "agitogiakumi",
+    "name": "顎木あくみ",
+    "nameKana": "あぎとぎあくみ",
+    "description": "漫画の原作を手がける作家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌の責任表示で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "kotoko",
+    "name": "琴子",
+    "nameKana": "ことこ",
+    "description": "漫画の原作を手がける作家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌の責任表示で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "minatsuki",
+    "name": "みなつき",
+    "nameKana": "みなつき",
+    "description": "漫画の原作を手がける作家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌の責任表示で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "matsukoma",
+    "name": "松駒",
+    "nameKana": "まつこま",
+    "description": "漫画の原作を手がける作家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌の責任表示で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "aoyamagoushou",
+    "name": "青山剛昌",
+    "nameKana": "あおやまごうしょう",
+    "description": "漫画の原作を手がける作家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌の責任表示で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "ishinomorishoutarou",
+    "name": "石ノ森章太郎",
+    "nameKana": "いしのもりしょうたろう",
+    "description": "漫画の原作を手がける作家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌の責任表示で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "sanjouriku",
+    "name": "三条陸",
+    "nameKana": "さんじょうりく",
+    "description": "漫画の原作を手がける作家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌の責任表示で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "tanakayoshiki",
+    "name": "田中芳樹",
+    "nameKana": "たなかよしき",
+    "description": "漫画の原作を手がける作家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌の責任表示で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "uketsu",
+    "name": "雨穴",
+    "nameKana": "うけつ",
+    "description": "漫画の原作を手がける作家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌の責任表示で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "yotsubayuuto",
+    "name": "四葉夕卜",
+    "nameKana": "よつばゆうと",
+    "description": "漫画の原作を手がける作家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌の責任表示で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "sawadaarata",
+    "name": "沢田新",
+    "nameKana": "さわだあらた",
+    "description": "漫画の原作を手がける作家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌の責任表示で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "tanukikao",
+    "name": "多貫カヲ",
+    "nameKana": "たぬきかを",
+    "description": "漫画の原作を手がける作家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌の責任表示で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "sagazakishigeru",
+    "name": "佐賀崎しげる",
+    "nameKana": "さがざきしげる",
+    "description": "漫画の原作を手がける作家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌の責任表示で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "nabeshimatetsuhiro",
+    "name": "鍋島テツヒロ",
+    "nameKana": "なべしまてつひろ",
+    "description": "漫画の原作を手がける作家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌の責任表示で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
   }
 ]

@@ -9475,15 +9475,6 @@
     "updatedAt": "2026-08-07"
   },
   {
-    "id": "person-56809",
-    "name": "沢田新",
-    "nameKana": "沢田新",
-    "description": "漫画を手がける漫画家。",
-    "externalLinks": {},
-    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
-    "updatedAt": "2026-08-07"
-  },
-  {
     "id": "iwasakiyuuji",
     "name": "岩崎優次",
     "nameKana": "いわさきゆうじ",
@@ -9526,6 +9517,24 @@
     "description": "漫画家。『そこをなんとか』『路地恋花』などの作品がある。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチAPIの書誌で表記・読みを確認。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "hashimoto",
+    "name": "ハシモト",
+    "nameKana": "はしもと",
+    "description": "漫画家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌の責任表示で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "asairenji",
+    "name": "浅井蓮次",
+    "nameKana": "あさいれんじ",
+    "description": "漫画家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌の責任表示で確認(2026-08-08)。",
     "updatedAt": "2026-08-08"
   }
 ]

@@ -4251,7 +4251,8 @@
     },
     "sourceNote": "日本語版Wikipedia・複数書誌サイト(ebookjapan/booklive/Amazon等)で高見広春原作・田口雅之作画、秋田書店『ヤングチャンピオン』2000-2005年連載、全15巻(完結)を確認。原作小説は映画化もされているがmediaMixのnovelization/animeは漫画版起点でないため一旦false、詳細は未検証のため今後要確認。受賞歴は漫画版単体では確認できず。",
     "updatedAt": "2026-08-02",
-    "labelId": "young-champion"
+    "labelId": "young-champion",
+    "relatedNovelUrl": "https://izenmi.github.io/mystery-db/works/batoru-rowaiaru"
   },
   {
     "id": "darwins-game",
@@ -6147,7 +6148,8 @@
     },
     "sourceNote": "日本語版Wikipedia『屍鬼』記事(2026-08-02閲覧)で原作(小野不由美の小説)・作画(藤崎竜)・掲載誌(ジャンプスクエア)・連載期間(2008年1月号〜2011年7月号)・巻数(全11巻)を確認。あらすじは独自要約(コピペなし)。明記された受賞歴は確認できず空配列。",
     "updatedAt": "2026-08-02",
-    "labelId": "jump-sq"
+    "labelId": "jump-sq",
+    "relatedNovelUrl": "https://izenmi.github.io/mystery-db/works/shiki"
   },
   {
     "id": "aku-no-hana",
@@ -13395,7 +13397,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/新世界より_(小説)"
     },
     "sourceNote": "BOOK☆WALKER・コミックシーモア等の書誌情報および日本語版Wikipedia『新世界より (小説)』記事(2026-08-02閲覧)で原作(貴志祐介、2008年刊)・作画(及川徹)・連載期間(2012-2014年、別冊少年マガジン)・巻数(全7巻)・完結・あらすじを確認。原作小説は2012年にアニメ化されているためmediaMix.animeはtrueとした(アニメは小説を原作としたものだが同一物語のメディア展開として扱った)。原作小説自体は2008年に日本SF大賞を受賞しているが、これは小説版への受賞のため漫画workのawardResultsには含めていない。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "relatedNovelUrl": "https://izenmi.github.io/mystery-db/works/shinsekai-yori"
   },
   {
     "id": "arms",
@@ -13831,7 +13834,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/神々の山嶺"
     },
     "sourceNote": "日本語版Wikipedia『神々の山嶺』記事(2026-08-02閲覧)で夢枕獏の同名小説(1994-1997年連載)を谷口ジローが漫画化したコミカライズ作品であることを確認(originalAuthorIdsは既存original-authors.jsonのyumemakura-baku、artistIdsは既存artists.jsonのtaniguchi-jiroを再利用)。連載期間(ビジネスジャンプ/集英社、2000年2月15日号-2003年3月15日号)・全5巻・完結・第5回文化庁メディア芸術祭マンガ部門優秀賞(2001年)・第32回アングレーム国際漫画祭最優秀美術賞(2005年、当時の部門名称)を確認。2016年実写映画化・2021年フランス製作のアニメーション映画化を確認しmediaMix.animeをtrueとした(日本国内のテレビアニメ化ではなく仏製作の劇場アニメ映画である点をここに明記)。あらすじは独自要約。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "relatedNovelUrl": "https://izenmi.github.io/mystery-db/works/kamigami-no-itadaki"
   },
   {
     "id": "musashi-no-ken",
@@ -41929,7 +41933,9 @@
     "id": "watashi-no-shiawasena-kekkon",
     "title": "わたしの幸せな結婚",
     "titleKana": "わたしのしあわせなけっこん",
-    "originalAuthorIds": [],
+    "originalAuthorIds": [
+      "agitogiakumi"
+    ],
     "artistIds": [
       "kousakarito"
     ],
@@ -41958,13 +41964,16 @@
     },
     "externalLinks": {},
     "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "relatedNovelUrl": "https://izenmi.github.io/ranobe-db/works/watashi-no-shiawase-na-kekkon"
   },
   {
     "id": "isekai-de-ane-ni-namae-o-ubawaremashita",
     "title": "異世界で姉に名前を奪われました",
     "titleKana": "いせかいであねになまえおうばわれました",
-    "originalAuthorIds": [],
+    "originalAuthorIds": [
+      "kotoko"
+    ],
     "artistIds": [
       "kotoko"
     ],
@@ -41999,7 +42008,9 @@
     "id": "doukyonin-wa-hiza-tokidoki-atama-no-ue",
     "title": "同居人はひざ、時々、頭のうえ。",
     "titleKana": "どうきょにんわひざときどきあたまのうえ",
-    "originalAuthorIds": [],
+    "originalAuthorIds": [
+      "minatsuki"
+    ],
     "artistIds": [
       "futatsuyaasu"
     ],
@@ -42034,9 +42045,11 @@
     "id": "niche-sensei-konbini-ni-satori-sedai-no-shinjin",
     "title": "ニーチェ先生",
     "titleKana": "にーちぇせんせい",
-    "originalAuthorIds": [],
-    "artistIds": [
+    "originalAuthorIds": [
       "matsukoma"
+    ],
+    "artistIds": [
+      "hashimoto"
     ],
     "publisherId": "kadokawa",
     "labelId": "monthly-comic-gene",
@@ -42104,7 +42117,9 @@
     "id": "meitantei-konan-zero-no-ti-taimu",
     "title": "名探偵コナンゼロの日常",
     "titleKana": "めいたんていこなんぜろのてぃーたいむ",
-    "originalAuthorIds": [],
+    "originalAuthorIds": [
+      "aoyamagoushou"
+    ],
     "artistIds": [
       "araitakahiro"
     ],
@@ -42139,7 +42154,10 @@
     "id": "fuuto-tantei",
     "title": "風都探偵",
     "titleKana": "ふうとたんてい",
-    "originalAuthorIds": [],
+    "originalAuthorIds": [
+      "ishinomorishoutarou",
+      "sanjouriku"
+    ],
     "artistIds": [
       "satoumasaki"
     ],
@@ -42174,7 +42192,9 @@
     "id": "arusuran-senki-daiisshou-ekubatana-no-eiga",
     "title": "アルスラーン戦記",
     "titleKana": "あるすらーんせんき",
-    "originalAuthorIds": [],
+    "originalAuthorIds": [
+      "tanakayoshiki"
+    ],
     "artistIds": [
       "arakawa-hiromu"
     ],
@@ -42203,13 +42223,16 @@
     },
     "externalLinks": {},
     "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "relatedNovelUrl": "https://izenmi.github.io/ranobe-db/works/arslan-senki"
   },
   {
     "id": "hen-na-ie",
     "title": "変な家",
     "titleKana": "へんないえ",
-    "originalAuthorIds": [],
+    "originalAuthorIds": [
+      "uketsu"
+    ],
     "artistIds": [
       "ayanokyou"
     ],
@@ -42244,7 +42267,9 @@
     "id": "paripi-koumei",
     "title": "パリピ孔明",
     "titleKana": "ぱりぴこうめい",
-    "originalAuthorIds": [],
+    "originalAuthorIds": [
+      "yotsubayuuto"
+    ],
     "artistIds": [
       "person-829757"
     ],
@@ -42279,9 +42304,11 @@
     "id": "baiorensu-akushon",
     "title": "バイオレンスアクション",
     "titleKana": "ばいおれんすあくしょん",
-    "originalAuthorIds": [],
+    "originalAuthorIds": [
+      "sawadaarata"
+    ],
     "artistIds": [
-      "person-56809"
+      "asairenji"
     ],
     "publisherId": "shogakukan",
     "labelId": "manga-one",
@@ -42314,7 +42341,9 @@
     "id": "angou-gakuen-no-iroha",
     "title": "暗号学園のいろは",
     "titleKana": "あんごうがくえんのいろは",
-    "originalAuthorIds": [],
+    "originalAuthorIds": [
+      "nisioisin"
+    ],
     "artistIds": [
       "iwasakiyuuji"
     ],
@@ -42349,7 +42378,9 @@
     "id": "doragon-ie-o-kau",
     "title": "ドラゴン、家を買う。",
     "titleKana": "どらごん、いえおかう。",
-    "originalAuthorIds": [],
+    "originalAuthorIds": [
+      "tanukikao"
+    ],
     "artistIds": [
       "ayashouko"
     ],
@@ -42384,7 +42415,10 @@
     "id": "katainaka-no-ossan-kensei-ni-naru-tada-no-inaka",
     "title": "片田舎のおっさん、剣聖になる",
     "titleKana": "かたいなかのおっさんけんせいになる",
-    "originalAuthorIds": [],
+    "originalAuthorIds": [
+      "sagazakishigeru",
+      "nabeshimatetsuhiro"
+    ],
     "artistIds": [
       "satoukazuki"
     ],
@@ -42413,7 +42447,8 @@
     },
     "externalLinks": {},
     "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "relatedNovelUrl": "https://izenmi.github.io/ranobe-db/works/katainaka-no-ossan-kensei-ni-naru"
   },
   {
     "id": "toratsugumi-tsugumi-purojekuto",
