@@ -323,6 +323,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T00:39:48.173Z"
   },
+  "ano-ko-no-kodomo": {
+    "title": "あの子の子ども",
+    "isbn": "9784065247884",
+    "matchedTitle": "あの子の子ども（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7884/9784065247884_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T23:45:23.763Z"
+  },
   "anohana": {
     "title": "あの日見た花の名前を僕達はまだ知らない。",
     "isbn": null,
@@ -1030,6 +1038,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2630/9784838732630_1_4.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T23:28:59.838Z"
+  },
+  "borurumu-e-youkoso": {
+    "title": "ボールルームへようこそ",
+    "isbn": null,
+    "matchedTitle": "ボールルームへようこそ（１）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2029/2000000052029.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-07T23:45:21.459Z"
   },
   "boukyaku-battery": {
     "title": "忘却バッテリー",
@@ -2645,6 +2661,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-02T22:02:34.351Z"
   },
+  "handakun": {
+    "title": "はんだくん",
+    "isbn": null,
+    "matchedTitle": "はんだくん 1巻",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1054/2000006731054.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-07T23:45:08.270Z"
+  },
   "hane-bad": {
     "title": "はねバド!",
     "isbn": null,
@@ -2652,6 +2676,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0298/2000001780298.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-02T22:04:41.627Z"
+  },
+  "hani": {
+    "title": "ハニー",
+    "isbn": null,
+    "matchedTitle": "ハニー 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8769/2000000258769.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-07T23:45:12.947Z"
   },
   "hanma-baki": {
     "title": "範馬刃牙",
@@ -3072,6 +3104,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0308/2000004820308.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-02T14:12:31.500Z"
+  },
+  "hosuto-to-shachiku": {
+    "title": "ホストと社畜",
+    "isbn": "9784575860016",
+    "matchedTitle": "ホストと社畜（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0016/9784575860016_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T23:45:36.658Z"
   },
   "hot-road": {
     "title": "ホットロード",
@@ -3945,6 +3985,14 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-07T00:16:42.582Z"
   },
+  "kawaii-dake-ja-nai-shikimorisan": {
+    "title": "可愛いだけじゃない式守さん",
+    "isbn": "9784065162231",
+    "matchedTitle": "可愛いだけじゃない式守さん（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2231/9784065162231_1_16.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T23:45:24.921Z"
+  },
   "kaze-hikaru": {
     "title": "風光る",
     "isbn": "9784091373519",
@@ -4397,6 +4445,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-02T22:03:37.666Z"
   },
+  "koori-no-jouheki": {
+    "title": "氷の城壁",
+    "isbn": "9784088835440",
+    "matchedTitle": "氷の城壁 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5440/9784088835440_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T23:45:04.850Z"
+  },
   "koroshiya-1": {
     "title": "殺し屋1",
     "isbn": null,
@@ -4468,6 +4524,22 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5458/9784065295458_1_2.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T22:42:24.744Z"
+  },
+  "kujima-utaeba-ie-hororo": {
+    "title": "クジマ歌えば家ほろろ",
+    "isbn": "9784098510924",
+    "matchedTitle": "クジマ歌えば家ほろろ（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0924/9784098510924_1_18.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T23:45:33.244Z"
+  },
+  "kujou-no-taizai": {
+    "title": "九条の大罪",
+    "isbn": "9784098608485",
+    "matchedTitle": "九条の大罪（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8485/9784098608485.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T23:45:40.306Z"
   },
   "kuma-kuma-kuma-bear": {
     "title": "くまクマ熊ベアー",
@@ -4548,6 +4620,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4894/9784757554894_1_6.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-02T14:13:10.021Z"
+  },
+  "kuu-neru-futari-sumu-futari": {
+    "title": "喰う寝るふたり 住むふたり",
+    "isbn": "9784867202586",
+    "matchedTitle": "喰う寝るふたり 住むふたり 新装版（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2586/9784867202586_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T23:45:29.717Z"
   },
   "kuutei-doragonzu": {
     "title": "空挺ドラゴンズ",
@@ -5151,6 +5231,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T22:42:21.288Z"
   },
+  "mikkusu": {
+    "title": "MIX",
+    "isbn": "9784091238672",
+    "matchedTitle": "MIX（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8672/9784091238672_1_11.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T23:45:32.089Z"
+  },
   "minami-no-teiou": {
     "title": "ミナミの帝王",
     "isbn": "9784537038781",
@@ -5474,6 +5562,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4146/9784832244146.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-06T23:34:06.050Z"
+  },
+  "nezumi-no-hatsukoi": {
+    "title": "ねずみの初恋",
+    "isbn": "9784065344231",
+    "matchedTitle": "ねずみの初恋（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4231/9784065344231_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T23:45:22.606Z"
   },
   "nige-jouzu-no-wakagimi": {
     "title": "逃げ上手の若君",
@@ -6022,6 +6118,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5984/9784088445984_1_4.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T23:06:34.970Z"
+  },
+  "pipipipipipi": {
+    "title": "PPPPPP",
+    "isbn": "9784088830063",
+    "matchedTitle": "PPPPPP 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0063/9784088830063_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T23:45:39.017Z"
   },
   "planet-with": {
     "title": "プラネット・ウィズ",
@@ -6715,6 +6819,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-02T22:03:02.467Z"
   },
+  "senchimentaru-kisu": {
+    "title": "センチメンタルキス",
+    "isbn": "9784088443683",
+    "matchedTitle": "センチメンタル キス 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3683/9784088443683.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T23:45:34.346Z"
+  },
   "sengoku": {
     "title": "センゴク",
     "isbn": "9784065102558",
@@ -7406,6 +7518,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7750/2000000167750.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-06T23:32:21.291Z"
+  },
+  "takane-to-hana": {
+    "title": "高嶺と花",
+    "isbn": "9784592213512",
+    "matchedTitle": "高嶺と花（01）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3512/9784592213512.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T23:45:35.506Z"
   },
   "takasugi-san-chi-no-obento": {
     "title": "高杉さん家のおべんとう",
@@ -8520,6 +8640,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3778/2000000113778.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-06T23:31:15.578Z"
+  },
+  "yakumosan-wa-ezuke-ga-shitai": {
+    "title": "八雲さんは餌づけがしたい。",
+    "isbn": null,
+    "matchedTitle": "八雲さんは餌づけがしたい。 特別読切",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9673/2000019389673.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-07T23:45:28.360Z"
   },
   "yakusoku-no-neverland": {
     "title": "約束のネバーランド",
