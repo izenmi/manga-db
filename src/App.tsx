@@ -14,6 +14,7 @@ import { TimelinePage } from "./ui/timeline/TimelinePage";
 import { CrossSearchPage } from "./ui/search/CrossSearchPage";
 import { AboutPage } from "./ui/about/AboutPage";
 import { NotFoundPage } from "./ui/common/NotFoundPage";
+import { AffiliateNotice } from "./ui/common/AffiliateNotice";
 
 export function App() {
   return (
@@ -39,6 +40,7 @@ export function App() {
         <Route path="/about" element={<AboutPage />} />
         <Route path="*" element={<NotFoundPage />} />
       </Routes>
+      <AffiliateNotice />
     </BrowserRouter>
   );
 }

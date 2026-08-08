@@ -4,7 +4,7 @@ import { getWork, getWorks } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
 import { WorkCard } from "../common/WorkCard";
-import { WorkCover, amazonSearchUrl, webComicSearch } from "../common/WorkCover";
+import { WorkCover, amazonSearchUrl, rakutenBooksUrl, webComicSearch } from "../common/WorkCover";
 import { BASE_PATH, DEFAULT_OG_IMAGE, breadcrumbJsonLd, useSeo } from "../common/useSeo";
 import type { WorkGenerated } from "../../types";
 
@@ -83,8 +83,21 @@ export function WorkDetailPage() {
           <div className="work-detail__hero">
             <div className="work-detail__hero-cover">
               <WorkCover title={state.data.title} coverUrl={state.data.coverUrl} size="lg" />
-              <a className="cover-link" href={amazonSearchUrl(state.data.title)} target="_blank" rel="noreferrer">
+              <a
+                className="cover-link"
+                href={amazonSearchUrl(state.data.title, state.data.artistNames[0], state.data.isbn)}
+                target="_blank"
+                rel="noreferrer"
+              >
                 Amazonで購入
+              </a>
+              <a
+                className="cover-link"
+                href={rakutenBooksUrl(state.data.title, state.data.artistNames[0], state.data.isbn)}
+                target="_blank"
+                rel="noreferrer"
+              >
+                楽天ブックスで購入
               </a>
             </div>
             <div className="work-card__body">

@@ -119,6 +119,8 @@ export interface WorkGenerated extends WorkSource {
   /** Resolved at build time from public/data/source/covers-cache.json (see scripts/fetch-covers.mjs).
    *  Absent when no ISBN/cover could be matched — callers must fall back to the placeholder cover. */
   coverUrl?: string;
+  /** covers-cache が解決したISBN。購入リンクの商品ページ直リンクに使う。 */
+  isbn?: string;
   /** Ids of similar works, best first, computed at build time by generate-manifest.mjs.
    *  Only present in generated/works.json — the copies embedded in the cross-reference lists
    *  omit it to keep those files small. */
