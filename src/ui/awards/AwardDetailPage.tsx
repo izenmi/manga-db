@@ -5,6 +5,7 @@ import { Loading, ErrorState, EmptyState } from "../common/Status";
 import { BASE_PATH, breadcrumbJsonLd, useSeo } from "../common/useSeo";
 import { colorForYear } from "../common/yearColor";
 import { WorkCard } from "../common/WorkCard";
+import { useWorkFilter } from "../common/useWorkFilter";
 
 export function AwardDetailPage() {
   const { id } = useParams<{ id: string }>();
@@ -32,8 +33,17 @@ export function AwardDetailPage() {
 
   // winners は generate-manifest 側で「年の降順 → 部門 → 順位の昇順」に並べてあるので、
   // ここでは年ごとに切り出すだけでよい。
+  // 絞り込みは「受賞作に対応する作品」にかける。フックは作品リストを受け取るので、winners を
+  // 作品へ解決したものを渡し、返ってきた集合で winners 側を絞り直す。
+  const winnerWorks = (award?.winners ?? [])
+    .map((w) => byId.get(w.workId))
+    .filter((w): w is NonNullable<typeof w> => Boolean(w));
+  const { sorted, controls, hasActiveFilters } = useWorkFilter(winnerWorks);
+  const keptIds = new Set(sorted.map((w) => w.id));
+
   const byYear = new Map<number, NonNullable<typeof award>["winners"]>();
   for (const w of award?.winners ?? []) {
+    if (!keptIds.has(w.workId)) continue;
     if (!byYear.has(w.year)) byYear.set(w.year, []);
     byYear.get(w.year)!.push(w);
   }
@@ -59,6 +69,12 @@ export function AwardDetailPage() {
             </p>
           )}
           <h2>受賞作 {state.data.workCount}件</h2>
+          {controls}
+          {hasActiveFilters && (
+            <p className="page-subtitle">
+              絞り込み結果 {keptIds.size}件 / 全{state.data.workCount}件
+            </p>
+          )}
           {state.data.winners.length === 0 && <EmptyState text="登録されている受賞作はまだありません。" />}
           {[...byYear.entries()].map(([year, winners]) => (
             <section key={year} className="award-year">
