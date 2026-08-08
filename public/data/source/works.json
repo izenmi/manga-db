@@ -43771,5 +43771,2170 @@
     "externalLinks": {},
     "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「マンガ大賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
     "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kyandi-kyandi",
+    "title": "キャンディ・キャンディ",
+    "titleKana": "きゃんでぃきゃんでぃ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "igarashi-yumiko"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "nakayoshi",
+    "themeIds": [
+      "slice-of-life",
+      "romance",
+      "historical"
+    ],
+    "firstPublishedYear": 1975,
+    "latestPublishedYear": 1996,
+    "status": "completed",
+    "volumeCount": 20,
+    "synopsis": "20世紀初頭のアメリカ。孤児のキャンディスが、さまざまな出会いと別れを重ねながら生きていく。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1977,
+        "result": "少女部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "futtoborutaka",
+    "title": "フットボール鷹",
+    "titleKana": "ふっとぼーるたか",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kawasaki-noboru"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "sports",
+      "school",
+      "comedy"
+    ],
+    "firstPublishedYear": 1977,
+    "latestPublishedYear": 1996,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "アメリカンフットボールに打ち込む高校生たちを描く。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1978,
+        "result": "少年部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tonda-katsupuru",
+    "title": "翔んだカップル",
+    "titleKana": "とんだかつぷる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yanagisawa-kimio"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "romance",
+      "school",
+      "comedy"
+    ],
+    "firstPublishedYear": 1978,
+    "latestPublishedYear": 1994,
+    "status": "completed",
+    "volumeCount": 15,
+    "synopsis": "一つ屋根の下で暮らすことになった男女高校生の関係を描くラブコメディ。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1979,
+        "result": "少年部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "susanoou-densetsu",
+    "title": "凄ノ王",
+    "titleKana": "すさのおう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nagai-go"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action",
+      "horror"
+    ],
+    "firstPublishedYear": 1979,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 9,
+    "synopsis": "出雲を舞台に、封じられた神の力に目覚めた高校生を描く。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1980,
+        "result": "少年部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "remon-hakusho",
+    "title": "れもん白書",
+    "titleKana": "れもんはくしょ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yoshidamayumi"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "mimi",
+    "themeIds": [
+      "romance",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 1979,
+    "latestPublishedYear": 2001,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "吉田まゆみによる、女子高生の恋と日常を描く作品。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1980,
+        "result": "少女部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ichini-no-sanshirou",
+    "title": "1・2の三四郎",
+    "titleKana": "いちにのさんしろう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kobayashi-makoto"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "sports",
+      "school",
+      "comedy"
+    ],
+    "firstPublishedYear": 1978,
+    "latestPublishedYear": 2000,
+    "status": "completed",
+    "volumeCount": 20,
+    "synopsis": "柔道に打ち込む高校生・東三四郎の学園格闘コメディ。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1981,
+        "result": "少年部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ohayousupanku",
+    "title": "おはよう!スパンク",
+    "titleKana": "おはようすぱんく",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "takanashishizue"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "nakayoshi",
+    "themeIds": [
+      "animal",
+      "slice-of-life",
+      "comedy"
+    ],
+    "firstPublishedYear": 1978,
+    "latestPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 7,
+    "synopsis": "愛犬スパンクと少女・愛子の日常を描く。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1981,
+        "result": "少女部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nanseiheki",
+    "title": "岳人列伝",
+    "titleKana": "がくじんれつでん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "murakami-motoka"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-big-comic",
+    "themeIds": [
+      "sports",
+      "adventure",
+      "historical"
+    ],
+    "firstPublishedYear": 1981,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "登山に懸ける男たちを描いた連作。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1982,
+        "result": "少年部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "youkihiden",
+    "title": "妖鬼妃伝",
+    "titleKana": "ようきひでん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "miuchi-suzue"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "nakayoshi",
+    "themeIds": [
+      "dark-fantasy",
+      "horror",
+      "historical"
+    ],
+    "firstPublishedYear": 1982,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "美内すずえによる伝奇作品。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1982,
+        "result": "少女部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "karyuudonoseiza",
+    "title": "狩人の星座",
+    "titleKana": "かりゅうどのせいざ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "satonaka-machiko"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "be-love",
+    "themeIds": [
+      "romance",
+      "historical",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 1980,
+    "latestPublishedYear": 1999,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "里中満智子による長編。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1982,
+        "result": "一般部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "za-kabocha-wain",
+    "title": "Theかぼちゃワイン",
+    "titleKana": "ざかぼちゃわいん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "miuramitsuru"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "romance",
+      "school",
+      "comedy"
+    ],
+    "firstPublishedYear": 1981,
+    "latestPublishedYear": 2025,
+    "status": "completed",
+    "volumeCount": 18,
+    "synopsis": "高校生の青葉春助と、小柄な少女エルとの恋を描くラブコメディ。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1983,
+        "result": "少年部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "piesu-genkidesu-shunpei",
+    "title": "P.S. 元気です、俊平",
+    "titleKana": "ぴーえすげんきですしゅんぺい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "saimonfumi"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "mimi",
+    "themeIds": [
+      "romance",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 1981,
+    "latestPublishedYear": 1999,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "柴門ふみによる青春群像。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1983,
+        "result": "一般部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "batsu-ando-teri",
+    "title": "バツ&テリー",
+    "titleKana": "ばつあんどてりー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ooshimayasuichi"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "sports",
+      "school",
+      "delinquent"
+    ],
+    "firstPublishedYear": 1982,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 19,
+    "synopsis": "野球部を舞台に、バツとテリーの2人を描く。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1984,
+        "result": "少年部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "redi-rabu",
+    "title": "Lady Love",
+    "titleKana": "れでぃらぶ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "onohiromu"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shojo-friend",
+    "themeIds": [
+      "romance",
+      "sports",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 1981,
+    "latestPublishedYear": 2011,
+    "status": "completed",
+    "volumeCount": 8,
+    "synopsis": "小野弥夢による作品。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1984,
+        "result": "少女部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "baribari-densetsu",
+    "title": "バリバリ伝説",
+    "titleKana": "ばりばりでんせつ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "shigeno-shuichi"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "sports",
+      "delinquent",
+      "school"
+    ],
+    "firstPublishedYear": 1983,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 38,
+    "synopsis": "バイクレースに青春を懸ける若者たちを描く。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1985,
+        "result": "少年部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shin-tekken-chinmi",
+    "title": "鉄拳チンミ",
+    "titleKana": "てっけんちんみ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "maekawatakeshi"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "monthly-shonen-magazine",
+    "themeIds": [
+      "battle-action",
+      "adventure",
+      "historical"
+    ],
+    "firstPublishedYear": 1983,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 35,
+    "synopsis": "拳法を修行する少年チンミの成長を描く。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1987,
+        "result": "少年部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nanairo-majikku",
+    "title": "なな色マジック",
+    "titleKana": "なないろまじっく",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "asagiriyuu"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "nakayoshi",
+    "themeIds": [
+      "magical-girl",
+      "romance",
+      "school"
+    ],
+    "firstPublishedYear": 1987,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "あさぎり夕による、変身を扱った少女漫画。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1987,
+        "result": "少女部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "akuta",
+    "title": "アクター",
+    "titleKana": "あくたー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kawaguchi-kaiji"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning",
+    "themeIds": [
+      "arts",
+      "entertainment-industry",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 1985,
+    "latestPublishedYear": 1997,
+    "status": "completed",
+    "volumeCount": 14,
+    "synopsis": "かわぐちかいじによる、俳優を主人公にした作品。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1987,
+        "result": "一般部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "misuta-ajikko",
+    "title": "ミスター味っ子",
+    "titleKana": "みすたーあじっこ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "terasawa-daisuke"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "gourmet",
+      "school",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1986,
+    "latestPublishedYear": 2026,
+    "status": "completed",
+    "volumeCount": 16,
+    "synopsis": "料理人の少年・味吉陽一が、腕を競い合いながら成長していく。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1988,
+        "result": "少年部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "junjoukureijifurutsu",
+    "title": "純情クレイジーフルーツ",
+    "titleKana": "じゅんじょうくれいじーふるーつ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "matsunaeakemi"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "bouquet",
+    "themeIds": [
+      "comedy",
+      "school",
+      "romance"
+    ],
+    "firstPublishedYear": 1983,
+    "latestPublishedYear": 2004,
+    "status": "completed",
+    "volumeCount": 9,
+    "synopsis": "松苗あけみによる、女子校を舞台にしたコメディ。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1988,
+        "result": "少女部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "meimon-daisan-yakyuubu",
+    "title": "名門!第三野球部",
+    "titleKana": "めいもんだいさんやきゅうぶ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mutsutoshiyuki"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "sports",
+      "school",
+      "comedy"
+    ],
+    "firstPublishedYear": 1987,
+    "latestPublishedYear": 2021,
+    "status": "completed",
+    "volumeCount": 100,
+    "synopsis": "弱小野球部を舞台にした学園スポーツもの。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1989,
+        "result": "少年部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shiratori-reiko-de-gozaimasu",
+    "title": "白鳥麗子でございます!",
+    "titleKana": "しらとりれいこでございます",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "suzukiyumiko"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "mimi",
+    "themeIds": [
+      "comedy",
+      "romance",
+      "school"
+    ],
+    "firstPublishedYear": 1988,
+    "latestPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "お嬢様・白鳥麗子の高慢さと純情を描くコメディ。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1989,
+        "result": "少女部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "komitsuku-shiyouwashi",
+    "title": "コミック昭和史",
+    "titleKana": "こみつくしようわし",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mizuki-shigeru"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "historical",
+      "war-military",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 1988,
+    "latestPublishedYear": 1989,
+    "status": "completed",
+    "volumeCount": 8,
+    "synopsis": "水木しげるが自身の従軍体験を交えて描く昭和史。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1989,
+        "result": "一般部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "chikako-no-tatakai",
+    "title": "プライド",
+    "titleKana": "ちかこのたたかい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "marimuranaka"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "mimi",
+    "themeIds": [
+      "romance",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 1989,
+    "latestPublishedYear": 1991,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "万里村奈加による作品。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1990,
+        "result": "少女部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "eien-no-nohara",
+    "title": "永遠の野原",
+    "titleKana": "えいえんののはら",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ousakamieko"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "bouquet",
+    "themeIds": [
+      "slice-of-life",
+      "school",
+      "romance"
+    ],
+    "firstPublishedYear": 1987,
+    "latestPublishedYear": 2001,
+    "status": "completed",
+    "volumeCount": 16,
+    "synopsis": "逢坂みえこによる、少女たちの成長を描く長編。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1991,
+        "result": "少女部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "waru",
+    "title": "悪女",
+    "titleKana": "わる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "fukamijun"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "be-love",
+    "themeIds": [
+      "comedy",
+      "workplace-drama",
+      "romance"
+    ],
+    "firstPublishedYear": 1988,
+    "latestPublishedYear": 1999,
+    "status": "completed",
+    "volumeCount": 37,
+    "synopsis": "OL・田中麻理鈴の奮闘を描くコメディ。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1991,
+        "result": "一般部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "uchi-no-mama-ga-yuu-koto-niwa",
+    "title": "うちのママが言うことには",
+    "titleKana": "うちのままがゆうことにわ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "iwadatemariko"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "young-you",
+    "themeIds": [
+      "romance",
+      "slice-of-life",
+      "school"
+    ],
+    "firstPublishedYear": 1988,
+    "latestPublishedYear": 1999,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "岩館真理子による作品。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1992,
+        "result": "少女部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sazan-aizu",
+    "title": "3×3 EYES",
+    "titleKana": "さざんあいず",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "takadayuuzou"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "young-magazine",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 1987,
+    "latestPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 22,
+    "synopsis": "三只眼の少女パイと、不死身になった少年八雲の旅を描く。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1993,
+        "result": "少年部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kimi-no-te-ga-sasayaiteru",
+    "title": "君の手がささやいている",
+    "titleKana": "きみのてがささやいてる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "karubejunko"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "kiss",
+    "themeIds": [
+      "romance",
+      "medical",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 1992,
+    "latestPublishedYear": 2002,
+    "status": "completed",
+    "volumeCount": 13,
+    "synopsis": "聴覚障害のある女性と、彼女を支える男性の関係を描く。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1994,
+        "result": "少女部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tetsujin-ganma",
+    "title": "鉄人ガンマ",
+    "titleKana": "てつじんがんま",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yamamotoyasuhito"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning",
+    "themeIds": [
+      "sports",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 1993,
+    "latestPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "山本康人による作品。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1994,
+        "result": "一般部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sekai-de-ichiban-yasashii-ongaku",
+    "title": "世界でいちばん優しい音楽",
+    "titleKana": "せかいでいちばんやさしいおんがく",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ozawamari"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "kiss",
+    "themeIds": [
+      "music",
+      "romance",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 1993,
+    "latestPublishedYear": 2002,
+    "status": "completed",
+    "volumeCount": 16,
+    "synopsis": "小沢真理による作品。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1995,
+        "result": "少女部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hanada-shounenshi",
+    "title": "花田少年史",
+    "titleKana": "はなだしょうねんし",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "isshikimakoto"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning",
+    "themeIds": [
+      "comedy",
+      "dark-fantasy",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 1993,
+    "latestPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "幽霊が見える少年・花田一路の日々を描く。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1995,
+        "result": "一般部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tennen-kokekko",
+    "title": "天然コケッコー",
+    "titleKana": "てんねんこけっこー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kuramochifusako"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "queens",
+    "themeIds": [
+      "slice-of-life",
+      "romance",
+      "school"
+    ],
+    "firstPublishedYear": 1994,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 14,
+    "synopsis": "島根の田舎町を舞台に、中学生たちの日常を描く。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1996,
+        "result": "少女部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "yakumo-tatsu",
+    "title": "八雲立つ",
+    "titleKana": "やくもたつ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "itsuki-natsumi"
+    ],
+    "publisherId": "hakusensha",
+    "labelId": "hana-to-yume",
+    "themeIds": [
+      "dark-fantasy",
+      "historical",
+      "adventure"
+    ],
+    "firstPublishedYear": 1992,
+    "latestPublishedYear": 2026,
+    "status": "completed",
+    "volumeCount": 19,
+    "synopsis": "出雲神話をめぐる伝奇作品。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1997,
+        "result": "少女部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "animeban-gto-kyarakuta-kanzen-gaido",
+    "title": "GTO",
+    "titleKana": "じーてぃーおー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "fujisawa-toru"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "delinquent",
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 1997,
+    "latestPublishedYear": 2026,
+    "status": "completed",
+    "volumeCount": 25,
+    "synopsis": "元暴走族の鬼塚英吉が教師となり、荒れたクラスに向き合う。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1998,
+        "result": "少年部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "pichi-garu",
+    "title": "ピーチガール",
+    "titleKana": "ぴーちがーる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "uedamiwa"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "bessatsu-friend",
+    "themeIds": [
+      "romance",
+      "school",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 1997,
+    "latestPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 18,
+    "synopsis": "上田美和による学園ラブストーリー。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 1999,
+        "result": "少女部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "guruguru-ponchan",
+    "title": "ぐるぐるポンちゃん",
+    "titleKana": "ぐるぐるぽんちゃん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ikezawasatomi"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "bessatsu-friend",
+    "themeIds": [
+      "comedy",
+      "romance",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 1996,
+    "latestPublishedYear": 2009,
+    "status": "completed",
+    "volumeCount": 9,
+    "synopsis": "池沢理美による作品。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2000,
+        "result": "少女部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "seiyou-kottou-yougashiten",
+    "title": "西洋骨董洋菓子店",
+    "titleKana": "せいようこっとうようがしてん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yoshinaga-fumi"
+    ],
+    "publisherId": "shinshokan",
+    "labelId": "wings",
+    "themeIds": [
+      "romance",
+      "boys-love",
+      "gourmet"
+    ],
+    "firstPublishedYear": 1999,
+    "latestPublishedYear": 2025,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "洋菓子店に集う4人の男たちを描く。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2002,
+        "result": "少女部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "mirumo-de-pon",
+    "title": "ミルモでポン!",
+    "titleKana": "みるもでぽん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "shinozukahiromu"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "ciao",
+    "themeIds": [
+      "magical-girl",
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 2001,
+    "latestPublishedYear": 2026,
+    "status": "completed",
+    "volumeCount": 12,
+    "synopsis": "妖精ミルモと小学生・南楓の交流を描く。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2003,
+        "result": "児童部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kunimitsu-no-matsuri",
+    "title": "クニミツの政",
+    "titleKana": "くにみつのまつり",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "asaki-masashi"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "school",
+      "business",
+      "delinquent"
+    ],
+    "firstPublishedYear": 2001,
+    "latestPublishedYear": 2011,
+    "status": "completed",
+    "volumeCount": 27,
+    "synopsis": "政治家を目指す少年・武藤国光の奮闘を描く。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2003,
+        "result": "少年部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kimi-wa-petto",
+    "title": "きみはペット",
+    "titleKana": "きみわぺっと",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ogawayayoi"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "kiss",
+    "themeIds": [
+      "romance",
+      "workplace-drama",
+      "comedy"
+    ],
+    "firstPublishedYear": 2000,
+    "latestPublishedYear": 2010,
+    "status": "completed",
+    "volumeCount": 14,
+    "synopsis": "エリート女性が年下の青年を「ペット」として同居させる。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2003,
+        "result": "少女部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tensai-yanagisawa-kyouju-no-seikatsu",
+    "title": "天才柳沢教授の生活",
+    "titleKana": "てんさいやなぎさわきょうじゅのせいかつ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yamashitakazumi"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning",
+    "themeIds": [
+      "comedy",
+      "slice-of-life",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 1988,
+    "latestPublishedYear": 2014,
+    "status": "completed",
+    "volumeCount": 33,
+    "synopsis": "大学教授・柳沢良則の日常を独特の視点で描く。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2003,
+        "result": "一般部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shanaou-yoshitsune",
+    "title": "遮那王 義経",
+    "titleKana": "しゃなおうよしつね",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "sawadahirofumi"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "monthly-shonen-magazine",
+    "themeIds": [
+      "historical",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2001,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 29,
+    "synopsis": "源義経の生涯を描く歴史漫画。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2004,
+        "result": "少年部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "oi-pitan",
+    "title": "おいピータン!!",
+    "titleKana": "おいぴーたん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "itourisa"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "kiss",
+    "themeIds": [
+      "gourmet",
+      "slice-of-life",
+      "comedy"
+    ],
+    "firstPublishedYear": 2000,
+    "latestPublishedYear": 2026,
+    "status": "completed",
+    "volumeCount": 17,
+    "synopsis": "食を軸に、恋人や夫婦のやりとりを描く連作。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2005,
+        "result": "少女部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "koibumi-biyori",
+    "title": "恋文日和",
+    "titleKana": "こいぶみびより",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "george-asakura"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "bessatsu-friend",
+    "themeIds": [
+      "romance",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2001,
+    "latestPublishedYear": 2014,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "ジョージ朝倉による連作。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2005,
+        "result": "少女部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kicchin-no-ohimesama",
+    "title": "キッチンのお姫さま",
+    "titleKana": "きっちんのおひめさま",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ando-natsumi"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "nakayoshi",
+    "themeIds": [
+      "gourmet",
+      "romance",
+      "school"
+    ],
+    "firstPublishedYear": 2004,
+    "latestPublishedYear": 2026,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "料理コンテストに挑む少女を描く。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2006,
+        "result": "児童部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ea-gia",
+    "title": "エア・ギア",
+    "titleKana": "えあぎあ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "oogure-ito"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "battle-action",
+      "sports",
+      "school"
+    ],
+    "firstPublishedYear": 2002,
+    "latestPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 26,
+    "synopsis": "エア・トレックを駆る少年たちの戦いを描く。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2006,
+        "result": "少年部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "raifu",
+    "title": "ライフ",
+    "titleKana": "らいふ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "suenobu-keiko"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "bessatsu-friend",
+    "themeIds": [
+      "school",
+      "business",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2002,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 20,
+    "synopsis": "いじめを題材に、高校生の苦しみと再生を描く。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2006,
+        "result": "少女部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "dear-boys-act2",
+    "title": "DEAR BOYS ACT2",
+    "titleKana": "Dearboys",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yagami-hiroki"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "monthly-shonen-magazine",
+    "themeIds": [
+      "sports",
+      "school"
+    ],
+    "firstPublishedYear": 1997,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 30,
+    "synopsis": "バスケットボールに打ち込む高校生たちを描く。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2007,
+        "result": "少年部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "is-otoko-demo-onna-demo-nai-sei",
+    "title": "IS",
+    "titleKana": "IS",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "rokuhanachiyo"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "kiss",
+    "themeIds": [
+      "slice-of-life",
+      "medical",
+      "school"
+    ],
+    "firstPublishedYear": 2003,
+    "latestPublishedYear": 2009,
+    "status": "completed",
+    "volumeCount": 17,
+    "synopsis": "性分化疾患をもつ人々を描く。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2007,
+        "result": "少女部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shugo-kyara",
+    "title": "しゅごキャラ!",
+    "titleKana": "しゅごきゃら",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "peachpit"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "nakayoshi",
+    "themeIds": [
+      "magical-girl",
+      "school",
+      "comedy"
+    ],
+    "firstPublishedYear": 2006,
+    "latestPublishedYear": 2026,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "守護キャラとともに成長する小学生・日奈森あむを描く。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2008,
+        "result": "児童部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "saikyou-toritsu-aoizaka-koukou-yakyuubu",
+    "title": "最強!都立あおい坂高校野球部",
+    "titleKana": "さいきょうとりつあおいざかこうこうやきゅうぶ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tanaka-motoyuki"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "sports",
+      "school"
+    ],
+    "firstPublishedYear": 2005,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 26,
+    "synopsis": "都立高校の野球部を描く。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2008,
+        "result": "少年部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "meitantei-yumemizu-kiyoshirou-jiken-noto",
+    "title": "名探偵夢水清志郎事件ノート",
+    "titleKana": "めいたんていゆめみずきよしろうじけんのーと",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "enuekei"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "nakayoshi",
+    "themeIds": [
+      "detective-mystery",
+      "school",
+      "comedy"
+    ],
+    "firstPublishedYear": 2004,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "名探偵・夢水清志郎と三つ子姉妹が事件に挑む。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2009,
+        "result": "児童部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "gekijouban-fairy-tail-houou-no-miko",
+    "title": "FAIRY TAIL",
+    "titleKana": "ふぇありーている",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mashima-hiro"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "battle-action",
+      "adventure",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2006,
+    "latestPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 63,
+    "synopsis": "魔導士ギルド「妖精の尻尾」に集う仲間たちの冒険を描く。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2009,
+        "result": "少年部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "inazuma-irebun",
+    "title": "イナズマイレブン",
+    "titleKana": "いなずまいれぶん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yabunotenya"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "corocoro-comic",
+    "themeIds": [
+      "sports",
+      "school",
+      "comedy"
+    ],
+    "firstPublishedYear": 2008,
+    "latestPublishedYear": 2026,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "サッカーゲームを原作に、少年たちの試合を描く。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2010,
+        "result": "児童部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kurage-hime",
+    "title": "海月姫〜くらげひめ〜",
+    "titleKana": "くらげひめ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "higashimura-akiko"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "kiss",
+    "themeIds": [
+      "romance",
+      "comedy",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2008,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "クラゲ好きの女性・倉下月海と、女装する青年の交流を描く。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2010,
+        "result": "少女部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "honto-ni-atta-reibai-sensei",
+    "title": "ほんとにあった!霊媒先生",
+    "titleKana": "ほんとにあったれいばいせんせい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "matsumotohidekichi"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-rival",
+    "themeIds": [
+      "horror",
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 2009,
+    "latestPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 20,
+    "synopsis": "霊が見える先生をめぐるコメディ。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2011,
+        "result": "児童部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "watashi-ni-shinasai",
+    "title": "わたしに××しなさい!",
+    "titleKana": "わたしにしなさい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tooyamaema"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "nakayoshi",
+    "themeIds": [
+      "romance",
+      "school",
+      "comedy"
+    ],
+    "firstPublishedYear": 2009,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 19,
+    "synopsis": "遠山えまによる学園ラブコメディ。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2012,
+        "result": "児童部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "doubutsu-no-kuni-episodo-zero",
+    "title": "どうぶつの国",
+    "titleKana": "どうぶつのくにえぴそーどぜろ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "raiku-makoto"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "bessatsu-shonen-magazine",
+    "themeIds": [
+      "adventure",
+      "animal",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2009,
+    "latestPublishedYear": 2014,
+    "status": "completed",
+    "volumeCount": 14,
+    "synopsis": "動物の国に迷い込んだ人間の子どもを描く。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2013,
+        "result": "児童部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "taiyou-no-ie",
+    "title": "たいようのいえ",
+    "titleKana": "たいようのいえ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "taamo"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "dessert",
+    "themeIds": [
+      "romance",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2010,
+    "latestPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 13,
+    "synopsis": "タアモによる学園ラブストーリー。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2014,
+        "result": "少女部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "furajairu",
+    "title": "フラジャイル",
+    "titleKana": "ふらじゃいる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "megumi-saburo"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "afternoon",
+    "themeIds": [
+      "medical",
+      "workplace-drama",
+      "detective-mystery"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2026,
+    "status": "completed",
+    "volumeCount": 31,
+    "synopsis": "病理医・岸京一郎が、標本から病の正体を突き止める。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2018,
+        "result": "一般部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "pafekuto-warudo",
+    "title": "パーフェクトワールド",
+    "titleKana": "ぱーふぇくとわーるど",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "arugarie"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "kiss",
+    "themeIds": [
+      "romance",
+      "medical",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2021,
+    "status": "completed",
+    "volumeCount": 12,
+    "synopsis": "車椅子生活の男性と、彼を思う女性の関係を描く。",
+    "awardResults": [
+      {
+        "awardId": "kodansha-manga-award",
+        "year": 2019,
+        "result": "少女部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
   }
 ]

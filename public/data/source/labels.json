@@ -2696,5 +2696,35 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの各誌記事で発行元を確認(2026-08-08)。",
     "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "shonen-big-comic",
+    "name": "少年ビッグコミック",
+    "nameKana": "しょうねんびっぐこみっく",
+    "publisherId": "shogakukan",
+    "description": "小学館が1979年から1987年まで発行した青年漫画雑誌。『ビッグコミックスピリッツ』の前身のひとつ。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの各誌記事で発行元・刊行期間を確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "young-you",
+    "name": "YOUNG YOU",
+    "nameKana": "やんぐゆー",
+    "publisherId": "shueisha",
+    "description": "集英社が1986年から2005年まで発行した女性漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの各誌記事で発行元・刊行期間を確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "shonen-rival",
+    "name": "月刊少年ライバル",
+    "nameKana": "げっかんしょうねんらいばる",
+    "publisherId": "kodansha",
+    "description": "講談社が2008年から2014年まで発行した月刊少年漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの各誌記事で発行元・刊行期間を確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
   }
 ]
