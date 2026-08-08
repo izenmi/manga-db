@@ -2466,5 +2466,165 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌および各作品の連載情報で確認(2026-08-07)。",
     "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "monthly-bonita",
+    "name": "月刊ボニータ",
+    "nameKana": "げっかんぼにーた",
+    "publisherId": "akita-shoten",
+    "description": "秋田書店の女性向け漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌および各作品の連載情報で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "petit-comic",
+    "name": "プチコミック",
+    "nameKana": "ぷちこみっく",
+    "publisherId": "shogakukan",
+    "description": "小学館の女性向け漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌および各作品の連載情報で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "palcy",
+    "name": "Palcy",
+    "nameKana": "ぱるしぃ",
+    "publisherId": "kodansha",
+    "description": "講談社とpixivが共同運営する女性向けマンガアプリ。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌および各作品の連載情報で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "comic-tant",
+    "name": "comicタント",
+    "nameKana": "こみっくたんと",
+    "publisherId": "futabasha",
+    "description": "双葉社のWebコミックサイト。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌および各作品の連載情報で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "kitora",
+    "name": "KITORA",
+    "nameKana": "きとら",
+    "publisherId": "shogakukan",
+    "description": "小学館のWebコミックサイト。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌および各作品の連載情報で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "ruelle",
+    "name": "Ruelle",
+    "nameKana": "りゅえる",
+    "publisherId": "futabasha",
+    "description": "双葉社の女性向けWebコミックレーベル。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌および各作品の連載情報で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "polaris-comics",
+    "name": "POLARIS",
+    "nameKana": "ぽらりす",
+    "publisherId": "flex-comix",
+    "description": "フレックスコミックスのコミックレーベル。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌および各作品の連載情報で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "comic-bridge",
+    "name": "Comic BRIDGE",
+    "nameKana": "こみっくぶりっじ",
+    "publisherId": "kadokawa",
+    "description": "KADOKAWAのWebコミックサイト。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌および各作品の連載情報で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "seikaisha-comics",
+    "name": "星海社COMICS",
+    "nameKana": "せいかいしゃこみっくす",
+    "publisherId": "seikaisha",
+    "description": "星海社のコミックレーベル。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌および各作品の連載情報で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "east-press-comics",
+    "name": "イースト・プレス",
+    "nameKana": "いーすとぷれす",
+    "publisherId": "east-press",
+    "description": "イースト・プレスのコミックエッセイ・単行本レーベル。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌および各作品の連載情報で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "monthly-big-gangan",
+    "name": "月刊ビッグガンガン",
+    "nameKana": "げっかんびっくがんがん",
+    "publisherId": "square-enix",
+    "description": "スクウェア・エニックスの青年漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌および各作品の連載情報で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "gangan-pixiv",
+    "name": "ガンガンpixiv",
+    "nameKana": "がんがんぴくしぶ",
+    "publisherId": "square-enix",
+    "description": "スクウェア・エニックスとpixivによるWebコミックレーベル。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌および各作品の連載情報で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "monthly-comic-flapper",
+    "name": "月刊コミックフラッパー",
+    "nameKana": "げっかんこみっくふらっぱー",
+    "publisherId": "kadokawa",
+    "description": "KADOKAWA(メディアファクトリー)の漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌および各作品の連載情報で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "monthly-comic-gene",
+    "name": "月刊コミックジーン",
+    "nameKana": "げっかんこみっくじーん",
+    "publisherId": "kadokawa",
+    "description": "KADOKAWAの女性向け漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌および各作品の連載情報で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "sho-comi",
+    "name": "Sho-Comi",
+    "nameKana": "しょうこみ",
+    "publisherId": "shogakukan",
+    "description": "小学館の少女漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌および各作品の連載情報で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "queens",
+    "name": "コーラス／クイーンズ",
+    "nameKana": "こーらす",
+    "publisherId": "shueisha",
+    "description": "集英社の女性漫画誌『Chorus』系。ココハナの前身。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌および各作品の連載情報で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
   }
 ]

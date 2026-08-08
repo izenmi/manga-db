@@ -33,6 +33,41 @@ SOURCE_NOTE = ("作品名・作者・出版社・巻数は国立国会図書館�
                "Wikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。")
 
 
+# NDLの dcndl:seriesTitle はコミックスレーベル名(「アフタヌーンKC」「ジャンプコミックス」)で、
+# labels.json が持つ掲載誌名(「アフタヌーン」「週刊少年ジャンプ」)とは別物。1対1で対応が
+# はっきりしているものだけを表にしてある。1つのコミックスレーベルが複数誌にまたがるもの
+# (ガンガンコミックス、KCデラックス等)は**入れない**。注釈の label= で明示すること。
+SERIES_TO_LABEL = {
+    "アフタヌーンkc": "アフタヌーン",
+    "モーニングkc": "モーニング",
+    "ヤンマガkc": "ヤングマガジン",
+    "ヤングジャンプコミックス": "週刊ヤングジャンプ",
+    "りぼんマスコットコミックス": "りぼん",
+    "フラワーコミックスα": "フラワーズ",
+    "flowersフラワーコミックスα": "フラワーズ",
+    "フラワーコミックスアルファ": "フラワーズ",
+    "beamcomix": "コミックビーム",
+    "ビームコミックス": "コミックビーム",
+    "torchcomics": "トーチweb",
+    "hartacomix": "月刊ハルタ",
+    "少年チャンピオンコミックス": "週刊少年チャンピオン",
+    "チャンピオンredコミックス": "チャンピオンRED",
+    "イブニングkc": "イブニング",
+    "kckiss": "Kiss",
+    "kcデザート": "デザート",
+    "花とゆめcomics": "花とゆめ",
+    "マーガレットコミックス": "マーガレット",
+    "ゼノンコミックス": "月刊コミックゼノン",
+    "bunchcomics": "月刊コミックバンチ",
+    "ヤングチャンピオンコミックス": "ヤングチャンピオン",
+    "ヤングガンガンコミックス": "ヤングガンガン",
+    "少年サンデーコミックス": "週刊少年サンデー",
+    "ゲッサン少年サンデーコミックス": "ゲッサン",
+    "ゲッサン少年サンデーコミックススペシャル": "ゲッサン",
+    "シリウスkc": "月刊少年シリウス",
+}
+
+
 def load(name):
     return json.load(open(SRC / f"{name}.json", encoding="utf-8"))
 
@@ -170,7 +205,11 @@ def main():
             # 注釈には雑誌名でも書けるようにする(labelId は230件あって覚えていられないため)
             label_id = label_by_name.get(norm(label_id), "")
         if not label_id:
-            label_id = label_by_name.get(norm(nd.get("series", "")), "")
+            series = re.sub(r"\s*[;；].*$", "", nd.get("series", "") or "")
+            key = norm(series)
+            label_id = label_by_name.get(key, "")
+            if not label_id and key in SERIES_TO_LABEL:
+                label_id = label_by_name.get(norm(SERIES_TO_LABEL[key]), "")
         if not label_id:
             problems.append(f"n={n} {title}: 掲載誌未解決 (NDL series='{nd.get('series')}')")
             continue

@@ -651,5 +651,23 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
     "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "seikaisha",
+    "name": "星海社",
+    "nameKana": "せいかいしゃ",
+    "description": "講談社系の出版社。星海社FICTIONS・星海社COMICSなどを刊行する。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "bunkasha",
+    "name": "ぶんか社",
+    "nameKana": "ぶんかしゃ",
+    "description": "女性向け漫画誌・実用書を刊行する出版社。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
   }
 ]
