@@ -687,5 +687,32 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチAPIの書誌で確認(2026-08-08)。",
     "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "akebono-shuppan",
+    "name": "曙出版",
+    "nameKana": "あけぼのしゅっぱん",
+    "description": "1950年代から1980年代にかけて漫画単行本を刊行していた出版社。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "asahi-sonorama",
+    "name": "朝日ソノラマ",
+    "nameKana": "あさひそのらま",
+    "description": "朝日新聞社系の出版社。2007年に営業を終了した。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "mainichi-shimbun-shuppan",
+    "name": "毎日新聞出版",
+    "nameKana": "まいにちしんぶんしゅっぱん",
+    "description": "毎日新聞社系の出版社。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
   }
 ]

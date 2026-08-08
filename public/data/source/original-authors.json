@@ -2077,5 +2077,41 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチAPIの書誌の責任表示で確認(2026-08-08)。",
     "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "sakatanobuhiro",
+    "name": "坂田信弘",
+    "nameKana": "さかたのぶひろ",
+    "description": "漫画の原作を手がける作家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌の責任表示で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "yajimamasao",
+    "name": "矢島正雄",
+    "nameKana": "やじままさお",
+    "description": "漫画の原作を手がける作家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "morisueshinji",
+    "name": "森末慎二",
+    "nameKana": "もりすえしんじ",
+    "description": "漫画の原作を手がける作家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "abejouji",
+    "name": "安部譲二",
+    "nameKana": "あべじょうじ",
+    "description": "漫画の原作を手がける作家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
   }
 ]

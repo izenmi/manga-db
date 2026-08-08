@@ -1767,6 +1767,11 @@
         "awardId": "kono-manga-ga-sugoi",
         "year": 2007,
         "result": "2007年版 オンナ版 第7位"
+      },
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2002,
+        "result": "受賞"
       }
     ],
     "mediaMix": {
@@ -39349,7 +39354,7 @@
     "titleKana": "たいむすりっぷおたがーる",
     "originalAuthorIds": [],
     "artistIds": [
-      "person-515645"
+      "sasakiyouko"
     ],
     "publisherId": "flex-comix",
     "labelId": "polaris-comics",
@@ -39732,7 +39737,7 @@
     "titleKana": "はいばいようしみずいろ",
     "originalAuthorIds": [],
     "artistIds": [
-      "person-569893"
+      "okazakimari"
     ],
     "publisherId": "shogakukan",
     "labelId": "big-comic-spirits",
@@ -40046,7 +40051,7 @@
     "titleKana": "Realclothes",
     "originalAuthorIds": [],
     "artistIds": [
-      "person-545635"
+      "makimurasatoru"
     ],
     "publisherId": "shueisha",
     "labelId": "queens",
@@ -40324,7 +40329,7 @@
     "titleKana": "おんなのゆうじょうときんにく",
     "originalAuthorIds": [],
     "artistIds": [
-      "person-625667"
+      "kana"
     ],
     "publisherId": "seikaisha",
     "labelId": "seikaisha-comics",
@@ -42272,7 +42277,7 @@
       "yotsubayuuto"
     ],
     "artistIds": [
-      "person-829757"
+      "ogawaryou"
     ],
     "publisherId": "kodansha",
     "labelId": "young-magazine-third",
@@ -42798,7 +42803,7 @@
     "updatedAt": "2026-08-07"
   },
   {
-    "id": "work",
+    "id": "saru",
     "title": "SARU",
     "titleKana": "",
     "originalAuthorIds": [],
@@ -43082,7 +43087,7 @@
     "titleKana": "いのさん",
     "originalAuthorIds": [],
     "artistIds": [
-      "person-648150"
+      "sakamotoshinichi"
     ],
     "publisherId": "shueisha",
     "labelId": "young-jump",
@@ -43534,7 +43539,7 @@
     "titleKana": "じゃしんのべんとうやさん",
     "originalAuthorIds": [],
     "artistIds": [
-      "person-159049"
+      "ishiko"
     ],
     "publisherId": "kodansha",
     "labelId": "young-magazine",
@@ -45935,6 +45940,4158 @@
     },
     "externalLinks": {},
     "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「講談社漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "juuichinin-iru",
+    "title": "11人いる!",
+    "titleKana": "じゅういちにんいる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hagio-moto"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "bessatsu-shojo-comic",
+    "themeIds": [
+      "sci-fi",
+      "school",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 1976,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "宇宙大学の最終試験で、10人であるはずの受験者が11人いた。閉じた宇宙船内の緊張を描く。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1975,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ganbare-genki",
+    "title": "がんばれ元気",
+    "titleKana": "がんばれげんき",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "koyama-yu"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "sports",
+      "school"
+    ],
+    "firstPublishedYear": 1977,
+    "latestPublishedYear": 2023,
+    "status": "completed",
+    "volumeCount": 16,
+    "synopsis": "ボクシングに打ち込む少年・堀口元気の成長を描く。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1976,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kyaputen",
+    "title": "キャプテン",
+    "titleKana": "きゃぷてん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "chibaakio"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "monthly-shonen-jump",
+    "themeIds": [
+      "sports",
+      "school"
+    ],
+    "firstPublishedYear": 1977,
+    "latestPublishedYear": 2026,
+    "status": "completed",
+    "volumeCount": 26,
+    "synopsis": "弱小野球部の主将たちが、代を継ぎながら強豪へと成長していく。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1976,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "pureiboru",
+    "title": "プレイボール",
+    "titleKana": "ぷれいぼーる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "chibaakio"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "monthly-shonen-jump",
+    "themeIds": [
+      "sports",
+      "school"
+    ],
+    "firstPublishedYear": 1976,
+    "latestPublishedYear": 2021,
+    "status": "completed",
+    "volumeCount": 22,
+    "synopsis": "谷口タカオが墨谷二中の野球部で主将となるまでを描く。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1976,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "dameoyaji",
+    "title": "ダメおやじ",
+    "titleKana": "だめおやじ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "furuyamitsutoshi"
+    ],
+    "publisherId": "akebono-shuppan",
+    "labelId": "big-comic",
+    "themeIds": [
+      "comedy",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 1974,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 20,
+    "synopsis": "家族に虐げられる「ダメおやじ」を主人公にしたギャグ漫画。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1978,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tera-e-soushiyuuhen",
+    "title": "地球へ…",
+    "titleKana": "てらえそうしゆうへん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "takemiyakeiko"
+    ],
+    "publisherId": "asahi-sonorama",
+    "labelId": "monthly-shonen-champion",
+    "themeIds": [
+      "sci-fi",
+      "adventure",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1977,
+    "latestPublishedYear": 2026,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "コンピュータが管理する社会と、超能力をもつ新人類ミュウの対立を描く。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1979,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tosa-no-ipponzuri",
+    "title": "土佐の一本釣り",
+    "titleKana": "とさのいっぽんずり",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "aoyagiyuusuke"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-spirits",
+    "themeIds": [
+      "slice-of-life",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 1978,
+    "latestPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 25,
+    "synopsis": "土佐の漁師町を舞台に、一本釣り漁師の暮らしを描く。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1979,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hakatakko-junjou",
+    "title": "博多っ子純情",
+    "titleKana": "はかたっこじゅんじょう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hasegawahousei"
+    ],
+    "publisherId": "futabasha",
+    "labelId": "manga-action",
+    "themeIds": [
+      "comedy",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 1980,
+    "latestPublishedYear": 2021,
+    "status": "completed",
+    "volumeCount": 31,
+    "synopsis": "博多を舞台に、高校生たちの日常を方言で描く。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1980,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "gan-gara-gan",
+    "title": "がんがらがん",
+    "titleKana": "がんがらがん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hasegawahousei"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-original",
+    "themeIds": [
+      "comedy",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 1981,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 8,
+    "synopsis": "長谷川法世による人情喜劇。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1980,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "jarinko-chie-jarinchie-chiechan",
+    "title": "じゃりン子チエ",
+    "titleKana": "じゃりんこちえ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "harukietsumi"
+    ],
+    "publisherId": "futabasha",
+    "labelId": "manga-action",
+    "themeIds": [
+      "comedy",
+      "slice-of-life",
+      "animal"
+    ],
+    "firstPublishedYear": 1979,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 67,
+    "synopsis": "大阪の下町でホルモン屋を営む小学生チエと、その周囲の人々を描く。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1980,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sanchoume-no-yuuhi",
+    "title": "三丁目の夕日",
+    "titleKana": "さんちょうめのゆうひ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "saiganryouhei"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-original",
+    "themeIds": [
+      "slice-of-life",
+      "historical",
+      "comedy"
+    ],
+    "firstPublishedYear": 1975,
+    "latestPublishedYear": 2021,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "昭和30年代の東京・夕日町三丁目に暮らす人々の人情を描く。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1981,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "gemu-senta-arashi",
+    "title": "ゲームセンターあらし",
+    "titleKana": "げーむせんたーあらし",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "sugayamitsuru"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "corocoro-comic",
+    "themeIds": [
+      "comedy",
+      "school",
+      "sports"
+    ],
+    "firstPublishedYear": 1980,
+    "latestPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 17,
+    "synopsis": "ゲームセンターで腕を競う小学生・石野あらしの活躍を描く。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1982,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "konnichiwa-maikon",
+    "title": "こんにちはマイコン",
+    "titleKana": "こんにちわまいこん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "sugayamitsuru"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "corocoro-comic",
+    "themeIds": [
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 1982,
+    "latestPublishedYear": 2002,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "マイコンの使い方をギャグ漫画で解説する学習漫画。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1982,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "panku-ponku",
+    "title": "パンク・ポンク",
+    "titleKana": "ぱんくぽんく",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tachiiriharuko"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "ciao",
+    "themeIds": [
+      "comedy",
+      "animal",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 1983,
+    "latestPublishedYear": 2005,
+    "status": "completed",
+    "volumeCount": 12,
+    "synopsis": "いたずら好きな子犬ポンクの日常を描くギャグ漫画。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1983,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kisshou-tennyo",
+    "title": "吉祥天女",
+    "titleKana": "きっしょうてんにょ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yoshida-akimi"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "bessatsu-shojo-comic",
+    "themeIds": [
+      "suspense-psychological",
+      "school",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 1983,
+    "latestPublishedYear": 1995,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "名家に生まれた少女・小野塚涼子をめぐる、学園を舞台にしたサスペンス。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1983,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "eria-hachijuuhachi",
+    "title": "エリア88",
+    "titleKana": "えりあはちじゅうはち",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "shintanikaoru"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-big-comic",
+    "themeIds": [
+      "war-military",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 1979,
+    "latestPublishedYear": 2025,
+    "status": "completed",
+    "volumeCount": 19,
+    "synopsis": "アスラン王国の傭兵部隊「エリア88」に身を置くことになった青年を描く。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1984,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "yume-no-ishibumi",
+    "title": "夢の碑",
+    "titleKana": "ゆめのいしぶみ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kiharatoshie"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "petit-comic",
+    "themeIds": [
+      "historical",
+      "dark-fantasy",
+      "romance"
+    ],
+    "firstPublishedYear": 1984,
+    "latestPublishedYear": 1998,
+    "status": "completed",
+    "volumeCount": 20,
+    "synopsis": "木原敏江による、歴史と幻想を織り交ぜた連作。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1984,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hatsukoi-sukyandaru",
+    "title": "初恋スキャンダル",
+    "titleKana": "はつこいすきゃんだる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ozeakira"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-big-comic",
+    "themeIds": [
+      "romance",
+      "school",
+      "comedy"
+    ],
+    "firstPublishedYear": 1981,
+    "latestPublishedYear": 1986,
+    "status": "completed",
+    "volumeCount": 18,
+    "synopsis": "尾瀬あきらによる学園ラブコメディ。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1985,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "zenryaku-miruku-hausu",
+    "title": "前略・ミルクハウス",
+    "titleKana": "ぜんりゃくみるくはうす",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kawaharayumiko"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "bessatsu-shojo-comic",
+    "themeIds": [
+      "romance",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 1983,
+    "latestPublishedYear": 2000,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "下宿「ミルクハウス」に暮らす若者たちの恋を描く。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1985,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "bokkemon",
+    "title": "ぼっけもん",
+    "titleKana": "ぼっけもん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "iwashigetakashi"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-spirits",
+    "themeIds": [
+      "slice-of-life",
+      "school",
+      "comedy"
+    ],
+    "firstPublishedYear": 1982,
+    "latestPublishedYear": 2011,
+    "status": "completed",
+    "volumeCount": 14,
+    "synopsis": "鹿児島から上京した青年の学生生活を描く。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1985,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "yami-no-papuru-ai",
+    "title": "闇のパープル・アイ",
+    "titleKana": "やみのぱーぷるあい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "shinohara-chie"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "bessatsu-shojo-comic",
+    "themeIds": [
+      "horror",
+      "suspense-psychological",
+      "school"
+    ],
+    "firstPublishedYear": 1984,
+    "latestPublishedYear": 2003,
+    "status": "completed",
+    "volumeCount": 12,
+    "synopsis": "紫の瞳をもつ少女・倉沢秋美の運命を描くホラー。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1986,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tsurupika-hagemaru",
+    "title": "つるピカハゲ丸",
+    "titleKana": "つるぴかはげまる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nomurashinbo"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "corocoro-comic",
+    "themeIds": [
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 1986,
+    "latestPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 25,
+    "synopsis": "ケチでハゲ頭の小学生・つるピカハゲ丸のギャグ漫画。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1987,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "jasuto-mito",
+    "title": "ジャストミート",
+    "titleKana": "じゃすとみーと",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "harahidenori"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "sports",
+      "school",
+      "romance"
+    ],
+    "firstPublishedYear": 1985,
+    "latestPublishedYear": 1998,
+    "status": "completed",
+    "volumeCount": 67,
+    "synopsis": "原秀則による野球を題材にした学園もの。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1987,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "boifurendo",
+    "title": "ボーイフレンド",
+    "titleKana": "ぼーいふれんど",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "soryo-fuyumi"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "bessatsu-shojo-comic",
+    "themeIds": [
+      "romance",
+      "school"
+    ],
+    "firstPublishedYear": 1985,
+    "latestPublishedYear": 1997,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "惣領冬実による学園ラブストーリー。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1987,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hoteru",
+    "title": "ホテル",
+    "titleKana": "ほてる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ishinomori-shotaro"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic",
+    "themeIds": [
+      "workplace-drama",
+      "business",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 1989,
+    "latestPublishedYear": 1995,
+    "status": "completed",
+    "volumeCount": 232,
+    "synopsis": "ホテルの現場で働く人々の奮闘を描く。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1987,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "bi-bi",
+    "title": "B・B",
+    "titleKana": "びーびー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ishiwataosamu"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "sports",
+      "school",
+      "delinquent"
+    ],
+    "firstPublishedYear": 1985,
+    "latestPublishedYear": 2001,
+    "status": "completed",
+    "volumeCount": 325,
+    "synopsis": "ボクシングに打ち込む高校生を描く。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1988,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ucchare-goshogawara",
+    "title": "うっちゃれ五所瓦",
+    "titleKana": "うっちゃれごしょがわら",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nakaimatsuyoshi"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "sports",
+      "school",
+      "comedy"
+    ],
+    "firstPublishedYear": 1988,
+    "latestPublishedYear": 2026,
+    "status": "completed",
+    "volumeCount": 12,
+    "synopsis": "相撲部を舞台にした学園スポーツもの。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1989,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "papa-torudo-mi",
+    "title": "Papa told me",
+    "titleKana": "ぱぱとーるどみー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "harunonanae"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "young-you",
+    "themeIds": [
+      "slice-of-life",
+      "school",
+      "romance"
+    ],
+    "firstPublishedYear": 1990,
+    "latestPublishedYear": 2026,
+    "status": "completed",
+    "volumeCount": 27,
+    "synopsis": "聡明な少女・知世と、その父・信吉の暮らしを描く連作。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1989,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "amaizo-dango",
+    "title": "あまいぞ!男吾",
+    "titleKana": "あまいぞだんご",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "moonenpei"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "corocoro-comic",
+    "themeIds": [
+      "comedy",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 1986,
+    "latestPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 16,
+    "synopsis": "元気な小学生・男吾の日常を描く。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1990,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hajimechan-ga-ichiban",
+    "title": "はじめちゃんが一番!",
+    "titleKana": "はじめちゃんがいちばん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "watanabe-taeko"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "bessatsu-shojo-comic",
+    "themeIds": [
+      "romance",
+      "school",
+      "comedy"
+    ],
+    "firstPublishedYear": 1989,
+    "latestPublishedYear": 2002,
+    "status": "completed",
+    "volumeCount": 15,
+    "synopsis": "渡辺多恵子による学園ラブコメディ。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1990,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "makoto-koru",
+    "title": "真コール!",
+    "titleKana": "まことこーる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "fujitakazuko"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "bessatsu-shojo-comic",
+    "themeIds": [
+      "romance",
+      "school"
+    ],
+    "firstPublishedYear": 1991,
+    "latestPublishedYear": 2003,
+    "status": "completed",
+    "volumeCount": 9,
+    "synopsis": "藤田和子による学園ラブストーリー。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1991,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kazoku-no-shokutaku",
+    "title": "家族の食卓",
+    "titleKana": "かぞくのしょくたく",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "saimonfumi"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-spirits",
+    "themeIds": [
+      "slice-of-life",
+      "romance"
+    ],
+    "firstPublishedYear": 1991,
+    "latestPublishedYear": 2003,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "柴門ふみによる、家族の食卓を軸にした連作。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1991,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "asunaro-hakusho",
+    "title": "あすなろ白書",
+    "titleKana": "あすなろはくしょ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "saimonfumi"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-spirits",
+    "themeIds": [
+      "romance",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 1992,
+    "latestPublishedYear": 2010,
+    "status": "completed",
+    "volumeCount": 23,
+    "synopsis": "大学のサークルで出会った男女4人の恋と友情を描く。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1991,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "miyamoto-kara-kimi-e",
+    "title": "宮本から君へ",
+    "titleKana": "みやもとからきみえ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "arai-hideki"
+    ],
+    "publisherId": "ota-shuppan",
+    "labelId": "big-comic-spirits",
+    "themeIds": [
+      "delinquent",
+      "workplace-drama",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2009,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "営業マン・宮本浩の不器用な奮闘を描く。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1992,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "okamisan",
+    "title": "おかみさん",
+    "titleKana": "おかみさん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ichimaru"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-original",
+    "themeIds": [
+      "slice-of-life",
+      "sports",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 1991,
+    "latestPublishedYear": 2014,
+    "status": "completed",
+    "volumeCount": 17,
+    "synopsis": "相撲部屋に嫁いだ新米おかみさんの奮闘を描く。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1992,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "wan-moa-janpu",
+    "title": "ワン・モア・ジャンプ",
+    "titleKana": "わんもあじゃんぷ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "akaishimichiyo"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "bessatsu-shojo-comic",
+    "themeIds": [
+      "sports",
+      "school",
+      "romance"
+    ],
+    "firstPublishedYear": 1993,
+    "latestPublishedYear": 2009,
+    "status": "completed",
+    "volumeCount": 9,
+    "synopsis": "赤石路代による、体操を題材にした少女漫画。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1993,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "bara-no-tameni",
+    "title": "薔薇のために",
+    "titleKana": "ばらのために",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yoshimuraakemi"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "bessatsu-shojo-comic",
+    "themeIds": [
+      "romance",
+      "school",
+      "comedy"
+    ],
+    "firstPublishedYear": 1992,
+    "latestPublishedYear": 2001,
+    "status": "completed",
+    "volumeCount": 16,
+    "synopsis": "吉村明美による、家族と恋を描く少女漫画。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1993,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "gorufa-ni-tsukeru-kusuri-kaze-no-daichi-ni-manab",
+    "title": "風の大地",
+    "titleKana": "ごるふぁーにつけるくすり",
+    "originalAuthorIds": [
+      "sakatanobuhiro"
+    ],
+    "artistIds": [
+      "kazamaeiji"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-original",
+    "themeIds": [
+      "sports",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2000,
+    "latestPublishedYear": 2007,
+    "status": "completed",
+    "volumeCount": 13,
+    "synopsis": "プロゴルファー沖田圭介の歩みを描く。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1993,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ore-wa-otoko-da-kuniokun",
+    "title": "おれは男だ! くにおくん",
+    "titleKana": "おれわおとこだくにおくん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "anakubokousaku"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "corocoro-comic",
+    "themeIds": [
+      "comedy",
+      "school",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1992,
+    "latestPublishedYear": 1996,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "ゲームを題材にしたギャグ漫画。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1994,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kocchi-muite-miiko",
+    "title": "こっちむいて!みい子",
+    "titleKana": "こっちむいてみいこ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "onoeriko"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "ciao",
+    "themeIds": [
+      "comedy",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 1995,
+    "latestPublishedYear": 2026,
+    "status": "completed",
+    "volumeCount": 40,
+    "synopsis": "小学生・山田みい子の日常を描くコメディ。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1995,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "gyarari-feiku",
+    "title": "ギャラリーフェイク",
+    "titleKana": "ぎゃらりーふぇいく",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hosonofujihiko"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-spirits",
+    "themeIds": [
+      "arts",
+      "workplace-drama",
+      "detective-mystery"
+    ],
+    "firstPublishedYear": 1997,
+    "latestPublishedYear": 2024,
+    "status": "completed",
+    "volumeCount": 20,
+    "synopsis": "贋作専門の画廊「ギャラリーフェイク」を営む藤田玲司を描く。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1995,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tarou",
+    "title": "太郎",
+    "titleKana": "たろう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hosonofujihiko"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "weekly-young-sunday",
+    "themeIds": [
+      "workplace-drama",
+      "business",
+      "comedy"
+    ],
+    "firstPublishedYear": 1993,
+    "latestPublishedYear": 2008,
+    "status": "completed",
+    "volumeCount": 410,
+    "synopsis": "細野不二彦による青年漫画。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1995,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kanon",
+    "title": "花音",
+    "titleKana": "かのん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "saito-chiho"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "bessatsu-shojo-comic",
+    "themeIds": [
+      "romance",
+      "arts",
+      "historical"
+    ],
+    "firstPublishedYear": 1995,
+    "latestPublishedYear": 2003,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "さいとうちほによる少女漫画。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1996,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "gekka-no-kishi",
+    "title": "月下の棋士",
+    "titleKana": "げっかのきし",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nojo-junichi"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-spirits",
+    "themeIds": [
+      "gambling",
+      "suspense-psychological",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 1993,
+    "latestPublishedYear": 2004,
+    "status": "completed",
+    "volumeCount": 32,
+    "synopsis": "将棋のプロ棋士たちの勝負を描く。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1996,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ninpen-manmaru",
+    "title": "忍ペンまん丸",
+    "titleKana": "にんぺんまんまる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "igarashi-mikio"
+    ],
+    "publisherId": "square-enix",
+    "labelId": "gangan-monthly",
+    "themeIds": [
+      "comedy",
+      "animal"
+    ],
+    "firstPublishedYear": 1996,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "ペンギンのまん丸を主人公にしたギャグ漫画。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1997,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ayashi-no-seresu",
+    "title": "妖しのセレス",
+    "titleKana": "あやしのせれす",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "watase-yuu"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "bessatsu-shojo-comic",
+    "themeIds": [
+      "dark-fantasy",
+      "romance",
+      "school"
+    ],
+    "firstPublishedYear": 1997,
+    "latestPublishedYear": 2006,
+    "status": "completed",
+    "volumeCount": 14,
+    "synopsis": "天女の血を引く少女・御景アヤをめぐる伝奇ロマン。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1997,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "azumi",
+    "title": "あずみ",
+    "titleKana": "あずみ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "koyama-yu"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-spirits",
+    "themeIds": [
+      "historical",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 1995,
+    "latestPublishedYear": 2012,
+    "status": "completed",
+    "volumeCount": 48,
+    "synopsis": "刺客として育てられた少女あずみの旅を描く。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1997,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "enjeru-rippu",
+    "title": "エンジェルリップ",
+    "titleKana": "えんじぇるりっぷ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "araikiyoko"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "ciao",
+    "themeIds": [
+      "romance",
+      "school",
+      "magical-girl"
+    ],
+    "firstPublishedYear": 1996,
+    "latestPublishedYear": 1999,
+    "status": "completed",
+    "volumeCount": 9,
+    "synopsis": "あらいきよこによる少女漫画。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1998,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "uchuujin-tanaka-tarou",
+    "title": "うちゅう人 田中太郎",
+    "titleKana": "うちゅうじんたなかたろう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nagatoshiyasunari"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "corocoro-comic",
+    "themeIds": [
+      "comedy",
+      "school",
+      "sci-fi"
+    ],
+    "firstPublishedYear": 1999,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 14,
+    "synopsis": "宇宙人の少年・田中太郎の学校生活を描くギャグ漫画。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1999,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "barairo-no-asu",
+    "title": "バラ色の明日",
+    "titleKana": "ばらいろのあす",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ikuemiryou"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "bessatsu-margaret",
+    "themeIds": [
+      "romance",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 1997,
+    "latestPublishedYear": 2009,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "いくえみ綾による恋愛群像。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1999,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "pukupuku-tennen-kairanban",
+    "title": "ぷくぷく天然かいらんばん",
+    "titleKana": "ぷくぷくてんねんかいらんばん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tatsuyamasayuri"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "ciao",
+    "themeIds": [
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 2000,
+    "latestPublishedYear": 2005,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "竜山さゆりによるギャグ漫画。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2001,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kaguyahime",
+    "title": "輝夜姫",
+    "titleKana": "かぐやひめ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "shimizureiko"
+    ],
+    "publisherId": "hakusensha",
+    "labelId": "hana-to-yume",
+    "themeIds": [
+      "sci-fi",
+      "suspense-psychological",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 1994,
+    "latestPublishedYear": 2008,
+    "status": "completed",
+    "volumeCount": 27,
+    "synopsis": "クローンとして生み出された少年少女たちの運命を描く。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2001,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "heat-shakunetsu",
+    "title": "HEAT -灼熱-",
+    "titleKana": "",
+    "originalAuthorIds": [
+      "buronson"
+    ],
+    "artistIds": [
+      "ikegamiryouichi"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-superior",
+    "themeIds": [
+      "crime-underworld",
+      "battle-action",
+      "business"
+    ],
+    "firstPublishedYear": 2010,
+    "latestPublishedYear": 2010,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "新宿を舞台に、裏社会でのし上がる男を描く。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2001,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "keroro-gunsou",
+    "title": "ケロロ軍曹",
+    "titleKana": "けろろぐんそう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yoshizakimine"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "monthly-shonen-ace",
+    "themeIds": [
+      "comedy",
+      "sci-fi",
+      "animal"
+    ],
+    "firstPublishedYear": 1999,
+    "latestPublishedYear": 2012,
+    "status": "completed",
+    "volumeCount": 20,
+    "synopsis": "宇宙人ケロロ軍曹と日向家の日常を描くギャグ漫画。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2004,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sunadokei",
+    "title": "砂時計",
+    "titleKana": "すなどけい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ashiharahinako"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "betsucomi",
+    "themeIds": [
+      "romance",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2003,
+    "latestPublishedYear": 2011,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "島根に越してきた少女・植草杏と、幼なじみの大悟の12年を描く。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2004,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "zettai-zetsumei-denjarasu-jisan",
+    "title": "絶体絶命でんぢゃらすじーさん",
+    "titleKana": "ぜったいぜつめいでんじゃらすじーさん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "soyamakazutoshi"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "corocoro-comic",
+    "themeIds": [
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 2002,
+    "latestPublishedYear": 2010,
+    "status": "completed",
+    "volumeCount": 20,
+    "synopsis": "曽山一寿によるギャグ漫画。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2004,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "bokura-ga-ita",
+    "title": "僕等がいた",
+    "titleKana": "ぼくらがいた",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "obatayuuki"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "betsucomi",
+    "themeIds": [
+      "romance",
+      "school",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2002,
+    "latestPublishedYear": 2012,
+    "status": "completed",
+    "volumeCount": 16,
+    "synopsis": "高校生・七海と矢野の恋と、その先にある喪失を描く。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2004,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "animaru-yokochou",
+    "title": "アニマル横町",
+    "titleKana": "あにまるよこちょう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "maekawaryou"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "ribon",
+    "themeIds": [
+      "comedy",
+      "animal",
+      "school"
+    ],
+    "firstPublishedYear": 2001,
+    "latestPublishedYear": 2025,
+    "status": "completed",
+    "volumeCount": 25,
+    "synopsis": "動物たちが暮らす「アニマル横町」を舞台にしたギャグ漫画。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2005,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "wairudo-raifu",
+    "title": "ワイルドライフ",
+    "titleKana": "わいるどらいふ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "fujisakimasato"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "animal",
+      "medical",
+      "school"
+    ],
+    "firstPublishedYear": 2003,
+    "latestPublishedYear": 2008,
+    "status": "completed",
+    "volumeCount": 27,
+    "synopsis": "獣医を目指す少年・鉄崎茜の奮闘を描く。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2005,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sonnanjaneeyo",
+    "title": "そんなんじゃねえよ",
+    "titleKana": "そんなんじゃねえよ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "izumikaneyoshi"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "betsucomi",
+    "themeIds": [
+      "romance",
+      "school",
+      "comedy"
+    ],
+    "firstPublishedYear": 2003,
+    "latestPublishedYear": 2006,
+    "status": "completed",
+    "volumeCount": 9,
+    "synopsis": "和泉かねよしによる学園ラブコメディ。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2005,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kirarin-reboryushon",
+    "title": "きらりん☆レボリューション",
+    "titleKana": "きらりんれぼりゅーしょん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nakaharaan"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "ciao",
+    "themeIds": [
+      "music",
+      "magical-girl",
+      "school"
+    ],
+    "firstPublishedYear": 2007,
+    "latestPublishedYear": 2026,
+    "status": "completed",
+    "volumeCount": 14,
+    "synopsis": "アイドルを目指す少女・月島きらりの活躍を描く。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2006,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "boku-no-hatsukoi-o-kimi-ni-sasagu",
+    "title": "僕の初恋をキミに捧ぐ",
+    "titleKana": "ぼくのはつこいおきみにささぐ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "aokikotomi"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "betsucomi",
+    "themeIds": [
+      "romance",
+      "school",
+      "medical"
+    ],
+    "firstPublishedYear": 2006,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 12,
+    "synopsis": "青木琴美による、病と向き合う高校生の恋を描く。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2007,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "naisho-no-tsubomi",
+    "title": "ないしょのつぼみ",
+    "titleKana": "ないしょのつぼみ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yabuuchiyuu"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "ciao",
+    "themeIds": [
+      "romance",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2005,
+    "latestPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 8,
+    "synopsis": "やぶうち優による、思春期の少女を描く作品。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2008,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "black-bird",
+    "title": "BLACK BIRD",
+    "titleKana": "Blackbird",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "sakurakoujikanoko"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "betsucomi",
+    "themeIds": [
+      "romance",
+      "dark-fantasy",
+      "school"
+    ],
+    "firstPublishedYear": 2007,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 18,
+    "synopsis": "鴉の一族に狙われる少女・実咲の運命を描く。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2008,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "pengin-no-mondai",
+    "title": "ペンギンの問題",
+    "titleKana": "ぺんぎんのもんだい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nagaiyuuji"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "corocoro-comic",
+    "themeIds": [
+      "comedy",
+      "animal"
+    ],
+    "firstPublishedYear": 2007,
+    "latestPublishedYear": 2021,
+    "status": "completed",
+    "volumeCount": 15,
+    "synopsis": "ペンギンのベッカムをめぐるギャグ漫画。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2009,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "suketto-dansu",
+    "title": "SKET DANCE",
+    "titleKana": "すけっとだんす",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "shinohara-kenta"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "comedy",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2008,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 32,
+    "synopsis": "学園支援部「スケット団」の3人が、校内の悩みを解決していく。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2009,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "yumeiro-patishieru",
+    "title": "夢色パティシエール",
+    "titleKana": "ゆめいろぱてぃしえーる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "matsumotonatsumi"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "ribon",
+    "themeIds": [
+      "gourmet",
+      "school",
+      "magical-girl"
+    ],
+    "firstPublishedYear": 2008,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 12,
+    "synopsis": "パティシエを目指す少女・天王寺いちごの成長を描く。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2010,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kingu-gorufu",
+    "title": "KING GOLF",
+    "titleKana": "きんぐごるふ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "sasakiken"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "sports",
+      "school"
+    ],
+    "firstPublishedYear": 2009,
+    "latestPublishedYear": 2026,
+    "status": "completed",
+    "volumeCount": 44,
+    "synopsis": "ゴルフに打ち込む高校生を描く。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2010,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kaitou-joka",
+    "title": "怪盗ジョーカー",
+    "titleKana": "かいとうじょーかー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "takahashihideyasu"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "corocoro-comic",
+    "themeIds": [
+      "comedy",
+      "adventure",
+      "crime-underworld"
+    ],
+    "firstPublishedYear": 2008,
+    "latestPublishedYear": 2025,
+    "status": "completed",
+    "volumeCount": 26,
+    "synopsis": "怪盗ジョーカーの活躍を描く。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2012,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "piece",
+    "title": "Piece",
+    "titleKana": "Piece",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ashiharahinako"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "betsucomi",
+    "themeIds": [
+      "romance",
+      "suspense-psychological",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2008,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "芦原妃名子による、記憶と喪失をめぐる恋愛作品。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2012,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "zekkyou-gakkyuu",
+    "title": "絶叫学級",
+    "titleKana": "ぜっきょうがっきゅう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ishikawaemi"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "ribon",
+    "themeIds": [
+      "horror",
+      "school",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2011,
+    "latestPublishedYear": 2025,
+    "status": "completed",
+    "volumeCount": 24,
+    "synopsis": "学園を舞台にしたホラー連作。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2013,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kanojo-wa-uso-o-aishisugiteru",
+    "title": "カノジョは嘘を愛しすぎてる",
+    "titleKana": "かのじょわうそおあいしすぎてる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "aokikotomi"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "cheese",
+    "themeIds": [
+      "romance",
+      "music",
+      "school"
+    ],
+    "firstPublishedYear": 2009,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 22,
+    "synopsis": "青木琴美による、嘘から始まる恋を描く。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2013,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "joou-no-hana",
+    "title": "女王の花",
+    "titleKana": "じょおうのはな",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "izumikaneyoshi"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "betsucomi",
+    "themeIds": [
+      "historical",
+      "romance",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2008,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 15,
+    "synopsis": "和泉かねよしによる、王朝を舞台にした物語。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2014,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "usotsukigokuokun",
+    "title": "ウソツキ!ゴクオーくん",
+    "titleKana": "うそつき!ごくおーくん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yoshimotomakoto"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "corocoro-comic",
+    "themeIds": [
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2025,
+    "status": "completed",
+    "volumeCount": 25,
+    "synopsis": "吉もと誠によるギャグ漫画。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2015,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "work-3",
+    "title": "Sunny",
+    "titleKana": "",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "matsumoto-taiyo"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "monthly-ikki",
+    "themeIds": [
+      "slice-of-life",
+      "school",
+      "arts"
+    ],
+    "firstPublishedYear": 2011,
+    "latestPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "児童養護施設で暮らす子どもたちの日々を描く。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2015,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ijime",
+    "title": "いじめ",
+    "titleKana": "いじめ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "igarashikaoru"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "ciao",
+    "themeIds": [
+      "school",
+      "suspense-psychological",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2007,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 40,
+    "synopsis": "いじめに苦しむ子どもたちを描く。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2016,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "puripuri-chiichan",
+    "title": "プリプリちぃちゃん!!",
+    "titleKana": "ぷりぷりちぃちゃん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "shinozukahiromu"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "ciao",
+    "themeIds": [
+      "comedy",
+      "magical-girl",
+      "school"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 7,
+    "synopsis": "篠塚ひろむによるギャグ漫画。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2017,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "juunisai",
+    "title": "12歳。",
+    "titleKana": "じゅうにさい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "maitanao"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "ciao",
+    "themeIds": [
+      "romance",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 20,
+    "synopsis": "12歳の少女たちの恋と友情を描く。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2018,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "suteki-na-kareshi-hoeazu-mai-raburi-suwitohato",
+    "title": "素敵な彼氏",
+    "titleKana": "すてきなかれし",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kawahara-kazune"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "bessatsu-margaret",
+    "themeIds": [
+      "romance",
+      "school",
+      "comedy"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 14,
+    "synopsis": "河原和音による学園ラブコメディ。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2018,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kenkou-de-bunkateki-na-saitei-gendo-no-seikatsu",
+    "title": "健康で文化的な最低限度の生活",
+    "titleKana": "けんこうでぶんかてきなさいていげんどのせいかつ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kashiwagiharuko"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-spirits",
+    "themeIds": [
+      "workplace-drama",
+      "business",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2024,
+    "status": "completed",
+    "volumeCount": 13,
+    "synopsis": "生活保護のケースワーカーとなった新人公務員の奮闘を描く。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2018,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "neko-hajimemashita-nyantomo-ki-ni-naru-nyao",
+    "title": "ねこ、はじめました",
+    "titleKana": "ねこはじめました",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "wagatakonomi"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "ciao",
+    "themeIds": [
+      "animal",
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2026,
+    "status": "completed",
+    "volumeCount": 15,
+    "synopsis": "猫を飼い始めた少女の日常を描く。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2019,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "yuzukisanchi-no-yonkyoudai",
+    "title": "柚木さんちの四兄弟。",
+    "titleKana": "ゆずきさんちのよんきょうだい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "fujisawashizuki"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "betsucomi",
+    "themeIds": [
+      "romance",
+      "comedy",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2026,
+    "status": "completed",
+    "volumeCount": 23,
+    "synopsis": "四兄弟の家に居候することになった少女を描く。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2020,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shokora-no-mahou",
+    "title": "ショコラの魔法",
+    "titleKana": "しょこらのまほう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mizuhorino"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "ciao",
+    "themeIds": [
+      "dark-fantasy",
+      "romance",
+      "school"
+    ],
+    "firstPublishedYear": 2009,
+    "latestPublishedYear": 2024,
+    "status": "completed",
+    "volumeCount": 37,
+    "synopsis": "不思議なチョコレートをめぐる連作。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2020,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "gapponbannigatsunoshoushazettaigoukakunokyoushit",
+    "title": "二月の勝者 -絶対合格の教室-",
+    "titleKana": "にがつのしょうしゃぜったいごうかくのきょうしつ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "takaseshiho"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-spirits",
+    "themeIds": [
+      "school",
+      "workplace-drama",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2024,
+    "status": "completed",
+    "volumeCount": 22,
+    "synopsis": "中学受験塾を舞台に、講師と親子の思惑を描く。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2021,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "uikon",
+    "title": "初×婚",
+    "titleKana": "ういこん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kurosakiminori"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "ribon",
+    "themeIds": [
+      "romance",
+      "school",
+      "comedy"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2025,
+    "status": "completed",
+    "volumeCount": 17,
+    "synopsis": "黒崎みのりによる学園ラブコメディ。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2022,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "asu-watakushi-wa-dareka-no-kanojo",
+    "title": "明日、私は誰かのカノジョ",
+    "titleKana": "あすわたくしわだれかのかのじょ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "onohinao"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "ura-sunday",
+    "themeIds": [
+      "slice-of-life",
+      "romance",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2037,
+    "status": "completed",
+    "volumeCount": 17,
+    "synopsis": "東京で生きる女性たちの、それぞれの事情を描く連作。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2022,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ningenkousaten",
+    "title": "人間交差点",
+    "titleKana": "にんげんこうさてん",
+    "originalAuthorIds": [
+      "yajimamasao"
+    ],
+    "artistIds": [
+      "hirokane-kenshi"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-original",
+    "themeIds": [
+      "slice-of-life",
+      "workplace-drama",
+      "crime-underworld"
+    ],
+    "firstPublishedYear": 1980,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 27,
+    "synopsis": "1話完結の短編集。刑務所、地上げ、バブル期の世相など、市井の人々の交差点を描く。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1984,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "efu",
+    "title": "F -エフ-",
+    "titleKana": "えふ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "rokudanoboru"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-spirits",
+    "themeIds": [
+      "sports",
+      "delinquent",
+      "school"
+    ],
+    "firstPublishedYear": 1985,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 28,
+    "synopsis": "六田登による、レーサーを目指す青年を描く作品。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1990,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "inu-o-kau",
+    "title": "犬を飼う",
+    "titleKana": "いぬおかう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "taniguchi-jiro"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-original",
+    "themeIds": [
+      "animal",
+      "slice-of-life",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 1991,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "老いた飼い犬との日々を、静かな筆致で描く。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1991,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ganba-furai-hai",
+    "title": "ガンバ!Fly high",
+    "titleKana": "がんばふらいはい",
+    "originalAuthorIds": [
+      "morisueshinji"
+    ],
+    "artistIds": [
+      "kikutahiroyuki"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "sports",
+      "school"
+    ],
+    "firstPublishedYear": 1994,
+    "latestPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 17,
+    "synopsis": "体操に打ち込む少年・藤巻駿の成長を描く。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 1997,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "akabee",
+    "title": "赤兵衛",
+    "titleKana": "あかべえ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kuroganehiroshi"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic",
+    "themeIds": [
+      "historical",
+      "comedy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1974,
+    "latestPublishedYear": 2003,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "黒鉄ヒロシによる時代劇コメディ。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2001,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "yasha",
+    "title": "YASHA -夜叉-",
+    "titleKana": "やしゃ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yoshida-akimi"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "bessatsu-shojo-comic",
+    "themeIds": [
+      "crime-underworld",
+      "suspense-psychological",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1996,
+    "latestPublishedYear": 2006,
+    "status": "completed",
+    "volumeCount": 12,
+    "synopsis": "双子の兄弟の運命を描く。『BANANA FISH』と世界を共有する。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2001,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "work",
+    "title": "RAINBOW -二舎六房の七人-",
+    "titleKana": "れいんぼーにしゃろくぼうのしちにん",
+    "originalAuthorIds": [
+      "abejouji"
+    ],
+    "artistIds": [
+      "kakizakimasasumi"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "weekly-young-sunday",
+    "themeIds": [
+      "crime-underworld",
+      "delinquent",
+      "school"
+    ],
+    "firstPublishedYear": 2002,
+    "latestPublishedYear": 2010,
+    "status": "completed",
+    "volumeCount": 22,
+    "synopsis": "少年院の二舎六房に集められた7人の若者を描く。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2005,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kimagure-konseputo-kuronikuru",
+    "title": "気まぐれコンセプト",
+    "titleKana": "きまぐれこんせぷと",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hoichoipurodakushonzu"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-spirits",
+    "themeIds": [
+      "comedy",
+      "business",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 1981,
+    "latestPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "その時代の流行を4コマで切り取り続けたギャグ漫画。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2006,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "supa-mariokun",
+    "title": "スーパーマリオくん",
+    "titleKana": "すーぱーまりおくん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "sawadayukio"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "corocoro-comic",
+    "themeIds": [
+      "comedy",
+      "adventure",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1991,
+    "latestPublishedYear": 2023,
+    "status": "completed",
+    "volumeCount": 49,
+    "synopsis": "ゲーム『スーパーマリオ』を題材にしたギャグ漫画。",
+    "awardResults": [
+      {
+        "awardId": "shogakukan-manga-award",
+        "year": 2019,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "gendai-shisou-no-sounanshatachi",
+    "title": "現代思想の遭難者たち",
+    "titleKana": "げんだいしそうのそうなんしゃたち",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ishiihisaichi"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning",
+    "themeIds": [
+      "comedy",
+      "arts",
+      "business"
+    ],
+    "firstPublishedYear": 2002,
+    "latestPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "現代思想の思想家たちを題材にした4コマ漫画。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2003,
+        "result": "短編賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nonochan",
+    "title": "ののちゃん",
+    "titleKana": "ののちゃん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ishiihisaichi"
+    ],
+    "publisherId": "asahi-shimbunsha",
+    "labelId": "asahi-shimbun",
+    "themeIds": [
+      "comedy",
+      "slice-of-life",
+      "school"
+    ],
+    "firstPublishedYear": 1997,
+    "latestPublishedYear": 2026,
+    "status": "completed",
+    "volumeCount": 15,
+    "synopsis": "小学生ののこと家族・級友の日常を描く新聞連載4コマ漫画。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2003,
+        "result": "短編賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "mainichi-kaasan",
+    "title": "毎日かあさん",
+    "titleKana": "まいにちかあさん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "saibararieko"
+    ],
+    "publisherId": "mainichi-shimbun-shuppan",
+    "labelId": "mainichi-shimbun",
+    "themeIds": [
+      "comedy",
+      "slice-of-life",
+      "medical"
+    ],
+    "firstPublishedYear": 2004,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 78,
+    "synopsis": "著者自身の子育ての日々を描くコミックエッセイ。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2005,
+        "result": "短編賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "joukyou-monogatari",
+    "title": "上京ものがたり",
+    "titleKana": "じょうきょうものがたり",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "saibararieko"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-spirits",
+    "themeIds": [
+      "slice-of-life",
+      "romance",
+      "arts"
+    ],
+    "firstPublishedYear": 2004,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "上京して漫画家を目指す女性の日々を描く。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2005,
+        "result": "短編賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "onna-ippiki-neko-futari",
+    "title": "女いっぴき猫ふたり",
+    "titleKana": "おんないっぴきねこふたり",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "itourisa"
+    ],
+    "publisherId": "futabasha",
+    "labelId": "manga-action",
+    "themeIds": [
+      "comedy",
+      "animal",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2006,
+    "latestPublishedYear": 2011,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "猫と暮らす女性の日常を描くコミックエッセイ。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2006,
+        "result": "短編賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shinsei-kigeki",
+    "title": "神聖喜劇",
+    "titleKana": "しんせいきげき",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nozoenobuhisa"
+    ],
+    "publisherId": "gentosha",
+    "labelId": "comic-birz",
+    "themeIds": [
+      "war-military",
+      "historical",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2006,
+    "latestPublishedYear": 2007,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "大西巨人の同名小説を原作に、軍隊内部の理不尽と対峙する青年を描く。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2007,
+        "result": "新生賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "toroimerai",
+    "title": "トロイメライ",
+    "titleKana": "とろいめらい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "shimadatoranosuke"
+    ],
+    "publisherId": "seirin-kogeisha",
+    "labelId": "ax",
+    "themeIds": [
+      "historical",
+      "slice-of-life",
+      "music"
+    ],
+    "firstPublishedYear": 2007,
+    "latestPublishedYear": 2007,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "島田虎之介による、時代と人をまたいで語られる物語。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2008,
+        "result": "新生賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "gekiga-hyouryuu",
+    "title": "劇画漂流",
+    "titleKana": "げきがひょうりゅう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tatsumiyoshihiro"
+    ],
+    "publisherId": "seirin-kogeisha",
+    "labelId": "ax",
+    "themeIds": [
+      "historical",
+      "arts",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2008,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "辰巳ヨシヒロが自身の半生と劇画の勃興を描いた自伝的作品。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2009,
+        "result": "マンガ大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shinema-deiji-jin",
+    "title": "JIN -仁-",
+    "titleKana": "じん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "murakami-motoka"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "super-jump",
+    "themeIds": [
+      "historical",
+      "medical",
+      "sci-fi"
+    ],
+    "firstPublishedYear": 2000,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 20,
+    "synopsis": "現代の脳外科医が幕末にタイムスリップし、医療で時代と向き合う。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2011,
+        "result": "マンガ大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shutoheru",
+    "title": "シュトヘル",
+    "titleKana": "しゅとへる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ito-yuu"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-spirits",
+    "themeIds": [
+      "historical",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2009,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 14,
+    "synopsis": "13世紀の中央アジアを舞台に、モンゴル帝国と対峙する人々を描く。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2012,
+        "result": "新生賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sani-sani-an",
+    "title": "Sunny Sunny Ann!",
+    "titleKana": "さにーさにーあん!",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yamamotomiki"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning",
+    "themeIds": [
+      "slice-of-life",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2012,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "山本美希による一巻完結作。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2013,
+        "result": "新生賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "mitsuami-no-kamisama",
+    "title": "みつあみの神様",
+    "titleKana": "みつあみのかみさま",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kyoumachiko"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "young-jump",
+    "themeIds": [
+      "war-military",
+      "slice-of-life",
+      "school"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "今日マチ子による、戦時下の少女たちを描いた作品。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2014,
+        "result": "新生賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ai-shirisomeshi-koro-ni",
+    "title": "愛…しりそめし頃に…",
+    "titleKana": "あいしりそめしころに",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "fujiko-fujio-a"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-original",
+    "themeIds": [
+      "arts",
+      "historical",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 1997,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 12,
+    "synopsis": "藤子不二雄Aが、漫画家を目指した青春時代を描く自伝的作品。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2014,
+        "result": "特別賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hanagami-sharaku",
+    "title": "鼻紙写楽",
+    "titleKana": "はながみしゃらく",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ichinosekikei"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic",
+    "themeIds": [
+      "historical",
+      "arts",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "写楽をめぐる江戸の絵師たちを描く。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2016,
+        "result": "マンガ大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nyukusu-no-rantan",
+    "title": "ニュクスの角灯",
+    "titleKana": "にゅくすのらんたん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "takahamakan"
+    ],
+    "publisherId": "leed-sha",
+    "labelId": "torch-web",
+    "themeIds": [
+      "historical",
+      "romance",
+      "arts"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "幕末から明治の長崎を舞台に、ある女性の生涯を描く。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2020,
+        "result": "マンガ大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "konya-sukiyaki-dayo",
+    "title": "今夜すきやきだよ",
+    "titleKana": "こんやすきやきだよ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "taniguchinatsuko"
+    ],
+    "publisherId": "shinchosha",
+    "labelId": "kurage-bunch",
+    "themeIds": [
+      "gourmet",
+      "romance",
+      "yuri"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2021,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "谷口菜津子による、食と関係性を描く作品。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2022,
+        "result": "新生賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hakumokuren-wa-kirei-ni-chiranai-nobiriti-obu-ra",
+    "title": "白木蓮はきれいに散らない",
+    "titleKana": "はくもくれんわきれいにちらない",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "okayaizumi"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-original",
+    "themeIds": [
+      "slice-of-life",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2021,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "オカヤイヅミによる一巻完結作。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2022,
+        "result": "短編賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tsuyukusa-natsuko-no-isshou",
+    "title": "ツユクサナツコの一生",
+    "titleKana": "つゆくさなつこのいっしょう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "masudamiri"
+    ],
+    "publisherId": "shinchosha",
+    "labelId": "kurage-bunch",
+    "themeIds": [
+      "slice-of-life",
+      "arts"
+    ],
+    "firstPublishedYear": 2023,
+    "latestPublishedYear": 2026,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "益田ミリによる、ある女性の一生を描く作品。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2024,
+        "result": "短編賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "za-kinkusu",
+    "title": "ザ・キンクス",
+    "titleKana": "ざきんくす",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "enomotoshunji"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning",
+    "themeIds": [
+      "comedy",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2024,
+    "latestPublishedYear": 2026,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "榎本俊二による4コマ漫画。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2025,
+        "result": "短編賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "periryu-rakuen-no-gerunika",
+    "title": "ペリリュー 楽園のゲルニカ",
+    "titleKana": "ぺりりゅーらくえんのげるにか",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "takeda-kazuyoshi"
+    ],
+    "publisherId": "hakusensha",
+    "labelId": "young-animal",
+    "themeIds": [
+      "war-military",
+      "historical",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2016,
+    "latestPublishedYear": 2021,
+    "status": "completed",
+    "volumeCount": 11,
+    "synopsis": "太平洋戦争末期のペリリュー島を、兵士たちの日常の目線で描く。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2026,
+        "result": "特別賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "naniwa-doraihon",
+    "title": "難波鉦異本",
+    "titleKana": "なにわどらいほん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "morimototakashi"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "comic-beam",
+    "themeIds": [
+      "historical",
+      "arts",
+      "comedy"
+    ],
+    "firstPublishedYear": 2003,
+    "latestPublishedYear": 2010,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "もりもと崇による、江戸を舞台にした作品。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2004,
+        "result": "新生賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "takemitsuzamurai",
+    "title": "竹光侍",
+    "titleKana": "たけみつざむらい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "matsumoto-taiyo"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-spirits",
+    "themeIds": [
+      "historical",
+      "battle-action",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2006,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 8,
+    "synopsis": "信濃から江戸に出た浪人・瀬能宗一郎が、長屋で寺子屋の師匠となる。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2011,
+        "result": "マンガ大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hinemosu-notari-nikki",
+    "title": "ひねもすのたり日記",
+    "titleKana": "ひねもすのたりにっき",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "chiba-tetsuya"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic",
+    "themeIds": [
+      "slice-of-life",
+      "arts",
+      "comedy"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2025,
+    "status": "completed",
+    "volumeCount": 7,
+    "synopsis": "ちばてつやが日々の出来事を綴るエッセイ漫画。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2018,
+        "result": "特別賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "goaisatsu-tajima-rettou-tanpenshuu",
+    "title": "ごあいさつ",
+    "titleKana": "ごあいさつ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tajimarettou"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning",
+    "themeIds": [
+      "slice-of-life",
+      "romance",
+      "school"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "田島列島による短編集。",
+    "awardResults": [
+      {
+        "awardId": "tezuka-osamu-culture-award",
+        "year": 2020,
+        "result": "新生賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
     "updatedAt": "2026-08-07"
   }
 ]

@@ -2726,5 +2726,35 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの各誌記事で発行元・刊行期間を確認(2026-08-08)。",
     "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "betsucomi",
+    "name": "ベツコミ",
+    "nameKana": "べつこみ",
+    "publisherId": "shogakukan",
+    "description": "小学館が発行する少女漫画雑誌。2010年に『別冊少女コミック』から改称した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『ベツコミ』で発行元・改称年を確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "mainichi-shimbun",
+    "name": "毎日新聞",
+    "nameKana": "まいにちしんぶん",
+    "publisherId": "mainichi-shimbun-shuppan",
+    "description": "毎日新聞社が発行する日刊紙。連載漫画の掲載媒体。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの各媒体記事で発行元を確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "ax",
+    "name": "アックス",
+    "nameKana": "あっくす",
+    "publisherId": "seirin-kogeisha",
+    "description": "青林工藝舎が発行するオルタナティブ漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの各媒体記事で発行元を確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
   }
 ]
