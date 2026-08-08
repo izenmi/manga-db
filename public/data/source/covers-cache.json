@@ -5551,12 +5551,6 @@
     "resolvedAt": "2026-08-08T04:35:05.892Z"
   },
   "kasane": {
-    "title": "累-かさね-",
-    "isbn": null,
-    "coverUrl": null,
-    "resolvedAt": "2026-08-04T00:20:08.968Z"
-  },
-  "kasane-matsuura": {
     "title": "累 -かさね-",
     "isbn": null,
     "coverUrl": null,
@@ -12286,23 +12280,6 @@
     "resolvedAt": "2026-08-07T00:05:28.654Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17502455/"
   },
-  "work": {
-    "title": "RAINBOW -二舎六房の七人-",
-    "isbn": null,
-    "matchedTitle": "RAINBOW ー二舎六房の七人ー（１）",
-    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5733/2000000255733.jpg?_ex=200x200",
-    "source": "kobo",
-    "resolvedAt": "2026-08-08T06:03:55.925Z"
-  },
-  "work-3": {
-    "title": "Sunny",
-    "isbn": "9784091885579",
-    "matchedTitle": "Sunny（1）",
-    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5579/9784091885579_1_5.jpg?_ex=400x400",
-    "source": "rakuten-books",
-    "resolvedAt": "2026-08-08T06:02:47.846Z",
-    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/11338500/"
-  },
   "world-trigger": {
     "title": "ワールドトリガー",
     "isbn": "9784088708096",
@@ -12853,5 +12830,22 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3371/2000000243371.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-07T00:05:23.987Z"
+  },
+  "sunny": {
+    "title": "Sunny",
+    "isbn": "9784091885579",
+    "matchedTitle": "Sunny（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5579/9784091885579_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T06:02:47.846Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/11338500/"
+  },
+  "rainbow-nisha-rokubou-no-shichinin": {
+    "title": "RAINBOW -二舎六房の七人-",
+    "isbn": null,
+    "matchedTitle": "RAINBOW ー二舎六房の七人ー（１）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5733/2000000255733.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-08T06:03:55.925Z"
   }
 }

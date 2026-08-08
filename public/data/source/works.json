@@ -6607,7 +6607,7 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/累"
     },
     "sourceNote": "日本語版Wikipedia『累』記事(2026-08-02閲覧)で作者・掲載誌(イブニング)・連載期間(2013年10月号〜2018年17号)・巻数(全14巻)・第39回講談社漫画賞一般部門ノミネート・マンガ大賞2015 10位を確認。あらすじは独自要約(コピペなし)。オリジナル作品のためoriginalAuthorIdsは空配列。「次にくるマンガ大賞」「全国書店員が選んだおすすめコミック」等、既存パレット外の賞は未登録。",
-    "updatedAt": "2026-08-02",
+    "updatedAt": "2026-08-08",
     "labelId": "evening"
   },
   {
@@ -27659,36 +27659,6 @@
       "novelization": false
     },
     "sourceNote": "日本語版Wikipedia『一ノ瀬家の大罪』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。"
-  },
-  {
-    "id": "kasane-matsuura",
-    "title": "累 -かさね-",
-    "titleKana": "かさね",
-    "originalAuthorIds": [],
-    "artistIds": [
-      "matsuura-daruma"
-    ],
-    "publisherId": "kodansha",
-    "labelId": "evening",
-    "themeIds": [
-      "suspense-psychological",
-      "arts",
-      "horror"
-    ],
-    "firstPublishedYear": 2013,
-    "status": "completed",
-    "synopsis": "醜い容貌に苦しむ少女・累が、母の遺した口紅で他人と顔を入れ替え、舞台女優として頂点を目指す。才能と外見をめぐる欲望が絡み合い、破滅へ向かう心理劇として展開する。",
-    "externalLinks": {
-      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%B4%AF"
-    },
-    "updatedAt": "2026-08-06",
-    "latestPublishedYear": 2018,
-    "volumeCount": 14,
-    "mediaMix": {
-      "anime": false,
-      "novelization": false
-    },
-    "sourceNote": "日本語版Wikipedia『累』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。"
   },
   {
     "id": "haunted-campus",
@@ -50705,7 +50675,7 @@
     "updatedAt": "2026-08-07"
   },
   {
-    "id": "work-3",
+    "id": "sunny",
     "title": "Sunny",
     "titleKana": "",
     "originalAuthorIds": [],
@@ -50737,7 +50707,7 @@
     },
     "externalLinks": {},
     "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-08"
   },
   {
     "id": "ijime",
@@ -51343,7 +51313,7 @@
     "updatedAt": "2026-08-07"
   },
   {
-    "id": "work",
+    "id": "rainbow-nisha-rokubou-no-shichinin",
     "title": "RAINBOW -二舎六房の七人-",
     "titleKana": "れいんぼーにしゃろくぼうのしちにん",
     "originalAuthorIds": [
@@ -51377,7 +51347,7 @@
     },
     "externalLinks": {},
     "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「小学館漫画賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-08"
   },
   {
     "id": "kimagure-konseputo-kuronikuru",
