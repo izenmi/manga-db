@@ -6356,6 +6356,11 @@
         "awardId": "manga-taisho",
         "year": 2015,
         "result": "10位"
+      },
+      {
+        "awardId": "zenkoku-shoten-in-osusume-comic",
+        "year": 2015,
+        "result": "2015年 第9位"
       }
     ],
     "mediaMix": {
@@ -33786,6 +33791,11 @@
         "awardId": "tezuka-osamu-culture-award",
         "year": 2024,
         "result": "新生賞"
+      },
+      {
+        "awardId": "manga-taisho",
+        "year": 2024,
+        "result": "ノミネート"
       }
     ],
     "mediaMix": {
@@ -33826,6 +33836,11 @@
         "awardId": "tezuka-osamu-culture-award",
         "year": 2025,
         "result": "新生賞"
+      },
+      {
+        "awardId": "manga-taisho",
+        "year": 2024,
+        "result": "ノミネート"
       }
     ],
     "mediaMix": {
@@ -34324,6 +34339,11 @@
         "awardId": "kono-manga-ga-sugoi",
         "year": 2023,
         "result": "2023年版 オトコ版 第2位"
+      },
+      {
+        "awardId": "manga-taisho",
+        "year": 2022,
+        "result": "ノミネート"
       }
     ],
     "mediaMix": {
@@ -36881,7 +36901,8 @@
     "titleKana": "へいわのくにのしまざきえ",
     "originalAuthorIds": [],
     "artistIds": [
-      "hamadagouten"
+      "hamadagouten",
+      "seshimotakeshi"
     ],
     "publisherId": "kodansha",
     "labelId": "morning",
@@ -36900,6 +36921,11 @@
         "awardId": "kono-manga-ga-sugoi",
         "year": 2024,
         "result": "2024年版 オトコ版 第5位"
+      },
+      {
+        "awardId": "manga-taisho",
+        "year": 2023,
+        "result": "ノミネート"
       }
     ],
     "mediaMix": {
@@ -38851,6 +38877,11 @@
         "awardId": "kono-manga-ga-sugoi",
         "year": 2025,
         "result": "2025年版 オンナ版 第1位"
+      },
+      {
+        "awardId": "manga-taisho",
+        "year": 2024,
+        "result": "ノミネート"
       }
     ],
     "mediaMix": {
@@ -40487,6 +40518,11 @@
         "awardId": "kono-manga-ga-sugoi",
         "year": 2025,
         "result": "2025年版 オトコ版 第9位"
+      },
+      {
+        "awardId": "manga-taisho",
+        "year": 2024,
+        "result": "ノミネート"
       }
     ],
     "mediaMix": {
@@ -40911,41 +40947,6 @@
     ],
     "mediaMix": {
       "anime": true,
-      "novelization": false
-    },
-    "externalLinks": {},
-    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
-    "updatedAt": "2026-08-07"
-  },
-  {
-    "id": "kasane-2",
-    "title": "累",
-    "titleKana": "かさね",
-    "originalAuthorIds": [],
-    "artistIds": [
-      "matsuura-daruma"
-    ],
-    "publisherId": "kodansha",
-    "labelId": "evening",
-    "themeIds": [
-      "horror",
-      "suspense-psychological",
-      "romance"
-    ],
-    "firstPublishedYear": 2013,
-    "latestPublishedYear": 2018,
-    "status": "completed",
-    "volumeCount": 14,
-    "synopsis": "今は亡き伝説の女優の娘・累が、顔を交換する口紅を使って舞台に立つ。",
-    "awardResults": [
-      {
-        "awardId": "zenkoku-shoten-in-osusume-comic",
-        "year": 2015,
-        "result": "2015年 第9位"
-      }
-    ],
-    "mediaMix": {
-      "anime": false,
       "novelization": false
     },
     "externalLinks": {},
@@ -42519,5 +42520,1256 @@
     "externalLinks": {},
     "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-08照会)。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "himawari",
+    "title": "ひまわりっ 〜健一レジェンド〜",
+    "titleKana": "ひまわりっ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "higashimura-akiko"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning",
+    "themeIds": [
+      "comedy",
+      "slice-of-life",
+      "school"
+    ],
+    "firstPublishedYear": 2006,
+    "latestPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 13,
+    "synopsis": "鹿児島の高校を舞台に、平凡な男子高校生・健一の日常を描くコメディ。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2008,
+        "result": "ノミネート"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「マンガ大賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "seinto-oniisan-koushiki-komikku-gaido",
+    "title": "聖☆おにいさん",
+    "titleKana": "せいおにいさん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nakamura-hikaru"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning-two",
+    "themeIds": [
+      "comedy",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2006,
+    "latestPublishedYear": 2025,
+    "status": "completed",
+    "volumeCount": 22,
+    "synopsis": "立川のアパートで暮らすブッダとイエスの、下界での日常を描くコメディ。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2009,
+        "result": "ノミネート"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「マンガ大賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "mama-wa-tenparisuto",
+    "title": "ママはテンパリスト",
+    "titleKana": "ままわてんぱりすと",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "higashimura-akiko"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "cookie",
+    "themeIds": [
+      "comedy",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2008,
+    "latestPublishedYear": 2011,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "著者の娘・ごっちゃんとの育児の日々を描くコミックエッセイ。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2009,
+        "result": "ノミネート"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「マンガ大賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "toriko",
+    "title": "トリコ",
+    "titleKana": "とりこ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "shimabukuro-mitsutoshi"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "battle-action",
+      "gourmet",
+      "adventure"
+    ],
+    "firstPublishedYear": 2008,
+    "latestPublishedYear": 2018,
+    "status": "ongoing",
+    "volumeCount": 295,
+    "synopsis": "食材を求めて世界を巡る美食屋トリコと、料理人・小松の冒険を描く。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2009,
+        "result": "ノミネート"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「マンガ大賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "yondemasuyo-azazerusan",
+    "title": "よんでますよ、アザゼルさん。",
+    "titleKana": "よんでますよあざぜるさん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kuboyasuhisa"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "evening",
+    "themeIds": [
+      "comedy",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2008,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 16,
+    "synopsis": "探偵事務所に居候する悪魔アザゼルと、人間たちのやりとりを描くコメディ。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2009,
+        "result": "ノミネート"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「マンガ大賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shitsuren-shokoratie",
+    "title": "失恋ショコラティエ",
+    "titleKana": "しつれんしょこらてぃえ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mizushiro-setona"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "petit-comic",
+    "themeIds": [
+      "romance",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2009,
+    "latestPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 9,
+    "synopsis": "ショコラティエを目指す青年の、報われない恋を描く。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2011,
+        "result": "ノミネート"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「マンガ大賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kokkoku",
+    "title": "刻刻",
+    "titleKana": "こっこく",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "horio-shota"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning",
+    "themeIds": [
+      "sci-fi",
+      "battle-action",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2009,
+    "latestPublishedYear": 2014,
+    "status": "completed",
+    "volumeCount": 8,
+    "synopsis": "時間が止まった世界「止界」に入り込む一族と、そこで起きる争いを描く。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2011,
+        "result": "ノミネート"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「マンガ大賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "omoni-naitemasu",
+    "title": "主に泣いてます",
+    "titleKana": "おもにないてます",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "higashimura-akiko"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning",
+    "themeIds": [
+      "comedy",
+      "slice-of-life",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2010,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "泣き虫な美人・泉こまちをめぐる、東村アキコによるコメディ。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2011,
+        "result": "ノミネート"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「マンガ大賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "work",
+    "title": "SARU",
+    "titleKana": "",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "igarashidaisuke"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "monthly-ikki",
+    "themeIds": [
+      "adventure",
+      "dark-fantasy",
+      "historical"
+    ],
+    "firstPublishedYear": 2010,
+    "latestPublishedYear": 2010,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "五十嵐大介による一巻完結作。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2011,
+        "result": "ノミネート"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「マンガ大賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "25ji-no-bakansu",
+    "title": "25時のバカンス",
+    "titleKana": "25じのばかんす",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ichikawa-haruko"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "afternoon",
+    "themeIds": [
+      "sci-fi",
+      "slice-of-life",
+      "romance"
+    ],
+    "firstPublishedYear": 2011,
+    "latestPublishedYear": 2011,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "市川春子による作品集。表題作ほかを収録する。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2012,
+        "result": "ノミネート"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「マンガ大賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "getenrou",
+    "title": "外天楼",
+    "titleKana": "げてんろう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ishiguro-masakazu"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning-two",
+    "themeIds": [
+      "detective-mystery",
+      "sci-fi",
+      "comedy"
+    ],
+    "firstPublishedYear": 2011,
+    "latestPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "石黒正数による連作。一見ばらばらの短編が、最後に一つの像を結ぶ。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2012,
+        "result": "ノミネート"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「マンガ大賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hibi-rokku",
+    "title": "日々ロック",
+    "titleKana": "ひびろっく",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "enokiyakatsumasa"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "young-jump",
+    "themeIds": [
+      "music",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2010,
+    "latestPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "冴えない青年・日々沼拓郎がバンドに人生を懸ける。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2012,
+        "result": "ノミネート"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「マンガ大賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sanzoku-daiari-riaru-ryoushi-funtouki",
+    "title": "山賊ダイアリー リアル猟師奮闘記",
+    "titleKana": "さんぞくだいありー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "okamotokentarou"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "evening",
+    "themeIds": [
+      "slice-of-life",
+      "animal",
+      "gourmet"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 7,
+    "synopsis": "著者自身の狩猟体験をもとに、猟師の日常を描くコミックエッセイ。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2013,
+        "result": "ノミネート"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「マンガ大賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "bokura-no-funkasai",
+    "title": "ぼくらのフンカ祭",
+    "titleKana": "ぼくらのふんかさい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "shinzoukeigo"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-spirits",
+    "themeIds": [
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2012,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "真造圭伍による、中学生たちのひと夏を描く一巻完結作。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2013,
+        "result": "ノミネート"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「マンガ大賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sayonara-tamachan",
+    "title": "さよならタマちゃん",
+    "titleKana": "さよならたまちゃん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "takeda-kazuyoshi"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "evening",
+    "themeIds": [
+      "slice-of-life",
+      "medical",
+      "comedy"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "武田一義による一巻完結のコミックエッセイ。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2014,
+        "result": "ノミネート"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「マンガ大賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kakukaku-shikajika",
+    "title": "かくかくしかじか",
+    "titleKana": "かくかくしかじか",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "higashimura-akiko"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "cocohana",
+    "themeIds": [
+      "arts",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2011,
+    "latestPublishedYear": 2025,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "漫画家を目指す著者と、絵画教室の恩師との日々を描く自伝的作品。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2015,
+        "result": "大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「マンガ大賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "inosan",
+    "title": "イノサン",
+    "titleKana": "いのさん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "person-648150"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "young-jump",
+    "themeIds": [
+      "historical",
+      "arts",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2020,
+    "status": "ongoing",
+    "volumeCount": 12,
+    "synopsis": "18世紀フランスの死刑執行人サンソン家を描く歴史大作。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2015,
+        "result": "ノミネート"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「マンガ大賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shousetsu-mahoutsukai-no-yome",
+    "title": "魔法使いの嫁",
+    "titleKana": "まほうつかいのよめ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yamazakikore"
+    ],
+    "publisherId": "mag-garden",
+    "labelId": "comic-garden",
+    "themeIds": [
+      "dark-fantasy",
+      "romance",
+      "adventure"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 21,
+    "synopsis": "人ならざる「魔法使い」と、彼に買われた少女チセの物語。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2015,
+        "result": "ノミネート"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「マンガ大賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "domitori-tomokinsu",
+    "title": "ドミトリーともきんす",
+    "titleKana": "どみとりーともきんす",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "takanofumiko"
+    ],
+    "publisherId": "chuokoron-shinsha",
+    "labelId": "morning-two",
+    "themeIds": [
+      "slice-of-life",
+      "arts"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2014,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "不思議な学生寮「ともきんす」に暮らす科学者たちの言葉を描く。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2015,
+        "result": "ノミネート"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「マンガ大賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hyakumanjou-rabirinsu",
+    "title": "百万畳ラビリンス",
+    "titleKana": "ひゃくまんじょうらびりんす",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "takamichi"
+    ],
+    "publisherId": "shonen-gahosha",
+    "labelId": "young-king",
+    "themeIds": [
+      "sci-fi",
+      "suspense-psychological",
+      "school"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "たかみちによる、巨大な建物を舞台にしたSF作品。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2016,
+        "result": "ノミネート"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「マンガ大賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "warera-kontakuti",
+    "title": "我らコンタクティ",
+    "titleKana": "われらこんたくてぃ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "moritarui"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "afternoon",
+    "themeIds": [
+      "sci-fi",
+      "slice-of-life",
+      "romance"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "森田るいによる一巻完結作。ロケット作りを通した二人の関係を描く。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2018,
+        "result": "ノミネート"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「マンガ大賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "meido-in-abisu",
+    "title": "メイドインアビス",
+    "titleKana": "めいどいんあびす",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tsukushiakihito"
+    ],
+    "publisherId": "takeshobo",
+    "labelId": "comic-gamma",
+    "themeIds": [
+      "adventure",
+      "dark-fantasy",
+      "sci-fi"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 15,
+    "synopsis": "巨大な縦穴「アビス」の底を目指す少女リコと、ロボットのレグの冒険。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2018,
+        "result": "ノミネート"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「マンガ大賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sazan-to-suisei-no-shoujo",
+    "title": "サザンと彗星の少女",
+    "titleKana": "さざんとすいせいのしょうじょ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "akaseyuriko"
+    ],
+    "publisherId": "leed-sha",
+    "labelId": "torch-web",
+    "themeIds": [
+      "adventure",
+      "sci-fi",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "赤瀬由里子による、旅する少女を描く作品。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2019,
+        "result": "ノミネート"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「マンガ大賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ii-fuufu",
+    "title": "1122",
+    "titleKana": "いいふうふ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "watanabepeko"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning",
+    "themeIds": [
+      "romance",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2026,
+    "status": "completed",
+    "volumeCount": 7,
+    "synopsis": "結婚10年目の夫婦が、それぞれの関係を問い直す。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2019,
+        "result": "ノミネート"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「マンガ大賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "makumusubi",
+    "title": "まくむすび",
+    "titleKana": "まくむすび",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hotanishin"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "young-jump",
+    "themeIds": [
+      "school",
+      "arts"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2021,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "演劇部を舞台にした、高校生たちの群像を描く。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2020,
+        "result": "ノミネート"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「マンガ大賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ashita-shinu-niwa",
+    "title": "あした死ぬには、",
+    "titleKana": "あしたしぬにわ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "karisumako"
+    ],
+    "publisherId": "ota-shuppan",
+    "labelId": "manga-erotics-f",
+    "themeIds": [
+      "slice-of-life",
+      "workplace-drama",
+      "medical"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "体の不調を抱えたアラフォーの女性たちの日々を描く。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2020,
+        "result": "ノミネート"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「マンガ大賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "jitenshayasan-no-takahashi-kun",
+    "title": "自転車屋さんの高橋くん",
+    "titleKana": "じてんしゃやさんのたかはしくん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "matsumushiarare"
+    ],
+    "publisherId": "leed-sha",
+    "labelId": "torch-web",
+    "themeIds": [
+      "romance",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2025,
+    "status": "completed",
+    "volumeCount": 9,
+    "synopsis": "自転車屋を営む高橋くんと、彼に惹かれるアラサー女性を描く。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2022,
+        "result": "ノミネート"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「マンガ大賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "arisu-dokomademo",
+    "title": "ありす、宇宙までも",
+    "titleKana": "ありすどこまでも",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "urinokiko"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-spirits",
+    "themeIds": [
+      "sci-fi",
+      "romance",
+      "school"
+    ],
+    "firstPublishedYear": 2024,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 7,
+    "synopsis": "売野機子による、宇宙飛行士を目指す若者たちを描く作品。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2025,
+        "result": "大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「マンガ大賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "dan-mitsu",
+    "title": "「壇蜜」",
+    "titleKana": "だんみつ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "seinotooru"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning",
+    "themeIds": [
+      "slice-of-life",
+      "arts",
+      "comedy"
+    ],
+    "firstPublishedYear": 2025,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 3,
+    "synopsis": "清野とおるが、妻である壇蜜との日々を描くコミックエッセイ。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2026,
+        "result": "ノミネート"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「マンガ大賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "jashin-no-bentouyasan",
+    "title": "邪神の弁当屋さん",
+    "titleKana": "じゃしんのべんとうやさん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "person-159049"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "young-magazine",
+    "themeIds": [
+      "gourmet",
+      "dark-fantasy",
+      "comedy"
+    ],
+    "firstPublishedYear": 2025,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 4,
+    "synopsis": "イシコによる、弁当屋を舞台にしたファンタジー。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2026,
+        "result": "ノミネート"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「マンガ大賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "okaeri-suiheisen",
+    "title": "おかえり水平線",
+    "titleKana": "おかえりすいへいせん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "watabetaiyou"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "school",
+      "sports",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2025,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 3,
+    "synopsis": "渡部大羊による、海辺の町を舞台にした青春作品。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2026,
+        "result": "ノミネート"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「マンガ大賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tomodachi-datta-hito",
+    "title": "友達だった人 絹田みや作品集",
+    "titleKana": "ともだちだったひと",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kinutamiya"
+    ],
+    "publisherId": "kobunsha",
+    "labelId": "nettai",
+    "themeIds": [
+      "slice-of-life",
+      "romance"
+    ],
+    "firstPublishedYear": 2025,
+    "latestPublishedYear": 2025,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "絹田みやによる作品集。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2026,
+        "result": "ノミネート"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「マンガ大賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "raiotto",
+    "title": "RIOT",
+    "titleKana": "らいおっと",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tsukadayuuta"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-spirits",
+    "themeIds": [
+      "battle-action",
+      "suspense-psychological",
+      "crime-underworld"
+    ],
+    "firstPublishedYear": 2024,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 4,
+    "synopsis": "塚田ゆうたによるアクション作品。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2026,
+        "result": "ノミネート"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「マンガ大賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "imouto-wa-shitte-iru",
+    "title": "妹は知っている",
+    "titleKana": "いもうとわしっている",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "gangimari"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "young-magazine",
+    "themeIds": [
+      "suspense-psychological",
+      "slice-of-life",
+      "school"
+    ],
+    "firstPublishedYear": 2025,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 7,
+    "synopsis": "雁木万里による、妹をめぐるサスペンス。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2026,
+        "result": "ノミネート"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「マンガ大賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ryuu-no-kawaii-nanatsu-no-ko",
+    "title": "竜のかわいい七つの子",
+    "titleKana": "りゅうのかわいいななつのこ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kui-ryoko"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "comic-beam",
+    "themeIds": [
+      "dark-fantasy",
+      "slice-of-life",
+      "animal"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2012,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "竜と人、人魚と野球少年、神様と小学生——絆を題材にした7つの短編を収める作品集。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2013,
+        "result": "ノミネート"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「マンガ大賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hitokui-manshon-to-ooya-no-mezon",
+    "title": "人喰いマンションと大家のメゾン",
+    "titleKana": "ひとくいまんしょんとおおやのめぞん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "akima"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonenjump-plus",
+    "themeIds": [
+      "adventure",
+      "sci-fi",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2025,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 4,
+    "synopsis": "すべてがリサイクルされる「人喰いマンション」で、大家のメゾンが謎の深層へ向かう。",
+    "awardResults": [
+      {
+        "awardId": "manga-taisho",
+        "year": 2025,
+        "result": "ノミネート"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「マンガ大賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
   }
 ]

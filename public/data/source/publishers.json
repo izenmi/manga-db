@@ -669,5 +669,23 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-08)。",
     "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "chuokoron-shinsha",
+    "name": "中央公論新社",
+    "nameKana": "ちゅうおうこうろんしんしゃ",
+    "description": "1999年に中央公論社を継承して発足した出版社。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "ichigatsu-to-shichigatsu",
+    "name": "1月と7月",
+    "nameKana": "いちがつとしちがつ",
+    "description": "漫画家panpanyaの作品などを刊行する小規模出版社。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
   }
 ]

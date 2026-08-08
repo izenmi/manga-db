@@ -2666,5 +2666,35 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの各サイト記事で運営元を確認。",
     "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "comic-garden",
+    "name": "月刊コミックガーデン",
+    "nameKana": "げっかんこみっくがーでん",
+    "publisherId": "mag-garden",
+    "description": "マッグガーデンが発行する月刊漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの各誌記事で発行元を確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "nettai",
+    "name": "熱帯",
+    "nameKana": "ねったい",
+    "publisherId": "kobunsha",
+    "description": "光文社が運営する漫画レーベル・Webコミック媒体。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの各誌記事で発行元を確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "comic-gamma",
+    "name": "WEBコミックガンマ",
+    "nameKana": "うぇぶこみっくがんま",
+    "publisherId": "takeshobo",
+    "description": "竹書房が運営するWebコミック配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの各誌記事で発行元を確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
   }
 ]

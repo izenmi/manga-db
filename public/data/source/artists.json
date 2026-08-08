@@ -9536,5 +9536,203 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチAPIの書誌の責任表示で確認(2026-08-08)。",
     "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "kuboyasuhisa",
+    "name": "久保保久",
+    "nameKana": "くぼやすひさ",
+    "description": "漫画を手がける漫画家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "igarashidaisuke",
+    "name": "五十嵐大介",
+    "nameKana": "いがらしだいすけ",
+    "description": "漫画を手がける漫画家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "enokiyakatsumasa",
+    "name": "榎屋克優",
+    "nameKana": "えのきやかつまさ",
+    "description": "漫画を手がける漫画家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "okamotokentarou",
+    "name": "岡本健太郎",
+    "nameKana": "おかもとけんたろう",
+    "description": "漫画を手がける漫画家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "person-648150",
+    "name": "坂本眞一",
+    "nameKana": "坂本眞一",
+    "description": "漫画を手がける漫画家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "yamazakikore",
+    "name": "ヤマザキコレ",
+    "nameKana": "やまざきこれ",
+    "description": "漫画を手がける漫画家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "takamichi",
+    "name": "たかみち",
+    "nameKana": "たかみち",
+    "description": "漫画を手がける漫画家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "moritarui",
+    "name": "森田るい",
+    "nameKana": "もりたるい",
+    "description": "漫画を手がける漫画家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tsukushiakihito",
+    "name": "つくしあきひと",
+    "nameKana": "つくしあきひと",
+    "description": "漫画を手がける漫画家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "akaseyuriko",
+    "name": "赤瀬由里子",
+    "nameKana": "あかせゆりこ",
+    "description": "漫画を手がける漫画家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hotanishin",
+    "name": "保谷伸",
+    "nameKana": "ほたにしん",
+    "description": "漫画を手がける漫画家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "karisumako",
+    "name": "雁須磨子",
+    "nameKana": "かりすまこ",
+    "description": "漫画を手がける漫画家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "matsumushiarare",
+    "name": "松虫あられ",
+    "nameKana": "まつむしあられ",
+    "description": "漫画を手がける漫画家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "urinokiko",
+    "name": "売野機子",
+    "nameKana": "うりのきこ",
+    "description": "漫画を手がける漫画家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "seinotooru",
+    "name": "清野とおる",
+    "nameKana": "せいのとおる",
+    "description": "漫画を手がける漫画家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "person-159049",
+    "name": "イシコ",
+    "nameKana": "イシコ",
+    "description": "漫画を手がける漫画家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "watabetaiyou",
+    "name": "渡部大羊",
+    "nameKana": "わたべたいよう",
+    "description": "漫画を手がける漫画家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kinutamiya",
+    "name": "絹田みや",
+    "nameKana": "きぬたみや",
+    "description": "漫画を手がける漫画家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tsukadayuuta",
+    "name": "塚田ゆうた",
+    "nameKana": "つかだゆうた",
+    "description": "漫画を手がける漫画家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "gangimari",
+    "name": "雁木万里",
+    "nameKana": "がんぎまり",
+    "description": "漫画を手がける漫画家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "seshimotakeshi",
+    "name": "瀬下猛",
+    "nameKana": "せしもたけし",
+    "description": "漫画を手がける漫画家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "akima",
+    "name": "あきま",
+    "nameKana": "あきま",
+    "description": "漫画を手がける漫画家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
   }
 ]
