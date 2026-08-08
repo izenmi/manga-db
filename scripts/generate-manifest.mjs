@@ -302,31 +302,6 @@ console.log(
   `generate-manifest: wrote ${works.length} works, ${originalAuthors.length} original authors, ${artists.length} artists, ${publishers.length} publishers, ${labels.length} labels, ${themes.length} themes, ${awards.length} awards`
 );
 
-// ---- generated/search-index.json ----
-// Compact index for the cross-site search page. All four sister sites are served from
-// izenmi.github.io, so in production each site can fetch the others' index with a plain
-// same-origin request — no CORS setup and no backend. Keys are one letter because this file is
-// downloaded whole by /search: i=id, t=title, c=creators, y=year.
-// The index is self-describing (siteName/baseUrl/itemPath) so a consumer can build links into it
-// without hardcoding another site's routing.
-const searchIndex = {
-  site: "manga",
-  siteName: "まんがDB",
-  baseUrl: "https://izenmi.github.io/manga-db",
-  itemPath: "works",
-  items: works.map((w) => ({
-    i: w.id,
-    t: w.title,
-    // 作画家を主に、原作者がいれば併記する(原作つき作品はどちらの名前でも引けたほうがよい)。
-    c: [
-      ...w.artistIds.map((id) => artistsById.get(id).name),
-      ...w.originalAuthorIds.map((id) => originalAuthorsById.get(id).name),
-    ].join("・"),
-    y: w.firstPublishedYear,
-  })),
-};
-writeFileSync(path.join(outDir, "search-index.json"), JSON.stringify(searchIndex), "utf-8");
-console.log(`generate-manifest: wrote search-index.json with ${searchIndex.items.length} items`);
 
 // ---- sitemap.xml ----
 // Lives at the site root (not data/generated/) so it's served at /manga-db/sitemap.xml, but is
@@ -352,8 +327,6 @@ const sitemapEntries = [
   ...labels.map((l) => urlEntry(`/labels/${l.id}`, l.updatedAt?.slice(0, 10))),
   urlEntry("/awards"),
   ...awards.map((a) => urlEntry(`/awards/${a.id}`, a.updatedAt?.slice(0, 10))),
-  urlEntry("/timeline"),
-  urlEntry("/search"),
   urlEntry("/about"),
 ];
 

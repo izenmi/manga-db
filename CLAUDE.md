@@ -177,21 +177,6 @@ react-routerはルート遷移時にスクロール位置を保持したまま�
   生成JSONが大きく膨らむ。詳細ページは`getWorks()`(取得済みキャッシュ)から解決するので追加の通信は発生しない
 - チューニング用の定数は`generate-manifest.mjs`冒頭の`RELATED_COUNT`と各ボーナス値
 
-## 年表ページ `/timeline`(2026-08-06実装)
-
-`firstPublishedYear`(刊行開始年)で作品を年代→年の順にグルーピングして一覧する。姉妹サイト4サイトすべてに同一パターンで実装済み。
-
-- `src/ui/timeline/TimelinePage.tsx`。データはビルド時に何も足しておらず、`getWorks()`(取得済みキャッシュ)を
-  クライアント側でグルーピングするだけなので、`generate-manifest.mjs`側の変更は不要
-- **年ラベルは既存の`.winner-year`ピルを流用**しているので、年ごとの色ローテーションはアワード系ページと一致する。
-  `colorForYear()`(`src/ui/common/yearColor.ts`)をそのまま使う
-- 年代ジャンプは素の`<a href="#decade-1990">`。React Routerは介在せずブラウザがハッシュ移動するだけなので、
-  `ScrollToTop`(pathname監視)とは競合しない。固定ヘッダーに隠れないよう`.timeline-decade`に`scroll-margin-top`を置いている
-- 並び順は既定が古い順、`useState`のトグルで新しい順に切り替わる(URLには持たせていない)
-- **年内の並びはタイトルの五十音順。works.jsonが刊行年しか持たないため、それ以上細かくは並べられない**
-- ルート追加時に触る必要があるのは4箇所: `src/App.tsx`(Route)、`src/ui/common/TopNav.tsx`(ナビ)、
-  `scripts/prerender.mjs`の`routes`配列、`scripts/generate-manifest.mjs`の`sitemapEntries`。
-  **プリレンダーとsitemapは手書きの配列なので、新しい静的ルートを足したら必ず両方に追記すること**
 
 ## 原作↔コミカライズ相互リンク(2026-08-06実装)
 
@@ -214,25 +199,6 @@ react-routerはルート遷移時にスクロール位置を保持したまま�
 - **姉妹サイト名はURLから導く**(`/mystery-db/`を含むか)。別フィールドに持つと二重管理になるため
 - 2026-08-06時点の突合結果: **36件**(ranobe-db 31件 / mystery-db 5件)
 
-## 4サイト横断検索 `/search`(2026-08-06実装)
-
-4サイト(らのべDB・まんがDB・ミステリDB・ゲームDB)をまとめて検索するページ。バックエンドは無く、
-各サイトが出力する索引JSONをブラウザが読み比べるだけで成立している。
-
-- **各サイトが`public/data/generated/search-index.json`を出力する**(`scripts/generate-manifest.mjs`の
-  末尾、sitemap生成の直前)。`.gitignore`対象でビルドのたびに再生成される。キーは1文字
-  (`i`=id / `t`=タイトル / `c`=制作者 / `y`=年)で、`/search`が丸ごとダウンロードするため小さくしてある。
-  現在のサイズは4サイト合計で約236KB(gzipで約70KB)
-- **索引は自己記述的**(`siteName`/`baseUrl`/`itemPath`を持つ)。消費側が他サイトのルーティングを
-  ハードコードせずにリンクを組み立てられるようにするため。ゲームDBだけ`itemPath`が`games`
-- **4サイトとも`izenmi.github.io`配下なので、本番では同一オリジンのfetchで済む**。CORS設定もサーバーも要らない。
-  これがこの構成を選んだ最大の理由
-- **自サイトの索引だけは`import.meta.env.BASE_URL`から読む**。`npm run dev`とプリレンダー(どちらもlocalhost)で
-  本番URLを叩いても自分の最新データにならないため
-- **`Promise.allSettled`で読み込み、失敗したサイトは黙って除外する**。姉妹サイトのデプロイ失敗・オフライン・
-  ローカル開発でも検索が壊れないようにするため。読み込めなかった件数はページ上に注記として出す
-- 1文字クエリはカタログの大半に一致してしまうので、**1サイトあたり40件で打ち切り**、件数の注記を出す
-- `src/ui/search/CrossSearchPage.tsx`。他サイトへ移植する際に変える必要があるのは`SELF_SITE`定数だけ
 
 ## 既知の未着手事項
 

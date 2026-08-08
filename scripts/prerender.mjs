@@ -47,8 +47,6 @@ const routes = [
   ...labels.map((l) => `/labels/${l.id}`),
   "/awards",
   ...awards.map((a) => `/awards/${a.id}`),
-  "/timeline",
-  "/search",
   "/about",
 ];
 
