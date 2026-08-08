@@ -1119,6 +1119,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T00:17:19.460Z"
   },
+  "buranku-supesu": {
+    "title": "ブランクスペース",
+    "isbn": "9784864687775",
+    "matchedTitle": "ブランクスペース（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7775/9784864687775.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T01:04:33.751Z"
+  },
   "busou-renkin": {
     "title": "武装錬金",
     "isbn": null,
@@ -1256,6 +1264,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9203/2000000079203.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-03T23:23:20.534Z"
+  },
+  "chijou-wa-poketto-no-naka-no-niwa": {
+    "title": "地上はポケットの中の庭",
+    "isbn": null,
+    "matchedTitle": "地上はポケットの中の庭",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0400/2000000160400.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-08T01:04:31.379Z"
   },
   "chinju-no-oishasan": {
     "title": "珍獣のお医者さん",
@@ -2071,6 +2087,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-02T14:12:17.977Z"
   },
+  "furawa-obu-raifu": {
+    "title": "フラワー・オブ・ライフ",
+    "isbn": null,
+    "matchedTitle": "フラワー・オブ・ライフ 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5513/2000017355513.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-08T01:04:24.326Z"
+  },
   "fushigi-no-kuni-no-bird": {
     "title": "ふしぎの国のバード",
     "isbn": "9784047305137",
@@ -2254,6 +2278,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3726/2000000133726.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-02T09:37:18.044Z"
+  },
+  "gente": {
+    "title": "GENTE〜リストランテの人々〜",
+    "isbn": "9784778323417",
+    "matchedTitle": "GENTE〜リストランテの人々〜【新装版】 上",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3417/9784778323417_1_13.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T01:04:36.206Z"
   },
   "geobreeders": {
     "title": "ジオブリーダーズ",
@@ -3297,6 +3329,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T00:05:48.652Z"
   },
+  "ie-ga-suki-na-hito": {
+    "title": "家が好きな人",
+    "isbn": null,
+    "matchedTitle": "家が好きな人",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6963/2000012396963.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-08T01:04:47.198Z"
+  },
   "ijiranaide-nagatoro-san": {
     "title": "イジらないで、長瀞さん",
     "isbn": "9784065153055",
@@ -3358,6 +3398,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7382/9784065217382.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-06T23:15:58.537Z"
+  },
+  "inu-to-neko-docchimo-katteruto-mainichi-tanoshii": {
+    "title": "犬と猫どっちも飼ってると毎日たのしい",
+    "isbn": "9784065117750",
+    "matchedTitle": "犬と猫どっちも飼ってると毎日たのしい（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7750/9784065117750_1_7.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T01:04:34.923Z"
   },
   "inu-x-boku-ss": {
     "title": "妖狐×僕SS",
@@ -3484,6 +3532,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3372/9784047373372_1_4.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T23:29:01.010Z"
+  },
+  "jaaantagatsukuttemiroyobunsatsuban001": {
+    "title": "じゃあ、あんたが作ってみろよ",
+    "isbn": "9784821157204",
+    "matchedTitle": "じゃあ、あんたが作ってみろよ（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7204/9784821157204_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T01:04:14.829Z"
   },
   "jagaan": {
     "title": "ジャガーン",
@@ -4217,6 +4273,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-06T23:57:56.905Z"
   },
+  "ki-ni-natteru-hito-ga-otoko-ja-nakatta": {
+    "title": "気になってる人が男じゃなかった",
+    "isbn": null,
+    "matchedTitle": "気になってる人が男じゃなかった VOL.1【電子特典付き】",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4280/2000012794280.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-08T01:04:10.094Z"
+  },
   "kidou-senshi-gundam-the-origin": {
     "title": "機動戦士ガンダム THE ORIGIN",
     "isbn": "9784047134539",
@@ -4278,6 +4342,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2640/2000006062640.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-06T23:57:29.453Z"
+  },
+  "kimi-o-shinasenai-tame-no-sutoria": {
+    "title": "きみを死なせないための物語",
+    "isbn": null,
+    "matchedTitle": "きみを死なせないための物語　1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5517/2000005075517.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-08T01:04:51.879Z"
   },
   "kimi-o-wasureru-koi-ga-shitai": {
     "title": "君を忘れる恋がしたい",
@@ -4374,6 +4446,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7548/9784063727548_1_9.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-02T09:37:51.087Z"
+  },
+  "kirio-fan-kurabu": {
+    "title": "霧尾ファンクラブ",
+    "isbn": "9784408640761",
+    "matchedTitle": "霧尾ファンクラブ（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0761/9784408640761_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T01:04:32.552Z"
   },
   "kiruao": {
     "title": "キルアオ",
@@ -5057,6 +5137,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-02T09:04:37.577Z"
   },
+  "mai-burokun-mariko": {
+    "title": "マイ・ブロークン・マリコ",
+    "isbn": null,
+    "matchedTitle": "マイ・ブロークン・マリコ【分冊版】　1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5174/2000010965174.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-08T01:04:18.366Z"
+  },
   "maihime-terepushikora": {
     "title": "舞姫 テレプシコーラ",
     "isbn": "9784040660929",
@@ -5326,6 +5414,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5044/9784197805044.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-06T23:47:38.947Z"
+  },
+  "metamorufoze-no-engawa": {
+    "title": "メタモルフォーゼの縁側",
+    "isbn": "9784041073506",
+    "matchedTitle": "メタモルフォーゼの縁側（2）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3506/9784041073506.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T01:04:06.553Z"
   },
   "midori-no-makibao": {
     "title": "みどりのマキバオー",
@@ -5891,6 +5987,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-02T09:04:53.873Z"
   },
+  "ojisama-to-neko": {
+    "title": "おじさまと猫",
+    "isbn": "9784757556263",
+    "matchedTitle": "おじさまと猫（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6263/9784757556263.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T01:04:26.717Z"
+  },
   "okaeri-alice": {
     "title": "おかえりアリス",
     "isbn": null,
@@ -6407,6 +6511,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-08T00:39:59.619Z"
   },
+  "rairairai": {
+    "title": "雷雷雷",
+    "isbn": "9784098530014",
+    "matchedTitle": "雷雷雷（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0014/9784098530014_1_24.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T01:04:43.654Z"
+  },
   "raise-wa-tanin-ga-ii": {
     "title": "来世は他人がいい",
     "isbn": "9784065103760",
@@ -6565,6 +6677,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-06T23:47:58.616Z"
   },
+  "risutorante-paradizo": {
+    "title": "リストランテ・パラディーゾ",
+    "isbn": "9784778323400",
+    "matchedTitle": "リストランテ・パラディーゾ　【新装版】",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3400/9784778323400_1_35.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T01:04:25.501Z"
+  },
   "rivers-edge": {
     "title": "リバーズ・エッジ",
     "isbn": "9784800242389",
@@ -6684,6 +6804,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2632/9784065282632_1_2.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T00:25:37.916Z"
+  },
+  "sabishisugite-rezu-fuuzoku-ni-ikimashita-repo": {
+    "title": "さびしすぎてレズ風俗に行きましたレポ",
+    "isbn": "9784781614427",
+    "matchedTitle": "さびしすぎてレズ風俗に行きましたレポ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4427/9784781614427.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T01:04:12.446Z"
   },
   "sachi-no-otera-gohan": {
     "title": "サチのお寺ごはん",
@@ -6892,6 +7020,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6334/2000005446334.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-07T00:16:28.203Z"
+  },
+  "satoko-to-nada": {
+    "title": "サトコとナダ",
+    "isbn": "9784063695724",
+    "matchedTitle": "サトコとナダ　1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5724/9784063695724_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T01:04:11.270Z"
   },
   "satsuriku-no-tenshi": {
     "title": "殺戮の天使",
@@ -7243,6 +7379,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T00:24:09.700Z"
   },
+  "shinya-no-damekoi-zukan": {
+    "title": "深夜のダメ恋図鑑",
+    "isbn": "9784091373427",
+    "matchedTitle": "深夜のダメ恋図鑑",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3427/9784091373427_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T01:04:19.543Z"
+  },
   "shinya-shokudo": {
     "title": "深夜食堂",
     "isbn": "9784091817075",
@@ -7267,6 +7411,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-06T23:33:50.743Z"
   },
+  "shiota-sensei-to-amaichan": {
+    "title": "塩田先生と雨井ちゃん",
+    "isbn": "9784781613048",
+    "matchedTitle": "塩田先生と雨井ちゃん",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3048/9784781613048.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T01:04:20.715Z"
+  },
   "shippo-machi-no-koo-sensei": {
     "title": "しっぽ街のコオ先生",
     "isbn": "9784420153614",
@@ -7290,6 +7442,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0917/2000006060917.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-02T09:37:53.427Z"
+  },
+  "shissou-nikki": {
+    "title": "失踪日記",
+    "isbn": "9784872575330",
+    "matchedTitle": "失踪日記",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5330/9784872575330_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T01:04:13.621Z"
   },
   "shiyakusho": {
     "title": "死役所",
@@ -7681,6 +7841,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-07T00:24:55.827Z"
   },
+  "supa-no-ura-de-yani-suu-futari": {
+    "title": "スーパーの裏でヤニ吸うふたり",
+    "isbn": "9784757580947",
+    "matchedTitle": "スーパーの裏でヤニ吸うふたり（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0947/9784757580947_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T01:04:48.377Z"
+  },
   "super-doctor-k": {
     "title": "スーパードクターK",
     "isbn": null,
@@ -7743,6 +7911,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-07T00:15:06.092Z"
   },
+  "taimu-surippu-otagaru": {
+    "title": "タイムスリップオタガール",
+    "isbn": "9784866750088",
+    "matchedTitle": "タイムスリップオタガール（3）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0088/9784866750088.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T01:04:27.905Z"
+  },
   "taiyo-no-mokushiroku": {
     "title": "太陽の黙示録",
     "isbn": null,
@@ -7782,6 +7958,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0490/9784088830490_1_3.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T22:29:12.827Z"
+  },
+  "tamaki-to-amane": {
+    "title": "環と周",
+    "isbn": "9784088448398",
+    "matchedTitle": "環と周",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8398/9784088448398_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T01:04:04.206Z"
   },
   "tamayomi": {
     "title": "球詠",
@@ -8478,6 +8662,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7054/9784088917054.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T00:17:36.775Z"
+  },
+  "umi-ga-hashiru-endo-roru": {
+    "title": "海が走るエンドロール",
+    "isbn": "9784253265218",
+    "matchedTitle": "海が走るエンドロール 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5218/9784253265218_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T01:04:05.380Z"
   },
   "umibe-no-sutobu-ooshiro-kogani-tanpenshuu": {
     "title": "うみべのストーブ 大白小蟹短編集",
