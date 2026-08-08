@@ -121,6 +121,8 @@ export interface WorkGenerated extends WorkSource {
   coverUrl?: string;
   /** covers-cache が解決したISBN。購入リンクの商品ページ直リンクに使う。 */
   isbn?: string;
+  /** 楽天ブックスの商品ページURL。購入リンクをここへ直リンクする。 */
+  rakutenItemUrl?: string;
   /** Ids of similar works, best first, computed at build time by generate-manifest.mjs.
    *  Only present in generated/works.json — the copies embedded in the cross-reference lists
    *  omit it to keep those files small. */

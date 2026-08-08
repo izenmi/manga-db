@@ -83,9 +83,14 @@ function isbn13to10(isbn13?: string): string | undefined {
 
 /** 楽天ブックスへの購入リンク。ISBNがあればISBN検索(その本に直行する)、なければタイトル+著者検索。
  *  RAKUTEN_AFFILIATE_ID が設定されていれば hb.afl.rakuten.co.jp のアフィリエイトリンクで包む。 */
-export function rakutenBooksUrl(title: string, extra?: string, isbn?: string): string {
-  const sitem = isbn ? isbn.replace(/[^0-9Xx]/g, "") : extra ? `${title} ${extra}` : title;
-  const target = `https://books.rakuten.co.jp/search?sitem=${encodeURIComponent(sitem)}`;
+export function rakutenBooksUrl(title: string, extra?: string, isbn?: string, itemUrl?: string): string {
+  // 商品ページURL(scripts/fetch-rakuten-links.mjs が covers-cache に保存したもの)があれば直リンク。
+  // 無ければISBN検索 → タイトル+著者検索の順に落とす。
+  const target =
+    itemUrl ??
+    `https://books.rakuten.co.jp/search?sitem=${encodeURIComponent(
+      isbn ? isbn.replace(/[^0-9Xx]/g, "") : extra ? `${title} ${extra}` : title,
+    )}`;
   if (!RAKUTEN_AFFILIATE_ID) return target;
   const encoded = encodeURIComponent(target);
   return `https://hb.afl.rakuten.co.jp/hgc/${RAKUTEN_AFFILIATE_ID}/?pc=${encoded}&m=${encoded}`;

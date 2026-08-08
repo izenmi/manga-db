@@ -176,6 +176,8 @@ const worksGenerated = works.map((w) => ({
   coverUrl: coversCache[w.id]?.coverUrl ?? undefined,
   // 購入リンクを商品ページへ直リンクするために使う(covers-cache が解決したISBN)
   isbn: coversCache[w.id]?.isbn ?? undefined,
+  // 楽天ブックスの商品ページURL(購入リンクの直リンク用)
+  rakutenItemUrl: coversCache[w.id]?.rakutenItemUrl ?? undefined,
 }));
 
 // Cross-reference lists (original-author/artist/publisher/theme pages) embed the full

@@ -2626,5 +2626,45 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌および各作品の連載情報で確認(2026-08-08)。",
     "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "cheese",
+    "name": "Cheese!",
+    "nameKana": "ちーず",
+    "publisherId": "shogakukan",
+    "description": "小学館が発行する少女漫画雑誌。『Sho-Comi』の姉妹誌として1996年創刊。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『Cheese!』で創刊年・発行元を確認。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "comic-howl",
+    "name": "comic HOWL",
+    "nameKana": "こみっくはうる",
+    "publisherId": "ichijinsha",
+    "description": "一迅社が運営するWebコミック配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの各サイト記事で運営元を確認。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "manga-cross",
+    "name": "マンガクロス",
+    "nameKana": "まんがくろす",
+    "publisherId": "akita-shoten",
+    "description": "秋田書店が運営するWebコミック配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの各サイト記事で運営元を確認。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "comic-days",
+    "name": "コミックDAYS",
+    "nameKana": "こみっくでいず",
+    "publisherId": "kodansha",
+    "description": "講談社が運営するWebコミック配信サイト・電子雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの各サイト記事で運営元を確認。",
+    "updatedAt": "2026-08-08"
   }
 ]

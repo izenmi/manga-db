@@ -41539,5 +41539,950 @@
     "externalLinks": {},
     "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
     "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "konoyohatatakaukachigaarutanwa",
+    "title": "この世は戦う価値がある",
+    "titleKana": "このよはたたかうかちがあるたんわ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kodamahatsumi"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-spirits",
+    "themeIds": [
+      "comedy",
+      "workplace-drama",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2023,
+    "latestPublishedYear": 2025,
+    "status": "ongoing",
+    "volumeCount": 53,
+    "synopsis": "限界OLの人生総決算——働くことと生きることを笑いに変えたコメディ。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2025,
+        "result": "2025年版 オトコ版 第8位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "okazaki-ni-sasagu",
+    "title": "岡崎に捧ぐ",
+    "titleKana": "おかざきにささぐ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yamamotosaho"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-superior",
+    "themeIds": [
+      "comedy",
+      "slice-of-life",
+      "school"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "著者と友人・岡崎さんの小学生時代からの関係を、赤裸々に描いたコミックエッセイ。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2016,
+        "result": "2016年版 オトコ版 第8位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "pintokona",
+    "title": "ぴんとこな",
+    "titleKana": "ぴんとこな",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "shimakiako"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "cheese",
+    "themeIds": [
+      "arts",
+      "romance",
+      "school"
+    ],
+    "firstPublishedYear": 2010,
+    "latestPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 16,
+    "synopsis": "歌舞伎界の名門に生まれた御曹司と、彼を取り巻く人々を描く。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2012,
+        "result": "2012年版 オンナ版 第8位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "buranchi-rain",
+    "title": "ブランチライン",
+    "titleKana": "ぶらんちらいん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ikebeaoi"
+    ],
+    "publisherId": "shodensha",
+    "labelId": "feel-young",
+    "themeIds": [
+      "slice-of-life",
+      "romance",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 8,
+    "synopsis": "4姉妹と母。それぞれの人生を静かな筆致で描く群像。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2022,
+        "result": "2022年版 オンナ版 第9位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kieta-hatsukoi",
+    "title": "消えた初恋",
+    "titleKana": "きえたはつこい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hinekurewataru"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "margaret",
+    "themeIds": [
+      "romance",
+      "school",
+      "comedy"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2023,
+    "status": "completed",
+    "volumeCount": 9,
+    "synopsis": "インターネット発の投稿から生まれた、勘違いから始まる高校生の恋を描くラブコメディ。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2021,
+        "result": "2021年版 オンナ版 第9位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "yubisaki-to-renren",
+    "title": "ゆびさきと恋々",
+    "titleKana": "ゆびさきとれんれん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "morishitasuu"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "dessert",
+    "themeIds": [
+      "romance",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 14,
+    "synopsis": "耳の聞こえない女子大生・糸瀬雪と、多言語を操る先輩の恋を描く。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2021,
+        "result": "2021年版 オンナ版 第9位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "panda-tanteisha",
+    "title": "パンダ探偵社",
+    "titleKana": "ぱんだたんていしゃ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "sawaeponpu"
+    ],
+    "publisherId": "leed-sha",
+    "labelId": "torch-web",
+    "themeIds": [
+      "detective-mystery",
+      "comedy",
+      "animal"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "パンダの姿になってしまった探偵を主人公にした、現代の変身物語。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2020,
+        "result": "2020年版 オトコ版 第9位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ookii-inu",
+    "title": "大きい犬",
+    "titleKana": "おおきいいぬ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "sukerakko"
+    ],
+    "publisherId": "leed-sha",
+    "labelId": "torch-web",
+    "themeIds": [
+      "animal",
+      "comedy",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "犬好きの高田くんが、ひょんなことから大きな犬と暮らすことになる。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2018,
+        "result": "2018年版 オンナ版 第9位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "onnoji",
+    "title": "オンノジ",
+    "titleKana": "おんのじ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "shikawayuuki"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "young-champion",
+    "themeIds": [
+      "comedy",
+      "slice-of-life",
+      "sci-fi"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "ある日突然、世界から人がいなくなった。残された一人と一羽の日常を描く。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2014,
+        "result": "2014年版 オトコ版 第9位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kimi-ga-kokoro-ni-sumitsuita",
+    "title": "きみが心に棲みついた",
+    "titleKana": "きみがこころにすみついた",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tendoukirin"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "feel-young",
+    "themeIds": [
+      "romance",
+      "workplace-drama",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2012,
+    "latestPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 9,
+    "synopsis": "下着メーカーに勤める小川今日子と、彼女を翻弄する男たちの関係を描く。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2013,
+        "result": "2013年版 オンナ版 第9位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ore-wa-mada-honki-dashitenai-dake",
+    "title": "俺はまだ本気出してないだけ",
+    "titleKana": "おれわまだほんきだしてないだけ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "aonoshunjuu"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "ikki",
+    "themeIds": [
+      "comedy",
+      "slice-of-life",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2007,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "会社員・大黒シズオが、15年勤めた会社を辞めて漫画家を目指す。",
+    "awardResults": [
+      {
+        "awardId": "kono-manga-ga-sugoi",
+        "year": 2009,
+        "result": "2009年版 オトコ版 第9位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このマンガがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "watashi-no-shiawasena-kekkon",
+    "title": "わたしの幸せな結婚",
+    "titleKana": "わたしのしあわせなけっこん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kousakarito"
+    ],
+    "publisherId": "square-enix",
+    "labelId": "gangan-online",
+    "themeIds": [
+      "romance",
+      "historical",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2019,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 6,
+    "synopsis": "異能を宿す家系に生まれながら力を持たず、虐げられて育った斎森美世。冷酷と噂される軍人・久堂清霞のもとへ嫁ぐことになる。",
+    "awardResults": [
+      {
+        "awardId": "zenkoku-shoten-in-osusume-comic",
+        "year": 2021,
+        "result": "2021年 第1位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "isekai-de-ane-ni-namae-o-ubawaremashita",
+    "title": "異世界で姉に名前を奪われました",
+    "titleKana": "いせかいであねになまえおうばわれました",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kotoko"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "comic-walker",
+    "themeIds": [
+      "isekai",
+      "dark-fantasy",
+      "romance"
+    ],
+    "firstPublishedYear": 2022,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 5,
+    "synopsis": "異世界に転移した一花は、「イチカ」を名乗って聖女となっていた姉と再会する。奪われた名前をめぐる物語。",
+    "awardResults": [
+      {
+        "awardId": "zenkoku-shoten-in-osusume-comic",
+        "year": 2024,
+        "result": "2024年 第3位"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "doukyonin-wa-hiza-tokidoki-atama-no-ue",
+    "title": "同居人はひざ、時々、頭のうえ。",
+    "titleKana": "どうきょにんわひざときどきあたまのうえ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "futatsuyaasu"
+    ],
+    "publisherId": "flex-comix",
+    "labelId": "polaris-comics",
+    "themeIds": [
+      "animal",
+      "slice-of-life",
+      "comedy"
+    ],
+    "firstPublishedYear": 2015,
+    "latestPublishedYear": 2025,
+    "status": "completed",
+    "volumeCount": 12,
+    "synopsis": "ミステリー作家の青年が、墓参りの折に出会った野良猫を飼い始める。人と猫、それぞれの視点で描かれる同居生活。",
+    "awardResults": [
+      {
+        "awardId": "zenkoku-shoten-in-osusume-comic",
+        "year": 2018,
+        "result": "全国書店員が選んだおすすめコミック"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "niche-sensei-konbini-ni-satori-sedai-no-shinjin",
+    "title": "ニーチェ先生",
+    "titleKana": "にーちぇせんせい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "matsukoma"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "monthly-comic-gene",
+    "themeIds": [
+      "comedy",
+      "slice-of-life",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2014,
+    "latestPublishedYear": 2026,
+    "status": "completed",
+    "volumeCount": 24,
+    "synopsis": "架空のコンビニを舞台に、感情に正直なアルバイト青年と、心中でツッコミ続ける先輩を中心に描く。",
+    "awardResults": [
+      {
+        "awardId": "zenkoku-shoten-in-osusume-comic",
+        "year": 2015,
+        "result": "全国書店員が選んだおすすめコミック"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "chi-chikyuu-no-undou-ni-tsuite",
+    "title": "チ。 -地球の運動について-",
+    "titleKana": "ち。ちきゅうのうんどうについて",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "uoto"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-spirits",
+    "themeIds": [
+      "historical",
+      "arts",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": null,
+    "status": "completed",
+    "volumeCount": 8,
+    "synopsis": "15世紀ヨーロッパのP王国。地動説の研究が異端とされる時代に、それでも真理を追い求めた人々を描く。",
+    "awardResults": [
+      {
+        "awardId": "zenkoku-shoten-in-osusume-comic",
+        "year": 2021,
+        "result": "全国書店員が選んだおすすめコミック"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "meitantei-konan-zero-no-ti-taimu",
+    "title": "名探偵コナンゼロの日常",
+    "titleKana": "めいたんていこなんぜろのてぃーたいむ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "araitakahiro"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "detective-mystery",
+      "spy-action",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2022,
+    "status": "ongoing",
+    "volumeCount": 6,
+    "synopsis": "公安・降谷零、探偵・安室透、黒ずくめのバーボン——3つの顔を持つ男の日常を描く公式スピンオフ。",
+    "awardResults": [
+      {
+        "awardId": "zenkoku-shoten-in-osusume-comic",
+        "year": 2019,
+        "result": "2019年 第6位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "fuuto-tantei",
+    "title": "風都探偵",
+    "titleKana": "ふうとたんてい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "satoumasaki"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-spirits",
+    "themeIds": [
+      "battle-action",
+      "detective-mystery",
+      "sci-fi"
+    ],
+    "firstPublishedYear": 2018,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 65,
+    "synopsis": "『仮面ライダーW』の後日譚。風都に残るガイアメモリと、鳴海探偵事務所の面々の戦いを描く。",
+    "awardResults": [
+      {
+        "awardId": "zenkoku-shoten-in-osusume-comic",
+        "year": 2020,
+        "result": "全国書店員が選んだおすすめコミック"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "arusuran-senki-daiisshou-ekubatana-no-eiga",
+    "title": "アルスラーン戦記",
+    "titleKana": "あるすらーんせんき",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "arakawa-hiromu"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "bessatsu-shonen-magazine",
+    "themeIds": [
+      "historical",
+      "war-military",
+      "adventure"
+    ],
+    "firstPublishedYear": 2013,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 24,
+    "synopsis": "大陸公路の強国パルスの若き王子アルスラーン。王都陥落を機に、彼の運命が大きく動き出す。",
+    "awardResults": [
+      {
+        "awardId": "zenkoku-shoten-in-osusume-comic",
+        "year": 2015,
+        "result": "2015年 第8位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hen-na-ie",
+    "title": "変な家",
+    "titleKana": "へんないえ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ayanokyou"
+    ],
+    "publisherId": "ichijinsha",
+    "labelId": "comic-howl",
+    "themeIds": [
+      "suspense-psychological",
+      "horror",
+      "detective-mystery"
+    ],
+    "firstPublishedYear": 2023,
+    "latestPublishedYear": 2026,
+    "status": "completed",
+    "volumeCount": 7,
+    "synopsis": "不可解な間取りの一軒家。図面に隠された意図を追ううちに、事件の輪郭が浮かび上がる。",
+    "awardResults": [
+      {
+        "awardId": "zenkoku-shoten-in-osusume-comic",
+        "year": 2023,
+        "result": "全国書店員が選んだおすすめコミック"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "paripi-koumei",
+    "title": "パリピ孔明",
+    "titleKana": "ぱりぴこうめい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "person-829757"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "young-magazine-third",
+    "themeIds": [
+      "comedy",
+      "music",
+      "historical"
+    ],
+    "firstPublishedYear": 2020,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 25,
+    "synopsis": "五丈原で病死した諸葛亮孔明が、若き姿で現代の渋谷に転生。駆け出しシンガーの軍師として活躍する。",
+    "awardResults": [
+      {
+        "awardId": "zenkoku-shoten-in-osusume-comic",
+        "year": 2021,
+        "result": "2021年 第9位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "baiorensu-akushon",
+    "title": "バイオレンスアクション",
+    "titleKana": "ばいおれんすあくしょん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "person-56809"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "manga-one",
+    "themeIds": [
+      "battle-action",
+      "crime-underworld",
+      "comedy"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2022,
+    "status": "completed",
+    "volumeCount": 7,
+    "synopsis": "暴力団抗争の渦中に現れる、ゆるふわな見た目の殺し屋の少女を描くアクション。",
+    "awardResults": [
+      {
+        "awardId": "zenkoku-shoten-in-osusume-comic",
+        "year": 2020,
+        "result": "全国書店員が選んだおすすめコミック"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "angou-gakuen-no-iroha",
+    "title": "暗号学園のいろは",
+    "titleKana": "あんごうがくえんのいろは",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "iwasakiyuuji"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "battle-action",
+      "school",
+      "comedy"
+    ],
+    "firstPublishedYear": 2023,
+    "latestPublishedYear": 2024,
+    "status": "ongoing",
+    "volumeCount": 7,
+    "synopsis": "来たる世界大戦に備え、暗号解読に長けた者が集う軍人学校。入学したいろは坂いろはが暗号バトルに挑む。",
+    "awardResults": [
+      {
+        "awardId": "zenkoku-shoten-in-osusume-comic",
+        "year": 2023,
+        "result": "全国書店員が選んだおすすめコミック"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "doragon-ie-o-kau",
+    "title": "ドラゴン、家を買う。",
+    "titleKana": "どらごん、いえおかう。",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ayashouko"
+    ],
+    "publisherId": "mag-garden",
+    "labelId": "monthly-comic-blade",
+    "themeIds": [
+      "isekai",
+      "slice-of-life",
+      "comedy"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2023,
+    "status": "ongoing",
+    "volumeCount": 10,
+    "synopsis": "一族から勘当された臆病なドラゴンのレティが、エルフの建築士とともに理想のマイホームを探す内見の旅。",
+    "awardResults": [
+      {
+        "awardId": "zenkoku-shoten-in-osusume-comic",
+        "year": 2019,
+        "result": "全国書店員が選んだおすすめコミック"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "katainaka-no-ossan-kensei-ni-naru-tada-no-inaka",
+    "title": "片田舎のおっさん、剣聖になる",
+    "titleKana": "かたいなかのおっさんけんせいになる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "satoukazuki"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "manga-cross",
+    "themeIds": [
+      "isekai",
+      "battle-action",
+      "comedy"
+    ],
+    "firstPublishedYear": 2022,
+    "latestPublishedYear": 2026,
+    "status": "ongoing",
+    "volumeCount": 9,
+    "synopsis": "片田舎で剣術道場を営むベリルは、王国騎士団長となった元教え子に請われ、王都で特別指南役を務めることになる。",
+    "awardResults": [
+      {
+        "awardId": "zenkoku-shoten-in-osusume-comic",
+        "year": 2023,
+        "result": "全国書店員が選んだおすすめコミック"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "toratsugumi-tsugumi-purojekuto",
+    "title": "虎鶫",
+    "titleKana": "とらつぐみ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ippatsu"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "comic-days",
+    "themeIds": [
+      "adventure",
+      "dark-fantasy",
+      "sci-fi"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2023,
+    "status": "ongoing",
+    "volumeCount": 7,
+    "synopsis": "ippatuによるダークファンタジー。2021年よりコミックDAYSで連載。",
+    "awardResults": [
+      {
+        "awardId": "zenkoku-shoten-in-osusume-comic",
+        "year": 2022,
+        "result": "全国書店員が選んだおすすめコミック"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "rooji-koibana",
+    "title": "路地恋花",
+    "titleKana": "ろぉじこいばな",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "asou-mikoto"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "good-afternoon",
+    "themeIds": [
+      "romance",
+      "slice-of-life",
+      "arts"
+    ],
+    "firstPublishedYear": 2010,
+    "latestPublishedYear": 2012,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "京都の古い長屋に集まった若者たちの、恋と創作の日々を描く連作。",
+    "awardResults": [
+      {
+        "awardId": "zenkoku-shoten-in-osusume-comic",
+        "year": 2010,
+        "result": "全国書店員が選んだおすすめコミック"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「全国書店員が選んだおすすめコミック」の受賞作一覧で確認(2026-08-08照会)。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-08"
   }
 ]
