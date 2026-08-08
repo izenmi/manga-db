@@ -4,6 +4,7 @@ import { getTheme } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
 import { WorkCard } from "../common/WorkCard";
+import { matchesKeyword, themeOptionsOf } from "../common/useWorkFilter";
 import { BASE_PATH, breadcrumbJsonLd, useSeo } from "../common/useSeo";
 
 const STATUS_OPTIONS: { value: string; label: string }[] = [
@@ -50,14 +51,25 @@ export function ThemeDetailPage() {
   });
 
   const [params, setParams] = useSearchParams();
+  const q = params.get("q") ?? "";
+  // このページ自身のテーマは全作品が持っていて絞り込みにならないので選択肢から外す
+  const other = params.get("theme") ?? "";
   const status = params.get("status") ?? "";
   const webComic = params.get("webComic") ?? "";
   const mediaMix = params.get("mediaMix") ?? "";
   const sort = params.get("sort") ?? "year-desc";
 
+  const options = useMemo(
+    () => themeOptionsOf(state.status === "ready" ? state.data?.works : undefined, id),
+    [state, id],
+  );
+
   const filtered = useMemo(() => {
     if (state.status !== "ready" || !state.data) return [];
+    const keyword = q.trim().toLowerCase();
     return state.data.works.filter((w) => {
+      if (!matchesKeyword(w, keyword)) return false;
+      if (other && !w.themeIds.includes(other)) return false;
       if (status && w.status !== status) return false;
       if (webComic === "none" && w.webComicSource) return false;
       if (
@@ -70,7 +82,7 @@ export function ThemeDetailPage() {
       if (mediaMix === "none" && (w.mediaMix?.anime || w.mediaMix?.novelization)) return false;
       return true;
     });
-  }, [state, status, webComic, mediaMix]);
+  }, [state, status, webComic, mediaMix, q, other]);
 
   const sorted = useMemo(() => {
     if (sort === "year-asc") return [...filtered].sort((a, b) => a.firstPublishedYear - b.firstPublishedYear);
@@ -88,13 +100,13 @@ export function ThemeDetailPage() {
 
   function clearFilters() {
     const next = new URLSearchParams(params);
-    for (const key of ["status", "webComic", "mediaMix"]) {
+    for (const key of ["q", "theme", "status", "webComic", "mediaMix"]) {
       next.delete(key);
     }
     setParams(next, { replace: true });
   }
 
-  const hasActiveFilters = Boolean(status || webComic || mediaMix);
+  const hasActiveFilters = Boolean(q || other || status || webComic || mediaMix);
 
   return (
     <div className="page">
@@ -107,6 +119,23 @@ export function ThemeDetailPage() {
           <p className="page-subtitle">{state.data.workCount}作品</p>
           {state.data.description && <p>{state.data.description}</p>}
           <div className="filter-row">
+            <input
+              type="search"
+              value={q}
+              placeholder="タイトル・作者で絞り込み"
+              aria-label="タイトル・作者で絞り込み"
+              onChange={(e) => updateParam("q", e.target.value)}
+            />
+            {options.length > 0 && (
+              <select value={other} onChange={(e) => updateParam("theme", e.target.value)}>
+                <option value="">他のテーマで絞り込み</option>
+                {options.map((o) => (
+                  <option value={o.value} key={o.value}>
+                    {o.label}
+                  </option>
+                ))}
+              </select>
+            )}
             <select value={status} onChange={(e) => updateParam("status", e.target.value)}>
               <option value="">完結状況で絞り込み</option>
               {STATUS_OPTIONS.map((s) => (

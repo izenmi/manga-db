@@ -31,32 +31,59 @@ const SORT_OPTIONS = [
   { value: "kana", label: "五十音順" },
 ];
 
+/** タイトル・読み・制作者名のいずれかにキーワードが含まれるか。
+ *  制作者名のフィールド名はサイトごとに違う(原作者/作画家、著者/イラストレーター等)ので、
+ *  存在するものだけを拾う。姉妹サイトへ同じフックを移植できるようにするため。 */
+export function matchesKeyword(w: WorkGenerated, keyword: string) {
+  if (!keyword) return true;
+  const w2 = w as unknown as Record<string, unknown>;
+  const names = ["originalAuthorNames", "artistNames", "authorNames", "illustratorNames"]
+    .flatMap((k) => (Array.isArray(w2[k]) ? (w2[k] as string[]) : typeof w2[k] === "string" ? [w2[k] as string] : []));
+  return `${w.title}${w.titleKana}${names.join("")}`.toLowerCase().includes(keyword);
+}
+
+/**
+ * 作品リストに実際に付いているテーマだけを、件数の多い順に並べて返す。
+ * themes.json 全体から作ると、選んでも0件になる選択肢がずらりと並ぶ。
+ * `exclude` はテーマ詳細ページ用で、そのページ自身のテーマを選択肢から外す(全作品が持つので意味がない)。
+ */
+export function themeOptionsOf(works: WorkGenerated[] | undefined, exclude?: string) {
+  const counts = new Map<string, { label: string; n: number }>();
+  for (const w of works ?? []) {
+    w.themeIds.forEach((id, i) => {
+      if (id === exclude) return;
+      const e = counts.get(id) ?? { label: w.themeNames[i] ?? id, n: 0 };
+      e.n += 1;
+      counts.set(id, e);
+    });
+  }
+  return [...counts.entries()]
+    .sort((a, b) => b[1].n - a[1].n || a[1].label.localeCompare(b[1].label, "ja"))
+    .map(([value, e]) => ({ value, label: `${e.label}(${e.n})` }));
+}
+
 export function useWorkFilter(works: WorkGenerated[] | undefined, defaultSort = "year-desc") {
   const [params, setParams] = useSearchParams();
   const q = params.get("q") ?? "";
   const status = params.get("status") ?? "";
   const mediaMix = params.get("mediaMix") ?? "";
+  const theme = params.get("theme") ?? "";
   const sort = params.get("sort") ?? defaultSort;
+  const options = useMemo(() => themeOptionsOf(works), [works]);
 
   const filtered = useMemo(() => {
     if (!works) return [];
     const keyword = q.trim().toLowerCase();
     return works.filter((w) => {
-      if (keyword) {
-        // 制作者名のフィールド名はサイトごとに違う(原作者/作画家、著者/イラストレーター等)ので
-        // 存在するものだけを拾う。姉妹サイトへ同じフックを移植できるようにするため。
-        const w2 = w as unknown as Record<string, unknown>;
-        const names = ["originalAuthorNames", "artistNames", "authorNames", "illustratorNames"]
-          .flatMap((k) => (Array.isArray(w2[k]) ? (w2[k] as string[]) : []));
-        if (!`${w.title}${w.titleKana}${names.join("")}`.toLowerCase().includes(keyword)) return false;
-      }
+      if (!matchesKeyword(w, keyword)) return false;
       if (status && w.status !== status) return false;
       if (mediaMix === "anime" && !w.mediaMix?.anime) return false;
       if (mediaMix === "novelization" && !w.mediaMix?.novelization) return false;
       if (mediaMix === "none" && (w.mediaMix?.anime || w.mediaMix?.novelization)) return false;
+      if (theme && !w.themeIds.includes(theme)) return false;
       return true;
     });
-  }, [works, q, status, mediaMix]);
+  }, [works, q, status, mediaMix, theme]);
 
   const sorted = useMemo(() => {
     if (sort === "year-asc") return [...filtered].sort((a, b) => a.firstPublishedYear - b.firstPublishedYear);
@@ -73,7 +100,7 @@ export function useWorkFilter(works: WorkGenerated[] | undefined, defaultSort = 
     setParams(next, { replace: true });
   }
 
-  const hasActiveFilters = Boolean(q || status || mediaMix);
+  const hasActiveFilters = Boolean(q || status || mediaMix || theme);
 
   const controls = (
     <div className="filter-row">
@@ -100,6 +127,16 @@ export function useWorkFilter(works: WorkGenerated[] | undefined, defaultSort = 
           </option>
         ))}
       </select>
+      {options.length > 0 && (
+        <select value={theme} onChange={(e) => updateParam("theme", e.target.value)}>
+          <option value="">テーマで絞り込み</option>
+          {options.map((o) => (
+            <option value={o.value} key={o.value}>
+              {o.label}
+            </option>
+          ))}
+        </select>
+      )}
       <select
         value={sort}
         onChange={(e) => updateParam("sort", e.target.value === defaultSort ? "" : e.target.value)}
@@ -116,7 +153,7 @@ export function useWorkFilter(works: WorkGenerated[] | undefined, defaultSort = 
           className="filter-clear-btn"
           onClick={() => {
             const next = new URLSearchParams(params);
-            ["q", "status", "mediaMix"].forEach((k) => next.delete(k));
+            ["q", "status", "mediaMix", "theme"].forEach((k) => next.delete(k));
             setParams(next, { replace: true });
           }}
         >
