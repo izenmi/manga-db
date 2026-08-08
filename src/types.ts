@@ -146,6 +146,8 @@ export interface AwardWinner {
   workTitle: string;
   year: number;
   result: string;
+  /** 並べ替え用に result から取り出した順位。順位表記がないものは大賞系=0 / その他=900。 */
+  rank: number;
 }
 
 export interface AwardGenerated extends AwardSource {

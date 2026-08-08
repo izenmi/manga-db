@@ -1,14 +1,20 @@
-import { Link, useParams } from "react-router-dom";
-import { getAward } from "../../data/manifest";
+import { useParams } from "react-router-dom";
+import { getAward, getWorks } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
 import { BASE_PATH, breadcrumbJsonLd, useSeo } from "../common/useSeo";
 import { colorForYear } from "../common/yearColor";
+import { WorkCard } from "../common/WorkCard";
 
 export function AwardDetailPage() {
   const { id } = useParams<{ id: string }>();
   const state = useAsyncData(() => getAward(id!), [id]);
   const award = state.status === "ready" ? state.data : undefined;
+
+  // 受賞作を作品カードで見せるために一覧を引く。すでに取得済みのキャッシュから返るので
+  // 追加の通信は発生しない(詳細ページの関連作品と同じ方式)。
+  const listState = useAsyncData(getWorks, []);
+  const byId = new Map((listState.status === "ready" ? listState.data : []).map((x) => [x.id, x]));
 
   useSeo({
     title: award?.name,
@@ -23,6 +29,14 @@ export function AwardDetailPage() {
         ])
       : undefined,
   });
+
+  // winners は generate-manifest 側で「年の降順 → 部門 → 順位の昇順」に並べてあるので、
+  // ここでは年ごとに切り出すだけでよい。
+  const byYear = new Map<number, NonNullable<typeof award>["winners"]>();
+  for (const w of award?.winners ?? []) {
+    if (!byYear.has(w.year)) byYear.set(w.year, []);
+    byYear.get(w.year)!.push(w);
+  }
 
   return (
     <div className="page">
@@ -44,17 +58,26 @@ export function AwardDetailPage() {
               </a>
             </p>
           )}
-          <h2>受賞作</h2>
+          <h2>受賞作 {state.data.workCount}件</h2>
           {state.data.winners.length === 0 && <EmptyState text="登録されている受賞作はまだありません。" />}
-          <ul className="winner-list">
-            {state.data.winners.map((winner) => (
-              <li key={`${winner.workId}-${winner.year}`}>
-                <span className={`winner-year winner-year--${colorForYear(winner.year)}`}>{winner.year}</span>
-                <Link to={`/works/${winner.workId}`}>{winner.workTitle}</Link>
-                <span className="entity-list__count"> — {winner.result}</span>
-              </li>
-            ))}
-          </ul>
+          {[...byYear.entries()].map(([year, winners]) => (
+            <section key={year} className="award-year">
+              <h3 className="award-year__heading">
+                <span className={`winner-year winner-year--${colorForYear(year)}`}>{year}</span>
+              </h3>
+              <div className="work-grid">
+                {winners.map((winner) => {
+                  const item = byId.get(winner.workId);
+                  return item ? (
+                    <div key={`${winner.workId}-${winner.result}`} className="award-entry">
+                      <p className="award-entry__result">{winner.result}</p>
+                      <WorkCard work={item} />
+                    </div>
+                  ) : null;
+                })}
+              </div>
+            </section>
+          ))}
         </>
       )}
     </div>

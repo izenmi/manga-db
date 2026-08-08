@@ -785,3 +785,32 @@ h1 {
 .sister-link:hover {
   background: var(--color-surface-variant);
 }
+
+/* アワード詳細ページ: 受賞作を年ごとにまとめ、作品カードで見せる。
+   カードの上に順位・部門(result)を出すので、カード自体には手を入れていない。 */
+.award-year {
+  margin-top: 28px;
+}
+
+.award-year__heading {
+  margin: 0 0 10px;
+  font-size: 1rem;
+}
+
+.award-entry {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.award-entry__result {
+  margin: 0;
+  color: var(--color-text-muted);
+  font-size: 0.85rem;
+  font-weight: 700;
+}
+
+.award-entry .work-card,
+.award-entry .game-card {
+  height: 100%;
+}

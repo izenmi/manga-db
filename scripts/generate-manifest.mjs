@@ -240,16 +240,34 @@ const themesGenerated = themes
   .sort((a, b) => b.workCount - a.workCount || a.name.localeCompare(b.name, "ja"));
 
 // ---- generated/awards.json ----
+// 受賞歴の result は「2013年版 国内編 第1位」「大賞」「第5位」のような自由文なので、
+// 並べ替え用の順位をここで一度だけ取り出す。順位を持たない賞(大賞・特別賞など)は
+// 大賞系を先頭、それ以外を末尾に置く。
+function rankOf(result) {
+  const m = /第\s*(\d+)\s*位/.exec(result ?? "");
+  if (m) return Number(m[1]);
+  if (/大賞|1位|第一位/.test(result ?? "")) return 0;
+  return 900;
+}
+
 const winnersByAward = new Map();
 for (const w of works) {
   for (const r of w.awardResults ?? []) {
     if (!winnersByAward.has(r.awardId)) winnersByAward.set(r.awardId, []);
-    winnersByAward.get(r.awardId).push({ workId: w.id, workTitle: w.title, year: r.year, result: r.result });
+    winnersByAward.get(r.awardId).push({ workId: w.id, workTitle: w.title, year: r.year, result: r.result, rank: rankOf(r.result) });
   }
 }
 const awardsGenerated = awards
   .map((a) => {
-    const winners = (winnersByAward.get(a.id) ?? []).sort((x, y) => y.year - x.year);
+    // 年の降順 → 部門(result から順位表記を除いた部分)→ 順位の昇順。
+    const section = (r) => (r.result ?? "").replace(/第\s*\d+\s*位.*$/, "").trim();
+    const winners = (winnersByAward.get(a.id) ?? []).sort(
+      (x, y) =>
+        y.year - x.year ||
+        section(x).localeCompare(section(y), "ja") ||
+        x.rank - y.rank ||
+        (x.workTitle ?? x.gameTitle ?? "").localeCompare(y.workTitle ?? y.gameTitle ?? "", "ja"),
+    );
     return { ...a, workCount: winners.length, winners };
   })
   .sort((a, b) => a.name.localeCompare(b.name, "ja"));
