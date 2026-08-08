@@ -2796,5 +2796,15 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの各誌記事で発行元を確認(2026-08-08)。",
     "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "comic-flos",
+    "name": "コミックFLOS",
+    "nameKana": "こみっくふろーす",
+    "publisherId": "frontier-works",
+    "description": "フロンティアワークスが運営するWebコミック配信サイト。女性向けの異世界ファンタジー作品を多く掲載する。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌(レーベル名『フロースコミック』)および版元の公式サイトで確認(2026-08-08照会)。",
+    "updatedAt": "2026-08-08"
   }
 ]

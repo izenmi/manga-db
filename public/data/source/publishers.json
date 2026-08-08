@@ -777,5 +777,16 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチAPIの書誌で確認(2026-08-08)。",
     "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "frontier-works",
+    "name": "フロンティアワークス",
+    "nameKana": "ふろんてぃあわーくす",
+    "description": "アニメ・コミック・書籍を手がける出版社。女性向けの異世界ファンタジー作品を多く刊行する。",
+    "externalLinks": {
+      "officialUrl": "https://www.fwinc.co.jp/"
+    },
+    "sourceNote": "社名・刊行物は国立国会図書館サーチの書誌および公式サイトで確認(2026-08-08照会)。",
+    "updatedAt": "2026-08-08"
   }
 ]
