@@ -2756,5 +2756,45 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの各媒体記事で発行元を確認(2026-08-08)。",
     "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "kiso-tengai",
+    "name": "奇想天外",
+    "nameKana": "きそうてんがい",
+    "publisherId": "kisotengaisha",
+    "description": "奇想天外社が発行していたSF雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの各誌記事で発行元を確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "sf-magazine",
+    "name": "SFマガジン",
+    "nameKana": "えすえふまがじん",
+    "publisherId": "hayakawa-shobo",
+    "description": "早川書房が発行するSF専門誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの各誌記事で発行元を確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "magazine-z",
+    "name": "マガジンZ",
+    "nameKana": "まがじんぜっと",
+    "publisherId": "kodansha",
+    "description": "講談社が1999年から2009年まで発行した漫画雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの各誌記事で発行元を確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "alc",
+    "name": "A.L.C.",
+    "nameKana": "えーえるしー",
+    "publisherId": "akita-shoten",
+    "description": "秋田書店の女性向け漫画レーベル。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの各誌記事で発行元を確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
   }
 ]

@@ -271,6 +271,11 @@
         "awardId": "shogakukan-manga-award",
         "year": 2003,
         "result": "受賞"
+      },
+      {
+        "awardId": "seiun-award",
+        "year": 2011,
+        "result": "コミック部門"
       }
     ],
     "mediaMix": {
@@ -1348,6 +1353,11 @@
         "awardId": "shogakukan-manga-award",
         "year": 1980,
         "result": "受賞"
+      },
+      {
+        "awardId": "seiun-award",
+        "year": 1987,
+        "result": "コミック部門"
       }
     ],
     "mediaMix": {
@@ -2436,6 +2446,11 @@
         "awardId": "kodansha-manga-award",
         "year": 1993,
         "result": "一般部門"
+      },
+      {
+        "awardId": "seiun-award",
+        "year": 1996,
+        "result": "コミック部門"
       }
     ],
     "mediaMix": {
@@ -2721,6 +2736,11 @@
         "awardId": "kono-manga-ga-sugoi",
         "year": 2006,
         "result": "2006年版 オトコ版 第1位"
+      },
+      {
+        "awardId": "seiun-award",
+        "year": 2010,
+        "result": "コミック部門"
       }
     ],
     "mediaMix": {
@@ -3048,6 +3068,11 @@
         "awardId": "shogakukan-manga-award",
         "year": 2004,
         "result": "受賞"
+      },
+      {
+        "awardId": "seiun-award",
+        "year": 2017,
+        "result": "コミック部門"
       }
     ],
     "mediaMix": {
@@ -3100,6 +3125,11 @@
         "awardId": "shogakukan-manga-award",
         "year": 1981,
         "result": "受賞"
+      },
+      {
+        "awardId": "nihon-mangaka-kyokai-sho",
+        "year": 1973,
+        "result": "優秀賞"
       }
     ],
     "mediaMix": {
@@ -3741,6 +3771,16 @@
         "awardId": "nihon-mangaka-kyokai-sho",
         "year": 1994,
         "result": "大賞(第23回)"
+      },
+      {
+        "awardId": "seiun-award",
+        "year": 1995,
+        "result": "コミック部門"
+      },
+      {
+        "awardId": "nihon-mangaka-kyokai-sho",
+        "year": 1994,
+        "result": "大賞"
       }
     ],
     "mediaMix": {
@@ -4076,6 +4116,11 @@
         "awardId": "shogakukan-manga-award",
         "year": 2009,
         "result": "受賞"
+      },
+      {
+        "awardId": "nihon-mangaka-kyokai-sho",
+        "year": 2010,
+        "result": "大賞"
       }
     ],
     "mediaMix": {
@@ -4242,6 +4287,11 @@
         "awardId": "zenkoku-shoten-in-osusume-comic",
         "year": 2007,
         "result": "全国書店員が選んだおすすめコミック"
+      },
+      {
+        "awardId": "bunkacho-media-geijutsusai",
+        "year": 2009,
+        "result": "マンガ部門大賞"
       }
     ],
     "mediaMix": {
@@ -4374,6 +4424,11 @@
         "awardId": "zenkoku-shoten-in-osusume-comic",
         "year": 2009,
         "result": "全国書店員が選んだおすすめコミック"
+      },
+      {
+        "awardId": "bunkacho-media-geijutsusai",
+        "year": 2021,
+        "result": "マンガ部門大賞"
       }
     ],
     "mediaMix": {
@@ -4449,6 +4504,11 @@
         "awardId": "kodansha-manga-award",
         "year": 1977,
         "result": "少年部門"
+      },
+      {
+        "awardId": "nihon-mangaka-kyokai-sho",
+        "year": 1975,
+        "result": "特別優秀賞"
       }
     ],
     "mediaMix": {
@@ -5183,6 +5243,11 @@
         "awardId": "tezuka-osamu-culture-award",
         "year": 2012,
         "result": "マンガ大賞"
+      },
+      {
+        "awardId": "bunkacho-media-geijutsusai",
+        "year": 2010,
+        "result": "マンガ部門大賞"
       }
     ],
     "mediaMix": {
@@ -5291,6 +5356,11 @@
         "awardId": "tezuka-osamu-culture-award",
         "year": 2001,
         "result": "マンガ大賞"
+      },
+      {
+        "awardId": "seiun-award",
+        "year": 2006,
+        "result": "コミック部門"
       }
     ],
     "externalLinks": {
@@ -8039,6 +8109,11 @@
         "awardId": "shogakukan-manga-award",
         "year": 2016,
         "result": "受賞"
+      },
+      {
+        "awardId": "bunkacho-media-geijutsusai",
+        "year": 2017,
+        "result": "マンガ部門大賞"
       }
     ],
     "mediaMix": {
@@ -8445,6 +8520,11 @@
         "awardId": "seiun-award",
         "year": 2001,
         "result": "第32回コミック部門受賞"
+      },
+      {
+        "awardId": "seiun-award",
+        "year": 2001,
+        "result": "コミック部門"
       }
     ],
     "mediaMix": {
@@ -8808,6 +8888,11 @@
         "awardId": "manga-taisho",
         "year": 2019,
         "result": "ノミネート"
+      },
+      {
+        "awardId": "seiun-award",
+        "year": 2024,
+        "result": "コミック部門"
       }
     ],
     "mediaMix": {
@@ -9266,6 +9351,11 @@
         "awardId": "nihon-mangaka-kyokai-sho",
         "year": 1999,
         "result": "第28回優秀賞受賞"
+      },
+      {
+        "awardId": "nihon-mangaka-kyokai-sho",
+        "year": 1999,
+        "result": "優秀賞"
       }
     ],
     "mediaMix": {
@@ -9907,6 +9997,11 @@
         "awardId": "manga-taisho",
         "year": 2015,
         "result": "ノミネート"
+      },
+      {
+        "awardId": "seiun-award",
+        "year": 2025,
+        "result": "コミック部門"
       }
     ],
     "mediaMix": {
@@ -9973,6 +10068,11 @@
         "awardId": "seiun-award",
         "year": 2019,
         "result": "コミック部門受賞(第50回)"
+      },
+      {
+        "awardId": "seiun-award",
+        "year": 2019,
+        "result": "コミック部門"
       }
     ],
     "mediaMix": {
@@ -11457,6 +11557,11 @@
         "awardId": "zenkoku-shoten-in-osusume-comic",
         "year": 2006,
         "result": "全国書店員が選んだおすすめコミック"
+      },
+      {
+        "awardId": "seiun-award",
+        "year": 2015,
+        "result": "コミック部門"
       }
     ],
     "mediaMix": {
@@ -12934,6 +13039,11 @@
         "awardId": "nihon-mangaka-kyokai-sho",
         "year": 1991,
         "result": "優秀賞(第20回)"
+      },
+      {
+        "awardId": "nihon-mangaka-kyokai-sho",
+        "year": 1991,
+        "result": "優秀賞"
       }
     ],
     "mediaMix": {
@@ -12990,6 +13100,11 @@
         "awardId": "tezuka-osamu-culture-award",
         "year": 2002,
         "result": "マンガ大賞"
+      },
+      {
+        "awardId": "bunkacho-media-geijutsusai",
+        "year": 2000,
+        "result": "マンガ部門大賞"
       }
     ],
     "externalLinks": {
@@ -14088,6 +14203,11 @@
         "awardId": "seiun-award",
         "year": 2013,
         "result": "コミック部門受賞(第43回)"
+      },
+      {
+        "awardId": "seiun-award",
+        "year": 2012,
+        "result": "コミック部門"
       }
     ],
     "sourceNote": "日本語版Wikipedia『機動戦士ガンダム THE ORIGIN』記事、および『安彦良和』『富野由悠季』各記事(2026-08-02閲覧)で作画(安彦良和)・原作クレジット(矢立肇・富野由悠季)・連載期間(2001-2011年、ガンダムエース)・巻数(通常版24巻)・完結・あらすじ・アニメ化(OVA/TVシリーズ)・2013年第43回星雲賞コミック部門受賞を確認。原作は矢立肇(サンライズ企画スタッフの共同ペンネーム)と富野由悠季の連名クレジットのためoriginalAuthorIdsに両方登録した。labelIdは連載開始時点のガンダムエース(新規登録)を採用。",
@@ -14122,6 +14242,11 @@
         "awardId": "seiun-award",
         "year": 2002,
         "result": "コミック部門受賞(第33回)"
+      },
+      {
+        "awardId": "seiun-award",
+        "year": 2002,
+        "result": "コミック部門"
       }
     ],
     "sourceNote": "日本語版Wikipedia『プラネテス』記事(2026-08-02閲覧)で作者(幸村誠)・連載期間(1999-2004年、モーニング)・巻数(全4巻)・完結・あらすじ・アニメ化(2003-2004年)・2002年第33回星雲賞コミック部門受賞を確認(アニメ版が2005年に星雲賞メディア部門を別途受賞しているが、これはアニメ版のみの受賞のためawardResultsには含めていない)。作者はヴィンランド・サガ(既存work)の作画家として既にartists.jsonに登録済みのyukimura-makotoを再利用した。",
@@ -14260,6 +14385,11 @@
         "awardId": "kodansha-manga-award",
         "year": 2015,
         "result": "一般部門"
+      },
+      {
+        "awardId": "seiun-award",
+        "year": 2016,
+        "result": "コミック部門"
       }
     ],
     "sourceNote": "日本語版Wikipedia『シドニアの騎士』記事(2026-08-02閲覧)で作者(弐瓶勉)・連載期間(2009-2015年、月刊アフタヌーン)・巻数(全15巻)・完結・あらすじ・アニメ化(2014年、2015年ほか)・2015年第39回講談社漫画賞一般部門、2016年第47回星雲賞コミック部門受賞を確認。作者はBLAME!(既存work)の作画家として既にartists.jsonに登録済みのnihei-tsutomuを再利用した。",
@@ -14432,6 +14562,11 @@
         "awardId": "seiun-award",
         "year": 1986,
         "result": "コミック部門受賞(第17回)"
+      },
+      {
+        "awardId": "seiun-award",
+        "year": 1986,
+        "result": "コミック部門"
       }
     ],
     "sourceNote": "日本語版Wikipedia『アップルシード』『青心社』各記事、およびピクシブ百科事典・shirowledge.com等(2026-08-02閲覧)で作者(士郎正宗、攻殻機動隊の既存artistを再利用)・刊行期間(1985-1989年)・雑誌連載を経ない青心社からの単行本描き下ろしであること・巻数(全4巻、他にデータブック・総集編)・1986年第17回星雲賞コミック部門受賞・あらすじを確認。作者自身が「凍結宣言」を出し連載が中断したまま再開していないため、statusは completed/ongoing のどちらとも言い切れず unknown とした。",
@@ -15077,6 +15212,11 @@
         "awardId": "bunkacho-media-geijutsusai",
         "year": 2007,
         "result": "マンガ部門大賞(平成19年度・第11回)"
+      },
+      {
+        "awardId": "bunkacho-media-geijutsusai",
+        "year": 2007,
+        "result": "マンガ部門大賞"
       }
     ],
     "mediaMix": {
@@ -18101,7 +18241,14 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ガラスの仮面"
     },
     "sourceNote": "日本語版Wikipedia『ガラスの仮面』記事(2026-08-03閲覧)で1976年『花とゆめ』連載開始・白泉社刊・アニメ化等を確認。既刊49巻(2012年10月発売)から長期休載が続いており、作者は2024年のインタビューで完結への意欲を表明しているが再開時期未定のためstatusはunknownとした。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "awardResults": [
+      {
+        "awardId": "nihon-mangaka-kyokai-sho",
+        "year": 1995,
+        "result": "優秀賞"
+      }
+    ]
   },
   {
     "id": "beshari-gurashi",
@@ -19242,7 +19389,14 @@
       "anime": false,
       "novelization": true
     },
-    "sourceNote": "日本語版Wikipedia『絶対可憐チルドレン』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。"
+    "sourceNote": "日本語版Wikipedia『絶対可憐チルドレン』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "awardResults": [
+      {
+        "awardId": "seiun-award",
+        "year": 2022,
+        "result": "コミック部門"
+      }
+    ]
   },
   {
     "id": "kami-nomi-zo-shiru-sekai",
@@ -19625,7 +19779,14 @@
       "anime": false,
       "novelization": false
     },
-    "sourceNote": "日本語版Wikipedia『静かなるドン』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。"
+    "sourceNote": "日本語版Wikipedia『静かなるドン』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "awardResults": [
+      {
+        "awardId": "nihon-mangaka-kyokai-sho",
+        "year": 2013,
+        "result": "大賞"
+      }
+    ]
   },
   {
     "id": "kenka-shoubai",
@@ -19728,6 +19889,11 @@
         "awardId": "shogakukan-manga-award",
         "year": 2004,
         "result": "受賞"
+      },
+      {
+        "awardId": "nihon-mangaka-kyokai-sho",
+        "year": 2002,
+        "result": "大賞"
       }
     ]
   },
@@ -19795,7 +19961,14 @@
       "anime": true,
       "novelization": false
     },
-    "sourceNote": "日本語版Wikipedia『ヨコハマ買い出し紀行』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。"
+    "sourceNote": "日本語版Wikipedia『ヨコハマ買い出し紀行』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "awardResults": [
+      {
+        "awardId": "seiun-award",
+        "year": 2007,
+        "result": "コミック部門"
+      }
+    ]
   },
   {
     "id": "versailles-no-bara",
@@ -21382,6 +21555,11 @@
         "awardId": "shogakukan-manga-award",
         "year": 2005,
         "result": "受賞"
+      },
+      {
+        "awardId": "bunkacho-media-geijutsusai",
+        "year": 2006,
+        "result": "マンガ部門大賞"
       }
     ]
   },
@@ -23166,7 +23344,14 @@
       "anime": false,
       "novelization": false
     },
-    "sourceNote": "日本語版Wikipedia『イティハーサ』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。"
+    "sourceNote": "日本語版Wikipedia『イティハーサ』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "awardResults": [
+      {
+        "awardId": "seiun-award",
+        "year": 2000,
+        "result": "コミック部門"
+      }
+    ]
   },
   {
     "id": "okaeri-alice",
@@ -23459,6 +23644,11 @@
         "awardId": "shogakukan-manga-award",
         "year": 1991,
         "result": "受賞"
+      },
+      {
+        "awardId": "seiun-award",
+        "year": 1997,
+        "result": "コミック部門"
       }
     ]
   },
@@ -24047,7 +24237,14 @@
       "anime": true,
       "novelization": false
     },
-    "sourceNote": "日本語版Wikipedia『それでも町は廻っている』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。"
+    "sourceNote": "日本語版Wikipedia『それでも町は廻っている』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "awardResults": [
+      {
+        "awardId": "seiun-award",
+        "year": 2018,
+        "result": "コミック部門"
+      }
+    ]
   },
   {
     "id": "sankaku-mado",
@@ -24111,6 +24308,11 @@
         "awardId": "tezuka-osamu-culture-award",
         "year": 2005,
         "result": "新生賞"
+      },
+      {
+        "awardId": "bunkacho-media-geijutsusai",
+        "year": 2004,
+        "result": "マンガ部門大賞"
       }
     ]
   },
@@ -26515,7 +26717,14 @@
       "anime": false,
       "novelization": false
     },
-    "sourceNote": "日本語版Wikipedia『黄昏流星群』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。"
+    "sourceNote": "日本語版Wikipedia『黄昏流星群』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "awardResults": [
+      {
+        "awardId": "nihon-mangaka-kyokai-sho",
+        "year": 2003,
+        "result": "大賞"
+      }
+    ]
   },
   {
     "id": "tsuribaka-nisshi",
@@ -29654,7 +29863,14 @@
       "anime": true,
       "novelization": false
     },
-    "sourceNote": "日本語版Wikipedia『究極超人あ〜る』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。"
+    "sourceNote": "日本語版Wikipedia『究極超人あ〜る』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "awardResults": [
+      {
+        "awardId": "seiun-award",
+        "year": 1988,
+        "result": "コミック部門"
+      }
+    ]
   },
   {
     "id": "kattobase-kiyohara-kun",
@@ -30961,7 +31177,14 @@
       "anime": false,
       "novelization": false
     },
-    "sourceNote": "日本語版Wikipedia『土星マンション』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。"
+    "sourceNote": "日本語版Wikipedia『土星マンション』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "awardResults": [
+      {
+        "awardId": "bunkacho-media-geijutsusai",
+        "year": 2011,
+        "result": "マンガ部門大賞"
+      }
+    ]
   },
   {
     "id": "black-jack-sosaku-hiwa",
@@ -31651,7 +31874,14 @@
       "anime": false,
       "novelization": false
     },
-    "sourceNote": "日本語版Wikipedia『セクシーボイスアンドロボ』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。"
+    "sourceNote": "日本語版Wikipedia『セクシーボイスアンドロボ』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "awardResults": [
+      {
+        "awardId": "bunkacho-media-geijutsusai",
+        "year": 2002,
+        "result": "マンガ部門大賞"
+      }
+    ]
   },
   {
     "id": "ikigami",
@@ -31810,6 +32040,11 @@
         "awardId": "shogakukan-manga-award",
         "year": 1977,
         "result": "受賞"
+      },
+      {
+        "awardId": "nihon-mangaka-kyokai-sho",
+        "year": 1977,
+        "result": "特別賞"
       }
     ]
   },
@@ -32881,7 +33116,14 @@
       "anime": true,
       "novelization": true
     },
-    "sourceNote": "日本語版Wikipedia『超人ロック』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。"
+    "sourceNote": "日本語版Wikipedia『超人ロック』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "awardResults": [
+      {
+        "awardId": "nihon-mangaka-kyokai-sho",
+        "year": 2023,
+        "result": "文部科学大臣賞"
+      }
+    ]
   },
   {
     "id": "banana-bread-no-pudding",
@@ -33004,7 +33246,14 @@
       "anime": true,
       "novelization": false
     },
-    "sourceNote": "日本語版Wikipedia『コボちゃん』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。"
+    "sourceNote": "日本語版Wikipedia『コボちゃん』記事(2026-08-06閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "awardResults": [
+      {
+        "awardId": "nihon-mangaka-kyokai-sho",
+        "year": 1999,
+        "result": "優秀賞"
+      }
+    ]
   },
   {
     "id": "asari-chan",
@@ -34694,6 +34943,11 @@
         "awardId": "tezuka-osamu-culture-award",
         "year": 1998,
         "result": "マンガ大賞"
+      },
+      {
+        "awardId": "nihon-mangaka-kyokai-sho",
+        "year": 1993,
+        "result": "優秀賞"
       }
     ],
     "mediaMix": {
@@ -35692,6 +35946,11 @@
         "awardId": "manga-taisho",
         "year": 2026,
         "result": "ノミネート"
+      },
+      {
+        "awardId": "nihon-mangaka-kyokai-sho",
+        "year": 2026,
+        "result": "まんが王国とっとり賞"
       }
     ],
     "mediaMix": {
@@ -36275,6 +36534,11 @@
         "awardId": "kono-manga-ga-sugoi",
         "year": 2020,
         "result": "2020年版 オトコ版 第2位"
+      },
+      {
+        "awardId": "bunkacho-media-geijutsusai",
+        "year": 2020,
+        "result": "マンガ部門大賞"
       }
     ],
     "mediaMix": {
@@ -36592,6 +36856,11 @@
         "awardId": "manga-taisho",
         "year": 2023,
         "result": "ノミネート"
+      },
+      {
+        "awardId": "nihon-mangaka-kyokai-sho",
+        "year": 2022,
+        "result": "まんが王国とっとり賞"
       }
     ],
     "mediaMix": {
@@ -40372,6 +40641,11 @@
         "awardId": "kono-manga-ga-sugoi",
         "year": 2015,
         "result": "2015年版 オトコ版 第6位"
+      },
+      {
+        "awardId": "bunkacho-media-geijutsusai",
+        "year": 2014,
+        "result": "マンガ部門大賞"
       }
     ],
     "mediaMix": {
@@ -41029,6 +41303,11 @@
         "awardId": "kono-manga-ga-sugoi",
         "year": 2023,
         "result": "2023年版 オンナ版 第7位"
+      },
+      {
+        "awardId": "nihon-mangaka-kyokai-sho",
+        "year": 2025,
+        "result": "まんが王国とっとり賞"
       }
     ],
     "mediaMix": {
@@ -41376,6 +41655,16 @@
         "awardId": "tezuka-osamu-culture-award",
         "year": 2006,
         "result": "マンガ大賞"
+      },
+      {
+        "awardId": "bunkacho-media-geijutsusai",
+        "year": 2005,
+        "result": "マンガ部門大賞"
+      },
+      {
+        "awardId": "nihon-mangaka-kyokai-sho",
+        "year": 2005,
+        "result": "大賞"
       }
     ],
     "mediaMix": {
@@ -44556,6 +44845,11 @@
         "awardId": "kono-manga-ga-sugoi",
         "year": 2022,
         "result": "2022年版 オトコ版 第2位"
+      },
+      {
+        "awardId": "seiun-award",
+        "year": 2023,
+        "result": "コミック部門"
       }
     ],
     "mediaMix": {
@@ -45608,6 +45902,11 @@
         "awardId": "kono-manga-ga-sugoi",
         "year": 2015,
         "result": "2015年版 オンナ版 第7位"
+      },
+      {
+        "awardId": "bunkacho-media-geijutsusai",
+        "year": 2015,
+        "result": "マンガ部門大賞"
       }
     ],
     "mediaMix": {
@@ -45832,6 +46131,11 @@
         "awardId": "manga-taisho",
         "year": 2018,
         "result": "ノミネート"
+      },
+      {
+        "awardId": "nihon-mangaka-kyokai-sho",
+        "year": 2023,
+        "result": "まんが王国とっとり賞"
       }
     ],
     "mediaMix": {
@@ -51940,6 +52244,11 @@
         "awardId": "tezuka-osamu-culture-award",
         "year": 2005,
         "result": "短編賞"
+      },
+      {
+        "awardId": "nihon-mangaka-kyokai-sho",
+        "year": 2011,
+        "result": "参議院議長賞"
       }
     ],
     "mediaMix": {
@@ -52045,6 +52354,11 @@
         "awardId": "tezuka-osamu-culture-award",
         "year": 2007,
         "result": "新生賞"
+      },
+      {
+        "awardId": "nihon-mangaka-kyokai-sho",
+        "year": 2007,
+        "result": "大賞"
       }
     ],
     "mediaMix": {
@@ -52684,6 +52998,916 @@
     },
     "externalLinks": {},
     "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「手塚治虫文化賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "matagi-retsuden",
+    "title": "マタギ",
+    "titleKana": "またぎ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yaguchi-takao"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "slice-of-life",
+      "animal",
+      "historical"
+    ],
+    "firstPublishedYear": 1976,
+    "latestPublishedYear": 2019,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "東北の山でマタギとして生きる人々を、山と獣との関わりから描く。",
+    "awardResults": [
+      {
+        "awardId": "nihon-mangaka-kyokai-sho",
+        "year": 1976,
+        "result": "大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本漫画家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "uramachi-serenade",
+    "title": "裏町セレナーデ",
+    "titleKana": "うらまちせれなーで",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "takitayuu"
+    ],
+    "publisherId": "futabasha",
+    "labelId": "manga-action",
+    "themeIds": [
+      "slice-of-life",
+      "historical",
+      "comedy"
+    ],
+    "firstPublishedYear": 1987,
+    "latestPublishedYear": 1987,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "昭和の下町を舞台に、そこに暮らす人々の哀歓を描く。",
+    "awardResults": [
+      {
+        "awardId": "nihon-mangaka-kyokai-sho",
+        "year": 1987,
+        "result": "大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本漫画家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "manga-nihon-keizai-nyuumon",
+    "title": "マンガ日本経済入門",
+    "titleKana": "まんがにほんけいざいにゅうもん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ishinomori-shotaro"
+    ],
+    "publisherId": "nikkei",
+    "labelId": "big-comic-spirits",
+    "themeIds": [
+      "business",
+      "historical",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 1986,
+    "latestPublishedYear": 2006,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "日本経済のしくみを、物語仕立てで解説した学習漫画。",
+    "awardResults": [
+      {
+        "awardId": "nihon-mangaka-kyokai-sho",
+        "year": 1988,
+        "result": "大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本漫画家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "atagooru-tamatebako",
+    "title": "アタゴオル玉手箱",
+    "titleKana": "あたごおるたまてばこ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "masumurahiroshi"
+    ],
+    "publisherId": "kaiseisha",
+    "labelId": "comic-tom",
+    "themeIds": [
+      "dark-fantasy",
+      "animal",
+      "adventure"
+    ],
+    "firstPublishedYear": 1986,
+    "latestPublishedYear": 2000,
+    "status": "completed",
+    "volumeCount": 9,
+    "synopsis": "猫の姿をした住人たちが暮らす不思議な町アタゴオルを舞台にした幻想譚。",
+    "awardResults": [
+      {
+        "awardId": "nihon-mangaka-kyokai-sho",
+        "year": 1997,
+        "result": "大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本漫画家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "akai-yuki",
+    "title": "赤い雪",
+    "titleKana": "あかいゆき",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "katsumatasusumu"
+    ],
+    "publisherId": "seirin-kogeisha",
+    "labelId": "garo",
+    "themeIds": [
+      "slice-of-life",
+      "historical",
+      "arts"
+    ],
+    "firstPublishedYear": 2005,
+    "latestPublishedYear": 2011,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "勝又進の作品集。東北の農村を題材にした短編を収める。",
+    "awardResults": [
+      {
+        "awardId": "nihon-mangaka-kyokai-sho",
+        "year": 2006,
+        "result": "大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本漫画家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kamakura-monogatari-supesharu-serekushon",
+    "title": "鎌倉ものがたり",
+    "titleKana": "かまくらものがたり",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "saiganryouhei"
+    ],
+    "publisherId": "futabasha",
+    "labelId": "manga-action",
+    "themeIds": [
+      "slice-of-life",
+      "dark-fantasy",
+      "detective-mystery"
+    ],
+    "firstPublishedYear": 1984,
+    "latestPublishedYear": 2026,
+    "status": "completed",
+    "volumeCount": 37,
+    "synopsis": "鎌倉に暮らす作家・一色正和と妻の亜紀が、妖怪や幽霊が混じる日常の事件に関わる。",
+    "awardResults": [
+      {
+        "awardId": "nihon-mangaka-kyokai-sho",
+        "year": 2009,
+        "result": "大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本漫画家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "herupuman",
+    "title": "ヘルプマン!",
+    "titleKana": "へるぷまん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kusakariki"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "evening",
+    "themeIds": [
+      "medical",
+      "workplace-drama",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2004,
+    "latestPublishedYear": 2021,
+    "status": "completed",
+    "volumeCount": 153,
+    "synopsis": "介護の現場を、そこで働く人々と利用者の双方から描く。",
+    "awardResults": [
+      {
+        "awardId": "nihon-mangaka-kyokai-sho",
+        "year": 2011,
+        "result": "大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本漫画家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tera-e",
+    "title": "地球（テラ）へ…",
+    "titleKana": "てらえ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "person-246560"
+    ],
+    "publisherId": "asahi-sonorama",
+    "labelId": "manga-shonen",
+    "themeIds": [
+      "sci-fi",
+      "adventure",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1980,
+    "latestPublishedYear": 1980,
+    "status": "completed",
+    "volumeCount": 12,
+    "synopsis": "コンピュータが管理する社会と、超能力をもつ新人類ミュウの対立を描く。",
+    "awardResults": [
+      {
+        "awardId": "seiun-award",
+        "year": 1978,
+        "result": "コミック部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「星雲賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "suta-reddo",
+    "title": "スター・レッド",
+    "titleKana": "すたーれっど",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hagio-moto"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "bessatsu-shojo-comic",
+    "themeIds": [
+      "sci-fi",
+      "adventure",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1980,
+    "latestPublishedYear": 2008,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "萩尾望都による、赤い星をめぐるSF長編。",
+    "awardResults": [
+      {
+        "awardId": "seiun-award",
+        "year": 1980,
+        "result": "コミック部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「星雲賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "juma-densetsu",
+    "title": "伝説",
+    "titleKana": "じゅまでんせつ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mizukiwakako"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "bessatsu-shojo-comic",
+    "themeIds": [
+      "sci-fi",
+      "dark-fantasy",
+      "romance"
+    ],
+    "firstPublishedYear": 2001,
+    "latestPublishedYear": 2001,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "水樹和佳子による、樹魔と呼ばれる存在をめぐるSF作品。",
+    "awardResults": [
+      {
+        "awardId": "seiun-award",
+        "year": 1981,
+        "result": "コミック部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「星雲賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kibun-wa-mou-sensou",
+    "title": "気分はもう戦争",
+    "titleKana": "きぶんわもうせんそう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "person-988256"
+    ],
+    "publisherId": "futabasha",
+    "labelId": "manga-action",
+    "themeIds": [
+      "sci-fi",
+      "comedy",
+      "war-military"
+    ],
+    "firstPublishedYear": 1982,
+    "latestPublishedYear": 2000,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "日米開戦を背景に、報道と戦争をシニカルに描く。",
+    "awardResults": [
+      {
+        "awardId": "seiun-award",
+        "year": 1982,
+        "result": "コミック部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「星雲賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "gin-no-sankaku",
+    "title": "銀の三角",
+    "titleKana": "ぎんのさんかく",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hagio-moto"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "petit-flower",
+    "themeIds": [
+      "sci-fi",
+      "adventure",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 1982,
+    "latestPublishedYear": 1994,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "萩尾望都による、失われた星をめぐるSF長編。",
+    "awardResults": [
+      {
+        "awardId": "seiun-award",
+        "year": 1983,
+        "result": "コミック部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「星雲賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "doumu",
+    "title": "童夢",
+    "titleKana": "どうむ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "otomo-katsuhiro"
+    ],
+    "publisherId": "futabasha",
+    "labelId": "manga-action",
+    "themeIds": [
+      "sci-fi",
+      "suspense-psychological",
+      "horror"
+    ],
+    "firstPublishedYear": 1983,
+    "latestPublishedYear": 1991,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "団地を舞台に、超能力を持つ者どうしの闘いを描く。",
+    "awardResults": [
+      {
+        "awardId": "seiun-award",
+        "year": 1984,
+        "result": "コミック部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「星雲賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ningyo-no-mori",
+    "title": "人魚の森",
+    "titleKana": "にんぎょのもり",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "takahashi-rumiko"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "dark-fantasy",
+      "romance",
+      "horror"
+    ],
+    "firstPublishedYear": 1988,
+    "latestPublishedYear": 2003,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "人魚の肉を食べて不老不死となった男女の旅を描く。",
+    "awardResults": [
+      {
+        "awardId": "seiun-award",
+        "year": 1989,
+        "result": "コミック部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「星雲賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "so-howatto",
+    "title": "So What?",
+    "titleKana": "そー・ほわっと?",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "wakatsukimegumi"
+    ],
+    "publisherId": "hakusensha",
+    "labelId": "lala",
+    "themeIds": [
+      "sci-fi",
+      "comedy",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 1987,
+    "latestPublishedYear": 1997,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "わかつきめぐみによる、日常に不思議が混じる作品。",
+    "awardResults": [
+      {
+        "awardId": "seiun-award",
+        "year": 1990,
+        "result": "コミック部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「星雲賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "yamataika",
+    "title": "ヤマタイカ",
+    "titleKana": "やまたいか",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hoshino-yukinobu"
+    ],
+    "publisherId": "ushio-shuppansha",
+    "labelId": "comic-tom",
+    "themeIds": [
+      "historical",
+      "dark-fantasy",
+      "adventure"
+    ],
+    "firstPublishedYear": 1987,
+    "latestPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "邪馬台国と火の神話をめぐる歴史伝奇。",
+    "awardResults": [
+      {
+        "awardId": "seiun-award",
+        "year": 1992,
+        "result": "コミック部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「星雲賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ozu",
+    "title": "OZ",
+    "titleKana": "おず",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "itsuki-natsumi"
+    ],
+    "publisherId": "hakusensha",
+    "labelId": "hana-to-yume",
+    "themeIds": [
+      "sci-fi",
+      "dark-fantasy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1990,
+    "latestPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "核戦争後の荒廃した世界を、少女と機械の旅として描く。",
+    "awardResults": [
+      {
+        "awardId": "seiun-award",
+        "year": 1993,
+        "result": "コミック部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「星雲賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kuronoaizu",
+    "title": "クロノアイズ",
+    "titleKana": "くろのあいず",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hasegawa-yuichi"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "magazine-z",
+    "themeIds": [
+      "sci-fi",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2000,
+    "latestPublishedYear": 2003,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "時空を管理する組織と、時間をめぐる戦いを描く。",
+    "awardResults": [
+      {
+        "awardId": "seiun-award",
+        "year": 2003,
+        "result": "コミック部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「星雲賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kanata-kara",
+    "title": "彼方から",
+    "titleKana": "かなたから",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hikawakyouko"
+    ],
+    "publisherId": "hakusensha",
+    "labelId": "hana-to-yume",
+    "themeIds": [
+      "isekai",
+      "romance",
+      "adventure"
+    ],
+    "firstPublishedYear": 1992,
+    "latestPublishedYear": 2005,
+    "status": "completed",
+    "volumeCount": 14,
+    "synopsis": "現代から異世界に召喚された少女ノリコの成長を描く。",
+    "awardResults": [
+      {
+        "awardId": "seiun-award",
+        "year": 2004,
+        "result": "コミック部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「星雲賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "toraigan-makishimamu-deep-space-planet-future-gu",
+    "title": "トライガン・マキシマム",
+    "titleKana": "とらいがんまきしまむ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "naitou-yasuhiro"
+    ],
+    "publisherId": "shonen-gahosha",
+    "labelId": "young-king",
+    "themeIds": [
+      "sci-fi",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 1998,
+    "latestPublishedYear": 2010,
+    "status": "completed",
+    "volumeCount": 14,
+    "synopsis": "惑星ノーマンズランドを舞台に、賞金首ヴァッシュの旅を描く。",
+    "awardResults": [
+      {
+        "awardId": "seiun-award",
+        "year": 2009,
+        "result": "コミック部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「星雲賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "narue-no-sekai",
+    "title": "成恵の世界",
+    "titleKana": "なるえのせかい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "marukawatomohiro"
+    ],
+    "publisherId": "kadokawa-shoten",
+    "labelId": "monthly-shonen-ace",
+    "themeIds": [
+      "sci-fi",
+      "comedy",
+      "romance"
+    ],
+    "firstPublishedYear": 2000,
+    "latestPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 13,
+    "synopsis": "宇宙人の少女・成恵と高校生・和人の交流を描く。",
+    "awardResults": [
+      {
+        "awardId": "seiun-award",
+        "year": 2014,
+        "result": "コミック部門"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「星雲賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "aimu-homu-harukanaru-ieji",
+    "title": "アイ'ム ホーム",
+    "titleKana": "あい'むほーむ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ishizakakei"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-original",
+    "themeIds": [
+      "suspense-psychological",
+      "workplace-drama",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2004,
+    "latestPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "記憶を失った男が、かつての家族のもとへ帰ろうとする。",
+    "awardResults": [
+      {
+        "awardId": "bunkacho-media-geijutsusai",
+        "year": 1999,
+        "result": "マンガ部門大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「星雲賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "piano-no-mori",
+    "title": "ピアノの森",
+    "titleKana": "ぴあののもり",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "isshikimakoto"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning",
+    "themeIds": [
+      "music",
+      "arts",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 1999,
+    "latestPublishedYear": 2026,
+    "status": "completed",
+    "volumeCount": 26,
+    "synopsis": "森の中の壊れたピアノを弾く少年・一ノ瀬海の才能が見出される。",
+    "awardResults": [
+      {
+        "awardId": "bunkacho-media-geijutsusai",
+        "year": 2008,
+        "result": "マンガ部門大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「星雲賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nee-mama",
+    "title": "ねぇ、ママ",
+    "titleKana": "ねぇまま",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ikebeaoi"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "alc",
+    "themeIds": [
+      "slice-of-life",
+      "suspense-psychological",
+      "medical"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 1,
+    "synopsis": "母と子の関係を、生活の細部から描く。",
+    "awardResults": [
+      {
+        "awardId": "bunkacho-media-geijutsusai",
+        "year": 2018,
+        "result": "マンガ部門大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「星雲賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "orijin",
+    "title": "ORIGIN",
+    "titleKana": "おりじん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "boichi"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "young-magazine",
+    "themeIds": [
+      "sci-fi",
+      "battle-action",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2017,
+    "latestPublishedYear": 2019,
+    "status": "ongoing",
+    "volumeCount": 10,
+    "synopsis": "人ならざる力を持つ存在と、彼をめぐる戦いを描く。",
+    "awardResults": [
+      {
+        "awardId": "bunkacho-media-geijutsusai",
+        "year": 2019,
+        "result": "マンガ部門大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「星雲賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "goruden-razuberi",
+    "title": "ゴールデンラズベリー",
+    "titleKana": "ごーるでんらずべりー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mochidaaki"
+    ],
+    "publisherId": "shodensha",
+    "labelId": "feel-young",
+    "themeIds": [
+      "slice-of-life",
+      "arts",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2021,
+    "latestPublishedYear": 2026,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "映画の世界に関わる人々の姿を描く。",
+    "awardResults": [
+      {
+        "awardId": "bunkacho-media-geijutsusai",
+        "year": 2022,
+        "result": "マンガ部門大賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「星雲賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
     "updatedAt": "2026-08-07"
   }
 ]

@@ -714,5 +714,68 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチAPIの書誌で確認(2026-08-08)。",
     "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "kaiseisha",
+    "name": "偕成社",
+    "nameKana": "かいせいしゃ",
+    "description": "1936年創業の児童書出版社。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "nikkei",
+    "name": "日本経済新聞社",
+    "nameKana": "にほんけいざいしんぶんしゃ",
+    "description": "日本経済新聞を発行する新聞社。書籍も刊行している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "kisotengaisha",
+    "name": "奇想天外社",
+    "nameKana": "きそうてんがいしゃ",
+    "description": "SF雑誌『奇想天外』を刊行していた出版社。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "hayakawa-shobo",
+    "name": "早川書房",
+    "nameKana": "はやかわしょぼう",
+    "description": "SF・ミステリを中心に刊行する出版社。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "kadokawa-shoten",
+    "name": "角川書店",
+    "nameKana": "かどかわしょてん",
+    "description": "KADOKAWAのブランドカンパニー。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "php-kenkyusho",
+    "name": "PHP研究所",
+    "nameKana": "ぴーえいちぴーけんきゅうじょ",
+    "description": "1946年創業の出版社。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "kawade-shobo-shinsha",
+    "name": "河出書房新社",
+    "nameKana": "かわでしょぼうしんしゃ",
+    "description": "1886年創業の出版社。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
   }
 ]
