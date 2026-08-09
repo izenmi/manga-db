@@ -661,6 +661,10 @@ h1 {
   border-left-color: #ff86ad;
 }
 
+.sister-site-card--movie {
+  border-left-color: #ffc85c;
+}
+
 
 .source-note {
   color: var(--color-text-muted);
