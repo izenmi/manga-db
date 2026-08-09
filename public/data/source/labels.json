@@ -3096,5 +3096,55 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "young-champion-retsu",
+    "name": "ヤングチャンピオン烈",
+    "nameKana": "やんぐちゃんぴおんれつ",
+    "publisherId": "akita-shoten",
+    "description": "秋田書店が発行する青年漫画誌。ヤングチャンピオンの姉妹誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "afternoon-season",
+    "name": "アフタヌーン・シーズン増刊",
+    "nameKana": "あふたぬーんしーずんぞうかん",
+    "publisherId": "kodansha",
+    "description": "講談社が発行していた月刊アフタヌーンの増刊。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "horror-m",
+    "name": "ホラーM",
+    "nameKana": "ほらーえむ",
+    "publisherId": "bunkasha",
+    "description": "ぶんか社が発行するホラー漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "manga-life-momo",
+    "name": "まんがライフMOMO",
+    "nameKana": "まんがらいふもも",
+    "publisherId": "takeshobo",
+    "description": "竹書房が発行する4コマ漫画誌。まんがライフの姉妹誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "chara",
+    "name": "Chara",
+    "nameKana": "きゃら",
+    "publisherId": "tokuma-shoten",
+    "description": "徳間書店が発行する女性向け漫画誌。ボーイズラブ作品を多く掲載する。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
   }
 ]
