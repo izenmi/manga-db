@@ -71144,5 +71144,39 @@
     "sourceNote": "日本語版Wikipedia『神達に拾われた男』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-09",
     "volumeCount": 16
+  },
+  {
+    "id": "feitoapokurifa",
+    "title": "Fate/Apocrypha",
+    "titleKana": "ふぇいとあぽくりふぁ",
+    "originalAuthorIds": [
+      "type-moon",
+      "higashide-yuuichirou",
+      "konoe-ototsugu"
+    ],
+    "artistIds": [
+      "ishida-akira"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "comp-ace",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action",
+      "war-military"
+    ],
+    "firstPublishedYear": 2016,
+    "status": "completed",
+    "synopsis": "失われていた大聖杯が発見されたことで、七対七、計十四騎のサーヴァントが激突する大規模な聖杯戦争が始まる。魔術協会とユグドミレニア家の対立を背景に、英霊たちの理想と思惑が交錯していく。『フェイト』シリーズの外伝を漫画化した作品である。十四騎という規模を活かし、陣営ごとの理念のぶつかり合いが描かれる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Fate/Apocrypha"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『Fate/Apocrypha』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2024,
+    "volumeCount": 16
   }
 ]
