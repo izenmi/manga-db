@@ -3706,5 +3706,25 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "konomanga-web",
+    "name": "このマンガがすごい!WEB",
+    "nameKana": "このまんががすごいうぇぶ",
+    "publisherId": "takarajimasha",
+    "description": "宝島社が運営するWebコミック配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "be-boy-gold",
+    "name": "Be×Boy GOLD",
+    "nameKana": "びーぼーいごーるど",
+    "publisherId": "biblos",
+    "description": "ビブロスが発行していたボーイズラブ漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
   }
 ]
