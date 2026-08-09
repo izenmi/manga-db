@@ -70217,5 +70217,37 @@
     "updatedAt": "2026-08-09",
     "latestPublishedYear": 2022,
     "volumeCount": 17
+  },
+  {
+    "id": "akuyakureijouharingokunooutaishinidekiai",
+    "title": "悪役令嬢は隣国の王太子に溺愛される",
+    "titleKana": "あくやくれいじょうはりんごくのおうたいしにできあいされる",
+    "originalAuthorIds": [
+      "punichan",
+      "naruse-akeno"
+    ],
+    "artistIds": [
+      "hoshina"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "bs-log-comic",
+    "themeIds": [
+      "isekai",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2017,
+    "status": "ongoing",
+    "synopsis": "事故死した女性は、自分がやり込んだ乙女ゲームの悪役令嬢ティアラローズに転生していた。気づいたのは断罪される直前で、予定どおり婚約を破棄されてしまう。だがそこへ隣国の王太子が求婚し、彼女は思いがけず溺愛される立場になる。悪役令嬢ものの恋愛ファンタジーである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%82%AA%E5%BD%B9%E4%BB%A4%E5%AC%A2%E3%81%AF%E9%9A%A3%E5%9B%BD%E3%81%AE%E7%8E%8B%E5%A4%AA%E5%AD%90%E3%81%AB%E6%BA%BA%E6%84%9B%E3%81%95%E3%82%8C%E3%82%8B"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『悪役令嬢は隣国の王太子に溺愛される』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 17
   }
 ]

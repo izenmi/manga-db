@@ -462,7 +462,10 @@ def resolve(rows):
                 elif re.fullmatch(r"[A-Za-z0-9 .&'\-]+", n):
                     pid = re.sub(r"[^a-z0-9]+", "-", n.lower()).strip("-")[:40]
                 else:
-                    pid = ""                       # 漢字名で読み不明。build が弾く
+                    # 読み不明。空文字にすると、同じ作品に読み不明が2人いたとき
+                    # annot の people 補正がどちらにも当たってしまう(『悪役令嬢は隣国の
+                    # 王太子に溺愛される』で原作者のidが作画欄に入った)。一意な仮idを振る
+                    pid = uniq_id("needkana", used_person)
                 if pid:
                     pid = uniq_id(pid, used_person)
                     used_person[pid] = pid
@@ -604,7 +607,7 @@ def cmd_build(args):
                 continue
             if p["id"] in seen_person or p["id"] in known[p["kind"]]:
                 continue
-            if not p["id"] or not p["kana"]:
+            if not p["id"] or p["id"].startswith("needkana") or not p["kana"]:
                 problems.append(f"n={a['n']} {r['title']}: 新規人物 {p['name']} の読みが取れない"
                                 f'(annotに "people":{{"{p["name"]}":{{"kana":"…","id":"…"}}}} を足す)')
                 break
