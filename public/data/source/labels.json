@@ -3376,5 +3376,35 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "weekly-margaret",
+    "name": "週刊マーガレット",
+    "nameKana": "しゅうかんまーがれっと",
+    "publisherId": "shueisha",
+    "description": "集英社が発行していた少女漫画誌。現在の月刊マーガレットの前身にあたる。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "halloween",
+    "name": "ハロウィン",
+    "nameKana": "はろうぃん",
+    "publisherId": "asahi-sonorama",
+    "description": "朝日ソノラマが発行していた少女向けのホラー漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "pandora",
+    "name": "パンドラ",
+    "nameKana": "ぱんどら",
+    "publisherId": "magazine-box",
+    "description": "マガジンボックスが発行していた少女向け漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
   }
 ]
