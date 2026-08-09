@@ -2976,5 +2976,45 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "torikko-club",
+    "name": "鳥っこ倶楽部",
+    "nameKana": "とりっこくらぶ",
+    "publisherId": "aoba-shuppan",
+    "description": "あおば出版が発行していた愛鳥家向けの雑誌。飼い鳥をテーマにした漫画を掲載した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "the-margaret",
+    "name": "ザ マーガレット",
+    "nameKana": "ざまーがれっと",
+    "publisherId": "shueisha",
+    "description": "集英社が発行していた少女漫画誌。マーガレットの姉妹誌として読み切り中心に構成された。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ichi-laki",
+    "name": "いち＊ラキ",
+    "nameKana": "いちらき",
+    "publisherId": "tousuisha",
+    "description": "冬水社が発行していた少女向け漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yawaraka-spirits",
+    "name": "やわらかスピリッツ",
+    "nameKana": "やわらかすぴりっつ",
+    "publisherId": "shogakukan",
+    "description": "小学館が運営するWebコミック配信サイト。ビッグコミックスピリッツの姉妹媒体。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
   }
 ]
