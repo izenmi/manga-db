@@ -57612,5 +57612,899 @@
     "updatedAt": "2026-08-09",
     "latestPublishedYear": 2023,
     "volumeCount": 36
+  },
+  {
+    "id": "happi",
+    "title": "ハッピー!",
+    "titleKana": "はっぴー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hama-nobuko"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "be-love",
+    "themeIds": [
+      "animal",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 1995,
+    "status": "completed",
+    "synopsis": "スキーの事故で視力を失った香織は、恋人にも去られて希望を見失いかけていた。そんな彼女のもとに、盲導犬のハッピーがやってくる。犬とともに歩くことで少しずつ外の世界へ踏み出し、やがて仕事や新しい出会いをつかんでいく。盲導犬の訓練や引退、次の犬との出会いまでを丁寧に追った長編作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC%21"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ハッピー!』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2010,
+    "volumeCount": 33
+  },
+  {
+    "id": "furijingu",
+    "title": "フリージング",
+    "titleKana": "ふりーじんぐ",
+    "originalAuthorIds": [
+      "imu-daryon"
+    ],
+    "artistIds": [
+      "kimu-goanhyon"
+    ],
+    "publisherId": "kill-time-communication",
+    "labelId": "comic-valkyrie",
+    "themeIds": [
+      "battle-action",
+      "school",
+      "sci-fi"
+    ],
+    "firstPublishedYear": 2007,
+    "status": "ongoing",
+    "synopsis": "異次元からの侵略者との戦いで姉を失った少年カズヤは、対抗戦力である少女兵「パンドラ」を養成する学園に編入する。そこで出会った孤高のパンドラ、サテライザーに姉の面影を重ねたカズヤは、敵の多い彼女に関わっていく。強化された少女たちの過酷な戦いと学園内の序列争いを描くバトルアクション。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AA%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0_%28%E6%BC%AB%E7%94%BB%29"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『フリージング (漫画)』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 32
+  },
+  {
+    "id": "kafusukizudarakenochizu",
+    "title": "CUFFS 〜傷だらけの地図〜",
+    "titleKana": "かふすきずだらけのちず",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "toujou-jin"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "young-jump",
+    "themeIds": [
+      "delinquent",
+      "battle-action",
+      "school"
+    ],
+    "firstPublishedYear": 1996,
+    "status": "completed",
+    "synopsis": "「不良の聖地」で最強と恐れられたチンピラ・久宝龍二は、抗争のさなかに撃たれて命を落とす。だがその魂は、かつて捨てた妻の息子で、いじめを苦に自殺した高校生・憂作の体に宿ってしまう。自らの過去が息子を追い詰めたと知った龍二は、憂作として生き直すことを決意する。因果と再生を描いた不良漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/CUFFS_%E3%80%9C%E5%82%B7%E3%81%A0%E3%82%89%E3%81%91%E3%81%AE%E5%9C%B0%E5%9B%B3%E3%80%9C"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『CUFFS 〜傷だらけの地図〜』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2005,
+    "volumeCount": 32
+  },
+  {
+    "id": "parareruparadaisu",
+    "title": "パラレルパラダイス",
+    "titleKana": "ぱられるぱらだいす",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "okamoto-rin"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "young-magazine",
+    "themeIds": [
+      "isekai",
+      "battle-action",
+      "ero-guro"
+    ],
+    "firstPublishedYear": 2017,
+    "status": "ongoing",
+    "synopsis": "ごく普通の高校生・太多陽太は、何者かに校舎から突き落とされ、目覚めると双月の浮かぶ異世界にいた。そこは三千年にわたって男が存在しない世界で、女たちは男の匂いに抗えない体になっていた。元の世界へ帰る手がかりを探しながら、危険な女だけの世界を旅していくダークファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%A9%E3%83%AC%E3%83%AB%E3%83%91%E3%83%A9%E3%83%80%E3%82%A4%E3%82%B9"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『パラレルパラダイス』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 32
+  },
+  {
+    "id": "hyakkiyakoushou",
+    "title": "百鬼夜行抄",
+    "titleKana": "ひゃっきやこうしょう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ima-ichiko"
+    ],
+    "publisherId": "asahi-shimbun-shuppan",
+    "labelId": "nemuki",
+    "themeIds": [
+      "horror",
+      "detective-mystery",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 1995,
+    "status": "ongoing",
+    "synopsis": "幻想作家だった祖父から霊を見る力を受け継いだ青年・飯嶋律は、父の体を借りた妖魔・青嵐や使い魔の尾黒と尾白に守られながら暮らしている。日常のすぐ隣にある魑魅魍魎との関わりが、家族の因縁とともに一話ずつ紐解かれていく。淡々とした筆致で怪異を描き続ける長寿の伝奇作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%99%BE%E9%AC%BC%E5%A4%9C%E8%A1%8C%E6%8A%84"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『百鬼夜行抄』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 32
+  },
+  {
+    "id": "tenseikenjanoisekairaifudaininoshokugyou",
+    "title": "転生賢者の異世界ライフ 〜第二の職業を得て、世界最強になりました〜",
+    "titleKana": "てんせいけんじゃのいせかいらいふだいにのしょくぎょうをえて",
+    "originalAuthorIds": [
+      "shinkou-shotou",
+      "fuuka-fuuka"
+    ],
+    "artistIds": [
+      "hou-ketsu"
+    ],
+    "publisherId": "square-enix",
+    "labelId": "manga-up",
+    "themeIds": [
+      "isekai",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2018,
+    "status": "ongoing",
+    "synopsis": "ブラック企業勤めから異世界に召喚された佐野ユージは、冒険者には不向きとされる魔物使いの職を与えられる。だがテイムしたスライムたちのスキルと、魔導書から得た賢者の力を組み合わせることで規格外の戦力を手にする。自分の強さに無自覚なまま常識を覆していく、異世界転生ファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E8%BB%A2%E7%94%9F%E8%B3%A2%E8%80%85%E3%81%AE%E7%95%B0%E4%B8%96%E7%95%8C%E3%83%A9%E3%82%A4%E3%83%95_%E3%80%9C%E7%AC%AC%E4%BA%8C%E3%81%AE%E8%81%B7%E6%A5%AD%E3%82%92%E5%BE%97%E3%81%A6%E3%80%81%E4%B8%96%E7%95%8C%E6%9C%80%E5%BC%B7%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E3%80%9C"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『転生賢者の異世界ライフ 〜第二の職業を得て、世界最強になりました〜』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 32
+  },
+  {
+    "id": "agonashigentooremonogatari",
+    "title": "アゴなしゲンとオレ物語",
+    "titleKana": "あごなしげんとおれものがたり",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hiramoto-akira"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "young-magazine",
+    "themeIds": [
+      "comedy",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 1998,
+    "status": "completed",
+    "synopsis": "零細運送会社を営むゲンと、その社員ケンヂを中心に、下品でどうしようもない日常をひたすらギャグに変えていく一話完結の作品。実在の人物や時事ネタを容赦なく取り込む作風で知られ、各話には「〇〇のトラッカー」という定型のタイトルが付く。青年誌のギャグ漫画として十年以上続いた。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B4%E3%81%AA%E3%81%97%E3%82%B2%E3%83%B3%E3%81%A8%E3%82%AA%E3%83%AC%E7%89%A9%E8%AA%9E"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『アゴなしゲンとオレ物語』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2009,
+    "volumeCount": 32
+  },
+  {
+    "id": "kyoukarahittoman",
+    "title": "今日からヒットマン",
+    "titleKana": "きょうからひっとまん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mutouhiroshi"
+    ],
+    "publisherId": "nihon-bungeisha",
+    "labelId": "manga-goraku",
+    "themeIds": [
+      "crime-underworld",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "平凡な食品会社の営業マン・稲葉十吉は、瀕死のヒットマンと偶然出くわし、その最期の依頼に巻き込まれる。標的を殺さなければ家族もろとも皆殺しにされるという理不尽な条件を突きつけられた十吉は、家族を守るために引き金を引く。素人が殺し屋の世界に落ちていく過程を描くサスペンス。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E4%BB%8A%E6%97%A5%E3%81%8B%E3%82%89%E3%83%92%E3%83%83%E3%83%88%E3%83%9E%E3%83%B3"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『今日からヒットマン』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2015,
+    "volumeCount": 31
+  },
+  {
+    "id": "toriajiikusu",
+    "title": "トリアージX",
+    "titleKana": "とりあーじいくす",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "satou-shouji"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "dragon-age",
+    "themeIds": [
+      "battle-action",
+      "crime-underworld",
+      "school"
+    ],
+    "firstPublishedYear": 2009,
+    "status": "ongoing",
+    "synopsis": "法で裁けない悪人を秘密裏に処断する非合法組織「ブラックラベル」。その構成員である女子高生・三神嵐たちは、社会に巣食う悪を腫瘍になぞらえ、街から切除していく。学園生活と裏の顔を行き来しながら、重火器を手に暗殺任務へ赴く少女たちを描いたガンアクション。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AA%E3%82%A2%E3%83%BC%E3%82%B8X"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『トリアージX』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2019,
+    "volumeCount": 31
+  },
+  {
+    "id": "deattegobyoudebatoru",
+    "title": "出会って5秒でバトル",
+    "titleKana": "であってごびょうでばとる",
+    "originalAuthorIds": [
+      "harawatasaizou"
+    ],
+    "artistIds": [
+      "miyakokashiwa"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "ura-sunday",
+    "themeIds": [
+      "death-game",
+      "battle-action",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2015,
+    "status": "ongoing",
+    "synopsis": "退屈な日常を持て余していた高校生・白柳啓は、突然拉致され、参加者それぞれに与えられた「能力」で殺し合うゲームに放り込まれる。啓の能力は「相手が思い込んだ通りの力になる」という一見弱いものだった。頭脳で能力の穴を突き、格上の相手を倒していく思考型のバトルロイヤル。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%87%BA%E4%BC%9A%E3%81%A3%E3%81%A65%E7%A7%92%E3%81%A7%E3%83%90%E3%83%88%E3%83%AB"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『出会って5秒でバトル』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 31
+  },
+  {
+    "id": "kansatsuiasagao",
+    "title": "監察医 朝顔",
+    "titleKana": "かんさついあさがお",
+    "originalAuthorIds": [
+      "kagawa-masahito",
+      "satou-yoshinobu"
+    ],
+    "artistIds": [
+      "kimura-naomi"
+    ],
+    "publisherId": "jitsugyo-no-nihonsha",
+    "labelId": "manga-sunday",
+    "themeIds": [
+      "medical",
+      "detective-mystery",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "synopsis": "震災で母を亡くしたことをきっかけに法医学の道へ進んだ女性医師・山田朝顔は、遺体と向き合いながら死者の人生を読み解いていく。刑事である父・万平と協力し、解剖台の上に残された痕跡から事件の真相へ迫る。法医学の現場を描く医療ミステリーであり、父娘の再生の物語でもある。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%9B%A3%E5%AF%9F%E5%8C%BB_%E6%9C%9D%E9%A1%94"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『監察医 朝顔』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2013,
+    "volumeCount": 30
+  },
+  {
+    "id": "purasuchikkuneesan",
+    "title": "+チック姉さん",
+    "titleKana": "ぷらすちっくねえさん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kuriicha"
+    ],
+    "publisherId": "square-enix",
+    "labelId": "young-gangan",
+    "themeIds": [
+      "comedy",
+      "school",
+      "arts"
+    ],
+    "firstPublishedYear": 2009,
+    "status": "ongoing",
+    "synopsis": "頭にプラモデルを乗せた模型部の三人娘が繰り広げる、脈絡のない学園ギャグ漫画。不条理な発想と勢い任せの展開でひたすら笑いを取りにいく作風で、途中で部活が書道部に変わり、頭のプラモも捨てられる。不定期連載ながらシリーズ累計百万部を超えた人気作。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%2B%E3%83%81%E3%83%83%E3%82%AF%E5%A7%89%E3%81%95%E3%82%93"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『+チック姉さん』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 30
+  },
+  {
+    "id": "furuaheddokoko",
+    "title": "フルアヘッド!ココ",
+    "titleKana": "ふるあへっどここ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yonehara-hideyuki"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "shonen-champion",
+    "themeIds": [
+      "adventure",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1997,
+    "status": "completed",
+    "synopsis": "大航海時代のヨーロッパを思わせる世界で、少年ココはキャプテンバーツ率いる海賊団スイートマドンナに拾われる。古代のファルコン文明の謎を追う船旅のなかで、ココは仲間との出会いと別れを重ね、船乗りとして、そして一人の男として成長していく。骨太な海洋冒険譚。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AB%E3%82%A2%E3%83%98%E3%83%83%E3%83%89%21%E3%82%B3%E3%82%B3"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『フルアヘッド!ココ』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2002,
+    "volumeCount": 30
+  },
+  {
+    "id": "mouippon",
+    "title": "もういっぽん!",
+    "titleKana": "もういっぽん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "muraoka-yuu"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "shonen-champion",
+    "themeIds": [
+      "sports",
+      "school"
+    ],
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "一本勝ちの快感だけを求めて柔道を続けてきた園田未知は、中学最後の試合で完敗し、そのまま引退するつもりだった。だが高校で再会したかつての相手・氷浦永遠の熱心な勧誘に押され、廃部寸前の柔道部で再び畳に上がる。少女たちが仲間を集め、団体戦を戦えるチームになっていく柔道漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%82%E3%81%86%E3%81%84%E3%81%A3%E3%81%BD%E3%82%93%21"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『もういっぽん!』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2024,
+    "volumeCount": 30
+  },
+  {
+    "id": "gingadensetsuwidoorion",
+    "title": "銀牙伝説WEEDオリオン",
+    "titleKana": "ぎんがでんせつうぃーどおりおん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "takahashi-yoshihiro"
+    ],
+    "publisherId": "nihon-bungeisha",
+    "labelId": "manga-goraku",
+    "themeIds": [
+      "animal",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "楽園と呼ばれた二子峠が大地震と噴火で壊滅し、ウィード率いる奥羽軍は散り散りになる。その混乱に乗じて、牙忍の一族・黒脛巾組が天下統一を掲げて動き出す。散らばった仲間を集めながら強大な敵に立ち向かうウィードたちの戦いを描く、『銀牙伝説WEED』の続編。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%8A%80%E7%89%99%E4%BC%9D%E8%AA%ACWEED%E3%82%AA%E3%83%AA%E3%82%AA%E3%83%B3"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『銀牙伝説WEEDオリオン』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2014,
+    "volumeCount": 30
+  },
+  {
+    "id": "kippo",
+    "title": "KIPPO",
+    "titleKana": "きっぽ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tanaka-hiroshi"
+    ],
+    "publisherId": "shonen-gahosha",
+    "labelId": "young-king",
+    "themeIds": [
+      "delinquent",
+      "crime-underworld",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2008,
+    "status": "ongoing",
+    "synopsis": "かつて広島の街を席巻した暴走族の少年たちは、年月を経て中年となり、それぞれの人生を歩みながらも「ファミリー」として繋がり続けていた。仲間内の諍いで命を落とした若者が幽霊として現世にとどまり、家族に降りかかる事件を見守っていく。不良たちの後日譚を描いた群像劇。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/KIPPO"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『KIPPO』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 30
+  },
+  {
+    "id": "kamenraidakuuga",
+    "title": "仮面ライダークウガ",
+    "titleKana": "かめんらいだーくうが",
+    "originalAuthorIds": [
+      "ishinomorishoutarou",
+      "inoue-toshiki"
+    ],
+    "artistIds": [
+      "yokoshima-hitotsu"
+    ],
+    "publisherId": "hero-s",
+    "labelId": "monthly-hero-s",
+    "themeIds": [
+      "battle-action",
+      "psychic-battle",
+      "horror"
+    ],
+    "firstPublishedYear": 2014,
+    "status": "ongoing",
+    "synopsis": "古代の遺跡から目覚めた未確認生命体グロンギが、人間を無差別に殺すゲームを始める。それに抗う唯一の存在として、青年・五代雄介が古代の戦士クウガへと変身する。テレビシリーズの設定を下敷きに、暴力と正義の重さをより苛烈に問い直した、仮面ライダーの再構築版。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E4%BB%AE%E9%9D%A2%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC%E3%82%AF%E3%82%A6%E3%82%AC_%28%E6%BC%AB%E7%94%BB%29"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『仮面ライダークウガ (漫画)』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2020,
+    "volumeCount": 30
+  },
+  {
+    "id": "kenrantarugurandosenu",
+    "title": "絢爛たるグランドセーヌ",
+    "titleKana": "けんらんたるぐらんどせーぬ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kyubi"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "champion-red",
+    "themeIds": [
+      "arts",
+      "school",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2013,
+    "status": "ongoing",
+    "synopsis": "バレエ教室に通う小学生・奏には、圧倒的な身体能力と踊りへの渇望があった。だが家庭の事情から本格的な道は閉ざされている。それでも踊ることを諦めない奏が、才能あるライバルたちと出会いながらコンクールを勝ち上がり、世界の舞台を目指していく。バレエの技術と厳しさを描いた作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%B5%A2%E7%88%9B%E3%81%9F%E3%82%8B%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%82%BB%E3%83%BC%E3%83%8C"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『絢爛たるグランドセーヌ』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 30
+  },
+  {
+    "id": "seitoshokunsaishuushoutabidachi",
+    "title": "生徒諸君! 最終章・旅立ち",
+    "titleKana": "せいとしょくんさいしゅうしょうたびだち",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "shoji-yoko"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "be-love",
+    "themeIds": [
+      "school",
+      "romance",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "教師として生徒たちを送り出したナッキーこと北城尚子は、日本の教育に限界を感じて辞職し、フィンランドでの研修に旅立つ。帰国後は故郷に理想の学園を開き、新たな生徒たちと向き合っていく。長年連れ添った幼なじみとの関係にも決着をつける、『生徒諸君!』シリーズの完結編。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%94%9F%E5%BE%92%E8%AB%B8%E5%90%9B%21_%E6%9C%80%E7%B5%82%E7%AB%A0%E3%83%BB%E6%97%85%E7%AB%8B%E3%81%A1"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『生徒諸君! 最終章・旅立ち』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2019,
+    "volumeCount": 30
+  },
+  {
+    "id": "infekushon",
+    "title": "インフェクション",
+    "titleKana": "いんふぇくしょん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "oikawa-tooru"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "horror",
+      "school",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2015,
+    "status": "completed",
+    "synopsis": "体育倉庫に閉じ込められていた高校生の晴輝ときららが脱出すると、学校は感染して人を襲う「保菌者」に占拠されていた。仲間を集め、犠牲を出しながら校外へ逃れた晴輝たちは、崩壊していく街を横断して安全地帯を目指す。感染パニックを長期連載で描き切ったサバイバルサスペンス。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A7%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3_%28%E6%BC%AB%E7%94%BB%29"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『インフェクション (漫画)』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2022,
+    "volumeCount": 30
+  },
+  {
+    "id": "kurisutarudoragon",
+    "title": "クリスタル☆ドラゴン",
+    "titleKana": "くりすたるどらごん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ashibe-yuho"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "mystery-bonita",
+    "themeIds": [
+      "dark-fantasy",
+      "historical",
+      "adventure"
+    ],
+    "firstPublishedYear": 1981,
+    "status": "ongoing",
+    "synopsis": "古代ケルトのエリンの島で、黒髪に生まれたがゆえに疎まれて育った少女アリアンロッド。銀の戦士レギオンから真実の名を授かった彼女は、自らが伝説に語られる者であることを知る。ケルトと中国大陸をまたぐ壮大な神話世界を舞台に、四十年にわたって描かれた長編ファンタジー少女漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%AB%E2%98%86%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『クリスタル☆ドラゴン』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 30
+  },
+  {
+    "id": "toirettohakase",
+    "title": "トイレット博士",
+    "titleKana": "といれっとはかせ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "toriikazuyoshi"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 1969,
+    "status": "completed",
+    "synopsis": "小学校を舞台に、メタクソ団と名乗る子どもたちと風変わりな博士が繰り広げる下品で騒々しいギャグ漫画。糞尿ネタを臆面もなく前面に押し出す作風が読者の熱狂を呼び、創刊間もない週刊少年ジャンプを百万部誌へと押し上げた。七年にわたる連載は当時としては記録的な長寿となった。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%A4%E3%83%AC%E3%83%83%E3%83%88%E5%8D%9A%E5%A3%AB"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『トイレット博士』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 1977,
+    "volumeCount": 30
+  },
+  {
+    "id": "ppoi",
+    "title": "っポイ!",
+    "titleKana": "っぽい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yamazaki-takako"
+    ],
+    "publisherId": "hakusensha",
+    "labelId": "lala",
+    "themeIds": [
+      "school",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 1991,
+    "status": "completed",
+    "synopsis": "背が低く女の子のような外見ながら、中身は負けん気の強い中学三年生・天野平。親友の万里をはじめとする仲間たちと、恋や受験、家庭の事情に揺れる思春期の日々を過ごしていく。軽妙なコメディから重いテーマまで振れ幅の大きい筆致で、二十年近く描き継がれた青春群像。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%A3%E3%83%9D%E3%82%A4%21"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『っポイ!』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2010,
+    "volumeCount": 30
+  },
+  {
+    "id": "chinpira",
+    "title": "弱虫（チンピラ）",
+    "titleKana": "ちんぴら",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tachihara-ayumi"
+    ],
+    "publisherId": "nihon-bungeisha",
+    "labelId": "manga-goraku-next",
+    "themeIds": [
+      "crime-underworld",
+      "delinquent"
+    ],
+    "firstPublishedYear": 1997,
+    "status": "completed",
+    "synopsis": "ヤクザ組織の末端で生きる若者たちを主人公に、任侠の世界の非情さと、そこで交わされる情の重さを描いた作品。作者が手がける他のヤクザ漫画と地続きの世界観を持ち、同じ組織や人物が別作品にも顔を出す。組の底辺にいる者の視点から極道社会を見上げた長編。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%BC%B1%E8%99%AB%EF%BC%88%E3%83%81%E3%83%B3%E3%83%94%E3%83%A9%EF%BC%89"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『弱虫（チンピラ）』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2008,
+    "volumeCount": 30
+  },
+  {
+    "id": "megaminooni",
+    "title": "女神の鬼",
+    "titleKana": "めがみのおに",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tanaka-hiroshi"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "young-magazine",
+    "themeIds": [
+      "delinquent",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "母子家庭に育った少年・佐川義は、「王様を目指せ」という祖父の言葉を胸に喧嘩に明け暮れていた。地元の祭りで出会った二人の不良中学生に憧れ、より苛烈に頂点を志すようになる。転校を重ねながら各地の「王様」たちと拳を交えていく、暴走族全盛期を舞台にしたヤンキー漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%A5%B3%E7%A5%9E%E3%81%AE%E9%AC%BC"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『女神の鬼』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2014,
+    "volumeCount": 29
+  },
+  {
+    "id": "auto",
+    "title": "OUT",
+    "titleKana": "あうと",
+    "originalAuthorIds": [
+      "iguchi-tatsuya"
+    ],
+    "artistIds": [
+      "mizutamakoto"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "young-champion",
+    "themeIds": [
+      "delinquent",
+      "crime-underworld"
+    ],
+    "firstPublishedYear": 2012,
+    "status": "ongoing",
+    "synopsis": "少年院を出た井口達也は、更生を志しながらも西千葉の暴走族「斬人」の仲間たちと再び関わっていく。喧嘩と義理に彩られた刺激的な日々のなかで、抜けられない過去と向き合うことになる。『ドロップ』にも登場した実在の人物の体験をもとにした、続編的な位置づけの不良漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/OUT_%28%E4%BA%95%E5%8F%A3%E9%81%94%E4%B9%9F%E3%83%BB%E3%81%BF%E3%81%9A%E3%81%9F%E3%81%BE%E3%81%93%E3%81%A8%E3%81%AE%E6%BC%AB%E7%94%BB%29"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『OUT (井口達也・みずたまことの漫画)』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 29
+  },
+  {
+    "id": "work-2",
+    "title": "MURCIELAGO -ムルシエラゴ-",
+    "titleKana": "むるしえらご",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yoshimurakana"
+    ],
+    "publisherId": "square-enix",
+    "labelId": "young-gangan",
+    "themeIds": [
+      "battle-action",
+      "crime-underworld",
+      "yuri"
+    ],
+    "firstPublishedYear": 2013,
+    "status": "ongoing",
+    "synopsis": "七百人を殺した死刑囚・紅守黒湖は、処刑を無期延期される代わりに「国選処刑人」として凶悪犯を狩る仕事を与えられた。相棒の少女・屠桜ひな子とともに、常識外れの体術と銃火器で異能の犯罪者たちを殲滅していく。過剰な暴力と女性同士の関係を前面に出したアクション作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/MURCIELAGO_-%E3%83%A0%E3%83%AB%E3%82%B7%E3%82%A8%E3%83%A9%E3%82%B4-"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『MURCIELAGO -ムルシエラゴ-』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 29
+  },
+  {
+    "id": "yajikitagakuendouchuuki",
+    "title": "やじきた学園道中記",
+    "titleKana": "やじきたがくえんどうちゅうき",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "shitou-ryouko"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "monthly-bonita",
+    "themeIds": [
+      "detective-mystery",
+      "school",
+      "comedy"
+    ],
+    "firstPublishedYear": 1982,
+    "status": "completed",
+    "synopsis": "喧嘩っ早い江戸っ子気質の矢島順子と、頭脳明晰で女子に慕われる篠北礼子。腕っぷしの強い女子高生二人は、行く先々で事件に巻き込まれては解決し、そのたびに転校する羽目になる。転校先でまた鉢合わせるという腐れ縁を繰り返しながら、四半世紀にわたって描かれた学園活劇。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%84%E3%81%98%E3%81%8D%E3%81%9F%E5%AD%A6%E5%9C%92%E9%81%93%E4%B8%AD%E8%A8%98"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『やじきた学園道中記』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2006,
+    "volumeCount": 29
+  },
+  {
+    "id": "doubutsunooshaberi",
+    "title": "動物のおしゃべり♥",
+    "titleKana": "どうぶつのおしゃべり",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "shinsenji-akira"
+    ],
+    "publisherId": "takeshobo",
+    "labelId": "manga-life",
+    "themeIds": [
+      "animal",
+      "comedy",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2004,
+    "status": "ongoing",
+    "synopsis": "動物とおしゃべりができる幼稚園児のミカちゃんを中心に、犬や猫たちとの愉快なやりとりを描いた四コマ漫画。動物側の本音がそのまま言葉になることで生まれるずれが笑いを生み、飼い主なら思い当たる場面が次々と繰り出される。竹書房の四コマ誌で長く続く人気作。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%8B%95%E7%89%A9%E3%81%AE%E3%81%8A%E3%81%97%E3%82%83%E3%81%B9%E3%82%8A%E2%99%A5"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『動物のおしゃべり♥』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 29
+  },
+  {
+    "id": "oresamaticha",
+    "title": "俺様ティーチャー",
+    "titleKana": "おれさまてぃーちゃー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tsubaki-izumi"
+    ],
+    "publisherId": "hakusensha",
+    "labelId": "hana-to-yume",
+    "themeIds": [
+      "romance",
+      "school",
+      "delinquent"
+    ],
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "埼玉を統一した直後に一人だけ捕まって退学になった女番長・黒崎真冬は、母との約束で過去を隠し、遠方の高校へ転入する。だが転入前日に助けた男が担任でありアパートの隣人だったことから、正体を握られてしまう。番長気質が抜けない少女の学園生活を描いたヤンキーラブコメディ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E4%BF%BA%E6%A7%98%E3%83%86%E3%82%A3%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『俺様ティーチャー』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2020,
+    "volumeCount": 29
   }
 ]

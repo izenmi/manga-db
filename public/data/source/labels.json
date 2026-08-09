@@ -2916,5 +2916,35 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "comic-valkyrie",
+    "name": "コミックヴァルキリー",
+    "nameKana": "こみっくう゛ぁるきりー",
+    "publisherId": "kill-time-communication",
+    "description": "キルタイムコミュニケーションが発行する漫画誌。バトルアクション系の作品を多く掲載する。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mystery-bonita",
+    "name": "ミステリーボニータ",
+    "nameKana": "みすてりーぼにーた",
+    "publisherId": "akita-shoten",
+    "description": "秋田書店が発行する女性向けの月刊漫画誌。ミステリーやホラー作品を中心に掲載する。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "manga-goraku-next",
+    "name": "漫画ゴラクネクスター",
+    "nameKana": "まんがごらくねくすたー",
+    "publisherId": "nihon-bungeisha",
+    "description": "日本文芸社が発行していた週刊漫画ゴラクの増刊誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
   }
 ]

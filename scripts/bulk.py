@@ -101,6 +101,9 @@ def _clean_body(body):
     body = re.sub(r"<ref[^>]*/>", "", body)
     body = re.sub(r"^=+.*?=+\s*$", "", body, flags=re.M)   # 小見出しは落とす
     body = re.sub(r"^[*:;#].*$", "", body, flags=re.M)      # 箇条書き(登場人物・話数一覧)も落とす
+    # [[ファイル:…|thumb|説明]] は入れ子パイプがあり下のリンク除去では落ちない
+    body = re.sub(r"\[\[\s*(?:ファイル|File|画像|Image)\s*:[^\[\]]*(?:\[\[[^\]]*\]\][^\[\]]*)*\]\]",
+                  "", body, flags=re.I)
     body = re.sub(r"\[\[(?:[^\]|]*\|)?([^\]|]*)\]\]", r"\1", body)
     body = re.sub(r"</?[a-zA-Z][^>]*>", "", body)
     body = body.replace("'''", "").replace("''", "")
@@ -441,11 +444,17 @@ def resolve(rows):
                 unknown_people.append(n)
 
     kana = fetch_person_kana(sorted(set(unknown_people)))
+    new_ids = {}          # 同名を同じidにまとめる(『KIPPO』と『女神の鬼』の田中宏)
     for r in rows:
         r["new_people"] = []
         for key in ("oa", "ar"):
             for j, (n, i) in enumerate(zip(r[key + "_names"], r[key + "_ids"])):
                 if i is not None:
+                    continue
+                if n in new_ids:      # 同じバッチに同一人物が2作品で出てくる
+                    r[key + "_ids"][j] = new_ids[n]
+                    r["new_people"].append({"kind": key, "id": new_ids[n], "name": n,
+                                            "kana": kana.get(n, "").replace(" ", "")})
                     continue
                 k = kana.get(n, "")
                 if k:
@@ -457,6 +466,7 @@ def resolve(rows):
                 if pid:
                     pid = uniq_id(pid, used_person)
                     used_person[pid] = pid
+                    new_ids[n] = pid
                 r[key + "_ids"][j] = pid
                 r["new_people"].append({"kind": key, "id": pid, "name": n,
                                         "kana": k.replace(" ", "")})
@@ -497,7 +507,7 @@ def cmd_next(args):
         pb = r["pub_id"] or f"?{r['publisher']}"
         print(f"[{r['n']}] {r['title']} / {r['work_id']} / {r['kana']}")
         print(f"  {' '.join(who)} | 誌:{lab} 版:{pb} | {yr} {vol} | {r['genre'][:30]}")
-        print(f"  {r['story']}")
+        print(f"  {r['story'][:260]}")
     miss = [r["n"] for r in rows if not r["label_id"] or not r["pub_id"]]
     print(f"\n-- {len(rows)}件。* は新規人物(kana欠けは要補完)。誌/版が ? の行: {miss}")
 
