@@ -1180,7 +1180,7 @@
   {
     "id": "flipflops",
     "name": "FLIPFLOPs",
-    "nameKana": "フリップフロップス",
+    "nameKana": "ふりっぷふろっぷす",
     "description": "深山秀(原作担当、ペンネームは銀杏の英語ginkgoに由来)と高畑ゆき(作画担当)による漫画家ユニット。2007年『猫神やおよろず』でデビューし、2012年より秋田書店『別冊少年チャンピオン』で『ダーウィンズゲーム』を連載した。",
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/FLIPFLOPs",
@@ -2095,7 +2095,7 @@
   {
     "id": "fujimoto-tatsuki",
     "name": "藤本タツキ",
-    "nameKana": "ふじもとタツキ",
+    "nameKana": "ふじもとたつき",
     "description": "漫画家。『ファイアパンチ』でデビュー、『チェンソーマン』の作者としても知られる。",
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ファイアパンチ"
@@ -8496,7 +8496,7 @@
   {
     "id": "minamiqta",
     "name": "南Q太",
-    "nameKana": "みなみQた",
+    "nameKana": "みなみきゅうた",
     "description": "漫画を手がける漫画家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -8604,7 +8604,7 @@
   {
     "id": "satomiu",
     "name": "里見U",
-    "nameKana": "さとみU",
+    "nameKana": "さとみゆう",
     "description": "漫画を手がける漫画家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -8649,7 +8649,7 @@
   {
     "id": "maporo3gou",
     "name": "マポロ3号",
-    "nameKana": "まぽろ3ごう",
+    "nameKana": "まぽろさんごう",
     "description": "漫画を手がける漫画家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -8829,7 +8829,7 @@
   {
     "id": "tsurutanikaori",
     "name": "鶴谷香央理",
-    "nameKana": "つるたに,かおり",
+    "nameKana": "つるたにかおり",
     "description": "漫画を手がける漫画家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -9981,7 +9981,7 @@
   {
     "id": "peachpit",
     "name": "PEACH-PIT",
-    "nameKana": "PeachPit",
+    "nameKana": "ぴーちぴっと",
     "description": "漫画を手がける漫画家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -10206,7 +10206,7 @@
   {
     "id": "moonenpei",
     "name": "Moo.念平",
-    "nameKana": "Mooねんぺい",
+    "nameKana": "むーねんぺい",
     "description": "漫画を手がける漫画家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -10753,9 +10753,9 @@
     "updatedAt": "2026-08-07"
   },
   {
-    "id": "person-246560",
+    "id": "takemiya-keiko",
     "name": "竹宮惠子",
-    "nameKana": "竹宮惠子",
+    "nameKana": "たけみやけいこ",
     "description": "漫画を手がける漫画家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -10765,15 +10765,6 @@
     "id": "mizukiwakako",
     "name": "水樹和佳子",
     "nameKana": "みずきわかこ",
-    "description": "漫画を手がける漫画家。",
-    "externalLinks": {},
-    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
-    "updatedAt": "2026-08-07"
-  },
-  {
-    "id": "person-988256",
-    "name": "矢作俊彦、大友克洋",
-    "nameKana": "矢作俊彦、大友克洋",
     "description": "漫画を手がける漫画家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -10825,9 +10816,9 @@
     "updatedAt": "2026-08-07"
   },
   {
-    "id": "person-690435",
+    "id": "oak-p",
     "name": "P",
-    "nameKana": "P",
+    "nameKana": "ぴー",
     "description": "漫画を手がける漫画家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -11014,9 +11005,9 @@
     "updatedAt": "2026-08-07"
   },
   {
-    "id": "linedigitalfrontierkabushikigaisha",
+    "id": "vanji",
     "name": "VANJI",
-    "nameKana": "LINEDigitalFrontierかぶしきがいしゃ",
+    "nameKana": "ばんじ",
     "description": "漫画を手がける漫画家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",

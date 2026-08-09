@@ -332,7 +332,7 @@
   {
     "id": "i-hagin",
     "name": "李學仁",
-    "nameKana": "イ・ハギン",
+    "nameKana": "いはぎん",
     "description": "映画監督・漫画原作者。韓国慶尚南道出身の在日二世。映画監督を経て、1994年から漫画原作者として『蒼天航路』を手がけたが、連載中の1998年に死去した。",
     "birthYear": 1945,
     "externalLinks": {
@@ -1161,7 +1161,7 @@
   {
     "id": "alexievich-svetlana",
     "name": "スヴェトラーナ・アレクシエーヴィチ",
-    "nameKana": "すう゛ぇとらーな・あれくしえーう゛ぃち",
+    "nameKana": "すゔぇとらーなあれくしえーゔぃち",
     "description": "ベラルーシのジャーナリスト・ノンフィクション作家。独ソ戦の女性従軍者への聞き取りをまとめた『戦争は女の顔をしていない』の著者。2015年ノーベル文学賞受賞。",
     "birthYear": 1948,
     "externalLinks": {
@@ -3165,6 +3165,15 @@
     "description": "漫画の原作を手がける。",
     "externalLinks": {},
     "sourceNote": "日本語版Wikipedia『悪役令嬢は隣国の王太子に溺愛される』記事および人物記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yahagi-toshihiko",
+    "name": "矢作俊彦",
+    "nameKana": "やはぎとしひこ",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『気分はもう戦争』記事および人物記事で確認(2026-08-09閲覧)。",
     "updatedAt": "2026-08-09"
   }
 ]

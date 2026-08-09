@@ -52521,7 +52521,7 @@
     "titleKana": "てらえ",
     "originalAuthorIds": [],
     "artistIds": [
-      "person-246560"
+      "takemiya-keiko"
     ],
     "publisherId": "asahi-sonorama",
     "labelId": "manga-shonen",
@@ -52624,9 +52624,11 @@
     "id": "kibun-wa-mou-sensou",
     "title": "気分はもう戦争",
     "titleKana": "きぶんわもうせんそう",
-    "originalAuthorIds": [],
+    "originalAuthorIds": [
+      "yahagi-toshihiko"
+    ],
     "artistIds": [
-      "person-988256"
+      "otomo-katsuhiro"
     ],
     "publisherId": "futabasha",
     "labelId": "manga-action",
@@ -53186,7 +53188,7 @@
     "titleKana": "おーくのきのした",
     "originalAuthorIds": [],
     "artistIds": [
-      "person-690435"
+      "oak-p"
     ],
     "publisherId": "kadokawa",
     "labelId": "comic-flos",
@@ -53878,7 +53880,7 @@
     "titleKana": "ないてみろこうてもいい",
     "originalAuthorIds": [],
     "artistIds": [
-      "linedigitalfrontierkabushikigaisha"
+      "vanji"
     ],
     "publisherId": "kadokawa",
     "labelId": "comic-flos",
