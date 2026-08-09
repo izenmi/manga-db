@@ -3146,5 +3146,35 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "monthly-action",
+    "name": "月刊アクション",
+    "nameKana": "げっかんあくしょん",
+    "publisherId": "futabasha",
+    "description": "双葉社が発行する月刊漫画誌。漫画アクションの姉妹誌として2013年に創刊された。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mens-young",
+    "name": "メンズヤング",
+    "nameKana": "めんずやんぐ",
+    "publisherId": "futabasha",
+    "description": "双葉社が発行していた成人向けの青年漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tsukimaga-kichi",
+    "name": "月マガ基地",
+    "nameKana": "つきまがきち",
+    "publisherId": "kodansha",
+    "description": "講談社が運営する月刊少年マガジンのWebコミック配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
   }
 ]
