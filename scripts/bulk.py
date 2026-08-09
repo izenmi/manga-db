@@ -413,9 +413,21 @@ def resolve(rows):
     taken = {w["id"] for w in load("works")}
     used_person = {**{v: v for v in ar_idx.values()}}
 
+    # 作画家として登録済みの人が別作品では原作者になることがある(『ちるらん』の梅村真也)。
+    # original-authors.json と artists.json は別ファイルなので、同じidで両方に登録する
+    artists_by_id = {p["id"]: p for p in load("artists")}
+    cross = []
+
     unknown_people = []
     for r in rows:
-        r["oa_ids"] = [oa_idx.get(norm_name(n)) or ar_idx.get(norm_name(n)) for n in r["oa_names"]]
+        r["oa_ids"] = []
+        for n in r["oa_names"]:
+            key = norm_name(n)
+            hit = oa_idx.get(key)
+            if hit is None and ar_idx.get(key):
+                hit = ar_idx[key]
+                cross.append((r, hit, n))
+            r["oa_ids"].append(hit)
         r["ar_ids"] = [ar_idx.get(norm_name(n)) for n in r["ar_names"]]
         r["label_id"] = lbl.get(norm_name(r["magazine"]))
         r["pub_id"] = pub.get(norm_name(r["publisher"])) or pub_loose.get(loose_pub(r["publisher"]))
@@ -448,6 +460,10 @@ def resolve(rows):
                 r[key + "_ids"][j] = pid
                 r["new_people"].append({"kind": key, "id": pid, "name": n,
                                         "kana": k.replace(" ", "")})
+    for r, pid, n in cross:
+        p = artists_by_id[pid]
+        r["new_people"].append({"kind": "oa", "id": pid, "name": p["name"],
+                                "kana": p["nameKana"]})
     return rows
 
 

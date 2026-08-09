@@ -57581,5 +57581,36 @@
     "sourceNote": "日本語版Wikipedia『アサギロ 〜浅葱狼〜』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-09",
     "volumeCount": 33
+  },
+  {
+    "id": "chiruranshinsengumirekuiemu",
+    "title": "ちるらん 新撰組鎮魂歌",
+    "titleKana": "ちるらんしんせんぐみれくいえむ",
+    "originalAuthorIds": [
+      "umemurashinya"
+    ],
+    "artistIds": [
+      "hashimoto-eiji"
+    ],
+    "publisherId": "coamix",
+    "labelId": "comic-zenon",
+    "themeIds": [
+      "historical",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "明治末年、女性記者・市川真琴は新撰組の生き残りを訪ね、土方歳三の実像を聞き出そうとする。語られるのは、石田散薬の行商をしながら道場破りに明け暮れていた若き日の歳三が、近藤勇に敗れて試衛館の門を叩くところから始まる物語。剣に取り憑かれた男たちの疾走を、荒々しい筆致で描く幕末劇画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%A1%E3%82%8B%E3%82%89%E3%82%93_%E6%96%B0%E6%92%B0%E7%B5%84%E9%8E%AE%E9%AD%82%E6%AD%8C"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ちるらん 新撰組鎮魂歌』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2023,
+    "volumeCount": 36
   }
 ]
