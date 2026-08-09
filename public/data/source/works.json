@@ -64838,5 +64838,881 @@
     "updatedAt": "2026-08-09",
     "latestPublishedYear": 2021,
     "volumeCount": 20
+  },
+  {
+    "id": "sutorenjipurasu",
+    "title": "ストレンジ・プラス",
+    "titleKana": "すとれんじぷらす",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mikawa-beruno"
+    ],
+    "publisherId": "ichijinsha",
+    "labelId": "comic-zero-sum",
+    "themeIds": [
+      "comedy",
+      "detective-mystery",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "家出した兄を探して訪れたスラム街で、恒は兄が美国探偵事務所の所長になっていることを知る。帰る気のない兄に押し切られ、雑用係として働き始めた恒の周りには、常識外れの依頼と人物が次々と現れる。設定を投げ捨てて笑いに全振りした、脱力系のギャグ漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%88%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%BB%E3%83%97%E3%83%A9%E3%82%B9"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ストレンジ・プラス』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2018,
+    "volumeCount": 20
+  },
+  {
+    "id": "yangotonakiichizoku",
+    "title": "やんごとなき一族",
+    "titleKana": "やんごとなきいちぞく",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "koyamayukari"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "kiss",
+    "themeIds": [
+      "romance",
+      "suspense-psychological",
+      "business"
+    ],
+    "firstPublishedYear": 2017,
+    "status": "ongoing",
+    "synopsis": "母と大衆食堂を営む平凡な娘・篠原佐都は、恋人の健太が名家の御曹司だと知る。家柄の違いに不安を抱きながら嫁いだ先には、格式と体面に縛られた一族と、佐都を見下す姑や小姑が待ち構えていた。上流階級の閉じた世界での嫁いびりを容赦なく描いた女性漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%84%E3%82%93%E3%81%94%E3%81%A8%E3%81%AA%E3%81%8D%E4%B8%80%E6%97%8F"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『やんごとなき一族』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 20
+  },
+  {
+    "id": "kokohaorenimakasetesakiniiketoittekaraju",
+    "title": "ここは俺に任せて先に行けと言ってから10年がたったら伝説になっていた。",
+    "titleKana": "ここはおれにまかせてさきにいけといってからじゅうねんがたったらでんせつになっていた",
+    "originalAuthorIds": [
+      "ezogingitsune"
+    ],
+    "artistIds": [
+      "abeno-chako"
+    ],
+    "publisherId": "square-enix",
+    "labelId": "manga-up",
+    "themeIds": [
+      "isekai",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2019,
+    "status": "ongoing",
+    "synopsis": "魔神の大群を前に「ここは俺に任せて先に行け」と叫び、次元の狭間に残った魔導士ラック。世界を守りきって帰還したとき、外界では十年が経ち、彼は救世の英雄として伝説になっていた。浦島太郎めいた状況に置かれた男が、新しい居場所を作り直していく異世界ファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%93%E3%81%93%E3%81%AF%E4%BF%BA%E3%81%AB%E4%BB%BB%E3%81%9B%E3%81%A6%E5%85%88%E3%81%AB%E8%A1%8C%E3%81%91%E3%81%A8%E8%A8%80%E3%81%A3%E3%81%A6%E3%81%8B%E3%82%8910%E5%B9%B4%E3%81%8C%E3%81%9F%E3%81%A3%E3%81%9F%E3%82%89%E4%BC%9D%E8%AA%AC%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%84%E3%81%9F%E3%80%82"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『ここは俺に任せて先に行けと言ってから10年がたったら伝説になっていた。』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 20
+  },
+  {
+    "id": "kajiryuusukenogi",
+    "title": "加治隆介の議",
+    "titleKana": "かじりゅうすけのぎ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hirokane-kenshi"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "mister-magazine",
+    "themeIds": [
+      "business",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 1990,
+    "status": "completed",
+    "synopsis": "商社に勤める加治隆介は、代議士だった父と兄を相次いで亡くし、後援会に押されて政界へ足を踏み入れる。地元利益と国益のはざま、派閥の力学、そして選挙の現実に揉まれながら、彼は理想と妥協の落としどころを探っていく。政治の実務を丹念に描いた青年漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%8A%A0%E6%B2%BB%E9%9A%86%E4%BB%8B%E3%81%AE%E8%AD%B0"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『加治隆介の議』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 1998,
+    "volumeCount": 20
+  },
+  {
+    "id": "zonzerozero",
+    "title": "ZONE-00",
+    "titleKana": "ぞーんぜろぜろ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kyuujou-kiyo"
+    ],
+    "publisherId": "biblos",
+    "labelId": "magazine-zero",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action",
+      "school"
+    ],
+    "firstPublishedYear": 2000,
+    "status": "completed",
+    "synopsis": "魔物と人間が和解して久しい東京で、「ZONE-00」という薬によって暴走する魔物が増えていた。凶祓いの一族の当主・志萬安吾は退治のため上京し、転校先で出会った少年との縁から、五百年前に始まった戦いの続きへ引きずり込まれていく。和洋折衷の意匠が濃い伝奇ファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ZONE-00"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ZONE-00』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2022,
+    "volumeCount": 20
+  },
+  {
+    "id": "materiarupazuru",
+    "title": "マテリアル・パズル",
+    "titleKana": "まてりあるぱずる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "totsuka-masahiro"
+    ],
+    "publisherId": "square-enix",
+    "labelId": "gangan-monthly",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "村を救うため、少年御風は不老不死と噂される三人の魔法使いを訪ねる。だがその三人は、一つの体に三つの魂を共有し、死ぬたびに人格が入れ替わる「罪人」だった。世界を滅ぼす力をめぐる争いに巻き込まれていく少年と魔法使いたちを描いた、設定の凝った少年ファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%AB%E3%83%BB%E3%83%91%E3%82%BA%E3%83%AB"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『マテリアル・パズル』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2008,
+    "volumeCount": 20
+  },
+  {
+    "id": "fukafukadanjonkouryakukiorenoisekaibouke",
+    "title": "ふかふかダンジョン攻略記〜俺の異世界転生冒険譚〜",
+    "titleKana": "ふかふかだんじょんこうりゃくきおれのいせかいぼうけんたん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kakeru"
+    ],
+    "publisherId": "mag-garden",
+    "labelId": "magcomi",
+    "themeIds": [
+      "isekai",
+      "adventure",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2019,
+    "status": "ongoing",
+    "synopsis": "派遣社員から異世界に転生した青年ジャンは、最強の冒険者を目指し、北の暗黒大陸にあるという巨大迷宮に挑む。人間と亜人が殲滅戦を続ける殺伐とした世界で、彼は仲間を得ながら地道に階層を攻略していく。生物設定を細かく作り込んだダンジョン攻略ファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%B5%E3%81%8B%E3%81%B5%E3%81%8B%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3%E6%94%BB%E7%95%A5%E8%A8%98%E3%80%9C%E4%BF%BA%E3%81%AE%E7%95%B0%E4%B8%96%E7%95%8C%E8%BB%A2%E7%94%9F%E5%86%92%E9%99%BA%E8%AD%9A%E3%80%9C"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ふかふかダンジョン攻略記〜俺の異世界転生冒険譚〜』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 20
+  },
+  {
+    "id": "shinnaniwakinyuudou",
+    "title": "新ナニワ金融道",
+    "titleKana": "しんなにわきんゆうどう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "aokiyuujipurodakushon"
+    ],
+    "publisherId": "aoba-shuppan",
+    "labelId": "comic-junk",
+    "themeIds": [
+      "business",
+      "crime-underworld",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "不正融資事件で服役した灰原は、出所と同時に解雇を告げられ、行き場を失う。前科者となった彼が拾われたのは、債権回収を専門とする新会社「ナニワ金融」だった。金をめぐる人間の醜さと法の抜け穴を、実務の細部まで描き込んでいく『ナニワ金融道』の続編。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%96%B0%E3%83%8A%E3%83%8B%E3%83%AF%E9%87%91%E8%9E%8D%E9%81%93"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『新ナニワ金融道』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2013,
+    "volumeCount": 20
+  },
+  {
+    "id": "kuroageha",
+    "title": "くろアゲハ",
+    "titleKana": "くろあげは",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kase-atsushi"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "monthly-shonen-magazine",
+    "themeIds": [
+      "delinquent",
+      "romance",
+      "school"
+    ],
+    "firstPublishedYear": 2013,
+    "status": "completed",
+    "synopsis": "千葉の高校に通う星野英太は、昼はバイク好きの平凡な男子高生、夜は姉の命令でスナックの人気ホステス「エイラ」として女装させられている。彼が恋したのは、地元の悪を束ねる一族の妹にして伝説の暴走族の二代目だった。女装と不良を掛け合わせたヤンキー恋愛漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%8F%E3%82%8D%E3%82%A2%E3%82%B2%E3%83%8F"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『くろアゲハ』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2023,
+    "volumeCount": 20
+  },
+  {
+    "id": "haiakkodesu",
+    "title": "ハーイあっこです",
+    "titleKana": "はーいあっこです",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mitsuhashichikako"
+    ],
+    "publisherId": "asahi-shimbunsha",
+    "labelId": "asahi-shimbun-sunday",
+    "themeIds": [
+      "slice-of-life",
+      "comedy",
+      "romance"
+    ],
+    "firstPublishedYear": 1980,
+    "status": "completed",
+    "synopsis": "新婚のあっこさんを主人公に、夫や近所の人々とのやりとりを通して家庭の日常を描いた新聞連載漫画。連載が二十年以上続くなかで、あっこさん一家も年を重ね、子どもが生まれ育っていく。読者の生活と並走しながら、家族の時間そのものを積み重ねていった作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%82%A4%E3%81%82%E3%81%A3%E3%81%93%E3%81%A7%E3%81%99"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ハーイあっこです』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2002,
+    "volumeCount": 20
+  },
+  {
+    "id": "rikeigakoiniochitanodeshoumeishitemita",
+    "title": "理系が恋に落ちたので証明してみた。",
+    "titleKana": "りけいがこいにおちたのでしょうめいしてみた",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yamamoto-arifureddo"
+    ],
+    "publisherId": "flex-comix",
+    "labelId": "comic-meteor",
+    "themeIds": [
+      "romance",
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 2016,
+    "status": "ongoing",
+    "synopsis": "国立大学の理工学部で研究に打ち込む大学院生の氷室菖蒲は、同じ研究室の雪村心夜に「あなたが好きです」と告げる。だが理系である二人は、恋愛感情を科学的に証明しようと、研究室を巻き込んだ実験を始めてしまう。理屈で恋を解こうとする者たちのラブコメディ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%90%86%E7%B3%BB%E3%81%8C%E6%81%8B%E3%81%AB%E8%90%BD%E3%81%A1%E3%81%9F%E3%81%AE%E3%81%A7%E8%A8%BC%E6%98%8E%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F%E3%80%82"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『理系が恋に落ちたので証明してみた。』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 20
+  },
+  {
+    "id": "nanamarusanbatsu",
+    "title": "ナナマル サンバツ",
+    "titleKana": "ななまるさんばつ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "sugimoto-ikura"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "young-ace",
+    "themeIds": [
+      "school",
+      "sports",
+      "comedy"
+    ],
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "高校に入学した越山識は、新入生歓迎会の早押しクイズで、経験者の同級生が問題文の途中で答える様を目の当たりにする。答えを確定できる分岐点を読むという競技クイズの本質を知った識は、その世界へのめり込んでいく。実際の出題形式を丁寧に扱ったクイズ漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%8A%E3%83%9E%E3%83%AB_%E3%82%B5%E3%83%B3%E3%83%90%E3%83%84"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ナナマル サンバツ』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2020,
+    "volumeCount": 20
+  },
+  {
+    "id": "isekaichitomajishan",
+    "title": "異世界チート魔術師",
+    "titleKana": "いせかいちーとまじしゃん",
+    "originalAuthorIds": [
+      "uchida-takeshi"
+    ],
+    "artistIds": [
+      "suzuragi-karin"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "monthly-shonen-ace",
+    "themeIds": [
+      "isekai",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2016,
+    "status": "ongoing",
+    "synopsis": "高校生の西村太一と吾妻凛は、突然現れた魔法陣によって異世界へ飛ばされる。冒険者として生きるために受けた魔力検査で、二人はそれぞれ規格外の素養を持つと判明する。師となる魔術師のもとで力を磨きながら、異世界での生活を築いていく王道の転移ファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%95%B0%E4%B8%96%E7%95%8C%E3%83%81%E3%83%BC%E3%83%88%E9%AD%94%E8%A1%93%E5%B8%AB"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『異世界チート魔術師』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2024,
+    "volumeCount": 20
+  },
+  {
+    "id": "burakkukyatto",
+    "title": "BLACK CAT",
+    "titleKana": "ぶらっくきゃっと",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yabuki-kentaro"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "battle-action",
+      "psychic-battle",
+      "crime-underworld"
+    ],
+    "firstPublishedYear": 2000,
+    "status": "completed",
+    "synopsis": "秘密結社クロノスの精鋭暗殺者として「ブラック・キャット」と恐れられたトレイン・ハートネットは、掃除屋の少女サヤとの出会いをきっかけに組織を抜ける。だが元相棒によってサヤを殺され、彼は復讐と自らの生き方を賭けた戦いに身を投じていく。銃を武器にした異能バトル。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/BLACK_CAT"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『BLACK CAT』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2004,
+    "volumeCount": 20
+  },
+  {
+    "id": "yumenoshizuku",
+    "title": "夢の雫、黄金の鳥籠",
+    "titleKana": "ゆめのしずく",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "shinohara-chie"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "anekei-petit-comic",
+    "themeIds": [
+      "historical",
+      "romance",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "小さな村で育った少女アレクサンドラは、村を襲われて奴隷として売られ、やがてヒュッレムの名でオスマン帝国皇帝スレイマン一世に献上される。寵愛と嫉妬が渦巻く後宮ハレムで、彼女は生き残るために知恵と度胸を尽くしていく。史実に基づく後宮の権謀を描いた歴史ロマン。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%A4%A2%E3%81%AE%E9%9B%AB%E3%80%81%E9%BB%84%E9%87%91%E3%81%AE%E9%B3%A5%E7%B1%A0"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『夢の雫、黄金の鳥籠』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2024,
+    "volumeCount": 20
+  },
+  {
+    "id": "sengokukomachikuroutan",
+    "title": "戦国小町苦労譚",
+    "titleKana": "せんごくこまちくろうたん",
+    "originalAuthorIds": [
+      "kyochikuto",
+      "hirasawa-geko"
+    ],
+    "artistIds": [
+      "sawada-hajime"
+    ],
+    "publisherId": "earth-star-entertainment",
+    "labelId": "comic-earth-star",
+    "themeIds": [
+      "historical",
+      "isekai",
+      "business"
+    ],
+    "firstPublishedYear": 2017,
+    "status": "ongoing",
+    "synopsis": "農業高校生の綾小路静子は、下校途中に戦国時代へタイムスリップし、織田信長と出会う。最新の農業技術で役に立つと言い切った彼女は、荒れ果てた村の村長に任じられる。土壌改良や農機具の導入で圧倒的な成果を上げ、信長の天下取りを支えていく内政ファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%88%A6%E5%9B%BD%E5%B0%8F%E7%94%BA%E8%8B%A6%E5%8A%B4%E8%AD%9A"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『戦国小町苦労譚』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 20
+  },
+  {
+    "id": "ooyasanhashishunki",
+    "title": "大家さんは思春期!",
+    "titleKana": "おおやさんはししゅんき",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "minase-ruruu"
+    ],
+    "publisherId": "houbunsha",
+    "labelId": "manga-time",
+    "themeIds": [
+      "comedy",
+      "romance",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2012,
+    "status": "ongoing",
+    "synopsis": "上京してアパートを借りた青年が出会った大家は、なんと中学生の少女だった。しっかり者に見えて年相応に子どもっぽい大家と、彼女を意識してしまう店子との、微妙な距離感のやりとりが積み重ねられていく。ひたすら関係の機微だけで押し切る四コマコメディ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%AE%B6%E3%81%95%E3%82%93%E3%81%AF%E6%80%9D%E6%98%A5%E6%9C%9F%21"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『大家さんは思春期!』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2021,
+    "volumeCount": 20
+  },
+  {
+    "id": "tokkyu",
+    "title": "トッキュー!!",
+    "titleKana": "とっきゅー",
+    "originalAuthorIds": [
+      "komori-youichi"
+    ],
+    "artistIds": [
+      "kubo-mitsurou"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "workplace-drama",
+      "adventure",
+      "sports"
+    ],
+    "firstPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "海上保安庁の新米潜水士・神林兵悟は、漁に出たまま帰らぬ父を待ち続けた経験からこの職を選んだ。特殊救難隊「トッキュー」への憧れを胸に過酷な訓練へ挑み、仲間との衝突や別れを越えて海難救助の現場に立っていく。実際の救難活動を綿密に取材した職業漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%83%E3%82%AD%E3%83%A5%E3%83%BC%21%21"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『トッキュー!!』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2008,
+    "volumeCount": 20
+  },
+  {
+    "id": "onikirimaru",
+    "title": "鬼切丸",
+    "titleKana": "おにきりまる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kusunoki-kei"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday-chozokan",
+    "themeIds": [
+      "horror",
+      "dark-fantasy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1992,
+    "status": "completed",
+    "synopsis": "鬼の屍から生まれた名もなき少年は、鬼切丸という妖刀を携え、人の世に紛れ込んだ鬼を斬り続ける。鬼になるのは決まって、人としての苦しみに耐えかねた弱い者たちだった。救いのない結末を毎回積み重ねながら、鬼と人の境界がどこにあるのかを問い続けた連作の伝奇ホラー漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%AC%BC%E5%88%87%E4%B8%B8_%28%E6%BC%AB%E7%94%BB%29"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『鬼切丸 (漫画)』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2001,
+    "volumeCount": 20
+  },
+  {
+    "id": "baraironoseisen",
+    "title": "バラ色の聖戦",
+    "titleKana": "ばらいろのせいせん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "koyamayukari"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "kiss",
+    "themeIds": [
+      "romance",
+      "business",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "育児と家事に追われる三十歳の専業主婦・三木真琴は、夫の浮気を知って打ちのめされる。追い詰められた彼女は化粧品の訪問販売の世界に足を踏み入れ、成績を上げていくなかで自分の力で稼ぐ手応えを覚えていく。裏切られた主婦が働くことで立ち上がっていく姿を描いた女性漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%A9%E8%89%B2%E3%81%AE%E8%81%96%E6%88%A6"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『バラ色の聖戦』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2017,
+    "volumeCount": 20
+  },
+  {
+    "id": "hoankaneansunousodeddooarabu",
+    "title": "保安官エヴァンスの嘘 〜DEAD OR LOVE〜",
+    "titleKana": "ほあんかんえぁんすのうそでっどおあらぶ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kuriyama-mizuki"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "comedy",
+      "historical",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2017,
+    "status": "completed",
+    "synopsis": "西部開拓時代の町で保安官を務めるエルモア・エヴァンスは、金にも名誉にも靡かず冷静沈着に職務をこなす人格者として評判だった。だがその内心は、女性にもてることしか考えていない。取り繕った言動と本音のずれを毎回積み重ねていく、西部劇を舞台にした下心コメディ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E4%BF%9D%E5%AE%89%E5%AE%98%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%B9%E3%81%AE%E5%98%98_%E3%80%9CDEAD_OR_LOVE%E3%80%9C"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『保安官エヴァンスの嘘 〜DEAD OR LOVE〜』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2022,
+    "volumeCount": 20
+  },
+  {
+    "id": "otomenoteikoku",
+    "title": "オトメの帝国",
+    "titleKana": "おとめのていこく",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kishi-torajirou"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "business-jump",
+    "themeIds": [
+      "yuri",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "全寮制の女子校を舞台に、少女たちの何気ない会話や視線、ふとした瞬間に縮まる距離を淡々と積み重ねていく。恋と呼ぶには曖昧で、友情と呼ぶには濃すぎる関係が、教室や寮の片隅で無数に交差する。物語らしい起伏をあえて置かず、その場の空気そのものを描き続けた百合作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%88%E3%83%A1%E3%81%AE%E5%B8%9D%E5%9B%BD"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『オトメの帝国』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2025,
+    "volumeCount": 20
+  },
+  {
+    "id": "tsuirakujeketohaijinkyoushi",
+    "title": "墜落JKと廃人教師",
+    "titleKana": "ついらくじぇーけーとはいじんきょうし",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "sora"
+    ],
+    "publisherId": "hakusensha",
+    "labelId": "hana-to-yume",
+    "themeIds": [
+      "romance",
+      "school",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2017,
+    "status": "completed",
+    "synopsis": "失恋を苦に校舎の屋上から飛び降りようとした女子高生・落合扇言は、物理科教師の灰葉仁に止められる。「死ぬ前に俺と恋愛しない?」という常識外れの提案から始まった二人の関係は、互いの抱える傷に触れながら少しずつ変質していく。危うさをはらんだ少女漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%A2%9C%E8%90%BDJK%E3%81%A8%E5%BB%83%E4%BA%BA%E6%95%99%E5%B8%AB"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『墜落JKと廃人教師』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2024,
+    "volumeCount": 20
+  },
+  {
+    "id": "midoriyamakoukou",
+    "title": "緑山高校",
+    "titleKana": "みどりやまこうこう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kuwasawa-atsuo"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "young-jump",
+    "themeIds": [
+      "sports",
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 1984,
+    "status": "completed",
+    "synopsis": "創立されたばかりの緑山高校が、傍若無人なエース二階堂を擁して福島県大会を制し、甲子園へ乗り込む。全員が一年生、チーム打率二割以下という寄せ集めの集団が、意外性だけで強豪校を次々と食っていく。常識を外した展開で笑わせながら勝ち進んでいく高校野球漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%B7%91%E5%B1%B1%E9%AB%98%E6%A0%A1"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『緑山高校』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 1987,
+    "volumeCount": 20
+  },
+  {
+    "id": "rupansanseineibawarudopurinsesu",
+    "title": "ルパン三世 異世界の姫君",
+    "titleKana": "るぱんさんせいねいばーわーるどぷりんせす",
+    "originalAuthorIds": [
+      "monkey-punch"
+    ],
+    "artistIds": [
+      "uchiuchi-keyaki"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "shonen-champion",
+    "themeIds": [
+      "isekai",
+      "adventure",
+      "comedy"
+    ],
+    "firstPublishedYear": 2021,
+    "status": "ongoing",
+    "synopsis": "ルパン三世たち一味が狙ったのは、存在しない国で鋳造されたという五百枚の金貨だった。だがその金貨に触れた瞬間、四人は剣と魔法の異世界へ飛ばされてしまう。銃も車も通じない世界で、ルパンたちは持ち前の機転だけで宝と帰路を探す。ルパン三世の異世界外伝。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%91%E3%83%B3%E4%B8%89%E4%B8%96_%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%AE%E5%A7%AB%E5%90%9B"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ルパン三世 異世界の姫君』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 20
+  },
+  {
+    "id": "shinjunonekutaru",
+    "title": "神呪のネクタール",
+    "titleKana": "しんじゅのねくたーる",
+    "originalAuthorIds": [
+      "yoshino-hiroyuki"
+    ],
+    "artistIds": [
+      "satou-kenetsu"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "champion-red",
+    "themeIds": [
+      "isekai",
+      "battle-action",
+      "ero-guro"
+    ],
+    "firstPublishedYear": 2017,
+    "status": "ongoing",
+    "synopsis": "自分を不要な人間だと思い込んでいた青年・渉里塊は、異世界の王女サクラに「稀人」として召喚される。彼女の内に宿るもう一つの人格から力を授けられた塊は、圧倒的な戦力を持つ敵国の軍勢に立ち向かうことになる。露骨な官能描写を伴う異世界バトルファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E5%91%AA%E3%81%AE%E3%83%8D%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%AB"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『神呪のネクタール』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 20
+  },
+  {
+    "id": "denzuboui",
+    "title": "ヱデンズボゥイ",
+    "titleKana": "ゑでんずぼぅい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tennouji-kitsune"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "comptiq",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 1994,
+    "status": "completed",
+    "synopsis": "天上都市の落とし子である少年ヨルンは、いつか天に昇って母と再会することを夢見て地上で暮らしていた。空から降ってきた少女エリシスとの出会いを機に、彼は神殺しの秘密を求める者たちの争いに巻き込まれていく。奔放な画風で描かれた長期のファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%B1%E3%83%87%E3%83%B3%E3%82%BA%E3%83%9C%E3%82%A5%E3%82%A4"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ヱデンズボゥイ』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2009,
+    "volumeCount": 20
+  },
+  {
+    "id": "mikatagayowasugitehojomahounitesshiteita",
+    "title": "味方が弱すぎて補助魔法に徹していた宮廷魔法師、追放されて最強を目指す",
+    "titleKana": "みかたがよわすぎてほじょまほうにてっしていたきゅうていまほうし",
+    "originalAuthorIds": [
+      "aruto"
+    ],
+    "artistIds": [
+      "monji-yuki"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "magazine-pocket",
+    "themeIds": [
+      "isekai",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2021,
+    "status": "ongoing",
+    "synopsis": "味方があまりに弱いため、攻撃を捨てて補助魔法だけを磨き続けた宮廷魔法師は、役立たずと見なされて追放される。だが極限まで鍛えた補助魔法を自分自身に掛けたとき、彼は誰よりも強い存在になっていた。追放をきっかけに真価を発揮していく異世界ファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%91%B3%E6%96%B9%E3%81%8C%E5%BC%B1%E3%81%99%E3%81%8E%E3%81%A6%E8%A3%9C%E5%8A%A9%E9%AD%94%E6%B3%95%E3%81%AB%E5%BE%B9%E3%81%97%E3%81%A6%E3%81%84%E3%81%9F%E5%AE%AE%E5%BB%B7%E9%AD%94%E6%B3%95%E5%B8%AB%E3%80%81%E8%BF%BD%E6%94%BE%E3%81%95%E3%82%8C%E3%81%A6%E6%9C%80%E5%BC%B7%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『味方が弱すぎて補助魔法に徹していた宮廷魔法師、追放されて最強を目指す』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 20
+  },
+  {
+    "id": "kamomechansu",
+    "title": "かもめ☆チャンス",
+    "titleKana": "かもめちゃんす",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tamai-yukio"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-spirits",
+    "themeIds": [
+      "sports",
+      "workplace-drama",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "男手ひとつで娘を育てる信用金庫の外回り社員・更科二郎は、卑屈さを抱えたまま日々をやり過ごしていた。娘の急報に駆けつけるため借りたロードバイクの走りに衝撃を受けた彼は、そのまま自転車の世界にのめり込んでいく。機材と走りの描写に深く踏み込んだ自転車漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%8B%E3%82%82%E3%82%81%E2%98%86%E3%83%81%E3%83%A3%E3%83%B3%E3%82%B9"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『かもめ☆チャンス』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2013,
+    "volumeCount": 20
   }
 ]

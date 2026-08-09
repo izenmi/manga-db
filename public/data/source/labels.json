@@ -3206,5 +3206,85 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mister-magazine",
+    "name": "ミスターマガジン",
+    "nameKana": "みすたーまがじん",
+    "publisherId": "kodansha",
+    "description": "講談社が発行していた青年漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "magazine-zero",
+    "name": "マガジンZERO",
+    "nameKana": "まがじんぜろ",
+    "publisherId": "biblos",
+    "description": "ビブロスが発行していた漫画誌。後に角川書店へ引き継がれた。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "magcomi",
+    "name": "MAGCOMI",
+    "nameKana": "まぐこみ",
+    "publisherId": "mag-garden",
+    "description": "マッグガーデンが運営するWebコミック配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "comic-junk",
+    "name": "COMICジャンク",
+    "nameKana": "こみっくじゃんく",
+    "publisherId": "aoba-shuppan",
+    "description": "あおば出版が発行していた青年漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "asahi-shimbun-sunday",
+    "name": "朝日新聞日曜版",
+    "nameKana": "あさひしんぶんにちようばん",
+    "publisherId": "asahi-shimbunsha",
+    "description": "朝日新聞の日曜版。長期連載の家庭漫画を掲載していた。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "anekei-petit-comic",
+    "name": "姉系プチコミック",
+    "nameKana": "あねけいぷちこみっく",
+    "publisherId": "shogakukan",
+    "description": "小学館が発行していた女性向け漫画誌。プチコミックの姉妹誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "manga-time",
+    "name": "まんがタイム",
+    "nameKana": "まんがたいむ",
+    "publisherId": "houbunsha",
+    "description": "芳文社が発行する4コマ漫画誌。同社の4コマ路線の中核となる雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shonen-sunday-chozokan",
+    "name": "少年サンデー超増刊号",
+    "nameKana": "しょうねんさんでーちょうぞうかんごう",
+    "publisherId": "shogakukan",
+    "description": "小学館が発行していた週刊少年サンデーの増刊号。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
   }
 ]

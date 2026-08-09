@@ -2806,5 +2806,59 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipedia『S -最後の警官-』記事および人物記事で確認(2026-08-09閲覧)。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "monkey-punch",
+    "name": "モンキー・パンチ",
+    "nameKana": "もんきーぱんち",
+    "description": "『ルパン三世』の作者として知られる漫画家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ezogingitsune",
+    "name": "えぞぎんぎつね",
+    "nameKana": "えぞぎんぎつね",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『ここは俺に任せて先に行けと言ってから10年がたったら伝説になっていた。』記事および人物記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "uchida-takeshi",
+    "name": "内田健",
+    "nameKana": "うちだたけし",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『異世界チート魔術師』記事および人物記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kyochikuto",
+    "name": "夾竹桃",
+    "nameKana": "きょうちくとう",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『戦国小町苦労譚』記事および人物記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hirasawa-geko",
+    "name": "平沢下戸",
+    "nameKana": "ひらさわげこ",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『戦国小町苦労譚』記事および人物記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "aruto",
+    "name": "アルト",
+    "nameKana": "あると",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『味方が弱すぎて補助魔法に徹していた宮廷魔法師、追放されて最強を目指す』記事および人物記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
   }
 ]
