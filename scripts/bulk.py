@@ -591,8 +591,9 @@ def cmd_build(args):
                  "externalLinks": {"wikipediaUrl": r["url"]},
                  "mediaMix": {"anime": bool(r["anime"]), "novelization": bool(r["novel"])},
                  "sourceNote": note, "updatedAt": TODAY}
-            if r["end"]:
-                w["latestPublishedYear"] = r["end"]
+            ly = r["end"] if a.get("ly") is None else a["ly"]
+            if ly:                       # annot で "ly": 0 と書くと連載終了年を落とせる
+                w["latestPublishedYear"] = ly
             if r["volumes"]:
                 w["volumeCount"] = r["volumes"]
             batch["works"].append(w)
@@ -604,6 +605,13 @@ def cmd_build(args):
     lab_pub.update({x["id"]: x["publisherId"] for x in batch["newLabels"]})
     mismatch = [f'{w["id"]}: 誌{w["labelId"]}の版元は{lab_pub.get(w["labelId"])} / 作品は{w["publisherId"]}'
                 for w in batch["works"] if lab_pub.get(w["labelId"]) != w["publisherId"]]
+    # Infoboxの「開始号/終了号」は片方しか埋まっていないことがあり、10巻超の作品が
+    # 連載1年で終わったことになる(『ジャジャ』2000-2000で全39巻)。annot の ly で直す
+    mismatch += [f'{w["id"]}: {w.get("volumeCount")}巻なのに連載'
+                 f'{w["firstPublishedYear"]}-{w.get("latestPublishedYear")}(ly を指定)'
+                 for w in batch["works"]
+                 if (w.get("volumeCount") or 0) >= 10
+                 and w.get("latestPublishedYear", 9999) - w["firstPublishedYear"] < 2]
 
     Path(args.out).write_text(json.dumps(batch, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"works={len(batch['works'])} artists={len(batch['newArtists'])} "

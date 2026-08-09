@@ -55802,5 +55802,914 @@
     "sourceNote": "日本語版Wikipedia『Landreaall』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-09",
     "volumeCount": 45
+  },
+  {
+    "id": "dokabensupasutazuhen",
+    "title": "ドカベン スーパースターズ編",
+    "titleKana": "どかべんすぱすたずへん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mizushima-shinji"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "shonen-champion",
+    "themeIds": [
+      "sports"
+    ],
+    "firstPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "プロ野球で活躍していた山田太郎や岩鬼ら明訓五人衆が、新たに創設された二球団「東京スーパースターズ」と「四国アイアンドッグス」に分かれて対決する。土井垣と犬飼小次郎がそれぞれ監督を務め、高校時代の仲間やライバルたちが敵味方に入り乱れて戦う。『ドカベン プロ野球編』に続くシリーズ第四部。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%AB%E3%83%99%E3%83%B3_%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA%E7%B7%A8"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ドカベン スーパースターズ編』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2012,
+    "volumeCount": 45
+  },
+  {
+    "id": "pasuteru",
+    "title": "ぱすてる",
+    "titleKana": "ぱすてる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kobayashi-toshihiko"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "romance",
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "失恋の傷を抱えたまま海の家でアルバイトをしていた只野麦は、偶然出会った美少女・月咲ゆうに一目惚れするが、名前も聞けずに別れてしまう。ところが帰宅すると、父親の親友の娘であるゆうとその妹が自宅で暮らし始めていた。思いを打ち明けられないまま始まる同居生活を、じれったい距離感で描いたラブコメディ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%B1%E3%81%99%E3%81%A6%E3%82%8B"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ぱすてる』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2017,
+    "volumeCount": 44
+  },
+  {
+    "id": "nagasareteairantou",
+    "title": "ながされて藍蘭島",
+    "titleKana": "ながされてあいらんとう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "fujishiro-takeshi"
+    ],
+    "publisherId": "square-enix",
+    "labelId": "gangan-monthly",
+    "themeIds": [
+      "comedy",
+      "romance",
+      "adventure"
+    ],
+    "firstPublishedYear": 2002,
+    "status": "ongoing",
+    "synopsis": "船から転落した少年・鈴木行は、外界と断絶した孤島「藍蘭島」に流れ着く。そこは二百年以上前に漂着した人々の子孫が暮らす女性ばかりの島で、島を出る手段はなく、行は唯一の男性として暮らすことになる。個性豊かな島の少女たちに囲まれた騒がしい日々を、のどかな島の風景とともに描くラブコメディ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%AA%E3%81%8C%E3%81%95%E3%82%8C%E3%81%A6%E8%97%8D%E8%98%AD%E5%B3%B6"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『ながされて藍蘭島』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2019,
+    "volumeCount": 44
+  },
+  {
+    "id": "osukaratebu",
+    "title": "押忍!!空手部",
+    "titleKana": "おすからてぶ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "takahashi-koji"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "young-jump",
+    "themeIds": [
+      "battle-action",
+      "delinquent",
+      "school"
+    ],
+    "firstPublishedYear": 1985,
+    "status": "completed",
+    "synopsis": "大阪の悪名高い工業高校に入学した松下正は、強くなりたい一心で校内でも恐れられる空手部の門を叩く。先輩たちの理不尽なシゴキに耐えながら実力をつけた松下たちは、やがて主将・高木の首を狙う他校の猛者や神戸の勢力との抗争に巻き込まれていく。喧嘩と空手が地続きになった破天荒な学園格闘漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%8A%BC%E5%BF%8D%21%21%E7%A9%BA%E6%89%8B%E9%83%A8"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『押忍!!空手部』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 1996,
+    "volumeCount": 43
+  },
+  {
+    "id": "kuroba",
+    "title": "クローバー",
+    "titleKana": "くろーばー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hirakawa-tetsuhiro"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "shonen-champion",
+    "themeIds": [
+      "delinquent",
+      "school",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "人と関わらずに生きてきた高校生・奈良友基のもとに、小学校時代の親友だった美咲隼斗が転校してくる。破天荒だが情に厚い隼斗に引きずり回されるうち、友基は失っていた友情を取り戻していく。だが隼斗の存在は周囲に次々と厄介事を呼び込み、やがて三人は不良たちとの抗争に巻き込まれていく。少年たちの友情と喧嘩を描いた作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%90%E3%83%BC_%28%E5%B9%B3%E5%B7%9D%E5%93%B2%E5%BC%98%E3%81%AE%E6%BC%AB%E7%94%BB%29"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『クローバー (平川哲弘の漫画)』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2015,
+    "volumeCount": 43
+  },
+  {
+    "id": "radikaruhosupitaru",
+    "title": "ラディカル・ホスピタル",
+    "titleKana": "らでぃかるほすぴたる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hiranoayu"
+    ],
+    "publisherId": "houbunsha",
+    "labelId": "manga-time-original",
+    "themeIds": [
+      "medical",
+      "comedy",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 1998,
+    "status": "ongoing",
+    "synopsis": "総合病院を舞台に、看護師や医師、事務員、そして患者たちが繰り広げる日常を描いた四コマ漫画。医療現場ならではの慌ただしさや専門用語をネタにしつつ、命と向き合う職場の温かさもすくい取っていく。二十年にわたって複数誌で並行連載され、シリーズ累計百万部を超えた長寿の医療コメディ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%87%E3%82%A3%E3%82%AB%E3%83%AB%E3%83%BB%E3%83%9B%E3%82%B9%E3%83%94%E3%82%BF%E3%83%AB"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ラディカル・ホスピタル』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2018,
+    "volumeCount": 42
+  },
+  {
+    "id": "tsukijiuogashisandaime",
+    "title": "築地魚河岸三代目",
+    "titleKana": "つきじうおがしさんだいめ",
+    "originalAuthorIds": [
+      "oishi-kenichi",
+      "nabeshima-masaharu",
+      "kuwakazuto"
+    ],
+    "artistIds": [
+      "hashimotomitsuo"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic",
+    "themeIds": [
+      "gourmet",
+      "workplace-drama",
+      "business"
+    ],
+    "firstPublishedYear": 2000,
+    "status": "completed",
+    "synopsis": "銀行員として人員整理を担わされた赤木旬太郎は、その責任を取って退職し、妻の実家である築地の仲卸「魚辰」の三代目を継ぐことになる。魚の目利きも符丁も分からないまま市場に飛び込んだ旬太郎は、持ち前の明るさと食への好奇心で客や職人たちの信頼を勝ち取っていく。築地市場の内側を丹念に描いたグルメ漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%AF%89%E5%9C%B0%E9%AD%9A%E6%B2%B3%E5%B2%B8%E4%B8%89%E4%BB%A3%E7%9B%AE"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『築地魚河岸三代目』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2013,
+    "volumeCount": 42
+  },
+  {
+    "id": "dokushinapatodokudamisou",
+    "title": "独身アパートどくだみ荘",
+    "titleKana": "どくしんあぱーとどくだみそう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "fukutani-takashi"
+    ],
+    "publisherId": "houbunsha",
+    "labelId": "weekly-manga-times",
+    "themeIds": [
+      "slice-of-life",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 1979,
+    "status": "completed",
+    "synopsis": "東京・阿佐ヶ谷の四畳半風呂なしアパート「どくだみ荘」に暮らす貧乏青年・堀ヨシオの日々を描く。金もなく見栄えもしないが、女性との出会いと別れを繰り返しては傷つき、また立ち上がる。作者自身の実体験を下敷きにした自伝的な作品で、下世話さと哀愁が同居する昭和の青春群像を切り取っている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%8B%AC%E8%BA%AB%E3%82%A2%E3%83%91%E3%83%BC%E3%83%88%E3%81%A9%E3%81%8F%E3%81%A0%E3%81%BF%E8%8D%98"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『独身アパートどくだみ荘』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 1993,
+    "volumeCount": 42
+  },
+  {
+    "id": "tetsubon",
+    "title": "テツぼん",
+    "titleKana": "てつぼん",
+    "originalAuthorIds": [
+      "takahashi-enshu"
+    ],
+    "artistIds": [
+      "nagamatsu-kiyoshi"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-original-zokan",
+    "themeIds": [
+      "business",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "無類の鉄道好きのフリーター・仙露鉄男は、代議士だった父の急逝を受けて後継候補に担ぎ出され、思いがけず国会議員になってしまう。党内では数合わせとして軽んじられるが、膨大な鉄道知識を武器に交通政策へ切り込み、官僚も財界人も一目置く存在になっていく。鉄道を軸に政治を描いた異色の青年漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%84%E3%81%BC%E3%82%93"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『テツぼん』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2026,
+    "volumeCount": 41
+  },
+  {
+    "id": "zashefu",
+    "title": "ザ・シェフ",
+    "titleKana": "ざしぇふ",
+    "originalAuthorIds": [
+      "tsurugina-mai"
+    ],
+    "artistIds": [
+      "katou-tadashi"
+    ],
+    "publisherId": "nihon-bungeisha",
+    "labelId": "manga-goraku",
+    "themeIds": [
+      "gourmet",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 1985,
+    "status": "completed",
+    "synopsis": "法外な報酬と引き換えに腕を振るう、臨時雇い専門の天才料理人・味沢匠。素性を明かさず現れては、依頼人が抱える事情を料理一皿で解きほぐし、また去っていく。料理漫画の体裁を取りながら本質は人間ドラマにあり、一話完結で人の業と再生を描き続けた。作者自身が「ブラック・ジャックを料理漫画で」と語った作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%BB%E3%82%B7%E3%82%A7%E3%83%95"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ザ・シェフ』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 1993,
+    "volumeCount": 41
+  },
+  {
+    "id": "soutanohouchouginzaitamaeshugyounikki",
+    "title": "蒼太の包丁 銀座・板前修業日記",
+    "titleKana": "そうたのほうちょうぎんざいたまえしゅぎょうにっき",
+    "originalAuthorIds": [
+      "sueda-yuuichirou"
+    ],
+    "artistIds": [
+      "honjou-kei"
+    ],
+    "publisherId": "jitsugyo-no-nihonsha",
+    "labelId": "manga-sunday",
+    "themeIds": [
+      "gourmet",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "北海道の実家の料理屋を立て直すため上京した北丘蒼太は、思うような修行先に恵まれずくすぶっていた。落としたニンジンを拾いに戻った実直さを見込まれ、東京屈指の料亭「富み久」へ迎えられる。良き先輩に恵まれた蒼太が「心を伝える料理」を目指し、和食の板前として一歩ずつ腕を上げていく修業譚。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E8%92%BC%E5%A4%AA%E3%81%AE%E5%8C%85%E4%B8%81_%E9%8A%80%E5%BA%A7%E3%83%BB%E6%9D%BF%E5%89%8D%E4%BF%AE%E6%A5%AD%E6%97%A5%E8%A8%98"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『蒼太の包丁 銀座・板前修業日記』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2013,
+    "volumeCount": 41
+  },
+  {
+    "id": "doroppu",
+    "title": "ドロップ",
+    "titleKana": "どろっぷ",
+    "originalAuthorIds": [
+      "shinagawa-hiroshi"
+    ],
+    "artistIds": [
+      "suzuki-dai"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "monthly-shonen-champion",
+    "themeIds": [
+      "delinquent",
+      "school"
+    ],
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "裕福な家庭に育った中学生・信濃川ヒロシは、憧れていた不良になるため全寮制の学校を離れ、荒れた公立中学へ転校する。転校初日に呼び出された屋上で度胸を示し、番格の井口達也たちに認められて仲間入りを果たす。他校との喧嘩に明け暮れる日々を、芸人・品川ヒロシの自伝小説を原作に描いた不良漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%AD%E3%83%83%E3%83%97_%28%E5%B0%8F%E8%AA%AC%29"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『ドロップ (小説)』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2020,
+    "volumeCount": 40
+  },
+  {
+    "id": "kamisamanobare",
+    "title": "神様のバレー",
+    "titleKana": "かみさまのばれー",
+    "originalAuthorIds": [
+      "watanabetsuruya"
+    ],
+    "artistIds": [
+      "nishizaki-taisei"
+    ],
+    "publisherId": "houbunsha",
+    "labelId": "weekly-manga-times",
+    "themeIds": [
+      "sports",
+      "school"
+    ],
+    "firstPublishedYear": 2012,
+    "status": "ongoing",
+    "synopsis": "相手の弱点を的確に見抜き、嫌がるプレーを仕掛けさせる「嫌がらせの天才」と呼ばれるVリーグの凄腕アナリスト・阿月総一。全国優勝と引き換えに全日本監督の座を約束され、万年一回戦負けの中学バレー部のコーチに就任する。根性論しか知らないチームを、データと戦術で組み替えていく理詰めのスポーツ漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%A7%98%E3%81%AE%E3%83%90%E3%83%AC%E3%83%BC"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『神様のバレー』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 40
+  },
+  {
+    "id": "amaiseikatsu",
+    "title": "甘い生活",
+    "titleKana": "あまいせいかつ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yuzuki-hikaru"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "business-jump",
+    "themeIds": [
+      "romance",
+      "comedy",
+      "business"
+    ],
+    "firstPublishedYear": 1990,
+    "status": "completed",
+    "synopsis": "下着メーカーに勤める伸介が、女性たちに囲まれながら新しいランジェリーを世に送り出していく。開発の現場で起きる騒動と、周囲の女性たちとの色恋沙汰が絡み合い、軽妙な会話劇として展開する。下着というモチーフを軸に据えたまま三十年以上続いた、青年誌の長寿ラブコメディ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%94%98%E3%81%84%E7%94%9F%E6%B4%BB_%28%E6%BC%AB%E7%94%BB%29"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『甘い生活 (漫画)』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2024,
+    "volumeCount": 40
+  },
+  {
+    "id": "enjeruboisu",
+    "title": "ANGEL VOICE",
+    "titleKana": "えんじぇるぼいす",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "koyano-takao"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "shonen-champion",
+    "themeIds": [
+      "sports",
+      "delinquent",
+      "school"
+    ],
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "千葉県の市立蘭山高校サッカー部は、実力ではなく喧嘩の強さで「県内最強」と呼ばれる荒廃した集団だった。立て直しのために招かれた監督・黒木は、中学時代に喧嘩で名を馳せた四人を軸にチームを組み直す。ベスト4に入らなければ廃部という条件を突きつけられ、激戦区・千葉の高校サッカーに挑んでいく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ANGEL_VOICE_%28%E6%BC%AB%E7%94%BB%29"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ANGEL VOICE (漫画)』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2014,
+    "volumeCount": 40
+  },
+  {
+    "id": "tafu",
+    "title": "TOUGH",
+    "titleKana": "たふ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "saruwatari-tetsuya"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "young-jump",
+    "themeIds": [
+      "battle-action",
+      "crime-underworld"
+    ],
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "幽玄真影流の使い手である宮沢熹一は、鬼龍との死闘で重体となった父・静虎の復活を願い、自らの修行も兼ねてヤクザの新道力丸と手を組む。闇の地下格闘から表舞台の「ハイパーバトル」へと戦いの場を移し、世界の頂点を目指していく。熹一の出生の秘密と流派の因縁が絡み合う、格闘漫画シリーズの続編。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/TOUGH_%28%E6%BC%AB%E7%94%BB%29"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『TOUGH (漫画)』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2012,
+    "volumeCount": 39
+  },
+  {
+    "id": "gettobakkazudakkanya",
+    "title": "GetBackers-奪還屋-",
+    "titleKana": "げっとばっかーずだっかんや",
+    "originalAuthorIds": [
+      "aoki-yuya"
+    ],
+    "artistIds": [
+      "ayamine-rando"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "battle-action",
+      "psychic-battle",
+      "adventure"
+    ],
+    "firstPublishedYear": 1999,
+    "status": "completed",
+    "synopsis": "裏新宿を根城に、依頼人が奪われたものを取り返す裏稼業「奪還屋」。邪眼の使い手・美堂蛮と、電気を操る天野銀次のコンビは、成功率百パーセントを謳いながら万年金欠の日々を送っている。持ち込まれる依頼の裏に潜む陰謀や、二人の過去にまつわる因縁が次第に明かされていくバトルアクション。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/GetBackers-%E5%A5%AA%E9%82%84%E5%B1%8B-"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『GetBackers-奪還屋-』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2007,
+    "volumeCount": 39
+  },
+  {
+    "id": "aitsutorarabai",
+    "title": "あいつとララバイ",
+    "titleKana": "あいつとららばい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kusunoki-michiharu"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "romance",
+      "delinquent",
+      "sports"
+    ],
+    "firstPublishedYear": 1981,
+    "status": "completed",
+    "synopsis": "バイクを愛する高校生・菱本研二は、憧れの女性・友美との恋に一喜一憂しながら、暴走族や暴力団との抗争に巻き込まれていく。物語が進むにつれ焦点は公道でのバトルへ移り、次々と現れるライバルとの走りを通じて研二はライダーとして成長していく。恋愛と不良とバイクが渾然一体となった青春漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%84%E3%81%A4%E3%81%A8%E3%83%A9%E3%83%A9%E3%83%90%E3%82%A4"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『あいつとララバイ』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 1989,
+    "volumeCount": 39
+  },
+  {
+    "id": "jaja",
+    "title": "ジャジャ",
+    "titleKana": "じゃじゃ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "enoakira"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "sunday-gx",
+    "themeIds": [
+      "slice-of-life",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2000,
+    "status": "ongoing",
+    "synopsis": "バイク便ライダーのフリーター・宮城進武は、イタリア車専門のモーターサイクルショップ「ゴブリン」の二階に間借りしている。カワサキを愛するミヤギと、旧いイタリア車に心酔する店主のレナ、元レーサーの親友カナコ。名車をめぐる薀蓄と、バイク好きたちの他愛ない日常を積み重ねていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%82%B8%E3%83%A3"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ジャジャ』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2019,
+    "volumeCount": 39
+  },
+  {
+    "id": "demekin",
+    "title": "デメキン",
+    "titleKana": "でめきん",
+    "originalAuthorIds": [
+      "sata-masaki"
+    ],
+    "artistIds": [
+      "yu-hajime"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "young-champion",
+    "themeIds": [
+      "delinquent",
+      "crime-underworld"
+    ],
+    "firstPublishedYear": 2009,
+    "status": "ongoing",
+    "synopsis": "いじめられっ子だった少年が、中学で不良の世界に足を踏み入れ、やがて福岡最大の暴走族の総長へと駆け上がっていく。芸人・佐田正樹の自伝小説を原作とし、実在の友人たちをモデルにした人物が登場する。喧嘩と仲間との絆に彩られた、九州の暴走族文化を描いた自伝的な不良漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%A1%E3%82%AD%E3%83%B3_%28%E5%B0%8F%E8%AA%AC%29"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『デメキン (小説)』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 39
+  },
+  {
+    "id": "samuraidipakyou",
+    "title": "SAMURAI DEEPER KYO",
+    "titleKana": "さむらいでぃーぱーきょう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kamijou-akimine"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "battle-action",
+      "historical",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 1999,
+    "status": "completed",
+    "synopsis": "関ヶ原の戦いから四年後。兄の敵を追う賞金首狩りの少女・椎名ゆやは、呑気な薬売りの青年・壬生京四郎と出会う。だが京四郎の内には「千人斬りの鬼」と恐れられた賞金首・鬼眼の狂が眠っていた。真田幸村や出雲阿国ら歴史上の人物を敵味方に配し、剣戟と異能が交錯する戦国伝奇バトル。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/SAMURAI_DEEPER_KYO"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『SAMURAI DEEPER KYO』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2006,
+    "volumeCount": 38
+  },
+  {
+    "id": "shuujinriku",
+    "title": "囚人リク",
+    "titleKana": "しゅうじんりく",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "seguchi-shinobu"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "shonen-champion",
+    "themeIds": [
+      "battle-action",
+      "crime-underworld",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "隕石の落下で壊滅した東京。復興から取り残されたスラムで育った少年リクは、自分を見守ってくれた警察官が警視総監の悪事を暴こうとして殺され、その罪を着せられて極楽島特級刑務所へ送られる。無実を晴らし恩人の無念を返すため、リクは癖の強い囚人たちを仲間に引き入れ、脱獄を企てていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%9B%9A%E4%BA%BA%E3%83%AA%E3%82%AF"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『囚人リク』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2018,
+    "volumeCount": 38
+  },
+  {
+    "id": "doragonkuesutodainodaibouken",
+    "title": "DRAGON QUEST -ダイの大冒険-",
+    "titleKana": "どらごんくえすとだいのだいぼうけん",
+    "originalAuthorIds": [
+      "sanjouriku"
+    ],
+    "artistIds": [
+      "inada-kouji"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "battle-action",
+      "adventure",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 1989,
+    "status": "completed",
+    "synopsis": "魔王が倒され平和が訪れた世界で、モンスターの島に育てられた少年ダイは勇者に憧れていた。だが魔王軍の復活によって島の仲間は操られ、ダイは家庭教師アバンのもとで真の勇者を目指す旅に出る。ポップやマァムら仲間との絆を重ね、大魔王バーンとの決戦へ挑む王道の冒険ファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/DRAGON_QUEST_-%E3%83%80%E3%82%A4%E3%81%AE%E5%A4%A7%E5%86%92%E9%99%BA-"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『DRAGON QUEST -ダイの大冒険-』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 1996,
+    "volumeCount": 37
+  },
+  {
+    "id": "satanofani",
+    "title": "サタノファニ",
+    "titleKana": "さたのふぁに",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yamada-yoshinobu"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "young-magazine",
+    "themeIds": [
+      "ero-guro",
+      "suspense-psychological",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2017,
+    "status": "completed",
+    "synopsis": "身に覚えのない凶悪殺人の罪で孤島の女子刑務所に収容された女子高生。そこには同じように理不尽な力に囚われた少女たちが集められていた。人間の内に眠る異能をめぐる陰謀が明らかになるにつれ、彼女たちは施設の外側にある巨大な意思と対峙していく。エロスと暴力を前面に据えたサスペンス作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%BF%E3%83%8E%E3%83%95%E3%82%A1%E3%83%8B"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『サタノファニ』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2023,
+    "volumeCount": 37
+  },
+  {
+    "id": "nobunaganoshefu",
+    "title": "信長のシェフ",
+    "titleKana": "のぶながのしぇふ",
+    "originalAuthorIds": [
+      "nishimura-mitsuru"
+    ],
+    "artistIds": [
+      "kajikawa-takurou"
+    ],
+    "publisherId": "houbunsha",
+    "labelId": "weekly-manga-times",
+    "themeIds": [
+      "gourmet",
+      "historical",
+      "sci-fi"
+    ],
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "記憶を失ったまま戦国時代に迷い込んだフランス料理人のケンは、その腕を織田信長に見込まれ、専属料理人として仕えることになる。限られた食材と道具で現代の技法を再現し、饗応や兵糧を通じて信長の天下取りを支えていく。歴史の転換点に料理人の視点から切り込む、料理と歴史を掛け合わせた作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E4%BF%A1%E9%95%B7%E3%81%AE%E3%82%B7%E3%82%A7%E3%83%95"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『信長のシェフ』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2024,
+    "volumeCount": 37
+  },
+  {
+    "id": "baremonhato",
+    "title": "BARレモン・ハート",
+    "titleKana": "ばーれもんはーと",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "furuyamitsutoshi"
+    ],
+    "publisherId": "futabasha",
+    "labelId": "manga-action",
+    "themeIds": [
+      "gourmet",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 1985,
+    "status": "completed",
+    "synopsis": "路地裏のバー「レモン・ハート」に集う常連客たちが、マスターの淹れる一杯を前に語らう。ウイスキーやカクテルの由来、蒸溜所の逸話、酒にまつわる人の記憶が毎回の題材となり、酒の薀蓄と客たちの人生模様が静かに重なっていく。累計九百万部を超え、酒漫画の代表格として読み継がれてきた作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/BAR%E3%83%AC%E3%83%A2%E3%83%B3%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%88"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『BARレモン・ハート』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2021,
+    "volumeCount": 37
+  },
+  {
+    "id": "hamerunnobaiorinhiki",
+    "title": "ハーメルンのバイオリン弾き",
+    "titleKana": "はーめるんのばいおりんひき",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "watanabe-michiaki"
+    ],
+    "publisherId": "square-enix",
+    "labelId": "gangan-monthly",
+    "themeIds": [
+      "adventure",
+      "battle-action",
+      "music"
+    ],
+    "firstPublishedYear": 1991,
+    "status": "completed",
+    "synopsis": "パンドラの箱から解き放たれた魔族が世界を脅かす時代。巨大なバイオリンから魔曲を奏でて魔族を打ち倒す勇者ハーメルは、美青年の外見とは裏腹に卑怯で金にがめつい男だった。村娘フルートと喋るカラスを連れ、魔界の本拠地ハーメルンを目指す旅路で、ハーメル自身の出自にまつわる秘密が明かされていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%A1%E3%83%AB%E3%83%B3%E3%81%AE%E3%83%90%E3%82%A4%E3%82%AA%E3%83%AA%E3%83%B3%E5%BC%BE%E3%81%8D"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ハーメルンのバイオリン弾き』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2001,
+    "volumeCount": 37
+  },
+  {
+    "id": "akaritoshironoshinreiyawa",
+    "title": "あかりとシロの心霊夜話",
+    "titleKana": "あかりとしろのしんれいやわ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nishi-naomi"
+    ],
+    "publisherId": "aoba-shuppan",
+    "labelId": "sakura-mystery",
+    "themeIds": [
+      "horror",
+      "detective-mystery",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 1996,
+    "status": "ongoing",
+    "synopsis": "幼い頃から霊が見える体質に苦しんできたミステリー雑誌編集者の瀬尾あかりは、アパートに現れた不思議な白猫シロと出会って自分の力と向き合い始める。持ち込まれる心霊がらみの出来事を、職場の仲間や近所の友人たちに支えられながら解きほぐしていく。日常のなかの怪異を穏やかに描く連作。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%8B%E3%82%8A%E3%81%A8%E3%82%B7%E3%83%AD%E3%81%AE%E5%BF%83%E9%9C%8A%E5%A4%9C%E8%A9%B1"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『あかりとシロの心霊夜話』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 37
+  },
+  {
+    "id": "pikupikusentarou",
+    "title": "ぴくぴく仙太郎",
+    "titleKana": "ぴくぴくせんたろう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nunoura-tsubasa"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "be-love",
+    "themeIds": [
+      "animal",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 1993,
+    "status": "completed",
+    "synopsis": "武蔵野の面影が残る私鉄沿線の町で暮らすイラストレーターのバクちゃんは、成り行きでウサギの仙太郎を飼うことになる。猫のみやちゃんやロップイヤーのロップちゃんも加わり、賑やかな動物との暮らしが始まる。飼い主なら誰もが頷く「あるある」を織り込みつつ、別れの痛みも避けずに描いた動物漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%B4%E3%81%8F%E3%81%B4%E3%81%8F%E4%BB%99%E5%A4%AA%E9%83%8E"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ぴくぴく仙太郎』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2011,
+    "volumeCount": 37
+  },
+  {
+    "id": "owarinoserafu",
+    "title": "終わりのセラフ",
+    "titleKana": "おわりのせらふ",
+    "originalAuthorIds": [
+      "kagami-takaya",
+      "furuya-daisuke"
+    ],
+    "artistIds": [
+      "yamamoto-yamato"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "jump-square",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action",
+      "school"
+    ],
+    "firstPublishedYear": 2012,
+    "status": "ongoing",
+    "synopsis": "謎のウイルスで大人が死に絶えた世界で、生き残った子供たちは吸血鬼の地下都市に囚われ血を搾取されていた。脱出を試みて家族を失った百夜優一郎は、ただ一人地上へ帰還し、吸血鬼への復讐を誓って帝鬼軍に身を投じる。だが死んだはずの親友ミカエラは吸血鬼として蘇っていた。二人の再会をめぐるダークファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%B5%82%E3%82%8F%E3%82%8A%E3%81%AE%E3%82%BB%E3%83%A9%E3%83%95"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『終わりのセラフ』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 36
   }
 ]

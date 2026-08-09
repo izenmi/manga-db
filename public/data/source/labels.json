@@ -2856,5 +2856,35 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "manga-time-original",
+    "name": "まんがタイムオリジナル",
+    "nameKana": "まんがたいむおりじなる",
+    "publisherId": "houbunsha",
+    "description": "芳文社が発行する4コマ漫画誌。まんがタイム系列の一誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jump-square",
+    "name": "ジャンプスクエア",
+    "nameKana": "じゃんぷすくえあ",
+    "publisherId": "shueisha",
+    "description": "集英社が発行する月刊漫画誌。月刊少年ジャンプの後継として2007年に創刊された。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sakura-mystery",
+    "name": "サクラミステリー",
+    "nameKana": "さくらみすてりー",
+    "publisherId": "aoba-shuppan",
+    "description": "あおば出版が発行する女性向けのミステリー漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
   }
 ]
