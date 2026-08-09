@@ -3046,5 +3046,55 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "manga-town",
+    "name": "まんがタウン",
+    "nameKana": "まんがたうん",
+    "publisherId": "futabasha",
+    "description": "双葉社が発行していた4コマ漫画誌。『クレヨンしんちゃん特集号』を前身とする。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "next-f",
+    "name": "ネクストF",
+    "nameKana": "ねくすとえふ",
+    "publisherId": "ohzora-shuppan",
+    "description": "大空出版が発行する女性向けの恋愛漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "manga-club-original",
+    "name": "まんがくらぶオリジナル",
+    "nameKana": "まんがくらぶおりじなる",
+    "publisherId": "takeshobo",
+    "description": "竹書房が発行していた4コマ漫画誌。まんがくらぶの姉妹誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gogo-bunch",
+    "name": "ゴーゴーバンチ",
+    "nameKana": "ごーごーばんち",
+    "publisherId": "shinchosha",
+    "description": "新潮社が発行していた月刊漫画誌。月刊コミック@バンチの姉妹誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yanmaga-web",
+    "name": "ヤンマガWeb",
+    "nameKana": "やんまがうぇぶ",
+    "publisherId": "kodansha",
+    "description": "講談社が運営する週刊ヤングマガジンのWebコミック配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
   }
 ]
