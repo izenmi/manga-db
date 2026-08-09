@@ -63927,5 +63927,916 @@
     "updatedAt": "2026-08-09",
     "latestPublishedYear": 2018,
     "volumeCount": 21
+  },
+  {
+    "id": "reberukyuuhyakukyuujuukyuunomurabito",
+    "title": "LV999の村人",
+    "titleKana": "れべるきゅうひゃくきゅうじゅうきゅうのむらびと",
+    "originalAuthorIds": [
+      "hoshitsuki-koneko"
+    ],
+    "artistIds": [
+      "iwamoto-kenichi"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "comp-ace",
+    "themeIds": [
+      "isekai",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2017,
+    "status": "ongoing",
+    "synopsis": "生まれた者に役割が与えられるこの世界で、最弱とされる「村人」に定められた鏡浩二。だが金を稼ぐには力が要ると悟った彼は、二十年間ひたすら魔物を倒し続け、村人でありながらレベル九九九に到達する。役割という制度そのものを力でねじ伏せていく異世界ファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/LV999%E3%81%AE%E6%9D%91%E4%BA%BA"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『LV999の村人』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 21
+  },
+  {
+    "id": "raia",
+    "title": "Liar",
+    "titleKana": "らいあー",
+    "originalAuthorIds": [
+      "moarasu"
+    ],
+    "artistIds": [
+      "hakamada-juri"
+    ],
+    "publisherId": "futabasha",
+    "labelId": "everystar",
+    "themeIds": [
+      "romance",
+      "suspense-psychological",
+      "school"
+    ],
+    "firstPublishedYear": 2014,
+    "status": "completed",
+    "synopsis": "小説投稿サイト発の同名作を漫画化した作品。嘘と裏切りが折り重なる人間関係のなかで、登場人物たちが互いを傷つけながら本心を探り合っていく。累計千五百万閲覧を集めた原作の緊張感をそのまま持ち込み、コミック版も二百万部を超える支持を得た女性向けの長編。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Liar_%28%E6%BC%AB%E7%94%BB%29"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『Liar (漫画)』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2024,
+    "volumeCount": 21
+  },
+  {
+    "id": "henjohennajoshikouseiamagurisenko",
+    "title": "変女 〜変な女子高生 甘栗千子〜",
+    "titleKana": "へんじょへんなじょしこうせいあまぐりせんこ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "konogi-yoshiru"
+    ],
+    "publisherId": "hakusensha",
+    "labelId": "young-animal-island",
+    "themeIds": [
+      "comedy",
+      "romance",
+      "ero-guro"
+    ],
+    "firstPublishedYear": 2012,
+    "status": "ongoing",
+    "synopsis": "就職活動に疲れ果てた青年・高村亮は、公園で出会った女子高生・甘栗千子の堂々とした性的発言に翻弄される。就職先の便利屋で再会した二人は、千子が店主の娘であることを知る。可愛らしい外見と下品な言動のギャップだけで押し切る、青年誌の下ネタコメディ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%A4%89%E5%A5%B3_%E3%80%9C%E5%A4%89%E3%81%AA%E5%A5%B3%E5%AD%90%E9%AB%98%E7%94%9F_%E7%94%98%E6%A0%97%E5%8D%83%E5%AD%90%E3%80%9C"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『変女 〜変な女子高生 甘栗千子〜』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 21
+  },
+  {
+    "id": "adekan",
+    "title": "艶漢",
+    "titleKana": "あでかん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nao-tsukiji"
+    ],
+    "publisherId": "shinshokan",
+    "labelId": "wings",
+    "themeIds": [
+      "dark-fantasy",
+      "detective-mystery",
+      "boys-love"
+    ],
+    "firstPublishedYear": 2007,
+    "status": "ongoing",
+    "synopsis": "大正から昭和にかけての帝都を思わせる街で、下着を身につけない傘職人の詩郎と、生真面目な巡査の光路郎が出会う。二人が関わる怪奇じみた事件の裏には、詩郎の出自にまつわる闇が横たわっていた。耽美な画風で描かれる、退廃的な雰囲気のアンダーグラウンド事件簿。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E8%89%B6%E6%BC%A2"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『艶漢』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 21
+  },
+  {
+    "id": "chiichannooshinagaki",
+    "title": "ちぃちゃんのおしながき",
+    "titleKana": "ちぃちゃんのおしながき",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ooi-masakazu"
+    ],
+    "publisherId": "takeshobo",
+    "labelId": "manga-life-original",
+    "themeIds": [
+      "gourmet",
+      "comedy",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2003,
+    "status": "ongoing",
+    "synopsis": "東京・練馬の小料理屋「みづは」を切り盛りするのは、しっかり者の小学生ちぃちゃんと、料理のできない呑んべえの母。父を早くに亡くした親子が、常連客に囲まれながら店を続けていく。板前として腕を振るう小学生という設定を軸にした、料理と人情の四コマ漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%A1%E3%81%83%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E3%81%8A%E3%81%97%E3%81%AA%E3%81%8C%E3%81%8D"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ちぃちゃんのおしながき』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 21
+  },
+  {
+    "id": "tetsujinnijuuhachigou",
+    "title": "鉄人28号",
+    "titleKana": "てつじんにじゅうはちごう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yokoyama-mitsuteru"
+    ],
+    "publisherId": "kobunsha",
+    "labelId": "shonen-kobunsha",
+    "themeIds": [
+      "sci-fi",
+      "battle-action",
+      "detective-mystery"
+    ],
+    "firstPublishedYear": 1956,
+    "status": "completed",
+    "synopsis": "太平洋戦争末期に旧日本軍が秘密兵器として開発した巨大ロボット「鉄人28号」。戦後、そのリモコンをめぐって犯罪組織やスパイが入り乱れ、少年探偵・金田正太郎が鉄人を操って立ち向かう。操縦者次第で正義にも悪にもなるという設定を打ち立てた、巨大ロボット漫画の原点。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%89%84%E4%BA%BA28%E5%8F%B7"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『鉄人28号』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 1966,
+    "volumeCount": 20
+  },
+  {
+    "id": "bureikubureido",
+    "title": "ブレイク ブレイド",
+    "titleKana": "ぶれいくぶれいど",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yoshinaga-yuunosuke"
+    ],
+    "publisherId": "flex-comix",
+    "labelId": "monthly-shonen-blood",
+    "themeIds": [
+      "sci-fi",
+      "war-military",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "synopsis": "誰もが石英を操る魔力を持つ大陸で、ただ一人その力を持たないライガットは、士官学校時代の親友である国王夫妻に呼び出される。魔力がないがゆえに古代兵器を動かせると判明した彼は、同じく友人だった敵国の隊長と戦場で向き合うことになる。人型兵器の戦闘を緻密に描くロボット漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AF_%E3%83%96%E3%83%AC%E3%82%A4%E3%83%89"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『ブレイク ブレイド』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2022,
+    "volumeCount": 20
+  },
+  {
+    "id": "magikanokenshitoashireusu",
+    "title": "魔技科の剣士と召喚魔王",
+    "titleKana": "まぎかのけんしとぁしれうす",
+    "originalAuthorIds": [
+      "mihara-mitsuki",
+      "chun"
+    ],
+    "artistIds": [
+      "morin"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "comic-alive",
+    "themeIds": [
+      "battle-action",
+      "school",
+      "romance"
+    ],
+    "firstPublishedYear": 2013,
+    "status": "completed",
+    "synopsis": "賢者の石によって人類が魔法に目覚めた世界で、本来女性にしか宿らないはずの契約の証を得た少年・林崎一樹。剣士としての修行を積んできた彼は、騎士を育成する学院の魔技科に入学し、召喚魔法を操る少女たちのなかで異物として扱われる。剣と召喚術が交わる学園バトル。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%AD%94%E6%8A%80%E7%A7%91%E3%81%AE%E5%89%A3%E5%A3%AB%E3%81%A8%E5%8F%AC%E5%96%9A%E9%AD%94%E7%8E%8B"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『魔技科の剣士と召喚魔王』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2026,
+    "volumeCount": 20
+  },
+  {
+    "id": "kaibutsuoujo",
+    "title": "怪物王女",
+    "titleKana": "かいぶつおうじょ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mitsunaga-yasunori"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-sirius",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action",
+      "horror"
+    ],
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "事故で命を落とした中学生・日和見日郎は、居合わせた少女「姫」によって仮初めの命を与えられて蘇る。姫は怪物たちを統べる王族の王女であり、兄弟姉妹による血なまぐさい王位継承争いの渦中にいた。血の戦士として仕えることになった少年の戦いを描くダークコメディ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%80%AA%E7%89%A9%E7%8E%8B%E5%A5%B3"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『怪物王女』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2013,
+    "volumeCount": 20
+  },
+  {
+    "id": "zettoman",
+    "title": "ZETMAN",
+    "titleKana": "ぜっとまん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "katsura-masakazu"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "young-jump",
+    "themeIds": [
+      "sci-fi",
+      "battle-action",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "人工的に生み出された存在であるジンは、異形の殺人鬼「プレイヤー」に狙われ、平穏な暮らしを奪われる。正義のヒーローに憧れる財閥の御曹司・高雅とは、立場も思想も違う道を歩んでいく。何をもって正義と呼ぶのかを問い続ける、重く暗いヒーローアクション。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ZETMAN"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『ZETMAN』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2014,
+    "volumeCount": 20
+  },
+  {
+    "id": "namikibashidooriaobajitenshaten",
+    "title": "並木橋通りアオバ自転車店",
+    "titleKana": "なみきばしどおりあおばじてんしゃてん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "miyao-gaku"
+    ],
+    "publisherId": "shonen-gahosha",
+    "labelId": "young-king",
+    "themeIds": [
+      "slice-of-life",
+      "workplace-drama",
+      "sports"
+    ],
+    "firstPublishedYear": 1999,
+    "status": "completed",
+    "synopsis": "町の自転車店「アオバ自転車店」を舞台に、店を訪れる客それぞれの事情と、その人に合った一台をめぐる物語を描く。ロードバイクからママチャリ、電動アシストまで、自転車の構造と選び方を丁寧に説きながら、人と自転車の関わりを一話完結で積み重ねていく。続編が長く描かれたシリーズの第一作。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E4%B8%A6%E6%9C%A8%E6%A9%8B%E9%80%9A%E3%82%8A%E3%82%A2%E3%82%AA%E3%83%90%E8%87%AA%E8%BB%A2%E8%BB%8A%E5%BA%97"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『並木橋通りアオバ自転車店』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2011,
+    "volumeCount": 20
+  },
+  {
+    "id": "bokuhatomodachigasukunai",
+    "title": "僕は友達が少ない",
+    "titleKana": "ぼくはともだちがすくない",
+    "originalAuthorIds": [
+      "hirasaka-yomi"
+    ],
+    "artistIds": [
+      "itachi"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "comic-alive",
+    "themeIds": [
+      "comedy",
+      "romance",
+      "school"
+    ],
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "転校初日の失敗から周囲に避けられている高校生・羽瀬川小鷹は、いつも不機嫌そうな同級生・三日月夜空が一人で「エア友達」と話す場面を目撃する。友達を作るために結成された隣人部には、癖の強い面々が次々と集まってくる。友達がいない者たちの空回りを描いたラブコメディ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%83%95%E3%81%AF%E5%8F%8B%E9%81%94%E3%81%8C%E5%B0%91%E3%81%AA%E3%81%84"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『僕は友達が少ない』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2021,
+    "volumeCount": 20
+  },
+  {
+    "id": "asutorokyuudan",
+    "title": "アストロ球団",
+    "titleKana": "あすとろきゅうだん",
+    "originalAuthorIds": [
+      "toozaki-shirou"
+    ],
+    "artistIds": [
+      "nakajima-norihiro"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "sports",
+      "battle-action",
+      "school"
+    ],
+    "firstPublishedYear": 1972,
+    "status": "completed",
+    "synopsis": "戦地に散った名投手・沢村栄治が見た夢のとおり、体のどこかにボール形の痣を持つ九人の野球超人が集められ、新球団アストロ球団が誕生する。命を賭けた過酷な試合で相手を叩き潰していく彼らの戦いは、もはや野球の枠を超えていた。荒唐無稽さを貫いた伝説的な野球漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B9%E3%83%88%E3%83%AD%E7%90%83%E5%9B%A3"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『アストロ球団』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 1976,
+    "volumeCount": 20
+  },
+  {
+    "id": "fuuka",
+    "title": "風夏",
+    "titleKana": "ふうか",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "seo-kouji"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "romance",
+      "music",
+      "school"
+    ],
+    "firstPublishedYear": 2014,
+    "status": "completed",
+    "synopsis": "東京に転校してきた高校生・榛名優は、風変わりな少女・秋月風夏と出会う。優の一言をきっかけに音楽を志した風夏は、彼を巻き込んでバンドを結成する。幼馴染との再会も絡み、揺れる関係のなかで物語は思わぬ方向へ進んでいく。音楽と恋愛を重ねた青春漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%A2%A8%E5%A4%8F"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『風夏』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2018,
+    "volumeCount": 20
+  },
+  {
+    "id": "soranootoshimono",
+    "title": "そらのおとしもの",
+    "titleKana": "そらのおとしもの",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "minazuki-suu"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "monthly-shonen-ace",
+    "themeIds": [
+      "comedy",
+      "romance",
+      "sci-fi"
+    ],
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "「平和が一番」を信条とするエッチな中学生・桜井智樹のもとに、空から「愛玩用エンジェロイド」を名乗る少女イカロスが落ちてくる。どんな願いも叶えるという彼女と暮らすうち、智樹は空の上にある存在と、イカロスの本当の役割を知っていく。下品さと切なさが同居する作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%9D%E3%82%89%E3%81%AE%E3%81%8A%E3%81%A8%E3%81%97%E3%82%82%E3%81%AE"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『そらのおとしもの』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2014,
+    "volumeCount": 20
+  },
+  {
+    "id": "difuragu",
+    "title": "ディーふらぐ!",
+    "titleKana": "でぃーふらぐ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "haruno-tomoya"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "comic-alive",
+    "themeIds": [
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 2008,
+    "status": "ongoing",
+    "synopsis": "小さな不良グループのリーダーである風間堅次は、ゲーム制作部の部室を覗いたことをきっかけに、無理やり入部させられる。部長をはじめ部員も顧問も揃って常識外れで、最も真っ当な堅次はひたすら振り回されていく。会話のテンポだけで押し切る学園ギャグ漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%83%BC%E3%81%B5%E3%82%89%E3%81%90%21"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ディーふらぐ!』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 20
+  },
+  {
+    "id": "dakugyazaringu",
+    "title": "ダークギャザリング",
+    "titleKana": "だーくぎゃざりんぐ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kondou-kenichi"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "jump-square",
+    "themeIds": [
+      "horror",
+      "battle-action",
+      "psychic-battle"
+    ],
+    "firstPublishedYear": 2019,
+    "status": "ongoing",
+    "synopsis": "霊媒体質のせいで引きこもっていた大学生・幻燈河螢多朗は、家庭教師として天才少女・寶月夜宵を受け持つことになる。夜宵は両親を奪った謎の霊「空亡」を探すため、強力な霊を捕獲して手駒にしていた。悪霊を狩り集めていく少女と、巻き込まれた青年の霊能バトル。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%BC%E3%82%AF%E3%82%AE%E3%83%A3%E3%82%B6%E3%83%AA%E3%83%B3%E3%82%B0"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ダークギャザリング』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 20
+  },
+  {
+    "id": "yuushagashinda",
+    "title": "勇者が死んだ!",
+    "titleKana": "ゆうしゃがしんだ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "subaruichi"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "ura-sunday",
+    "themeIds": [
+      "isekai",
+      "comedy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2014,
+    "status": "completed",
+    "synopsis": "地獄の門を封じた勇者シオンは、農夫トウカが掘った落とし穴に落ちて死んでしまう。証拠隠滅のため埋められたところを屍術師に見つかったトウカは、シオンの死体に精神を移され、代わりに世界を救えと脅される。勇者の姿で戦う羽目になった農夫の異世界コメディ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%8B%87%E8%80%85%E3%81%8C%E6%AD%BB%E3%82%93%E3%81%A0%21"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『勇者が死んだ!』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2020,
+    "volumeCount": 20
+  },
+  {
+    "id": "itoshinoeri",
+    "title": "いとしのエリー",
+    "titleKana": "いとしのえりー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "takami-mako"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "young-jump",
+    "themeIds": [
+      "romance",
+      "school",
+      "ero-guro"
+    ],
+    "firstPublishedYear": 1983,
+    "status": "completed",
+    "synopsis": "都立高校に通う平凡な少年・上野と、赴任してきたばかりの女教師・串田。立場を越えて惹かれ合う二人の関係を、当時の青年誌としては踏み込んだ性描写とともに描いた。年上女性と年下男性という構図をいち早く確立し、作者のその後の作風を決定づけた恋愛漫画の代表作。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%84%E3%81%A8%E3%81%97%E3%81%AE%E3%82%A8%E3%83%AA%E3%83%BC_%28%E6%BC%AB%E7%94%BB%29"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『いとしのエリー (漫画)』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 1987,
+    "volumeCount": 20
+  },
+  {
+    "id": "kyutikurutanteiinaba",
+    "title": "キューティクル探偵因幡",
+    "titleKana": "きゅーてぃくるたんていいなば",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mochi"
+    ],
+    "publisherId": "square-enix",
+    "labelId": "g-fantasy",
+    "themeIds": [
+      "comedy",
+      "detective-mystery",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "毛髪に異様な執着を見せる狼男の探偵・因幡洋は、人工授精で生まれた秘密警察犬でもある。行方不明の弟を探すため探偵となった彼が、助手たちとともにヤギの姿をしたマフィアの首領などと関わっていく。設定を片端から放り込んで笑いに変える、脱力系のコメディ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%82%AF%E3%83%AB%E6%8E%A2%E5%81%B5%E5%9B%A0%E5%B9%A1"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『キューティクル探偵因幡』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2017,
+    "volumeCount": 20
+  },
+  {
+    "id": "kumamiko",
+    "title": "くまみこ",
+    "titleKana": "くまみこ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yoshimoto-masume"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "monthly-comic-flapper",
+    "themeIds": [
+      "slice-of-life",
+      "comedy",
+      "animal"
+    ],
+    "firstPublishedYear": 2013,
+    "status": "completed",
+    "synopsis": "東北の山奥にある熊出村で、神社の巫女を務める中学生の少女まちは、都会の高校へ進学したいと願う。だが極度の田舎コンプレックスと機械オンチを心配した相棒のクマ・ナツは反対し、都会に出るための試練を課してくる。人語を話すクマとの田舎暮らしを描いたコメディ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%8F%E3%81%BE%E3%81%BF%E3%81%93"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『くまみこ』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2024,
+    "volumeCount": 20
+  },
+  {
+    "id": "rein",
+    "title": "レイン",
+    "titleKana": "れいん",
+    "originalAuthorIds": [
+      "yoshino-takumi"
+    ],
+    "artistIds": [
+      "sumikawa-megumi"
+    ],
+    "publisherId": "mag-garden",
+    "labelId": "monthly-comic-blade",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action",
+      "war-military"
+    ],
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "大陸の均衡が崩れ、世界制覇を掲げるザーマイン軍が近隣諸国を次々と併呑していく。滅亡が避けられないと見られていた小国サンクワールに、レインという一人の剣士が現れる。圧倒的な戦力差を覆していく主人公を軸に、大陸規模の戦乱を描いた異世界ファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%A4%E3%83%B3_%28%E5%B0%8F%E8%AA%AC%29"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『レイン (小説)』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2023,
+    "volumeCount": 20
+  },
+  {
+    "id": "danberunankiromoteru",
+    "title": "ダンベル何キロ持てる?",
+    "titleKana": "だんべるなんきろもてる",
+    "originalAuthorIds": [
+      "sandrovich-yabako"
+    ],
+    "artistIds": [
+      "maam"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "manga-one",
+    "themeIds": [
+      "sports",
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 2016,
+    "status": "ongoing",
+    "synopsis": "食べることが大好きな女子高生・紗倉ひびきは、太り気味を指摘されてジムの見学に向かう。そこは本格的な筋力トレーニングジムであり、彼女は個性的なトレーナーや同級生とともに鍛え始める。各話の末尾に実践できるトレーニングを解説する、筋トレ入門を兼ねたコメディ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB%E4%BD%95%E3%82%AD%E3%83%AD%E6%8C%81%E3%81%A6%E3%82%8B%3F"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ダンベル何キロ持てる?』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 20
+  },
+  {
+    "id": "pyutofukujaga",
+    "title": "ピューと吹く!ジャガー",
+    "titleKana": "ぴゅーとふくじゃがー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "usuta-kyosuke"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "comedy",
+      "music",
+      "school"
+    ],
+    "firstPublishedYear": 2000,
+    "status": "completed",
+    "synopsis": "ギタリストを目指して上京した青年ピヨ彦は、謎の笛吹き男ジャガージュン市に付きまとわれ、オーディションをことごとく妨害される。芸能事務所兼専門学校に入学したピヨ彦だったが、そこにもジャガーが現れて日常は崩れていく。脈絡のない不条理ギャグを十年にわたって撃ち続けた作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%94%E3%83%A5%E3%83%BC%E3%81%A8%E5%90%B9%E3%81%8F%21%E3%82%B8%E3%83%A3%E3%82%AC%E3%83%BC"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ピューと吹く!ジャガー』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2010,
+    "volumeCount": 20
+  },
+  {
+    "id": "meichannoshitsuji",
+    "title": "メイちゃんの執事",
+    "titleKana": "めいちゃんのしつじ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "miyagi-riko"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "margaret",
+    "themeIds": [
+      "romance",
+      "school",
+      "comedy"
+    ],
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "synopsis": "両親を事故で亡くした中学生・東雲メイは、自分が大富豪一族の後継者であることを知らされる。生徒一人につき執事が一人つく究極のお嬢様学校に入学したメイは、執事の理人に守られながら、貴族社会さながらの序列争いに巻き込まれていく。執事という設定を軸にした少女漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E5%9F%B7%E4%BA%8B"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『メイちゃんの執事』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2012,
+    "volumeCount": 20
+  },
+  {
+    "id": "bureibusutori",
+    "title": "ブレイブ・ストーリー〜新説〜",
+    "titleKana": "ぶれいぶすとーりー",
+    "originalAuthorIds": [
+      "miyabe-miyuki"
+    ],
+    "artistIds": [
+      "ono-youichirou"
+    ],
+    "publisherId": "shinchosha",
+    "labelId": "weekly-comic-bunch",
+    "themeIds": [
+      "adventure",
+      "dark-fantasy",
+      "school"
+    ],
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "家庭の崩壊に直面した中学生・三谷亘は、幽霊ビルで異世界「幻界」への扉を見つける。運命を変える願いを叶えるため、亘は旅人として幻界に足を踏み入れ、五つの宝玉を求めて旅を続ける。宮部みゆきの長編小説を漫画化した、成長を主題とする冒険ファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AC%E3%82%A4%E3%83%96%E3%83%BB%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%E3%80%9C%E6%96%B0%E8%AA%AC%E3%80%9C"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ブレイブ・ストーリー〜新説〜』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2008,
+    "volumeCount": 20
+  },
+  {
+    "id": "esusaigonokeikan",
+    "title": "S -最後の警官-",
+    "titleKana": "えすさいごのけいかん",
+    "originalAuthorIds": [
+      "komori-youichi"
+    ],
+    "artistIds": [
+      "toudou-yutaka"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic",
+    "themeIds": [
+      "crime-underworld",
+      "battle-action",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "犯人を殺さずに制圧することを使命とする警察庁の特殊部隊NPS。だが上層部の狙いは、NPSが対処できない事態を作り出し、殺害を容認する世論を導くことにあった。組織の思惑を承知しながら「誰も殺さない」を貫こうとする隊員たちを描いた警察アクション。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/S_-%E6%9C%80%E5%BE%8C%E3%81%AE%E8%AD%A6%E5%AE%98-"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『S -最後の警官-』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2016,
+    "volumeCount": 20
+  },
+  {
+    "id": "tsumanudafaitotaun",
+    "title": "ツマヌダ格闘街",
+    "titleKana": "つまぬだふぁいとたうん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ueyama-michirou"
+    ],
+    "publisherId": "shonen-gahosha",
+    "labelId": "young-king",
+    "themeIds": [
+      "battle-action",
+      "comedy",
+      "sports"
+    ],
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "synopsis": "イラストレーターを目指して上京した八重樫ミツルは、街を挙げて格闘技を推進する妻沼田市に住むことになる。登録選手ならストリートファイトも合法という街で、メイドのドラエに素質を見出された彼は選手として育てられていく。実在の技術を細かく解説する格闘漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%84%E3%83%9E%E3%83%8C%E3%83%80%E6%A0%BC%E9%97%98%E8%A1%97"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ツマヌダ格闘街』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2016,
+    "volumeCount": 20
+  },
+  {
+    "id": "tokusatsugagaga",
+    "title": "トクサツガガガ",
+    "titleKana": "とくさつががが",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tanba-niwa"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-spirits",
+    "themeIds": [
+      "comedy",
+      "workplace-drama",
+      "entertainment-industry"
+    ],
+    "firstPublishedYear": 2014,
+    "status": "completed",
+    "synopsis": "職場では女子力が高いと思われている二十六歳のOL・仲村叶は、その実、特撮を愛してやまない隠れオタクだった。母に趣味を否定されて育った彼女は、同好の士と出会うことで少しずつ自分の好きなものを肯定できるようになっていく。オタクの生き方を正面から描いたコメディ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%AF%E3%82%B5%E3%83%84%E3%82%AC%E3%82%AC%E3%82%AC"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『トクサツガガガ』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2020,
+    "volumeCount": 20
+  },
+  {
+    "id": "dienuenjeru",
+    "title": "D・N・ANGEL",
+    "titleKana": "でぃーえぬえんじぇる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "sugisaki-yukiru"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "monthly-asuka",
+    "themeIds": [
+      "romance",
+      "school",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 1997,
+    "status": "completed",
+    "synopsis": "江戸時代から続く怪盗の家系に生まれた中学生・丹羽大助は、十四歳の誕生日に初恋の相手へ告白して振られる。その夜、恋愛感情が高まると伝説の大怪盗ダーク・マウジーへ変身する体質が発現してしまう。二重生活と二重の恋を軸にした、少女向けの怪盗ファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/D%E3%83%BBN%E3%83%BBANGEL"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『D・N・ANGEL』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2021,
+    "volumeCount": 20
   }
 ]
