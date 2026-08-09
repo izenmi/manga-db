@@ -3636,5 +3636,45 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "for-mrs",
+    "name": "フォアミセス",
+    "nameKana": "ふぉあみせす",
+    "publisherId": "akita-shoten",
+    "description": "秋田書店が発行する主婦層向けの漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "famitsu-com",
+    "name": "ファミ通.com",
+    "nameKana": "ふぁみつうどっとこむ",
+    "publisherId": "kadokawa",
+    "description": "KADOKAWAが運営するゲーム情報サイト。漫画も配信する。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "manga-mee",
+    "name": "マンガMee",
+    "nameKana": "まんがみー",
+    "publisherId": "shueisha",
+    "description": "集英社が運営する女性向けの漫画アプリ。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "flexcomix-blood",
+    "name": "FlexComixブラッド",
+    "nameKana": "ふれっくすこみっくすぶらっど",
+    "publisherId": "flex-comix",
+    "description": "フレックスコミックスが運営していたWebコミック配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
   }
 ]
