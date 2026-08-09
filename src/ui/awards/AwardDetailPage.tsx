@@ -4,7 +4,7 @@ import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
 import { BASE_PATH, breadcrumbJsonLd, useSeo } from "../common/useSeo";
 import { colorForYear } from "../common/yearColor";
-import { WorkCard } from "../common/WorkCard";
+import { WorkCard, WorkCoverCard } from "../common/WorkCard";
 import { useWorkFilter } from "../common/useWorkFilter";
 
 export function AwardDetailPage() {
@@ -38,7 +38,7 @@ export function AwardDetailPage() {
   const winnerWorks = (award?.winners ?? [])
     .map((w) => byId.get(w.workId))
     .filter((w): w is NonNullable<typeof w> => Boolean(w));
-  const { sorted, controls, hasActiveFilters } = useWorkFilter(winnerWorks);
+  const { sorted, controls, hasActiveFilters, coverView, gridClassName } = useWorkFilter(winnerWorks);
   const keptIds = new Set(sorted.map((w) => w.id));
 
   const byYear = new Map<number, NonNullable<typeof award>["winners"]>();
@@ -83,13 +83,13 @@ export function AwardDetailPage() {
                 <span className="award-year__count">{winners.length}件</span>
                 <span className="award-year__rule" aria-hidden="true" />
               </h3>
-              <div className="work-grid">
+              <div className={gridClassName}>
                 {winners.map((winner) => {
                   const item = byId.get(winner.workId);
                   return item ? (
                     <div key={`${winner.workId}-${winner.result}`} className="award-entry">
                       <p className="award-entry__result">{winner.result}</p>
-                      <WorkCard work={item} />
+                      {coverView ? <WorkCoverCard work={item} /> : <WorkCard work={item} />}
                     </div>
                   ) : null;
                 })}

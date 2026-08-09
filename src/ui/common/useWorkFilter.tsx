@@ -1,5 +1,6 @@
 import { useMemo } from "react";
 import { useSearchParams } from "react-router-dom";
+import { useCoverView } from "./useCoverView";
 import type { WorkGenerated } from "../../types";
 
 /**
@@ -64,6 +65,7 @@ export function themeOptionsOf(works: WorkGenerated[] | undefined, exclude?: str
 
 export function useWorkFilter(works: WorkGenerated[] | undefined, defaultSort = "year-desc") {
   const [params, setParams] = useSearchParams();
+  const { coverView, gridClassName, toggle } = useCoverView();
   const q = params.get("q") ?? "";
   const status = params.get("status") ?? "";
   const mediaMix = params.get("mediaMix") ?? "";
@@ -160,8 +162,9 @@ export function useWorkFilter(works: WorkGenerated[] | undefined, defaultSort = 
           フィルターをクリア
         </button>
       )}
+      {toggle}
     </div>
   );
 
-  return { filtered, sorted, controls, hasActiveFilters };
+  return { filtered, sorted, controls, hasActiveFilters, coverView, gridClassName };
 }

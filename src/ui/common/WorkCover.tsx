@@ -12,13 +12,29 @@ function colorFor(title: string): (typeof COVER_COLORS)[number] {
  *  `npm run fetch-covers` — see scripts/fetch-covers.mjs), falling back to a generated
  *  placeholder (title on a pastel card) when absent or the image fails to load. We don't host
  *  cover art ourselves; that's copyrighted illustration work, not a fact. */
-export function WorkCover({ title, coverUrl, size = "sm" }: { title: string; coverUrl?: string; size?: "sm" | "lg" }) {
+/** 楽天のサムネイル(thumbnail.image.rakuten.co.jp)は `?_ex=WxH` で任意サイズを返す。
+ *  covers-cache に入っているURLは小さいカード用の 400x400 なので、184x262 で並べる表紙表示では
+ *  そのままだと粗い。表示時にURLを書き換えるだけで済むため、書影の再取得は不要。
+ *  `_ex` を持たないURL(BOOK☆WALKER・honto)は不一致で素通りする。 */
+function coverSrc(coverUrl: string, size: string): string {
+  return size === "xl" ? coverUrl.replace(/([?&]_ex=)\d+x\d+/, "$1600x600") : coverUrl;
+}
+
+export function WorkCover({
+  title,
+  coverUrl,
+  size = "sm",
+}: {
+  title: string;
+  coverUrl?: string;
+  size?: "sm" | "lg" | "xl";
+}) {
   const [broken, setBroken] = useState(false);
   if (coverUrl && !broken) {
     return (
       <img
         className={`work-cover work-cover--${size} work-cover--image`}
-        src={coverUrl}
+        src={coverSrc(coverUrl, size)}
         alt={title}
         loading="lazy"
         onError={() => setBroken(true)}

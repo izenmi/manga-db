@@ -161,6 +161,23 @@ h1 {
   gap: 6px;
 }
 
+/* 表紙表示モード(?view=covers)。書影だけをカード表示の倍のサイズ(92x131 → 184x262)で並べる。
+   トラックの下限は表紙幅の184pxだが、`(100% - gap) / 2` で頭打ちにして**必ず2列は入る**ように
+   している。これがないと375px幅のスマホで1列になり、中央に表紙が1枚だけ・左右が余白という
+   間延びした画面になる。メディアクエリを使わないのは .work-grid と同じ方針。 */
+.work-grid--covers {
+  grid-template-columns: repeat(auto-fill, minmax(min(184px, calc((100% - 12px) / 2)), 1fr));
+  gap: 12px;
+  justify-items: center;
+}
+
+.work-cover-card {
+  display: block;
+  width: 100%;
+  max-width: 184px;
+  border-radius: var(--radius-sm);
+}
+
 .work-card {
   position: relative;
   display: flex;
@@ -326,11 +343,29 @@ h1 {
   line-height: 1.3;
 }
 
+/* sm/lg と違って幅を固定せず、トラックいっぱいまで伸びて184pxで頭打ちにする。狭い画面で
+   トラックが184pxを下回ったときに表紙がはみ出さず、そのまま縮んで2列を保てる。
+   高さは aspect-ratio で sm/lg と同じ 92:131 に揃える。 */
+.work-cover--xl {
+  width: 100%;
+  max-width: 184px;
+  height: auto;
+  aspect-ratio: 92 / 131;
+  font-size: 1rem;
+  line-height: 1.35;
+}
+
 .work-cover__title {
   overflow: hidden;
   display: -webkit-box;
   -webkit-line-clamp: 6;
   -webkit-box-orient: vertical;
+}
+
+/* 表紙が無い作品はここでもプレースホルダになる。xl は高さに余裕があるので、
+   長いタイトルを6行で切らずに済ませる。 */
+.work-cover--xl .work-cover__title {
+  -webkit-line-clamp: 8;
 }
 
 .work-cover--blue {
@@ -358,8 +393,11 @@ h1 {
   border-color: var(--color-primary-strong);
 }
 
+/* 書影は切らずに全体を収める。枠(92:131)と実際の書影の比率のズレは、上下または左右の
+   余白として出す。cover(はみ出しを切る)だと、比率の違う書影でタイトルや帯が切れてしまう。
+   余白は枠の背景色(カードと同じ surface)になるので目立たない。 */
 .work-cover--image {
-  object-fit: cover;
+  object-fit: contain;
   background: var(--color-surface);
 }
 
@@ -432,6 +470,34 @@ h1 {
 .filter-clear-btn:hover {
   border-color: var(--color-orange-strong);
   color: var(--color-text);
+}
+
+/* カード表示 / 表紙表示のセグメンテッド・コントロール。絞り込みの <select> 群と同じ
+   .filter-row に並ぶので、高さ・角丸・文字サイズをそちらに揃えてある。 */
+.view-toggle {
+  display: flex;
+  border: 1px solid var(--color-outline);
+  border-radius: var(--radius-pill);
+  overflow: hidden;
+}
+
+.view-toggle__btn {
+  padding: 3px 12px;
+  border: none;
+  background: transparent;
+  color: var(--color-text-muted);
+  font-weight: 700;
+  font-size: 0.78rem;
+  cursor: pointer;
+}
+
+.view-toggle__btn:hover {
+  color: var(--color-text);
+}
+
+.view-toggle__btn--active {
+  background: var(--color-primary);
+  color: var(--color-ink-on-accent);
 }
 
 /* ---- Home ---- */
