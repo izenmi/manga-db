@@ -2806,5 +2806,55 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌(レーベル名『フロースコミック』)および版元の公式サイトで確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "comic-ran",
+    "name": "コミック乱",
+    "nameKana": "こみっくらん",
+    "publisherId": "leed-sha",
+    "description": "リイド社が発行する時代劇漫画専門の月刊誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "asahi-shogakusei-shimbun",
+    "name": "朝日小学生新聞",
+    "nameKana": "あさひしょうがくせいしんぶん",
+    "publisherId": "asahi-gakusei-shimbun",
+    "description": "朝日学生新聞社が発行する小学生向けの日刊紙。連載漫画も掲載する。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "weekly-golf-digest",
+    "name": "週刊ゴルフダイジェスト",
+    "nameKana": "しゅうかんごるふだいじぇすと",
+    "publisherId": "golf-digest-sha",
+    "description": "ゴルフダイジェスト社が発行するゴルフ週刊誌。ゴルフ漫画も連載する。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "utsukushii-jyudai",
+    "name": "美しい十代",
+    "nameKana": "うつくしいじゅうだい",
+    "publisherId": "gakken",
+    "description": "学習研究社が発行していた十代向けの月刊誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "racish",
+    "name": "Racish",
+    "nameKana": "らキっしゅ",
+    "publisherId": "tousuisha",
+    "description": "冬水社が発行していたボーイズラブ漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
   }
 ]

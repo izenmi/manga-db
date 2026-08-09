@@ -529,8 +529,11 @@ def cmd_build(args):
         if not (120 <= len(syn) <= 260):
             problems.append(f"n={a['n']} {r['title']}: あらすじ {len(syn)}字(120-260字にする)")
             continue
-        if re.search(r"[A-Za-zА-Яа-яЁё]{3,}", re.sub(r"[A-Z]{2,}", "", syn)):
-            problems.append(f"n={a['n']} {r['title']}: あらすじに欧文混入の疑い")
+        # 私が書く日本語には他言語が紛れ込む(実際に「자ら」「прプロ」を出した)。
+        # ハングル・キリル・タイ等は1文字でも即アウト、ラテン文字は作品名で使うので3字以上を見る
+        bad = re.findall(r"[가-힣Ѐ-ӿ฀-๿؀-ۿ]", syn)
+        if bad or re.search(r"[A-Za-z]{3,}", re.sub(r"[A-Z0-9]{2,}", "", syn)):
+            problems.append(f"n={a['n']} {r['title']}: あらすじに他言語混入 {''.join(bad[:5]) or '(欧文)'}")
             continue
         wkana = a.get("kana") or r["kana"]
         if not wkana:
@@ -553,7 +556,12 @@ def cmd_build(args):
             if f.get("kana"):
                 p["kana"] = f["kana"].replace(" ", "")
 
+        # annot が oa/ar を明示した作品は、Infoboxから拾った人名のうち採用したものだけ登録する
+        # (『鬼平犯科帳』の「さいとう・たかを」が「さいとう」「たかを」に割れる等の取り違え対策)
+        final_people = set(a.get("oa", r["oa_ids"])) | set(a.get("ar", r["ar_ids"]))
         for p in r["new_people"]:
+            if p["id"] not in final_people:
+                continue
             if p["id"] in seen_person or p["id"] in known[p["kind"]]:
                 continue
             if not p["id"] or not p["kana"]:
@@ -590,10 +598,21 @@ def cmd_build(args):
             batch["works"].append(w)
             continue
         # break した場合(読み欠け)はこの作品を落とす
+    # 掲載誌の発行元と作品の出版社が食い違う行を報告する。Infoboxの「出版社」は原作小説の
+    # 版元を指していることがある(『鬼平犯科帳』→文藝春秋。漫画はリイド社『コミック乱』)
+    lab_pub = {x["id"]: x["publisherId"] for x in load("labels")}
+    lab_pub.update({x["id"]: x["publisherId"] for x in batch["newLabels"]})
+    mismatch = [f'{w["id"]}: 誌{w["labelId"]}の版元は{lab_pub.get(w["labelId"])} / 作品は{w["publisherId"]}'
+                for w in batch["works"] if lab_pub.get(w["labelId"]) != w["publisherId"]]
+
     Path(args.out).write_text(json.dumps(batch, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"works={len(batch['works'])} artists={len(batch['newArtists'])} "
           f"originalAuthors={len(batch['newOriginalAuthors'])} labels={len(batch['newLabels'])} "
           f"publishers={len(batch['newPublishers'])} -> {args.out}")
+    if mismatch:
+        print("-- 要確認: 掲載誌の版元と出版社が不一致 --")
+        for x in mismatch:
+            print(" ", x)
     if problems:
         print("-- 未反映 --")
         for x in problems:

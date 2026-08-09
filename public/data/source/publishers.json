@@ -788,5 +788,41 @@
     },
     "sourceNote": "社名・刊行物は国立国会図書館サーチの書誌および公式サイトで確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "asahi-gakusei-shimbun",
+    "name": "朝日学生新聞社",
+    "nameKana": "あさひがくせいしんぶんしゃ",
+    "description": "朝日新聞社系の新聞社。小中学生向けの日刊紙『朝日小学生新聞』『朝日中高生新聞』を発行する。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "golf-digest-sha",
+    "name": "ゴルフダイジェスト社",
+    "nameKana": "ごるふだいじぇすとしゃ",
+    "description": "ゴルフ専門の出版社。『週刊ゴルフダイジェスト』などゴルフ雑誌を発行する。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gakken",
+    "name": "学研",
+    "nameKana": "がっけん",
+    "description": "学習参考書や児童向け雑誌を中心に手がける出版社。学習研究社として創業した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tousuisha",
+    "name": "冬水社",
+    "nameKana": "とうすいしゃ",
+    "description": "少女漫画・ボーイズラブを中心に刊行する出版社。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
   }
 ]

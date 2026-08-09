@@ -2113,5 +2113,77 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
     "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tsukumo-shin",
+    "name": "九十九森",
+    "nameKana": "つくもしん",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『江戸前の旬』記事および人物記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ikenami-shoutarou",
+    "name": "池波正太郎",
+    "nameKana": "いけなみしょうたろう",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『鬼平犯科帳』記事および人物記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kiuchi-kazumasa",
+    "name": "木内一雅",
+    "nameKana": "きうちかずまさ",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『代紋TAKE2』記事および人物記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kawasaki-ken",
+    "name": "かわさき健",
+    "nameKana": "かわさきけん",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『オーイ! とんぼ』記事および人物記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hayashi-norio",
+    "name": "林律雄",
+    "nameKana": "はやしのりお",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『総務部総務課山口六平太』記事および人物記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "nami-tarou",
+    "name": "七三太朗",
+    "nameKana": "なみたろう",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『Dreams (漫画)』記事および人物記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ai-eishi",
+    "name": "愛英史",
+    "nameKana": "あいえいし",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『ゼロ THE MAN OF THE CREATION』記事および人物記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "igano-hiroaki",
+    "name": "伊賀大晃",
+    "nameKana": "いがのひろあき",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『エリアの騎士』記事および人物記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
   }
 ]

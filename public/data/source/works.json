@@ -55050,5 +55050,757 @@
     "externalLinks": {},
     "sourceNote": "作品名・作者・出版社・巻数は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし)。巻数はNDL収録分に基づく概数。",
     "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "edomaenoshun",
+    "title": "江戸前の旬",
+    "titleKana": "えどまえのしゅん",
+    "originalAuthorIds": [
+      "tsukumo-shin"
+    ],
+    "artistIds": [
+      "satou-terushi"
+    ],
+    "publisherId": "nihon-bungeisha",
+    "labelId": "manga-goraku",
+    "themeIds": [
+      "gourmet",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 1999,
+    "status": "ongoing",
+    "synopsis": "銀座の老舗寿司店・柳寿司の三代目である柳葉旬は、天性の舌と鋭い観察眼を持つ若き寿司職人。訪れる客の体調や心情まで読み取って一貫を握り、料理勝負を挑んでくるライバル店の職人たちとも対決していく。江戸前寿司の技法や魚介の目利き、日本の食文化を丁寧に描き込みながら、旬が名人へと成長していく姿を追う長期連載のグルメ漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%B1%9F%E6%88%B8%E5%89%8D%E3%81%AE%E6%97%AC"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『江戸前の旬』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 133
+  },
+  {
+    "id": "nanbakinyuudenminaminoteiou",
+    "title": "難波金融伝・ミナミの帝王",
+    "titleKana": "なんばきんゆうでんみなみのていおう",
+    "originalAuthorIds": [
+      "tennoji-dai"
+    ],
+    "artistIds": [
+      "gou-rikiya"
+    ],
+    "publisherId": "nihon-bungeisha",
+    "labelId": "manga-goraku",
+    "themeIds": [
+      "crime-underworld",
+      "business"
+    ],
+    "firstPublishedYear": 1992,
+    "status": "completed",
+    "synopsis": "大阪ミナミで街金融「萬田金融」を営む萬田銀次郎は、トイチの高利で金を貸し、逃げた債務者はどこまでも追う取り立ての鬼として恐れられている。だが彼が相手にするのは、金にまつわる欲と嘘で人を食い物にする悪辣な連中でもある。金融の裏側と法の境界線上で生きる人間模様を、大阪の街を舞台に描き続ける長寿の経済劇画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%9B%A3%E6%B3%A2%E9%87%91%E8%9E%8D%E4%BC%9D%E3%83%BB%E3%83%9F%E3%83%8A%E3%83%9F%E3%81%AE%E5%B8%9D%E7%8E%8B"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『難波金融伝・ミナミの帝王』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2026,
+    "volumeCount": 188
+  },
+  {
+    "id": "gingadensetsuwido",
+    "title": "銀牙伝説WEED",
+    "titleKana": "ぎんがでんせつうぃーど",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "takahashi-yoshihiro"
+    ],
+    "publisherId": "nihon-bungeisha",
+    "labelId": "manga-goraku",
+    "themeIds": [
+      "animal",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 1999,
+    "status": "completed",
+    "synopsis": "伝説の犬・銀の息子であるウィードは、父を探す旅の途中で仲間の犬たちと出会い、群れを率いる若きリーダーとして成長していく。凶暴な野犬や人間の悪意、そして山を脅かす強敵との死闘を重ねながら、奥羽の山々を舞台に犬たちの戦いが続く。『銀牙 -流れ星 銀-』の続編にあたり、犬同士の絆と誇りを人語の会話で描く冒険譚。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%8A%80%E7%89%99%E4%BC%9D%E8%AA%ACWEED"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『銀牙伝説WEED』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2009,
+    "volumeCount": 60
+  },
+  {
+    "id": "oniheihankachou",
+    "title": "鬼平犯科帳",
+    "titleKana": "おにへいはんかちょう",
+    "originalAuthorIds": [
+      "ikenami-shoutarou"
+    ],
+    "artistIds": [
+      "saito-takao"
+    ],
+    "publisherId": "leed-sha",
+    "labelId": "comic-ran",
+    "themeIds": [
+      "historical",
+      "crime-underworld"
+    ],
+    "firstPublishedYear": 1993,
+    "status": "ongoing",
+    "synopsis": "江戸の火付盗賊改方長官・長谷川平蔵は、若い頃の放蕩で裏社会にも通じ、その経験を活かして凶悪な盗賊たちを追い詰めていく。密偵として使う元盗賊たちとの信義、罪を犯した者への情け、そして与力・同心たちとの結束を描く。池波正太郎の時代小説をさいとう・たかをが劇画化した、江戸の捕物帳の代表作。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%AC%BC%E5%B9%B3%E7%8A%AF%E7%A7%91%E5%B8%B3"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『鬼平犯科帳』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 127
+  },
+  {
+    "id": "rakudaininjarantarou",
+    "title": "落第忍者乱太郎",
+    "titleKana": "らくだいにんじゃらんたろう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "amako-soubee"
+    ],
+    "publisherId": "asahi-gakusei-shimbun",
+    "labelId": "asahi-shogakusei-shimbun",
+    "themeIds": [
+      "comedy",
+      "historical",
+      "school"
+    ],
+    "firstPublishedYear": 1986,
+    "status": "completed",
+    "synopsis": "戦国時代、代々ヒラ忍者の家に生まれた乱太郎は、一流の忍者を目指して忍術学園に入学する。だが同級生のきり丸、しんべヱとともに成績は落第点ばかりで、追試と補習に追われる毎日。それでも三人は足りない知恵を出し合い、個性の強すぎる先生や上級生を巻き込みながら騒動を解決していく。史実の忍術を下敷きにしたギャグ漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E8%90%BD%E7%AC%AC%E5%BF%8D%E8%80%85%E4%B9%B1%E5%A4%AA%E9%83%8E"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『落第忍者乱太郎』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2019,
+    "volumeCount": 65
+  },
+  {
+    "id": "enburemuteikutsu",
+    "title": "代紋TAKE2",
+    "titleKana": "えんぶれむていくつー",
+    "originalAuthorIds": [
+      "kiuchi-kazumasa"
+    ],
+    "artistIds": [
+      "watanabe-jun"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "young-magazine",
+    "themeIds": [
+      "crime-underworld",
+      "sci-fi",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 1990,
+    "status": "completed",
+    "synopsis": "うだつの上がらないヤクザ・阿久津丈二は、鉄砲玉を命じられた末に惨めな最期を遂げる。ところが目覚めるとそこは十年前の新宿、人生が転落するきっかけとなった喧嘩の場面だった。十年分の記憶を持ったまま人生をやり直す丈二は、知恵と度胸で組織を駆け上がっていく。タイムリープの設定を極道の世界に持ち込んだ異色作。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E4%BB%A3%E7%B4%8BTAKE2"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『代紋TAKE2』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2004,
+    "volumeCount": 62
+  },
+  {
+    "id": "oitonbo",
+    "title": "オーイ! とんぼ",
+    "titleKana": "おーいとんぼ",
+    "originalAuthorIds": [
+      "kawasaki-ken"
+    ],
+    "artistIds": [
+      "furusawa-yuu"
+    ],
+    "publisherId": "golf-digest-sha",
+    "labelId": "weekly-golf-digest",
+    "themeIds": [
+      "sports",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2014,
+    "status": "ongoing",
+    "synopsis": "不正でプロ資格を剥奪された元プロゴルファーの五十嵐一賀は、鹿児島のトカラ列島にある小さな離島へ流れ着く。そこで出会った中学生・大井とんぼは、形見の三番アイアン一本だけで曲芸のようなショットを操る型破りなゴルファーだった。彼女の才能に魅せられた五十嵐が指導者として立ち直り、とんぼが広い世界へ羽ばたいていく成長物語。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%A4%21_%E3%81%A8%E3%82%93%E3%81%BC"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『オーイ! とんぼ』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2014,
+    "volumeCount": 63
+  },
+  {
+    "id": "soumubusoumukayamaguchiroppeita",
+    "title": "総務部総務課山口六平太",
+    "titleKana": "そうむぶそうむかやまぐちろっぺいた",
+    "originalAuthorIds": [
+      "hayashi-norio"
+    ],
+    "artistIds": [
+      "takai-kenichirou"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic",
+    "themeIds": [
+      "workplace-drama",
+      "business",
+      "comedy"
+    ],
+    "firstPublishedYear": 1985,
+    "status": "completed",
+    "synopsis": "自動車メーカー・大日自動車の総務部総務課に勤める山口六平太は、社内に持ち込まれる厄介事を人当たりの良さと機転で片づけていく万事屋のような社員。社員同士のいさかいや福利厚生の相談、時には社長夫妻の喧嘩の仲裁まで引き受ける。会社という組織の裏方から見た人間模様を一話完結で描き続けた、サラリーマン漫画の代表格。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%B7%8F%E5%8B%99%E9%83%A8%E7%B7%8F%E5%8B%99%E8%AA%B2%E5%B1%B1%E5%8F%A3%E5%85%AD%E5%B9%B3%E5%A4%AA"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『総務部総務課山口六平太』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2016,
+    "volumeCount": 81
+  },
+  {
+    "id": "dorimusu",
+    "title": "Dreams",
+    "titleKana": "どりーむす",
+    "originalAuthorIds": [
+      "nami-tarou"
+    ],
+    "artistIds": [
+      "kawa-sanbanchi"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "sports",
+      "school"
+    ],
+    "firstPublishedYear": 1996,
+    "status": "completed",
+    "synopsis": "才能はあるが素行の悪さで六つのチームを渡り歩いた投手・久里武志は、行き場を失った末に夢の島高校へたどり着く。監督の工藤と同居するという条件つきで入部した久里は、規律を重んじる周囲と衝突しながらも、剛速球を武器にチームを甲子園へと押し上げていく。荒れた才能が仲間と出会って磨かれていく長期連載の野球漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Dreams_%28%E6%BC%AB%E7%94%BB%29"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『Dreams (漫画)』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2017,
+    "volumeCount": 71
+  },
+  {
+    "id": "nantomagoroku",
+    "title": "なんと孫六",
+    "titleKana": "なんとまごろく",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "sadayasu-kei"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "monthly-shonen-magazine",
+    "themeIds": [
+      "sports",
+      "delinquent",
+      "school"
+    ],
+    "firstPublishedYear": 1981,
+    "status": "completed",
+    "synopsis": "大阪の底辺校・浪城高校に入学した甲斐孫六は、名うての不良たちを次々と倒して番長の座に就く。その並外れた身体能力を野球部顧問に見込まれ、揺れ動く速球「孫六ボール」を武器にエースで四番として甲子園を目指すことになる。喧嘩と野球が地続きになった破天荒な主人公が、強豪校のライバルたちと激突していく長期野球漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%AA%E3%82%93%E3%81%A8%E5%AD%AB%E5%85%AD"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『なんと孫六』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2014,
+    "volumeCount": 81
+  },
+  {
+    "id": "zerozamanobuzakurieishon",
+    "title": "ゼロ THE MAN OF THE CREATION",
+    "titleKana": "ぜろざまんおぶざくりえいしょん",
+    "originalAuthorIds": [
+      "ai-eishi"
+    ],
+    "artistIds": [
+      "satomi-kei"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "super-jump",
+    "themeIds": [
+      "arts",
+      "adventure",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 1990,
+    "status": "completed",
+    "synopsis": "「ゼロ」と呼ばれる正体不明の男は、失われた美術品や歴史的遺物を完璧に再現してみせる超一流の職人である。依頼人の望みに応じて世界中に赴き、複製という手段を通して事件の真相や人の心の在り方を照らし出していく。美術・工芸・歴史の蘊蓄を毎回の題材に据えた一話完結の物語で、七十八巻にわたって続いた青年漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%AD_THE_MAN_OF_THE_CREATION"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ゼロ THE MAN OF THE CREATION』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2011,
+    "volumeCount": 78
+  },
+  {
+    "id": "jidifendo",
+    "title": "G・DEFEND",
+    "titleKana": "じーでぃふぇんど",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "morimoto-shuu"
+    ],
+    "publisherId": "tousuisha",
+    "labelId": "racish",
+    "themeIds": [
+      "boys-love",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 1993,
+    "status": "ongoing",
+    "synopsis": "政治テロが相次ぐ近未来の日本で、国会警備隊の教官を務める石川は、歴代の教官が次々と殉職する危険な任務に就いている。彼を守り続けるのは、石川を深く愛するSPの岩瀬。命を賭けた警護のなかで二人の関係は深まり、組織の思惑や過去の因縁が二人を翻弄していく。長期にわたって描かれるボーイズラブのサスペンス作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/G%E3%83%BBDEFEND"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『G・DEFEND』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 82
+  },
+  {
+    "id": "ashitatenkininaare",
+    "title": "あした天気になあれ",
+    "titleKana": "あしたてんきになあれ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "chiba-tetsuya"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "sports",
+      "school"
+    ],
+    "firstPublishedYear": 1981,
+    "status": "completed",
+    "synopsis": "東京の下町で育った中学生・向太陽は、実家の食堂を手伝いながらゴルフ練習場でアルバイトをし、プロゴルファーを夢見ている。元プロの竜谷に才能を見出された太陽は、河川敷のコースで腕を磨き、史上最年少でプロテストに合格。個性の強い先輩たちに揉まれながら、やがて全英オープンの舞台にまでたどり着く。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%97%E3%81%9F%E5%A4%A9%E6%B0%97%E3%81%AB%E3%81%AA%E3%81%82%E3%82%8C_%28%E6%BC%AB%E7%94%BB%29"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『あした天気になあれ (漫画)』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 1991,
+    "volumeCount": 58
+  },
+  {
+    "id": "watarugapyun",
+    "title": "わたるがぴゅん!",
+    "titleKana": "わたるがぴゅん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nakaimatsuyoshi"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "monthly-shonen-jump",
+    "themeIds": [
+      "sports",
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 1984,
+    "status": "completed",
+    "synopsis": "沖縄から東和台中学校に転校してきた与那覇わたるは、スポーツ万能でありながら問題を起こしては転校を繰り返してきた札つきの生徒。弱小野球部の面々に誘われ、マネージャーへの一目惚れをきっかけに入部すると、規格外の身体能力でチームを次々と勝ち上がらせていく。明るい沖縄気質の主人公が周囲を巻き込んでいく野球漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%8F%E3%81%9F%E3%82%8B%E3%81%8C%E3%81%B4%E3%82%85%E3%82%93%21"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『わたるがぴゅん!』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2004,
+    "volumeCount": 58
+  },
+  {
+    "id": "erianokishi",
+    "title": "エリアの騎士",
+    "titleKana": "えりあのきし",
+    "originalAuthorIds": [
+      "igano-hiroaki"
+    ],
+    "artistIds": [
+      "tsukiyama-kaya"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "sports",
+      "school"
+    ],
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "synopsis": "サッカーの才能に恵まれた兄・傑を事故で失った逢沢駆は、兄の心臓を移植されたことをきっかけに、自ら選手として立ち上がる決意をする。マネージャーだった少女・七尾奈々に支えられながら、江ノ島高校のエースへ、そして年代別日本代表へと駆け上がっていく。兄の遺志を継ぐ主人公の成長を軸にした長期のサッカー漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%82%A2%E3%81%AE%E9%A8%8E%E5%A3%AB"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『エリアの騎士』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2017,
+    "volumeCount": 57
+  },
+  {
+    "id": "arufuheimunokishi",
+    "title": "妖精国の騎士",
+    "titleKana": "あるふへいむのきし",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nakayama-seika"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "gekkan-princess",
+    "themeIds": [
+      "dark-fantasy",
+      "adventure",
+      "romance"
+    ],
+    "firstPublishedYear": 1986,
+    "status": "completed",
+    "synopsis": "妖精や竜がまだ地上にいた時代、アルトディアス王国の双子の王子ローラントと姫ローゼリィは、平和な日々を送っていた。だが北の大国グラーンの侵略が始まり、ローゼリィは森で出会った妖精王ルシアンとの縁に導かれて戦乱の渦中へ身を投じていく。人と妖精の世界が交錯する、二十年にわたって描かれた本格ファンタジー少女漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%A6%96%E7%B2%BE%E5%9B%BD%E3%81%AE%E9%A8%8E%E5%A3%AB"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『妖精国の騎士』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2006,
+    "volumeCount": 54
+  },
+  {
+    "id": "ketsu",
+    "title": "K2",
+    "titleKana": "けーつー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mafune-kazuo"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "evening",
+    "themeIds": [
+      "medical",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "無医村へ派遣された若き医師・富永研太は、マントをまとった無資格の医療者が驚異的な腕で人命を救う場面に立ち会う。その男は伝説の外科医ドクターKの後継者を思わせる存在だった。難病や大事故の現場に現れ、医療の常識を超えた手技で患者を救っていく医師の姿を描く。『スーパードクターK』の後継となる医療漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/K2_%28%E6%BC%AB%E7%94%BB%29"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『K2 (漫画)』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2023,
+    "volumeCount": 52
+  },
+  {
+    "id": "dokabenpuroyakiyuuhen",
+    "title": "ドカベン プロ野球編",
+    "titleKana": "どかべんぷろやきゆうへん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mizushima-shinji"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "shonen-champion",
+    "themeIds": [
+      "sports"
+    ],
+    "firstPublishedYear": 1995,
+    "status": "completed",
+    "synopsis": "明訓高校を卒業した山田太郎や岩鬼、殿馬、里中たちが、それぞれ日本のプロ野球球団に入団し、実在球団を舞台に激突していく。高校時代のライバルだった不知火や土門、犬飼兄弟らとも敵味方に分かれて再会し、プロの世界ならではの駆け引きが繰り広げられる。『ドカベン』『大甲子園』に続くシリーズ第三部。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%AB%E3%83%99%E3%83%B3_%E3%83%97%E3%83%AD%E9%87%8E%E7%90%83%E7%B7%A8"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ドカベン プロ野球編』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2004,
+    "volumeCount": 52
+  },
+  {
+    "id": "karateshoukoushikohinataminoru",
+    "title": "空手小公子 小日向海流",
+    "titleKana": "からてしょうこうしこひなたみのる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "babayasushi"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "young-magazine",
+    "themeIds": [
+      "battle-action",
+      "school",
+      "sports"
+    ],
+    "firstPublishedYear": 2000,
+    "status": "completed",
+    "synopsis": "名門体育大学に通う小日向海流は、体操部の先輩からいじめを受けていたところを第二空手部の武藤竜二に助けられる。それをきっかけに空手の魅力に取り憑かれた海流は、実戦空手の世界へのめり込んでいく。個性豊かな部員たちとの稽古や他流派との試合を通して、才能を開花させていく大学空手を描いた格闘漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%A9%BA%E6%89%8B%E5%B0%8F%E5%85%AC%E5%AD%90_%E5%B0%8F%E6%97%A5%E5%90%91%E6%B5%B7%E6%B5%81"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『空手小公子 小日向海流』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2012,
+    "volumeCount": 50
+  },
+  {
+    "id": "maji",
+    "title": "本気!",
+    "titleKana": "まじ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tachihara-ayumi"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "shonen-champion",
+    "themeIds": [
+      "delinquent",
+      "crime-underworld"
+    ],
+    "firstPublishedYear": 1986,
+    "status": "completed",
+    "synopsis": "白銀本気は、少年誌には珍しい本格的な極道の世界に身を置きながら、義理と人情を何より重んじる純粋な男。チンピラたちの青春群像として始まった物語は、本気がカリスマ性を帯びた侠客へと成長していくにつれ、抗争と絆の重みを増していく。上昇志向や金儲けを排し、任侠の筋だけを描き切った長期連載作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%9C%AC%E6%B0%97%21"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『本気!』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 1996,
+    "volumeCount": 50
+  },
+  {
+    "id": "kougyouaikabareboizu",
+    "title": "工業哀歌バレーボーイズ",
+    "titleKana": "こうぎょうあいかばれーぼーいず",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "murata-hiroyuki"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "young-magazine",
+    "themeIds": [
+      "comedy",
+      "school",
+      "delinquent"
+    ],
+    "firstPublishedYear": 1989,
+    "status": "completed",
+    "synopsis": "工業高校に通う男子生徒たちが、色恋と下ネタと喧嘩に明け暮れる日常を描いた青年ギャグ漫画。女子のいない環境でくすぶる主人公たちは、下品でどうしようもない騒動を毎回のように巻き起こしながらも、どこか憎めない友情で結ばれている。累計千五百万部を売り上げ、続編も長く描かれた人気シリーズ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%B7%A5%E6%A5%AD%E5%93%80%E6%AD%8C%E3%83%90%E3%83%AC%E3%83%BC%E3%83%9C%E3%83%BC%E3%82%A4%E3%82%BA"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『工業哀歌バレーボーイズ』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2006,
+    "volumeCount": 50
+  },
+  {
+    "id": "wairudosebun",
+    "title": "ワイルド7",
+    "titleKana": "わいるどせぶん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mochizuki-mikiya"
+    ],
+    "publisherId": "shonen-gahosha",
+    "labelId": "shonen-king",
+    "themeIds": [
+      "battle-action",
+      "crime-underworld",
+      "war-military"
+    ],
+    "firstPublishedYear": 1969,
+    "status": "completed",
+    "synopsis": "凶悪犯罪に対抗するため、犯罪者たちを集めて編成された特殊警察部隊「ワイルド7」。バイクと銃を自在に操る七人は、法の手が届かない相手を現場で処断する権限を与えられ、政財界の陰謀や国家規模のテロと渡り合っていく。緻密なメカ描写とハードな暴力描写で、日本のアクション漫画の原型となった作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%82%A4%E3%83%AB%E3%83%897"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ワイルド7』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 1979,
+    "volumeCount": 48
+  },
+  {
+    "id": "chiisanakoinomonogatari",
+    "title": "小さな恋のものがたり",
+    "titleKana": "ちいさなこいのものがたり",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mitsuhashichikako"
+    ],
+    "publisherId": "gakken",
+    "labelId": "utsukushii-jyudai",
+    "themeIds": [
+      "romance",
+      "slice-of-life",
+      "comedy"
+    ],
+    "firstPublishedYear": 1962,
+    "status": "ongoing",
+    "synopsis": "おかっぱ頭の女子高生チッチが、背の高い同級生サリーに寄せる片思いを描くストーリー四コマ漫画。告白できないもどかしさや、ふとした瞬間の胸の高鳴りが、詩のようなモノローグとともに綴られる。一九六二年の連載開始から半世紀以上にわたって描き継がれ、少女の恋心を象徴する作品として読み継がれてきた。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E3%81%95%E3%81%AA%E6%81%8B%E3%81%AE%E3%82%82%E3%81%AE%E3%81%8C%E3%81%9F%E3%82%8A"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『小さな恋のものがたり』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2022,
+    "volumeCount": 46
+  },
+  {
+    "id": "kaiouki",
+    "title": "海皇紀",
+    "titleKana": "かいおうき",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kawahara-masatoshi"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "monthly-shonen-magazine",
+    "themeIds": [
+      "adventure",
+      "battle-action",
+      "historical"
+    ],
+    "firstPublishedYear": 1998,
+    "status": "completed",
+    "synopsis": "海の一族を名乗る船乗りファン・ガンマ・ビゼンは、卓越した操船術と戦術眼を持ちながら、権力とは距離を置いて生きる自由な男。小国ウォルハンの新国王カザルや魔道師見習いのマイアと出会ったことから、大陸の覇権をめぐる争いに巻き込まれていく。帆船の海戦描写を軸に据えた、架空世界の海洋冒険ファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%B5%B7%E7%9A%87%E7%B4%80"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『海皇紀』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2010,
+    "volumeCount": 45
+  },
+  {
+    "id": "randorioru",
+    "title": "Landreaall",
+    "titleKana": "らんどりおーる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ogakichika"
+    ],
+    "publisherId": "ichijinsha",
+    "labelId": "comic-zero-sum",
+    "themeIds": [
+      "dark-fantasy",
+      "adventure",
+      "school"
+    ],
+    "firstPublishedYear": 2002,
+    "status": "ongoing",
+    "synopsis": "辺境の領主の息子DXは、王都の士官学校に入学するため故郷を離れる。剣の腕も度胸も並外れているが、生来のお人好しな気質から次々と厄介事を引き寄せ、個性豊かな学友や竜と関わりながら成長していく。王家の血をめぐる陰謀が背景に流れる、二十年以上続く長期連載の学園ファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Landreaall"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『Landreaall』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 45
   }
 ]
