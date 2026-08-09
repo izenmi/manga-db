@@ -3286,5 +3286,75 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "genzo",
+    "name": "幻蔵",
+    "nameKana": "げんぞう",
+    "publisherId": "gentosha",
+    "description": "幻冬舎が発行していた青年漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "bessatsu-manga-goraku",
+    "name": "別冊漫画ゴラク",
+    "nameKana": "べっさつまんがごらく",
+    "publisherId": "nihon-bungeisha",
+    "description": "日本文芸社が発行していた週刊漫画ゴラクの別冊。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jour-suteki-na-shufutachi",
+    "name": "JOURすてきな主婦たち",
+    "nameKana": "じゅーるすてきなしゅふたち",
+    "publisherId": "futabasha",
+    "description": "双葉社が発行する女性向け漫画誌。主婦層を読者に想定する。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "cycomi",
+    "name": "サイコミ",
+    "nameKana": "さいこみ",
+    "publisherId": "cygames",
+    "description": "Cygamesが運営するWebコミック配信サービス。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "wings-shinshokan",
+    "name": "ウイングス",
+    "nameKana": "ういんぐす",
+    "publisherId": "shinshokan",
+    "description": "新書館が発行する女性向け漫画誌。ファンタジー作品を多く掲載する。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yomiuri-sunday",
+    "name": "読売新聞日曜版",
+    "nameKana": "よみうりしんぶんにちようばん",
+    "publisherId": "yomiuri-shimbun",
+    "description": "読売新聞の日曜版。長期連載の四コマ・多コマ漫画を掲載する。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "suiyobi-no-sirius",
+    "name": "水曜日のシリウス",
+    "nameKana": "すいようびのしりうす",
+    "publisherId": "kodansha",
+    "description": "講談社が運営する月刊少年シリウスのWebコミック配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
   }
 ]
