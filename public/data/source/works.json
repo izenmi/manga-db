@@ -73781,7 +73781,7 @@
     },
     "sourceNote": "日本語版Wikipedia『魔女大戦 32人の異才の魔女は殺し合う』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-09",
-    "latestPublishedYear": 2020,
+    "latestPublishedYear": 2025,
     "volumeCount": 15
   },
   {
@@ -73843,6 +73843,68 @@
     "sourceNote": "日本語版Wikipedia『マップス ネクストシート』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-09",
     "latestPublishedYear": 2012,
+    "volumeCount": 15
+  },
+  {
+    "id": "tekyuu",
+    "title": "てーきゅう",
+    "titleKana": "てーきゅう",
+    "originalAuthorIds": [
+      "rutsu"
+    ],
+    "artistIds": [
+      "piyo"
+    ],
+    "publisherId": "earth-star-entertainment",
+    "labelId": "comic-earth-star",
+    "themeIds": [
+      "sports",
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 2012,
+    "status": "completed",
+    "synopsis": "テニス部に所属する女子高校生四人の日常を、極端に速いテンポで描いていくギャグ漫画。テニスはほとんどせず、脈絡のない会話と暴走だけで一話が終わる。短い話数で畳みかける構成が特徴で、アニメも一話三分という形式で展開された。一話が数ページで完結し、間を置かずに次の話へ雪崩れ込んでいく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%A6%E3%83%BC%E3%81%8D%E3%82%85%E3%81%86"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『てーきゅう』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2018,
+    "volumeCount": 15
+  },
+  {
+    "id": "aahananoouendan",
+    "title": "嗚呼!!花の応援団",
+    "titleKana": "ああはなのおうえんだん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "dookuman"
+    ],
+    "publisherId": "futabasha",
+    "labelId": "manga-action",
+    "themeIds": [
+      "comedy",
+      "delinquent",
+      "school"
+    ],
+    "firstPublishedYear": 1975,
+    "status": "completed",
+    "synopsis": "大学の応援団に所属する青田赤道が、無茶苦茶な暴力と下品さで周囲を蹂躙していくギャグ漫画。稚拙にも見える力強い絵柄と、理屈を一切排した勢いが読者を掴み、単行本五巻までで四百万部に達した。四度にわたって映画化され、長く再版され続けた作者の出世作である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%97%9A%E5%91%BC%21%21%E8%8A%B1%E3%81%AE%E5%BF%9C%E6%8F%B4%E5%9B%A3"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『嗚呼!!花の応援団』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 1979,
     "volumeCount": 15
   }
 ]
