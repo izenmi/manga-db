@@ -56711,5 +56711,875 @@
     "sourceNote": "日本語版Wikipedia『終わりのセラフ』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-09",
     "volumeCount": 36
+  },
+  {
+    "id": "aozakuraboueidaigakkoumonogatari",
+    "title": "あおざくら 防衛大学校物語",
+    "titleKana": "あおざくらぼうえいだいがっこうものがたり",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nikaidou-hikaru"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "school",
+      "workplace-drama",
+      "war-military"
+    ],
+    "firstPublishedYear": 2016,
+    "status": "ongoing",
+    "synopsis": "実家の定食屋が廃業し進学費用に悩む高校三年生・近藤勇美は、学費が免除され手当まで支給される防衛大学校の存在を知って入校を決める。だが待っていたのは、上級生による厳格な指導と規律に縛られた寮生活だった。同期たちと励まし合いながら幹部自衛官への道を歩む、防大の内側を丹念に描いた学園漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%8A%E3%81%96%E3%81%8F%E3%82%89_%E9%98%B2%E8%A1%9B%E5%A4%A7%E5%AD%A6%E6%A0%A1%E7%89%A9%E8%AA%9E"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『あおざくら 防衛大学校物語』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 36
+  },
+  {
+    "id": "tsugumomo",
+    "title": "つぐもも",
+    "titleKana": "つぐもも",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hamada-yoshikazu"
+    ],
+    "publisherId": "futabasha",
+    "labelId": "comic-seed",
+    "themeIds": [
+      "battle-action",
+      "school",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "母の形見である桜の香りの袋帯を肌身離さず持ち歩く中学生・加賀見一也は、ある日妖怪に襲われたところを着物姿の美少女に救われる。彼女は袋帯に宿る付喪神「桐葉」だった。以後、一也は桐葉とともに人の想いが歪んで生まれる怪異と戦っていく。和の意匠を凝らした妖怪退治のバトルファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%A4%E3%81%90%E3%82%82%E3%82%82"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『つぐもも』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2024,
+    "volumeCount": 36
+  },
+  {
+    "id": "akagiyaminioritattatensai",
+    "title": "アカギ 〜闇に降り立った天才〜",
+    "titleKana": "あかぎやみにおりたったてんさい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "fukumoto-nobuyuki"
+    ],
+    "publisherId": "takeshobo",
+    "labelId": "kindai-mahjong",
+    "themeIds": [
+      "gambling",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 1992,
+    "status": "completed",
+    "synopsis": "昭和三十三年の深夜、命を賭けた代打ち麻雀で追い詰められた男の前に、警察から逃げてきた中学生・赤木しげるが現れる。ルールもろくに知らないまま卓に着いた赤木は、常識外れの打ち筋でヤクザたちを叩き伏せていく。狂気を纏った天才の生涯を追い、鷲巣麻雀という異形の勝負に至る麻雀漫画の金字塔。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AB%E3%82%AE_%E3%80%9C%E9%97%87%E3%81%AB%E9%99%8D%E3%82%8A%E7%AB%8B%E3%81%A3%E3%81%9F%E5%A4%A9%E6%89%8D%E3%80%9C"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『アカギ 〜闇に降り立った天才〜』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2018,
+    "volumeCount": 36
+  },
+  {
+    "id": "yamatonadeshikoshichihenge",
+    "title": "ヤマトナデシコ七変化♡",
+    "titleKana": "やまとなでしこしちへんげ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hayakawatomoko"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "bessatsu-friend",
+    "themeIds": [
+      "comedy",
+      "romance",
+      "school"
+    ],
+    "firstPublishedYear": 2000,
+    "status": "completed",
+    "synopsis": "怪奇趣味に浸り屋敷に引きこもる少女・中原スナコを「淑女」に仕立て上げれば家賃をただにする。そんな条件を突きつけられた美形の男子高校生四人が、スナコとの共同生活に挑む。美しいものを恐れるスナコと、彼女に振り回される四人の噛み合わなさが生む騒動を、勢い任せの筆致で描いたコメディ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%88%E3%83%8A%E3%83%87%E3%82%B7%E3%82%B3%E4%B8%83%E5%A4%89%E5%8C%96%E2%99%A1"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ヤマトナデシコ七変化♡』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2015,
+    "volumeCount": 36
+  },
+  {
+    "id": "souseinoonmyouji",
+    "title": "双星の陰陽師",
+    "titleKana": "そうせいのおんみょうじ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "sukeno-yoshiaki"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "jump-square",
+    "themeIds": [
+      "battle-action",
+      "psychic-battle",
+      "romance"
+    ],
+    "firstPublishedYear": 2013,
+    "status": "completed",
+    "synopsis": "過去の惨劇で陰陽師の夢を諦めた少年・焔魔堂ろくろは、突如現れた少女・化野紅緒とともに「双星の陰陽師」の称号を与えられる。それは人類の宿敵ケガレを滅ぼす「神子」を生むため夫婦になれという命令だった。反発しあう二人が互いの傷を知り、絆を深めながら強大な敵と戦っていく異能バトル。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%8F%8C%E6%98%9F%E3%81%AE%E9%99%B0%E9%99%BD%E5%B8%AB"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『双星の陰陽師』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2024,
+    "volumeCount": 35
+  },
+  {
+    "id": "raikadeizu",
+    "title": "らいか・デイズ",
+    "titleKana": "らいかでいず",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "munko"
+    ],
+    "publisherId": "houbunsha",
+    "labelId": "manga-home",
+    "themeIds": [
+      "comedy",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "しっかり者の小学生・雷夏を中心に、家族やクラスメイトが繰り広げる日常を描いた四コマ漫画。背伸びしたい年頃の子どもたちの機微と、彼らを見守る大人たちのやりとりが、穏やかな笑いとともに積み重ねられていく。二十年以上にわたって芳文社の複数誌で並行連載された長寿作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%89%E3%81%84%E3%81%8B%E3%83%BB%E3%83%87%E3%82%A4%E3%82%BA"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『らいか・デイズ』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2024,
+    "volumeCount": 35
+  },
+  {
+    "id": "shikkakumonnosaikyoukenja",
+    "title": "失格紋の最強賢者",
+    "titleKana": "しっかくもんのさいきょうけんじゃ",
+    "originalAuthorIds": [
+      "shinkou-shotou"
+    ],
+    "artistIds": [
+      "kanshou-fuukou"
+    ],
+    "publisherId": "square-enix",
+    "labelId": "manga-up",
+    "themeIds": [
+      "isekai",
+      "battle-action",
+      "school"
+    ],
+    "firstPublishedYear": 2017,
+    "status": "ongoing",
+    "synopsis": "魔法戦闘を極めながら、自らの紋章が戦闘に向かないと悟った賢者ガイアスは、転生魔法で数千年後の世界へ生まれ変わる。マティアスとして前世の記憶を取り戻した彼が見たのは、魔法理論が驚くほど退化した世界だった。最適な紋章を得た少年が、失われた知識で無双していく異世界転生ファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%A4%B1%E6%A0%BC%E7%B4%8B%E3%81%AE%E6%9C%80%E5%BC%B7%E8%B3%A2%E8%80%85"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『失格紋の最強賢者』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 35
+  },
+  {
+    "id": "rei",
+    "title": "RAVE",
+    "titleKana": "れいゔ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mashima-hiro"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "adventure",
+      "battle-action",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 1999,
+    "status": "completed",
+    "synopsis": "聖石レイヴと魔石ダークブリングの戦いが世界を砕いてから五十年。孤島に暮らす少年ハル・グローリーは、初代レイヴマスターのシバからレイヴを受け継ぎ、二代目として旅立つ。仲間との出会いと別れを重ねながら、世界の成り立ちにまつわる真実へ近づいていく王道の冒険ファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/RAVE_%28%E6%BC%AB%E7%94%BB%29"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『RAVE (漫画)』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2005,
+    "volumeCount": 35
+  },
+  {
+    "id": "orehakyaputen",
+    "title": "おれはキャプテン",
+    "titleKana": "おれはきゃぷてん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kojii-joukura"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "sports",
+      "school",
+      "comedy"
+    ],
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "影の薄い補欠部員だった中学生・霧隠主将は、顧問の思いつきで野球部のキャプテンに指名されてしまう。戸惑いと反発のなかで自らに過酷な練習を課した主将は、短期間でレギュラーを勝ち取り、独創的な戦術でチームを引っ張るようになる。頼りない少年が指揮官として覚醒していく中学野球漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%8A%E3%82%8C%E3%81%AF%E3%82%AD%E3%83%A3%E3%83%97%E3%83%86%E3%83%B3"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『おれはキャプテン』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2015,
+    "volumeCount": 35
+  },
+  {
+    "id": "shikakeninfujiedabaian",
+    "title": "仕掛人・藤枝梅安",
+    "titleKana": "しかけにんふじえだばいあん",
+    "originalAuthorIds": [
+      "ikenami-shoutarou"
+    ],
+    "artistIds": [
+      "saito-takao"
+    ],
+    "publisherId": "leed-sha",
+    "labelId": "comic-ran",
+    "themeIds": [
+      "historical",
+      "crime-underworld"
+    ],
+    "firstPublishedYear": 2001,
+    "status": "completed",
+    "synopsis": "腕の良い鍼医者として江戸で暮らす藤枝梅安は、その裏で金を受け取り人を殺める「仕掛人」の顔を持つ。相棒の楊枝職人・彦次郎とともに、法では裁けない悪人を闇へ葬っていく。人を癒す手と殺める手を併せ持つ男の業を、池波正太郎の原作に沿ってさいとう・たかをが劇画化した時代劇。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E4%BB%95%E6%8E%9B%E4%BA%BA%E3%83%BB%E8%97%A4%E6%9E%9D%E6%A2%85%E5%AE%89"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『仕掛人・藤枝梅安』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2014,
+    "volumeCount": 35
+  },
+  {
+    "id": "torinitisebunshichininnomashotsukai",
+    "title": "トリニティセブン 7人の魔書使い",
+    "titleKana": "とりにてぃせぶんしちにんのましょつかい",
+    "originalAuthorIds": [
+      "saito-kenji"
+    ],
+    "artistIds": [
+      "nao-akinori"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "dragon-age",
+    "themeIds": [
+      "isekai",
+      "battle-action",
+      "school"
+    ],
+    "firstPublishedYear": 2010,
+    "status": "ongoing",
+    "synopsis": "ごく普通の日常を送っていた高校生・春日アラタは、自分の住む街が「崩壊現象」によってすでに失われ、今の世界が自らの願いで作られた偽物だと知らされる。従妹の聖を取り戻すため魔道学園に入学したアラタは、七人の最強魔道士「トリニティセブン」と出会い、世界の謎に挑んでいく学園ファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AA%E3%83%8B%E3%83%86%E3%82%A3%E3%82%BB%E3%83%96%E3%83%B3_7%E4%BA%BA%E3%81%AE%E9%AD%94%E6%9B%B8%E4%BD%BF%E3%81%84"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『トリニティセブン 7人の魔書使い』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2021,
+    "volumeCount": 34
+  },
+  {
+    "id": "hananoasukagumi",
+    "title": "花のあすか組!",
+    "titleKana": "はなのあすかぐみ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "takaguchi-satosumi"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "monthly-asuka",
+    "themeIds": [
+      "delinquent",
+      "school",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1985,
+    "status": "completed",
+    "synopsis": "全国の女子中学生を束ねる巨大組織「全中裏」。その頂点に立つ少女・九和えみは、掟を破った者を容赦なく粛清する冷徹な支配者だった。転校生の三田村あすかは、暴力に支配された秩序に真っ向から立ち向かい、次々と刺客を退けていく。少女たちの抗争を峻烈に描いた、ヤンキー漫画の代表作。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E8%8A%B1%E3%81%AE%E3%81%82%E3%81%99%E3%81%8B%E7%B5%84%21"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『花のあすか組!』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 1995,
+    "volumeCount": 34
+  },
+  {
+    "id": "roto-no-monsho-monsho-wo-tsugu-monotachi-e",
+    "title": "ドラゴンクエスト列伝 ロトの紋章 〜紋章を継ぐ者達へ〜",
+    "titleKana": "どらごんくえすとれつでんろとのもんしょうもんしょうをつぐものたちへ",
+    "originalAuthorIds": [
+      "eishima-jun",
+      "umemura-takashi"
+    ],
+    "artistIds": [
+      "fujiwara-kamui"
+    ],
+    "publisherId": "square-enix",
+    "labelId": "young-gangan",
+    "themeIds": [
+      "adventure",
+      "battle-action",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "前作の完結から二十五年後、世界からすべての呪文が消え失せた「失われし日」が訪れる。同じ日に記憶を失った少年アロスは、盗賊団に拾われて育つ。父の行方を追う若者たちと出会い、呪文消失の謎と自らの出自を追って旅立つ。ドラゴンクエストの世界を舞台にした長編ファンタジーの続編。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E5%88%97%E4%BC%9D_%E3%83%AD%E3%83%88%E3%81%AE%E7%B4%8B%E7%AB%A0_%E3%80%9C%E7%B4%8B%E7%AB%A0%E3%82%92%E7%B6%99%E3%81%90%E8%80%85%E9%81%94%E3%81%B8%E3%80%9C"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ドラゴンクエスト列伝 ロトの紋章 〜紋章を継ぐ者達へ〜』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2020,
+    "volumeCount": 34
+  },
+  {
+    "id": "dokabendorimutonamentohen",
+    "title": "ドカベン ドリームトーナメント編",
+    "titleKana": "どかべんどりーむとーなめんとへん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mizushima-shinji"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "shonen-champion",
+    "themeIds": [
+      "sports"
+    ],
+    "firstPublishedYear": 2012,
+    "status": "completed",
+    "synopsis": "プロ野球が十六球団に拡大され、その記念として全球団参加のトーナメントが甲子園で開催されることになる。山田太郎や岩鬼ら明訓五人衆に加え、岩田鉄五郎や東京メッツなど作者の他作品の登場人物までもが集結し、球史に残る夢の対戦が実現する。『ドカベン』シリーズを締めくくる最終章。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%AB%E3%83%99%E3%83%B3_%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0%E3%83%88%E3%83%BC%E3%83%8A%E3%83%A1%E3%83%B3%E3%83%88%E7%B7%A8"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ドカベン ドリームトーナメント編』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2018,
+    "volumeCount": 34
+  },
+  {
+    "id": "bokuranokiseki",
+    "title": "ボクラノキセキ",
+    "titleKana": "ぼくらのきせき",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kumeta-natsuo"
+    ],
+    "publisherId": "ichijinsha",
+    "labelId": "comic-zero-sum-ward",
+    "themeIds": [
+      "dark-fantasy",
+      "school",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2007,
+    "status": "ongoing",
+    "synopsis": "滅びた国の王女ベロニカとして生きた記憶を幼少期から持つ少年・皆見晴澄は、それを口にしたことで孤立した少年時代を過ごしてきた。高校生になり、前世の記憶を記したノートを級友に見られたことから、同じく前世の記憶を持つ者たちが次々と姿を現す。愛憎の連鎖が現代に甦る前世ミステリー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%82%AF%E3%83%A9%E3%83%8E%E3%82%AD%E3%82%BB%E3%82%AD"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ボクラノキセキ』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 34
+  },
+  {
+    "id": "toukyoudaigakumonogatari",
+    "title": "東京大学物語",
+    "titleKana": "とうきょうだいがくものがたり",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "egawa-tatsuya"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-spirits",
+    "themeIds": [
+      "romance",
+      "school",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 1992,
+    "status": "completed",
+    "synopsis": "容姿も頭脳も運動神経も並外れた高校生・村上直樹は、テニス部の水野遥に一目惚れして交際を申し込む。だが妄想癖の激しい直樹は、思い込みと空回りを重ねて関係をこじらせていく。東大受験と恋愛が並走する日々を、主人公の歪んだ内面ごと描き切った青年漫画の問題作。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E5%A4%A7%E5%AD%A6%E7%89%A9%E8%AA%9E"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『東京大学物語』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2001,
+    "volumeCount": 34
+  },
+  {
+    "id": "edenzuzero",
+    "title": "EDENS ZERO",
+    "titleKana": "えでんずぜろ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mashima-hiro"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "sci-fi",
+      "adventure",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "機械の住人しかいない惑星グランベルで、ただ一人の人間として育った少年シキ。外の世界から来た配信者レベッカたちとの出会いをきっかけに、育ての親が遺した魔王戦艦エデンズゼロに乗り込み、宇宙の女神マザーを探す旅に出る。仲間を増やしながら広大な桜宇宙を駆けるスペースオペラ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/EDENS_ZERO"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『EDENS ZERO』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2024,
+    "volumeCount": 33
+  },
+  {
+    "id": "enjeruhato",
+    "title": "エンジェル・ハート",
+    "titleKana": "えんじぇるはーと",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "houjou-tsukasa"
+    ],
+    "publisherId": "shinchosha",
+    "labelId": "weekly-comic-bunch",
+    "themeIds": [
+      "battle-action",
+      "crime-underworld",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2001,
+    "status": "completed",
+    "synopsis": "台湾の暗殺組織で育てられた少女・李香瑩は、任務を重ねるうちに心を病み、自ら死を選ぶ。だが事故死した槇村香の心臓を移植されて甦り、感情を取り戻していく。新宿のスイーパー・冴羽獠のもとへたどり着いた彼女は、香の心と記憶に導かれて疑似家族を築いていく。『シティーハンター』の後継作。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%88"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『エンジェル・ハート』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2010,
+    "volumeCount": 33
+  },
+  {
+    "id": "boi",
+    "title": "BØY",
+    "titleKana": "ぼーい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "umezawa-haruto"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "delinquent",
+      "comedy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1992,
+    "status": "completed",
+    "synopsis": "世界征服を本気で目指す高校生・日々野晴矢は、怒らせたら誰にも止められない無敵の喧嘩屋。画家志望の岡本、バンドマンの一条という子分を引き連れ、次々と現れる強敵や騒動に体当たりでぶつかっていく。破天荒な主人公の勢いだけで押し切る、少年誌のヤンキーアクション。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/B%C3%98Y"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『BØY』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 1999,
+    "volumeCount": 33
+  },
+  {
+    "id": "youkaiapatonoyuugananichijou",
+    "title": "妖怪アパートの幽雅な日常",
+    "titleKana": "ようかいあぱーとのゆうがなにちじょう",
+    "originalAuthorIds": [
+      "kouzuki-hinowa"
+    ],
+    "artistIds": [
+      "miyama-waka"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-sirius",
+    "themeIds": [
+      "dark-fantasy",
+      "slice-of-life",
+      "horror"
+    ],
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "両親を事故で亡くした高校生・稲葉夕士は、入居予定の学生寮が焼失し、格安の「寿荘」に住むことになる。だがそこは霊能力者や古物商に混じって妖怪や幽霊が暮らすアパートだった。奇妙な住人たちと食卓を囲むうち、夕士は他人と関わることの温かさを知っていく。怪異と成長を重ねた青春譚。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%A6%96%E6%80%AA%E3%82%A2%E3%83%91%E3%83%BC%E3%83%88%E3%81%AE%E5%B9%BD%E9%9B%85%E3%81%AA%E6%97%A5%E5%B8%B8"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『妖怪アパートの幽雅な日常』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2025,
+    "volumeCount": 33
+  },
+  {
+    "id": "rekkanohonoo",
+    "title": "烈火の炎",
+    "titleKana": "れっかのほのお",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "anzai-nobuyuki"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "battle-action",
+      "psychic-battle",
+      "school"
+    ],
+    "firstPublishedYear": 1995,
+    "status": "completed",
+    "synopsis": "忍者に憧れる高校生・花菱烈火は、掌から炎を生み出す不思議な力を持っていた。治癒能力を持つ少女・佐古下柳と出会ったことから、烈火は「魔導具」をめぐる争いに巻き込まれていく。仲間とともに強敵に挑みながら、自らの炎と血筋の秘密に迫っていく異能バトル漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%83%88%E7%81%AB%E3%81%AE%E7%82%8E"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『烈火の炎』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2002,
+    "volumeCount": 33
+  },
+  {
+    "id": "shai",
+    "title": "SHY",
+    "titleKana": "しゃい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "miki-bukimi"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "shonen-champion",
+    "themeIds": [
+      "battle-action",
+      "psychic-battle",
+      "school"
+    ],
+    "firstPublishedYear": 2019,
+    "status": "completed",
+    "synopsis": "各国に一人ずつ現れたヒーローの働きで戦争が消えた世界。日本を守るのは、極度の恥ずかしがり屋な少女ヒーロー・シャイだった。重すぎる責務に押し潰されそうになりながらも、人々に支えられて少しずつ強くなっていく。人の心を暴走させる組織アマラリルクとの戦いを描くヒーロー漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/SHY_%28%E6%BC%AB%E7%94%BB%29"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『SHY (漫画)』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2025,
+    "volumeCount": 33
+  },
+  {
+    "id": "jingi",
+    "title": "JINGI 仁義",
+    "titleKana": "じんぎ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tachihara-ayumi"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "young-champion",
+    "themeIds": [
+      "crime-underworld",
+      "delinquent"
+    ],
+    "firstPublishedYear": 1988,
+    "status": "completed",
+    "synopsis": "任侠の世界に身を置く男たちの生き様を、義理と人情を軸に描いた長編ヤクザ漫画。組織の力学に翻弄されながらも筋を通そうとする者たちの選択が、抗争と裏切りのなかで際立っていく。数多くの続編と実写作品を生み、Vシネマ全盛期を象徴するシリーズとなった。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/JINGI_%E4%BB%81%E7%BE%A9"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『JINGI 仁義』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2002,
+    "volumeCount": 33
+  },
+  {
+    "id": "mangadewakarushinryounaika",
+    "title": "マンガで分かる心療内科",
+    "titleKana": "まんがでわかるしんりょうないか",
+    "originalAuthorIds": [
+      "yuukiyuu"
+    ],
+    "artistIds": [
+      "sou"
+    ],
+    "publisherId": "shonen-gahosha",
+    "labelId": "young-king",
+    "themeIds": [
+      "medical",
+      "comedy"
+    ],
+    "firstPublishedYear": 2010,
+    "status": "ongoing",
+    "synopsis": "精神科医の心療内科を舞台に、うつ病や依存症、睡眠障害といった心の不調をギャグ仕立てで解説していく。院長の療とナースのあすなが繰り出す下ネタ混じりの掛け合いのなかに、実際の診療で使われる知識が織り込まれる。現役の精神科医が原作を手がける、学べる医療ギャグ漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%B3%E3%82%AC%E3%81%A7%E5%88%86%E3%81%8B%E3%82%8B%E5%BF%83%E7%99%82%E5%86%85%E7%A7%91"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『マンガで分かる心療内科』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 33
+  },
+  {
+    "id": "yuushunnomon",
+    "title": "優駿の門",
+    "titleKana": "ゆうしゅんのもん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yamasaki-hiromi"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "shonen-champion",
+    "themeIds": [
+      "sports",
+      "animal"
+    ],
+    "firstPublishedYear": 1995,
+    "status": "completed",
+    "synopsis": "競馬の世界を舞台に、騎手や調教師、そして馬たちが頂点を目指して駆ける姿を描く。血統や調教、レース戦術といった競馬の奥行きを丁寧に扱いながら、人馬の絆をドラマの中心に据えていく。少年誌で長期連載された競馬漫画として、後年まで続くシリーズの出発点となった作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%84%AA%E9%A7%BF%E3%81%AE%E9%96%80"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『優駿の門』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2000,
+    "volumeCount": 33
+  },
+  {
+    "id": "work",
+    "title": "ショー☆バン",
+    "titleKana": "しょーばん",
+    "originalAuthorIds": [
+      "moritaka-yuji"
+    ],
+    "artistIds": [
+      "matsushima-yukitarou"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "shonen-champion",
+    "themeIds": [
+      "sports",
+      "school"
+    ],
+    "firstPublishedYear": 2000,
+    "status": "completed",
+    "synopsis": "中学野球部に所属する小沢番太郎、通称ショー・バンは、調子に乗ってはトラブルを起こす等身大の中学生。だが野球への執着と技術への探究心は本物で、細かな身体の使い方や配球の駆け引きを積み上げながら成長していく。恋愛描写をほとんど排し、技術描写にこだわった硬派な中学野球漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A7%E3%83%BC%E2%98%86%E3%83%90%E3%83%B3"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ショー☆バン』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2007,
+    "volumeCount": 33
+  },
+  {
+    "id": "iketerufutari",
+    "title": "イケてる2人",
+    "titleKana": "いけてるふたり",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "sano-takashi"
+    ],
+    "publisherId": "shonen-gahosha",
+    "labelId": "young-king",
+    "themeIds": [
+      "romance",
+      "school",
+      "comedy"
+    ],
+    "firstPublishedYear": 1997,
+    "status": "completed",
+    "synopsis": "冴えない高校生・佐次京介は、援助交際を装う女子高生の正体が密かに憧れていたクラスメイト・小泉明だと知る。歪んだ形で始まった関係だったが、佐次の一途な猛アタックによって小泉は少しずつ心を開いていく。過激な描写を交えつつ、不器用な二人の恋の行方を追った青年ラブコメディ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%B1%E3%81%A6%E3%82%8B2%E4%BA%BA"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『イケてる2人』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2010,
+    "volumeCount": 33
+  },
+  {
+    "id": "ougonnorafusoutanosutansu",
+    "title": "黄金のラフ〜草太のスタンス〜",
+    "titleKana": "おうごんのらふそうたのすたんす",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nakaimatsuyoshi"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic",
+    "themeIds": [
+      "sports",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 1999,
+    "status": "completed",
+    "synopsis": "まったく勝てない三人のプロゴルファーが、互いの欠点を補い合うためチームを結成する。飛距離だけの筋肉馬鹿がプレイヤー、コース戦略に長けた小心者がキャディー、理論家がスイングコーチという分担で、賞金ゼロの底辺からトーナメントに挑んでいく。ゴルフを団体戦として捉えた青年漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%BB%84%E9%87%91%E3%81%AE%E3%83%A9%E3%83%95%E3%80%9C%E8%8D%89%E5%A4%AA%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9%E3%80%9C"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『黄金のラフ〜草太のスタンス〜』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2011,
+    "volumeCount": 33
+  },
+  {
+    "id": "asagiroasagiro",
+    "title": "アサギロ 〜浅葱狼〜",
+    "titleKana": "あさぎろあさぎろ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hiramatsu-minoru"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "gessan",
+    "themeIds": [
+      "historical",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2009,
+    "status": "ongoing",
+    "synopsis": "十二歳にして御前試合で剣豪を破った沖田惣次郎は、その勝利がもとで相手を切腹に追い込み、介錯を誤って投獄される。救い出したのは兄弟子の島崎勝太、のちの近藤勇だった。天才剣士が新撰組随一の遣い手・沖田総司になるまでを、若き日から丹念に追っていく幕末剣戟漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B5%E3%82%AE%E3%83%AD_%E3%80%9C%E6%B5%85%E8%91%B1%E7%8B%BC%E3%80%9C"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『アサギロ 〜浅葱狼〜』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 33
   }
 ]

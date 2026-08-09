@@ -2886,5 +2886,35 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "comic-seed",
+    "name": "COMIC SEED!",
+    "nameKana": "こみっくしーど",
+    "publisherId": "futabasha",
+    "description": "双葉社が運営していたWebコミック配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "manga-home",
+    "name": "まんがホーム",
+    "nameKana": "まんがほーむ",
+    "publisherId": "houbunsha",
+    "description": "芳文社が発行する4コマ漫画誌。家庭向けの作品を多く掲載する。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "comic-zero-sum-ward",
+    "name": "コミックZERO-SUM増刊WARD",
+    "nameKana": "こみっくぜろさむぞうかんわーど",
+    "publisherId": "ichijinsha",
+    "description": "一迅社が発行していたコミックZERO-SUMの増刊。女性向けの作品を掲載した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
   }
 ]

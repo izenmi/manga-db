@@ -144,22 +144,22 @@ def kana_of(title, text, keep_space=False):
     """
     want = normalize(title)
     body = drop_templates(text[:12000])
-    for m in re.finditer(r"'''\s*([^']{1,60}?)\s*'''[』」]?\s*[（(]([ぁ-んァ-ヶー・\s]{2,60})[）)、,]", body):
+    for m in re.finditer(r"'''\s*([^']{1,60}?)\s*'''[』」]?\s*[（(]([ぁ-ゖァ-ヶー・\s]{2,60})[）)、,]", body):
         if normalize(m.group(1)) != want:
             continue
         kana = kata_to_hira(m.group(2))
         kana = re.sub(r"[、,，].*$", "", kana)          # 「よみ、英題」の並記
         kana = re.sub(r"[・\s　]+", " " if keep_space else "", kana)  # 人物は姓名の区切りを残す
-        kana = re.sub(r"[^ぁ-んー ]", "", kana).strip()
+        kana = re.sub(r"[^ぁ-ゖー ]", "", kana).strip()
         if len(kana) >= 2:
             return kana
-    m = re.search(r"\{\{読み仮名\|'''([^']*)'''\|([ぁ-んァ-ヶー・\s]{2,60})[|}]", text[:6000])
+    m = re.search(r"\{\{読み仮名\|'''([^']*)'''\|([ぁ-ゖァ-ヶー・\s]{2,60})[|}]", text[:6000])
     if m and normalize(m.group(1)) == want:
         k = re.sub(r"[・\s　]+", " " if keep_space else "", kata_to_hira(m.group(2)))
-        return re.sub(r"[^ぁ-んー ]", "", k).strip()
+        return re.sub(r"[^ぁ-ゖー ]", "", k).strip()
     # カタカナ・ひらがなだけの題名は、そのまま平仮名にすれば読みになる
     plain = re.sub(r"[\s　・!！?？〜~\-—–、。,.（）()『』「」/【】\[\]]", "", title)
-    if plain and re.fullmatch(r"[ぁ-んァ-ヶー]+", plain):
+    if plain and re.fullmatch(r"[ぁ-ゖァ-ヴー]+", plain):
         return kata_to_hira(plain)
     return ""
 
@@ -298,7 +298,7 @@ def ndl_kana(title):
         if got != want:
             continue
         kana = kata_to_hira(re.sub(r"[\s　・]", "", tr.group(1)))
-        kana = re.sub(r"[^ぁ-んー]", "", kana)
+        kana = re.sub(r"[^ぁ-ゖー]", "", kana)
         if len(kana) >= 2:
             return kana
     return ""
@@ -365,7 +365,7 @@ def ndl_person_kana(name):
             continue
         kana = kata_to_hira(re.sub(r"\s*\d{4}-\d*", "", tr.group(1)))
         kana = re.sub(r"[,，・]+", " ", kana)
-        kana = re.sub(r"[^ぁ-んー ]", "", kana)
+        kana = re.sub(r"[^ぁ-ゖー ]", "", kana)
         kana = re.sub(r"\s+", " ", kana).strip()
         if len(kana.replace(" ", "")) >= 2:
             return kana
@@ -555,6 +555,8 @@ def cmd_build(args):
                 p["id"] = f["id"]
             if f.get("kana"):
                 p["kana"] = f["kana"].replace(" ", "")
+            if f.get("name"):
+                p["name"] = f["name"]      # Infoboxが実体参照のまま('&#xFA44;澤春人')の場合の直し
 
         # annot が oa/ar を明示した作品は、Infoboxから拾った人名のうち採用したものだけ登録する
         # (『鬼平犯科帳』の「さいとう・たかを」が「さいとう」「たかを」に割れる等の取り違え対策)
