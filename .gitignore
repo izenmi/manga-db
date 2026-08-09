@@ -7,3 +7,6 @@ tsconfig.tsbuildinfo
 # source files themselves ARE committed, this generated output isn't.
 public/data/generated/
 public/sitemap.xml
+
+# scripts/bulk.py の作業キャッシュ(Wikipedia収穫結果)。`bulk.py harvest` で再生成できる
+scripts/.bulk/
