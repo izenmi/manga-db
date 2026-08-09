@@ -60278,5 +60278,35 @@
     "updatedAt": "2026-08-09",
     "latestPublishedYear": 2006,
     "volumeCount": 25
+  },
+  {
+    "id": "shioriekusuperiensujiminawatashitohennao",
+    "title": "SHIORI EXPERIENCE ジミなわたしとヘンなおじさん",
+    "titleKana": "しおりえくすぺりえんすじみなわたしとへんなおじさん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "osada-yuko",
+      "machida-ippachi"
+    ],
+    "publisherId": "square-enix",
+    "labelId": "monthly-big-gangan",
+    "themeIds": [
+      "music",
+      "school",
+      "comedy"
+    ],
+    "firstPublishedYear": 2013,
+    "status": "ongoing",
+    "synopsis": "実家の借金返済のため地味に働き続けてきた英語教師・本田紫織は、二十七歳の誕生日にジミ・ヘンドリクスの亡霊に取り憑かれる。一年以内に音楽で伝説を残さなければ死ぬと告げられた彼女は、生徒たちと軽音部を立ち上げる。演奏の高揚をコマ運びで描き切った学園音楽漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/SHIORI_EXPERIENCE_%E3%82%B8%E3%83%9F%E3%81%AA%E3%82%8F%E3%81%9F%E3%81%97%E3%81%A8%E3%83%98%E3%83%B3%E3%81%AA%E3%81%8A%E3%81%98%E3%81%95%E3%82%93"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『SHIORI EXPERIENCE ジミなわたしとヘンなおじさん』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 25
   }
 ]

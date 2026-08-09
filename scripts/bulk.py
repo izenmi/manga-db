@@ -530,6 +530,18 @@ def cmd_build(args):
             "description": x["desc"], "externalLinks": {},
             "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
             "updatedAt": TODAY})
+    # Infoboxが2人を1つの名前として持っている場合(『SHIORI EXPERIENCE』の「長田悠幸 町田一八」)、
+    # 片方は new_people に現れないので annot 側で直接足せるようにしておく
+    for key, out in (("newArtists", "newArtists"), ("newOriginalAuthors", "newOriginalAuthors")):
+        for x in annot.get(key, []):
+            batch[out].append({
+                "id": x["id"], "name": x["name"], "nameKana": x["kana"],
+                "description": x.get("desc", "漫画を手がける漫画家。" if key == "newArtists"
+                                      else "漫画の原作を手がける。"),
+                "externalLinks": {},
+                "sourceNote": "日本語版Wikipediaの当該作品記事で確認(2026-08-09閲覧)。",
+                "updatedAt": TODAY})
+            known["ar" if key == "newArtists" else "oa"].add(x["id"])
     for x in annot.get("newPublishers", []):
         batch["newPublishers"].append({
             "id": x["id"], "name": x["name"], "nameKana": x["kana"],
