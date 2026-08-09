@@ -3506,5 +3506,85 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dengeki-daiouji",
+    "name": "コミック電撃だいおうじ",
+    "nameKana": "こみっくでんげきだいおうじ",
+    "publisherId": "kadokawa",
+    "description": "KADOKAWAが発行する4コマ・ギャグ中心の漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "champion-red-ichigo",
+    "name": "チャンピオンREDいちご",
+    "nameKana": "ちゃんぴおんれっどいちご",
+    "publisherId": "akita-shoten",
+    "description": "秋田書店が発行していた成人向け寄りの漫画誌。チャンピオンREDの姉妹誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "bessatsu-corocoro",
+    "name": "別冊コロコロコミック",
+    "nameKana": "べっさつころころこみっく",
+    "publisherId": "shogakukan",
+    "description": "小学館が発行する児童向け漫画誌。月刊コロコロコミックの姉妹誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "bessatsu-young-champion",
+    "name": "別冊ヤングチャンピオン",
+    "nameKana": "べっさつやんぐちゃんぴおん",
+    "publisherId": "akita-shoten",
+    "description": "秋田書店が発行する青年漫画誌。ヤングチャンピオンの姉妹誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kakao-page",
+    "name": "カカオページ",
+    "nameKana": "かかおぺーじ",
+    "publisherId": "kidari-studio",
+    "description": "韓国発のウェブトゥーン配信プラットフォーム。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "manga-time-jumbo",
+    "name": "まんがタイムジャンボ",
+    "nameKana": "まんがたいむじゃんぼ",
+    "publisherId": "houbunsha",
+    "description": "芳文社が発行していた4コマ漫画誌。まんがタイムの姉妹誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "comic-ride-pixiv",
+    "name": "コミックライドピクシブ",
+    "nameKana": "こみっくらいどぴくしぶ",
+    "publisherId": "micro-magazine",
+    "description": "マイクロマガジン社がpixivで展開するWebコミック媒体。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sunday-webry",
+    "name": "サンデーうぇぶり",
+    "nameKana": "さんでーうぇぶり",
+    "publisherId": "shogakukan",
+    "description": "小学館が運営するWebコミック配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
   }
 ]
