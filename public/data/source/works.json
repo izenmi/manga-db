@@ -75166,7 +75166,7 @@
     "artistIds": [
       "aikawayuu"
     ],
-    "publisherId": "media-works",
+    "publisherId": "kadokawa",
     "labelId": "dengeki-comic-gao",
     "themeIds": [
       "horror",
@@ -75700,6 +75700,37 @@
     "sourceNote": "日本語版Wikipedia『我が名は海師』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-09",
     "latestPublishedYear": 2008,
+    "volumeCount": 15
+  },
+  {
+    "id": "takutikusu",
+    "title": "Tactics",
+    "titleKana": "たくてぃくす",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kinoshita-sakura",
+      "higashiyama-kazuko"
+    ],
+    "publisherId": "mag-garden",
+    "labelId": "g-fantasy",
+    "themeIds": [
+      "dark-fantasy",
+      "detective-mystery",
+      "historical"
+    ],
+    "firstPublishedYear": 2000,
+    "status": "completed",
+    "synopsis": "明治後期の日本を舞台に、妖怪が見える民俗学者・一ノ宮勘太郎は、妖怪退治屋として依頼を受けている。長年憧れていた鬼喰い天狗の封印を解いた彼は、記憶を失った天狗・春華とともに暮らし始める。人と妖の交流を軸にした和風オカルトファンタジーである。妖狐のヨーコを交えた三人の暮らしが、明治という時代の空気とともに描かれる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Tactics_%28%E6%BC%AB%E7%94%BB%29"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『Tactics (漫画)』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2013,
     "volumeCount": 15
   }
 ]
