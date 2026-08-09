@@ -58506,5 +58506,904 @@
     "updatedAt": "2026-08-09",
     "latestPublishedYear": 2020,
     "volumeCount": 29
+  },
+  {
+    "id": "mao",
+    "title": "MAO",
+    "titleKana": "まお",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "takahashi-rumiko"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "dark-fantasy",
+      "historical",
+      "romance"
+    ],
+    "firstPublishedYear": 2019,
+    "status": "ongoing",
+    "synopsis": "八年前の事故で家族を失った中学生・黄葉菜花は、シャッター街に迷い込んだ先で大正時代の陰陽師・摩緒と出会う。自らにも妖の力が目覚めていることを知った菜花は、猫又の呪いをめぐる千年越しの因縁に巻き込まれていく。現代と大正を行き来しながら妖と戦う、和風の伝奇ファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/MAO_%28%E6%BC%AB%E7%94%BB%29"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『MAO (漫画)』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2024,
+    "volumeCount": 29
+  },
+  {
+    "id": "dando",
+    "title": "DAN DOH!!",
+    "titleKana": "だんどー",
+    "originalAuthorIds": [
+      "sakatanobuhiro"
+    ],
+    "artistIds": [
+      "banjou-daichi"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "sports",
+      "school"
+    ],
+    "firstPublishedYear": 1995,
+    "status": "completed",
+    "synopsis": "熊本の野球少年・青葉弾道は、テレビで見たプロゴルファーの試合をきっかけにゴルフに魅せられる。持ち前の運動神経と物怖じしない性格で腕を上げたダンドーは、幼馴染たちとともにジュニアの大会からプロの舞台へと駆け上がっていく。ゴルフ理論を丁寧に描き込んだ少年ゴルフ漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/DAN_DOH%21%21"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『DAN DOH!!』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2000,
+    "volumeCount": 29
+  },
+  {
+    "id": "yanchabugi",
+    "title": "やんちゃブギ",
+    "titleKana": "やんちゃぶぎ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "shinohara-tsutomu"
+    ],
+    "publisherId": "souryusha",
+    "labelId": "pachislo-7",
+    "themeIds": [
+      "gambling",
+      "comedy"
+    ],
+    "firstPublishedYear": 1998,
+    "status": "completed",
+    "synopsis": "パチスロに人生を賭ける男たちの生き様を、実戦での立ち回りとともに描いた作品。台の癖を読み、設定を見抜き、勝つために店を渡り歩く主人公たちの姿が、専門誌ならではの細かな知識とともに繰り出される。監修に実在の攻略ライターを迎え、パチスロ専門誌で二十年以上にわたって描き継がれた長寿シリーズ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%84%E3%82%93%E3%81%A1%E3%82%83%E3%83%96%E3%82%AE"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『やんちゃブギ』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2020,
+    "volumeCount": 29
+  },
+  {
+    "id": "ohayoukeijiro",
+    "title": "おはようKジロー",
+    "titleKana": "おはようけいじろー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mizushima-shinji"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "shonen-champion",
+    "themeIds": [
+      "sports",
+      "school"
+    ],
+    "firstPublishedYear": 1989,
+    "status": "completed",
+    "synopsis": "甲子園を夢見て私立冠学園に入学した岡本慶司郎は、野球部が三年前に廃部になっていることを知る。それでも諦めず部員集めに奔走した彼は、その真っ直ぐな人柄で一人また一人と仲間を増やしていく。ゼロから作り上げたチームが千葉県大会へ挑むまでを描いた、高校野球漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%AF%E3%82%88%E3%81%86K%E3%82%B8%E3%83%AD%E3%83%BC"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『おはようKジロー』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 1995,
+    "volumeCount": 29
+  },
+  {
+    "id": "watashigamotenainohadoukangaetemoomaerag",
+    "title": "私がモテないのはどう考えてもお前らが悪い!",
+    "titleKana": "わたしがもてないのはどうかんがえてもおまえらがわるい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tanigawa-niko"
+    ],
+    "publisherId": "square-enix",
+    "labelId": "gangan-online",
+    "themeIds": [
+      "comedy",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2011,
+    "status": "ongoing",
+    "synopsis": "高校デビューを目論みながら誰とも話せない女子高生・黒木智子は、モテない現実を周囲のせいにしながら空回りを続ける。だが弟や数少ない友人との関わりを通して、少しずつ世界が広がっていく。痛々しい独白と自意識を容赦なく描き、共感と居心地の悪さを同時に呼ぶ学園コメディ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%A7%81%E3%81%8C%E3%83%A2%E3%83%86%E3%81%AA%E3%81%84%E3%81%AE%E3%81%AF%E3%81%A9%E3%81%86%E8%80%83%E3%81%88%E3%81%A6%E3%82%82%E3%81%8A%E5%89%8D%E3%82%89%E3%81%8C%E6%82%AA%E3%81%84%21"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『私がモテないのはどう考えてもお前らが悪い!』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 28
+  },
+  {
+    "id": "minamike",
+    "title": "みなみけ",
+    "titleKana": "みなみけ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "sakuraba-koharu"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "young-magazine",
+    "themeIds": [
+      "comedy",
+      "slice-of-life",
+      "school"
+    ],
+    "firstPublishedYear": 2004,
+    "status": "ongoing",
+    "synopsis": "しっかり者の長女ハルカ、要領のいい次女カナ、無表情な三女チアキ。両親のいない家で暮らす南三姉妹の、取るに足らない日常をひたすら積み重ねていく作品。事件らしい事件は起きず、姉妹と友人たちの噛み合わない会話だけで進んでいく空気系コメディの代表格。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%BF%E3%81%AA%E3%81%BF%E3%81%91"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『みなみけ』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 28
+  },
+  {
+    "id": "donketsu",
+    "title": "ドンケツ",
+    "titleKana": "どんけつ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tashi"
+    ],
+    "publisherId": "shonen-gahosha",
+    "labelId": "young-king",
+    "themeIds": [
+      "crime-underworld",
+      "comedy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "北九州の極道組織で最強と恐れられながら、傍若無人な振る舞いのせいで四十代後半になっても出世できない沢田マサトシ。ロケットランチャーをぶち込んだ武勇伝から「ロケマサ」と呼ばれる彼が、押しかけ舎弟の少年タツオを連れ、組織の抗争に巻き込まれていく。暴力と笑いが同居する極道漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%B3%E3%82%B1%E3%83%84"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ドンケツ』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2019,
+    "volumeCount": 28
+  },
+  {
+    "id": "aaharimanada",
+    "title": "ああ播磨灘",
+    "titleKana": "ああはりまなだ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "sadayasu-kei"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning",
+    "themeIds": [
+      "sports",
+      "comedy"
+    ],
+    "firstPublishedYear": 1991,
+    "status": "completed",
+    "synopsis": "仮面をつけて土俵入りした新横綱・播磨灘は、双葉山の六十九連勝を破ること、一度でも負けたらその場で引退することを宣言する。協会の怒りを買い、全幕内力士を敵に回しながらも快進撃を続けていく。相撲界の権威を痛快に叩き壊していく、破天荒な角界漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%82%E6%92%AD%E7%A3%A8%E7%81%98"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ああ播磨灘』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 1996,
+    "volumeCount": 28
+  },
+  {
+    "id": "keibuhodaimajin",
+    "title": "警部補ダイマジン",
+    "titleKana": "けいぶほだいまじん",
+    "originalAuthorIds": [
+      "richard-woo"
+    ],
+    "artistIds": [
+      "kounokouji"
+    ],
+    "publisherId": "nihon-bungeisha",
+    "labelId": "manga-goraku",
+    "themeIds": [
+      "crime-underworld",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2019,
+    "status": "ongoing",
+    "synopsis": "捜査一課の警部補・台場陣は、法で裁けない連続殺人犯を私刑によって処刑する。その行為を見抜いた特命捜査班の管理官に脅され、未解決事件専門の班へ異動させられた台場は、戦後から続く巨大な秘密結社の存在に行き当たる。私刑執行人となった刑事を描くクライムサスペンス。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E8%AD%A6%E9%83%A8%E8%A3%9C%E3%83%80%E3%82%A4%E3%83%9E%E3%82%B8%E3%83%B3"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『警部補ダイマジン』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 28
+  },
+  {
+    "id": "efu-2",
+    "title": "F",
+    "titleKana": "えふ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "rokudanoboru"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-spirits",
+    "themeIds": [
+      "sports",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 1986,
+    "status": "completed",
+    "synopsis": "大企業の創業者の妾腹の子として育った赤木軍馬は、父に反抗して家を飛び出し、フォーミュラレースの世界へ飛び込む。荒削りな才能を武器に下位クラスから駆け上がり、マカオグランプリを制するまでになるが、栄光と挫折は交互に訪れる。モータースポーツを舞台にした青年群像劇。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/F_%28%E6%BC%AB%E7%94%BB%29"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『F (漫画)』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 1992,
+    "volumeCount": 28
+  },
+  {
+    "id": "kanivaru",
+    "title": "カーニヴァル",
+    "titleKana": "かーにゔぁる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mikanagi-touya"
+    ],
+    "publisherId": "ichijinsha",
+    "labelId": "comic-zero-sum",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "記憶のない少年ナイは、腕輪だけを頼りに「嘉禄」という人物を探して旅をしていた。窃盗を働く少年ガレキに助けられた二人は、国家防衛機関「輪」と関わることになる。人体実験によって生み出された存在をめぐる陰謀に巻き込まれながら、ナイが自らの出自に近づいていくファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%83%8B%E3%83%B4%E3%82%A1%E3%83%AB_%28%E6%BC%AB%E7%94%BB%29"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『カーニヴァル (漫画)』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2021,
+    "volumeCount": 28
+  },
+  {
+    "id": "eamasuta",
+    "title": "エアマスター",
+    "titleKana": "えあますたー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "shibata-yokusaru"
+    ],
+    "publisherId": "hakusensha",
+    "labelId": "young-animal",
+    "themeIds": [
+      "battle-action",
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 1996,
+    "status": "completed",
+    "synopsis": "「エアマスター」と呼ばれる連戦連勝のストリートファイターの正体は、女子高生の相川摩季だった。体操で培った身体能力を活かした空中殺法を武器に、次々と現れる強烈な個性の格闘家たちと路上で拳を交えていく。異常なテンションのギャグと真剣勝負が同居する格闘漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%A2%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『エアマスター』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2006,
+    "volumeCount": 28
+  },
+  {
+    "id": "rurounikenshinmeijikenkakuromantan",
+    "title": "るろうに剣心 -明治剣客浪漫譚-",
+    "titleKana": "るろうにけんしんめいじけんかくろまんたん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "watsuki-nobuhiro"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "battle-action",
+      "historical",
+      "romance"
+    ],
+    "firstPublishedYear": 1994,
+    "status": "completed",
+    "synopsis": "幕末に「人斬り抜刀斎」と恐れられた緋村剣心は、明治の世で不殺を誓い、逆刃刀を携えて流浪していた。神谷道場に居着いた剣心は、仲間たちとともに新時代を歪めようとする者たちと戦う。人を斬った過去を背負う男が、償いと居場所を求めて剣を振るう明治剣客浪漫譚。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%8B%E3%82%8D%E3%81%86%E3%81%AB%E5%89%A3%E5%BF%83_-%E6%98%8E%E6%B2%BB%E5%89%A3%E5%AE%A2%E6%B5%AA%E6%BC%AB%E8%AD%9A-"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『るろうに剣心 -明治剣客浪漫譚-』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 1999,
+    "volumeCount": 28
+  },
+  {
+    "id": "arakurenaito",
+    "title": "荒くれKNIGHT",
+    "titleKana": "あらくれないと",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yoshida-satoshi"
+    ],
+    "publisherId": "shonen-gahosha",
+    "labelId": "young-king",
+    "themeIds": [
+      "delinquent",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1995,
+    "status": "completed",
+    "synopsis": "暴走族チーム「輪蛇」の結成と、それを取り巻く不良たちの因縁を描いた群像劇。世代を越えて受け継がれるチームの誇りと、その裏にある個々の迷いや友情が、抗争の記録として積み上げられていく。誰か一人の主人公に絞らず、関わった者それぞれの視点から語り直す構成で、暴走族文化の内実を細部まで描き込んだ長期連載。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E8%8D%92%E3%81%8F%E3%82%8CKNIGHT"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『荒くれKNIGHT』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2006,
+    "volumeCount": 28
+  },
+  {
+    "id": "otokodoahoukoushien",
+    "title": "男どアホウ甲子園",
+    "titleKana": "おとこどあほうこうしえん",
+    "originalAuthorIds": [
+      "sasaki-mamoru"
+    ],
+    "artistIds": [
+      "mizushima-shinji"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "sports",
+      "school"
+    ],
+    "firstPublishedYear": 1970,
+    "status": "completed",
+    "synopsis": "ストレートしか投げない豪腕投手・藤村甲子園は、甲子園球場の申し子として生まれた男。女房役の豆タンとともに、超剛速球だけを武器に甲子園大会の優勝、そして阪神タイガース入りを目指していく。作者の野球漫画の原点であり、小学館漫画賞を受賞した代表作。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%94%B7%E3%81%A9%E3%82%A2%E3%83%9B%E3%82%A6%E7%94%B2%E5%AD%90%E5%9C%92"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『男どアホウ甲子園』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 1975,
+    "volumeCount": 28
+  },
+  {
+    "id": "work-3",
+    "title": "DEAD Tube",
+    "titleKana": "でっどちゅーぶ",
+    "originalAuthorIds": [
+      "yamaguchi-mikoto"
+    ],
+    "artistIds": [
+      "kitagawa-touta"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "champion-red",
+    "themeIds": [
+      "ero-guro",
+      "death-game",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2014,
+    "status": "ongoing",
+    "synopsis": "高校生の町谷智浩は、同級生の美少女に撮影を頼まれたことをきっかけに、閲覧数を稼ぐためなら何をしてもよい謎の動画投稿サイトに巻き込まれる。参加者たちの倫理は次々と崩れ、周囲では凄惨な事件が起き始める。承認欲求の暴走を過激な描写で突き詰めたサスペンス作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/DEAD_Tube"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『DEAD Tube』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 28
+  },
+  {
+    "id": "gingasengokugunyuudenrai",
+    "title": "銀河戦国群雄伝ライ",
+    "titleKana": "ぎんがせんごくぐんゆうでんらい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "manabe-jouji"
+    ],
+    "publisherId": "kadokawa-shoten",
+    "labelId": "monthly-comic-comp",
+    "themeIds": [
+      "sci-fi",
+      "war-military",
+      "historical"
+    ],
+    "firstPublishedYear": 1989,
+    "status": "completed",
+    "synopsis": "銀河に散らばった国々が覇を競う時代、辺境の小勢力に生まれた青年ライは、群雄割拠のなかで頭角を現していく。宇宙艦隊戦を戦国合戦の文法で描き、智将や猛将たちの調略と裏切りを積み重ねながら、ライは天下統一へと近づいていく。SFと戦国絵巻を掛け合わせ、十年以上にわたって描かれた長編群雄伝。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%8A%80%E6%B2%B3%E6%88%A6%E5%9B%BD%E7%BE%A4%E9%9B%84%E4%BC%9D%E3%83%A9%E3%82%A4"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『銀河戦国群雄伝ライ』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2001,
+    "volumeCount": 27
+  },
+  {
+    "id": "dokonjougaeru",
+    "title": "ど根性ガエル",
+    "titleKana": "どこんじょうがえる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yoshizawa-yasumi"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "comedy",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 1970,
+    "status": "completed",
+    "synopsis": "中学生のひろしが転んで潰してしまったカエルのピョン吉は、なぜかシャツに張り付いた「平面ガエル」として生き続けることになる。東京の下町を舞台に、ひろしと京子、ゴリライモ、梅さんら濃い面々が巻き起こす騒動を描く。人情味あふれる昭和ギャグ漫画の代表作。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%A9%E6%A0%B9%E6%80%A7%E3%82%AC%E3%82%A8%E3%83%AB"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ど根性ガエル』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 1976,
+    "volumeCount": 27
+  },
+  {
+    "id": "kiringubaitsu",
+    "title": "キリングバイツ",
+    "titleKana": "きりんぐばいつ",
+    "originalAuthorIds": [
+      "murata-shinya"
+    ],
+    "artistIds": [
+      "sumida-kazuasa"
+    ],
+    "publisherId": "hero-s",
+    "labelId": "monthly-hero-s",
+    "themeIds": [
+      "battle-action",
+      "animal",
+      "sci-fi"
+    ],
+    "firstPublishedYear": 2013,
+    "status": "completed",
+    "synopsis": "大学生の野本裕也は、知人の犯罪計画に巻き込まれた末、獣の力を宿す「獣闘士」たちの戦いに引きずり込まれる。企業が資金を投じて開催する非合法の闘技場では、動物の能力を得た者同士が命を賭けて殺し合っていた。獣の生態を武器の設計図として描き込んだバトルアクション。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%90%E3%82%A4%E3%83%84"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『キリングバイツ』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2020,
+    "volumeCount": 27
+  },
+  {
+    "id": "samuraisoruja",
+    "title": "サムライソルジャー",
+    "titleKana": "さむらいそるじゃー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yamamoto-ryuuichirou"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "young-jump",
+    "themeIds": [
+      "delinquent",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "渋谷の勢力図を塗り替えるほどの喧嘩屋だった藤村新太郎は、仲間の仇を討った罪で少年院に入り、出所後は花屋で真面目に働いていた。だが最強チームの頭が渋谷統一を宣言したことで抗争が勃発し、新太郎は再び街の中心へ引き戻される。渋谷を舞台にした不良群像劇。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4%E3%82%BD%E3%83%AB%E3%82%B8%E3%83%A3%E3%83%BC"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『サムライソルジャー』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2014,
+    "volumeCount": 27
+  },
+  {
+    "id": "tetsunabenojan",
+    "title": "鉄鍋のジャン!",
+    "titleKana": "てつなべのじゃん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "saijou-shinji"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "shonen-champion",
+    "themeIds": [
+      "gourmet",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1995,
+    "status": "completed",
+    "synopsis": "「中華の覇王」と呼ばれた料理人の孫・秋山醤は、料理を客への奉仕ではなく勝負と断じる異端の中華料理人。銀座の名店に殴り込み、非常識な食材や手法を駆使して料理勝負を仕掛けていく。うまさよりも勝つことに執着する主人公を据えた、異色の料理バトル漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%89%84%E9%8D%8B%E3%81%AE%E3%82%B8%E3%83%A3%E3%83%B3%21"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『鉄鍋のジャン!』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2000,
+    "volumeCount": 27
+  },
+  {
+    "id": "yamanosusume",
+    "title": "ヤマノススメ",
+    "titleKana": "やまのすすめ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "shiro"
+    ],
+    "publisherId": "earth-star-entertainment",
+    "labelId": "comic-earth-star",
+    "themeIds": [
+      "slice-of-life",
+      "school",
+      "adventure"
+    ],
+    "firstPublishedYear": 2011,
+    "status": "ongoing",
+    "synopsis": "インドア趣味で高所恐怖症の高校生あおいは、アウトドア好きの幼馴染ひなたと再会し、幼い頃に見た山頂の日の出をもう一度見ようと誘われる。近所の低山から始まった二人の登山は、装備や体力を整えながら少しずつ高い山へと向かっていく。実在の山を丁寧に描いた登山漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%8E%E3%82%B9%E3%82%B9%E3%83%A1"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ヤマノススメ』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 27
+  },
+  {
+    "id": "hitoribocchinoisekaikouryaku",
+    "title": "ひとりぼっちの異世界攻略",
+    "titleKana": "ひとりぼっちのいせかいこうりゃく",
+    "originalAuthorIds": [
+      "goji-shouji"
+    ],
+    "artistIds": [
+      "bibi"
+    ],
+    "publisherId": "overlap",
+    "labelId": "comic-gardo",
+    "themeIds": [
+      "isekai",
+      "comedy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2019,
+    "status": "ongoing",
+    "synopsis": "友人のいない男子高校生・遥は、クラスごと異世界へ召喚されるが、早い者勝ちのスキル配布に出遅れて役に立たない能力ばかりを押しつけられる。称号「ぼっち」のせいで誰ともパーティを組めない遥は、独りきりで工夫を重ねながら異世界を攻略していく。軽妙な語りが特徴の転移ファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%81%A8%E3%82%8A%E3%81%BC%E3%81%A3%E3%81%A1%E3%81%AE%E7%95%B0%E4%B8%96%E7%95%8C%E6%94%BB%E7%95%A5"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『ひとりぼっちの異世界攻略』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 27
+  },
+  {
+    "id": "pigumario",
+    "title": "ピグマリオ",
+    "titleKana": "ぴぐまりお",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "wada-shinji"
+    ],
+    "publisherId": "hakusensha",
+    "labelId": "hana-to-yume",
+    "themeIds": [
+      "dark-fantasy",
+      "adventure",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1978,
+    "status": "completed",
+    "synopsis": "神々が世界を導いていた時代、小国ルーンの王子クルトは、生まれて間もなく妖女メデューサに母を石に変えられていたことを知る。母を救うため西へ旅立ったクルトは、道中で仲間と出会い、神話に彩られた試練を越えていく。少年が王となるまでを描いた長編ファンタジー少女漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%B0%E3%83%9E%E3%83%AA%E3%82%AA"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ピグマリオ』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 1990,
+    "volumeCount": 27
+  },
+  {
+    "id": "shokukingushokkingu",
+    "title": "食キング",
+    "titleKana": "しょくきんぐ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tsuchiyama-shigeru"
+    ],
+    "publisherId": "nihon-bungeisha",
+    "labelId": "manga-goraku",
+    "themeIds": [
+      "gourmet",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 1999,
+    "status": "completed",
+    "synopsis": "多額の報酬と引き換えに、傾いた飲食店を立て直す「再建請負人」北方歳三。料理とは無関係に見える奇抜な修行と容赦ない叱責で依頼人を追い込みながら、料理人としての原点を思い出させていく。かつて伝説のシェフと呼ばれた男が、店と人を再生させていく料理漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%A3%9F%E3%82%AD%E3%83%B3%E3%82%B0"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『食キング』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2004,
+    "volumeCount": 27
+  },
+  {
+    "id": "kamiapuri",
+    "title": "神アプリ",
+    "titleKana": "かみあぷり",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kurihara-shoushou"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "young-champion",
+    "themeIds": [
+      "death-game",
+      "suspense-psychological",
+      "horror"
+    ],
+    "firstPublishedYear": 2012,
+    "status": "completed",
+    "synopsis": "スマートフォンにインストールされた謎のアプリが、使用者に理不尽な選択を突きつけ、従わなければ死をもたらす。アプリに選ばれた者たちは、生き延びるために他人を犠牲にする決断を迫られていく。現代の通信機器を装置に据えた、後味の悪さを追求したサスペンス。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E3%82%A2%E3%83%97%E3%83%AA"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『神アプリ』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2020,
+    "volumeCount": 27
+  },
+  {
+    "id": "nanatsuyashinobunohousekibako",
+    "title": "七つ屋 志のぶの宝石匣",
+    "titleKana": "ななつやしのぶのほうせきばこ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ninomiya-tomoko"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "kiss",
+    "themeIds": [
+      "romance",
+      "business",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2013,
+    "status": "ongoing",
+    "synopsis": "銀座の老舗質屋に生まれた高校生・志のぶは、宝石の「気」を感じ取って真贋を見抜く天賦の才を持つ。名家の没落で幼い頃に質入れされ、そのまま婚約者となった青年・顕定との関係を軸に、質草に込められた人々の事情が持ち込まれていく。宝石と質屋を題材にした女性漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E4%B8%83%E3%81%A4%E5%B1%8B_%E5%BF%97%E3%81%AE%E3%81%B6%E3%81%AE%E5%AE%9D%E7%9F%B3%E5%8C%A3"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『七つ屋 志のぶの宝石匣』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 27
+  },
+  {
+    "id": "kuroganenorainbareru",
+    "title": "鉄のラインバレル",
+    "titleKana": "くろがねのらいんばれる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "shimizu-eiichi",
+      "shimoguchi-tomohiro"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "champion-red",
+    "themeIds": [
+      "sci-fi",
+      "battle-action",
+      "school"
+    ],
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "事故に巻き込まれて半年間眠り続けた少年・早瀬浩一は、目覚めたとき体が人間ではなくなっていた。三年後、彼の前に巨大ロボット・ラインバレルが現れ、その適合者として戦いに巻き込まれていく。正義とは何かを問い続ける主人公を据えた、王道のロボットアクション。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%89%84%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%90%E3%83%AC%E3%83%AB"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『鉄のラインバレル』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2015,
+    "volumeCount": 26
+  },
+  {
+    "id": "yaminoijisu",
+    "title": "闇のイージス",
+    "titleKana": "やみのいーじす",
+    "originalAuthorIds": [
+      "shichigatsu-kyouichi"
+    ],
+    "artistIds": [
+      "fujiwara-yoshihide"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "weekly-young-sunday",
+    "themeIds": [
+      "battle-action",
+      "crime-underworld",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2000,
+    "status": "completed",
+    "synopsis": "どんな依頼人であっても必ず守り抜く「護り屋」を生業とする男・盾城密。圧倒的な戦闘技術と交渉術を武器に、標的を狙う組織や凄腕の暗殺者から依頼人を守り切っていく。倒すのではなく守るという一点に特化した主人公の凄みを、乾いた筆致で描き切ったハードボイルドアクション。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%97%87%E3%81%AE%E3%82%A4%E3%83%BC%E3%82%B8%E3%82%B9"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『闇のイージス』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2006,
+    "volumeCount": 26
+  },
+  {
+    "id": "work-4",
+    "title": "紅殻のパンドラ",
+    "titleKana": "こうかくのぱんどら",
+    "originalAuthorIds": [
+      "shirow-masamune"
+    ],
+    "artistIds": [
+      "rikudou-koushi"
+    ],
+    "publisherId": "kadokawa-shoten",
+    "labelId": "newtype-ace",
+    "themeIds": [
+      "sci-fi",
+      "battle-action",
+      "yuri"
+    ],
+    "firstPublishedYear": 2012,
+    "status": "completed",
+    "synopsis": "電脳化と義体化が普及した近未来。全身義体の少女・七転福音は、訪れたリゾート島で暴走した巨大掘削機に遭遇する。謎の科学者と美少女型アンドロイドのクラリオンと協力して危機を退けた福音は、そのままクラリオンとともに旅を続けることになる。士郎正宗の原案による電脳SFアクション。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%B4%85%E6%AE%BB%E3%81%AE%E3%83%91%E3%83%B3%E3%83%89%E3%83%A9"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『紅殻のパンドラ』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2024,
+    "volumeCount": 26
   }
 ]

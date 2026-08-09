@@ -2946,5 +2946,35 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "pachislo-7",
+    "name": "パチスロ7",
+    "nameKana": "ぱちすろせぶん",
+    "publisherId": "souryusha",
+    "description": "蒼竜社が発行していたパチスロ専門誌。実戦記や漫画を掲載した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "monthly-comic-comp",
+    "name": "月刊コミックコンプ",
+    "nameKana": "げっかんこみっくこんぷ",
+    "publisherId": "kadokawa-shoten",
+    "description": "角川書店が発行していた月刊漫画誌。アニメ・ゲーム系の作品を多く掲載した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "newtype-ace",
+    "name": "ニュータイプエース",
+    "nameKana": "にゅーたいぷえーす",
+    "publisherId": "kadokawa-shoten",
+    "description": "角川書店が発行していた月刊漫画誌。ニュータイプの姉妹誌として創刊された。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
   }
 ]
