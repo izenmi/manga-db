@@ -72093,5 +72093,908 @@
     "sourceNote": "日本語版Wikipedia『1年A組のモンスター』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-09",
     "volumeCount": 16
+  },
+  {
+    "id": "kanojomokanojo",
+    "title": "カノジョも彼女",
+    "titleKana": "かのじょもかのじょ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hiroyuki"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "romance",
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 2020,
+    "status": "completed",
+    "synopsis": "幼なじみの佐木咲と付き合い始めた高校生・向井直也は、直後にクラスメートの水瀬渚からも告白される。悩んだ末に彼が出した答えは、三者合意のうえでの二股と同居だった。倫理的に踏み外した設定を全力の茶番として押し切っていく、勢い任せの学園ラブコメディである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8E%E3%82%B8%E3%83%A7%E3%82%82%E5%BD%BC%E5%A5%B3"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『カノジョも彼女』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2023,
+    "volumeCount": 16
+  },
+  {
+    "id": "eisu",
+    "title": "EIGHTH",
+    "titleKana": "えいす",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kawachi-izumi"
+    ],
+    "publisherId": "square-enix",
+    "labelId": "gangan-joker",
+    "themeIds": [
+      "sci-fi",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "バイオ産業大手の研究所で保安警備員を務める青年ナオヤは、他社の施設に監禁された「奇跡の少女」セルシアの救出を命じられる。連れ出した少女を守るうち、彼は企業間の生命科学をめぐる争いに深く巻き込まれていく。緻密な作画で描かれるSFアクションである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/EIGHTH"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『EIGHTH』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2016,
+    "volumeCount": 16
+  },
+  {
+    "id": "gachikoinenchakujuunettohaishinshanokano",
+    "title": "ガチ恋粘着獣〜ネット配信者の彼女になりたくて〜",
+    "titleKana": "がちこいねんちゃくじゅうねっとはいしんしゃのかのじょになりたくて",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "seira"
+    ],
+    "publisherId": "coamix",
+    "labelId": "piccoma",
+    "themeIds": [
+      "romance",
+      "suspense-psychological",
+      "entertainment-industry"
+    ],
+    "firstPublishedYear": 2020,
+    "status": "completed",
+    "synopsis": "人気動画配信グループのメンバーに恋する過激なファンたちが、推しへの執着をこじらせて互いに牽制し合っていく。応援と独占欲の境目が崩れていく様子を、当人たちの内面まで踏み込んで描く。配信文化と「ガチ恋」を正面から題材にしたウェブ漫画である。推される側の事情にも踏み込み、加害と被害が入れ替わっていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%81%E6%81%8B%E7%B2%98%E7%9D%80%E7%8D%A3%E3%80%9C%E3%83%8D%E3%83%83%E3%83%88%E9%85%8D%E4%BF%A1%E8%80%85%E3%81%AE%E5%BD%BC%E5%A5%B3%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%9F%E3%81%8F%E3%81%A6%E3%80%9C"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ガチ恋粘着獣〜ネット配信者の彼女になりたくて〜』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2025,
+    "volumeCount": 16
+  },
+  {
+    "id": "urasekaipikunikku",
+    "title": "裏世界ピクニック",
+    "titleKana": "うらせかいぴくにっく",
+    "originalAuthorIds": [
+      "miyazawa-iori"
+    ],
+    "artistIds": [
+      "mizuno-eita"
+    ],
+    "publisherId": "square-enix",
+    "labelId": "gangan-monthly",
+    "themeIds": [
+      "horror",
+      "yuri",
+      "sci-fi"
+    ],
+    "firstPublishedYear": 2018,
+    "status": "ongoing",
+    "synopsis": "廃屋の扉から〈裏世界〉へ迷い込んだ大学生・紙越空魚は、ネット怪談の存在に襲われたところを仁科鳥子に救われる。行方不明の相手を探す鳥子とともに、空魚は再び裏世界の探索へ向かう。実在の都市伝説を素材にしながら、二人の距離を描いていくホラー作品である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E8%A3%8F%E4%B8%96%E7%95%8C%E3%83%94%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『裏世界ピクニック』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 16
+  },
+  {
+    "id": "yanguburakkujakku",
+    "title": "ヤング ブラック・ジャック",
+    "titleKana": "やんぐぶらっくじゃっく",
+    "originalAuthorIds": [
+      "tezuka-osamu",
+      "tabata-yoshiaki"
+    ],
+    "artistIds": [
+      "ookuma-yuugo"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "young-champion",
+    "themeIds": [
+      "medical",
+      "historical",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "学生運動が激しさを増す一九六八年、医学部に在籍する奇妙な青年・間黒男は、天才的な手腕で次々と奇跡を起こしていく。まっとうな医師を志していた彼が、なぜ無免許医となり法外な報酬を求めるようになったのか。『ブラック・ジャック』の前史を描いた公式の派生作品である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%B3%E3%82%B0_%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%BB%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF_%28%E6%BC%AB%E7%94%BB%29"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ヤング ブラック・ジャック (漫画)』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2019,
+    "volumeCount": 16
+  },
+  {
+    "id": "gojikarakujimade",
+    "title": "5時から9時まで",
+    "titleKana": "ごじからくじまで",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "aihara-miki"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "cheese",
+    "themeIds": [
+      "romance",
+      "comedy",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "海外生活を夢見る英会話講師の桜庭潤子は、毛嫌いしていた見合い相手の僧侶・星川高嶺と関係を持ってしまう。当然のように結婚を迫る星川と、寺の嫁になることを拒む潤子の攻防が続く。周囲の男女の恋も並走させた、群像劇型のラブコメディである。寺という古い共同体と、自立を望む女性の価値観がぶつかり続ける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/5%E6%99%82%E3%81%8B%E3%82%899%E6%99%82%E3%81%BE%E3%81%A7"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『5時から9時まで』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2020,
+    "volumeCount": 16
+  },
+  {
+    "id": "usokon",
+    "title": "ウソ婚",
+    "titleKana": "うそこん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tokinakiui"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "ane-friend",
+    "themeIds": [
+      "romance",
+      "comedy",
+      "business"
+    ],
+    "firstPublishedYear": 2017,
+    "status": "completed",
+    "synopsis": "家と職を同時に失った千堂八重は、再会した幼なじみの一級建築士・夏目匠から、タワーマンションに住まわせる代わりに嘘の妻を演じてほしいと頼まれる。契約として始まった同居生活のなかで、二人の関係は少しずつ本物へ近づいていく。偽装結婚を軸にした恋愛漫画である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%BD%E5%A9%9A"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ウソ婚』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2025,
+    "volumeCount": 16
+  },
+  {
+    "id": "mattakusaikinnotanteitokitara",
+    "title": "まったく最近の探偵ときたら",
+    "titleKana": "まったくさいきんのたんていときたら",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "igarashi-masakuni"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "dengeki-maoh",
+    "themeIds": [
+      "detective-mystery",
+      "comedy"
+    ],
+    "firstPublishedYear": 2016,
+    "status": "ongoing",
+    "synopsis": "かつて一世を風靡した名探偵・名雲桂一郎は、いまや昔ながらのやり方しか知らず、老いた体に苦しみながら探偵を続けていた。そこへ助手志望の女子高生・真白が押しかけてくる。時代遅れの探偵と現代っ子の助手が噛み合わないまま事件を追う、探偵ギャグ漫画である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%BE%E3%81%A3%E3%81%9F%E3%81%8F%E6%9C%80%E8%BF%91%E3%81%AE%E6%8E%A2%E5%81%B5%E3%81%A8%E3%81%8D%E3%81%9F%E3%82%89"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『まったく最近の探偵ときたら』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 16
+  },
+  {
+    "id": "bakigaidenretsukaiouhaisekaitenseishitem",
+    "title": "バキ外伝 烈海王は異世界転生しても一向にかまわんッッ",
+    "titleKana": "ばきがいでんれつかいおうはいせかいてんせいしてもいっこうにかまわんっっ",
+    "originalAuthorIds": [
+      "ihara-sai",
+      "itagaki-keisuke"
+    ],
+    "artistIds": [
+      "mutsui-eiji"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "monthly-shonen-champion",
+    "themeIds": [
+      "isekai",
+      "battle-action",
+      "comedy"
+    ],
+    "firstPublishedYear": 2020,
+    "status": "ongoing",
+    "synopsis": "本編で宮本武蔵に敗れて死んだ中国拳法の達人・烈海王は、五体満足の姿で異世界に転生する。魔法も剣も存在する世界で、彼は中国武術こそ最強であることを証明しようと拳ひとつで冒険に出る。『バキ』シリーズの人気キャラクターを主役に据えた異世界外伝である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%AD%E5%A4%96%E4%BC%9D_%E7%83%88%E6%B5%B7%E7%8E%8B%E3%81%AF%E7%95%B0%E4%B8%96%E7%95%8C%E8%BB%A2%E7%94%9F%E3%81%97%E3%81%A6%E3%82%82%E4%B8%80%E5%90%91%E3%81%AB%E3%81%8B%E3%81%BE%E3%82%8F%E3%82%93%E3%83%83%E3%83%83"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『バキ外伝 烈海王は異世界転生しても一向にかまわんッッ』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 16
+  },
+  {
+    "id": "gyangusu",
+    "title": "ギャングース",
+    "titleKana": "ぎゃんぐーす",
+    "originalAuthorIds": [
+      "suzuki-daisuke"
+    ],
+    "artistIds": [
+      "hiya-keisuke"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning",
+    "themeIds": [
+      "crime-underworld",
+      "delinquent",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2013,
+    "status": "completed",
+    "synopsis": "居場所のない三人の少年が窃盗団を組み、被害届を出せない犯罪者だけを狙って「タタキ」を仕掛けていく。振り込め詐欺グループや半グレとの抗争を通して、貧困と裏社会の構造が浮かび上がる。ルポライターが取材を担当した、実話に近いクライムストーリーである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%A3%E3%83%B3%E3%82%B0%E3%83%BC%E3%82%B9"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ギャングース』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2017,
+    "volumeCount": 16
+  },
+  {
+    "id": "yukemurisunaipa",
+    "title": "湯けむりスナイパー",
+    "titleKana": "ゆけむりすないぱー",
+    "originalAuthorIds": [
+      "hijikata-yuuhou"
+    ],
+    "artistIds": [
+      "matsumori-tadashi"
+    ],
+    "publisherId": "jitsugyo-no-nihonsha",
+    "labelId": "manga-sunday",
+    "themeIds": [
+      "crime-underworld",
+      "slice-of-life",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 1998,
+    "status": "completed",
+    "synopsis": "血塗られた過去を隠し、秘境の温泉旅館で「源さん」として働き始めた一流の殺し屋。穏やかな余生を望む彼の周囲では、宿を訪れる客や従業員たちの人間ドラマが日々起こる。過去と現在の落差を静かに描き続けた、一話完結のヒューマンドラマである。温泉宿という閉じた場所に、殺し屋の過去が少しずつ滲み出していく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%B9%AF%E3%81%91%E3%82%80%E3%82%8A%E3%82%B9%E3%83%8A%E3%82%A4%E3%83%91%E3%83%BC"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『湯けむりスナイパー』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2004,
+    "volumeCount": 16
+  },
+  {
+    "id": "nihyaku-meter-saki-no-netsu",
+    "title": "200m先の熱",
+    "titleKana": "にひゃくめーとるさきのねつ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "toumori-miyoshi"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "cookie",
+    "themeIds": [
+      "romance",
+      "workplace-drama",
+      "arts"
+    ],
+    "firstPublishedYear": 2020,
+    "status": "ongoing",
+    "synopsis": "両親を事故で亡くし、タワーマンションに一人で暮らす和裁士の吉家紬。着物制作に没頭する彼女がよく顔を合わせるのは、二百メートル先に住む高校の同級生で元恋人の真霜だけだった。距離を測りかねたまま続く二人の関係を、和裁の仕事とともに描く女性漫画である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/200m%E5%85%88%E3%81%AE%E7%86%B1"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『200m先の熱』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 16
+  },
+  {
+    "id": "momochisanchinoayakashiouji",
+    "title": "百千さん家のあやかし王子",
+    "titleKana": "ももちさんちのあやかしおうじ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "shouoto-aya"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "monthly-asuka",
+    "themeIds": [
+      "dark-fantasy",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2013,
+    "status": "completed",
+    "synopsis": "施設で育った少女・百千ひまりは、十六歳の誕生日に旧家・百千家を相続することになる。だがその家は現世と異界の狭間に建ち、妖怪たちが住み着いていた。妖に変身する青年たちに守られながら、ひまりは家の秘密に触れていく。和風ファンタジーの少女漫画である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%99%BE%E5%8D%83%E3%81%95%E3%82%93%E5%AE%B6%E3%81%AE%E3%81%82%E3%82%84%E3%81%8B%E3%81%97%E7%8E%8B%E5%AD%90"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『百千さん家のあやかし王子』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2019,
+    "volumeCount": 16
+  },
+  {
+    "id": "nekonekofantajia",
+    "title": "ねこ・ねこ・幻想曲",
+    "titleKana": "ねこねこふぁんたじあ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "takada-emi"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "ribon",
+    "themeIds": [
+      "comedy",
+      "animal",
+      "romance"
+    ],
+    "firstPublishedYear": 1986,
+    "status": "completed",
+    "synopsis": "人間に変身できる能力を得た黒猫のシロを中心に、彼女の周囲で起こる出来事を描いたファンタジーコメディ。猫の視点と人間の視点を行き来しながら、飼い主や近所の猫たちとの騒動が積み重ねられていく。八〇年代の少女漫画誌で長く続いた人気作である。作者自身は猫嫌いだと公言しており、その距離感が作品にも表れている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%AD%E3%81%93%E3%83%BB%E3%81%AD%E3%81%93%E3%83%BB%E5%B9%BB%E6%83%B3%E6%9B%B2"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ねこ・ねこ・幻想曲』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 1994,
+    "volumeCount": 16
+  },
+  {
+    "id": "kuitan",
+    "title": "喰いタン",
+    "titleKana": "くいたん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "terasawa-daisuke"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "evening",
+    "themeIds": [
+      "gourmet",
+      "detective-mystery",
+      "comedy"
+    ],
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "探偵事務所を構える高野聖也は、自他ともに認める強烈な大食漢である。事件現場に残された食品を片端から食べてしまうという困った癖を持つが、それこそが彼独自の捜査方法だった。食を手がかりに真相へ迫っていく、料理と推理を掛け合わせた作品である。食べることが証拠の分析になるという発想を、最後まで貫き通している。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%96%B0%E3%81%84%E3%82%BF%E3%83%B3"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『喰いタン』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2009,
+    "volumeCount": 16
+  },
+  {
+    "id": "sayounararyuusei",
+    "title": "さようなら竜生、こんにちは人生",
+    "titleKana": "さようならりゅうせい",
+    "originalAuthorIds": [
+      "nagashima-hiroaki"
+    ],
+    "artistIds": [
+      "kurono"
+    ],
+    "publisherId": "alphapolis",
+    "labelId": "alphapolis-web",
+    "themeIds": [
+      "isekai",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2015,
+    "status": "ongoing",
+    "synopsis": "何千年も生きた最強の竜が、寿命を迎えて人間の青年ドランとして転生する。前世の力の大半を失いながらも人としての生を選んだ彼は、村を守り、旧知の存在たちと再会しながら静かに暮らそうとする。強者が力を抑えて生きる姿を描いた異世界ファンタジーである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%95%E3%82%88%E3%81%86%E3%81%AA%E3%82%89%E7%AB%9C%E7%94%9F%E3%80%81%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E4%BA%BA%E7%94%9F"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『さようなら竜生、こんにちは人生』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 16
+  },
+  {
+    "id": "maiboru",
+    "title": "マイぼーる!",
+    "titleKana": "まいぼーる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "inoue-sora"
+    ],
+    "publisherId": "hakusensha",
+    "labelId": "young-animal",
+    "themeIds": [
+      "sports",
+      "romance",
+      "school"
+    ],
+    "firstPublishedYear": 2012,
+    "status": "completed",
+    "synopsis": "幼なじみの天才サッカー選手に恋する少女・宮野舞は、彼と自主練を重ねるうちに実力を身につけていた。同じ相手を想うライバルが立ち上げた女子サッカー部に引き込まれ、舞は競技として本気で向き合うことになる。恋と競技を並走させた女子サッカー漫画である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%81%BC%E3%83%BC%E3%82%8B%21"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『マイぼーる!』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2019,
+    "volumeCount": 16
+  },
+  {
+    "id": "hikarinodensetsu",
+    "title": "光の伝説",
+    "titleKana": "ひかりのでんせつ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "asou-izumi"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "weekly-margaret",
+    "themeIds": [
+      "sports",
+      "romance",
+      "school"
+    ],
+    "firstPublishedYear": 1985,
+    "status": "completed",
+    "synopsis": "新体操部の中学生・上条光は、ライバルの椎名葉月とともに天性の才能を伸ばし、やがて世界の舞台へ立つ。厳しい練習と競技の描写に加え、光を想う二人の男子生徒との切ない恋愛模様が並走していく。八〇年代の少女誌を代表するスポーツ漫画である。競技としての新体操を丁寧に描き、少女誌のスポーツものの水準を押し上げた。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%85%89%E3%81%AE%E4%BC%9D%E8%AA%AC"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『光の伝説』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 1988,
+    "volumeCount": 16
+  },
+  {
+    "id": "sanda",
+    "title": "SANDA",
+    "titleKana": "さんだ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "itagaki-paru"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "shonen-champion",
+    "themeIds": [
+      "sci-fi",
+      "battle-action",
+      "school"
+    ],
+    "firstPublishedYear": 2021,
+    "status": "completed",
+    "synopsis": "子どもが総人口の〇・一パーセントまで減った二〇八〇年の日本では、大人が子どもの育成を厳密に管理していた。中学生の三田一重は、クラスメイトに命を狙われたことをきっかけに、自分がサンタクロースの末裔であると知る。管理社会と少年たちの反抗を描いたヒーローアクションである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/SANDA"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『SANDA』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2024,
+    "volumeCount": 16
+  },
+  {
+    "id": "middonaitoresutoransebuntusebun",
+    "title": "ミッドナイトレストラン7to7",
+    "titleKana": "みっどないとれすとらんせぶんとぅせぶん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kurumi-chino"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "manga-time-special",
+    "themeIds": [
+      "gourmet",
+      "comedy",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2000,
+    "status": "ongoing",
+    "synopsis": "夜七時から朝七時まで営業するレストランを舞台に、風変わりな客たちと従業員のやりとりを四コマで描く。深夜という時間帯だからこそ現れる事情を抱えた客が、料理を通して少しだけ救われていく。二十五年にわたって描き継がれた長寿の四コマ作品である。客ごとに一話が完結し、深夜の店に集まる事情が積み重ねられていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%83%E3%83%89%E3%83%8A%E3%82%A4%E3%83%88%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B37to7"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ミッドナイトレストラン7to7』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 16
+  },
+  {
+    "id": "katsu",
+    "title": "KATSU!",
+    "titleKana": "かつ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "adachi-mitsuru"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "sports",
+      "romance",
+      "school"
+    ],
+    "firstPublishedYear": 2001,
+    "status": "completed",
+    "synopsis": "高校に入学した里山活樹は、気になる同級生に近づくため、彼女の父が営むボクシングジムへ入会する。だが偶然のスパーリングで才能を見抜かれ、本気でリングに立つことになる。恋と競技を淡々と並べていく、作者らしい間合いのボクシング漫画である。名前が同じ二人という設定が、恋と競技の両方の入口になっている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/KATSU%21"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『KATSU!』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2005,
+    "volumeCount": 16
+  },
+  {
+    "id": "owakarehosupitaru",
+    "title": "お別れホスピタル",
+    "titleKana": "おわかれほすぴたる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "okitabakka"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-spirits",
+    "themeIds": [
+      "medical",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2017,
+    "status": "ongoing",
+    "synopsis": "回復の見込みのない患者が最期を迎える療養病棟を舞台に、そこで働く看護師の視点から日々を描く。死を前提とした場所での介助や家族との関わりを、感傷に流れず淡々と積み重ねていく。看護師経験のある作者が手がけた、静かな医療漫画である。看取りの現場で働く人々の日常を、誇張せずそのまま記録していく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%8A%E5%88%A5%E3%82%8C%E3%83%9B%E3%82%B9%E3%83%94%E3%82%BF%E3%83%AB"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『お別れホスピタル』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 16
+  },
+  {
+    "id": "fuguushokukanteishigajitsuhasaikyoudatta",
+    "title": "不遇職【鑑定士】が実は最強だった 〜奈落で鍛えた最強の【神眼】で無双する〜",
+    "titleKana": "ふぐうしょくかんていしがじつはさいきょうだったならくできたえたさいきょうのしんがんでむそうする",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "fuji-morohoshi"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "magazine-pocket",
+    "themeIds": [
+      "isekai",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2020,
+    "status": "completed",
+    "synopsis": "不遇職とされる「鑑定士」を与えられた青年は、役立たずと見なされて奈落へ落とされる。だが極限の環境で鑑定の力を磨き抜いた彼は、あらゆるものを見通す【神眼】を手に入れて地上へ戻る。追放から始まり圧倒的な力で覆していく、なろう系の異世界ファンタジーである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E4%B8%8D%E9%81%87%E8%81%B7%E3%80%90%E9%91%91%E5%AE%9A%E5%A3%AB%E3%80%91%E3%81%8C%E5%AE%9F%E3%81%AF%E6%9C%80%E5%BC%B7%E3%81%A0%E3%81%A3%E3%81%9F_%E3%80%9C%E5%A5%88%E8%90%BD%E3%81%A7%E9%8D%9B%E3%81%88%E3%81%9F%E6%9C%80%E5%BC%B7%E3%81%AE%E3%80%90%E7%A5%9E%E7%9C%BC%E3%80%91%E3%81%A7%E7%84%A1%E5%8F%8C%E3%81%99%E3%82%8B%E3%80%9C"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『不遇職【鑑定士】が実は最強だった 〜奈落で鍛えた最強の【神眼】で無双する〜』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2025,
+    "volumeCount": 16
+  },
+  {
+    "id": "koisuruboukun",
+    "title": "恋する暴君",
+    "titleKana": "こいするぼうくん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "takanaga-hinako"
+    ],
+    "publisherId": "kaiohsha",
+    "labelId": "gush",
+    "themeIds": [
+      "boys-love",
+      "comedy",
+      "romance"
+    ],
+    "firstPublishedYear": 2004,
+    "status": "ongoing",
+    "synopsis": "五年もの間、暴君と呼ばれる先輩・巽宗一に片思いを続けてきた森永哲博。同性愛を嫌う相手に相手にされず疲れ果てた彼は、友人にそそのかされて怪しい薬を手にしてしまう。噛み合わない二人の距離が少しずつ変わっていく、長期にわたるボーイズラブ作品である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%81%8B%E3%81%99%E3%82%8B%E6%9A%B4%E5%90%9B"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『恋する暴君』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 16
+  },
+  {
+    "id": "hokusoufuuunden",
+    "title": "北宋風雲伝",
+    "titleKana": "ほくそうふううんでん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "takiguchi-rinrin"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "princess-gold",
+    "themeIds": [
+      "historical",
+      "detective-mystery",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2000,
+    "status": "completed",
+    "synopsis": "北宋の開封府尹・包拯は、公明正大な裁きから「包青天」と慕われていた。武術に優れた侠客たちを手足として、彼は皇族が相手であっても悪を裁いていく。皇帝暗殺未遂や後宮の毒殺事件を追ううちに、包拯自身も命を狙われることになる。中国史を題材にした歴史漫画である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%8C%97%E5%AE%8B%E9%A2%A8%E9%9B%B2%E4%BC%9D"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『北宋風雲伝』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2008,
+    "volumeCount": 16
+  },
+  {
+    "id": "godagan",
+    "title": "GO DA GUN",
+    "titleKana": "ごーだがん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "katakura-masanori"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "monthly-shonen-jump",
+    "themeIds": [
+      "battle-action",
+      "school",
+      "comedy"
+    ],
+    "firstPublishedYear": 1997,
+    "status": "completed",
+    "synopsis": "喧嘩に明け暮れる少年・剛打銃は、父の母校である私立狼獣高等学園へ転校し、銃火器を模した格闘技「銃闘技」の才能を見せる。弱肉強食を掲げるこの学校で、銃は強敵たちと拳を交えながら自分の在り方を掴んでいく。独特の造語と勢いで押し切る格闘漫画である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/GO_DA_GUN"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『GO DA GUN』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2003,
+    "volumeCount": 16
+  },
+  {
+    "id": "rekku",
+    "title": "REC",
+    "titleKana": "れっく",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hanamizawa-kyutarou"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "sunday-gx",
+    "themeIds": [
+      "romance",
+      "entertainment-industry",
+      "comedy"
+    ],
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "製菓会社に勤める松丸文彦は、映画館で知り合った新人声優の恩田赤と、火事をきっかけに同棲することになる。夢を叶えていく赤と、仕事に伸び悩む松丸。声優という職業ゆえに公にできない二人の関係を、周囲の面々を交えて描くラブコメディである。声優という職業の現実的な厳しさも、恋の障害として描き込まれる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/REC_%28%E6%BC%AB%E7%94%BB%29"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『REC (漫画)』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2013,
+    "volumeCount": 16
+  },
+  {
+    "id": "suparouzuhoteru",
+    "title": "スパロウズホテル",
+    "titleKana": "すぱろうずほてる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "santou-yuka"
+    ],
+    "publisherId": "takeshobo",
+    "labelId": "manga-life",
+    "themeIds": [
+      "comedy",
+      "workplace-drama",
+      "romance"
+    ],
+    "firstPublishedYear": 2008,
+    "status": "ongoing",
+    "synopsis": "ホテルのコンシェルジュとして働く佐藤は、二メートル近い長身と屈強な体格を持つ元暗殺者の女性である。仕事熱心な支配人への片思いを抱えながら、彼女は持ち前の身体能力で客の無茶な要望にも応えていく。ホテルを舞台にした穏やかな四コマ漫画である。元暗殺者という設定が、接客の場面でだけ静かに顔を出す構成になっている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%91%E3%83%AD%E3%82%A6%E3%82%BA%E3%83%9B%E3%83%86%E3%83%AB"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『スパロウズホテル』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 16
+  },
+  {
+    "id": "tsukuyomi",
+    "title": "月詠",
+    "titleKana": "つくよみ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "arima-keitarou"
+    ],
+    "publisherId": "wani-books",
+    "labelId": "comic-gum",
+    "themeIds": [
+      "dark-fantasy",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 1999,
+    "status": "completed",
+    "synopsis": "心霊写真ばかり撮ってしまうカメラマンの森丘耕平は、ドイツの古城で幽閉されていた吸血鬼の少女・葉月と出会う。血を吸っても効かない耕平を連れとして、葉月は生き別れの母を探して日本へ向かう。妖怪や吸血鬼を交えた、ゆるやかな和洋折衷のファンタジーである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%9C%88%E8%A9%A0"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『月詠』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2009,
+    "volumeCount": 16
+  },
+  {
+    "id": "eikyuushimeionegaishimasu",
+    "title": "永久指名おねがいします!",
+    "titleKana": "えいきゅうしめいおねがいします",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kanae-sato"
+    ],
+    "publisherId": "solmare",
+    "labelId": "koisuru-soiree",
+    "themeIds": [
+      "romance",
+      "entertainment-industry",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "引きこもりの十和子は、兄と二人で暮らす家に、兄の勤めるホストクラブの先輩三人が入り浸るようになる。当初は反発していた彼女も、次第に彼らと打ち解けていく。ホストという職業を通して、一人の女性が外の世界へ踏み出していく恋と自立の物語である。三人それぞれの過去と抱えるものが、関係が進むにつれ明かされていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%B0%B8%E4%B9%85%E6%8C%87%E5%90%8D%E3%81%8A%E3%81%AD%E3%81%8C%E3%81%84%E3%81%97%E3%81%BE%E3%81%99%21"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『永久指名おねがいします!』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2024,
+    "volumeCount": 16
   }
 ]

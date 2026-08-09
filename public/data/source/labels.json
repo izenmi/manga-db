@@ -3586,5 +3586,55 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "piccoma",
+    "name": "ピッコマ",
+    "nameKana": "ぴっこま",
+    "publisherId": "coamix",
+    "description": "縦読み漫画を中心に配信する電子コミックサービス。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ane-friend",
+    "name": "姉フレンド",
+    "nameKana": "あねふれんど",
+    "publisherId": "kodansha",
+    "description": "講談社が発行する女性向け漫画誌。別冊フレンドの姉妹誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gush",
+    "name": "GUSH",
+    "nameKana": "がっしゅ",
+    "publisherId": "kaiohsha",
+    "description": "海王社が発行するボーイズラブ漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "princess-gold",
+    "name": "プリンセスGOLD",
+    "nameKana": "ぷりんせすごーるど",
+    "publisherId": "akita-shoten",
+    "description": "秋田書店が発行していた少女漫画誌。月刊プリンセスの姉妹誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "koisuru-soiree",
+    "name": "恋するソワレ",
+    "nameKana": "こいするそわれ",
+    "publisherId": "solmare",
+    "description": "女性向けの電子コミック配信レーベル。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
   }
 ]
