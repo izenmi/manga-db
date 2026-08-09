@@ -68423,5 +68423,919 @@
     "updatedAt": "2026-08-09",
     "latestPublishedYear": 2018,
     "volumeCount": 18
+  },
+  {
+    "id": "shounennoabisu",
+    "title": "少年のアビス",
+    "titleKana": "しょうねんのあびす",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "minenami-ryou"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "young-jump",
+    "themeIds": [
+      "suspense-psychological",
+      "romance",
+      "school"
+    ],
+    "firstPublishedYear": 2020,
+    "status": "completed",
+    "synopsis": "何もない地方の町で、母と引きこもりの兄、認知症の祖母を抱えて暮らす高校生・黒瀬令児。町を出たいと願いながら諦めていた彼は、憧れのアイドル・青江ナギと知り合い、自殺の名所へ案内することになる。閉塞した田舎と歪んだ関係が絡み合っていく、心中未遂から始まる青春サスペンスである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%B0%91%E5%B9%B4%E3%81%AE%E3%82%A2%E3%83%93%E3%82%B9"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『少年のアビス』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2024,
+    "volumeCount": 18
+  },
+  {
+    "id": "hirogyakkyounotouhai",
+    "title": "HERO -逆境の闘牌-",
+    "titleKana": "ひろぎゃっきょうのとうはい",
+    "originalAuthorIds": [
+      "fukumoto-nobuyuki"
+    ],
+    "artistIds": [
+      "maeda-jirou"
+    ],
+    "publisherId": "takeshobo",
+    "labelId": "kindai-mahjong",
+    "themeIds": [
+      "gambling",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "アカギの死から三年。その遺志を継いで雀士となった井川ひろゆきは、伝説の男・天に勝負を挑む。だが決着の直前、天は姿を消してしまう。行方を追ううちに、ひろゆきはカジノ利権を賭けた香港マフィアとの東西戦へ身を投じていく。福本作品の世界観を共有する麻雀漫画である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/HERO_-%E9%80%86%E5%A2%83%E3%81%AE%E9%97%98%E7%89%8C-"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『HERO -逆境の闘牌-』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2021,
+    "volumeCount": 18
+  },
+  {
+    "id": "sobayagenan",
+    "title": "そば屋幻庵",
+    "titleKana": "そばやげんあん",
+    "originalAuthorIds": [
+      "kaji-kengo"
+    ],
+    "artistIds": [
+      "kadotahiroshi"
+    ],
+    "publisherId": "leed-sha",
+    "labelId": "comic-ran-twins",
+    "themeIds": [
+      "gourmet",
+      "historical",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2008,
+    "status": "ongoing",
+    "synopsis": "千二百石の旗本・牧野玄太郎は、出世を確実視されながら突然家督を息子へ譲り、蕎麦の屋台を営む第二の人生を始める。滅多に店を出さないその屋台は、いつしか「幻庵」と呼ばれるようになった。蕎麦を通して江戸の市井に生きる人々の事情を解きほぐしていく、時代グルメ漫画である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%9D%E3%81%B0%E5%B1%8B%E5%B9%BB%E5%BA%B5"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『そば屋幻庵』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2016,
+    "volumeCount": 18
+  },
+  {
+    "id": "yowayowasensei",
+    "title": "よわよわ先生",
+    "titleKana": "よわよわせんせい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "fukuchi-kamio"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "romance",
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 2022,
+    "status": "ongoing",
+    "synopsis": "新任教師の鶸村ひよりは、重度の虚弱体質と極端な引っ込み思案のせいで生徒に恐れられ、「こわこわ先生」と敬遠されてしまう。だが放課後、誰もいない教室で必死に授業のリハーサルをする姿を生徒の一人が目撃する。誤解されがちな新米教師と生徒の距離が縮まっていく学園ラブコメディである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%88%E3%82%8F%E3%82%88%E3%82%8F%E5%85%88%E7%94%9F"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『よわよわ先生』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 18
+  },
+  {
+    "id": "shakariki",
+    "title": "シャカリキ!",
+    "titleKana": "しゃかりき",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "soda-masahito"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "shonen-champion",
+    "themeIds": [
+      "sports",
+      "school"
+    ],
+    "firstPublishedYear": 1992,
+    "status": "completed",
+    "synopsis": "坂の多い町で自転車を愛する少年・野々村輝は、ロードレーサーに乗って本格的な競技の世界へ足を踏み入れる。市民レースからインターハイ、ツール・ド・おきなわへと舞台を移しながら、才能あるライバルたちと競い合っていく。実在のレースを取り込み、坂を上る快感を描き切った自転車漫画である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%82%AB%E3%83%AA%E3%82%AD%21"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『シャカリキ!』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 1995,
+    "volumeCount": 18
+  },
+  {
+    "id": "nanatokaoru",
+    "title": "ナナとカオル",
+    "titleKana": "ななとかおる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "amazume-ryuuta"
+    ],
+    "publisherId": "hakusensha",
+    "labelId": "young-animal-arashi",
+    "themeIds": [
+      "romance",
+      "ero-guro",
+      "school"
+    ],
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "隣同士の幼馴染である優等生の千草奈々と、SMの妄想に明け暮れるダメ生徒の杉村薫。ふとした偶然からナナがカオルのコレクションを身につけてしまい、二人だけの秘密の「息抜き」が始まる。加虐と被虐の関係を通して互いを知っていく過程を、丁寧に描いた青年誌のラブコメディである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%8A%E3%81%A8%E3%82%AB%E3%82%AA%E3%83%AB"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ナナとカオル』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2016,
+    "volumeCount": 18
+  },
+  {
+    "id": "nagisamikounin",
+    "title": "なぎさMe公認",
+    "titleKana": "なぎさみこうにん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kitazaki-taku"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "sports",
+      "romance",
+      "school"
+    ],
+    "firstPublishedYear": 1996,
+    "status": "completed",
+    "synopsis": "天才スプリンターだった兄を事故で失った少年は、早朝のランニング中に、自分の才能にまるで無自覚な天真爛漫な少女と出会う。彼女が隣のアパートへ下宿してきたことから、二人の距離は縮まっていく。少女との関わりを通して、少年が自らの才能に向き合っていく青春陸上漫画である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%AA%E3%81%8E%E3%81%95Me%E5%85%AC%E8%AA%8D"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『なぎさMe公認』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 1999,
+    "volumeCount": 18
+  },
+  {
+    "id": "biakunohana",
+    "title": "美悪の華",
+    "titleKana": "びあくのはな",
+    "originalAuthorIds": [
+      "higaki-kenrou"
+    ],
+    "artistIds": [
+      "kurashina-ryou"
+    ],
+    "publisherId": "nihon-bungeisha",
+    "labelId": "manga-goraku",
+    "themeIds": [
+      "crime-underworld",
+      "business",
+      "ero-guro"
+    ],
+    "firstPublishedYear": 1999,
+    "status": "completed",
+    "synopsis": "アメリカから帰国した氷室聖人は、自らの美貌を武器にわずか数週間で女社長から一億円を奪い、自分を狙った極道組織まで乗っ取ってしまう。だがそれは、彼が企てる壮大な復讐計画の入口に過ぎなかった。美貌と知略だけで裏社会を駆け上がっていく主人公を描いたピカレスク漫画である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%BE%8E%E6%82%AA%E3%81%AE%E8%8F%AF"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『美悪の華』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2003,
+    "volumeCount": 18
+  },
+  {
+    "id": "kurenaiouji",
+    "title": "紅心王子",
+    "titleKana": "くれないおうじ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kuwahara-souta"
+    ],
+    "publisherId": "square-enix",
+    "labelId": "gangan-monthly",
+    "themeIds": [
+      "comedy",
+      "romance",
+      "school"
+    ],
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "悪魔界で成績優秀、次期魔界国王とされる王子・さくら紅次郎は、人間の魂を奪う任を帯びて人間界へ留学する。だが出会った少女と関わるうちに、彼の中で目的そのものが揺らいでいく。悪魔と人間の恋を軸に、勢いのあるギャグを織り込みながら進む学園ファンタジーである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%B4%85%E5%BF%83%E7%8E%8B%E5%AD%90"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『紅心王子』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2015,
+    "volumeCount": 18
+  },
+  {
+    "id": "reddoburu",
+    "title": "レッドブルー",
+    "titleKana": "れっどぶるー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "namikiri-atsushi"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "battle-action",
+      "sports",
+      "school"
+    ],
+    "firstPublishedYear": 2022,
+    "status": "ongoing",
+    "synopsis": "総合格闘技の世界に飛び込んだ少年が、才能ある選手たちと拳を交えながら這い上がっていく。打撃と寝技の駆け引きを一手ずつ丁寧に描き分け、勝敗の分かれ目を読ませる構成が特徴である。少年サンデーで連載され、実写ドラマ化もされた本格格闘技漫画である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%83%E3%83%89%E3%83%96%E3%83%AB%E3%83%BC"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『レッドブルー』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 18
+  },
+  {
+    "id": "kantaikorekushonkankore",
+    "title": "艦隊これくしょん -艦これ-",
+    "titleKana": "かんたいこれくしょんかんこれ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "momoi-ryouta"
+    ],
+    "publisherId": "enterbrain",
+    "labelId": "famitsu-comic-clear",
+    "themeIds": [
+      "war-military",
+      "comedy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2013,
+    "status": "completed",
+    "synopsis": "旧日本海軍の艦艇の魂を宿した少女「艦娘」たちが、深海棲艦と呼ばれる敵と戦う世界。鎮守府に集められた彼女たちの訓練や出撃、そして日常が描かれていく。同名のブラウザゲームを原作とし、原作では語られない艦娘同士の関係に踏み込んだメディアミックス作品である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E8%89%A6%E9%9A%8A%E3%81%93%E3%82%8C%E3%81%8F%E3%81%97%E3%82%87%E3%82%93_-%E8%89%A6%E3%81%93%E3%82%8C-"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『艦隊これくしょん -艦これ-』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2021,
+    "volumeCount": 17
+  },
+  {
+    "id": "dyuerumasutazu",
+    "title": "デュエル・マスターズ",
+    "titleKana": "でゅえるますたーず",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "matsumoto-shigenobu"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "corocoro",
+    "themeIds": [
+      "battle-action",
+      "school",
+      "adventure"
+    ],
+    "firstPublishedYear": 1999,
+    "status": "completed",
+    "synopsis": "行方不明の父を追う少年・切札勝舞は、カードゲーム「デュエル・マスターズ」の腕を磨きながら強敵と対戦を重ねていく。修行を経て自分の戦法を確立した彼は、日本最強のチームを率いる白凰と対峙する。実在のカードゲームと連動しながら児童誌で人気を博したホビー漫画である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%A5%E3%82%A8%E3%83%AB%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA_%28%E6%BC%AB%E7%94%BB%29"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『デュエル・マスターズ (漫画)』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2005,
+    "volumeCount": 17
+  },
+  {
+    "id": "kidousenshigandamunaratibu",
+    "title": "機動戦士ガンダムNT",
+    "titleKana": "きどうせんしがんだむならてぃぶ",
+    "originalAuthorIds": [
+      "fukui-harutoshi",
+      "yatate-hajime",
+      "tomino-yoshiyuki"
+    ],
+    "artistIds": [
+      "oomori-kouzou"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "gundam-ace",
+    "themeIds": [
+      "sci-fi",
+      "war-military",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "コロニー落としを事前に察知して多くの命を救い「奇蹟の子供たち」と呼ばれた三人の少年少女は、その能力ゆえに軍の実験施設へ送られる。数年後、行方を絶った一人を追って、残された二人は再び戦場に立つ。宇宙世紀後半を舞台にした劇場作品の漫画版である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0NT"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『機動戦士ガンダムNT』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2025,
+    "volumeCount": 17
+  },
+  {
+    "id": "maburabuorutaneitibu",
+    "title": "マブラヴ オルタネイティヴ",
+    "titleKana": "まぶらゔおるたねいてぃゔ",
+    "originalAuthorIds": [
+      "age-brand"
+    ],
+    "artistIds": [
+      "makishima-azusa"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "dengeki-daioh",
+    "themeIds": [
+      "sci-fi",
+      "war-military",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "異形の敵BETAに人類が押されている並行世界へ再び飛ばされた白銀武は、未来を知る唯一の人間として国連軍の門を叩く。三年分の従軍経験と記憶だけを頼りに、彼はたった一人で戦況を覆そうとする。絶望的な戦争を執拗に描き切った、美少女ゲーム原作のSF漫画である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%96%E3%83%A9%E3%83%B4_%E3%82%AA%E3%83%AB%E3%82%BF%E3%83%8D%E3%82%A4%E3%83%86%E3%82%A3%E3%83%B4"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『マブラヴ オルタネイティヴ』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2017,
+    "volumeCount": 17
+  },
+  {
+    "id": "tsukigamichibikuisekaidouchuu",
+    "title": "月が導く異世界道中",
+    "titleKana": "つきがみちびくいせかいどうちゅう",
+    "originalAuthorIds": [
+      "azumi-kei"
+    ],
+    "artistIds": [
+      "kino-kotora"
+    ],
+    "publisherId": "alphapolis",
+    "labelId": "alphapolis-web",
+    "themeIds": [
+      "isekai",
+      "adventure",
+      "comedy"
+    ],
+    "firstPublishedYear": 2015,
+    "status": "ongoing",
+    "synopsis": "勇者として異世界へ召喚された高校生・深澄真は、女神に容姿を理由として拒絶され、人間との交流を禁じられたまま荒野へ捨てられる。だが亜人たちに受け入れられた彼は、規格外の力を発揮して独自の勢力を築いていく。理不尽な始まりから広がっていく異世界ファンタジーである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%9C%88%E3%81%8C%E5%B0%8E%E3%81%8F%E7%95%B0%E4%B8%96%E7%95%8C%E9%81%93%E4%B8%AD"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『月が導く異世界道中』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 17
+  },
+  {
+    "id": "ragunakurimuzon",
+    "title": "ラグナクリムゾン",
+    "titleKana": "らぐなくりむぞん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kobayashi-daiki"
+    ],
+    "publisherId": "square-enix",
+    "labelId": "gangan-joker",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2017,
+    "status": "ongoing",
+    "synopsis": "竜に支配された世界で、竜狩りの下働きとして生きていた少年ラグナは、未来から来た自分自身と融合し、竜を滅ぼす力を手にする。仲間を守るために竜と戦い続けるうち、彼は世界の理そのものと向き合うことになる。荒々しい筆致と圧倒的な戦闘描写で知られるダークファンタジーである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%B0%E3%83%8A%E3%82%AF%E3%83%AA%E3%83%A0%E3%82%BE%E3%83%B3"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ラグナクリムゾン』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 17
+  },
+  {
+    "id": "gokujoumechamoteiinchou",
+    "title": "極上!!めちゃモテ委員長",
+    "titleKana": "ごくじょうめちゃもていいんちょう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nishimuratomoko"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "ciao",
+    "themeIds": [
+      "romance",
+      "school",
+      "comedy"
+    ],
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "synopsis": "完璧主義のクラス委員長・北神未海は、片思い中の相手になかなか告白できないでいる。それでも自分のことは棚に上げ、他人の悩みには的確な助言をして次々と解決してしまう。おしゃれや恋愛のノウハウを織り込みながら、小学生読者に向けて描かれた学園ラブコメディである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%A5%B5%E4%B8%8A%21%21%E3%82%81%E3%81%A1%E3%82%83%E3%83%A2%E3%83%86%E5%A7%94%E5%93%A1%E9%95%B7"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『極上!!めちゃモテ委員長』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2012,
+    "volumeCount": 17
+  },
+  {
+    "id": "kujakuou",
+    "title": "孔雀王",
+    "titleKana": "くじゃくおう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ogino-makoto"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "young-jump",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action",
+      "horror"
+    ],
+    "firstPublishedYear": 1985,
+    "status": "completed",
+    "synopsis": "真言立川流の裏の使命を負う退魔僧・孔雀は、密教の呪法を駆使して現代に蘇る妖魔たちと戦う。曼荼羅や真言といった密教の意匠を全面に押し出し、後の宗教伝奇ブームの先駆けとなった。累計二千万部を超えるシリーズへ育った、八〇年代を代表する伝奇バトル漫画である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%AD%94%E9%9B%80%E7%8E%8B"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『孔雀王』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 1989,
+    "volumeCount": 17
+  },
+  {
+    "id": "sutonoshan",
+    "title": "ストーンオーシャン",
+    "titleKana": "すとーんおーしゃん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "araki-hirohiko"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "battle-action",
+      "psychic-battle",
+      "adventure"
+    ],
+    "firstPublishedYear": 1999,
+    "status": "completed",
+    "synopsis": "空条承太郎の娘・徐倫は、罠にはめられて重警備刑務所に収監される。父から届いた矢の破片でスタンド能力に目覚めた彼女は、DIOの遺志を継ぐ者たちが仕組んだ計画に立ち向かう。閉じた刑務所という舞台で展開する、『ジョジョの奇妙な冒険』第六部である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ストーンオーシャン』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2003,
+    "volumeCount": 17
+  },
+  {
+    "id": "wicchikurafutowakusu",
+    "title": "ウィッチクラフトワークス",
+    "titleKana": "うぃっちくらふとわーくす",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mizunagi-ryuu"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "good-afternoon",
+    "themeIds": [
+      "dark-fantasy",
+      "romance",
+      "school"
+    ],
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "平凡な男子高校生・多華宮仄は、突如として魔女に襲われ、学園の「姫様」と呼ばれる火々里綾火に助けられる。彼の中には強大な炎の力が封印されており、それを狙う「塔の魔女」と、彼を守る「工房の魔女」が争っていた。淡々とした語り口と独特の間で進む、学園ファンタジー作品である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%83%E3%83%81%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ウィッチクラフトワークス』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2022,
+    "volumeCount": 17
+  },
+  {
+    "id": "sebungosuto",
+    "title": "07-GHOST",
+    "titleKana": "せぶんごーすと",
+    "originalAuthorIds": [
+      "amemiya-yuki"
+    ],
+    "artistIds": [
+      "ichihara-yukino"
+    ],
+    "publisherId": "ichijinsha",
+    "labelId": "comic-zero-sum",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "帝国の士官学校に通う記憶を失った少年テイトは、自らが滅ぼされた王国の王子であったことを知る。教会に匿われた彼は、七人の死神「07-GHOST」の力を借りながら、帝国の陰謀と自らの出自に向き合っていく。ゴシックな意匠と重厚な設定で描かれたファンタジー作品である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/07-GHOST"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『07-GHOST』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2013,
+    "volumeCount": 17
+  },
+  {
+    "id": "warudotichaisekaishikikyouikuejento",
+    "title": "ワールド・ティーチャー -異世界式教育エージェント-",
+    "titleKana": "わーるどてぃーちゃーいせかいしききょういくえーじぇんと",
+    "originalAuthorIds": [
+      "neko-kouichi"
+    ],
+    "artistIds": [
+      "yoshino-sora"
+    ],
+    "publisherId": "overlap",
+    "labelId": "comic-gardo",
+    "themeIds": [
+      "isekai",
+      "adventure",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2016,
+    "status": "ongoing",
+    "synopsis": "仲間を守って命を落とした元世界最強のエージェントは、異世界の赤子として転生する。前世で果たせなかった後継者育成を目標に掲げた彼は、出会う子どもたちに知識と技術を授け、その生き方を大きく変えていく。師匠としての在り方を主題に据えた異世界ファンタジーである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%86%E3%82%A3%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC_-%E7%95%B0%E4%B8%96%E7%95%8C%E5%BC%8F%E6%95%99%E8%82%B2%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88-"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『ワールド・ティーチャー -異世界式教育エージェント-』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 17
+  },
+  {
+    "id": "kaikanfurezu",
+    "title": "快感・フレーズ",
+    "titleKana": "かいかんふれーず",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "shinjou-mayu"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shojo-comic",
+    "themeIds": [
+      "music",
+      "romance",
+      "school"
+    ],
+    "firstPublishedYear": 1997,
+    "status": "completed",
+    "synopsis": "国語だけが取り柄の女子高生・雪村愛音は、街で出会った男性に渡されたパスでコンサート会場へ向かい、自分の書いた詞が歌われている場面に遭遇する。彼は人気ロックバンドのボーカルだった。専属作詞家となった愛音と彼の関係を、大胆な描写を交えて描いた音楽恋愛漫画である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%BF%AB%E6%84%9F%E3%83%BB%E3%83%95%E3%83%AC%E3%83%BC%E3%82%BA"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『快感・フレーズ』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2000,
+    "volumeCount": 17
+  },
+  {
+    "id": "gecchumagokorobin",
+    "title": "ゲッチューまごころ便",
+    "titleKana": "げっちゅーまごころびん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hisai-toshiki"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "shonen-champion",
+    "themeIds": [
+      "comedy",
+      "workplace-drama",
+      "romance"
+    ],
+    "firstPublishedYear": 1998,
+    "status": "completed",
+    "synopsis": "宅配便会社の次期社長である後藤紅男が、同僚たちとともに荷物を届けながら、その先で待つ人々の事情に触れていく。ドタバタ喜劇を基本にしつつ、家族や恋愛の機微に踏み込む回も織り込まれる。宅配便という題材を通して人情を描いた、一話完結のコメディ作品である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%83%E3%83%81%E3%83%A5%E3%83%BC%E3%81%BE%E3%81%94%E3%81%93%E3%82%8D%E4%BE%BF"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ゲッチューまごころ便』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2001,
+    "volumeCount": 17
+  },
+  {
+    "id": "anmettoarunougekainonikki",
+    "title": "アンメット-ある脳外科医の日記-",
+    "titleKana": "あんめっとあるのうげかいのにっき",
+    "originalAuthorIds": [
+      "kojika-yuzuru"
+    ],
+    "artistIds": [
+      "otsuki-shizuto"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning",
+    "themeIds": [
+      "medical",
+      "romance",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2020,
+    "status": "completed",
+    "synopsis": "アメリカでの騒動を経て日本の病院へやってきた脳外科医・三瓶友治は、空気を読まない性格で同僚から疎まれている。だがその腕は本物で、彼は脳だけでなく人間そのものを診ようとする。記憶障害を抱える若手医師との関わりを軸に、脳外科の現場を描いた医療漫画である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%A1%E3%83%83%E3%83%88-%E3%81%82%E3%82%8B%E8%84%B3%E5%A4%96%E7%A7%91%E5%8C%BB%E3%81%AE%E6%97%A5%E8%A8%98-"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『アンメット-ある脳外科医の日記-』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2024,
+    "volumeCount": 17
+  },
+  {
+    "id": "kinironokoruda",
+    "title": "金色のコルダ",
+    "titleKana": "きんいろのこるだ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kure-yuki"
+    ],
+    "publisherId": "hakusensha",
+    "labelId": "lala",
+    "themeIds": [
+      "music",
+      "romance",
+      "school"
+    ],
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "音楽科と普通科が併設された星奏学院で、音楽の素人だった普通科の少女が、音楽の妖精リリに選ばれて学内コンクールに出場することになる。音楽科の実力者たちに囲まれながら、彼女はヴァイオリンと向き合っていく。恋愛シミュレーションゲームを原作とした少女漫画である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%87%91%E8%89%B2%E3%81%AE%E3%82%B3%E3%83%AB%E3%83%80"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『金色のコルダ』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2011,
+    "volumeCount": 17
+  },
+  {
+    "id": "houkagokarute",
+    "title": "放課後カルテ",
+    "titleKana": "ほうかごかるて",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hinase-mayu"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "be-love",
+    "themeIds": [
+      "medical",
+      "school",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "小学校の保健室に赴任した仏頂面の学校医が、並外れた観察眼で子どもたちの体と心の異変を見抜いていく。虐待や病気の兆候を見つけては、教師や父兄を巻き込みながら解決へ導いていく。学校という閉じた場所に医師を置くことで初めて見えてくるものを、丁寧にすくい上げた医療漫画である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%94%BE%E8%AA%B2%E5%BE%8C%E3%82%AB%E3%83%AB%E3%83%86"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『放課後カルテ』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2018,
+    "volumeCount": 17
+  },
+  {
+    "id": "reberuichidakedoyunikusukirudesaikyoudes",
+    "title": "レベル1だけどユニークスキルで最強です",
+    "titleKana": "れべるいちだけどゆにーくすきるでさいきょうです",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mawata"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "suiyobi-no-sirius",
+    "themeIds": [
+      "isekai",
+      "adventure",
+      "comedy"
+    ],
+    "firstPublishedYear": 2018,
+    "status": "ongoing",
+    "synopsis": "残業漬けの社畜生活を送っていた佐藤亮太は、仮眠から目覚めるとダンジョンの中にいた。起こしてくれた少女はスライムから生まれたのだという。食料も水もすべて魔物から得るしかない奇妙な異世界で、彼は少女とともに冒険者として生計を立てていく。緩やかな異世界生活ファンタジーである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%99%E3%83%AB1%E3%81%A0%E3%81%91%E3%81%A9%E3%83%A6%E3%83%8B%E3%83%BC%E3%82%AF%E3%82%B9%E3%82%AD%E3%83%AB%E3%81%A7%E6%9C%80%E5%BC%B7%E3%81%A7%E3%81%99"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『レベル1だけどユニークスキルで最強です』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 17
+  },
+  {
+    "id": "ahorizumu",
+    "title": "アホリズム",
+    "titleKana": "あほりずむ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kujou-karuna"
+    ],
+    "publisherId": "square-enix",
+    "labelId": "gangan-wing",
+    "themeIds": [
+      "horror",
+      "school",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "ごく普通の学園生活が、ある日を境に殺し合いの場へと変わる。日常と狂気を切り替えながら、追い詰められた生徒たちの選択が一つずつ積み重ねられていく。掲載誌の休刊を経てウェブへ移りながら八年にわたって描かれ、前日譚も生まれた学園サバイバルホラーである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9B%E3%83%AA%E3%82%BA%E3%83%A0"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『アホリズム』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2016,
+    "volumeCount": 17
+  },
+  {
+    "id": "himuronotenchifeitosukururaifu",
+    "title": "氷室の天地 Fate/school life",
+    "titleKana": "ひむろのてんちふぇいとすくーるらいふ",
+    "originalAuthorIds": [
+      "type-moon"
+    ],
+    "artistIds": [
+      "mashin-eiichirou"
+    ],
+    "publisherId": "ichijinsha",
+    "labelId": "manga-4koma-palette",
+    "themeIds": [
+      "comedy",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "synopsis": "『フェイト／ステイナイト』の登場人物である氷室鐘たちを主役に据え、聖杯戦争の裏側で繰り広げられる学園の日常を四コマで描く。原作では脇に置かれた人物たちの視点から、原典の重い展開を軽やかに茶化していく。原作者の監修を受けた公式の派生作品である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%B0%B7%E5%AE%A4%E3%81%AE%E5%A4%A9%E5%9C%B0_Fate/school_life"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『氷室の天地 Fate/school life』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2025,
+    "volumeCount": 17
   }
 ]

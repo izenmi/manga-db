@@ -3406,5 +3406,55 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "comic-ran-twins",
+    "name": "コミック乱ツインズ",
+    "nameKana": "こみっくらんついんず",
+    "publisherId": "leed-sha",
+    "description": "リイド社が発行する時代劇漫画誌。コミック乱の姉妹誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "young-animal-arashi",
+    "name": "ヤングアニマル嵐",
+    "nameKana": "やんぐあにまるあらし",
+    "publisherId": "hakusensha",
+    "description": "白泉社が発行していたヤングアニマルの増刊。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "famitsu-comic-clear",
+    "name": "ファミ通コミッククリア",
+    "nameKana": "ふぁみつうこみっくくりあ",
+    "publisherId": "enterbrain",
+    "description": "エンターブレインが運営していたWebコミック配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "manga-4koma-palette",
+    "name": "まんが4コマぱれっと",
+    "nameKana": "まんがよんこまぱれっと",
+    "publisherId": "ichijinsha",
+    "description": "一迅社が発行していた4コマ漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "alphapolis-web",
+    "name": "アルファポリス",
+    "nameKana": "あるふぁぽりす",
+    "publisherId": "alphapolis",
+    "description": "アルファポリスが運営するWeb小説・漫画の投稿配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
   }
 ]
