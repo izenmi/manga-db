@@ -66622,5 +66622,898 @@
     "sourceNote": "日本語版Wikipedia『ボールパークでつかまえて!』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-09",
     "volumeCount": 19
+  },
+  {
+    "id": "kamonohashironnokindansuiri",
+    "title": "鴨乃橋ロンの禁断推理",
+    "titleKana": "かものはしろんのきんだんすいり",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "amano-akira"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonenjump-plus",
+    "themeIds": [
+      "detective-mystery",
+      "comedy",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2020,
+    "status": "completed",
+    "synopsis": "探偵養成学校で将来を有望視されながら、無自覚に犯人を自殺へ追い込む欠陥を抱え、探偵行為を禁じられた鴨乃橋ロン。ひょんなことから知り合った刑事・一色都々丸とコンビを組んだ彼は、再び事件に向き合い始める。癖の強い探偵と善良な刑事の対比で進む推理漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%B4%A8%E4%B9%83%E6%A9%8B%E3%83%AD%E3%83%B3%E3%81%AE%E7%A6%81%E6%96%AD%E6%8E%A8%E7%90%86"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『鴨乃橋ロンの禁断推理』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2025,
+    "volumeCount": 19
+  },
+  {
+    "id": "shiawasenojikan",
+    "title": "幸せの時間",
+    "titleKana": "しあわせのじかん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kunitomo-yasuyuki"
+    ],
+    "publisherId": "futabasha",
+    "labelId": "manga-action",
+    "themeIds": [
+      "suspense-psychological",
+      "romance",
+      "ero-guro"
+    ],
+    "firstPublishedYear": 1997,
+    "status": "completed",
+    "synopsis": "念願のマイホームを手に入れ、幸福の絶頂にいたエリートサラリーマン・浅倉達彦。だが妻が起こした交通事故をきっかけに、不倫、横領、子どもたちの逸脱と、一家は音を立てて崩れていく。理想の家族という幻想が剥がれ落ちていく過程を容赦なく描いた青年漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%B9%B8%E3%81%9B%E3%81%AE%E6%99%82%E9%96%93"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『幸せの時間』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2001,
+    "volumeCount": 19
+  },
+  {
+    "id": "reddo-2",
+    "title": "RED",
+    "titleKana": "れっど",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "muraeda-kenichi"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "young-magazine-uppers",
+    "themeIds": [
+      "historical",
+      "battle-action",
+      "war-military"
+    ],
+    "firstPublishedYear": 1998,
+    "status": "completed",
+    "synopsis": "西部開拓時代末期のアメリカ。一族を虐殺された先住民の青年レッドは、九人の仇を討つため復讐の旅に出る。西南戦争から落ち延びた元士族や娼婦たちが彼に関わっていく。滅びゆく者たちの矜持と暴力を、乾いた筆致で描き切った西部劇ガンアクション。西部開拓時代の終わりを背景に、失われゆく者たちの姿を重ねている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/RED_%28%E6%9D%91%E6%9E%9D%E8%B3%A2%E4%B8%80%29"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『RED (村枝賢一)』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2005,
+    "volumeCount": 19
+  },
+  {
+    "id": "oruraundameguru",
+    "title": "オールラウンダー廻",
+    "titleKana": "おーるらうんだーめぐる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "endou-hiroki"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "evening",
+    "themeIds": [
+      "battle-action",
+      "sports",
+      "school"
+    ],
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "打ち込めるものを探していた高校生・高柳廻は、空手の経験からなんとなく修斗を始める。強引に出場させられた大会で幼馴染と再会し、その真剣な姿勢に触発された彼は、次第に競技へのめり込んでいく。総合格闘技の技術と選手の内面を淡々と積み上げていく格闘漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%80%E3%83%BC%E5%BB%BB"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『オールラウンダー廻』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2016,
+    "volumeCount": 19
+  },
+  {
+    "id": "futaridaka",
+    "title": "ふたり鷹",
+    "titleKana": "ふたりだか",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "shintanikaoru"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "sports",
+      "adventure"
+    ],
+    "firstPublishedYear": 1981,
+    "status": "completed",
+    "synopsis": "同じ日に同じ病院で生まれ、同じ「鷹」の名を持つ沢渡鷹と東条鷹。峠を走るストリートライダーとサーキットの生粋のレーサーという対照的な二人は、仲間の死をきっかけに出会い、耐久レースの舞台でライバルとなる。出生の秘密を織り込んだバイクレース漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%B5%E3%81%9F%E3%82%8A%E9%B7%B9"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ふたり鷹』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 1985,
+    "volumeCount": 19
+  },
+  {
+    "id": "gohoubigohan",
+    "title": "ごほうびごはん",
+    "titleKana": "ごほうびごはん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "komo-tomoko"
+    ],
+    "publisherId": "houbunsha",
+    "labelId": "weekly-manga-times",
+    "themeIds": [
+      "gourmet",
+      "slice-of-life",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2014,
+    "status": "ongoing",
+    "synopsis": "長野から上京した新人OL・池田咲子は、慣れない仕事の疲れを週に一度の「ごほうびごはん」で癒している。職場の仲間や新しい友人、故郷の家族とのやりとりを織り込みながら、外食や自炊のささやかな幸福を積み重ねていく。穏やかな日常を描いたグルメ漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%94%E3%81%BB%E3%81%86%E3%81%B3%E3%81%94%E3%81%AF%E3%82%93"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ごほうびごはん』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 19
+  },
+  {
+    "id": "kurosakikunnoiinarininantenaranai",
+    "title": "黒崎くんの言いなりになんてならない",
+    "titleKana": "くろさきくんのいいなりになんてならない",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "makino"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "bessatsu-friend",
+    "themeIds": [
+      "romance",
+      "school",
+      "comedy"
+    ],
+    "firstPublishedYear": 2014,
+    "status": "completed",
+    "synopsis": "高校デビューを果たした赤羽由宇は、あるきっかけから「黒悪魔」と恐れられる黒崎晴人に絶対服従を命じられてしまう。強引に迫ってくる黒崎と、憧れの「白王子」白河タクミとの間で揺れ動く由宇。対照的な二人の男子に挟まれた少女を描いた学園恋愛漫画。少女漫画のヒーロー像を対照的な二人で描き分けた、長期連載の学園ラブストーリー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%BB%92%E5%B4%8E%E3%81%8F%E3%82%93%E3%81%AE%E8%A8%80%E3%81%84%E3%81%AA%E3%82%8A%E3%81%AB%E3%81%AA%E3%82%93%E3%81%A6%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『黒崎くんの言いなりになんてならない』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2021,
+    "volumeCount": 19
+  },
+  {
+    "id": "enchanta",
+    "title": "機工魔術士-enchanter-",
+    "titleKana": "えんちゃんたー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kawachi-izumi"
+    ],
+    "publisherId": "square-enix",
+    "labelId": "gangan-wing",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action",
+      "school"
+    ],
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "ごく普通の高校生・叶晴彦は、機械いじりの腕を買われて依頼を受けたことをきっかけに、悪魔ユウカナリアと出会う。契約を交わした彼は、機械と魔術を掛け合わせて戦う「機工魔術士」となる。工学と魔術を接続した設定で進む、学園ダークファンタジー。機械の修理という日常的な行為から異界へ踏み込んでいく導入が特徴的である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%B7%A5%E9%AD%94%E8%A1%93%E5%A3%AB-enchanter-"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『機工魔術士-enchanter-』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2009,
+    "volumeCount": 19
+  },
+  {
+    "id": "minnaagechau",
+    "title": "みんなあげちゃう",
+    "titleKana": "みんなあげちゃう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yuzuki-hikaru"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "young-jump",
+    "themeIds": [
+      "comedy",
+      "romance",
+      "ero-guro"
+    ],
+    "firstPublishedYear": 1982,
+    "status": "completed",
+    "synopsis": "軽妙な会話と大胆な性描写で、男女の駆け引きをコメディとして描き切った作品。少女漫画で活躍していた作者が青年誌へ移る転機となり、その後の作風を決定づけた。実写映画やドラマ、OVAへと展開し、八〇年代の青年誌を代表するエロティックコメディとなった。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%BF%E3%82%93%E3%81%AA%E3%81%82%E3%81%92%E3%81%A1%E3%82%83%E3%81%86"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『みんなあげちゃう』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 1987,
+    "volumeCount": 19
+  },
+  {
+    "id": "hoshifuruoukokunonina",
+    "title": "星降る王国のニナ",
+    "titleKana": "ほしふるおうこくのにな",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "rikachi"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "be-love",
+    "themeIds": [
+      "romance",
+      "dark-fantasy",
+      "historical"
+    ],
+    "firstPublishedYear": 2019,
+    "status": "ongoing",
+    "synopsis": "居場所を求める孤児の少女ニナは、珍しい瑠璃色の瞳を見込まれ、事故死した王女の身代わりとして大国へ嫁ぐことを求められる。作法を叩き込まれ姫を演じるうち、彼女は自分を見出した第二王子に惹かれていく。身分を偽った少女の恋を描いたハイファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%98%9F%E9%99%8D%E3%82%8B%E7%8E%8B%E5%9B%BD%E3%81%AE%E3%83%8B%E3%83%8A"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『星降る王国のニナ』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 19
+  },
+  {
+    "id": "montaju",
+    "title": "モンタージュ",
+    "titleKana": "もんたーじゅ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "watanabe-jun"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "young-magazine",
+    "themeIds": [
+      "detective-mystery",
+      "suspense-psychological",
+      "crime-underworld"
+    ],
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "昭和最大の未解決事件である三億円事件から数十年、十六歳の少年・鳴海大和は瀕死の老刑事から「お前の父親が犯人だ」と告げられる。現代と一九六八年の過去編を交互に描きながら、事件の真相と少年の出自が絡み合っていく。実在の事件に踏み込んだミステリー漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%B8%E3%83%A5_%28%E6%BC%AB%E7%94%BB%29"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『モンタージュ (漫画)』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2015,
+    "volumeCount": 19
+  },
+  {
+    "id": "madoromibameido",
+    "title": "まどろみバーメイド",
+    "titleKana": "まどろみばーめいど",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hayakawa-pao"
+    ],
+    "publisherId": "houbunsha",
+    "labelId": "weekly-manga-times",
+    "themeIds": [
+      "gourmet",
+      "slice-of-life",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2017,
+    "status": "ongoing",
+    "synopsis": "神出鬼没の屋台バーを営む月川雪、老舗ホテルで働く伊吹騎帆、フレアバーテンディングで客を沸かせる陽乃崎日代子。一つ屋根の下で暮らす三人の女性バーテンダーが、それぞれの現場で客と向き合っていく。カクテルの知識を丁寧に扱った職業グルメ漫画。三者三様のバーの在り方を通して、酒場という場所そのものを描いている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%BE%E3%81%A9%E3%82%8D%E3%81%BF%E3%83%90%E3%83%BC%E3%83%A1%E3%82%A4%E3%83%89"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『まどろみバーメイド』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 19
+  },
+  {
+    "id": "itoman",
+    "title": "EAT-MAN",
+    "titleKana": "いーとまん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yoshitomi-akihito"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "dengeki-comic-gao",
+    "themeIds": [
+      "sci-fi",
+      "adventure",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1996,
+    "status": "completed",
+    "synopsis": "報酬さえ払えば殺し以外のどんな依頼も引き受ける「冒険屋」ボルト・クランクは、あらゆる物を食べて右腕から取り出すという異能を持つ。多くを語らない男が各地で依頼をこなしていく一話完結の連作として、荒廃した世界の断片が積み重ねられていくSF作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/EAT-MAN"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『EAT-MAN』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2003,
+    "volumeCount": 19
+  },
+  {
+    "id": "furitenkun",
+    "title": "フリテンくん",
+    "titleKana": "ふりてんくん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ueda-masashi"
+    ],
+    "publisherId": "takeshobo",
+    "labelId": "kindai-mahjong",
+    "themeIds": [
+      "comedy",
+      "gambling"
+    ],
+    "firstPublishedYear": 1979,
+    "status": "ongoing",
+    "synopsis": "麻雀好きのサラリーマン「フリテンくん」を主人公に、日常の些細な出来事を落としどころにしていく四コマ漫画。麻雀誌での連載から始まり、後に一般誌へ移って題材を広げた。文藝春秋漫画賞を受賞し、四十年以上にわたって描き継がれている作者の代表作。時代に合わせて題材を変えながら描き継がれてきた、四コマ漫画の定番である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AA%E3%83%86%E3%83%B3%E3%81%8F%E3%82%93"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『フリテンくん』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 19
+  },
+  {
+    "id": "kyuudoukun",
+    "title": "球道くん",
+    "titleKana": "きゅうどうくん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mizushima-shinji"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-big-comic",
+    "themeIds": [
+      "sports",
+      "school"
+    ],
+    "firstPublishedYear": 1977,
+    "status": "completed",
+    "synopsis": "実父も育ての親もプロ野球選手という野球少年・中西球道が、北海道から小倉、浦安へと移りながら成長していく。プロ野球という世界の厳しさやつらさも織り込みつつ、球道が投手として頭角を現していく。作者の高校野球作品群を貫く主要人物の一人を主役に据えた一作。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%90%83%E9%81%93%E3%81%8F%E3%82%93"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『球道くん』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 1981,
+    "volumeCount": 19
+  },
+  {
+    "id": "foshimu",
+    "title": "フォーシーム",
+    "titleKana": "ふぉーしーむ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "sadayasu-kei"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic",
+    "themeIds": [
+      "sports",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2013,
+    "status": "completed",
+    "synopsis": "三十六歳の先発投手・逢坂猛史は、大一番での降板に納得できずマウンドで監督に暴行を働き、日本中から批判を浴びる。球界を追われた彼が、それでも投げ続けるために選んだ道とは。衰えを認められない投手の姿を通して、プロの引き際を問うた野球漫画。球界の内側と外側の両方から、プロ野球という世界を見つめ直していく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%A0_%28%E6%BC%AB%E7%94%BB%29"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『フォーシーム (漫画)』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2019,
+    "volumeCount": 19
+  },
+  {
+    "id": "hikarinokojirou",
+    "title": "光の小次郎",
+    "titleKana": "ひかりのこじろう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mizushima-shinji"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "sports"
+    ],
+    "firstPublishedYear": 1981,
+    "status": "completed",
+    "synopsis": "百六十キロの速球を投げる投手・新田小次郎は、ドラフトで全十二球団から一位指名を受けた怪物だった。希望球団ではなかったため一度は入団を拒否した彼が、制度の変更を経てプロ入りし、完全試合を重ねていく。作者の他作品とも地続きのプロ野球漫画。リーグ制度やドラフトの是非にも踏み込み、プロ野球の構造を物語に取り込んでいる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%85%89%E3%81%AE%E5%B0%8F%E6%AC%A1%E9%83%8E"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『光の小次郎』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 1984,
+    "volumeCount": 19
+  },
+  {
+    "id": "harekon",
+    "title": "ハレ婚。",
+    "titleKana": "はれこん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "non"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "young-magazine",
+    "themeIds": [
+      "romance",
+      "comedy",
+      "business"
+    ],
+    "firstPublishedYear": 2014,
+    "status": "completed",
+    "synopsis": "騙され続けた恋愛に疲れて帰郷した前園小春は、父の病と実家の喫茶店の借金に直面する。そこへ現れた男から、借金を肩代わりする代わりに結婚してほしいと求められるが、彼にはすでに二人の妻がいた。一夫多妻が認められた特区を舞台にしたラブコメディ。制度が変われば恋愛や家族の形も変わるという仮定を、真正面から扱っている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AC%E5%A9%9A%E3%80%82"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ハレ婚。』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2019,
+    "volumeCount": 19
+  },
+  {
+    "id": "funsoudeshitarahattamade",
+    "title": "紛争でしたら八田まで",
+    "titleKana": "ふんそうでしたらはったまで",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "denmoto-hiro"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning",
+    "themeIds": [
+      "business",
+      "war-military",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2019,
+    "status": "ongoing",
+    "synopsis": "地政学リスクコンサルタントの八田百合は、世界各地の紛争地帯へ乗り込み、現地の歴史と地理を読み解いて依頼を解決していく。交渉が決裂すればプロレス技で相手をねじ伏せることも辞さない。実在の紛争構造を下敷きにした、異色の地政学ビジネス漫画。知識で紛争を読み解く痛快さと、現地に生きる人々の重みを両立させている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%B4%9B%E4%BA%89%E3%81%A7%E3%81%97%E3%81%9F%E3%82%89%E5%85%AB%E7%94%B0%E3%81%BE%E3%81%A7"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『紛争でしたら八田まで』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 19
+  },
+  {
+    "id": "ookamiheikanohanayome",
+    "title": "狼陛下の花嫁",
+    "titleKana": "おおかみへいかのはなよめ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kauta-mato"
+    ],
+    "publisherId": "hakusensha",
+    "labelId": "lala",
+    "themeIds": [
+      "romance",
+      "historical",
+      "comedy"
+    ],
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "下級役人の娘・夕鈴は、割の良い仕事という触れ込みで王宮に出向き、冷酷非情と噂される「狼陛下」の花嫁を演じるよう命じられる。契約上の関係として始まった二人だが、互いの本当の顔を知るにつれ距離は縮まっていく。中華風の宮廷を舞台にした少女漫画。契約から始まる関係が本物へ変わっていく過程を、丁寧に積み上げていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%8B%BC%E9%99%9B%E4%B8%8B%E3%81%AE%E8%8A%B1%E5%AB%81"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『狼陛下の花嫁』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2018,
+    "volumeCount": 19
+  },
+  {
+    "id": "yattaroujan",
+    "title": "やったろうじゃん!!",
+    "titleKana": "やったろうじゃん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "harahidenori"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-spirits",
+    "themeIds": [
+      "sports",
+      "school"
+    ],
+    "firstPublishedYear": 1991,
+    "status": "completed",
+    "synopsis": "県内ベスト八止まりの朝霧高校野球部に、甲子園優勝経験を持つ喜多条が監督として就任する。猛烈なしごきに耐えたナインは甲子園初出場を果たし、ベスト四まで駆け上がる。故障からの復活を含め、投手の身体と心をめぐる葛藤を丁寧に描いた高校野球漫画。監督とナインの信頼関係を軸に据えた、九〇年代の高校野球漫画の代表作。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%84%E3%81%A3%E3%81%9F%E3%82%8D%E3%81%86%E3%81%98%E3%82%83%E3%82%93%21%21"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『やったろうじゃん!!』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 1996,
+    "volumeCount": 19
+  },
+  {
+    "id": "maoyuumaouyuusha",
+    "title": "まおゆう魔王勇者",
+    "titleKana": "まおゆうまおうゆうしゃ",
+    "originalAuthorIds": [
+      "touno-mamare"
+    ],
+    "artistIds": [
+      "ishida-akira"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "comp-ace",
+    "themeIds": [
+      "isekai",
+      "business",
+      "war-military"
+    ],
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "魔王を討つべく城へ乗り込んだ勇者を待っていたのは、人間の女性の姿をした魔王だった。彼女は戦うことを拒み、社会と経済が戦争に依存している構造を説き、勇者に協力を求める。農業改革や貿易によって戦争そのものを終わらせようとする異世界経済ファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%BE%E3%81%8A%E3%82%86%E3%81%86%E9%AD%94%E7%8E%8B%E5%8B%87%E8%80%85"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『まおゆう魔王勇者』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2016,
+    "volumeCount": 18
+  },
+  {
+    "id": "shoujofaito",
+    "title": "少女ファイト",
+    "titleKana": "しょうじょふぁいと",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nihonbashi-yooko"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "evening",
+    "themeIds": [
+      "sports",
+      "school",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "synopsis": "姉を交通事故で亡くした少女・大石練は、姉のことを考えずに済むという理由でバレーボールに没頭し、「狂犬」と呼ばれるほどの猛練習を重ねる。名門校に進んだ彼女が、それぞれに屈託を抱えた仲間たちと衝突しながらコートに立つ。心理の抉り方が容赦ないバレーボール漫画。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%B0%91%E5%A5%B3%E3%83%95%E3%82%A1%E3%82%A4%E3%83%88"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『少女ファイト』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2023,
+    "volumeCount": 18
+  },
+  {
+    "id": "kobura",
+    "title": "コブラ",
+    "titleKana": "こぶら",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "terasawa-buichi"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "sci-fi",
+      "adventure",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1978,
+    "status": "completed",
+    "synopsis": "平凡なサラリーマンのジョンソンは、体験した夢の中に現れた海賊コブラが、記憶を消した自分自身の姿だと知る。左腕にサイコガンを備えた宇宙海賊として復活したコブラは、相棒のアーマロイド・レディとともに銀河を駆ける。洗練された画面で描かれたSF活劇の金字塔。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%96%E3%83%A9_%28%E6%BC%AB%E7%94%BB%29"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『コブラ (漫画)』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 1984,
+    "volumeCount": 18
+  },
+  {
+    "id": "sekirei",
+    "title": "セキレイ",
+    "titleKana": "せきれい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "gokurakuin-sakurako"
+    ],
+    "publisherId": "square-enix",
+    "labelId": "young-gangan",
+    "themeIds": [
+      "battle-action",
+      "romance",
+      "sci-fi"
+    ],
+    "firstPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "二浪が決まった冴えない受験生・佐橋皆人のもとに、空から少女・結が降ってくる。彼女は異能の戦士「セキレイ」であり、皆人はその力を解放する「葦牙」だった。百八羽のセキレイが生き残りを賭けて戦う計画に、二人は否応なく巻き込まれていく。戦わされる者たちの意思と、それを弄ぶ者との対立が次第に前面へ出てくる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%AD%E3%83%AC%E3%82%A4_%28%E6%BC%AB%E7%94%BB%29"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『セキレイ (漫画)』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2015,
+    "volumeCount": 18
+  },
+  {
+    "id": "erementarujereido",
+    "title": "エレメンタル ジェレイド",
+    "titleKana": "えれめんたるじぇれいど",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "azuma-mayumi"
+    ],
+    "publisherId": "mag-garden",
+    "labelId": "monthly-comic-blade",
+    "themeIds": [
+      "adventure",
+      "dark-fantasy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "天空に浮かぶ島々を空賊たちが飛び交う世界で、少年クーは盗んだ財宝の中から古い柩を見つけ、眠っていた少女レンを目覚めさせる。彼女は人ならざる存在「エディルレイド」だった。追われる二人が仲間を得ながら旅を続けていく、正統派の冒険ファンタジー。人の姿をした武器と、それを使う者との関係を主題に据えている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AC%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB_%E3%82%B8%E3%82%A7%E3%83%AC%E3%82%A4%E3%83%89"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『エレメンタル ジェレイド』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2010,
+    "volumeCount": 18
+  },
+  {
+    "id": "shuumatsunoharemu",
+    "title": "終末のハーレム",
+    "titleKana": "しゅうまつのはーれむ",
+    "originalAuthorIds": [
+      "link"
+    ],
+    "artistIds": [
+      "shouno-kotaro"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonenjump-plus",
+    "themeIds": [
+      "sci-fi",
+      "ero-guro",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2016,
+    "status": "completed",
+    "synopsis": "難病の治療のためコールドスリープに入った青年は、五年後に目覚め、男性のほとんどを死に至らしめたウイルスによって世界が女性ばかりになっていたことを知る。数少ない男性として子孫を残す役割を負わされた彼は、その裏に隠された思惑に気づいていく。近未来ディストピアSF。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%B5%82%E6%9C%AB%E3%81%AE%E3%83%8F%E3%83%BC%E3%83%AC%E3%83%A0"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『終末のハーレム』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2023,
+    "volumeCount": 18
+  },
+  {
+    "id": "kagakutekinisonzaishiurukurichamusumenok",
+    "title": "科学的に存在しうるクリーチャー娘の観察日誌",
+    "titleKana": "かがくてきにそんざいしうるくりーちゃーむすめのかんさつにっし",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kakeru"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "champion-cross",
+    "themeIds": [
+      "isekai",
+      "comedy",
+      "ero-guro"
+    ],
+    "firstPublishedYear": 2017,
+    "status": "ongoing",
+    "synopsis": "半人半獣の亜人「クリーチャー娘」を偏愛する青年・栗結大輔は、突然異世界へ飛ばされる。アラクネの少女を助けたことで部族に迎え入れられた彼は、現代日本の知識を提供して技術革新をもたらしながら、望みどおりの生活を築いていく。生物設定に凝った異世界コメディ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%A7%91%E5%AD%A6%E7%9A%84%E3%81%AB%E5%AD%98%E5%9C%A8%E3%81%97%E3%81%86%E3%82%8B%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%E5%A8%98%E3%81%AE%E8%A6%B3%E5%AF%9F%E6%97%A5%E8%AA%8C"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『科学的に存在しうるクリーチャー娘の観察日誌』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "volumeCount": 18
+  },
+  {
+    "id": "shuumatsunoharemufantajia",
+    "title": "終末のハーレム ファンタジア",
+    "titleKana": "しゅうまつのはーれむふぁんたじあ",
+    "originalAuthorIds": [
+      "link"
+    ],
+    "artistIds": [
+      "savan"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "ultra-jump",
+    "themeIds": [
+      "isekai",
+      "battle-action",
+      "ero-guro"
+    ],
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "剣と魔法の世界へ転生した青年が、竜の力を宿して大陸の争乱に身を投じていく。『終末のハーレム』の世界観を異世界へ移した派生作品であり、本編と同様に濃厚な性描写と陰謀劇を組み合わせている。ウルトラジャンプで長期にわたって連載されたダークファンタジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%B5%82%E6%9C%AB%E3%81%AE%E3%83%8F%E3%83%BC%E3%83%AC%E3%83%A0_%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%82%A2"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『終末のハーレム ファンタジア』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2026,
+    "volumeCount": 18
+  },
+  {
+    "id": "mahoutsukaikurohime",
+    "title": "魔砲使い黒姫",
+    "titleKana": "まほうつかいくろひめ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "katakura-masanori"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "monthly-shonen-jump",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2000,
+    "status": "completed",
+    "synopsis": "銃の形をした武具「魔砲銃」から魔力の弾丸を放ち、攻撃も治癒も自在に操る女性・黒姫。かつて世界を滅ぼしかけた彼女は、罰として力を封じられ、少年の姿の相棒とともに旅を続けている。骨太なバトルと登場人物の心理描写を両立させたファンタジー漫画。複数の部に分かれた長期連載で、掲載誌の休刊を経てウェブ連載として完結した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%AD%94%E7%A0%B2%E4%BD%BF%E3%81%84%E9%BB%92%E5%A7%AB"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『魔砲使い黒姫』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-09",
+    "latestPublishedYear": 2011,
+    "volumeCount": 18
   }
 ]
