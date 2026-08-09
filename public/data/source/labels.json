@@ -3466,5 +3466,45 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "bokenoh",
+    "name": "冒険王",
+    "nameKana": "ぼうけんおう",
+    "publisherId": "akita-shoten",
+    "description": "秋田書店が発行していた児童向け月刊漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "one-more-kiss",
+    "name": "One more Kiss",
+    "nameKana": "わんもあきす",
+    "publisherId": "kodansha",
+    "description": "講談社が発行していた女性向け漫画誌。Kissの姉妹誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "weekly-shojo-comic",
+    "name": "週刊少女コミック",
+    "nameKana": "しゅうかんしょうじょこみっく",
+    "publisherId": "shogakukan",
+    "description": "小学館が発行していた少女漫画誌。後の月刊少女コミックの前身。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "comic-fire",
+    "name": "コミックファイア",
+    "nameKana": "こみっくふぁいあ",
+    "publisherId": "hobby-japan",
+    "description": "ホビージャパンが運営するWebコミック配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+    "updatedAt": "2026-08-09"
   }
 ]
