@@ -4136,5 +4136,35 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "famitsu",
+    "name": "ファミ通",
+    "nameKana": "ふぁみつう",
+    "publisherId": "enterbrain",
+    "description": "エンターブレインが発行するゲーム情報誌。漫画やエッセイの連載も掲載する。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "renta",
+    "name": "Renta!",
+    "nameKana": "れんた",
+    "publisherId": "frontier-works",
+    "description": "電子コミックのレンタル配信サービス。オリジナル作品の連載も行う。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "comic-bunbun",
+    "name": "月刊コミックブンブン",
+    "nameKana": "げっかんこみっくぶんぶん",
+    "publisherId": "coamix",
+    "description": "コアミックスが発行していた児童向け漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
