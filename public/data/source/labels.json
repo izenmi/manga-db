@@ -3856,5 +3856,35 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "grand-jump-premium",
+    "name": "グランドジャンプPREMIUM",
+    "nameKana": "ぐらんどじゃんぷぷれみあむ",
+    "publisherId": "shueisha",
+    "description": "集英社が発行していた青年漫画誌。グランドジャンプの増刊。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "eden-magazine",
+    "name": "EDEN",
+    "nameKana": "えでん",
+    "publisherId": "mag-garden",
+    "description": "マッグガーデンが発行していた女性向け漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "monthly-comic-nora",
+    "name": "月刊コミックNORA",
+    "nameKana": "げっかんこみっくのーら",
+    "publisherId": "gakken",
+    "description": "学習研究社が発行していた月刊漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]

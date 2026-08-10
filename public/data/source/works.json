@@ -80300,5 +80300,911 @@
     "updatedAt": "2026-08-10",
     "latestPublishedYear": 2020,
     "volumeCount": 13
+  },
+  {
+    "id": "chimamiresukebanchenso",
+    "title": "血まみれスケバン・チェーンソー",
+    "titleKana": "ちまみれすけばんちぇーんそー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mikamoto-rei"
+    ],
+    "publisherId": "enterbrain",
+    "labelId": "comic-beam",
+    "themeIds": [
+      "horror",
+      "battle-action",
+      "ero-guro"
+    ],
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "クラスメイトの自由研究をきっかけに、うぐいす中学の生徒たちはゾンビと化してしまう。スケバンの鋸村ギーコは、チェーンソーを手に元同級生たちを次々と切り倒していく。血飛沫と勢いだけで押し切る、スプラッターとギャグを混ぜ合わせたゾンビホラーである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E8%A1%80%E3%81%BE%E3%81%BF%E3%82%8C%E3%82%B9%E3%82%B1%E3%83%90%E3%83%B3%E3%83%BB%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%BD%E3%83%BC"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『血まみれスケバン・チェーンソー』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2017,
+    "volumeCount": 13
+  },
+  {
+    "id": "rokkunkoru",
+    "title": "Rock'n爆音",
+    "titleKana": "ろっくんこーる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "furusawa-yuu"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "monthly-shonen-champion",
+    "themeIds": [
+      "delinquent",
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 1998,
+    "status": "completed",
+    "synopsis": "超がつくワルばかりが集まる不良校に、自分がルールという規格外のバカ・正木梅が入学してくる。常識も加減も知らない彼が、暴走族と学園を巻き込んで騒動を起こし続ける。理屈を排した勢いだけで押し通す、ヤンキーギャグ漫画である。暴走族としての活動と学園生活が地続きになっており、騒動の規模だけが膨らんでいく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Rock%27n%E7%88%86%E9%9F%B3"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『Rock'n爆音』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2003,
+    "volumeCount": 13
+  },
+  {
+    "id": "okusamagaseitokaichou",
+    "title": "おくさまが生徒会長!",
+    "titleKana": "おくさまがせいとかいちょう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nakata-yumi"
+    ],
+    "publisherId": "ichijinsha",
+    "labelId": "comic-rex",
+    "themeIds": [
+      "romance",
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "新設校の初代生徒会長に選ばれた優等生の美少女・若菜羽衣は、副会長の和泉隼斗の家に押しかけ、嫁になると宣言する。幼い頃に親同士が交わした約束が理由だった。生徒会という建前と同棲という実態が同時進行していく、学園ラブコメディである。生徒会の公務と押しかけ女房という二つの顔が、同時に主人公を追い詰めていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%8F%E3%81%95%E3%81%BE%E3%81%8C%E7%94%9F%E5%BE%92%E4%BC%9A%E9%95%B7%21"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『おくさまが生徒会長!』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2018,
+    "volumeCount": 13
+  },
+  {
+    "id": "akujikireijoutokyouketsukoushakusonomamo",
+    "title": "悪食令嬢と狂血公爵 〜その魔物、私が美味しくいただきます!〜",
+    "titleKana": "あくじきれいじょうときょうけつこうしゃくそのまものわたしがおいしくいただきます",
+    "originalAuthorIds": [
+      "hoshi-kanata"
+    ],
+    "artistIds": [
+      "mizube-chika"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "palcy",
+    "themeIds": [
+      "isekai",
+      "gourmet",
+      "romance"
+    ],
+    "firstPublishedYear": 2021,
+    "status": "ongoing",
+    "synopsis": "飢饉に苦しむ世界で、伯爵令嬢メルフィエラは亡き母の研究を継ぎ、禁忌とされる魔物食の研究に没頭していた。「悪食令嬢」と敬遠される彼女を救ったのは、魔物を狩り続ける公爵だった。魔物を美味しく食べることを主題に据えた、異世界のグルメラブコメディである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%82%AA%E9%A3%9F%E4%BB%A4%E5%AC%A2%E3%81%A8%E7%8B%82%E8%A1%80%E5%85%AC%E7%88%B5_%E3%80%9C%E3%81%9D%E3%81%AE%E9%AD%94%E7%89%A9%E3%80%81%E7%A7%81%E3%81%8C%E7%BE%8E%E5%91%B3%E3%81%97%E3%81%8F%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%99%21%E3%80%9C"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『悪食令嬢と狂血公爵 〜その魔物、私が美味しくいただきます!〜』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "volumeCount": 13
+  },
+  {
+    "id": "hirunakanoryuusei",
+    "title": "ひるなかの流星",
+    "titleKana": "ひるなかのりゅうせい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yamamori-mika"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "margaret",
+    "themeIds": [
+      "romance",
+      "school"
+    ],
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "石川の田舎から東京の叔父のもとへ預けられた高校生・与謝野すずめは、上京初日に倒れたところを見知らぬ男性に助けられる。その相手は転入先の担任教師だった。教師への恋と、友人となった同級生からの想いの間で揺れる少女を描いた少女漫画である。教師と生徒という越えられない線が、恋の甘さと苦さの両方を生んでいる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%82%8B%E3%81%AA%E3%81%8B%E3%81%AE%E6%B5%81%E6%98%9F"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ひるなかの流星』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2014,
+    "volumeCount": 13
+  },
+  {
+    "id": "deddooasutoraiku",
+    "title": "デッド・オア・ストライク",
+    "titleKana": "でっどおあすとらいく",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nishimori-ikuru"
+    ],
+    "publisherId": "comic-smart",
+    "labelId": "ganma",
+    "themeIds": [
+      "sports",
+      "school",
+      "comedy"
+    ],
+    "firstPublishedYear": 2015,
+    "status": "completed",
+    "synopsis": "野球初心者ながら卓越した身体能力で三軍のテストを突破した初月和希は、一軍専属マネージャーに目をつけられ、新設の「一・五軍」に据えられる。実力差を突きつけられた彼は、入れ替え戦へ挑むため仲間を集めていく。極端なテンションで押し切る野球漫画である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%83%E3%83%89%E3%83%BB%E3%82%AA%E3%82%A2%E3%83%BB%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A4%E3%82%AF"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『デッド・オア・ストライク』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2022,
+    "volumeCount": 13
+  },
+  {
+    "id": "keppekidanshiaoyamakun",
+    "title": "潔癖男子!青山くん",
+    "titleKana": "けっぺきだんしあおやまくん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "sakamoto-taku"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "miracle-jump",
+    "themeIds": [
+      "sports",
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 2014,
+    "status": "completed",
+    "synopsis": "年代別日本代表に選ばれるほどの実力を持ちながら、極度の潔癖ゆえにヘディングもスライディングも嫌う青山くん。彼は潔癖という理由だけで弱小校を選び、個性的な部員たちとサッカーに打ち込んでいく。設定一つで最後まで押し通したサッカーコメディである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%BD%94%E7%99%96%E7%94%B7%E5%AD%90%21%E9%9D%92%E5%B1%B1%E3%81%8F%E3%82%93"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『潔癖男子!青山くん』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2018,
+    "volumeCount": 13
+  },
+  {
+    "id": "wagatsumasanhaorenoyome",
+    "title": "我妻さんは俺のヨメ",
+    "titleKana": "わがつまさんはおれのよめ",
+    "originalAuthorIds": [
+      "kuraishi-yu"
+    ],
+    "artistIds": [
+      "nishikida-keishi"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "magazine-special",
+    "themeIds": [
+      "romance",
+      "comedy",
+      "sci-fi"
+    ],
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "さえない高校生・青島等は、自分が十年後の未来へ跳べる能力を持つと気づく。跳んだ先では、学校一の美少女が彼の妻になっていた。未来を知ってしまった彼が現在の関係に空回りしていく、タイムスリップを軸にした学園ラブコメディである。未来を知っていることが、かえって行動をためらわせるという構図が面白い。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%88%91%E5%A6%BB%E3%81%95%E3%82%93%E3%81%AF%E4%BF%BA%E3%81%AE%E3%83%A8%E3%83%A1"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『我妻さんは俺のヨメ』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2014,
+    "volumeCount": 13
+  },
+  {
+    "id": "ootori",
+    "title": "鳳",
+    "titleKana": "おおとり",
+    "originalAuthorIds": [
+      "kamio-ryu"
+    ],
+    "artistIds": [
+      "watanabe-michio"
+    ],
+    "publisherId": "nihon-bungeisha",
+    "labelId": "manga-goraku",
+    "themeIds": [
+      "crime-underworld",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "破門された元若頭代行の鳳一輝は、かつての組が対立組織に襲撃されて壊滅したことを知る。炎のなか一人生き延びた彼は、仲間たちの無念を晴らすため復讐に身を投じていく。組織の力学と義理を軸に据えた、正統派の極道漫画である。組を失った男が一人で報復に向かう過程を、抑えた筆致で積み上げていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%B3%B3_%28%E6%BC%AB%E7%94%BB%29"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『鳳 (漫画)』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2007,
+    "volumeCount": 13
+  },
+  {
+    "id": "nigakuteamai",
+    "title": "にがくてあまい",
+    "titleKana": "にがくてあまい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kobayashiyumio"
+    ],
+    "publisherId": "mag-garden",
+    "labelId": "eden-magazine",
+    "themeIds": [
+      "gourmet",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "仕事に没頭するあまり部屋も食生活も荒れ放題のキャリアウーマン・マキは、料理上手な美術教師の渚と同居することになる。だが彼は女性にまるで興味がない男色家だった。噛み合わない二人が食卓を挟んで少しずつ変わっていく、料理を軸にした恋愛漫画である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%AB%E3%81%8C%E3%81%8F%E3%81%A6%E3%81%82%E3%81%BE%E3%81%84"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『にがくてあまい』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2016,
+    "volumeCount": 13
+  },
+  {
+    "id": "mokkorihanbee",
+    "title": "もっこり半兵衛",
+    "titleKana": "もっこりはんべえ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tokuhiro-masaya"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "grand-jump-premium",
+    "themeIds": [
+      "historical",
+      "comedy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2015,
+    "status": "ongoing",
+    "synopsis": "腕の立つ剣術指南役でありながら脱藩し、江戸の町を月一両で夜廻りする用心棒・月並半兵衛。飄々とした彼のもとには、市井の人々が抱える厄介事が次々と持ち込まれる。下ネタと人情を交互に繰り出しながら進む、一話完結の時代劇コメディである。江戸の市井の暮らしぶりが細かく描かれ、時代考証にも手が入っている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%82%E3%81%A3%E3%81%93%E3%82%8A%E5%8D%8A%E5%85%B5%E8%A1%9B"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『もっこり半兵衛』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "volumeCount": 13
+  },
+  {
+    "id": "ashiaraiyashikinojuunintachi",
+    "title": "足洗邸の住人たち。",
+    "titleKana": "あしあらいやしきのじゅうにんたち",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "minagi-tokuichi"
+    ],
+    "publisherId": "wani-books",
+    "labelId": "comic-gum",
+    "themeIds": [
+      "dark-fantasy",
+      "comedy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2001,
+    "status": "completed",
+    "synopsis": "大召喚によって神も悪魔も妖怪も同居する混淆世界となった日本。絵描きの田村福太郎が引っ越した「足洗邸」には、人ならざる住人たちが暮らしていた。日本の民間伝承を大量に踏まえながら、緻密な設定で組み上げられた妖怪ファンタジーである。神話や伝承の引用が濃密で、読み解く楽しみのある作りになっている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E8%B6%B3%E6%B4%97%E9%82%B8%E3%81%AE%E4%BD%8F%E4%BA%BA%E3%81%9F%E3%81%A1%E3%80%82"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『足洗邸の住人たち。』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2013,
+    "volumeCount": 13
+  },
+  {
+    "id": "jekekarayarinaosushirubapuran",
+    "title": "JKからやり直すシルバープラン",
+    "titleKana": "じぇーけーからやりなおすしるばーぷらん",
+    "originalAuthorIds": [
+      "imu-daryon"
+    ],
+    "artistIds": [
+      "i-heson"
+    ],
+    "publisherId": "kill-time-communication",
+    "labelId": "comic-valkyrie",
+    "themeIds": [
+      "isekai",
+      "business",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2019,
+    "status": "completed",
+    "synopsis": "名家に生まれ富と権力をほしいままにしていた二ノ宮小百合は、一族の没落ですべてを失い、孤独なホームレスとして死を迎える。だが目覚めたとき、彼女は女子高生の自分に戻っていた。老後まで見据えた人生設計をやり直していく、韓国原作の人生やり直し作品である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/JK%E3%81%8B%E3%82%89%E3%82%84%E3%82%8A%E7%9B%B4%E3%81%99%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC%E3%83%97%E3%83%A9%E3%83%B3"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『JKからやり直すシルバープラン』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2024,
+    "volumeCount": 13
+  },
+  {
+    "id": "sararimangaisekainiittarashitennouninatt",
+    "title": "サラリーマンが異世界に行ったら四天王になった話",
+    "titleKana": "さらりーまんがいせかいにいったらしてんのうになったはなし",
+    "originalAuthorIds": [
+      "benigashira"
+    ],
+    "artistIds": [
+      "murakou"
+    ],
+    "publisherId": "overlap",
+    "labelId": "comic-gardo",
+    "themeIds": [
+      "isekai",
+      "comedy",
+      "business"
+    ],
+    "firstPublishedYear": 2019,
+    "status": "ongoing",
+    "synopsis": "東南アジアで働いていたサラリーマンの内村伝之助は、事故死して異世界へ召喚され、魔王軍四天王の一人にされてしまう。当初は渋っていた彼も、魔王の人柄に触れて職務に馴染んでいく。社会人の常識を魔王軍の運営に持ち込んでいく、異世界の職場コメディである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%A9%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%B3%E3%81%8C%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%AB%E8%A1%8C%E3%81%A3%E3%81%9F%E3%82%89%E5%9B%9B%E5%A4%A9%E7%8E%8B%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E8%A9%B1"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『サラリーマンが異世界に行ったら四天王になった話』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "volumeCount": 13
+  },
+  {
+    "id": "yaminomatsuei",
+    "title": "闇の末裔",
+    "titleKana": "やみのまつえい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "matsushita-youko"
+    ],
+    "publisherId": "hakusensha",
+    "labelId": "hana-to-yume",
+    "themeIds": [
+      "dark-fantasy",
+      "boys-love",
+      "detective-mystery"
+    ],
+    "firstPublishedYear": 1996,
+    "status": "ongoing",
+    "synopsis": "冥府の閻魔庁で死者に関わる事件を扱う「死神」たち。昼行灯と評される都筑麻斗は、新たな相棒とともに九州地区を担当していた。事件を追ううちに、彼ら自身の生前の記憶と因縁が少しずつ明かされていく。耽美な画風で描かれる少女向けの伝奇作品である。死者を裁くという役目が、そのまま登場人物自身の過去に跳ね返ってくる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%97%87%E3%81%AE%E6%9C%AB%E8%A3%94"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『闇の末裔』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "volumeCount": 13
+  },
+  {
+    "id": "enjerutoranpetto",
+    "title": "エンジェル・トランペット",
+    "titleKana": "えんじぇるとらんぺっと",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "akaishimichiyo"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "flowers",
+    "themeIds": [
+      "sci-fi",
+      "suspense-psychological",
+      "adventure"
+    ],
+    "firstPublishedYear": 2012,
+    "status": "completed",
+    "synopsis": "大地震の後に広がった謎のウイルスによって、超常の能力を得た子どもたちが現れる。政府組織に追われる姉弟は、行く先々の人々に助けられながら逃亡を続ける。能力を持つ子どもの管理と保護という主題を、逃亡劇として描いたサスペンス作品である。追う側の組織にも事情があり、単純な善悪では割り切れない構図になっている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB%E3%83%BB%E3%83%88%E3%83%A9%E3%83%B3%E3%83%9A%E3%83%83%E3%83%88"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『エンジェル・トランペット』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2017,
+    "volumeCount": 13
+  },
+  {
+    "id": "isekaimahouhaokureteru",
+    "title": "異世界魔法は遅れてる!",
+    "titleKana": "いせかいまほうはおくれてる",
+    "originalAuthorIds": [
+      "hitsuji-gamei"
+    ],
+    "artistIds": [
+      "comta"
+    ],
+    "publisherId": "overlap",
+    "labelId": "comic-gardo",
+    "themeIds": [
+      "isekai",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2016,
+    "status": "ongoing",
+    "synopsis": "現代の魔術師である八鍵水明は、同級生とともに異世界へ召喚されるが、勇者としての依頼を断固拒否する。この世界の魔法があまりに未発達だと知った彼は、現代魔術の知識で常識を覆していく。魔法体系の違いを主題に据えた異世界ファンタジーである。魔術の理論的な説明が丁寧で、異世界側との対比が明快に描かれる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%95%B0%E4%B8%96%E7%95%8C%E9%AD%94%E6%B3%95%E3%81%AF%E9%81%85%E3%82%8C%E3%81%A6%E3%82%8B%21"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『異世界魔法は遅れてる!』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "volumeCount": 13
+  },
+  {
+    "id": "daimonzu",
+    "title": "ダイモンズ",
+    "titleKana": "だいもんず",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yonehara-hideyuki"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "shonen-champion",
+    "themeIds": [
+      "sci-fi",
+      "battle-action",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "synopsis": "信じていた親友たちに両腕と家族を奪われた男ヘイトは、死の淵で異形の力「ゼスモス」を得る。鉄の腕を操る力を手に、彼はかつての友人五人への復讐を誓う。憎悪だけを動力に進んでいく、容赦のないSF復讐劇である。復讐の相手それぞれに事情が用意され、単なる殲滅劇にはなっていない。異形の力の代償も並行して描かれていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%82%A4%E3%83%A2%E3%83%B3%E3%82%BA"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ダイモンズ』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2008,
+    "volumeCount": 13
+  },
+  {
+    "id": "debirumansaga",
+    "title": "デビルマンサーガ",
+    "titleKana": "でびるまんさーが",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nagai-go"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic",
+    "themeIds": [
+      "horror",
+      "battle-action",
+      "sci-fi"
+    ],
+    "firstPublishedYear": 2014,
+    "status": "completed",
+    "synopsis": "ロボット学者の不動勇希は、軍需企業の研究所で「悪魔の鎧」の研究に関わり、開けてはならない扉を開けてしまう。意識を持った鎧が人を取り込み始め、彼は悪魔と人の境界に立たされる。『デビルマン』の主題を現代の技術で描き直した作品である。人が悪魔と融合するという原典の主題を、企業と技術の文脈で語り直している。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%93%E3%83%AB%E3%83%9E%E3%83%B3%E3%82%B5%E3%83%BC%E3%82%AC"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『デビルマンサーガ』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2020,
+    "volumeCount": 13
+  },
+  {
+    "id": "jizasu",
+    "title": "ジーザス",
+    "titleKana": "じーざす",
+    "originalAuthorIds": [
+      "shichigatsu-kyouichi"
+    ],
+    "artistIds": [
+      "fujiwara-yoshihide"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "battle-action",
+      "crime-underworld",
+      "school"
+    ],
+    "firstPublishedYear": 1992,
+    "status": "completed",
+    "synopsis": "闇社会で恐れられる暗殺者ジーザスは、自らの死を偽装し、外見の似た教師になりすます。だが強奪したヘロインが手違いで高校へ運び込まれたことから、彼は教壇に立ちながら事件に対処していくことになる。正体を隠した男を描くハードボイルドアクションである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%82%B6%E3%82%B9_%28%E6%BC%AB%E7%94%BB%29"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ジーザス (漫画)』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 1995,
+    "volumeCount": 13
+  },
+  {
+    "id": "sakyubasuandohittoman",
+    "title": "サキュバス&ヒットマン",
+    "titleKana": "さきゅばすあんどひっとまん",
+    "originalAuthorIds": [
+      "fukami-makoto"
+    ],
+    "artistIds": [
+      "tokiya-seigo"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "champion-red",
+    "themeIds": [
+      "battle-action",
+      "dark-fantasy",
+      "ero-guro"
+    ],
+    "firstPublishedYear": 2020,
+    "status": "ongoing",
+    "synopsis": "家族もろとも謎の四人組に殺された「俺」は、高校生の体に乗り移って蘇る。家族の仇を探すため、彼は悪魔と契約して殺し屋として動き始める。サキュバスとの契約という設定を軸に、格闘と復讐を掛け合わせた作品である。契約という枠組みが、主人公の行動を縛りながら力を与えるという構造になっている。復讐の代償も並行して描かれる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%AD%E3%83%A5%E3%83%90%E3%82%B9%26%E3%83%92%E3%83%83%E3%83%88%E3%83%9E%E3%83%B3"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『サキュバス&ヒットマン』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "volumeCount": 13
+  },
+  {
+    "id": "suicchi",
+    "title": "Switch",
+    "titleKana": "すいっち",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "neikiddo-eipu"
+    ],
+    "publisherId": "square-enix",
+    "labelId": "monthly-stencil",
+    "themeIds": [
+      "crime-underworld",
+      "detective-mystery",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "麻薬取締部の新人捜査官である衛藤快と倉林春は、おとり捜査や潜入といった麻取ならではの手段で密売組織を追い詰めていく。中国の密売組織が再び国内で動き始めたことで、二人は危険な捜査に踏み込む。麻薬取締官という職業を扱った作品である。おとり捜査や潜入といった手法が具体的に描かれ、職業ものとして読ませる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Switch_%28naked_ape%E3%81%AE%E6%BC%AB%E7%94%BB%29"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『Switch (naked apeの漫画)』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2008,
+    "volumeCount": 13
+  },
+  {
+    "id": "naabasubureikudaun",
+    "title": "NERVOUS BREAKDOWN",
+    "titleKana": "なあばすぶれいくだうん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tagamiyoshihisa"
+    ],
+    "publisherId": "gakken",
+    "labelId": "monthly-comic-nora",
+    "themeIds": [
+      "detective-mystery",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 1988,
+    "status": "completed",
+    "synopsis": "北千住の雑居ビルに事務所を構える田沼平九郎探偵事務所の面々が、持ち込まれる事件を解いていく。推理小説の定番となる題材を幅広く扱いながら、一話完結を基本に登場人物たちの状況も少しずつ変化していく。作者初の長期連載となったミステリー作品である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/NERVOUS_BREAKDOWN"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『NERVOUS BREAKDOWN』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 1997,
+    "volumeCount": 13
+  },
+  {
+    "id": "otakuniyasashiigyaruhainai",
+    "title": "オタクに優しいギャルはいない!?",
+    "titleKana": "おたくにやさしいぎゃるはいない",
+    "originalAuthorIds": [
+      "norishirochan"
+    ],
+    "artistIds": [
+      "uozumi-sakana"
+    ],
+    "publisherId": "coamix",
+    "labelId": "comic-zenon",
+    "themeIds": [
+      "romance",
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 2021,
+    "status": "ongoing",
+    "synopsis": "友達のいない陰キャのオタク・瀬尾卓也は、前の席の派手なギャル二人に苦手意識を抱いていた。だが彼の好きなアニメを片方も見ていたことから、三人の距離は急速に縮まっていく。趣味を接点に関係が変わっていく、学園ラブコメディである。苦手意識が偏見だったと気づいていく過程が、丁寧に描かれていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%BF%E3%82%AF%E3%81%AB%E5%84%AA%E3%81%97%E3%81%84%E3%82%AE%E3%83%A3%E3%83%AB%E3%81%AF%E3%81%84%E3%81%AA%E3%81%84%21%3F"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『オタクに優しいギャルはいない!?』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "volumeCount": 13
+  },
+  {
+    "id": "fuufuijou",
+    "title": "夫婦以上、恋人未満。",
+    "titleKana": "ふうふいじょう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kanamaruyuki"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "young-ace",
+    "themeIds": [
+      "romance",
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 2018,
+    "status": "ongoing",
+    "synopsis": "伝統行事の「夫婦実習」で、リア充ではない高校生・薬院次郎と、正反対のギャル・渡辺星がペアになる。それぞれ意中の相手と組み直すため、二人は成績上位を目指して疑似夫婦生活に本気で取り組む。目的が入れ替わっていく過程を描いた学園ラブコメディである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%A4%AB%E5%A9%A6%E4%BB%A5%E4%B8%8A%E3%80%81%E6%81%8B%E4%BA%BA%E6%9C%AA%E6%BA%80%E3%80%82"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『夫婦以上、恋人未満。』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2018,
+    "volumeCount": 13
+  },
+  {
+    "id": "nozokiana",
+    "title": "ノ・ゾ・キ・ア・ナ",
+    "titleKana": "のぞきあな",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "honna-wakou"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "moba-man",
+    "themeIds": [
+      "romance",
+      "ero-guro",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "専門学校生の城戸龍彦は、部屋の壁に開いた穴から隣人の女性を覗いてしまう。それを知った彼女は「覗き合いをしませんか」と提案し、一日交替で互いを覗く関係が始まる。窃視という行為を通して、他人を知ることの怖さを描いた青年誌の作品である。覗くことと覗かれることが対等であるという設定が、関係を歪ませていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%BB%E3%82%BE%E3%83%BB%E3%82%AD%E3%83%BB%E3%82%A2%E3%83%BB%E3%83%8A"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ノ・ゾ・キ・ア・ナ』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2013,
+    "volumeCount": 13
+  },
+  {
+    "id": "senseikunshu",
+    "title": "センセイ君主",
+    "titleKana": "せんせいくんしゅ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kouda-momoko"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "bessatsu-margaret",
+    "themeIds": [
+      "romance",
+      "school",
+      "comedy"
+    ],
+    "firstPublishedYear": 2013,
+    "status": "completed",
+    "synopsis": "単純だが何事にも一生懸命な女子高生・佐丸あゆはは、代理でやってきた俺様系の担任教師に恋をしてしまう。猛烈なアタックにつれない態度を取り続ける教師との攻防が続いていく。教師と生徒という距離を軸にした、少女誌の学園恋愛漫画である。周囲の生徒や教師も巻き込みながら、二人の関係が少しずつ動いていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%B3%E3%82%BB%E3%82%A4%E5%90%9B%E4%B8%BB"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『センセイ君主』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2017,
+    "volumeCount": 13
+  },
+  {
+    "id": "toudaiicchokusen",
+    "title": "東大一直線",
+    "titleKana": "とうだいいっちょくせん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kobayashi-yoshinori"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 1976,
+    "status": "completed",
+    "synopsis": "東京大学に入ることだけを人生の目的に据えた男・東大通が、常識も他人の迷惑も顧みず受験に突き進んでいく。周囲の受験生たちが精神を病んでいくなか、彼の異常な執念だけが揺るがない。受験戦争を茶化し切った、作者の出世作となるギャグ漫画である。一切の情緒を排し、極端な一点突破だけで押し切る作風が確立されている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%A4%A7%E4%B8%80%E7%9B%B4%E7%B7%9A"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『東大一直線』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 1979,
+    "volumeCount": 13
+  },
+  {
+    "id": "shachikutoshoujonosenhappyakunichi",
+    "title": "社畜と少女の1800日",
+    "titleKana": "しゃちくとしょうじょのせんはっぴゃくにち",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "itaba-hiroshi"
+    ],
+    "publisherId": "houbunsha",
+    "labelId": "weekly-manga-times",
+    "themeIds": [
+      "slice-of-life",
+      "romance",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2017,
+    "status": "completed",
+    "synopsis": "仕事に追われる独身の中年サラリーマン・東根将彦は、高校時代の同級生の娘である女子高生・優里と出会う。母親が失踪したという彼女と、世間に伏せたまま同居生活を始める。年齢差のある二人の距離を、慎重な筆致で描いた青年漫画である。同居という状況の危うさから目を逸らさず、周囲の視線も描き込まれている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%A4%BE%E7%95%9C%E3%81%A8%E5%B0%91%E5%A5%B3%E3%81%AE1800%E6%97%A5"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『社畜と少女の1800日』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2020,
+    "volumeCount": 13
+  },
+  {
+    "id": "work-11",
+    "title": "BUYUDEN",
+    "titleKana": "ぶゆうでん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mitsuda-takuya"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "sports",
+      "school"
+    ],
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "ボクシングに打ち込む少年たちが、リングの上で己の限界と向き合っていく。『MAJOR』の連載を終えた作者が、次に選んだ題材として三年にわたって描いた作品である。打ち切りによって終盤は駆け足となったが、拳闘の描写には作者らしい熱量が通っている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/BUYUDEN"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『BUYUDEN』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2014,
+    "volumeCount": 13
   }
 ]
