@@ -4336,5 +4336,45 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "x-twitter",
+    "name": "X(旧Twitter)",
+    "nameKana": "えっくす",
+    "publisherId": "kadokawa",
+    "description": "作者が個人の投稿で発表した作品の掲載元。単行本はKADOKAWAから刊行された。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "b-boy",
+    "name": "b-BOY",
+    "nameKana": "びーぼーい",
+    "publisherId": "libre",
+    "description": "リブレが発行するボーイズラブ漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "shonen-ace-plus",
+    "name": "少年エースplus",
+    "nameKana": "しょうねんえーすぷらす",
+    "publisherId": "kadokawa",
+    "description": "KADOKAWAが運営するウェブ漫画配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "comicomi",
+    "name": "月刊コミコミ",
+    "nameKana": "げっかんこみこみ",
+    "publisherId": "hakusensha",
+    "description": "白泉社が発行していた漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
