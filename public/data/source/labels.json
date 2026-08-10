@@ -5626,5 +5626,45 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "bart",
+    "name": "BART",
+    "nameKana": "ばーと",
+    "publisherId": "shueisha",
+    "description": "集英社が刊行していた男性向け総合誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "monthly-you",
+    "name": "月刊YOU",
+    "nameKana": "げっかんゆー",
+    "publisherId": "shueisha",
+    "description": "集英社の女性向け漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "aoburo",
+    "name": "アオブロ！",
+    "nameKana": "あおぶろ",
+    "publisherId": "shueisha",
+    "description": "集英社が運営していた漫画配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "runrun",
+    "name": "るんるん",
+    "nameKana": "るんるん",
+    "publisherId": "kodansha",
+    "description": "講談社が刊行していた少女向け漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
