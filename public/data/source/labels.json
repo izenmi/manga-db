@@ -4576,5 +4576,45 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "jour",
+    "name": "JOUR",
+    "nameKana": "じゅーる",
+    "publisherId": "futabasha",
+    "description": "双葉社が発行する女性向け漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "saikyou-jump",
+    "name": "最強ジャンプ",
+    "nameKana": "さいきょうじゃんぷ",
+    "publisherId": "shueisha",
+    "description": "集英社が発行する児童向け漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "web-blood",
+    "name": "Web★ブラッド",
+    "nameKana": "うぇぶぶらっど",
+    "publisherId": "flex-comix",
+    "description": "フレックスコミックスが運営していたウェブ漫画配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "web-action",
+    "name": "webアクション",
+    "nameKana": "うぇぶあくしょん",
+    "publisherId": "futabasha",
+    "description": "双葉社が運営するウェブ漫画配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
