@@ -6016,5 +6016,25 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "hero-magazine",
+    "name": "月刊ヒーローマガジン",
+    "nameKana": "げっかんひーろーまがじん",
+    "publisherId": "kodansha",
+    "description": "児童向けの漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "note",
+    "name": "note",
+    "nameKana": "のーと",
+    "publisherId": "note-inc",
+    "description": "個人が文章や漫画を発表できる配信サービス。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
