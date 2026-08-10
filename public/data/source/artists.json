@@ -29102,5 +29102,185 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipedia『錆色のアーマ』記事および人物記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "fusedi",
+    "name": "ふせでぃ",
+    "nameKana": "ふせでぃ",
+    "description": "漫画を手がける漫画家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『悪いのはあなたです』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "inuiayatori",
+    "name": "犬井あやとり",
+    "nameKana": "いぬいあやとり",
+    "description": "漫画を手がける漫画家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『あした、裸足でこい。』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "retsu",
+    "name": "レツ",
+    "nameKana": "れつ",
+    "description": "漫画を手がける漫画家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『現存!古代生物史パッキー』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "takami-naruse",
+    "name": "高見鳴瀬",
+    "nameKana": "たかみなるせ",
+    "description": "漫画を手がける漫画家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『ウエルベールの物語 〜Sisters of Wellber〜』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "yatsu",
+    "name": "谷津",
+    "nameKana": "やつ",
+    "description": "漫画を手がける漫画家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『ホレンテ島の魔法使い』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "mukudori-nemu",
+    "name": "夢来鳥ねむ",
+    "nameKana": "むくどりねむ",
+    "description": "漫画を手がける漫画家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『セイル (漫画)』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "miyano-shouichi",
+    "name": "宮野将一",
+    "nameKana": "みやのしょういち",
+    "description": "漫画を手がける漫画家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『ファンタジックチルドレン』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "abe-yoshitoshi",
+    "name": "安倍吉俊",
+    "nameKana": "あべよしとし",
+    "description": "漫画を手がける漫画家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『NieA 7』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "gk",
+    "name": "gK",
+    "nameKana": "じーけー",
+    "description": "漫画を手がける漫画家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『NieA 7』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "inaba",
+    "name": "いなば",
+    "nameKana": "いなば",
+    "description": "漫画を手がける漫画家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『また殺されてしまったのですね、探偵様』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "katouhiroshi",
+    "name": "かとうひろし",
+    "nameKana": "かとうひろし",
+    "description": "漫画を手がける漫画家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『サイファー (漫画)』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "shiiba-nana",
+    "name": "椎葉ナナ",
+    "nameKana": "しいばなな",
+    "description": "漫画を手がける漫画家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『覚悟はいいかそこの女子。』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "hitsuji-hako",
+    "name": "日辻ハコ",
+    "nameKana": "ひつじはこ",
+    "description": "漫画を手がける漫画家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『僕の妹は漢字が読める』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "kamizuki-shiki",
+    "name": "守月史貴",
+    "nameKana": "かみずきしき",
+    "description": "漫画を手がける漫画家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『疾走れ、撃て!』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "ookurakaori",
+    "name": "大倉かおり",
+    "nameKana": "おおくらかおり",
+    "description": "漫画を手がける漫画家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『レオン (漫画)』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "imanishi-masao",
+    "name": "今西まさお",
+    "nameKana": "いまにしまさお",
+    "description": "漫画を手がける漫画家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『どっきりマイクローン』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "takumiyuu",
+    "name": "タクミユウ",
+    "nameKana": "たくみゆう",
+    "description": "漫画を手がける漫画家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『あらばしり』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "seijuu-natsumegu",
+    "name": "晴十ナツメグ",
+    "nameKana": "せいじゅうなつめぐ",
+    "description": "漫画を手がける漫画家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『悪役令嬢後宮物語』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "sasaki-masahito",
+    "name": "佐々木マサヒト",
+    "nameKana": "ささきまさひと",
+    "description": "漫画を手がける漫画家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『名湯『異世界の湯』開拓記 〜アラフォー温泉マニアの転生先は、のんびり温泉天国でした〜』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "ai",
+    "name": "藍",
+    "nameKana": "あい",
+    "description": "漫画を手がける漫画家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『ミリオンドール』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]

@@ -6036,5 +6036,45 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "gamest",
+    "name": "ゲーメスト",
+    "nameKana": "げーめすと",
+    "publisherId": "shinseisha",
+    "description": "新声社が発行していた業務用遊戯機の専門誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "ace-next",
+    "name": "月刊エースネクスト",
+    "nameKana": "げっかんえーすねくすと",
+    "publisherId": "kadokawa-shoten",
+    "description": "角川書店が発行していた漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "medifac-mobile",
+    "name": "メディファクモバイル",
+    "nameKana": "めでぃふぁくもばいる",
+    "publisherId": "media-factory",
+    "description": "メディアファクトリーが運営していた携帯向け配信サービス。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "hot-dog-press",
+    "name": "Hot-Dog PRESS",
+    "nameKana": "ほっとどっぐぷれす",
+    "publisherId": "kodansha",
+    "description": "講談社が刊行していた男性向け情報誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
