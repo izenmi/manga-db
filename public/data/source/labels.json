@@ -4076,5 +4076,25 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "gene-pixiv",
+    "name": "ジーンピクシブ",
+    "nameKana": "じーんぴくしぶ",
+    "publisherId": "kadokawa",
+    "description": "KADOKAWAがpixiv上で展開していた漫画の配信レーベル。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "fujiko-fujio-land",
+    "name": "藤子不二雄ランド",
+    "nameKana": "ふじこふじおらんど",
+    "publisherId": "chuokoron-shinsha",
+    "description": "中央公論社が刊行していた藤子不二雄作品の叢書。巻末に新作を連載した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
