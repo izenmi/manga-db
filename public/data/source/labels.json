@@ -4536,5 +4536,45 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "manga-park",
+    "name": "マンガPark",
+    "nameKana": "まんがぱーく",
+    "publisherId": "hakusensha",
+    "description": "白泉社が運営する漫画アプリ。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "jump-sq19",
+    "name": "ジャンプSQ.19",
+    "nameKana": "じゃんぷすくえあないんてぃーん",
+    "publisherId": "shueisha",
+    "description": "集英社が発行していた青年向け漫画誌。「ジャンプスクエア」の増刊。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "web-dempre-comic",
+    "name": "WEBデンプレコミック",
+    "nameKana": "うぇぶでんぷれこみっく",
+    "publisherId": "kadokawa",
+    "description": "KADOKAWAが運営するウェブ漫画配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "manga-goccha",
+    "name": "マンガごっちゃ",
+    "nameKana": "まんがごっちゃ",
+    "publisherId": "micro-magazine",
+    "description": "マイクロマガジン社が運営していたウェブ漫画配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
