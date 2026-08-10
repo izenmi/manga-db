@@ -5586,5 +5586,25 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "super-robot-magazine",
+    "name": "スーパーロボットマガジン",
+    "nameKana": "すーぱーろぼっとまがじん",
+    "publisherId": "futabasha",
+    "description": "双葉社が刊行していたロボット作品を扱う雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "bessatsu-chocodra",
+    "name": "別冊ちょこドラ。",
+    "nameKana": "べっさつちょこどら",
+    "publisherId": "fujimi-shobo",
+    "description": "富士見書房が刊行していた漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
