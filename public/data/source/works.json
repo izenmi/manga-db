@@ -77559,5 +77559,916 @@
     "sourceNote": "日本語版Wikipedia『異世界転生騒動記』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-10",
     "volumeCount": 14
+  },
+  {
+    "id": "famirikonpo",
+    "title": "F.COMPO",
+    "titleKana": "ふぁみりーこんぽ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "houjou-tsukasa"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "manga-all-man",
+    "themeIds": [
+      "comedy",
+      "romance",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 1996,
+    "status": "completed",
+    "synopsis": "父を亡くして天涯孤独になった大学生・柳葉雅彦は、絶縁状態だった叔父夫婦の家に引き取られる。だがそこは、夫が女性で妻が男性という「男女逆転夫婦」の家だった。従妹の性別すら判別できないまま始まる同居生活を、性別の枠を問い直しながら描いたホームコメディである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/F.COMPO"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『F.COMPO』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2000,
+    "volumeCount": 14
+  },
+  {
+    "id": "daburujurietto",
+    "title": "Wジュリエット",
+    "titleKana": "だぶるじゅりえっと",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "emura"
+    ],
+    "publisherId": "hakusensha",
+    "labelId": "hana-to-yume",
+    "themeIds": [
+      "romance",
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 1997,
+    "status": "completed",
+    "synopsis": "男勝りな女子高生・三浦糸は、演劇部に入ってきた美しい転入生・天野真琴と意気投合する。だが真琴の正体は、役者になる夢のために女装している男子だった。秘密を守る共犯者となった二人が、舞台と恋の両方に向き合っていく学園ラブコメディである。秘密を守るという共犯関係が、そのまま二人の距離を近づけていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/W%E3%82%B8%E3%83%A5%E3%83%AA%E3%82%A8%E3%83%83%E3%83%88"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『Wジュリエット』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2002,
+    "volumeCount": 14
+  },
+  {
+    "id": "esurankumonsutanobehimosudakedonekotomac",
+    "title": "Sランクモンスターの《ベヒーモス》だけど、猫と間違われてエルフ娘の騎士として暮らしてます",
+    "titleKana": "えすらんくもんすたーのべひーもすだけどねことまちがわれてえるふむすめのぺっととしてくらしてます",
+    "originalAuthorIds": [
+      "ginyoku-nozomi",
+      "yano-mitsuki"
+    ],
+    "artistIds": [
+      "shinonome-tarou"
+    ],
+    "publisherId": "hakusensha",
+    "labelId": "young-animal-arashi",
+    "themeIds": [
+      "isekai",
+      "animal",
+      "adventure"
+    ],
+    "firstPublishedYear": 2018,
+    "status": "ongoing",
+    "synopsis": "魔族に敗れて命を落とした騎士は、最強種のベヒーモスに転生する。だがダンジョンで力尽きたところを冒険者の少女に拾われ、猫と勘違いされて「タマ」と名付けられてしまう。正体を隠したままペット兼護衛として彼女を守っていく、異世界ファンタジーである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/S%E3%83%A9%E3%83%B3%E3%82%AF%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%81%AE%E3%80%8A%E3%83%99%E3%83%92%E3%83%BC%E3%83%A2%E3%82%B9%E3%80%8B%E3%81%A0%E3%81%91%E3%81%A9%E3%80%81%E7%8C%AB%E3%81%A8%E9%96%93%E9%81%95%E3%82%8F%E3%82%8C%E3%81%A6%E3%82%A8%E3%83%AB%E3%83%95%E5%A8%98%E3%81%AE%E9%A8%8E%E5%A3%AB%E3%81%A8%E3%81%97%E3%81%A6%E6%9A%AE%E3%82%89%E3%81%97%E3%81%A6%E3%81%BE%E3%81%99"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『Sランクモンスターの《ベヒーモス》だけど、猫と間違われてエルフ娘の騎士として暮らしてます』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "volumeCount": 14
+  },
+  {
+    "id": "itsukatifanidechoushokuo",
+    "title": "いつかティファニーで朝食を",
+    "titleKana": "いつかてぃふぁにーでちょうしょくを",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "makihirochi"
+    ],
+    "publisherId": "shinchosha",
+    "labelId": "monthly-comic-at-bunch",
+    "themeIds": [
+      "gourmet",
+      "romance",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2012,
+    "status": "completed",
+    "synopsis": "同棲相手と別れた二十八歳のOL・佐藤麻里子は、理想の朝食を求めて新しい生活を始める。上京してきた高校時代の友人たちと店を巡りながら、それぞれが次のライフステージへ進んでいくのを見つめていく。結婚と仕事に揺れる三十歳前後の女性たちを描いた作品である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%84%E3%81%A4%E3%81%8B%E3%83%86%E3%82%A3%E3%83%95%E3%82%A1%E3%83%8B%E3%83%BC%E3%81%A7%E6%9C%9D%E9%A3%9F%E3%82%92"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『いつかティファニーで朝食を』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2019,
+    "volumeCount": 14
+  },
+  {
+    "id": "ill-manga",
+    "title": "I'll",
+    "titleKana": "あいる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "asada-hiroyuki"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "monthly-shonen-jump",
+    "themeIds": [
+      "sports",
+      "school"
+    ],
+    "firstPublishedYear": 1995,
+    "status": "completed",
+    "synopsis": "バスケの退屈さに呆れて部を離れた立花茜と、家の期待から逃げた柊仁成。偶然同じ高校に進学した二人は、その才能を見込んだ監督に誘われ、弱小バスケ部へ入る。やりたい者とやりたくない者が混ざった部の三年間を、繊細な筆致で描いた学園スポーツ漫画である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/I%27ll"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『I'll』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2004,
+    "volumeCount": 14
+  },
+  {
+    "id": "kiminotamenarashineru",
+    "title": "姫のためなら死ねる",
+    "titleKana": "きみのためならしねる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kuzushiro"
+    ],
+    "publisherId": "takeshobo",
+    "labelId": "manga-life-win",
+    "themeIds": [
+      "historical",
+      "comedy",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "平安時代、文才を持て余して日記ばかり書いていた清少納言は、友人の薦めで中宮定子に女房として仕えることになる。引きこもり気質の彼女と、外の世界を知らない定子が出会い、互いの世界を広げていく。『枕草子』の成立を下敷きにした四コマコメディである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%A7%AB%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AA%E3%82%89%E6%AD%BB%E3%81%AD%E3%82%8B"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『姫のためなら死ねる』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2024,
+    "volumeCount": 14
+  },
+  {
+    "id": "sekainoowarinoankoru",
+    "title": "世界の終わりの世界録",
+    "titleKana": "せかいのおわりのあんこーる",
+    "originalAuthorIds": [
+      "sazane-kei"
+    ],
+    "artistIds": [
+      "amamizu-ryu"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "comic-alive",
+    "themeIds": [
+      "isekai",
+      "adventure",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2015,
+    "status": "ongoing",
+    "synopsis": "終焉戦争を鎮めた英勇の生き写しと言われながら、力も才能も伴わず「偽英勇」と侮られる少年レン。彼はある日、三百年前に戦死したはずの竜姫キリシェと出会う。英雄の遺した記録を求めて旅する時代を舞台に、名ばかりの少年が本物になっていく冒険ファンタジーである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E3%81%AE%E7%B5%82%E3%82%8F%E3%82%8A%E3%81%AE%E4%B8%96%E7%95%8C%E9%8C%B2"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『世界の終わりの世界録』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2021,
+    "volumeCount": 14
+  },
+  {
+    "id": "yuushapatinikawaiikogaitanodekokuhakushi",
+    "title": "勇者パーティーにかわいい子がいたので、告白してみた。",
+    "titleKana": "ゆうしゃぱーてぃーにかわいいこがいたのでこくはくしてみた",
+    "originalAuthorIds": [
+      "suisei"
+    ],
+    "artistIds": [
+      "umiri"
+    ],
+    "publisherId": "futabasha",
+    "labelId": "manga-gaugau",
+    "themeIds": [
+      "isekai",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2021,
+    "status": "ongoing",
+    "synopsis": "異世界転生でチート級の力を得た魔族の瀬川陽樹は、魔王城で勇者パーティを迎え撃つ役目に就いていた。だが対峙した僧侶セシリアに一目惚れして告白し、あえなく振られてしまう。人間として生き直し、再び振り向いてもらおうと奮闘する異世界ラブコメディである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%8B%87%E8%80%85%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%81%AB%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E5%AD%90%E3%81%8C%E3%81%84%E3%81%9F%E3%81%AE%E3%81%A7%E3%80%81%E5%91%8A%E7%99%BD%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F%E3%80%82"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『勇者パーティーにかわいい子がいたので、告白してみた。』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "volumeCount": 14
+  },
+  {
+    "id": "kugutsushirin",
+    "title": "傀儡師リン",
+    "titleKana": "くぐつしりん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "wada-shinji"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "mystery-bonita",
+    "themeIds": [
+      "dark-fantasy",
+      "detective-mystery",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "synopsis": "人形を操る「傀儡師」の家に生まれた鹿嶋リンは、姉と祖父の死を受けてドイツから帰国する。流派を継いだ彼女は、二人を殺して人形を奪った疑いのある元弟子と対決していく。人形という道具を武器に据えた、和洋折衷の伝奇アクションである。人形それぞれに固有の能力があり、操り手の技量が勝敗を分ける構成である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%82%80%E5%84%A1%E5%B8%AB%E3%83%AA%E3%83%B3"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『傀儡師リン』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2011,
+    "volumeCount": 14
+  },
+  {
+    "id": "youkaishoujomonsuga",
+    "title": "妖怪少女 -モンスガ-",
+    "titleKana": "ようかいしょうじょもんすが",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "funatsukazuki"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "young-jump",
+    "themeIds": [
+      "dark-fantasy",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2014,
+    "status": "completed",
+    "synopsis": "強い霊感を持つフリーターの西水流八喜は、秋葉原で出会った美少女がろくろ首の妖怪だと知る。彼女との関わりから、八喜は妖怪たちが起こす騒動に次々と巻き込まれていく。妖怪を題材にお色気とバトルを掛け合わせた、青年誌のラブコメディである。妖怪ごとの生態を設定に落とし込み、バトルの見せ場につなげている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%A6%96%E6%80%AA%E5%B0%91%E5%A5%B3_-%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%AC-"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『妖怪少女 -モンスガ-』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2017,
+    "volumeCount": 14
+  },
+  {
+    "id": "tengokunosusume",
+    "title": "天国のススメ!",
+    "titleKana": "てんごくのすすめ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "miyanari-gaku"
+    ],
+    "publisherId": "houbunsha",
+    "labelId": "manga-home",
+    "themeIds": [
+      "comedy",
+      "slice-of-life",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "天国から地上へ降りてきた者たちと、人間たちが噛み合わないまま隣り合って暮らしていく四コマ漫画。宗教的な設定を軽々と扱いながら、脱力した笑いへ落としていく。十五年にわたって芳文社の四コマ誌で描き継がれた長寿作品である。天使や悪魔の設定を日常へ持ち込み、噛み合わなさだけで笑いを作り続けた。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%A4%A9%E5%9B%BD%E3%81%AE%E3%82%B9%E3%82%B9%E3%83%A1%21"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『天国のススメ!』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2024,
+    "volumeCount": 14
+  },
+  {
+    "id": "chichihaeiyuuhahahaseireimusumenowatashi",
+    "title": "父は英雄、母は精霊、娘の私は転生者。",
+    "titleKana": "ちちはえいゆうはははせいれいむすめのわたしはてんせいしゃ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "oohori-yutaka"
+    ],
+    "publisherId": "square-enix",
+    "labelId": "monthly-big-gangan",
+    "themeIds": [
+      "isekai",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2018,
+    "status": "ongoing",
+    "synopsis": "日本の科学者だった主人公は、英雄と精霊の女王の間に生まれた娘エレンとして転生する。八歳で人間界を訪れた彼女は、父の実家をめぐる問題に巻き込まれていく。前世の知識と精霊の力を合わせて家族を守っていく、異世界転生ファンタジーである。精霊界と人間界を行き来する構成で、両方の価値観の違いが描かれる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%88%B6%E3%81%AF%E8%8B%B1%E9%9B%84%E3%80%81%E6%AF%8D%E3%81%AF%E7%B2%BE%E9%9C%8A%E3%80%81%E5%A8%98%E3%81%AE%E7%A7%81%E3%81%AF%E8%BB%A2%E7%94%9F%E8%80%85%E3%80%82"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『父は英雄、母は精霊、娘の私は転生者。』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "volumeCount": 14
+  },
+  {
+    "id": "baiogutoriniti",
+    "title": "バイオーグ・トリニティ",
+    "titleKana": "ばいおーぐとりにてぃ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "oogure-ito",
+      "maijou-outarou"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "ultra-jump",
+    "themeIds": [
+      "sci-fi",
+      "battle-action",
+      "ero-guro"
+    ],
+    "firstPublishedYear": 2013,
+    "status": "completed",
+    "synopsis": "両手に穴が空く「バグ」を持つ者たちは、その穴に物質を吸収して融合する能力を持つ。だが同族を吸収して穴を増やす違法な存在「バイオーグ」も現れ、彼らを狩る者たちとの戦いが続いていた。小説家が原作を手がけた、過剰な描写のサイエンスファンタジーである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%A4%E3%82%AA%E3%83%BC%E3%82%B0%E3%83%BB%E3%83%88%E3%83%AA%E3%83%8B%E3%83%86%E3%82%A3"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『バイオーグ・トリニティ』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2018,
+    "volumeCount": 14
+  },
+  {
+    "id": "shachikusanhayoujoyuureiniiyasaretai",
+    "title": "社畜さんは幼女幽霊に癒されたい。",
+    "titleKana": "しゃちくさんはようじょゆうれいにいやされたい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "arita-imari"
+    ],
+    "publisherId": "square-enix",
+    "labelId": "gangan-monthly",
+    "themeIds": [
+      "comedy",
+      "dark-fantasy",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2019,
+    "status": "completed",
+    "synopsis": "夜遅くまで会社に残り続ける社畜の伏原さんのもとに、彼を心配して家に帰らせようとする幼い幽霊たちが現れる。だが伏原さんは彼女たちの気遣いに気づかないまま働き続ける。SNS発の連作から商業連載へ育った、脱力した癒し系のコメディである。幽霊たちの空回りが積み重なるほど、働きすぎの異常さが浮かび上がる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%A4%BE%E7%95%9C%E3%81%95%E3%82%93%E3%81%AF%E5%B9%BC%E5%A5%B3%E5%B9%BD%E9%9C%8A%E3%81%AB%E7%99%92%E3%81%95%E3%82%8C%E3%81%9F%E3%81%84%E3%80%82"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『社畜さんは幼女幽霊に癒されたい。』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2026,
+    "volumeCount": 14
+  },
+  {
+    "id": "kawasemisannotsurigohan",
+    "title": "カワセミさんの釣りごはん",
+    "titleKana": "かわせみさんのつりごはん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "masanoshita-kiyomasa"
+    ],
+    "publisherId": "futabasha",
+    "labelId": "monthly-action",
+    "themeIds": [
+      "gourmet",
+      "slice-of-life",
+      "school"
+    ],
+    "firstPublishedYear": 2019,
+    "status": "completed",
+    "synopsis": "福岡へ引っ越してきた内気な少年・白梨翡翠は、クラスメイトに強引に釣りへ連れ出される。その場で釣った魚を調理したことをきっかけに、二人は釣りと料理を通じて親友になっていく。釣りの手順と調理を丁寧に描いた、地方を舞台にした料理漫画である。実在の釣り場と魚種が丁寧に描かれ、地方の食文化にも踏み込んでいる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AF%E3%82%BB%E3%83%9F%E3%81%95%E3%82%93%E3%81%AE%E9%87%A3%E3%82%8A%E3%81%94%E3%81%AF%E3%82%93"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『カワセミさんの釣りごはん』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2026,
+    "volumeCount": 14
+  },
+  {
+    "id": "mikanenikki",
+    "title": "みかん絵日記",
+    "titleKana": "みかんえにっき",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "abiko-miwa"
+    ],
+    "publisherId": "hakusensha",
+    "labelId": "lala",
+    "themeIds": [
+      "animal",
+      "comedy",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 1988,
+    "status": "completed",
+    "synopsis": "言葉を話せる猫「みかん」と、彼を取り巻く人々の穏やかな日々を描いた作品。宮城県の地方都市を舞台に、家族や近所の人々との関わりが積み重ねられていく。猫の視点を通して、地方の暮らしと季節の移ろいを丁寧にすくい取ったファミリー漫画である。猫が言葉を話すという一点以外は、徹底して普通の生活が描かれる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%BF%E3%81%8B%E3%82%93%E7%B5%B5%E6%97%A5%E8%A8%98"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『みかん絵日記』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 1995,
+    "volumeCount": 14
+  },
+  {
+    "id": "harumatsubokura",
+    "title": "春待つ僕ら",
+    "titleKana": "はるまつぼくら",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "anashin"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "dessert",
+    "themeIds": [
+      "romance",
+      "sports",
+      "school"
+    ],
+    "firstPublishedYear": 2014,
+    "status": "completed",
+    "synopsis": "周囲と上辺で付き合ってきた春野美月は、アルバイト先で「バスケ部イケメン四天王」と呼ばれる四人組と知り合う。人違いの告白をきっかけに交流が始まり、彼女は自分を変えようと踏み出していく。バスケットボールを背景にした学園恋愛漫画である。四人それぞれの事情が明かされるにつれ、主人公の変化も加速していく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%98%A5%E5%BE%85%E3%81%A4%E5%83%95%E3%82%89"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『春待つ僕ら』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2019,
+    "volumeCount": 14
+  },
+  {
+    "id": "ikkyuusan",
+    "title": "一球さん",
+    "titleKana": "いっきゅうさん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mizushima-shinji"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "sports",
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 1975,
+    "status": "completed",
+    "synopsis": "巨人学園高校の野球部に、忍者の子孫である真田一球が突然入部してくる。驚異的な身体能力を持ちながら野球のルールをまったく知らない彼が、破天荒なプレーで大波乱を巻き起こす。『男どアホウ甲子園』の直接の続編にあたる野球漫画である。忍術としか思えないプレーの数々が、真面目な野球描写と同居している。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E4%B8%80%E7%90%83%E3%81%95%E3%82%93"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『一球さん』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 1977,
+    "volumeCount": 14
+  },
+  {
+    "id": "hanibita",
+    "title": "Honey Bitter",
+    "titleKana": "はにーびたー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "obana-miho"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "cookie",
+    "themeIds": [
+      "detective-mystery",
+      "romance",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "人の心を読めてしまうため周囲から気味悪がられてきた珠里は、叔母の探偵事務所で調査員として働き始める。だが新入社員として現れたのは、かつて彼女を深く傷つけた元恋人だった。読心という能力を軸に、人間関係の痛みを描いていく女性向けミステリーである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Honey_Bitter"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『Honey Bitter』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2019,
+    "volumeCount": 14
+  },
+  {
+    "id": "anpaiadomitori",
+    "title": "ヴァンパイア男子寮",
+    "titleKana": "ゔぁんぱいあどみとりー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tooyamaema"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "nakayoshi",
+    "themeIds": [
+      "romance",
+      "dark-fantasy",
+      "school"
+    ],
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "訳あって男子として吸血鬼の男子寮に身を寄せることになった少女が、正体を隠したまま彼らと共同生活を送る。血を求める彼らに囲まれながら、彼女は次第に一人の相手へ惹かれていく。性別を偽る設定を軸にした、少女向けの吸血鬼ラブコメディである。性別を偽っているという緊張が、恋の進展そのものを難しくしていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A1%E3%83%B3%E3%83%91%E3%82%A4%E3%82%A2%E7%94%B7%E5%AD%90%E5%AF%AE"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ヴァンパイア男子寮』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2024,
+    "volumeCount": 14
+  },
+  {
+    "id": "inugami",
+    "title": "犬神",
+    "titleKana": "いぬがみ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hokazono-masaya"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "afternoon",
+    "themeIds": [
+      "sci-fi",
+      "animal",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1996,
+    "status": "completed",
+    "synopsis": "詩を愛する少年・史樹のもとに、一匹の不思議な犬が現れる。「23」と呼ばれるその犬をめぐって、軍や研究機関などさまざまな思惑が交錯していく。人と動物の境界を揺さぶりながら、暴力と情を同時に描いていくSF作品である。軍事利用をめぐる思惑が絡み、犬と少年の関係は次第に追い詰められていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%8A%AC%E7%A5%9E_%28%E6%BC%AB%E7%94%BB%29"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『犬神 (漫画)』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2002,
+    "volumeCount": 14
+  },
+  {
+    "id": "koroshiai",
+    "title": "殺し愛",
+    "titleKana": "ころしあい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "efui"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "monthly-comic-gene",
+    "themeIds": [
+      "battle-action",
+      "romance",
+      "crime-underworld"
+    ],
+    "firstPublishedYear": 2015,
+    "status": "completed",
+    "synopsis": "賞金稼ぎのシャトー・ダンクワースは、凄腕の殺し屋ソン・リャンハに圧倒されるが、彼が求めたのは彼女の連絡先だった。互いの過去と正体を探り合いながら、二人は奇妙な関係を続けていく。暴力と恋愛を同居させた、抑制の効いたラブサスペンスである。互いに手の内を明かさないまま続く関係が、緊張と可笑しさを同時に生む。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%AE%BA%E3%81%97%E6%84%9B"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『殺し愛』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2023,
+    "volumeCount": 14
+  },
+  {
+    "id": "jingaisannoyome",
+    "title": "人外さんの嫁",
+    "titleKana": "じんがいさんのよめ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yatsusaka-akio",
+      "aikawayuu"
+    ],
+    "publisherId": "ichijinsha",
+    "labelId": "zerosum-online",
+    "themeIds": [
+      "comedy",
+      "romance",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2016,
+    "status": "completed",
+    "synopsis": "ごく普通の男子高校生・日ノ輪泊は、ある日突然「カネノギさん」と呼ばれる不思議な生き物の結婚相手に指名される。戸惑いながらも同居を始めた彼は、同じ境遇の「嫁仲間」たちとも出会っていく。人ならざる者との結婚生活を穏やかに描いた四コマ作品である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E4%BA%BA%E5%A4%96%E3%81%95%E3%82%93%E3%81%AE%E5%AB%81"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『人外さんの嫁』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2022,
+    "volumeCount": 14
+  },
+  {
+    "id": "resubatoarashi",
+    "title": "レース鳩0777",
+    "titleKana": "れーすばとあらし",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "iimori-kouichi"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "shonen-champion",
+    "themeIds": [
+      "animal",
+      "sports",
+      "adventure"
+    ],
+    "firstPublishedYear": 1978,
+    "status": "completed",
+    "synopsis": "少年・森山次郎は、空から落ちてきた名鳩を介抱したことをきっかけに、その子であるアラシ号を託される。相棒とともに鳩レースに挑む彼は、出会いと別れを重ねながら鳩レーサーとして成長していく。競技鳩という珍しい題材を扱った動物漫画である。鳩の帰巣本能やレースの仕組みが具体的に説明され、競技の奥行きを伝える。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%BC%E3%82%B9%E9%B3%A90777"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『レース鳩0777』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 1980,
+    "volumeCount": 14
+  },
+  {
+    "id": "wazatomiseterukamoisan",
+    "title": "わざと見せてる? 加茂井さん。",
+    "titleKana": "わざとみせてるかもいさん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "emu-dot"
+    ],
+    "publisherId": "futabasha",
+    "labelId": "monthly-action",
+    "themeIds": [
+      "romance",
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "教室で目立たない須藤靖幸は、隣の席の派手なギャル・加茂井由紀に、漫画を描いている姿を見られてしまう。それをきっかけに話すようになった二人は、無防備すぎる彼女の距離感に振り回されながら親しくなっていく。距離の詰め方だけで進む学園コメディである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%8F%E3%81%96%E3%81%A8%E8%A6%8B%E3%81%9B%E3%81%A6%E3%82%8B%3F_%E5%8A%A0%E8%8C%82%E4%BA%95%E3%81%95%E3%82%93%E3%80%82"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『わざと見せてる? 加茂井さん。』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2024,
+    "volumeCount": 14
+  },
+  {
+    "id": "kiseijuuisuzune",
+    "title": "寄性獣医・鈴音",
+    "titleKana": "きせいじゅういすずね",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "haruki"
+    ],
+    "publisherId": "takeshobo",
+    "labelId": "monthly-kissca",
+    "themeIds": [
+      "sci-fi",
+      "ero-guro",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "寄性獣医の有薗鈴音は、催淫作用を引き起こす謎の寄生生物を回収し殲滅する任務に就いている。その背後にいる巨大企業との戦いに、彼女は身を投じていく。成人向け寄りの描写を伴いながら、十六年にわたって描き継がれたSFアクションである。獣医としての知識と戦闘が結び付けられ、独特の設定が組み上げられている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%AF%84%E6%80%A7%E7%8D%A3%E5%8C%BB%E3%83%BB%E9%88%B4%E9%9F%B3"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『寄性獣医・鈴音』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2021,
+    "volumeCount": 14
+  },
+  {
+    "id": "mausu",
+    "title": "MOUSE",
+    "titleKana": "まうす",
+    "originalAuthorIds": [
+      "akahorisatoru"
+    ],
+    "artistIds": [
+      "itaba-hiroshi"
+    ],
+    "publisherId": "hakusensha",
+    "labelId": "young-animal",
+    "themeIds": [
+      "comedy",
+      "romance",
+      "school"
+    ],
+    "firstPublishedYear": 1999,
+    "status": "completed",
+    "synopsis": "私立高校の非常勤講師・無音宙太は、狙った獲物を必ず盗み出す大泥棒「マウス」でもあった。三人の押しかけ助手を引き連れ、彼は「芸術的な盗み」に挑み続ける。怪盗ものの体裁を借りながら、お色気とギャグに軸足を置いた青年誌のコメディである。盗みの計画そのものより、その周辺の騒動に紙面が割かれる構成である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/MOUSE_%28%E6%BC%AB%E7%94%BB%29"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『MOUSE (漫画)』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2004,
+    "volumeCount": 14
+  },
+  {
+    "id": "enzerubankudoragonzakuragaiden",
+    "title": "エンゼルバンク-ドラゴン桜外伝-",
+    "titleKana": "えんぜるばんくどらごんざくらがいでん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mita-norifusa"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning",
+    "themeIds": [
+      "business",
+      "workplace-drama",
+      "school"
+    ],
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "高校の英語教師から転職代理人に転じた主人公が、カリスマ代理人のもとで求職者たちと向き合っていく。転職市場の仕組みや企業側の論理を具体的に説きながら、働き方そのものを問い直す。『ドラゴン桜』の登場人物を引き継いだ、社会人向けの外伝である。実在の人材コンサルタントをモデルに据え、具体的な助言が数多く登場する。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%B3%E3%82%BC%E3%83%AB%E3%83%90%E3%83%B3%E3%82%AF-%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E6%A1%9C%E5%A4%96%E4%BC%9D-"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『エンゼルバンク-ドラゴン桜外伝-』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2010,
+    "volumeCount": 14
+  },
+  {
+    "id": "berubettobururozu",
+    "title": "V・B・ローズ",
+    "titleKana": "べるべっとぶるーろーず",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hidaka-banri"
+    ],
+    "publisherId": "hakusensha",
+    "labelId": "hana-to-yume",
+    "themeIds": [
+      "romance",
+      "arts",
+      "school"
+    ],
+    "firstPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "小物作りが大好きな高校生・城井あげはは、姉の結婚に複雑な思いを抱えていた。そんなとき、彼女の手作りバッグを見た美男子二人組が、身近な人しか知らないはずの言葉を口にする。デザインとものづくりを軸に据えた、少女向けの恋愛漫画である。ものづくりの喜びと、家族への複雑な感情が並走して描かれていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/V%E3%83%BBB%E3%83%BB%E3%83%AD%E3%83%BC%E3%82%BA"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『V・B・ローズ』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2009,
+    "volumeCount": 14
+  },
+  {
+    "id": "shinkidousenkigandamuuinguendoresuwaruts",
+    "title": "新機動戦記ガンダムW Endless Waltz 敗者たちの栄光",
+    "titleKana": "しんきどうせんきがんだむういんぐえんどれすわるつはいしゃたちのえいこう",
+    "originalAuthorIds": [
+      "yatate-hajime",
+      "tomino-yoshiyuki",
+      "sumisawa-katsuyuki"
+    ],
+    "artistIds": [
+      "ogasawara-tomofumi"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "gundam-ace",
+    "themeIds": [
+      "sci-fi",
+      "war-military",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "『新機動戦記ガンダムW』とその後日譚を、原作シナリオライター自身の構成で描き直した作品。テレビシリーズでは語られなかった各キャラクターの過去や心情が補われ、戦いの意味が問い直されていく。公式の再解釈として位置づけられた宇宙世紀外のガンダム漫画である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%96%B0%E6%A9%9F%E5%8B%95%E6%88%A6%E8%A8%98%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0W_Endless_Waltz_%E6%95%97%E8%80%85%E3%81%9F%E3%81%A1%E3%81%AE%E6%A0%84%E5%85%89"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『新機動戦記ガンダムW Endless Waltz 敗者たちの栄光』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2018,
+    "volumeCount": 14
   }
 ]

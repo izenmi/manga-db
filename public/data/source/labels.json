@@ -3776,5 +3776,25 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "manga-gaugau",
+    "name": "マンガがうがう",
+    "nameKana": "まんががうがう",
+    "publisherId": "futabasha",
+    "description": "双葉社が運営するWebコミック配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "zerosum-online",
+    "name": "ゼロサムオンライン",
+    "nameKana": "ぜろさむおんらいん",
+    "publisherId": "ichijinsha",
+    "description": "一迅社が運営するWebコミック配信サイト。コミックZERO-SUMの姉妹媒体。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
