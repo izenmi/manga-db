@@ -606,13 +606,15 @@ def cmd_build(args):
         for p in r["new_people"]:
             if p["id"] not in final_people:
                 continue
-            if p["id"] in seen_person or p["id"] in known[p["kind"]]:
+            # 同一人物が原作者と作画家の両方を兼ねることがある(『Destiny Unchain
+            # Online』のヤチモト)。kind ごとに登録済みを数える
+            if (p["kind"], p["id"]) in seen_person or p["id"] in known[p["kind"]]:
                 continue
             if not p["id"] or p["id"].startswith("needkana") or not p["kana"]:
                 problems.append(f"n={a['n']} {r['title']}: 新規人物 {p['name']} の読みが取れない"
                                 f'(annotに "people":{{"{p["name"]}":{{"kana":"…","id":"…"}}}} を足す)')
                 break
-            seen_person.add(p["id"])
+            seen_person.add((p["kind"], p["id"]))
             rec = {"id": p["id"], "name": p["name"], "nameKana": p["kana"],
                    "description": "漫画を手がける漫画家。" if p["kind"] == "ar" else "漫画の原作を手がける。",
                    "externalLinks": {},

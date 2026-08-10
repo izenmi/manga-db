@@ -78723,7 +78723,7 @@
     "artistIds": [
       "kouga-yun"
     ],
-    "publisherId": "ichijinsha",
+    "publisherId": "square-enix",
     "labelId": "g-fantasy",
     "themeIds": [
       "dark-fantasy",
@@ -78817,7 +78817,7 @@
     "artistIds": [
       "dubu"
     ],
-    "publisherId": "dnc-media",
+    "publisherId": "kidari-studio",
     "labelId": "kakao-page",
     "themeIds": [
       "battle-action",
@@ -79290,6 +79290,102 @@
     "sourceNote": "日本語版Wikipedia『タブー・タトゥー』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-10",
     "latestPublishedYear": 2017,
+    "volumeCount": 13
+  },
+  {
+    "id": "disutiniancheinonrainkyuuketsukishoujoto",
+    "title": "Destiny Unchain Online 〜吸血鬼少女となって、やがて『赤の魔王』と呼ばれるようになりました〜",
+    "titleKana": "でぃすてぃにーあんちぇいんおんらいんきゅうけつきしょうじょとなってやがてあかのまおうとよばれるようになりました",
+    "originalAuthorIds": [
+      "resn",
+      "yachimoto-artist"
+    ],
+    "artistIds": [
+      "yachimoto-artist"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "magazine-pocket",
+    "themeIds": [
+      "isekai",
+      "yuri",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2022,
+    "status": "ongoing",
+    "synopsis": "新型のVR機器のテスターとして最新のVRMMOにログインした少年・満月紅は、吸血鬼の少女アバターで固定されてしまう。戸惑いながらも彼女はゲーム内で頭角を現し、やがて「赤の魔王」と恐れられる存在になっていく。性別の入れ替わりを軸にしたゲーム世界の物語である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Destiny_Unchain_Online_%E3%80%9C%E5%90%B8%E8%A1%80%E9%AC%BC%E5%B0%91%E5%A5%B3%E3%81%A8%E3%81%AA%E3%81%A3%E3%81%A6%E3%80%81%E3%82%84%E3%81%8C%E3%81%A6%E3%80%8E%E8%B5%A4%E3%81%AE%E9%AD%94%E7%8E%8B%E3%80%8F%E3%81%A8%E5%91%BC%E3%81%B0%E3%82%8C%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E3%80%9C"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『Destiny Unchain Online 〜吸血鬼少女となって、やがて『赤の魔王』と呼ばれるようになりました〜』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "volumeCount": 13
+  },
+  {
+    "id": "seikokunodoraguna",
+    "title": "星刻の竜騎士",
+    "titleKana": "せいこくのどらぐなー",
+    "originalAuthorIds": [
+      "mizuchi-shiki"
+    ],
+    "artistIds": [
+      "ran-artist"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "comic-alive",
+    "themeIds": [
+      "dark-fantasy",
+      "school",
+      "romance"
+    ],
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "竜を飼う国の騎竜学院に通うアッシュ・ブレイクは、才能を持ちながら相棒の竜が生まれず問題児扱いされていた。だが崖から転落した際、彼の星刻から人間の少女の姿をした竜が誕生する。強気な竜娘と少年の関係を軸にした、学園ファンタジーである。竜と騎士の契約という設定が、そのまま二人の距離感を規定していく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%98%9F%E5%88%BB%E3%81%AE%E7%AB%9C%E9%A8%8E%E5%A3%AB"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『星刻の竜騎士』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2017,
+    "volumeCount": 13
+  },
+  {
+    "id": "feitoekusutorashishishi",
+    "title": "Fate/EXTRA CCC",
+    "titleKana": "ふぇいとえくすとらしーしーしー",
+    "originalAuthorIds": [
+      "type-moon",
+      "maberasuentateimento"
+    ],
+    "artistIds": [
+      "takenokoseijin"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "comp-ace",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action",
+      "school"
+    ],
+    "firstPublishedYear": 2013,
+    "status": "ongoing",
+    "synopsis": "月の裏側の領域に閉じ込められたマスターとサーヴァントたちが、脱出のために協力し合う。聖杯戦争の本戦から外れた場所を舞台に、それぞれの願いと歪みが露わになっていく。同名のゲームを原作とした、『フェイト』シリーズの派生作品である。原作ゲームの分岐や設定を踏まえつつ、漫画としての再構成が加えられている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Fate/EXTRA_CCC"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『Fate/EXTRA CCC』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
     "volumeCount": 13
   }
 ]
