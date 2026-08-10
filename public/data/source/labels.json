@@ -6556,5 +6556,75 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "comic-nora",
+    "name": "月刊コミックNORA",
+    "nameKana": "げっかんこみっくのーら",
+    "publisherId": "gakken",
+    "description": "学習研究社が発行していた漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "monthly-shonen-comic",
+    "name": "月刊少年コミック",
+    "nameKana": "げっかんしょうねんこみっく",
+    "publisherId": "shonen-gahosha",
+    "description": "少年画報社が発行していた漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "bokura",
+    "name": "ぼくら",
+    "nameKana": "ぼくら",
+    "publisherId": "kodansha",
+    "description": "講談社が発行していた少年漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "monthly-shonen-fang",
+    "name": "月刊少年ファング",
+    "nameKana": "げっかんしょうねんふぁんぐ",
+    "publisherId": "leed-sha",
+    "description": "リイド社が発行していた少年漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "comic-genki",
+    "name": "コミックGENKi",
+    "nameKana": "こみっくげんき",
+    "publisherId": "kadokawa-shoten",
+    "description": "角川書店が発行していた漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "sd-club",
+    "name": "SDクラブ",
+    "nameKana": "えすでぃーくらぶ",
+    "publisherId": "bandai",
+    "description": "バンダイが発行していた玩具企画の情報誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "manga-action-zoukan",
+    "name": "漫画アクション増刊",
+    "nameKana": "まんがあくしょんぞうかん",
+    "publisherId": "futabasha",
+    "description": "双葉社が発行していた漫画アクションの増刊誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
