@@ -5976,5 +5976,45 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "comic-yurihime-s",
+    "name": "コミック百合姫S",
+    "nameKana": "こみっくゆりひめえす",
+    "publisherId": "ichijinsha",
+    "description": "一迅社が発行していた女性向け漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "comic-be",
+    "name": "COMIC Be",
+    "nameKana": "こみっくびー",
+    "publisherId": "fusion-product",
+    "description": "ふゅーじょんぷろだくとが発行する漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "big-comic-zoukan",
+    "name": "ビッグコミック増刊号",
+    "nameKana": "びっぐこみっくぞうかんごう",
+    "publisherId": "shogakukan",
+    "description": "小学館が発行するビッグコミックの増刊誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "tsukihime-comic-anthology",
+    "name": "月姫コミックアンソロジー",
+    "nameKana": "つきひめこみっくあんそろじー",
+    "publisherId": "ichijinsha",
+    "description": "一迅社が刊行していた作品別のアンソロジー誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
