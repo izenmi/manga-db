@@ -5446,5 +5446,45 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "megami-magazine",
+    "name": "メガミマガジン",
+    "nameKana": "めがみまがじん",
+    "publisherId": "gakken",
+    "description": "学習研究社が刊行する美少女キャラクター誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "story-na-onnatachi",
+    "name": "ストーリーな女たち",
+    "nameKana": "すとーりーなおんなたち",
+    "publisherId": "bunkasha",
+    "description": "ぶんか社が刊行する女性向け漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "ananga-ranga",
+    "name": "アナンガ・ランガ",
+    "nameKana": "あなんがらんが",
+    "publisherId": "katts",
+    "description": "成人向けの漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "mechacomi-original",
+    "name": "めちゃコミックオリジナル",
+    "nameKana": "めちゃこみっくおりじなる",
+    "publisherId": "taiseisha",
+    "description": "電子漫画配信サイトのオリジナル作品枠。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
