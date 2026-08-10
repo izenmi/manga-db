@@ -4266,5 +4266,25 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "dokodemo-young-champion",
+    "name": "どこでもヤングチャンピオン",
+    "nameKana": "どこでもやんぐちゃんぴおん",
+    "publisherId": "akita-shoten",
+    "description": "秋田書店が運営するウェブ漫画配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "club-sunday",
+    "name": "クラブサンデー",
+    "nameKana": "くらぶさんでー",
+    "publisherId": "shogakukan",
+    "description": "小学館が運営していたウェブ漫画配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
