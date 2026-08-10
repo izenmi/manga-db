@@ -5026,5 +5026,65 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "bessatsu-young-magazine",
+    "name": "別冊ヤングマガジン",
+    "nameKana": "べっさつやんぐまがじん",
+    "publisherId": "kodansha",
+    "description": "講談社が刊行していた青年漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "manga-grimm-douwa",
+    "name": "まんがグリム童話",
+    "nameKana": "まんがぐりむどうわ",
+    "publisherId": "bunkasha",
+    "description": "ぶんか社が刊行する女性向け漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "riido-comic",
+    "name": "リイドコミック",
+    "nameKana": "りいどこみっく",
+    "publisherId": "leed-sha",
+    "description": "リイド社が刊行していた劇画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "shukan-pre-news",
+    "name": "週プレNEWS",
+    "nameKana": "しゅうぷれにゅーす",
+    "publisherId": "shueisha",
+    "description": "集英社が運営するニュースサイト。漫画も連載された。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "monthly-bushiroad",
+    "name": "月刊ブシロード",
+    "nameKana": "げっかんぶしろーど",
+    "publisherId": "bushiroad-media",
+    "description": "ブシロード系列が刊行する情報誌。漫画も連載する。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "asuka-fantasy-dx",
+    "name": "ASUKAファンタジーDX",
+    "nameKana": "あすかふぁんたじーでらっくす",
+    "publisherId": "kadokawa-shoten",
+    "description": "角川書店が刊行していた漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
