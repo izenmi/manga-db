@@ -78470,5 +78470,826 @@
     "updatedAt": "2026-08-10",
     "latestPublishedYear": 2018,
     "volumeCount": 14
+  },
+  {
+    "id": "afuminoumiminamogayurerutoki",
+    "title": "淡海乃海 水面が揺れる時",
+    "titleKana": "あふみのうみみなもがゆれるとき",
+    "originalAuthorIds": [
+      "isurafiru",
+      "midorifuu"
+    ],
+    "artistIds": [
+      "motomuraeri"
+    ],
+    "publisherId": "tobooks",
+    "labelId": "comic-corona",
+    "themeIds": [
+      "historical",
+      "isekai",
+      "business"
+    ],
+    "firstPublishedYear": 2018,
+    "status": "ongoing",
+    "synopsis": "天文十九年、二歳にして近江の小領主・朽木家の当主となった少年は、前世の記憶を頼りに富国強兵と殖産興業を進めていく。将軍を庇護し三好家の圧力をしのぎながら、彼は戦国の勢力図そのものを書き換えていく。史実の年表に沿って進む、内政重視の歴史改変ファンタジーである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%B7%A1%E6%B5%B7%E4%B9%83%E6%B5%B7_%E6%B0%B4%E9%9D%A2%E3%81%8C%E6%8F%BA%E3%82%8C%E3%82%8B%E6%99%82"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『淡海乃海 水面が揺れる時』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "volumeCount": 13
+  },
+  {
+    "id": "toresukasoukenhouikenkyuuinnotsuisou",
+    "title": "トレース 科捜研法医研究員の追想",
+    "titleKana": "とれーすかそうけんほういけんきゅういんのついそう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "koga-kei"
+    ],
+    "publisherId": "coamix",
+    "labelId": "comic-zenon",
+    "themeIds": [
+      "medical",
+      "detective-mystery",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2016,
+    "status": "completed",
+    "synopsis": "小学生のときに家族を惨殺され、真相の解明を誓った真野礼二は、警視庁科学捜査研究所の法医研究員となっていた。科捜研のエースとして事件に向き合う一方、彼は二十三年前の真犯人を今も追い続けている。法医学の手続きを丁寧に描いた医療サスペンスである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B9_%E7%A7%91%E6%8D%9C%E7%A0%94%E6%B3%95%E5%8C%BB%E7%A0%94%E7%A9%B6%E5%93%A1%E3%81%AE%E8%BF%BD%E6%83%B3"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『トレース 科捜研法医研究員の追想』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2023,
+    "volumeCount": 13
+  },
+  {
+    "id": "nagekinoboureihaintaishitaisaijakuhantan",
+    "title": "嘆きの亡霊は引退したい 〜最弱ハンターによる最強パーティ育成術〜",
+    "titleKana": "なげきのぼうれいはいんたいしたいさいじゃくはんたーによるさいきょうぱーてぃいくせいじゅつ",
+    "originalAuthorIds": [
+      "tsukikage"
+    ],
+    "artistIds": [
+      "hebinorai"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "kadocomi",
+    "themeIds": [
+      "isekai",
+      "adventure",
+      "comedy"
+    ],
+    "firstPublishedYear": 2019,
+    "status": "ongoing",
+    "synopsis": "才能に恵まれなかったハンターのクライは、仲間を育てることだけに長けていた。彼が引退したい一心で下した判断が、ことごとく凄腕の采配と誤解され、いつしか最強パーティの頭目として崇められてしまう。本人の意図と周囲の評価がずれ続ける異世界コメディである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%98%86%E3%81%8D%E3%81%AE%E4%BA%A1%E9%9C%8A%E3%81%AF%E5%BC%95%E9%80%80%E3%81%97%E3%81%9F%E3%81%84_%E3%80%9C%E6%9C%80%E5%BC%B1%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E6%9C%80%E5%BC%B7%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E8%82%B2%E6%88%90%E8%A1%93%E3%80%9C"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『嘆きの亡霊は引退したい 〜最弱ハンターによる最強パーティ育成術〜』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "volumeCount": 13
+  },
+  {
+    "id": "tokiwakitareri",
+    "title": "トキワ来たれり!!",
+    "titleKana": "ときわきたれり",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "matsuena-syun"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "comedy",
+      "sci-fi",
+      "school"
+    ],
+    "firstPublishedYear": 2015,
+    "status": "completed",
+    "synopsis": "ブログ小説を書くのが趣味の平凡な高校生・八坂トキワの周囲には、忍者やヒューマノイドなど、主人公然とした人物ばかりが集まっていた。三人が同じ夢を見ていると判明したことで、退屈だった彼の日常は非日常へ転がり落ちていく。設定を重ねた学園コメディである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%AD%E3%83%AF%E6%9D%A5%E3%81%9F%E3%82%8C%E3%82%8A%21%21"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『トキワ来たれり!!』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2017,
+    "volumeCount": 13
+  },
+  {
+    "id": "otomegesekaihamobunikibishiisekaidesu",
+    "title": "乙女ゲー世界はモブに厳しい世界です",
+    "titleKana": "おとめげーせかいはもぶにきびしいせかいです",
+    "originalAuthorIds": [
+      "mishima-yomu"
+    ],
+    "artistIds": [
+      "shiosato-jun"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "dora-dora-sharp",
+    "themeIds": [
+      "isekai",
+      "comedy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "前世でプレイした乙女ゲームの世界に、男性モブとして転生したリオン。そこは女尊男卑の社会で、学園では在学中に結婚相手を見つけねばならなかった。理不尽な環境に辟易した彼が、ゲーム知識と手に入れた兵器で常識を覆していく異世界転生ファンタジーである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E4%B9%99%E5%A5%B3%E3%82%B2%E3%83%BC%E4%B8%96%E7%95%8C%E3%81%AF%E3%83%A2%E3%83%96%E3%81%AB%E5%8E%B3%E3%81%97%E3%81%84%E4%B8%96%E7%95%8C%E3%81%A7%E3%81%99"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『乙女ゲー世界はモブに厳しい世界です』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2024,
+    "volumeCount": 13
+  },
+  {
+    "id": "uinguman",
+    "title": "ウイングマン",
+    "titleKana": "ういんぐまん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "katsura-masakazu"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "sci-fi",
+      "battle-action",
+      "school"
+    ],
+    "firstPublishedYear": 1983,
+    "status": "completed",
+    "synopsis": "変身ヒーローに憧れる中学生・広野健太は、異空間から落ちてきた少女とノートを拾う。書いたことが現実になる「ドリムノート」に自作のヒーローを書き込んだ彼は、本物のウイングマンになってしまう。特撮への愛をそのまま形にした、少年向けSFアクションである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%9E%E3%83%B3"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ウイングマン』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 1985,
+    "volumeCount": 13
+  },
+  {
+    "id": "surousutato",
+    "title": "スロウスタート",
+    "titleKana": "すろうすたーと",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tokumiyuiko"
+    ],
+    "publisherId": "houbunsha",
+    "labelId": "manga-time-kirara",
+    "themeIds": [
+      "comedy",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2013,
+    "status": "ongoing",
+    "synopsis": "受験前日に病気で受験できず一年遅れて高校生となった一之瀬花名は、浪人したことを隠したまま新生活を始める。三人の友人に囲まれながら、彼女は打ち明けられない引け目を抱え続ける。ささやかな秘密を抱えた少女の日常を、穏やかに描いた四コマ作品である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AD%E3%82%A6%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『スロウスタート』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "volumeCount": 13
+  },
+  {
+    "id": "uragirihabokunonamaeoshitteiru",
+    "title": "裏切りは僕の名前を知っている",
+    "titleKana": "うらぎりはぼくのなまえをしっている",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "odagiri-hotaru"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "monthly-asuka",
+    "themeIds": [
+      "dark-fantasy",
+      "boys-love",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "触れた相手の感情を読み取る力を持つ高校生・桜井夕月の前に、どこか懐かしい美貌の青年ゼスが現れる。夕月は自分が特殊な力を持つ一族の人間であり、千年来の敵と戦う宿命にあることを知る。耽美な画風で描かれる、和洋折衷のダークファンタジーである。能力を持つ一族と悪魔の千年来の因縁が、少年の出自と重なっていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E8%A3%8F%E5%88%87%E3%82%8A%E3%81%AF%E5%83%95%E3%81%AE%E5%90%8D%E5%89%8D%E3%82%92%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『裏切りは僕の名前を知っている』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2017,
+    "volumeCount": 13
+  },
+  {
+    "id": "raburesu",
+    "title": "LOVELESS",
+    "titleKana": "らぶれす",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kouga-yun"
+    ],
+    "publisherId": "ichijinsha",
+    "labelId": "g-fantasy",
+    "themeIds": [
+      "dark-fantasy",
+      "boys-love",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2001,
+    "status": "completed",
+    "synopsis": "二年前に記憶を失った小学生・青柳立夏は、唯一の理解者だった兄を何者かに殺される。転校先で出会った「戦闘機」我妻草灯と組み、彼は言葉を武器とする「スペルバトル」で兄の死の真相へ迫っていく。名前と支配をめぐる設定を凝らしたサスペンスファンタジーである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/LOVELESS_%28%E9%AB%98%E6%B2%B3%E3%82%86%E3%82%93%E3%81%AE%E6%BC%AB%E7%94%BB%29"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『LOVELESS (高河ゆんの漫画)』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2016,
+    "volumeCount": 13
+  },
+  {
+    "id": "sutandoappusutato",
+    "title": "スタンドUPスタート",
+    "titleKana": "すたんどあっぷすたーと",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "fukuda-shu",
+      "ueno-tsuyoshi"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "young-jump",
+    "themeIds": [
+      "business",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2020,
+    "status": "completed",
+    "synopsis": "自称「人間投資家」の三星大陽は、降格された銀行員や就職できない学生、経験のない主婦といった人々に投資を持ちかける。起業率が世界最下位の日本を変えるという目標を掲げ、彼は次々と人材を掘り起こしていく。起業と投資を題材にした青年漫画である。投資という枠組みを通して、働くことの選択肢そのものを問い直していく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89UP%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『スタンドUPスタート』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2023,
+    "volumeCount": 13
+  },
+  {
+    "id": "bakuretsuhanta",
+    "title": "爆れつハンター",
+    "titleKana": "ばくれつはんたー",
+    "originalAuthorIds": [
+      "akahorisatoru"
+    ],
+    "artistIds": [
+      "omishi-rei"
+    ],
+    "publisherId": "kadokawa-shoten",
+    "labelId": "monthly-comic-comp",
+    "themeIds": [
+      "dark-fantasy",
+      "comedy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1993,
+    "status": "completed",
+    "synopsis": "魔法使いが庶民を支配するファミル帝国で、圧政から人々を守るために戦う「法族狩り」たち。キャロットら一行は、変身能力や強大な魔法を駆使して敵に立ち向かっていく。過剰なギャグとお色気を織り交ぜながら進む、九〇年代を代表するファンタジー作品である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%88%86%E3%82%8C%E3%81%A4%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『爆れつハンター』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 1998,
+    "volumeCount": 13
+  },
+  {
+    "id": "oredakereberuappunaken",
+    "title": "俺だけレベルアップな件",
+    "titleKana": "おれだけれべるあっぷなけん",
+    "originalAuthorIds": [
+      "chugong"
+    ],
+    "artistIds": [
+      "dubu"
+    ],
+    "publisherId": "dnc-media",
+    "labelId": "kakao-page",
+    "themeIds": [
+      "battle-action",
+      "adventure",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "異次元とつながる「ゲート」が現れた世界で、最弱のE級ハンターだった水篠旬は、死の淵で「プレイヤー」の資格を得る。唯一レベルアップできる存在となった彼は、圧倒的な速度で強くなっていく。韓国発のウェブトゥーンとして世界的な人気を得た作品である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E4%BF%BA%E3%81%A0%E3%81%91%E3%83%AC%E3%83%99%E3%83%AB%E3%82%A2%E3%83%83%E3%83%97%E3%81%AA%E4%BB%B6"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『俺だけレベルアップな件』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2022,
+    "volumeCount": 13
+  },
+  {
+    "id": "nononono",
+    "title": "ノノノノ",
+    "titleKana": "のののの",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "okamoto-rin"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "young-jump",
+    "themeIds": [
+      "sports",
+      "school",
+      "romance"
+    ],
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "スキージャンプの新星として現れた少年「野々宮悠太」には、実は少女「ノノ」であるという秘密があった。男子しか出場できない競技でオリンピックを目指すため、彼女は性別を偽り続ける。競技の描写と、性別を隠すことの重さを並走させた青年誌のスポーツ漫画である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%8E%E3%83%8E%E3%83%8E"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ノノノノ』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2011,
+    "volumeCount": 13
+  },
+  {
+    "id": "kurebatesumajuunooutoakagotoshikabanenoy",
+    "title": "クレバテス-魔獣の王と赤子と屍の勇者-",
+    "titleKana": "くればてすまじゅうのおうとあかごとしかばねのゆうしゃ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "iwaharayuuji"
+    ],
+    "publisherId": "line-digital-frontier",
+    "labelId": "line-manga",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2020,
+    "status": "ongoing",
+    "synopsis": "人属を滅ぼすと決めた魔獣王クレバテスは、崩壊した城の瓦礫のなかで一人の赤子と出会ってしまう。滅ぼすはずだった種族の子を抱えたまま、彼は屍となった勇者を従えて旅を続ける。圧倒的な強者が育児に向き合うという構図のダークファンタジーである。守るべきものを得た魔獣王が、当初の決意と揺れ続ける構成になっている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AC%E3%83%90%E3%83%86%E3%82%B9-%E9%AD%94%E7%8D%A3%E3%81%AE%E7%8E%8B%E3%81%A8%E8%B5%A4%E5%AD%90%E3%81%A8%E5%B1%8D%E3%81%AE%E5%8B%87%E8%80%85-"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『クレバテス-魔獣の王と赤子と屍の勇者-』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "volumeCount": 13
+  },
+  {
+    "id": "sabagebu",
+    "title": "さばげぶっ!",
+    "titleKana": "さばげぶっ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "matsumotohidekichi"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "nakayoshi",
+    "themeIds": [
+      "comedy",
+      "school",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "転校初日に助けられた縁で、女子高生・園川モモカはサバイバルゲーム部へ無理やり入部させられる。だが部員たちは競技そっちのけで馬鹿げた騒動ばかり起こしていた。銃器の知識を交えつつ、勢いだけで押し切っていく少女誌のギャグ漫画である。サバイバルゲームの知識は正確でありながら、話はほぼ関係なく脱線していく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%B0%E3%81%92%E3%81%B6%E3%81%A3%21"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『さばげぶっ!』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2017,
+    "volumeCount": 13
+  },
+  {
+    "id": "hakkendentouhouhakkenibun",
+    "title": "八犬伝—東方八犬異聞—",
+    "titleKana": "はっけんでんとうほうはっけんいぶん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "abe-miyuki"
+    ],
+    "publisherId": "tousuisha",
+    "labelId": "ichi-laki",
+    "themeIds": [
+      "dark-fantasy",
+      "boys-love",
+      "historical"
+    ],
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "疫病を防ぐために焼き払われた村の生き残りである犬塚信乃と犬川荘介は、その事件以来、特殊な力を得ていた。帝国教会からの召喚状と、幼馴染の誘拐をきっかけに、二人は帝都へ向かう。『南総里見八犬伝』を下敷きにした、和洋折衷のあやかしファンタジーである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%85%AB%E7%8A%AC%E4%BC%9D%E2%80%94%E6%9D%B1%E6%96%B9%E5%85%AB%E7%8A%AC%E7%95%B0%E8%81%9E%E2%80%94"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『八犬伝—東方八犬異聞—』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2024,
+    "volumeCount": 13
+  },
+  {
+    "id": "hittoman",
+    "title": "ヒットマン",
+    "titleKana": "ひっとまん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "seo-kouji"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "romance",
+      "comedy",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "出版社に入社した新人編集者・剣埼龍之介は、就職活動中に読んだネームの持ち主である小鳥遊翼と再会する。編集者の道を蹴った彼女の才能を惜しみ、龍之介は担当として彼女に食らいついていく。漫画づくりの現場を舞台にしたラブコメディである。作品づくりの過程が具体的に描かれ、業界ものとしても読ませる構成である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%83%E3%83%88%E3%83%9E%E3%83%B3_%28%E6%BC%AB%E7%94%BB%29"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ヒットマン (漫画)』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2021,
+    "volumeCount": 13
+  },
+  {
+    "id": "fukushuunokyoukasho",
+    "title": "復讐の教科書",
+    "titleKana": "ふくしゅうのきょうかしょ",
+    "originalAuthorIds": [
+      "hirose-shun"
+    ],
+    "artistIds": [
+      "kawano-kei"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "magazine-pocket",
+    "themeIds": [
+      "suspense-psychological",
+      "school",
+      "ero-guro"
+    ],
+    "firstPublishedYear": 2020,
+    "status": "completed",
+    "synopsis": "憧れの教師のようになりたいと願う高校生・黒瀬良太郎は、いじめグループに屋上から突き落とされる。だが偶然その教師と衝突し、二人の人格が入れ替わってしまう。教師の人望を利用して加害者たちへ復讐していく、いじめを題材にしたサスペンス作品である。入れ替わりという設定が、復讐の手段と同時に足かせにもなっていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%BE%A9%E8%AE%90%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『復讐の教科書』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2022,
+    "volumeCount": 13
+  },
+  {
+    "id": "joshikousei",
+    "title": "女子高生",
+    "titleKana": "じょしこうせい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ooshima-towa"
+    ],
+    "publisherId": "futabasha",
+    "labelId": "manga-action",
+    "themeIds": [
+      "comedy",
+      "school",
+      "ero-guro"
+    ],
+    "firstPublishedYear": 2001,
+    "status": "completed",
+    "synopsis": "女子校に憧れて入学した高橋絵里子は、汚れた部室やだらしない上級生といった実態を目の当たりにする。「カッコつける相手がいなければ女は落ちるところまで落ちる」という言葉どおり、彼女も次第に染まっていく。女子校の内側を身も蓋もなく描いた学園漫画である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%A5%B3%E5%AD%90%E9%AB%98%E7%94%9F_%28%E6%BC%AB%E7%94%BB%29"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『女子高生 (漫画)』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2016,
+    "volumeCount": 13
+  },
+  {
+    "id": "noganzuraifu",
+    "title": "ノー・ガンズ・ライフ",
+    "titleKana": "のーがんずらいふ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "karasumatasuku"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "ultra-jump",
+    "themeIds": [
+      "sci-fi",
+      "battle-action",
+      "crime-underworld"
+    ],
+    "firstPublishedYear": 2014,
+    "status": "completed",
+    "synopsis": "身体を機械化した「拡張者」が共存する社会で、頭部に巨大なリボルバーを持つ男・乾十三は、問題を起こした拡張者の処理を生業としている。子どもの保護を依頼された彼は、巨大企業ベリューレン社と敵対することになる。硬質な画で描かれるハードボイルドSFである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%BC%E3%83%BB%E3%82%AC%E3%83%B3%E3%82%BA%E3%83%BB%E3%83%A9%E3%82%A4%E3%83%95"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ノー・ガンズ・ライフ』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2021,
+    "volumeCount": 13
+  },
+  {
+    "id": "mujakinorakuen",
+    "title": "無邪気の楽園",
+    "titleKana": "むじゃきのらくえん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "uran"
+    ],
+    "publisherId": "hakusensha",
+    "labelId": "young-animal-arashi",
+    "themeIds": [
+      "comedy",
+      "ero-guro",
+      "school"
+    ],
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "将来の展望もないニート同然の二十五歳・反田省太は、母校のプールで足を滑らせた瞬間、小学五年生の自分に戻ってしまう。当時の同級生たちに囲まれながら、大人の意識のまま小学校生活をやり直すことになる。際どい描写を前面に出した青年誌のコメディである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%84%A1%E9%82%AA%E6%B0%97%E3%81%AE%E6%A5%BD%E5%9C%92"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『無邪気の楽園』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2017,
+    "volumeCount": 13
+  },
+  {
+    "id": "zonbiron",
+    "title": "ZOMBIE-LOAN",
+    "titleKana": "ぞんびろーん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "peachpit"
+    ],
+    "publisherId": "square-enix",
+    "labelId": "g-fantasy",
+    "themeIds": [
+      "dark-fantasy",
+      "horror",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "死を予兆する黒い輪が見える「死神の目」を持つ女子高生・紀多みちるは、事故から生還した二人の同級生が、実はローンを組んで蘇ったゾンビだと知る。返済のためのゾンビ狩りに巻き込まれた彼女は、死と再生をめぐる争いに関わっていく。様式美の効いたホラーである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ZOMBIE-LOAN"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ZOMBIE-LOAN』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2011,
+    "volumeCount": 13
+  },
+  {
+    "id": "higeosorusoshitejoshikouseiohirou",
+    "title": "ひげを剃る。そして女子高生を拾う。",
+    "titleKana": "ひげをそるそしてじょしこうせいをひろう",
+    "originalAuthorIds": [
+      "shimesaba",
+      "buta"
+    ],
+    "artistIds": [
+      "adachi-imaru"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "monthly-shonen-ace",
+    "themeIds": [
+      "romance",
+      "slice-of-life",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "失恋した帰り道、二十代のサラリーマン吉田は、路上にいた家出中の女子高生を拾ってしまう。何もしないという約束のもとで始まった同居生活のなかで、彼女が抱えていた事情が少しずつ明かされていく。危うい題材を静かな筆致で扱った作品である。家出という状況の重さから目を逸らさず、周囲の大人たちの反応も描かれる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%81%92%E3%82%92%E5%89%83%E3%82%8B%E3%80%82%E3%81%9D%E3%81%97%E3%81%A6%E5%A5%B3%E5%AD%90%E9%AB%98%E7%94%9F%E3%82%92%E6%8B%BE%E3%81%86%E3%80%82"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『ひげを剃る。そして女子高生を拾う。』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2025,
+    "volumeCount": 13
+  },
+  {
+    "id": "aokishinwamarusu",
+    "title": "蒼き神話マルス",
+    "titleKana": "あおきしんわまるす",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "motoshima-yukihisa"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "sports",
+      "animal"
+    ],
+    "firstPublishedYear": 1996,
+    "status": "completed",
+    "synopsis": "故障と死亡が相次いで途絶えたはずの名血統から、遺伝学者の執念によって一頭の仔馬マルスが生まれる。数々の試練を越え、彼は宿敵の血統と競り合いながら頂点を目指していく。血統という競馬の核心を主題に据えた、少年誌の競馬漫画である。血統理論や生産の現場まで踏み込み、競馬の仕組みを丁寧に説明していく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E8%92%BC%E3%81%8D%E7%A5%9E%E8%A9%B1%E3%83%9E%E3%83%AB%E3%82%B9"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『蒼き神話マルス』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 1999,
+    "volumeCount": 13
+  },
+  {
+    "id": "gannibaru",
+    "title": "ガンニバル",
+    "titleKana": "がんにばる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ninomiya-masaaki"
+    ],
+    "publisherId": "nihon-bungeisha",
+    "labelId": "manga-goraku",
+    "themeIds": [
+      "horror",
+      "suspense-psychological",
+      "crime-underworld"
+    ],
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "山間の村へ赴任した駐在の阿川大悟は、権力を握る一族の当主の遺体に、熊とは異なる歯形を見つける。前任者が残した「この村の人間は人を喰ってる」という言葉が、彼のなかで現実味を帯びていく。閉じた共同体の恐怖を描いたサスペンス作品である。村の因習と外から来た者の視点が対比され、逃げ場のない緊張が続いていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%B3%E3%83%8B%E3%83%90%E3%83%AB"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ガンニバル』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2021,
+    "volumeCount": 13
+  },
+  {
+    "id": "warudoenburio",
+    "title": "ワールドエンブリオ",
+    "titleKana": "わーるどえんぶりお",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "moriyama-daisuke"
+    ],
+    "publisherId": "shonen-gahosha",
+    "labelId": "young-king-ours",
+    "themeIds": [
+      "sci-fi",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "携帯電話の画面越しに現れる存在「カゲロウ」と、それに対抗する力を得た少年たちの戦いを描く。序章から第二部まで構成を分けながら、世界の成り立ちに関わる謎が段階的に明かされていく。緻密な作画で知られる作者による、長期のSFアクションである。少年たちの選択が世界の趨勢を左右していく構造で、章ごとに規模が広がる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A8%E3%83%B3%E3%83%96%E3%83%AA%E3%82%AA"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ワールドエンブリオ』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2014,
+    "volumeCount": 13
+  },
+  {
+    "id": "tabutatu",
+    "title": "タブー・タトゥー",
+    "titleKana": "たぶーたとぅー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "shin-jiro"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "comic-alive",
+    "themeIds": [
+      "battle-action",
+      "sci-fi",
+      "school"
+    ],
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "正義感の強い中学生・赤塚正義は、掌に「呪紋」と呼ばれる兵器を埋め込まれていた。同じ呪紋を持つ他国のエージェントの少女と出会ったことから、彼は呪紋をめぐる国家間の陰謀に巻き込まれていく。能力バトルと国際謀略を掛け合わせた作品である。呪紋の設定と各国の思惑が絡み合い、個人の戦いが国家間の駆け引きへ広がる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%96%E3%83%BC%E3%83%BB%E3%82%BF%E3%83%88%E3%82%A5%E3%83%BC"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『タブー・タトゥー』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2017,
+    "volumeCount": 13
   }
 ]
