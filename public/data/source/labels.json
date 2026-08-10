@@ -5876,5 +5876,45 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "shonen-sunday-zoukan",
+    "name": "週刊少年サンデー増刊",
+    "nameKana": "しゅうかんしょうねんさんでーぞうかん",
+    "publisherId": "shogakukan",
+    "description": "小学館が発行していた週刊少年サンデーの増刊誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "monthly-sunday-gene-x",
+    "name": "月刊サンデージェネックス",
+    "nameKana": "げっかんさんでーじぇねっくす",
+    "publisherId": "shogakukan",
+    "description": "小学館が発行する月刊青年漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "shonen-sunday-super",
+    "name": "週刊少年サンデー超",
+    "nameKana": "しゅうかんしょうねんさんでーすーぱー",
+    "publisherId": "shogakukan",
+    "description": "小学館が発行していた週刊少年サンデーの増刊誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "princess",
+    "name": "プリンセス",
+    "nameKana": "ぷりんせす",
+    "publisherId": "akita-shoten",
+    "description": "秋田書店が発行する少女漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
