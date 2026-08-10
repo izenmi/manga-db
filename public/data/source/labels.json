@@ -6196,5 +6196,75 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "digikiss",
+    "name": "デジキス",
+    "nameKana": "でじきす",
+    "publisherId": "kodansha",
+    "description": "講談社が配信していた女性向け漫画媒体。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "dengeki-girls-style",
+    "name": "電撃Girl's Style",
+    "nameKana": "でんげきがーるずすたいる",
+    "publisherId": "ascii-media-works",
+    "description": "アスキー・メディアワークスが発行する女性向け情報誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "mj",
+    "name": "エムジェイ",
+    "nameKana": "えむじぇい",
+    "publisherId": "bandai",
+    "description": "バンダイが発行していた雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "comp-hs",
+    "name": "コンプH's",
+    "nameKana": "こんぷえいちず",
+    "publisherId": "kadokawa-shoten",
+    "description": "角川書店が発行していた漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "suiyoubi-wa-mattari",
+    "name": "水曜日はまったり",
+    "nameKana": "すいようびはまったり",
+    "publisherId": "shueisha",
+    "description": "集英社が運営していた漫画配信媒体。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "comic-alna",
+    "name": "コミックアルナ",
+    "nameKana": "こみっくあるな",
+    "publisherId": "kadokawa",
+    "description": "KADOKAWAが運営する漫画配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "online-game-sugoi",
+    "name": "オンラインゲーム すごい攻略やってます。",
+    "nameKana": "おんらいんげーむすごいこうりゃくやってます",
+    "publisherId": "futabasha",
+    "description": "双葉社が発行していた遊戯攻略情報誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
