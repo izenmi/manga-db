@@ -76646,5 +76646,918 @@
     "sourceNote": "日本語版Wikipedia『ババンババンバンバンパイア』記事(2026-08-09閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-09",
     "volumeCount": 14
+  },
+  {
+    "id": "jizasusajinkouro",
+    "title": "JESUS 砂塵航路",
+    "titleKana": "じーざすさじんこうろ",
+    "originalAuthorIds": [
+      "shichigatsu-kyouichi"
+    ],
+    "artistIds": [
+      "fujiwara-yoshihide"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "moba-man",
+    "themeIds": [
+      "battle-action",
+      "crime-underworld",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "伝説の殺し屋ジーザスこと藤沢真吾は、闇組織を壊滅させた後、中東の小国で教師として静かに暮らしていた。だが臓器密売組織にさらわれた教え子八人を救うため、彼は再び銃を取り、世界各地の組織を潰して回る。『JESUS』の続編にあたるハードボイルドアクションである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/JESUS_%E7%A0%82%E5%A1%B5%E8%88%AA%E8%B7%AF"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『JESUS 砂塵航路』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2012,
+    "volumeCount": 14
+  },
+  {
+    "id": "eruinikarachitodattamotoyuushakouhonomat",
+    "title": "Lv2からチートだった元勇者候補のまったり異世界ライフ",
+    "titleKana": "えるいにからちーとだったもとゆうしゃこうほのまったりいせかいらいふ",
+    "originalAuthorIds": [
+      "kinojou-miya",
+      "katagiri"
+    ],
+    "artistIds": [
+      "itomachi-akine"
+    ],
+    "publisherId": "overlap",
+    "labelId": "comic-gardo",
+    "themeIds": [
+      "isekai",
+      "adventure",
+      "comedy"
+    ],
+    "firstPublishedYear": 2019,
+    "status": "ongoing",
+    "synopsis": "勇者候補として召喚されながら、レベル二で追放された青年フリオ。だが彼は追放後もレベルが上がり続け、規格外の能力を手にしていた。魔王軍の元幹部や獣人たちと暮らしながら、彼は静かな生活を築いていく。追放後のスローライフを主眼に据えた異世界ファンタジーである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Lv2%E3%81%8B%E3%82%89%E3%83%81%E3%83%BC%E3%83%88%E3%81%A0%E3%81%A3%E3%81%9F%E5%85%83%E5%8B%87%E8%80%85%E5%80%99%E8%A3%9C%E3%81%AE%E3%81%BE%E3%81%A3%E3%81%9F%E3%82%8A%E7%95%B0%E4%B8%96%E7%95%8C%E3%83%A9%E3%82%A4%E3%83%95"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『Lv2からチートだった元勇者候補のまったり異世界ライフ』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "volumeCount": 14
+  },
+  {
+    "id": "takanenohanasan",
+    "title": "高嶺のハナさん",
+    "titleKana": "たかねのはなさん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "muratakouji"
+    ],
+    "publisherId": "nihon-bungeisha",
+    "labelId": "manga-goraku",
+    "themeIds": [
+      "romance",
+      "comedy",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2018,
+    "status": "ongoing",
+    "synopsis": "同じ会社に勤める男が、完璧に見える高嶺の花のような同僚・ハナさんに片思いを続けている。だが彼女には、周囲には見せない不器用な素顔があった。近づきそうで近づかない二人の距離を、じれったく積み上げていく。実写ドラマ化もされた青年誌のラブコメディである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%AB%98%E5%B6%BA%E3%81%AE%E3%83%8F%E3%83%8A%E3%81%95%E3%82%93"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『高嶺のハナさん』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "volumeCount": 14
+  },
+  {
+    "id": "tsumashougakuseininaru",
+    "title": "妻、小学生になる。",
+    "titleKana": "つましょうがくせいになる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "murata-yayu"
+    ],
+    "publisherId": "houbunsha",
+    "labelId": "weekly-manga-times",
+    "themeIds": [
+      "romance",
+      "suspense-psychological",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "十年前に妻を亡くした男とその娘のもとへ、自分は亡き妻の生まれ変わりだと名乗る小学生の少女が現れる。家族しか知らない記憶を語る彼女を、二人は「貴恵」として受け入れる。だがその少女自身も、実の母から育児放棄されていた。転生という設定で家族を問い直す作品である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%A6%BB%E3%80%81%E5%B0%8F%E5%AD%A6%E7%94%9F%E3%81%AB%E3%81%AA%E3%82%8B%E3%80%82"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『妻、小学生になる。』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2022,
+    "volumeCount": 14
+  },
+  {
+    "id": "sukecchibukku",
+    "title": "スケッチブック",
+    "titleKana": "すけっちぶっく",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kobako-totan"
+    ],
+    "publisherId": "mag-garden",
+    "labelId": "monthly-comic-blade",
+    "themeIds": [
+      "arts",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "美術部に所属する女子高生・梶原空を中心に、部員たちののんびりした日常を描く四コマ漫画。写生に出かけては虫や植物に気を取られ、話が進まないまま一日が終わる。起伏をあえて置かず、時間の流れそのものを味わわせる構成の学園作品である。部員それぞれの妙な感性が、噛み合わないまま並んでいるところに味がある。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%B1%E3%83%83%E3%83%81%E3%83%96%E3%83%83%E3%82%AF_%28%E6%BC%AB%E7%94%BB%29"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『スケッチブック (漫画)』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2019,
+    "volumeCount": 14
+  },
+  {
+    "id": "nabarinoou",
+    "title": "隠の王",
+    "titleKana": "なばりのおう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kamatani-yuuki"
+    ],
+    "publisherId": "square-enix",
+    "labelId": "g-fantasy",
+    "themeIds": [
+      "battle-action",
+      "dark-fantasy",
+      "school"
+    ],
+    "firstPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "忍の世界「隠の世」が生んだ最大の秘術「森羅万象」を体内に刻まれた中学生・六条壬晴。無気力だった彼をめぐって、現代に生きる忍たちが術を奪い合う争いを始める。生きる意志を持たない少年が、周囲との関わりで変わっていく忍者バトル作品である。術を奪い合う各流派の思惑が絡み合い、少年の選択が重みを増していく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%9A%A0%E3%81%AE%E7%8E%8B"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『隠の王』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2010,
+    "volumeCount": 14
+  },
+  {
+    "id": "ekusuamu",
+    "title": "EX-ARM エクスアーム",
+    "titleKana": "えくすあーむ",
+    "originalAuthorIds": [
+      "hirock"
+    ],
+    "artistIds": [
+      "komi-shinya-2"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "grand-jump",
+    "themeIds": [
+      "sci-fi",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2015,
+    "status": "completed",
+    "synopsis": "近未来を舞台に、超兵器「EX-ARM」を巡る争いが繰り広げられる。事故死した少年の脳が兵器へ移植され、彼は自らの意思を持ったまま戦うことになる。人間の意識と兵器という主題を軸に据えた、掲載誌を移りながら描かれたSFアクションである。兵器化された意識が何をもって自分を保つのかが、繰り返し問われる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/EX-ARM_%E3%82%A8%E3%82%AF%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%A0"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『EX-ARM エクスアーム』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2019,
+    "volumeCount": 14
+  },
+  {
+    "id": "herumodoyarikomizukinogemahahaisetteinoi",
+    "title": "ヘルモード 〜やり込み好きのゲーマーは廃設定の異世界で無双する〜",
+    "titleKana": "へるもーどやりこみずきのげーまーははいせっていのいせかいでむそうする",
+    "originalAuthorIds": [
+      "hamuo",
+      "mo-author"
+    ],
+    "artistIds": [
+      "tetsuda-enji"
+    ],
+    "publisherId": "earth-star-entertainment",
+    "labelId": "comic-earth-star",
+    "themeIds": [
+      "isekai",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2020,
+    "status": "ongoing",
+    "synopsis": "やり込み好きのゲーマーが、最高難易度「ヘルモード」を選んで異世界へ転生する。経験値も成長も極端に不利な設定のなか、彼は膨大な作業を積み重ねて力を伸ばしていく。効率を捨てて積み上げること自体を楽しむ主人公を描いた異世界ファンタジーである。苦行そのものを娯楽として描く姿勢が、他の転生ものとの違いになっている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%AB%E3%83%A2%E3%83%BC%E3%83%89_%E3%80%9C%E3%82%84%E3%82%8A%E8%BE%BC%E3%81%BF%E5%A5%BD%E3%81%8D%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%9E%E3%83%BC%E3%81%AF%E5%BB%83%E8%A8%AD%E5%AE%9A%E3%81%AE%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%A7%E7%84%A1%E5%8F%8C%E3%81%99%E3%82%8B%E3%80%9C"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『ヘルモード 〜やり込み好きのゲーマーは廃設定の異世界で無双する〜』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "volumeCount": 14
+  },
+  {
+    "id": "dosankogyaruhanamaramenkoi",
+    "title": "道産子ギャルはなまらめんこい",
+    "titleKana": "どさんこぎゃるはなまらめんこい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ikada-kai"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonenjump-plus",
+    "themeIds": [
+      "romance",
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 2019,
+    "status": "completed",
+    "synopsis": "東京から北海道へ転校した高校生・四季翼は、クラスメイトのギャル・冬木美波と出会う。苦手なタイプだと思っていた彼女の素直さと優しさに触れ、翼は次第に目が離せなくなっていく。北海道の方言と風土を織り込んだ、素朴な学園ラブコメディである。方言のやりとりと、雪国ならではの生活描写が作品の空気を作っている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%81%93%E7%94%A3%E5%AD%90%E3%82%AE%E3%83%A3%E3%83%AB%E3%81%AF%E3%81%AA%E3%81%BE%E3%82%89%E3%82%81%E3%82%93%E3%81%93%E3%81%84"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『道産子ギャルはなまらめんこい』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2024,
+    "volumeCount": 14
+  },
+  {
+    "id": "banbuburedo",
+    "title": "BAMBOO BLADE",
+    "titleKana": "ばんぶーぶれーど",
+    "originalAuthorIds": [
+      "totsuka-masahiro"
+    ],
+    "artistIds": [
+      "igarashi-aguri"
+    ],
+    "publisherId": "square-enix",
+    "labelId": "young-gangan",
+    "themeIds": [
+      "sports",
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "貧乏生活に苦しむ剣道部顧問のコジローは、勝てば寿司食べ放題という条件につられ、女子剣道部の対外試合を引き受けてしまう。だが部員は実質一人しかいなかった。急遽かき集めた癖の強い五人が、試合を通してチームになっていく学園スポーツコメディである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/BAMBOO_BLADE"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『BAMBOO BLADE』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2010,
+    "volumeCount": 14
+  },
+  {
+    "id": "nazebokunosekaiodaremooboeteinainoka",
+    "title": "なぜ僕の世界を誰も覚えていないのか?",
+    "titleKana": "なぜぼくのせかいをだれもおぼえていないのか",
+    "originalAuthorIds": [
+      "sazane-kei",
+      "neco"
+    ],
+    "artistIds": [
+      "arikan"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "comic-alive",
+    "themeIds": [
+      "isekai",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "五種族大戦に勝利した人類の世界で暮らしていたカイは、ある日世界が「上書き」される場面を目撃する。書き換えられた世界では英雄が存在せず人類は敗れており、しかも彼自身が誰からも忘れられていた。運命の改竄に抗う少年を描いたバトルファンタジーである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%AA%E3%81%9C%E5%83%95%E3%81%AE%E4%B8%96%E7%95%8C%E3%82%92%E8%AA%B0%E3%82%82%E8%A6%9A%E3%81%88%E3%81%A6%E3%81%84%E3%81%AA%E3%81%84%E3%81%AE%E3%81%8B%3F"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『なぜ僕の世界を誰も覚えていないのか?』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2025,
+    "volumeCount": 14
+  },
+  {
+    "id": "sayonarawatashinokurama",
+    "title": "さよなら私のクラマー",
+    "titleKana": "さよならわたしのくらまー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "shinkawa-naoshi"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "monthly-shonen-magazine",
+    "themeIds": [
+      "sports",
+      "school"
+    ],
+    "firstPublishedYear": 2016,
+    "status": "completed",
+    "synopsis": "中学最後の公式戦で敗れた周防すみれは、ライバルだった曽志崎緑に誘われ、強豪ではない高校の女子サッカー部へ進む。そこには無名ながら傑出した才能を持つ恩田希がいた。女子サッカーの現実的な環境を踏まえながら、少女たちの成長を描くスポーツ漫画である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E7%A7%81%E3%81%AE%E3%82%AF%E3%83%A9%E3%83%9E%E3%83%BC"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『さよなら私のクラマー』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2021,
+    "volumeCount": 14
+  },
+  {
+    "id": "kasane-matsuura",
+    "title": "累",
+    "titleKana": "かさね",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "matsuura-daruma"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "evening",
+    "themeIds": [
+      "suspense-psychological",
+      "arts",
+      "ero-guro"
+    ],
+    "firstPublishedYear": 2013,
+    "status": "completed",
+    "synopsis": "醜い容姿ゆえに虐げられてきた少女・淵累は、亡き母が遺した口紅に「口づけした相手と顔を入れ替える力」があることを知る。他人の美貌を奪って舞台に立った彼女は、母譲りの演技力で女優として名を上げていく。美と才能の代償を描いたサスペンス作品である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%B4%AF"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『累』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2018,
+    "volumeCount": 14
+  },
+  {
+    "id": "erisunoseihai",
+    "title": "エリスの聖杯",
+    "titleKana": "えりすのせいはい",
+    "originalAuthorIds": [
+      "tokiwa-kujira"
+    ],
+    "artistIds": [
+      "momoyama-hinase"
+    ],
+    "publisherId": "square-enix",
+    "labelId": "manga-up",
+    "themeIds": [
+      "dark-fantasy",
+      "suspense-psychological",
+      "romance"
+    ],
+    "firstPublishedYear": 2019,
+    "status": "ongoing",
+    "synopsis": "家を救うため婚約した令嬢コンスタンスは、婚約者を寝取られたうえ盗人に仕立てられる。絶望した彼女に囁いたのは、十年前に処刑された悪女スカーレットの亡霊だった。依り代を得て復活した悪女が、歴史に葬られた真実を暴いていく復讐劇である。復讐の過程で、処刑された悪女の本当の姿が少しずつ明かされていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%82%B9%E3%81%AE%E8%81%96%E6%9D%AF"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『エリスの聖杯』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "volumeCount": 14
+  },
+  {
+    "id": "hanaukyoumeidotai",
+    "title": "花右京メイド隊",
+    "titleKana": "はなうきょうめいどたい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "morishige"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "monthly-shonen-champion",
+    "themeIds": [
+      "comedy",
+      "romance",
+      "ero-guro"
+    ],
+    "firstPublishedYear": 1999,
+    "status": "completed",
+    "synopsis": "突然大豪邸の主となった少年・花右京太郎と、屋敷で働くメイド集団との同居生活を描く。個性の強すぎるメイドたちが太郎をめぐって騒動を起こし続ける。お色気とギャグを前面に押し出した、メイドものの代表格といえる学園コメディである。メイド一人ひとりに極端な設定が与えられ、騒動の種が尽きない構成である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E8%8A%B1%E5%8F%B3%E4%BA%AC%E3%83%A1%E3%82%A4%E3%83%89%E9%9A%8A"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『花右京メイド隊』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2006,
+    "volumeCount": 14
+  },
+  {
+    "id": "aiki",
+    "title": "愛気",
+    "titleKana": "あいき",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "isutoshi"
+    ],
+    "publisherId": "shonen-gahosha",
+    "labelId": "young-king",
+    "themeIds": [
+      "battle-action",
+      "sports"
+    ],
+    "firstPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "天才武術家の承久國俊は、危険な人格を露わにしたことから、父の施術によって実力の十分の一しか出せない体にされてしまう。それでもなお隔絶した強さを持つ彼のもとへ、古今東西の武芸者が次々と挑みにやってくる。実在の武術を踏まえた格闘漫画である。封じられた力という制約が、対戦相手ごとの戦い方の工夫を生んでいる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%84%9B%E6%B0%97"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『愛気』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2013,
+    "volumeCount": 14
+  },
+  {
+    "id": "furutsutakuhaibin",
+    "title": "フルーツ宅配便",
+    "titleKana": "ふるーつたくはいびん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "suzuki-yoshio"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-original",
+    "themeIds": [
+      "workplace-drama",
+      "romance",
+      "ero-guro"
+    ],
+    "firstPublishedYear": 2015,
+    "status": "completed",
+    "synopsis": "勤務先の倒産で職を失い故郷へ戻った咲田は、旧友の誘いでデリバリーヘルスの店長見習いとして働き始める。そこで働く女性たちは、DVからの逃亡や生活費など、それぞれの事情を抱えていた。風俗という現場から人の暮らしを見つめた青年漫画である。働く側と客の双方の事情を並べ、単純な善悪に落とし込まない筆致である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AB%E3%83%BC%E3%83%84%E5%AE%85%E9%85%8D%E4%BE%BF"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『フルーツ宅配便』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2021,
+    "volumeCount": 14
+  },
+  {
+    "id": "jeidorimu",
+    "title": "Jドリーム",
+    "titleKana": "じぇいどりーむ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "heiuchi-natsuko"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "sports"
+    ],
+    "firstPublishedYear": 1993,
+    "status": "completed",
+    "synopsis": "Jリーグ開幕を控えた一九九二年、ベテラン選手の本橋譲二は、プロ化による時代の変化に戸惑っていた。そこへ現れた少年・赤星鷹との賭けサッカーが、新しい世代の到来を彼に突きつける。日本サッカーのプロ化という現実の転換点を背景にしたスポーツ漫画である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/J%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『Jドリーム』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 1995,
+    "volumeCount": 14
+  },
+  {
+    "id": "mahoushoujotokushusenasuka",
+    "title": "魔法少女特殊戦あすか",
+    "titleKana": "まほうしょうじょとくしゅせんあすか",
+    "originalAuthorIds": [
+      "fukami-makoto"
+    ],
+    "artistIds": [
+      "tokiya-seigo"
+    ],
+    "publisherId": "square-enix",
+    "labelId": "monthly-big-gangan",
+    "themeIds": [
+      "magical-girl",
+      "battle-action",
+      "war-military"
+    ],
+    "firstPublishedYear": 2015,
+    "status": "completed",
+    "synopsis": "異世界からの侵攻を撃退した大戦から三年、生き残った魔法少女たちはそれぞれの立場で戦い続けていた。魔女や魔術師が生まれた新たな軍事バランスのなか、対テロ部隊に所属するあすかが任務に就く。魔法少女を軍事の枠組みで描いた、残酷描写の多いアクションである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E7%89%B9%E6%AE%8A%E6%88%A6%E3%81%82%E3%81%99%E3%81%8B"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『魔法少女特殊戦あすか』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2021,
+    "volumeCount": 14
+  },
+  {
+    "id": "burakkuchanneru",
+    "title": "ブラックチャンネル",
+    "titleKana": "ぶらっくちゃんねる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kisaichi-satoshi"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "mira-coro-comic",
+    "themeIds": [
+      "comedy",
+      "dark-fantasy",
+      "entertainment-industry"
+    ],
+    "firstPublishedYear": 2020,
+    "status": "ongoing",
+    "synopsis": "悪魔系動画配信者のブラックと助手のカメラちゃんが、再生数のために人間と危険な契約を結び、不思議な力で懲らしめていく。物事の裏側を暴き出す一話完結のブラックコメディである。動画配信という現代的な題材を児童向けに落とし込んだ作品である。暴かれる「裏側」が毎回異なり、社会風刺としても機能している。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ブラックチャンネル』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "volumeCount": 14
+  },
+  {
+    "id": "kunerumaruta",
+    "title": "くーねるまるた",
+    "titleKana": "くーねるまるた",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "takao-jingu"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-spirits",
+    "themeIds": [
+      "gourmet",
+      "slice-of-life",
+      "comedy"
+    ],
+    "firstPublishedYear": 2012,
+    "status": "completed",
+    "synopsis": "日本の食事と文化を愛するポルトガル人の女性マルタが、東京の古いアパートで節約しながら暮らしていく。安い食材を工夫して料理し、季節の行事を楽しむ日々が丁寧に描かれる。外からの視点で日本の日常を眺め直す、穏やかなグルメ漫画である。食材の値段や作り方まで細かく描かれ、生活の実感が積み上げられていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%8F%E3%83%BC%E3%81%AD%E3%82%8B%E3%81%BE%E3%82%8B%E3%81%9F"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『くーねるまるた』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2018,
+    "volumeCount": 14
+  },
+  {
+    "id": "omegatoraibu",
+    "title": "オメガトライブ",
+    "titleKana": "おめがとらいぶ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tamai-yukio"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-spirits",
+    "themeIds": [
+      "sci-fi",
+      "psychic-battle",
+      "business"
+    ],
+    "firstPublishedYear": 2001,
+    "status": "completed",
+    "synopsis": "アフリカの奥地で実父に殺されかけた青年・吾妻晴は、意志を持つ存在と契約し、新人類「オメガ」として覚醒する。社会に適合できない若者たちを取り込んだ彼は、日本の実権を握るためのクーデターを計画していく。進化と権力を主題に据えたSF作品である。社会からはみ出した若者たちの結集が、そのまま国家への挑戦につながる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%A1%E3%82%AC%E3%83%88%E3%83%A9%E3%82%A4%E3%83%96_%28%E6%BC%AB%E7%94%BB%29"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『オメガトライブ (漫画)』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2005,
+    "volumeCount": 14
+  },
+  {
+    "id": "fainarufantajirosutosutorenja",
+    "title": "FINAL FANTASY LOST STRANGER",
+    "titleKana": "ふぁいなるふぁんたじーろすとすとれんじゃー",
+    "originalAuthorIds": [
+      "minase-hazuki"
+    ],
+    "artistIds": [
+      "kameya-itsuki"
+    ],
+    "publisherId": "square-enix",
+    "labelId": "gangan-monthly",
+    "themeIds": [
+      "isekai",
+      "adventure",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2017,
+    "status": "ongoing",
+    "synopsis": "『ファイナルファンタジー』シリーズの熱狂的なファンである佐々木正吾は、妹とともにその世界を思わせる異世界へ転移する。シリーズの知識を頼りに立ち回るが、ゲームとは異なる残酷な現実が待っていた。原作シリーズの公式派生として描かれた異世界ファンタジーである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/FINAL_FANTASY_LOST_STRANGER"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『FINAL FANTASY LOST STRANGER』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "volumeCount": 14
+  },
+  {
+    "id": "benriyasaitousan",
+    "title": "便利屋斎藤さん、異世界に行く",
+    "titleKana": "べんりやさいとうさん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ichitomo-kazutomo"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "comic-walker",
+    "themeIds": [
+      "isekai",
+      "comedy",
+      "adventure"
+    ],
+    "firstPublishedYear": 2018,
+    "status": "ongoing",
+    "synopsis": "便利屋で働いていた斎藤は、異世界へ転移し、鍵開けの技能を活かして冒険者パーティの雑用係として重宝される。魔術師のドワーフや特殊な性癖の神官など、癖の強い面々の事情が一話ごとに描かれる。群像劇形式で異世界の日常を積み上げていく作品である。視点人物が次々と入れ替わる構成で、異世界の広さが積み上げられていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E4%BE%BF%E5%88%A9%E5%B1%8B%E6%96%8E%E8%97%A4%E3%81%95%E3%82%93%E3%80%81%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%AB%E8%A1%8C%E3%81%8F"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『便利屋斎藤さん、異世界に行く』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "volumeCount": 14
+  },
+  {
+    "id": "dousekoishiteshimaunda",
+    "title": "どうせ、恋してしまうんだ。",
+    "titleKana": "どうせこいしてしまうんだ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mitsui-haruka"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "nakayoshi",
+    "themeIds": [
+      "romance",
+      "school",
+      "sports"
+    ],
+    "firstPublishedYear": 2020,
+    "status": "ongoing",
+    "synopsis": "水泳部の先輩に憧れていた西野水帆は、告白して振られ落ち込んでいた。そこへ幼なじみの羽沢輝月が「彼氏候補」を宣言して告白してくる。失恋の直後に始まる新しい関係を、揺れる気持ちごと丁寧に追っていく、中学生向けの恋愛漫画である。幼なじみという関係が、恋愛の入口としても障害としても機能している。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%A9%E3%81%86%E3%81%9B%E3%80%81%E6%81%8B%E3%81%97%E3%81%A6%E3%81%97%E3%81%BE%E3%81%86%E3%82%93%E3%81%A0%E3%80%82"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『どうせ、恋してしまうんだ。』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "volumeCount": 14
+  },
+  {
+    "id": "pokettomonsuta",
+    "title": "ポケットモンスター",
+    "titleKana": "ぽけっともんすたー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "anakubokousaku"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "bessatsu-corocoro",
+    "themeIds": [
+      "comedy",
+      "adventure",
+      "animal"
+    ],
+    "firstPublishedYear": 1996,
+    "status": "completed",
+    "synopsis": "ゲーム『ポケットモンスター』を原作としながら、下品で暴力的なギャグに全振りした児童向け漫画。主人公レッドと、まるで可愛くないピッピが騒動を起こし続ける。原作の世界観を茶化しながら、シリーズ最初のコミカライズとして長く続いた作品である。原作の設定を大胆に無視した展開が、かえって児童読者の支持を集めた。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%82%B1%E3%83%83%E3%83%88%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC_%28%E7%A9%B4%E4%B9%85%E4%BF%9D%E5%B9%B8%E4%BD%9C%E3%81%AE%E6%BC%AB%E7%94%BB%29"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ポケットモンスター (穴久保幸作の漫画)』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2002,
+    "volumeCount": 14
+  },
+  {
+    "id": "gureipuniru",
+    "title": "グレイプニル",
+    "titleKana": "ぐれいぷにる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "takeda-sun"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "young-magazine-third",
+    "themeIds": [
+      "battle-action",
+      "suspense-psychological",
+      "romance"
+    ],
+    "firstPublishedYear": 2015,
+    "status": "completed",
+    "synopsis": "犬のぬいぐるみのような「バケモノ」に変身する能力を得た高校生・加賀谷修一は、火事の現場で少女・クレアと出会う。姉の失踪と「コイン」の秘密を追う彼女とともに、修一は同じ能力者たちとの戦いへ巻き込まれていく。異形の身体を主題に据えたサスペンスである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AC%E3%82%A4%E3%83%97%E3%83%8B%E3%83%AB_%28%E6%BC%AB%E7%94%BB%29"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『グレイプニル (漫画)』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2023,
+    "volumeCount": 14
+  },
+  {
+    "id": "sanshasanyou",
+    "title": "三者三葉",
+    "titleKana": "さんしゃさんよう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "arai-cheri"
+    ],
+    "publisherId": "houbunsha",
+    "labelId": "manga-time-kirara",
+    "themeIds": [
+      "comedy",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "名前に「葉」の字を持つ性格の異なる三人の女子高生と、その周囲の人々が繰り広げるドタバタギャグ。没落した令嬢や大食いの少女など、極端な設定を持つ面々のやりとりが積み重ねられていく。四コマ誌で十六年にわたって続いた長寿作品である。三人の性格の違いが、そのまま噛み合わないやりとりの源になっている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%80%85%E4%B8%89%E8%91%89"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『三者三葉』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2019,
+    "volumeCount": 14
+  },
+  {
+    "id": "teogonia",
+    "title": "神統記（テオゴニア）",
+    "titleKana": "ておごにあ",
+    "originalAuthorIds": [
+      "tani-maiji",
+      "kouno-kouichirou"
+    ],
+    "artistIds": [
+      "aoyama-shunsuke"
+    ],
+    "publisherId": "shufu-to-seikatsusha",
+    "labelId": "comic-pash",
+    "themeIds": [
+      "isekai",
+      "war-military",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2018,
+    "status": "ongoing",
+    "synopsis": "人族と亜人種が果てしない戦いを続ける世界で、村の少年兵カイは戦いの最中に前世の記憶を取り戻す。ごく弱い魔法しか使えない彼は、知識と鍛錬で少しずつ立場を築いていく。転生ものでありながら、集落同士の生存競争を厳しく描いたダークファンタジーである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E7%B5%B1%E8%A8%98%EF%BC%88%E3%83%86%E3%82%AA%E3%82%B4%E3%83%8B%E3%82%A2%EF%BC%89"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『神統記（テオゴニア）』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2025,
+    "volumeCount": 14
+  },
+  {
+    "id": "isekaitenseisoudouki",
+    "title": "異世界転生騒動記",
+    "titleKana": "いせかいてんせいそうどうき",
+    "originalAuthorIds": [
+      "takami-ryousen"
+    ],
+    "artistIds": [
+      "honoji"
+    ],
+    "publisherId": "alphapolis",
+    "labelId": "alphapolis-web",
+    "themeIds": [
+      "isekai",
+      "business",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2015,
+    "status": "ongoing",
+    "synopsis": "貴族の嫡男として異世界に生まれた少年バルドの体には、戦国武将とオタク高校生という二つの魂も同居していた。三人分の知識と経験を合わせ持つ彼は、戦いにも領地経営にも並外れた手腕を発揮していく。多重人格を活かした異世界内政ファンタジーである。三つの人格が相談しながら物事を進めるという構造が、独自の面白さを生む。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%95%B0%E4%B8%96%E7%95%8C%E8%BB%A2%E7%94%9F%E9%A8%92%E5%8B%95%E8%A8%98"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『異世界転生騒動記』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "volumeCount": 14
   }
 ]
