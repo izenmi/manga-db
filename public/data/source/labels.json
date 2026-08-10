@@ -4166,5 +4166,45 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "bessatsu-hana-to-yume",
+    "name": "別冊花とゆめ",
+    "nameKana": "べっさつはなとゆめ",
+    "publisherId": "hakusensha",
+    "description": "白泉社が発行していた少女漫画誌。「花とゆめ」の増刊。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "dokkai-ahen",
+    "name": "読解アヘン",
+    "nameKana": "どっかいあへん",
+    "publisherId": "square-enix",
+    "description": "個人サイトで発表されていたウェブ漫画の掲載元。商業単行本はスクウェア・エニックスが刊行した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "young-king-ours-gh",
+    "name": "月刊ヤングキングアワーズGH",
+    "nameKana": "げっかんやんぐきんぐあわーずじーえいち",
+    "publisherId": "shonen-gahosha",
+    "description": "少年画報社が発行する青年漫画誌。「ヤングキングアワーズ」の姉妹誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "monthly-ascii-comic",
+    "name": "月刊アスキーコミック",
+    "nameKana": "げっかんあすきーこみっく",
+    "publisherId": "ascii",
+    "description": "アスキーが発行していた漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
