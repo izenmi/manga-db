@@ -1373,5 +1373,32 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "enix",
+    "name": "エニックス",
+    "nameKana": "えにっくす",
+    "description": "遊戯と出版を手がけていた企業。現在のスクウェア・エニックスの前身の一つ。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "cllenn",
+    "name": "CLLENN",
+    "nameKana": "くれん",
+    "description": "電子書籍を手がける出版社。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "dmm",
+    "name": "DMM.com",
+    "nameKana": "でぃーえむえむどっとこむ",
+    "description": "電子書籍や動画などの配信事業を手がける企業。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]

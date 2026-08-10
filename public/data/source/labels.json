@@ -6126,5 +6126,35 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "monthly-newtype",
+    "name": "月刊ニュータイプ",
+    "nameKana": "げっかんにゅーたいぷ",
+    "publisherId": "kadokawa-shoten",
+    "description": "角川書店が発行する映像作品の情報誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "serie-mystery",
+    "name": "セリエミステリー",
+    "nameKana": "せりえみすてりー",
+    "publisherId": "hakusensha",
+    "description": "白泉社が発行していた女性向け漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "dmm-books",
+    "name": "DMMブックス",
+    "nameKana": "でぃーえむえむぶっくす",
+    "publisherId": "dmm",
+    "description": "電子書籍の配信サービス。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
