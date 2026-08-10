@@ -4866,5 +4866,65 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "hatsu-kiss",
+    "name": "ハツキス",
+    "nameKana": "はつきす",
+    "publisherId": "kodansha",
+    "description": "講談社が刊行していた女性向け漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "dragon-magazine",
+    "name": "月刊ドラゴンマガジン",
+    "nameKana": "げっかんどらごんまがじん",
+    "publisherId": "fujimi-shobo",
+    "description": "富士見書房が発行するライトノベル誌。漫画も連載された。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "bal-pretty",
+    "name": "バル・プリティ",
+    "nameKana": "ばるぷりてぃ",
+    "publisherId": "kobunsha",
+    "description": "光文社が刊行していた漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "corocoro-aniki",
+    "name": "コロコロアニキ",
+    "nameKana": "ころころあにき",
+    "publisherId": "shogakukan",
+    "description": "小学館が刊行していた大人向けの児童誌派生誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "on-blue",
+    "name": "on BLUE",
+    "nameKana": "おんぶるー",
+    "publisherId": "shodensha",
+    "description": "祥伝社が刊行するボーイズラブ漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "corona-ex",
+    "name": "コロナEX",
+    "nameKana": "ころないーえっくす",
+    "publisherId": "tobooks",
+    "description": "TOブックスが運営する漫画配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
