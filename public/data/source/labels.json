@@ -3996,5 +3996,25 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "premier-cheese",
+    "name": "プレミアCheese!",
+    "nameKana": "ぷれみあちーず",
+    "publisherId": "shogakukan",
+    "description": "小学館が発行していた女性向け漫画誌。「Cheese!」の増刊。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "mechacomic",
+    "name": "めちゃコミック",
+    "nameKana": "めちゃこみっく",
+    "publisherId": "screamo",
+    "description": "電子コミック配信サービス。オリジナル作品の連載も行う。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
