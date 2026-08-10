@@ -1355,5 +1355,23 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "core-magazine",
+    "name": "コアマガジン",
+    "nameKana": "こあまがじん",
+    "description": "成人向け雑誌を中心に刊行する出版社。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "x-corp",
+    "name": "X",
+    "nameKana": "えっくす",
+    "description": "短文投稿を中心とした交流サービスを運営する企業。旧称はTwitter。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]

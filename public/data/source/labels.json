@@ -6076,5 +6076,55 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "comic-megastore",
+    "name": "コミックメガストア",
+    "nameKana": "こみっくめがすとあ",
+    "publisherId": "core-magazine",
+    "description": "コアマガジンが発行していた成人向け漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "dengeki-kuromaoh",
+    "name": "電撃黒魔王",
+    "nameKana": "でんげきくろまおう",
+    "publisherId": "ascii-media-works",
+    "description": "アスキー・メディアワークスが発行していた漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "sylph",
+    "name": "シルフ",
+    "nameKana": "しるふ",
+    "publisherId": "kadokawa",
+    "description": "KADOKAWAが発行していた女性向け漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "twitter",
+    "name": "Twitter",
+    "nameKana": "ついったー",
+    "publisherId": "x-corp",
+    "description": "短文投稿を中心とした交流サービス。作品の発表の場としても使われる。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "comic-bs-log-air-raid",
+    "name": "コミックビーズログエアレイド",
+    "nameKana": "こみっくびーずろぐえあれいど",
+    "publisherId": "enterbrain",
+    "description": "エンターブレインが発行していた漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
