@@ -82939,5 +82939,915 @@
     "sourceNote": "日本語版Wikipedia『私の推しは悪役令嬢。』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-10",
     "volumeCount": 12
+  },
+  {
+    "id": "suzumiyaharuhichannoyuuutsu",
+    "title": "涼宮ハルヒちゃんの憂鬱",
+    "titleKana": "すずみやはるひちゃんのゆううつ",
+    "originalAuthorIds": [
+      "tanigawa-nagaru"
+    ],
+    "artistIds": [
+      "puyo"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "monthly-shonen-ace",
+    "themeIds": [
+      "comedy",
+      "school",
+      "sci-fi"
+    ],
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "涼宮ハルヒシリーズの登場人物たちを頭身の低い姿で描き直した、公式のパロディギャグ漫画。原作の設定を下敷きにしながら、四コマと短編を織り交ぜてひたすら悪ふざけに徹する。原作では深刻に扱われた出来事も、軽い笑いへ変換されていく。原作を知る読者ほど楽しめる、内輪向けの一作である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%B6%BC%E5%AE%AE%E3%83%8F%E3%83%AB%E3%83%92%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E6%86%82%E9%AC%B1"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『涼宮ハルヒちゃんの憂鬱』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2012,
+    "volumeCount": 12
+  },
+  {
+    "id": "kannagi",
+    "title": "かんなぎ",
+    "titleKana": "かんなぎ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "takenashi-eri"
+    ],
+    "publisherId": "ichijinsha",
+    "labelId": "comic-rex",
+    "themeIds": [
+      "comedy",
+      "dark-fantasy",
+      "school"
+    ],
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "synopsis": "霊感の強い高校生・御厨仁が切り倒された神木から彫り上げた像から、産土神を名乗る少女ナギが現れる。神木が失われたことで町に穢れが生まれ、二人はそれを祓うため共同生活を始める。神様との暮らしを軽やかに描きながら、ナギ自身の記憶の欠落という影も差し込まれていく学園コメディである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%8B%E3%82%93%E3%81%AA%E3%81%8E_%28%E6%BC%AB%E7%94%BB%29"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『かんなぎ (漫画)』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2017,
+    "volumeCount": 12
+  },
+  {
+    "id": "iganokabamaru",
+    "title": "伊賀野カバ丸",
+    "titleKana": "いがのかばまる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "azuki-yuu"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "bessatsu-margaret",
+    "themeIds": [
+      "comedy",
+      "school",
+      "romance"
+    ],
+    "firstPublishedYear": 1979,
+    "status": "completed",
+    "synopsis": "山奥で忍者修行に明け暮れていた少年カバ丸は、祖父の初恋相手だった学院長に引き取られ、東京の名門校へ通うことになる。常識の通じない彼が巻き起こす騒動と、学院長の孫娘との淡い交流が描かれていく。忍者を学園に放り込むという発想で人気を集めた、少女漫画のコメディである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E8%B3%80%E9%87%8E%E3%82%AB%E3%83%90%E4%B8%B8"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『伊賀野カバ丸』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 1982,
+    "volumeCount": 12
+  },
+  {
+    "id": "isekaimeikyuudeharemuo",
+    "title": "異世界迷宮でハーレムを",
+    "titleKana": "いせかいめいきゅうではーれむを",
+    "originalAuthorIds": [
+      "sogano-shachi"
+    ],
+    "artistIds": [
+      "hyouju-issei"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "monthly-shonen-ace",
+    "themeIds": [
+      "isekai",
+      "adventure",
+      "romance"
+    ],
+    "firstPublishedYear": 2017,
+    "status": "ongoing",
+    "synopsis": "引きこもりの高校生ミチオは、怪しげなゲームサイトで初期設定を終えた途端、異世界の村へ転移してしまう。元の世界へ戻れないと悟った彼は、与えられたジョブシステムを使って冒険者として生きることを決める。奴隷の少女を仲間に迎え、迷宮探索と暮らしを積み上げていく異世界ファンタジーである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%95%B0%E4%B8%96%E7%95%8C%E8%BF%B7%E5%AE%AE%E3%81%A7%E3%83%8F%E3%83%BC%E3%83%AC%E3%83%A0%E3%82%92"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『異世界迷宮でハーレムを』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "volumeCount": 12
+  },
+  {
+    "id": "unmeinomakimodoshi",
+    "title": "運命の巻戻士",
+    "titleKana": "うんめいのまきもどし",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kimura-fuuta"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "mira-coro-comic",
+    "themeIds": [
+      "sci-fi",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2021,
+    "status": "ongoing",
+    "synopsis": "時間を巻き戻す力を持つ組織「巻戻士」の少年クロノは、防げなかった事故や事件の現場へ跳び、人々を救うために動く。立ちはだかるのは、時を操って惨劇を引き起こす敵クロックハンズだった。限られた回数の巻き戻しをどう使うかに知恵を絞る、児童向けの時間ものである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%81%8B%E5%91%BD%E3%81%AE%E5%B7%BB%E6%88%BB%E5%A3%AB"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『運命の巻戻士』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "volumeCount": 12
+  },
+  {
+    "id": "sairentomebiusu",
+    "title": "サイレントメビウス",
+    "titleKana": "さいれんとめびうす",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "asamiya-kia"
+    ],
+    "publisherId": "kadokawa-shoten",
+    "labelId": "monthly-comic-comp",
+    "themeIds": [
+      "sci-fi",
+      "battle-action",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 1988,
+    "status": "completed",
+    "synopsis": "酸性雨の降りしきる近未来の東京。異界から現れる妖魔ルシファーホークが引き起こす怪事件に、女性だけで構成された専門部隊が立ち向かう。魔術と科学が混在する世界観のもと、隊員それぞれの過去と因縁が少しずつ明かされていく。緻密な描き込みで知られるサイバーパンク作品である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%83%AC%E3%83%B3%E3%83%88%E3%83%A1%E3%83%93%E3%82%A6%E3%82%B9"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『サイレントメビウス』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 1999,
+    "volumeCount": 12
+  },
+  {
+    "id": "akabanehonekonobodigado",
+    "title": "赤羽骨子のボディガード",
+    "titleKana": "あかばねほねこのぼでぃがーど",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nigatsu-masamitsu"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-magazine",
+    "themeIds": [
+      "battle-action",
+      "romance",
+      "school"
+    ],
+    "firstPublishedYear": 2022,
+    "status": "completed",
+    "synopsis": "地味な同級生・赤羽骨子に恋する少年たちは、彼女の命が狙われていることを知り、正体を隠したままボディガードとして守り抜くことを誓う。次々と送り込まれる刺客に立ち向かいながら、想いを打ち明けられないまま日常を装い続ける。学園を舞台にした、恋愛要素の強いアクション漫画である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E8%B5%A4%E7%BE%BD%E9%AA%A8%E5%AD%90%E3%81%AE%E3%83%9C%E3%83%87%E3%82%A3%E3%82%AC%E3%83%BC%E3%83%89"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『赤羽骨子のボディガード』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2024,
+    "volumeCount": 12
+  },
+  {
+    "id": "heruku",
+    "title": "Helck",
+    "titleKana": "へるく",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nanao-nanaki"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "ura-sunday",
+    "themeIds": [
+      "dark-fantasy",
+      "adventure",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2014,
+    "status": "completed",
+    "synopsis": "魔王が勇者に倒され、魔界では次の王を決める大会が開かれていた。責任者を務める四天王のヴァミリオは、参加者のなかに人間の勇者ヘルクを見つけて警戒を強める。人間を滅ぼすと公言する彼の真意を探るうちに、世界の裏側が姿を現していく。明るい絵柄から重い展開へ転じるファンタジーである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Helck"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『Helck』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2017,
+    "volumeCount": 12
+  },
+  {
+    "id": "sensoumeshi",
+    "title": "戦争めし",
+    "titleKana": "せんそうめし",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "uonome-santa"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "young-champion",
+    "themeIds": [
+      "historical",
+      "gourmet",
+      "war-military"
+    ],
+    "firstPublishedYear": 2015,
+    "status": "ongoing",
+    "synopsis": "戦中戦後の日本で人々が口にした食べ物を、一話完結の短編として描き集めた作品。すいとんや代用食、闇市の一杯といった食卓の記憶を通して、当時を生きた人々の暮らしと痛みが浮かび上がる。食を切り口にして戦争を語り直す作品である。作者が取材で集めた証言が下敷きになっている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%88%A6%E4%BA%89%E3%82%81%E3%81%97"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『戦争めし』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "volumeCount": 12
+  },
+  {
+    "id": "saikyouonmyoujinoisekaitenseikigebokunoy",
+    "title": "最強陰陽師の異世界転生記 〜下僕の妖怪どもに比べてモンスターが弱すぎるんだが〜",
+    "titleKana": "さいきょうおんみょうじのいせかいてんせいきげぼくのようかいどもにくらべてもんすたーがよわすぎるんだが",
+    "originalAuthorIds": [
+      "kosuzu-kiichi"
+    ],
+    "artistIds": [
+      "okazaki-toshinori"
+    ],
+    "publisherId": "futabasha",
+    "labelId": "gaugau-monster",
+    "themeIds": [
+      "isekai",
+      "dark-fantasy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2020,
+    "status": "ongoing",
+    "synopsis": "朝廷に仕えた天才陰陽師・玖峨晴嘉は、裏切りにあって命を落とす直前、転生の術で異世界へ渡る。セイカとして生まれ直した彼は、魔力を持たない落ちこぼれと侮られながら、体に満ちた呪力で陰陽術を振るう。目立たず生きようとして騒動に巻き込まれ続ける、異世界転生ファンタジーである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%9C%80%E5%BC%B7%E9%99%B0%E9%99%BD%E5%B8%AB%E3%81%AE%E7%95%B0%E4%B8%96%E7%95%8C%E8%BB%A2%E7%94%9F%E8%A8%98_%E3%80%9C%E4%B8%8B%E5%83%95%E3%81%AE%E5%A6%96%E6%80%AA%E3%81%A9%E3%82%82%E3%81%AB%E6%AF%94%E3%81%B9%E3%81%A6%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%81%8C%E5%BC%B1%E3%81%99%E3%81%8E%E3%82%8B%E3%82%93%E3%81%A0%E3%81%8C%E3%80%9C"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『最強陰陽師の異世界転生記 〜下僕の妖怪どもに比べてモンスターが弱すぎるんだが〜』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "volumeCount": 12
+  },
+  {
+    "id": "kamisamadooruzu",
+    "title": "神様ドォルズ",
+    "titleKana": "かみさまどぉるず",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yamamurahajime"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "sunday-gx",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action",
+      "sci-fi"
+    ],
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "山奥の村を捨てて上京した匡平のもとに、妹の詩緒が「案山子」と呼ばれる神様人形を連れて現れる。村の因習と、人形を操る一族の争いが都会にまで持ち込まれ、彼は否応なく巻き込まれていく。土着の信仰と機械めいた造形を掛け合わせた、伝奇色の強いバトル漫画である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%A7%98%E3%83%89%E3%82%A9%E3%83%AB%E3%82%BA"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『神様ドォルズ』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2013,
+    "volumeCount": 12
+  },
+  {
+    "id": "mixim-11",
+    "title": "MIXIM☆11",
+    "titleKana": "みきしむいれぶん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "anzai-nobuyuki"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "battle-action",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "見た目は悪くないのに絶望的にもてない男子高校生三人は、自分たちが北極星の王子候補であり、王の魔法でもてなくされていたと知らされる。その魔法が効かない十二人の少女だけが、彼らの相手になりうるという。命を狙う敵との戦いを絡めた、恋愛要素の強い少年向けバトル漫画である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/MIXIM%E2%98%8611"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『MIXIM☆11』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2011,
+    "volumeCount": 12
+  },
+  {
+    "id": "riarugaru",
+    "title": "3D彼女",
+    "titleKana": "りあるがーる",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nanami-mao"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "dessert",
+    "themeIds": [
+      "romance",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "アニメやゲームばかりの高校三年生・筒井光は、悪い噂の絶えない同級生・五十嵐色葉から突然交際を申し込まれる。戸惑いながら付き合い始めた彼は、彼女が転校するまでの半年を通じて、他人と向き合うことの難しさを知っていく。現実の恋愛に踏み出す過程を描いた少女漫画である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/3D%E5%BD%BC%E5%A5%B3"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『3D彼女』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2016,
+    "volumeCount": 12
+  },
+  {
+    "id": "toarukagakunoakuserareta",
+    "title": "とある科学の一方通行",
+    "titleKana": "とあるかがくのあくせられーた",
+    "originalAuthorIds": [
+      "kamachi-kazuma"
+    ],
+    "artistIds": [
+      "yamaji-arata"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "dengeki-daioh",
+    "themeIds": [
+      "battle-action",
+      "sci-fi",
+      "psychic-battle"
+    ],
+    "firstPublishedYear": 2013,
+    "status": "completed",
+    "synopsis": "学園都市に七人しかいない超能力者の頂点に立つ一方通行。打ち止めを救った代償に脳へ損傷を負った彼は、入院生活を強いられていた。そこへ持ち込まれた事件をきっかけに、彼は再び暴力の世界へ引き戻されていく。人気シリーズの外伝として、最強の能力者の側から描かれた作品である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%A8%E3%81%82%E3%82%8B%E7%A7%91%E5%AD%A6%E3%81%AE%E4%B8%80%E6%96%B9%E9%80%9A%E8%A1%8C"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『とある科学の一方通行』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2020,
+    "volumeCount": 12
+  },
+  {
+    "id": "senseinoojikan",
+    "title": "せんせいのお時間",
+    "titleKana": "せんせいのおじかん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "momosetamami"
+    ],
+    "publisherId": "takeshobo",
+    "labelId": "manga-life-original",
+    "themeIds": [
+      "comedy",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 1997,
+    "status": "completed",
+    "synopsis": "小柄な女性高校教師・鈴木みかを主人公に、彼女が受け持つクラスの生徒と同僚たちが繰り広げる日常を描いた四コマ漫画。教師らしく見てもらえないことに悩みながらも、みかは騒がしい面々に囲まれて日々を過ごしていく。掲載誌を移りながら十六年続いた、学園コメディの定番作である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%9B%E3%82%93%E3%81%9B%E3%81%84%E3%81%AE%E3%81%8A%E6%99%82%E9%96%93"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『せんせいのお時間』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2013,
+    "volumeCount": 12
+  },
+  {
+    "id": "omaikonbu",
+    "title": "OH!MYコンブ",
+    "titleKana": "おーまいこんぶ",
+    "originalAuthorIds": [
+      "akimoto-yasushi"
+    ],
+    "artistIds": [
+      "kamiyatakahiro"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "comic-bonbon",
+    "themeIds": [
+      "gourmet",
+      "comedy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 1990,
+    "status": "completed",
+    "synopsis": "料理を題材にした児童向けの漫画。主人公が創意工夫を凝らした料理で、さまざまな相手との勝負に挑んでいく。基本は一話完結の笑い中心だが、連載中盤からは本格的な対決も交えられるようになった。テレビ番組の企画者として知られる人物が企画・監修を務めた作品である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/OH%21MY%E3%82%B3%E3%83%B3%E3%83%96"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『OH!MYコンブ』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 1994,
+    "volumeCount": 12
+  },
+  {
+    "id": "matsurikakanriden",
+    "title": "茉莉花官吏伝",
+    "titleKana": "まつりかかんりでん",
+    "originalAuthorIds": [
+      "ishida-rinne"
+    ],
+    "artistIds": [
+      "takase-waka"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "gekkan-princess",
+    "themeIds": [
+      "historical",
+      "romance",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "平民として生まれた茉莉花は、物覚えのよさだけを頼りに後宮の宮女となる。ひょんなことから皇帝珀陽にその才を見込まれ、女性でありながら官吏として登用される。次々と課される難題を知恵で切り抜けていく、中華風の宮廷ファンタジーである。政治の駆け引きと恋愛が並行して描かれていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E8%8C%89%E8%8E%89%E8%8A%B1%E5%AE%98%E5%90%8F%E4%BC%9D"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『茉莉花官吏伝』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2025,
+    "volumeCount": 12
+  },
+  {
+    "id": "nandekokonisenseiga",
+    "title": "なんでここに先生が!?",
+    "titleKana": "なんでここにせんせいが",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "soborou"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "young-magazine",
+    "themeIds": [
+      "romance",
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 2017,
+    "status": "completed",
+    "synopsis": "思いがけない場所で教師と鉢合わせてしまう生徒たち。気まずさと色っぽさが入り混じった状況が、教師と生徒の組み合わせを変えながら次々に描かれていく。連作形式で綴られたお色気ラブコメディである。関係が進んでいく組と、ぎこちないままの組が並行して語られていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%AA%E3%82%93%E3%81%A7%E3%81%93%E3%81%93%E3%81%AB%E5%85%88%E7%94%9F%E3%81%8C%21%3F"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『なんでここに先生が!?』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2024,
+    "volumeCount": 12
+  },
+  {
+    "id": "sakurahimekaden",
+    "title": "桜姫華伝",
+    "titleKana": "さくらひめかでん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tanemura-arina"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "ribon",
+    "themeIds": [
+      "dark-fantasy",
+      "romance",
+      "historical"
+    ],
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "平安の世、山荘でひっそりと暮らす少女・桜は、満月を見てはならないという約束を交わしていた。都へ召されることを拒んで家出した彼女は、その禁を破り、自らの内に潜むものと向き合うことになる。かぐや姫の物語を下敷きにした少女漫画のファンタジーである。二つの人格の間で揺れる主人公が物語を引っ張る。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%A1%9C%E5%A7%AB%E8%8F%AF%E4%BC%9D"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『桜姫華伝』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2013,
+    "volumeCount": 12
+  },
+  {
+    "id": "oniichannokotonankazenzensukijanaindakar",
+    "title": "お兄ちゃんのことなんかぜんぜん好きじゃないんだからねっ!!",
+    "titleKana": "おにいちゃんのことなんかぜんぜんすきじゃないんだからねっ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kusano-kouichi"
+    ],
+    "publisherId": "futabasha",
+    "labelId": "comic-high",
+    "themeIds": [
+      "romance",
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "兄の修輔に強い好意を寄せる高梨奈緒と、少しばかり助平な兄との、際どいやり取りが続く日々。そこへ十年ぶりに戻ってきた幼なじみが加わり、奈緒は落ち着かなくなる。兄妹という枠を越えられないまま騒ぎ続ける、四コマ形式のお色気ラブコメディである。それぞれの思惑がすれ違い続ける点が可笑しさを生む。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%8A%E5%85%84%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E3%81%93%E3%81%A8%E3%81%AA%E3%82%93%E3%81%8B%E3%81%9C%E3%82%93%E3%81%9C%E3%82%93%E5%A5%BD%E3%81%8D%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E3%82%93%E3%81%A0%E3%81%8B%E3%82%89%E3%81%AD%E3%81%A3%21%21"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『お兄ちゃんのことなんかぜんぜん好きじゃないんだからねっ!!』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2016,
+    "volumeCount": 12
+  },
+  {
+    "id": "sentouin",
+    "title": "戦闘員、派遣します!",
+    "titleKana": "せんとういん",
+    "originalAuthorIds": [
+      "akatsuki-natsume"
+    ],
+    "artistIds": [
+      "kiasamasaaki"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "comic-alive",
+    "themeIds": [
+      "isekai",
+      "comedy",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "世界征服を掲げる秘密結社キサラギは、社員のリストラを避けるため他の惑星への侵略を計画する。尖兵に選ばれた戦闘員六号は、口の悪いアンドロイドを連れて剣と魔法の世界へ送り込まれる。悪の組織の側から異世界を荒らしていく、軽口だらけのコメディファンタジーである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%88%A6%E9%97%98%E5%93%A1%E3%80%81%E6%B4%BE%E9%81%A3%E3%81%97%E3%81%BE%E3%81%99%21"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『戦闘員、派遣します!』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2024,
+    "volumeCount": 12
+  },
+  {
+    "id": "gugurekokkurisan",
+    "title": "繰繰れ! コックリさん",
+    "titleKana": "ぐぐれこっくりさん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "endou-midori"
+    ],
+    "publisherId": "square-enix",
+    "labelId": "gangan-joker",
+    "themeIds": [
+      "comedy",
+      "dark-fantasy",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "人形を自称する風変わりな少女・市松こひなが、狐の物の怪コックリさんを呼び出す。取り憑くつもりだったコックリさんは、一人で暮らす彼女を放っておけず、家事に明け暮れる母親のような存在になってしまう。次々と居着く物の怪たちとの騒がしい日々を描いたコメディである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%B9%B0%E7%B9%B0%E3%82%8C%21_%E3%82%B3%E3%83%83%E3%82%AF%E3%83%AA%E3%81%95%E3%82%93"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『繰繰れ! コックリさん』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2016,
+    "volumeCount": 12
+  },
+  {
+    "id": "oiobasan",
+    "title": "オイ!! オバさん",
+    "titleKana": "おいおばさん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "izumikatsuki"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "monthly-shonen-champion",
+    "themeIds": [
+      "comedy",
+      "delinquent",
+      "school"
+    ],
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "複雑な家庭の事情から親類を避けてきた高校生・沢田透の前に、実の叔母である安宅菅子が現れ、同居生活が始まる。彼女は中学時代にメドゥーサと恐れられた伝説の不良で、身内以外におばさんと呼ばれると怒りを爆発させる。過去を抱えた叔母と甥の日々を描く学園ギャグコメディである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A4%21%21_%E3%82%AA%E3%83%90%E3%81%95%E3%82%93"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『オイ!! オバさん』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2015,
+    "volumeCount": 12
+  },
+  {
+    "id": "sasayakuyounikoioutau",
+    "title": "ささやくように恋を唄う",
+    "titleKana": "ささやくようにこいをうたう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "takeshima-eku"
+    ],
+    "publisherId": "ichijinsha",
+    "labelId": "comic-yuri-hime",
+    "themeIds": [
+      "yuri",
+      "music",
+      "school"
+    ],
+    "firstPublishedYear": 2019,
+    "status": "ongoing",
+    "synopsis": "入学初日、木野ひまりは新入生歓迎会で歌う先輩・朝凪依に一目で心を奪われる。だがひまりの憧れを恋心と受け取った依は、本気で彼女を惚れさせようと決意する。噛み合わない好意のずれを軸に、音楽を介して近づいていく二人を描いた百合作品である。歌と演奏の場面が、関係の変化を映していく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%95%E3%82%84%E3%81%8F%E3%82%88%E3%81%86%E3%81%AB%E6%81%8B%E3%82%92%E5%94%84%E3%81%86"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ささやくように恋を唄う』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "volumeCount": 12
+  },
+  {
+    "id": "monkipiku",
+    "title": "モンキーピーク",
+    "titleKana": "もんきーぴーく",
+    "originalAuthorIds": [
+      "shinasakakouji"
+    ],
+    "artistIds": [
+      "kumeta-akihiro"
+    ],
+    "publisherId": "nihon-bungeisha",
+    "labelId": "manga-goraku",
+    "themeIds": [
+      "horror",
+      "suspense-psychological",
+      "adventure"
+    ],
+    "firstPublishedYear": 2016,
+    "status": "completed",
+    "synopsis": "薬害問題で追い詰められた製薬会社の社員たちが、結束を高めるための登山に出る。初日の夜、鉈を持った巨大な猿のような生物と遭遇し、翌朝には惨殺死体が見つかる。連絡手段を絶たれた一行が山中で追い詰められていく、閉鎖状況のパニックホラーである。人間側の疑心暗鬼も同時に描かれていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%82%AD%E3%83%BC%E3%83%94%E3%83%BC%E3%82%AF"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『モンキーピーク』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2019,
+    "volumeCount": 12
+  },
+  {
+    "id": "fushigiyuugigenbukaiden",
+    "title": "ふしぎ遊戯 玄武開伝",
+    "titleKana": "ふしぎゆうぎげんぶかいでん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "watase-yuu"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shojo-comic",
+    "themeIds": [
+      "isekai",
+      "adventure",
+      "romance"
+    ],
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "大正十二年、母を亡くした女学生・奥田多喜子は、父が持ち帰った経典「四神天地之書」に吸い込まれ、異世界へ送り込まれる。そこで玄武の巫女とされた彼女は、七人の星士を集めて国を救う役目を負わされる。人気作の前日譚にあたる、異世界召喚ファンタジーである。願いの代償という主題が重く描かれる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%B5%E3%81%97%E3%81%8E%E9%81%8A%E6%88%AF_%E7%8E%84%E6%AD%A6%E9%96%8B%E4%BC%9D"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ふしぎ遊戯 玄武開伝』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2013,
+    "volumeCount": 12
+  },
+  {
+    "id": "hakaimasadamitsu",
+    "title": "破壊魔定光",
+    "titleKana": "はかいまさだみつ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nakahira-masahiko"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "ultra-jump",
+    "themeIds": [
+      "battle-action",
+      "sci-fi",
+      "comedy"
+    ],
+    "firstPublishedYear": 1999,
+    "status": "completed",
+    "synopsis": "不良高校生の椿定光は、喋る戦闘用ヘルメット「ポンコツ」を拾う。宇宙から飛来した二千万体の流刑体を回収する使命があると言うそれに、義理堅い定光は付き合うことにする。巨大な相手を街ごと壊しながら戦っていく、勢い重視のバトル漫画である。仁義を通そうとする主人公の性格が物語を動かしていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%A0%B4%E5%A3%8A%E9%AD%94%E5%AE%9A%E5%85%89"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『破壊魔定光』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2005,
+    "volumeCount": 12
+  },
+  {
+    "id": "niwatorifaita",
+    "title": "ニワトリ・ファイター",
+    "titleKana": "にわとりふぁいたー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "sakuratani-shuu"
+    ],
+    "publisherId": "hero-s",
+    "labelId": "comiplex",
+    "themeIds": [
+      "battle-action",
+      "adventure",
+      "comedy"
+    ],
+    "firstPublishedYear": 2020,
+    "status": "ongoing",
+    "synopsis": "鬼獣と呼ばれる異形の巨大生物が人々を襲う日本。それに立ち向かうのは、一羽のニワトリだった。言葉を発さないまま各地を渡り歩き、圧倒的な体格差をものともせず鬼獣を屠っていく。突飛な設定を大真面目に描き切ったバトルアクションである。二〇二六年にはテレビアニメも放送された。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%AF%E3%83%88%E3%83%AA%E3%83%BB%E3%83%95%E3%82%A1%E3%82%A4%E3%82%BF%E3%83%BC"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ニワトリ・ファイター』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "volumeCount": 12
+  },
+  {
+    "id": "guguganmo",
+    "title": "Gu-Guガンモ",
+    "titleKana": "ぐーぐーがんも",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hosonofujihiko"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "comedy",
+      "sci-fi",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 1982,
+    "status": "completed",
+    "synopsis": "捨てられていた巨大な卵から現れたのは、ニワトリのような姿をした謎の生物だった。佃家に居候することになったガンモを中心に、近所の子どもたちを巻き込んだ騒動が次々と起こる。テンポのよい掛け合いで押し切る、一九八〇年代を代表するギャグ漫画のひとつである。奇天烈な発想が毎回のように繰り出されていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Gu-Gu%E3%82%AC%E3%83%B3%E3%83%A2"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『Gu-Guガンモ』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 1985,
+    "volumeCount": 12
+  },
+  {
+    "id": "bagatawei",
+    "title": "バガタウェイ",
+    "titleKana": "ばがたうぇい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kohinata-iroha"
+    ],
+    "publisherId": "mag-garden",
+    "labelId": "monthly-comic-blade",
+    "themeIds": [
+      "sports",
+      "school",
+      "comedy"
+    ],
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "離島の実家でラーメン屋を手伝っていた空木雫は、母の勧めで本土の高校へ進学する。そこで出会ったのは、見たことも聞いたこともないラクロスという競技だった。部の仲間との交流を重ねるうちに、彼女は隠れていた才能を開花させていく。まだ馴染みの薄い競技を題材にしたスポーツ漫画である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%AC%E3%82%BF%E3%82%A6%E3%82%A7%E3%82%A4"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『バガタウェイ』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2015,
+    "volumeCount": 12
   }
 ]
