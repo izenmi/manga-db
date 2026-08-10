@@ -6266,5 +6266,85 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "hyke-comic",
+    "name": "HykeComic",
+    "nameKana": "はいくこみっく",
+    "publisherId": "hyke",
+    "description": "電子漫画の配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "shueisha-international",
+    "name": "集英社インターナショナル",
+    "nameKana": "しゅうえいしゃいんたーなしょなる",
+    "publisherId": "shueisha",
+    "description": "集英社の系列出版社。公式サイトで漫画の連載も行っていた。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "comic-morning-party-zoukan",
+    "name": "コミックモーニングパーティー増刊",
+    "nameKana": "こみっくもーにんぐぱーてぃーぞうかん",
+    "publisherId": "kodansha",
+    "description": "講談社が発行していたモーニングの増刊誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "monthly-shinbad",
+    "name": "月刊シンバッド",
+    "nameKana": "げっかんしんばっど",
+    "publisherId": "takeshobo",
+    "description": "竹書房が発行していた漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "rakuen",
+    "name": "楽園",
+    "nameKana": "らくえん",
+    "publisherId": "hakusensha",
+    "description": "白泉社が発行する漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "comic-dragon",
+    "name": "コミックドラゴン",
+    "nameKana": "こみっくどらごん",
+    "publisherId": "fujimi-shobo",
+    "description": "富士見書房が発行していた漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "take-comi",
+    "name": "竹コミ!",
+    "nameKana": "たけこみ",
+    "publisherId": "takeshobo",
+    "description": "竹書房が運営する漫画配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "lemon-people",
+    "name": "レモンピープル",
+    "nameKana": "れもんぴーぷる",
+    "publisherId": "kubo-shoten",
+    "description": "久保書店が発行していた成人向け漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
