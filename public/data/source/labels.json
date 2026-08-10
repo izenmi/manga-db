@@ -5516,5 +5516,65 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "yonkoma-nano-ace",
+    "name": "4コマnanoエース",
+    "nameKana": "よんこまなのえーす",
+    "publisherId": "kadokawa-shoten",
+    "description": "角川書店が刊行していた四コマ漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "mystery-dx",
+    "name": "ミステリーDX",
+    "nameKana": "みすてりーでらっくす",
+    "publisherId": "kadokawa-shoten",
+    "description": "角川書店が刊行していた漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "neko-punch",
+    "name": "ねこぱんち",
+    "nameKana": "ねこぱんち",
+    "publisherId": "shonen-gahosha",
+    "description": "少年画報社が刊行する猫を題材とした漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "bessatsu-shojo-friend",
+    "name": "別冊少女フレンド",
+    "nameKana": "べっさつしょうじょふれんど",
+    "publisherId": "kodansha",
+    "description": "講談社が刊行していた少女漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "bl-screamo",
+    "name": "BLスクリーモ",
+    "nameKana": "びーえるすくりーも",
+    "publisherId": "screamo",
+    "description": "スクリーモが運営するボーイズラブ漫画の配信枠。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "blade-online",
+    "name": "BLADE ONLINE",
+    "nameKana": "ぶれいどおんらいん",
+    "publisherId": "mag-garden",
+    "description": "マッグガーデンが運営していた漫画配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
