@@ -4396,5 +4396,75 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "comic-border",
+    "name": "COMIC BORDER",
+    "nameKana": "こみっくぼーだー",
+    "publisherId": "leed-sha",
+    "description": "リイド社が運営するウェブ漫画配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "yanjan",
+    "name": "ヤンジャン!",
+    "nameKana": "やんじゃん",
+    "publisherId": "shueisha",
+    "description": "集英社が運営する漫画アプリ。ヤングジャンプ系の作品を配信する。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "comic-alive-plus",
+    "name": "アライブ+",
+    "nameKana": "あらいぶぷらす",
+    "publisherId": "kadokawa",
+    "description": "KADOKAWAが運営するウェブ漫画配信サイト。「コミックアライブ」の姉妹媒体。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "aokishi",
+    "name": "青騎士",
+    "nameKana": "あおきし",
+    "publisherId": "kadokawa",
+    "description": "KADOKAWAが発行する漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "monthly-play-comic",
+    "name": "月刊プレイコミック",
+    "nameKana": "げっかんぷれいこみっく",
+    "publisherId": "akita-shoten",
+    "description": "秋田書店が発行していた青年漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "tsui4",
+    "name": "ツイ4",
+    "nameKana": "ついふぉー",
+    "publisherId": "seikaisha",
+    "description": "星海社がSNS上で展開する日刊四コマ漫画の配信サービス。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "comic-moe",
+    "name": "コミック・モエ",
+    "nameKana": "こみっくもえ",
+    "publisherId": "kaiseisha",
+    "description": "偕成社が発行していた漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
