@@ -5916,5 +5916,65 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "monthly-g-fantasy",
+    "name": "月刊Gファンタジー",
+    "nameKana": "げっかんじーふぁんたじー",
+    "publisherId": "square-enix",
+    "description": "スクウェア・エニックスが発行する月刊漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "kurofune",
+    "name": "クロフネ",
+    "nameKana": "くろふね",
+    "publisherId": "libre",
+    "description": "リブレが刊行する女性向け作品のレーベル。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "comic-jackpot",
+    "name": "コミックジャックポット",
+    "nameKana": "こみっくじゃっくぽっと",
+    "publisherId": "leed-sha",
+    "description": "リイド社が発行していた成人向け漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "comic-bs-log",
+    "name": "comic B's-LOG",
+    "nameKana": "こみっくびーずろぐ",
+    "publisherId": "enterbrain",
+    "description": "エンターブレインが発行していた女性向け漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "heros-web",
+    "name": "HERO'S Web",
+    "nameKana": "ひーろーずうぇぶ",
+    "publisherId": "hero-s",
+    "description": "ヒーローズが運営する漫画配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "koiyui",
+    "name": "KoiYui",
+    "nameKana": "こいゆい",
+    "publisherId": "futabasha",
+    "description": "双葉社が運営していた漫画配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
