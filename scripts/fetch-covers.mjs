@@ -171,7 +171,7 @@ function isPlaceholderImage(imageUrl) {
 // アップルシード→データ集, 純情ロマンチカ→イラスト集, YAWARA!/ROOKIES→全巻セット, 新世紀
 // エヴァンゲリオン→画集 (see CLAUDE.md).
 const NON_VOLUME_PATTERNS =
-  /画集|イラスト集|設定資料|ファンブック|アンソロジー|全巻セット|完結セット|コミックセット|セット\s*$|大全集|短編集|傑作選|データ集|ガイドブック|ムック|カレンダー/;
+  /画集|イラスト集|設定資料|ファンブック|アンソロジー|全巻セット|完結セット|コミックセット|セット\s*$|大全集|短編集|傑作選|データ集|ガイドブック|コンプリートガイド|公式ガイド|ノベライズ|小説版|ムック|カレンダー/;
 
 /**
  * Orders otherwise-equal candidates: a volume 1 beats an unnumbered volume, which beats volume 27.
