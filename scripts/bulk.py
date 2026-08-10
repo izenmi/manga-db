@@ -36,7 +36,8 @@ INDEX = STATE / "index.json"
 POOL = STATE / "pool.json"
 SKIP = STATE / "skip.json"
 UA = "manga-db-bulk/1.0 (https://izenmi.github.io/manga-db/)"
-TODAY = "2026-08-09"
+import datetime
+TODAY = datetime.date.today().isoformat()   # 日付をまたいでも updatedAt がずれないようにする
 ROOT_CAT = "Category:漫画作品 (五十音別)"
 
 # あらすじに使う節。上から順に探す。「概要」は制作経緯やメディア展開の話になりがちで
@@ -531,7 +532,7 @@ def cmd_build(args):
         batch["newLabels"].append({
             "id": x["id"], "name": x["name"], "nameKana": x["kana"], "publisherId": x["pub"],
             "description": x["desc"], "externalLinks": {},
-            "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
+            "sourceNote": f"日本語版Wikipediaの当該作品記事および雑誌記事で確認({TODAY}閲覧)。",
             "updatedAt": TODAY})
     # Infoboxが2人を1つの名前として持っている場合(『SHIORI EXPERIENCE』の「長田悠幸 町田一八」)、
     # 片方は new_people に現れないので annot 側で直接足せるようにしておく
@@ -542,14 +543,14 @@ def cmd_build(args):
                 "description": x.get("desc", "漫画を手がける漫画家。" if key == "newArtists"
                                       else "漫画の原作を手がける。"),
                 "externalLinks": {},
-                "sourceNote": "日本語版Wikipediaの当該作品記事で確認(2026-08-09閲覧)。",
+                "sourceNote": f"日本語版Wikipediaの当該作品記事で確認({TODAY}閲覧)。",
                 "updatedAt": TODAY})
             known["ar" if key == "newArtists" else "oa"].add(x["id"])
     for x in annot.get("newPublishers", []):
         batch["newPublishers"].append({
             "id": x["id"], "name": x["name"], "nameKana": x["kana"],
             "description": x["desc"], "externalLinks": {},
-            "sourceNote": "日本語版Wikipediaの当該記事で確認(2026-08-09閲覧)。",
+            "sourceNote": f"日本語版Wikipediaの当該記事で確認({TODAY}閲覧)。",
             "updatedAt": TODAY})
 
     seen_person, problems = set(), []
@@ -615,11 +616,11 @@ def cmd_build(args):
             rec = {"id": p["id"], "name": p["name"], "nameKana": p["kana"],
                    "description": "漫画を手がける漫画家。" if p["kind"] == "ar" else "漫画の原作を手がける。",
                    "externalLinks": {},
-                   "sourceNote": f"日本語版Wikipedia『{r['page']}』記事および人物記事で確認(2026-08-09閲覧)。",
+                   "sourceNote": f"日本語版Wikipedia『{r['page']}』記事および人物記事で確認({TODAY}閲覧)。",
                    "updatedAt": TODAY}
             batch["newArtists" if p["kind"] == "ar" else "newOriginalAuthors"].append(rec)
         else:
-            note = (f"日本語版Wikipedia『{r['page']}』記事(2026-08-09閲覧)で"
+            note = (f"日本語版Wikipedia『{r['page']}』記事({TODAY}閲覧)で"
                     "作者・掲載誌・連載期間・巻数")
             note += "・アニメ化" if r["anime"] else ""
             note += "を確認。あらすじは独自要約(コピペなし)。"
