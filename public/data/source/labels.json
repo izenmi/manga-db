@@ -4946,5 +4946,55 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "kawade-comics",
+    "name": "河出書房新社",
+    "nameKana": "かわでしょぼうしんしゃ",
+    "publisherId": "kawade-shobo-shinsha",
+    "description": "河出書房新社が刊行する漫画単行本。雑誌連載を経ない描き下ろし作品も含む。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "sankei-shimbun",
+    "name": "サンケイ新聞",
+    "nameKana": "さんけいしんぶん",
+    "publisherId": "sankei-shuppan",
+    "description": "サンケイ新聞社が発行していた日刊紙。連載漫画も掲載された。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "dengeki-gs-comic",
+    "name": "電撃G'sコミック",
+    "nameKana": "でんげきじーずこみっく",
+    "publisherId": "ascii-media-works",
+    "description": "アスキー・メディアワークスが刊行していた漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "kado-comi-original",
+    "name": "カドコミオリジナル",
+    "nameKana": "かどこみおりじなる",
+    "publisherId": "kadokawa",
+    "description": "KADOKAWAが運営する漫画配信サイトのオリジナル枠。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "play-comic",
+    "name": "プレイコミック",
+    "nameKana": "ぷれいこみっく",
+    "publisherId": "akita-shoten",
+    "description": "秋田書店が刊行していた青年漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
