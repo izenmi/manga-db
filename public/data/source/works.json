@@ -93812,5 +93812,905 @@
     "updatedAt": "2026-08-10",
     "latestPublishedYear": 2015,
     "volumeCount": 10
+  },
+  {
+    "id": "tomatoipunorikopin",
+    "title": "トマトイプーのリコピン",
+    "titleKana": "とまといぷーのりこぴん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ooishi-kouji"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "comedy",
+      "dark-fantasy",
+      "school"
+    ],
+    "firstPublishedYear": 2017,
+    "status": "completed",
+    "synopsis": "キュートピアという不思議な世界へ迷い込んだ中学生のめめちゃんと、リコピンをはじめとする可愛らしい動物たち。愛らしい絵柄とは裏腹に、時事ネタや下ネタ、ネット上の話題を容赦なく詰め込んでいく。前作から五年ぶりとなる作者の連載で、少年誌に八年にわたって掲載されたギャグ漫画である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%9E%E3%83%88%E3%82%A4%E3%83%97%E3%83%BC%E3%81%AE%E3%83%AA%E3%82%B3%E3%83%94%E3%83%B3"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『トマトイプーのリコピン』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2025,
+    "volumeCount": 10
+  },
+  {
+    "id": "byutipoppu",
+    "title": "ビューティー・ポップ",
+    "titleKana": "びゅーてぃーぽっぷ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "araikiyoko"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "ciao",
+    "themeIds": [
+      "arts",
+      "school",
+      "romance"
+    ],
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "髪を切られて泣いていた少女を、その場に居合わせた女子高生・小柴綺里が鮮やかなヘアメイクで変身させる。プロ並みの腕を持ちながら、過去の失敗を引きずって美容師を志さずにいた彼女は、次第に夢と向き合っていく。美容を題材にした、児童向け雑誌の少女漫画である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%83%BB%E3%83%9D%E3%83%83%E3%83%97"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ビューティー・ポップ』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2008,
+    "volumeCount": 10
+  },
+  {
+    "id": "kaonidenaikashiwadasantokaonideruootakun",
+    "title": "顔に出ない柏田さんと顔に出る太田君",
+    "titleKana": "かおにでないかしわださんとかおにでるおおたくん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "azuma-fuyu"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "dora-dora-dragon-age",
+    "themeIds": [
+      "romance",
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "何を考えているか読めないほど表情の動かない柏田さんと、感情が全部顔に出てしまう太田君。噛み合わないようでいて実は通じ合っている二人のやり取りが、短い挿話として積み重ねられていく。表情という一点に絞った着想で押し切る、ウェブ発のラブコメディである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%A1%94%E3%81%AB%E5%87%BA%E3%81%AA%E3%81%84%E6%9F%8F%E7%94%B0%E3%81%95%E3%82%93%E3%81%A8%E9%A1%94%E3%81%AB%E5%87%BA%E3%82%8B%E5%A4%AA%E7%94%B0%E5%90%9B"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『顔に出ない柏田さんと顔に出る太田君』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2023,
+    "volumeCount": 10
+  },
+  {
+    "id": "bokuhaimoutonikoiosuru",
+    "title": "僕は妹に恋をする",
+    "titleKana": "ぼくはいもうとにこいをする",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "aokikotomi"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shojo-comic",
+    "themeIds": [
+      "romance",
+      "school",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "双子の兄妹である結城頼と郁は、幼い頃から誰よりも仲がよかった。だが成長するにつれ、頼は郁を一人の女性として意識するようになり、許されない感情に苦しむ。わざと冷たく接する兄と、それに傷つく妹。禁じられた関係を正面から扱った少女漫画である。周囲の友人や家族の視線も、二人を追い詰める要素として描かれていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%83%95%E3%81%AF%E5%A6%B9%E3%81%AB%E6%81%8B%E3%82%92%E3%81%99%E3%82%8B"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『僕は妹に恋をする』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2008,
+    "volumeCount": 10
+  },
+  {
+    "id": "kinkyorirenai",
+    "title": "近キョリ恋愛",
+    "titleKana": "きんきょりれんあい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mikimoto-rin"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "bessatsu-friend",
+    "themeIds": [
+      "romance",
+      "school",
+      "comedy"
+    ],
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "学年首席の枢木ゆには、英語だけがどうしても苦手だった。ひょんなことから代理担任の英語教師・櫻井ハルカと付き合うことになった二人は、臨時の任期が終わるまで秘密にしようと決める。ところがその期間が延長されてしまう。教師と生徒の関係を描いた少女漫画のラブコメディである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E8%BF%91%E3%82%AD%E3%83%A7%E3%83%AA%E6%81%8B%E6%84%9B"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『近キョリ恋愛』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2011,
+    "volumeCount": 10
+  },
+  {
+    "id": "seidenrigueda",
+    "title": "聖伝-RG VEDA-",
+    "titleKana": "せいでんりぐぇーだ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "clamp"
+    ],
+    "publisherId": "shinshokan",
+    "labelId": "wings",
+    "themeIds": [
+      "dark-fantasy",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 1989,
+    "status": "completed",
+    "synopsis": "天界を過酷に統治する帝釈天に反旗を翻した武神将・夜叉王は、滅ぼされた一族の最後の生き残りである幼い阿修羅王を守り、天を滅ぼすと予言された六星を集める旅に出る。多くの犠牲を払って集った者たちが、居城で帝釈天と対峙する。インド神話を下敷きにした耽美な伝奇ファンタジーである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E8%81%96%E4%BC%9D-RG_VEDA-"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『聖伝-RG VEDA-』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 1996,
+    "volumeCount": 10
+  },
+  {
+    "id": "doggusubarettsuandokaneiji",
+    "title": "DOGS/BULLETS&CARNAGE",
+    "titleKana": "どっぐすばれっつあんどかーねいじ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "miwa-shirou"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "ultra-jump",
+    "themeIds": [
+      "battle-action",
+      "crime-underworld",
+      "sci-fi"
+    ],
+    "firstPublishedYear": 2005,
+    "status": "ongoing",
+    "synopsis": "地下都市を舞台に、それぞれの過去を抱えた者たちが銃と刀を手に交わっていく。人体実験の産物として生まれた者、記憶を封じられた者、追う者と追われる者。洗練された画面構成と静けさのある演出で描かれる、青年誌のガンアクションである。読み切り連載を経て長期連載となった。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/DOGS/BULLETS%26CARNAGE"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『DOGS/BULLETS&CARNAGE』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "volumeCount": 10
+  },
+  {
+    "id": "irakanonami",
+    "title": "いらかの波",
+    "titleKana": "いらかのなみ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kawa-akira"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "bessatsu-margaret",
+    "themeIds": [
+      "school",
+      "comedy",
+      "romance"
+    ],
+    "firstPublishedYear": 1977,
+    "status": "completed",
+    "synopsis": "緑ヶ丘中学に転校してきた小林渡は、常人離れした元気さでクラスを引っかき回していく。学級委員の江藤茜に注意されながらも彼女に好意を寄せ、その祖父が大工の棟梁だと知って関心を持つ。養子として愛情を受けながら、実父と同じ大工を志す少年を描いた学園ものである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%84%E3%82%89%E3%81%8B%E3%81%AE%E6%B3%A2"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『いらかの波』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 1980,
+    "volumeCount": 10
+  },
+  {
+    "id": "uchuujinmumu",
+    "title": "宇宙人ムームー",
+    "titleKana": "うちゅうじんむーむー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "miyashita-hiroki"
+    ],
+    "publisherId": "shonen-gahosha",
+    "labelId": "young-king-ours",
+    "themeIds": [
+      "comedy",
+      "sci-fi",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2019,
+    "status": "completed",
+    "synopsis": "母星の文明を立て直す手がかりとして家電の技術を学ぼうと、猫型の異星人ムームーが地球へやってくる。宇宙船ごと女子大生のアパートへ突っ込んだ彼は、そのまま居候を決め込んでしまう。家電をめぐる奇妙な騒動が次々と起こる、日常寄りのSFコメディである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%AE%87%E5%AE%99%E4%BA%BA%E3%83%A0%E3%83%BC%E3%83%A0%E3%83%BC"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『宇宙人ムームー』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2026,
+    "volumeCount": 10
+  },
+  {
+    "id": "rokettoman",
+    "title": "ロケットマン",
+    "titleKana": "ろけっとまん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kato-motohiro"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "monthly-shonen-magazine",
+    "themeIds": [
+      "detective-mystery",
+      "sci-fi",
+      "school"
+    ],
+    "firstPublishedYear": 2001,
+    "status": "completed",
+    "synopsis": "幼少期の記憶が抜け落ちている中学生・水無葉は、自分の生を実感できないままいじめに耐えていた。腹を刺された謎の男を助けたことから、彼は自分の空白に関わる出来事へ引き込まれていく。推理と超常的な要素を組み合わせた、少年誌のミステリー漫画である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88%E3%83%9E%E3%83%B3_%28%E5%8A%A0%E8%97%A4%E5%85%83%E6%B5%A9%E3%81%AE%E6%BC%AB%E7%94%BB%29"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ロケットマン (加藤元浩の漫画)』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2005,
+    "volumeCount": 10
+  },
+  {
+    "id": "hanakanmurinoryuunohimegimi",
+    "title": "花冠の竜の姫君",
+    "titleKana": "はなかんむりのりゅうのひめぎみ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nakayama-seika"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "princess-gold",
+    "themeIds": [
+      "dark-fantasy",
+      "romance",
+      "adventure"
+    ],
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "妖精や竜が息づく世界を舞台に、王家の血を引く姫君と彼女を守る者たちの戦いが描かれる。一九八〇年代から続くシリーズの次世代編にあたり、前作の登場人物の子どもたちが物語の中心となる。細密な描き込みで知られる、少女向けの本格ファンタジーである。前作の読者に向けた目配りと、単独でも読める導入が両立している。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E8%8A%B1%E5%86%A0%E3%81%AE%E7%AB%9C%E3%81%AE%E5%A7%AB%E5%90%9B"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『花冠の竜の姫君』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2012,
+    "volumeCount": 10
+  },
+  {
+    "id": "anokonikisutoshirayurio",
+    "title": "あの娘にキスと白百合を",
+    "titleKana": "あのこにきすとしらゆりを",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kanno"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "comic-alive",
+    "themeIds": [
+      "yuri",
+      "romance",
+      "school"
+    ],
+    "firstPublishedYear": 2013,
+    "status": "completed",
+    "synopsis": "何事も一番でいることを誇りにしてきた白峰あやかは、高等部で現れた天才・黒沢ゆりねにその座を奪われる。悔しがるあやかだったが、やがてゆりねが自分に好意を寄せていることに気づく。競い合いと恋心が入り混じったまま進んでいく、学園を舞台にした百合作品である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%AE%E5%A8%98%E3%81%AB%E3%82%AD%E3%82%B9%E3%81%A8%E7%99%BD%E7%99%BE%E5%90%88%E3%82%92"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『あの娘にキスと白百合を』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2019,
+    "volumeCount": 10
+  },
+  {
+    "id": "ribingugemu",
+    "title": "りびんぐゲーム",
+    "titleKana": "りびんぐげーむ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hoshisato-mochiru"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-spirits",
+    "themeIds": [
+      "comedy",
+      "romance",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 1990,
+    "status": "completed",
+    "synopsis": "念願の広いマンションに引っ越した独身の会社員・不破雷蔵の部屋に、移転先を失った勤務先の事務所が転がり込んでくる。さらに手違いで住む場所をなくした十五歳の新入社員まで居候することになる。住宅事情を軸に据えた、青年誌の同居ラブコメディである。住まいと職場が同じになるという設定が、笑いと気まずさを生み続ける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%8A%E3%81%B3%E3%82%93%E3%81%90%E3%82%B2%E3%83%BC%E3%83%A0"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『りびんぐゲーム』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 1993,
+    "volumeCount": 10
+  },
+  {
+    "id": "daredemodakerukimigasuki",
+    "title": "だれでも抱けるキミが好き",
+    "titleKana": "だれでもだけるきみがすき",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "takeda-supa"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "young-magazine",
+    "themeIds": [
+      "romance",
+      "school",
+      "ero-guro"
+    ],
+    "firstPublishedYear": 2023,
+    "status": "ongoing",
+    "synopsis": "地味な高校生・後藤は、誰にでも身体を許す同級生アガワミサキの行為を偶然目撃してしまう。それをきっかけに関係を持った二人だが、後藤の側には彼女への純粋な好意があった。性を介した関係から本物の感情が育つのかを問う、青年誌の学園恋愛漫画である。周囲の噂と本人の実像の差が、物語の緊張を保っている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%A0%E3%82%8C%E3%81%A7%E3%82%82%E6%8A%B1%E3%81%91%E3%82%8B%E3%82%AD%E3%83%9F%E3%81%8C%E5%A5%BD%E3%81%8D"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『だれでも抱けるキミが好き』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "volumeCount": 10
+  },
+  {
+    "id": "hoshikuzunooujisama",
+    "title": "星屑の王子様",
+    "titleKana": "ほしくずのおうじさま",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kayahara-kurese"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "ura-sunday",
+    "themeIds": [
+      "comedy",
+      "workplace-drama",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2022,
+    "status": "ongoing",
+    "synopsis": "歌舞伎町のホストクラブを舞台に、売上を追う男たちと、そこへ通う客たちの姿が描かれる。過度に悪く描くことも美化することも避けた筆致で、売春に身を持ち崩す客からホストを騙そうとする者まで、一筋縄ではいかない実像が並べられる。取材に基づいたコメディタッチの作品である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%98%9F%E5%B1%91%E3%81%AE%E7%8E%8B%E5%AD%90%E6%A7%98"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『星屑の王子様』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "volumeCount": 10
+  },
+  {
+    "id": "buradodorakura",
+    "title": "ヴラド・ドラクラ",
+    "titleKana": "ゔらどどらくら",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "ookubo-akiyo"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "harta",
+    "themeIds": [
+      "historical",
+      "war-military",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2017,
+    "status": "completed",
+    "synopsis": "十五世紀半ば、オスマン帝国とハンガリー王国という二つの大国に挟まれた小国ワラキア公国に、若き公ヴラド三世が即位する。専横する貴族に足元を掬われながら、彼は国を守るための戦いを始める。串刺し公として知られる人物を、史実に沿って描いた歴史漫画である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%83%A9%E3%83%89%E3%83%BB%E3%83%89%E3%83%A9%E3%82%AF%E3%83%A9"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ヴラド・ドラクラ』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2026,
+    "volumeCount": 10
+  },
+  {
+    "id": "yubisakimirukuti",
+    "title": "ゆびさきミルクティー",
+    "titleKana": "ゆびさきみるくてぃー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "miyano-tomochika"
+    ],
+    "publisherId": "hakusensha",
+    "labelId": "young-animal",
+    "themeIds": [
+      "romance",
+      "school",
+      "ero-guro"
+    ],
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "高校生たちのままならない恋愛と性を、生々しい距離感で描いた青年誌の作品。理想化されない関係のもつれや、言葉にできない感情が積み重ねられていく。八年にわたって連載され、全十巻まで刊行された。読後に苦さの残る展開が続く点も特徴になっている。若さゆえの身勝手さも隠さずに描かれ、後味に苦さが残る。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%86%E3%81%B3%E3%81%95%E3%81%8D%E3%83%9F%E3%83%AB%E3%82%AF%E3%83%86%E3%82%A3%E3%83%BC"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ゆびさきミルクティー』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2010,
+    "volumeCount": 10
+  },
+  {
+    "id": "mazakipa",
+    "title": "マザーキーパー",
+    "titleKana": "まざーきーぱー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "sorano-kairi"
+    ],
+    "publisherId": "mag-garden",
+    "labelId": "monthly-comic-blade",
+    "themeIds": [
+      "sci-fi",
+      "battle-action",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "スラムに暮らす少年リカルナは、支配機構に抗う組織の一員として塔の最深部へ侵入し、そこを守るサイボーグに殺される。だが目覚めた彼は、自らがサイボーグとして作り替えられ、今度は守る側として戦えと告げられる。立場の反転を軸にしたSFアクションである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B6%E3%83%BC%E3%82%AD%E3%83%BC%E3%83%91%E3%83%BC"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『マザーキーパー』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2014,
+    "volumeCount": 10
+  },
+  {
+    "id": "hanaorisanhatenseishitemokenkagashitai",
+    "title": "花織さんは転生しても喧嘩がしたい",
+    "titleKana": "はなおりさんはてんせいしてもけんかがしたい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hikawa-hekiru"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning-two",
+    "themeIds": [
+      "comedy",
+      "romance",
+      "school"
+    ],
+    "firstPublishedYear": 2021,
+    "status": "ongoing",
+    "synopsis": "引きこもりの青年・鳴神流星のもとに、女子高生の花織ミーティアが押しかけてくる。流星は異世界の魔王の転生者で、彼女はそれを倒した勇者の転生者だった。追及から逃れるため教師になった流星だが、赴任先の高校には彼女が通っていた。転生を絡めた学園ラブコメディである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E8%8A%B1%E7%B9%94%E3%81%95%E3%82%93%E3%81%AF%E8%BB%A2%E7%94%9F%E3%81%97%E3%81%A6%E3%82%82%E5%96%A7%E5%98%A9%E3%81%8C%E3%81%97%E3%81%9F%E3%81%84"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『花織さんは転生しても喧嘩がしたい』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "volumeCount": 10
+  },
+  {
+    "id": "difensudebiru",
+    "title": "DEFENSE DEVIL",
+    "titleKana": "でぃふぇんすでびる",
+    "originalAuthorIds": [
+      "yun-inwan"
+    ],
+    "artistIds": [
+      "yan-gyoniru"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "battle-action",
+      "dark-fantasy",
+      "comedy"
+    ],
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "力をすべて奪われて魔界を追放された悪魔クカバラは、帰還のために必要な物質を集める手段として、罪人の弁護を請け負う仕事を始める。地獄行きを免れたい依頼人のために、彼は真相を掘り起こしていく。韓国の作家陣による、法廷ものの体裁を借りたバトル漫画である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/DEFENSE_DEVIL"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『DEFENSE DEVIL』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2011,
+    "volumeCount": 10
+  },
+  {
+    "id": "samurairagattsuisengokushounenseihoukenb",
+    "title": "サムライ・ラガッツィ -戦国少年西方見聞録-",
+    "titleKana": "さむらいらがっつぃせんごくしょうねんせいほうけんぶんろく",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kaneda-tatsuya"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-rival",
+    "themeIds": [
+      "historical",
+      "adventure",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "天正十年、九州の小領主・播馬晴信は、世界のあらゆることを記した百科事典を完成させることを夢見ていた。命を狙ってきた忍びと一年の主従関係を結んだ彼は、遣欧使節団に加わってローマを目指す。戦国期の日本から西洋への旅を描いた、少年向けの歴史冒険漫画である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%BB%E3%83%A9%E3%82%AC%E3%83%83%E3%83%84%E3%82%A3_-%E6%88%A6%E5%9B%BD%E5%B0%91%E5%B9%B4%E8%A5%BF%E6%96%B9%E8%A6%8B%E8%81%9E%E9%8C%B2-"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『サムライ・ラガッツィ -戦国少年西方見聞録-』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2014,
+    "volumeCount": 10
+  },
+  {
+    "id": "kaiitootometokamikakushi",
+    "title": "怪異と乙女と神隠し",
+    "titleKana": "かいいとおとめとかみかくし",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nujima"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "yawaraka-spirits",
+    "themeIds": [
+      "horror",
+      "detective-mystery",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2019,
+    "status": "ongoing",
+    "synopsis": "小説家を志す書店員の緒川菫子は、勤務先で置き去りにされた不審な本を手に取ったことから、怪異にまつわる出来事に巻き込まれていく。同僚の不思議な少年とともに、彼女は各地の事件を追うことになる。土着の伝承と現代の風景を重ねた、一話完結の怪異ミステリーである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%80%AA%E7%95%B0%E3%81%A8%E4%B9%99%E5%A5%B3%E3%81%A8%E7%A5%9E%E9%9A%A0%E3%81%97"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『怪異と乙女と神隠し』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "volumeCount": 10
+  },
+  {
+    "id": "arujuugopurasujadamedesuka",
+    "title": "R15+じゃダメですか?",
+    "titleKana": "あーるじゅうごぷらすじゃだめですか",
+    "originalAuthorIds": [
+      "kishiya-gou"
+    ],
+    "artistIds": [
+      "urayanagi"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "comic-days",
+    "themeIds": [
+      "romance",
+      "comedy",
+      "entertainment-industry"
+    ],
+    "firstPublishedYear": 2022,
+    "status": "completed",
+    "synopsis": "映画を語ることを通して距離を縮めていく男女を描いた、作品紹介と恋愛を兼ねた漫画。実在の映画に触れながら、二人の関係が少しずつ進んでいく構成になっている。三年にわたって連載され、全十巻まで刊行された。作品選びの偏りそのものが人物描写になっている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/R15%2B%E3%81%98%E3%82%83%E3%83%80%E3%83%A1%E3%81%A7%E3%81%99%E3%81%8B%3F"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『R15+じゃダメですか?』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2025,
+    "volumeCount": 10
+  },
+  {
+    "id": "bokuhabitoruzu",
+    "title": "僕はビートルズ",
+    "titleKana": "ぼくはびーとるず",
+    "originalAuthorIds": [
+      "fujii-tetsuo"
+    ],
+    "artistIds": [
+      "kawaguchi-kaiji"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "morning",
+    "themeIds": [
+      "music",
+      "sci-fi",
+      "entertainment-industry"
+    ],
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "コピーバンドとして活動していた四人の若者が、事故をきっかけに一九六一年の日本へ飛ばされる。本物より先にその曲を世に出すのかという問いを突きつけられた彼らは、名を騙って舞台に立つことを選ぶ。音楽と時間跳躍を組み合わせた、重い問いを含む青年漫画である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%83%95%E3%81%AF%E3%83%93%E3%83%BC%E3%83%88%E3%83%AB%E3%82%BA"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『僕はビートルズ』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2012,
+    "volumeCount": 10
+  },
+  {
+    "id": "ponkotsuchankenshouchuu",
+    "title": "ポンコツちゃん検証中",
+    "titleKana": "ぽんこつちゃんけんしょうちゅう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "fukuchi-tsubasa"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "comedy",
+      "psychic-battle",
+      "school"
+    ],
+    "firstPublishedYear": 2019,
+    "status": "completed",
+    "synopsis": "目つきの悪さとぶっきらぼうな話し方で誰からも頼られない高校生・水戸要は、突然能力者になった同級生から手伝いを頼まれる。一年後に迫る巨大隕石から地球を守るため、毎日与えられる日替わりの能力を検証していくというのだ。奇妙な力の使い道を試し続けるコメディである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%B3%E3%82%B3%E3%83%84%E3%81%A1%E3%82%83%E3%82%93%E6%A4%9C%E8%A8%BC%E4%B8%AD"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ポンコツちゃん検証中』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2021,
+    "volumeCount": 10
+  },
+  {
+    "id": "momoiroshisutazu",
+    "title": "ももいろシスターズ",
+    "titleKana": "ももいろしすたーず",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "momosetamami"
+    ],
+    "publisherId": "hakusensha",
+    "labelId": "young-animal",
+    "themeIds": [
+      "comedy",
+      "romance",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 1993,
+    "status": "completed",
+    "synopsis": "女子高生の妹とその姉である会社員を中心に、日常や恋愛、際どい話題が四コマとして積み重ねられていく。話が進むにつれて周囲の人物にも光が当たり、面識のない者同士の話も並行して描かれるようになる。青年誌に九年にわたって連載された、作者の代表作である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%82%E3%82%82%E3%81%84%E3%82%8D%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ももいろシスターズ』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2002,
+    "volumeCount": 10
+  },
+  {
+    "id": "patisurimon",
+    "title": "パティスリーMON",
+    "titleKana": "ぱてぃすりーもん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kira"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "you-magazine",
+    "themeIds": [
+      "romance",
+      "gourmet",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "synopsis": "失業中だった音女は、高校時代の家庭教師だった土屋と再会し、彼の勤める洋菓子店で働き始める。かつての恋心を抱えたまま仕事を覚えていくが、店主に歓迎されていないことや、土屋に恋人がいることを知って揺れる。菓子作りの現場を舞台にした女性向けの作品である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%86%E3%82%A3%E3%82%B9%E3%83%AA%E3%83%BCMON"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『パティスリーMON』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2009,
+    "volumeCount": 10
+  },
+  {
+    "id": "rakkusutira",
+    "title": "Luck Stealer",
+    "titleKana": "らっくすてぃーらー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kazuhajime"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "jump-square",
+    "themeIds": [
+      "battle-action",
+      "dark-fantasy",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "素手で触れた相手の運を奪い取る能力を持つ来栖悠聖。運を失った者には必ず死が訪れる。自分では運を生み出せない娘のために、彼は運泥棒としての仕事を請け負い続ける。特殊な力を軸に据えた、ハードボイルド調のクライムサスペンスである。娘のためという動機が、他人の命を削る行為を正当化してしまう構図が重い。仕事を重ねるほど父娘の関係も歪んでいく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Luck_Stealer"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『Luck Stealer』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2012,
+    "volumeCount": 10
+  },
+  {
+    "id": "hajiraukimigamitainda",
+    "title": "恥じらう君が見たいんだ",
+    "titleKana": "はじらうきみがみたいんだ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "umagome-rakure"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "yanmaga-web",
+    "themeIds": [
+      "romance",
+      "school",
+      "ero-guro"
+    ],
+    "firstPublishedYear": 2021,
+    "status": "ongoing",
+    "synopsis": "隠し撮りの上映で停学を受けた高校生・白沢明人は、復学後に同級生の秘め事を偶然撮ってしまう。だが相手は恥じるどころか、自分のすべてを撮ってほしいと申し出る。露出への欲求と撮る側の創作意欲が噛み合っていく、際どい題材の青年漫画である。撮る側と撮られる側の力関係が、少しずつ入れ替わっていく点が読みどころである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%81%A5%E3%81%98%E3%82%89%E3%81%86%E5%90%9B%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%84%E3%82%93%E3%81%A0"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『恥じらう君が見たいんだ』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "volumeCount": 10
+  },
+  {
+    "id": "jinroukiwinruga",
+    "title": "人狼機ウィンヴルガ",
+    "titleKana": "じんろうきうぃんるが",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "tsunashima-shirou"
+    ],
+    "publisherId": "akita-shoten",
+    "labelId": "champion-red",
+    "themeIds": [
+      "sci-fi",
+      "battle-action",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2016,
+    "status": "completed",
+    "synopsis": "階層で隔てられた世界の最下層で、少女・真白は家族と穏やかに暮らしていた。だが上位層から来た支配者たちに町は襲われ、妹同然の少女は目の前で殺される。怒りに呼応して現れた人型の機体とともに、彼女は反撃に転じていく。残酷な世界設定を持つロボット漫画である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E4%BA%BA%E7%8B%BC%E6%A9%9F%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%B4%E3%83%AB%E3%82%AC"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『人狼機ウィンヴルガ』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2022,
+    "volumeCount": 10
   }
 ]
