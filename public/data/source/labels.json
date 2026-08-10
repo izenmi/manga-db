@@ -6496,5 +6496,65 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "anime-v",
+    "name": "アニメV",
+    "nameKana": "あにめぶい",
+    "publisherId": "gakken",
+    "description": "学習研究社が発行していた映像作品の情報誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "chao-plus",
+    "name": "ちゃおプラス",
+    "nameKana": "ちゃおぷらす",
+    "publisherId": "shogakukan",
+    "description": "小学館が運営する少女向け漫画の配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "weekly-young-vip",
+    "name": "週刊ヤングVIP",
+    "nameKana": "しゅうかんやんぐぶいあいぴー",
+    "publisherId": "shintosha",
+    "description": "新都社に置かれた投稿漫画の掲載枠。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "weekly-famitsu",
+    "name": "週刊ファミ通",
+    "nameKana": "しゅうかんふぁみつう",
+    "publisherId": "enterbrain",
+    "description": "エンターブレインが発行する遊戯情報誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "corocoro-zoukan",
+    "name": "コロコロコミック増刊号",
+    "nameKana": "ころころこみっくぞうかんごう",
+    "publisherId": "shogakukan",
+    "description": "小学館が発行していた月刊コロコロコミックの増刊誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "otomodachi",
+    "name": "おともだち",
+    "nameKana": "おともだち",
+    "publisherId": "kodansha",
+    "description": "講談社が発行する幼児向け雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]

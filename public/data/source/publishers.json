@@ -1481,5 +1481,23 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "shintosha",
+    "name": "新都社",
+    "nameKana": "しんとしゃ",
+    "description": "誰でも投稿できるウェブ漫画の掲載サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "shogakukan-creative",
+    "name": "小学館クリエイティブ",
+    "nameKana": "しょうがくかんくりえいてぃぶ",
+    "description": "小学館の系列出版社。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
