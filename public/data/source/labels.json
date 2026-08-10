@@ -5486,5 +5486,35 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "pachipro7",
+    "name": "パチプロ7",
+    "nameKana": "ぱちぷろせぶん",
+    "publisherId": "sougou-tosho",
+    "description": "綜合図書が刊行していた遊技情報誌。漫画も連載された。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "grapefruit",
+    "name": "グレープフルーツ",
+    "nameKana": "ぐれーぷふるーつ",
+    "publisherId": "shinshokan",
+    "description": "新書館が刊行していた漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "fgo-official",
+    "name": "Fate/Grand Order 公式サイト",
+    "nameKana": "ふぇいとぐらんどおーだーこうしきさいと",
+    "publisherId": "kadokawa",
+    "description": "人気ゲームの公式サイト内で連載される漫画枠。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
