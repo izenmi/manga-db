@@ -4026,5 +4026,55 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "ace-dash",
+    "name": "エースダッシュ",
+    "nameKana": "えーすだっしゅ",
+    "publisherId": "kadokawa-shoten",
+    "description": "角川書店が発行していた少年漫画誌。「月刊少年エース」の増刊。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "kuromitsu",
+    "name": "黒蜜",
+    "nameKana": "くろみつ",
+    "publisherId": "hakusensha",
+    "description": "白泉社が運営するウェブ漫画配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "jump-live",
+    "name": "ジャンプLIVE",
+    "nameKana": "じゃんぷらいぶ",
+    "publisherId": "shueisha",
+    "description": "集英社が配信していた漫画アプリ。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "comic-blade-masamune",
+    "name": "コミックブレイドMASAMUNE",
+    "nameKana": "こみっくぶれいどまさむね",
+    "publisherId": "mag-garden",
+    "description": "マッグガーデンが発行していた漫画誌。「コミックブレイド」の増刊。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "ciao-deluxe",
+    "name": "ちゃおデラックス",
+    "nameKana": "ちゃおでらっくす",
+    "publisherId": "shogakukan",
+    "description": "小学館が発行する少女漫画誌。「ちゃお」の増刊。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
