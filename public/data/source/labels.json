@@ -6426,5 +6426,75 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "comic-gamest",
+    "name": "コミックゲーメスト",
+    "nameKana": "こみっくげーめすと",
+    "publisherId": "shinseisha",
+    "description": "新声社が発行していた遊戯関連の漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "mainichi-shogakusei-shimbun",
+    "name": "毎日小学生新聞",
+    "nameKana": "まいにちしょうがくせいしんぶん",
+    "publisherId": "mainichi-shimbun-shuppan",
+    "description": "毎日新聞社が発行する児童向けの日刊紙。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "otome-tsushin",
+    "name": "乙女通信",
+    "nameKana": "おとめつうしん",
+    "publisherId": "houbunsha",
+    "description": "芳文社が発行していた四コマ漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "heibon-punch",
+    "name": "平凡パンチ",
+    "nameKana": "へいぼんぱんち",
+    "publisherId": "magazine-house",
+    "description": "平凡出版が発行していた男性向け週刊誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "nishinippon-shimbun",
+    "name": "西日本新聞",
+    "nameKana": "にしにっぽんしんぶん",
+    "publisherId": "nishinippon-shimbunsha",
+    "description": "西日本新聞社が発行する日刊紙。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "roomie",
+    "name": "ROOMIE",
+    "nameKana": "るーみー",
+    "publisherId": "daiwa-shobo",
+    "description": "住まいを扱うウェブ媒体。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "v-jump-zoukan",
+    "name": "V JUMP増刊",
+    "nameKana": "ぶいじゃんぷぞうかん",
+    "publisherId": "shueisha",
+    "description": "集英社が発行していた週刊少年ジャンプの特別編集増刊。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]

@@ -1454,5 +1454,32 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "nishinippon-shimbunsha",
+    "name": "西日本新聞社",
+    "nameKana": "にしにっぽんしんぶんしゃ",
+    "description": "福岡に本社を置く新聞社。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "daiwa-shobo",
+    "name": "大和書房",
+    "nameKana": "だいわしょぼう",
+    "description": "書籍を刊行する出版社。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "sorajima",
+    "name": "SORAJIMA",
+    "nameKana": "そらじま",
+    "description": "電子漫画の制作と配信を手がける企業。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
