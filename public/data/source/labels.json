@@ -5816,5 +5816,65 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "shogaku-ichinensei",
+    "name": "小学一年生",
+    "nameKana": "しょうがくいちねんせい",
+    "publisherId": "shogakukan",
+    "description": "小学館が発行する学年別学習雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "weekly-myojo",
+    "name": "週刊明星",
+    "nameKana": "しゅうかんみょうじょう",
+    "publisherId": "shueisha",
+    "description": "集英社が発行していた芸能週刊誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "hanayume-online",
+    "name": "花とゆめonline",
+    "nameKana": "はなとゆめおんらいん",
+    "publisherId": "hakusensha",
+    "description": "白泉社が運営していた漫画配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "comic-kirality",
+    "name": "コミックキラリティー",
+    "nameKana": "こみっくきらりてぃー",
+    "publisherId": "gakken",
+    "description": "学習研究社が発行していた漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "weekly-shonen-king",
+    "name": "週刊少年キング",
+    "nameKana": "しゅうかんしょうねんきんぐ",
+    "publisherId": "shonen-gahosha",
+    "description": "少年画報社が発行していた週刊少年漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "tapas",
+    "name": "Tapas",
+    "nameKana": "たぱす",
+    "publisherId": "tapas-media",
+    "description": "北米で運営されているウェブ漫画配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
