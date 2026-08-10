@@ -4726,5 +4726,75 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "sunday-mainichi",
+    "name": "サンデー毎日",
+    "nameKana": "さんでーまいにち",
+    "publisherId": "mainichi-shimbunsha",
+    "description": "毎日新聞社が発行する週刊誌。漫画も連載された。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "uron-na-page",
+    "name": "うろんなページ",
+    "nameKana": "うろんなぺーじ",
+    "publisherId": "square-enix",
+    "description": "ウェブ漫画が公開されていた個人サイト。単行本はスクウェア・エニックスから刊行された。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "dragon-junior",
+    "name": "月刊ドラゴンジュニア",
+    "nameKana": "げっかんどらごんじゅにあ",
+    "publisherId": "fujimi-shobo",
+    "description": "富士見書房が刊行していた漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "ultima-ace",
+    "name": "アルティマエース",
+    "nameKana": "あるてぃまえーす",
+    "publisherId": "kadokawa-shoten",
+    "description": "角川書店が刊行していた漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "comic-avarus",
+    "name": "月刊コミックアヴァルス",
+    "nameKana": "げっかんこみっくあゔぁるす",
+    "publisherId": "mag-garden",
+    "description": "マッグガーデンが刊行していた漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "famicom-hisshoubon",
+    "name": "ファミコン必勝本",
+    "nameKana": "ふぁみこんひっしょうぼん",
+    "publisherId": "takarajimasha",
+    "description": "宝島社が刊行していたゲーム雑誌。漫画も連載された。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "duel-mate",
+    "name": "でゅえるメイト",
+    "nameKana": "でゅえるめいと",
+    "publisherId": "shoho-en",
+    "description": "翔鳳苑が運営する漫画配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
