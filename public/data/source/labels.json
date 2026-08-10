@@ -5126,5 +5126,55 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "beans-ace",
+    "name": "ビーンズエース",
+    "nameKana": "びーんずえーす",
+    "publisherId": "kadokawa-shoten",
+    "description": "角川書店が刊行していた女性向け漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "omegaverse-project",
+    "name": "オメガバースプロジェクト",
+    "nameKana": "おめがばーすぷろじぇくと",
+    "publisherId": "fusion-product",
+    "description": "ふゅーじょんぷろだくとが運営する漫画配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "flexcomix-next",
+    "name": "FlexComixネクスト",
+    "nameKana": "ふれっくすこみっくすねくすと",
+    "publisherId": "flex-comix",
+    "description": "フレックスコミックスが運営していた漫画配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "omocoro",
+    "name": "オモコロ",
+    "nameKana": "おもころ",
+    "publisherId": "bagu-hamburg-bagu",
+    "description": "バーグハンバーグバーグが運営するウェブメディア。漫画も連載する。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "manga-kou",
+    "name": "漫画行",
+    "nameKana": "まんがこう",
+    "publisherId": "zhejiang-bungei",
+    "description": "中国で刊行されていた漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
