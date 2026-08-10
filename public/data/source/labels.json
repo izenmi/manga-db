@@ -4096,5 +4096,45 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "comic-fuz",
+    "name": "COMIC FUZ",
+    "nameKana": "こみっくふーず",
+    "publisherId": "houbunsha",
+    "description": "芳文社が運営するウェブ漫画配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "gag-oh",
+    "name": "月刊少年ギャグ王",
+    "nameKana": "げっかんしょうねんぎゃぐおう",
+    "publisherId": "square-enix",
+    "description": "エニックスが発行していた少年漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "bessatsu-pachislo-panic7",
+    "name": "別冊パチスロパニック7",
+    "nameKana": "べっさつぱちすろぱにっくせぶん",
+    "publisherId": "byakuya-shobo",
+    "description": "白夜書房が発行していたパチスロ専門誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "manga-yomonga",
+    "name": "マンガよもんが",
+    "nameKana": "まんがよもんが",
+    "publisherId": "bunkasha",
+    "description": "ぶんか社が運営する漫画配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
