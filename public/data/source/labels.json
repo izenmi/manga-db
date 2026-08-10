@@ -4286,5 +4286,55 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "aria",
+    "name": "ARIA",
+    "nameKana": "ありあ",
+    "publisherId": "kodansha",
+    "description": "講談社が発行していた女性向け漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "web-comic-zenyon",
+    "name": "WEBコミックぜにょん",
+    "nameKana": "うぇぶこみっくぜにょん",
+    "publisherId": "north-stars",
+    "description": "ノース・スターズ・ピクチャーズが運営するウェブ漫画配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "suiyoubi-dash-x",
+    "name": "水曜日はまったりダッシュエックスコミック",
+    "nameKana": "すいようびはまったりだっしゅえっくすこみっく",
+    "publisherId": "shueisha",
+    "description": "集英社が運営するウェブ漫画配信サイト。ダッシュエックス文庫作品のコミカライズを掲載する。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "unpoco",
+    "name": "ウンポコ",
+    "nameKana": "うんぽこ",
+    "publisherId": "shinshokan",
+    "description": "新書館が発行していたエッセイ漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "cheri-plus",
+    "name": "シェリプラス",
+    "nameKana": "しぇりぷらす",
+    "publisherId": "shinshokan",
+    "description": "新書館が発行するボーイズラブ漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
