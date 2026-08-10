@@ -91079,5 +91079,924 @@
     "updatedAt": "2026-08-10",
     "latestPublishedYear": 2011,
     "volumeCount": 10
+  },
+  {
+    "id": "shounenmeido",
+    "title": "少年メイド",
+    "titleKana": "しょうねんめいど",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "oto-tachibana"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "bs-log-comic",
+    "themeIds": [
+      "comedy",
+      "slice-of-life",
+      "school"
+    ],
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "家事を完璧にこなす小学生・小宮千尋は、母を亡くして一人になる。引き取りに来た叔父の屋敷は荒れ放題で、耐えかねた千尋は大掃除を始めてしまう。その働きぶりを見た叔父は、住まいを提供する代わりに家事を任せたいと持ちかける。少年とメイド服を軸にしたホームコメディである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%B0%91%E5%B9%B4%E3%83%A1%E3%82%A4%E3%83%89"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『少年メイド』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2017,
+    "volumeCount": 10
+  },
+  {
+    "id": "fuumanokojirou",
+    "title": "風魔の小次郎",
+    "titleKana": "ふうまのこじろう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kurumada-masami"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "battle-action",
+      "school",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 1982,
+    "status": "completed",
+    "synopsis": "関東の制圧を狙う学園の裏で暗躍する夜叉一族に対し、風魔の忍・小次郎が助っ人として送り込まれる。追い詰められた彼のもとへ風魔の戦士たちが駆けつけ、両一族の全面対決へと発展していく。忍者を題材にした、荒々しい筆致の少年向けバトル漫画である。必殺技を叫んで放つ演出が、後の作品にも受け継がれていった。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%A2%A8%E9%AD%94%E3%81%AE%E5%B0%8F%E6%AC%A1%E9%83%8E"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『風魔の小次郎』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 1983,
+    "volumeCount": 10
+  },
+  {
+    "id": "hamamuranagisanokeisannoto",
+    "title": "浜村渚の計算ノート",
+    "titleKana": "はまむらなぎさのけいさんのーと",
+    "originalAuthorIds": [
+      "aoyagi-aito"
+    ],
+    "artistIds": [
+      "motoe-keisuke"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-sirius",
+    "themeIds": [
+      "detective-mystery",
+      "school",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2013,
+    "status": "completed",
+    "synopsis": "数学を否定する集団が日本各地でテロを起こすなか、警察が頼ったのは数学だけが得意な女子中学生・浜村渚だった。彼女は事件に仕掛けられた数学の問題を鮮やかに解きほぐしていく。数学の面白さを事件の解決に結びつけた、小説を原作とするミステリー漫画である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%B5%9C%E6%9D%91%E6%B8%9A%E3%81%AE%E8%A8%88%E7%AE%97%E3%83%8E%E3%83%BC%E3%83%88"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『浜村渚の計算ノート』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2016,
+    "volumeCount": 10
+  },
+  {
+    "id": "gundam-valpurgis",
+    "title": "機動戦士ガンダム ヴァルプルギス",
+    "titleKana": "きどうせんしがんだむゔぁるぷるぎす",
+    "originalAuthorIds": [
+      "kaitou-reiji",
+      "yatate-hajime",
+      "tomino-yoshiyuki"
+    ],
+    "artistIds": [
+      "katsuragi-hiyon"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "gundam-ace",
+    "themeIds": [
+      "war-military",
+      "sci-fi",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2017,
+    "status": "completed",
+    "synopsis": "グリプス戦役で戦死した強化人間の生まれ変わりらしき少年を軸に、人型機動兵器の戦いが描かれる。人気ロボットシリーズの外伝として、既存の年表の隙間に置かれた物語である。雑誌の周年企画として始まり、ゲームとの連動企画も行われた作品である。歴代の設定を踏まえた機体と人物が、随所に配置されている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0_%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%97%E3%83%AB%E3%82%AE%E3%82%B9"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『機動戦士ガンダム ヴァルプルギス』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2023,
+    "volumeCount": 10
+  },
+  {
+    "id": "uchuusenkantiramisu",
+    "title": "宇宙戦艦ティラミス",
+    "titleKana": "うちゅうせんかんてぃらみす",
+    "originalAuthorIds": [
+      "miyagawa-satoshi"
+    ],
+    "artistIds": [
+      "itou-kei"
+    ],
+    "publisherId": "shinchosha",
+    "labelId": "kurage-bunch",
+    "themeIds": [
+      "sci-fi",
+      "comedy",
+      "war-military"
+    ],
+    "firstPublishedYear": 2015,
+    "status": "completed",
+    "synopsis": "地球連邦と敵勢力が一進一退の宇宙戦を続ける未来。宇宙戦艦ティラミスに所属する凄腕のパイロット、スバル・イチノセは、戦果を挙げる一方で乗員となじめず、自機に引きこもりがちだった。撃墜王の情けない私生活を短編で積み上げていくギャグ作品である。戦闘場面の格好よさと、私生活の情けなさの落差だけで押し切っている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%AE%87%E5%AE%99%E6%88%A6%E8%89%A6%E3%83%86%E3%82%A3%E3%83%A9%E3%83%9F%E3%82%B9"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『宇宙戦艦ティラミス』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2020,
+    "volumeCount": 10
+  },
+  {
+    "id": "janguruhaitsumoharenochiguu",
+    "title": "ジャングルはいつもハレのちグゥ",
+    "titleKana": "じゃんぐるはいつもはれのちぐぅ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kindaichi-renjuurou"
+    ],
+    "publisherId": "square-enix",
+    "labelId": "gangan-monthly",
+    "themeIds": [
+      "comedy",
+      "slice-of-life",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 1996,
+    "status": "completed",
+    "synopsis": "ジャングルの村で暮らす少年ハレのもとに、母ウェダが連れ帰った少女グゥが居候する。可愛らしい見た目とは裏腹に、グゥは異形の何かを腹の中に飼う得体の知れない存在だった。理不尽な出来事を淡々と繰り出していく、シュールなギャグ漫画である。底の知れないグゥの前では、常識も因果も通用しなくなっていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%B3%E3%82%B0%E3%83%AB%E3%81%AF%E3%81%84%E3%81%A4%E3%82%82%E3%83%8F%E3%83%AC%E3%81%AE%E3%81%A1%E3%82%B0%E3%82%A5"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ジャングルはいつもハレのちグゥ』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2003,
+    "volumeCount": 10
+  },
+  {
+    "id": "bokuhagarireo",
+    "title": "ぼくはガリレオ",
+    "titleKana": "ぼくはがりれお",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kashimoto-manabu"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "corocoro",
+    "themeIds": [
+      "comedy",
+      "school",
+      "sci-fi"
+    ],
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "科学の知識と発想で騒動を切り抜けていく少年を主人公に据えた、児童向けの学園漫画。実験や理屈をそのまま笑いと感動に結びつけていく展開が続く。作者が前作を超える物語だと予告して始めた、コロコロコミックの連載作品である。実験の手順が丁寧に描かれ、読み物としての面白さも備えている。仲間との掛け合いも軽快に進んでいく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%BC%E3%81%8F%E3%81%AF%E3%82%AC%E3%83%AA%E3%83%AC%E3%82%AA"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ぼくはガリレオ』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2010,
+    "volumeCount": 10
+  },
+  {
+    "id": "samonkunhasamona",
+    "title": "左門くんはサモナー",
+    "titleKana": "さもんくんはさもなー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "numa-shun"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "shonen-jump",
+    "themeIds": [
+      "comedy",
+      "school",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2015,
+    "status": "completed",
+    "synopsis": "転校初日に趣味は悪魔召喚だと言い放って孤立した左門召介は、本物の召喚術士だった。善人が大嫌いな彼は、世話を焼いてくる学級委員長を堕落させようと悪魔をけしかける。善意と悪意が空回りし続ける、少年誌のギャグファンタジーである。悪魔たちの嫌がらせが、なぜか委員長の善性を証明してしまう構図が可笑しい。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%B7%A6%E9%96%80%E3%81%8F%E3%82%93%E3%81%AF%E3%82%B5%E3%83%A2%E3%83%8A%E3%83%BC"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『左門くんはサモナー』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2017,
+    "volumeCount": 10
+  },
+  {
+    "id": "nagatoyukichannoshoushitsu",
+    "title": "長門有希ちゃんの消失",
+    "titleKana": "ながとゆきちゃんのしょうしつ",
+    "originalAuthorIds": [
+      "tanigawa-nagaru"
+    ],
+    "artistIds": [
+      "puyo"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "young-ace",
+    "themeIds": [
+      "romance",
+      "school",
+      "comedy"
+    ],
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "超常的な出来事のない世界で、内気な少女・長門有希が文芸部の部長を務めている。親友や後輩に支えられながら、彼女は同級生のキョンへの想いをうまく伝えられずにいた。人気シリーズの並行世界を舞台にした、穏やかな学園ラブコメディである。原作を知る読者には、あり得たかもしれない日常として読める作りになっている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%95%B7%E9%96%80%E6%9C%89%E5%B8%8C%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E6%B6%88%E5%A4%B1"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『長門有希ちゃんの消失』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2016,
+    "volumeCount": 10
+  },
+  {
+    "id": "kenpufa",
+    "title": "けんぷファー",
+    "titleKana": "けんぷふぁー",
+    "originalAuthorIds": [
+      "tsukiji-toshihiko"
+    ],
+    "artistIds": [
+      "tachibana-yuu"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "comic-alive",
+    "themeIds": [
+      "comedy",
+      "battle-action",
+      "school"
+    ],
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "ごく普通の男子高校生・瀬能ナツルは、ある朝目覚めると女の体になっていた。動物のぬいぐるみから戦えと告げられ、事情も分からないまま彼はケンプファーとしての戦いに巻き込まれていく。性別の変化を出発点にした、学園バトルコメディである。男女の姿を行き来する主人公が、両方の立場から関係を見ることになる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%91%E3%82%93%E3%81%B7%E3%83%95%E3%82%A1%E3%83%BC"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『けんぷファー』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2013,
+    "volumeCount": 10
+  },
+  {
+    "id": "sounandesuka",
+    "title": "ソウナンですか?",
+    "titleKana": "そうなんですか",
+    "originalAuthorIds": [
+      "okamotokentarou"
+    ],
+    "artistIds": [
+      "sagara-riri"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "young-magazine",
+    "themeIds": [
+      "adventure",
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 2017,
+    "status": "completed",
+    "synopsis": "修学旅行中の飛行機事故で無人島に流れ着いた女子高生四人。そのうちの一人は遭難経験が豊富で、卓越した野外技術を持っていた。虫を食べ、水を確保し、火を起こしながら救助を待つ日々を描いた、実践的なサバイバル漫画である。手順の解説と軽い笑いが同居している。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%82%A6%E3%83%8A%E3%83%B3%E3%81%A7%E3%81%99%E3%81%8B%3F"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ソウナンですか?』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2022,
+    "volumeCount": 10
+  },
+  {
+    "id": "haipaporisu",
+    "title": "はいぱーぽりす",
+    "titleKana": "はいぱーぽりす",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "miikun"
+    ],
+    "publisherId": "fujimi-shobo",
+    "labelId": "monthly-comic-dragon",
+    "themeIds": [
+      "battle-action",
+      "dark-fantasy",
+      "comedy"
+    ],
+    "firstPublishedYear": 1992,
+    "status": "completed",
+    "synopsis": "人類が衰退し、人と妖魔が共存するようになった世界。凶悪犯を追う賞金稼ぎ兼警官として働くのは、人と妖魔の混血である獣人たちだった。独自の紀年法を持つ世界観のもと、事件と日常を織り交ぜて描いていく作品である。十年以上にわたって連載された。獣人という設定を、差別や共存の問題としても扱っている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%AF%E3%81%84%E3%81%B1%E3%83%BC%E3%81%BD%E3%82%8A%E3%81%99"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『はいぱーぽりす』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2004,
+    "volumeCount": 10
+  },
+  {
+    "id": "keijiyugami",
+    "title": "刑事ゆがみ",
+    "titleKana": "けいじゆがみ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "iura-hideo"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "big-comic-original",
+    "themeIds": [
+      "detective-mystery",
+      "crime-underworld",
+      "workplace-drama"
+    ],
+    "firstPublishedYear": 2016,
+    "status": "completed",
+    "synopsis": "かつて優秀な刑事だった弓神適当は、真犯人がいるという訴えを握り潰されて以来、名前どおりに適当な問題刑事となった。所轄で単独捜査を続ける彼は、詐欺集団の摘発や冤罪の証明といった実績を積み上げていく。屈折した刑事を主人公に据えた作品である。投げやりな態度の裏に、譲れない一線が隠されている点が読みどころである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%88%91%E4%BA%8B%E3%82%86%E3%81%8C%E3%81%BF"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『刑事ゆがみ』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2020,
+    "volumeCount": 10
+  },
+  {
+    "id": "kurokkuwakupuranetto",
+    "title": "クロックワーク・プラネット",
+    "titleKana": "くろっくわーくぷらねっと",
+    "originalAuthorIds": [
+      "enomiya-yu",
+      "himana-tsubaki"
+    ],
+    "artistIds": [
+      "kuro"
+    ],
+    "publisherId": "kodansha",
+    "labelId": "shonen-sirius",
+    "themeIds": [
+      "sci-fi",
+      "battle-action",
+      "adventure"
+    ],
+    "firstPublishedYear": 2013,
+    "status": "completed",
+    "synopsis": "寿命を迎えた地球を、ある人物がすべて歯車で再構築した。それから千年、人類は延命と破綻を繰り返しながら生き延びていた。少年ナオトの家に突然落ちてきた箱には、一体の自動人形が入っていた。歯車仕掛けの惑星を舞台にしたSFファンタジーである。歯車という一つの比喩を、世界の構造そのものにまで押し広げている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%83%E3%82%AF%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%BB%E3%83%97%E3%83%A9%E3%83%8D%E3%83%83%E3%83%88"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『クロックワーク・プラネット』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2018,
+    "volumeCount": 10
+  },
+  {
+    "id": "inarikonkonkoiiroha",
+    "title": "いなり、こんこん、恋いろは。",
+    "titleKana": "いなりこんこんこいいろは",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "yoshidamorohe"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "young-ace",
+    "themeIds": [
+      "romance",
+      "dark-fantasy",
+      "school"
+    ],
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "神社の近所に住む女子中学生・伏見いなりは、傷ついた子狐を助けたことから稲荷神うかと出会い、他人の姿に変わる力を授かる。力を分け与えたことでうかは不調を抱えるが、それを隠したまま二人の交流は続く。神と人の距離を描いた学園ラブコメディである。神通力の代償という設定が、物語に静かな緊張を与え続ける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%84%E3%81%AA%E3%82%8A%E3%80%81%E3%81%93%E3%82%93%E3%81%93%E3%82%93%E3%80%81%E6%81%8B%E3%81%84%E3%82%8D%E3%81%AF%E3%80%82"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『いなり、こんこん、恋いろは。』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2015,
+    "volumeCount": 10
+  },
+  {
+    "id": "zetsuennotenpesuto",
+    "title": "絶園のテンペスト",
+    "titleKana": "ぜつえんのてんぺすと",
+    "originalAuthorIds": [
+      "shirodaira-kyo"
+    ],
+    "artistIds": [
+      "saizaki-ren"
+    ],
+    "publisherId": "square-enix",
+    "labelId": "gangan-monthly",
+    "themeIds": [
+      "dark-fantasy",
+      "detective-mystery",
+      "battle-action"
+    ],
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "はじまりの樹をめぐる対立から孤島へ放逐された魔法使いの姫君と、妹を殺された青年。ボトルメールに託された魔具が二人を結びつけ、世界の破滅を止める戦いが始まる。復讐と論理の応酬を軸に据えた、ミステリー色の濃いファンタジーである。時間をまたいだ因果が、物語の後半で一つに束ねられていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%B5%B6%E5%9C%92%E3%81%AE%E3%83%86%E3%83%B3%E3%83%9A%E3%82%B9%E3%83%88"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『絶園のテンペスト』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2013,
+    "volumeCount": 10
+  },
+  {
+    "id": "keikenzuminakimitokeikenzeronaoregaotsuk",
+    "title": "経験済みなキミと、経験ゼロなオレが、お付き合いする話。",
+    "titleKana": "けいけんずみなきみとけいけんぜろなおれがおつきあいするはなし",
+    "originalAuthorIds": [
+      "nagaoka-makiko"
+    ],
+    "artistIds": [
+      "karupaccho-noyama"
+    ],
+    "publisherId": "square-enix",
+    "labelId": "gangan-online",
+    "themeIds": [
+      "romance",
+      "school",
+      "comedy"
+    ],
+    "firstPublishedYear": 2022,
+    "status": "ongoing",
+    "synopsis": "罰ゲームで学年一の美少女に告白した高校生の加島龍斗は、思いがけず受け入れられてしまう。経験の差に戸惑う二人は、互いの前提を確かめ合いながらゆっくり距離を縮めていく。性愛の話題を正面から扱った、丁寧な運びの学園恋愛漫画である。経験の有無を優劣にせず、対話で埋めていく姿勢が一貫している。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%B5%8C%E9%A8%93%E6%B8%88%E3%81%BF%E3%81%AA%E3%82%AD%E3%83%9F%E3%81%A8%E3%80%81%E7%B5%8C%E9%A8%93%E3%82%BC%E3%83%AD%E3%81%AA%E3%82%AA%E3%83%AC%E3%81%8C%E3%80%81%E3%81%8A%E4%BB%98%E3%81%8D%E5%90%88%E3%81%84%E3%81%99%E3%82%8B%E8%A9%B1%E3%80%82"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『経験済みなキミと、経験ゼロなオレが、お付き合いする話。』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "volumeCount": 10
+  },
+  {
+    "id": "tenkamusouedajimaheihachiden",
+    "title": "天下無双 江田島平八伝",
+    "titleKana": "てんかむそうえだじまへいはちでん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "miyashita-akira"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "oh-super-jump",
+    "themeIds": [
+      "historical",
+      "battle-action",
+      "comedy"
+    ],
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "多摩の田舎で育った暴れん坊の少年・江田島平八が、母の死をきっかけに東京へ出る。戦前から戦後にかけての激動のなかで、彼は陰謀と時代の流れに巻き込まれながら己の腕一本で切り抜けていく。人気作の前史にあたる、破天荒な歴史活劇である。実在の人物を模した登場人物が次々と現れ、荒唐無稽さに拍車をかける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%A4%A9%E4%B8%8B%E7%84%A1%E5%8F%8C_%E6%B1%9F%E7%94%B0%E5%B3%B6%E5%B9%B3%E5%85%AB%E4%BC%9D"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『天下無双 江田島平八伝』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "volumeCount": 10
+  },
+  {
+    "id": "anhapi",
+    "title": "あんハピ♪",
+    "titleKana": "あんはぴ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kotoji"
+    ],
+    "publisherId": "houbunsha",
+    "labelId": "manga-time-kirara-forward",
+    "themeIds": [
+      "comedy",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2013,
+    "status": "completed",
+    "synopsis": "不幸を背負った生徒だけが集められた学園の一年七組。花小泉杏をはじめとする五人は、幸せになるための授業を受けながら高校生活を送ることになる。不幸を笑いに変える悪趣味すれすれの発想で押していく、四コマの学園コメディである。不幸の中身が生徒ごとに違い、それぞれの持ち味になっている点も面白い。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%82%E3%82%93%E3%83%8F%E3%83%94%E2%99%AA"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『あんハピ♪』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2019,
+    "volumeCount": 10
+  },
+  {
+    "id": "sutamain",
+    "title": "スターマイン",
+    "titleKana": "すたーまいん",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "sutoroma"
+    ],
+    "publisherId": "ichijinsha",
+    "labelId": "manga-4koma-palette",
+    "themeIds": [
+      "romance",
+      "comedy",
+      "school"
+    ],
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "流星群の夜に彼女がほしいと願った高校生・陸田行成の前に、翌日から次々と少女たちが現れる。彼女たちの正体は、願いを受け取った流れ星そのものだった。保護者役の一人を交えた同居生活が始まる、四コマ形式のラブコメディである。星ごとに性格が異なり、同居の騒がしさが積み重なっていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%9E%E3%82%A4%E3%83%B3_%28%E6%BC%AB%E7%94%BB%29"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『スターマイン (漫画)』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2019,
+    "volumeCount": 10
+  },
+  {
+    "id": "harukanareshibu",
+    "title": "はるかなレシーブ",
+    "titleKana": "はるかなれしーぶ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "nyoijizai"
+    ],
+    "publisherId": "houbunsha",
+    "labelId": "manga-time-kirara-forward",
+    "themeIds": [
+      "sports",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2015,
+    "status": "completed",
+    "synopsis": "東京から沖縄へ引っ越してきた大空遥は、海岸でビーチバレーの練習を目にして興味を抱く。かつてペアを組んでいた従姉と相手選手の間には、挫折による気まずさが残っていた。二人一組という競技の性質を軸に据えた、沖縄が舞台のスポーツ漫画である。砂の上での動きや戦術が、競技経験のない読者にも分かるよう描かれる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%AF%E3%82%8B%E3%81%8B%E3%81%AA%E3%83%AC%E3%82%B7%E3%83%BC%E3%83%96"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『はるかなレシーブ』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2020,
+    "volumeCount": 10
+  },
+  {
+    "id": "haganenoonna",
+    "title": "ハガネの女",
+    "titleKana": "はがねのおんな",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "fukaya-kaoru"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "you-magazine",
+    "themeIds": [
+      "school",
+      "workplace-drama",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2007,
+    "status": "ongoing",
+    "synopsis": "一年で三度も担任が辞めた問題のクラスに、小学校教師の芳賀稲子が乗り込んでいく。荒れているのは子どもなのか、それとも保護者なのか。彼女は現場を細かく観察しながら、学校が抱える構造そのものを見抜いていく。教育現場を正面から扱った作品である。保護者や同僚との衝突も遠慮なく描かれ、読み応えのある作品になっている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%AC%E3%83%8D%E3%81%AE%E5%A5%B3"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ハガネの女』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "volumeCount": 10
+  },
+  {
+    "id": "bigguoda",
+    "title": "ビッグオーダー",
+    "titleKana": "びっぐおーだー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "esuno-sakae"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "monthly-shonen-ace",
+    "themeIds": [
+      "battle-action",
+      "psychic-battle",
+      "suspense-psychological"
+    ],
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "十年前、謎の少女に世界支配を願ったことで最強の能力者となった星宮エイジは、その力を暴走させて世界を滅亡寸前に追い込んでしまった。能力を隠して暮らす彼のもとへ、増え続ける能力者たちとの争いが押し寄せる。願いと責任を扱ったサスペンス作品である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%83%E3%82%B0%E3%82%AA%E3%83%BC%E3%83%80%E3%83%BC"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『ビッグオーダー』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2016,
+    "volumeCount": 10
+  },
+  {
+    "id": "kouchuugunshikan",
+    "title": "航宙軍士官、冒険者になる",
+    "titleKana": "こうちゅうぐんしかん",
+    "originalAuthorIds": [
+      "itou-haruhiko"
+    ],
+    "artistIds": [
+      "takuma-tomomasa"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "dengeki-comic-regulus",
+    "themeIds": [
+      "isekai",
+      "adventure",
+      "sci-fi"
+    ],
+    "firstPublishedYear": 2018,
+    "status": "ongoing",
+    "synopsis": "宇宙軍の士官だった男が、剣と魔法の世界へ流れ着く。軍で培った戦術眼と規律を武器に、彼は冒険者として身を立てていく。近代的な軍事の常識を異世界に持ち込むという着想を軸にした、小説投稿サイト発のファンタジーである。軍隊式の指揮と補給の考え方が、そのまま冒険者の強みに変わっていく。異世界の常識との落差が物語を動かしていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E8%88%AA%E5%AE%99%E8%BB%8D%E5%A3%AB%E5%AE%98%E3%80%81%E5%86%92%E9%99%BA%E8%80%85%E3%81%AB%E3%81%AA%E3%82%8B"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": true
+    },
+    "sourceNote": "日本語版Wikipedia『航宙軍士官、冒険者になる』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "volumeCount": 10
+  },
+  {
+    "id": "senpaihaotokonoko",
+    "title": "先輩はおとこのこ",
+    "titleKana": "せんぱいはおとこのこ",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "pomu"
+    ],
+    "publisherId": "line-digital-frontier",
+    "labelId": "line-manga",
+    "themeIds": [
+      "romance",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 2019,
+    "status": "completed",
+    "synopsis": "後輩の蒼井咲から告白された花岡まことは、セーラー服と長髪の下が男子であることを打ち明ける。それでも咲は離れず、まことに特別な感情を抱く幼馴染も加わって、三人の想いが揺れ動いていく。性のあり方を正面から扱った恋愛漫画である。三人それぞれの戸惑いと誠実さが、丁寧に描き分けられていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%85%88%E8%BC%A9%E3%81%AF%E3%81%8A%E3%81%A8%E3%81%93%E3%81%AE%E3%81%93"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『先輩はおとこのこ』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2021,
+    "volumeCount": 10
+  },
+  {
+    "id": "ryuumanogagou",
+    "title": "リュウマのガゴウ",
+    "titleKana": "りゅうまのがごう",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "miyashita-hiroki"
+    ],
+    "publisherId": "shonen-gahosha",
+    "labelId": "young-king-ours",
+    "themeIds": [
+      "adventure",
+      "battle-action",
+      "sci-fi"
+    ],
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "文明が崩壊し、汚染された海と実らない大地のもとで人類が滅びへ向かう世界。人に敵意を持つ怪物が跋扈するなか、かつて世界を救った英雄リュウマの名を継ぐ者たちが戦い続けている。千年にわたる争いの真実へ迫っていく、荒廃世界のファンタジーである。名を継ぐという仕組みが、そのまま物語の謎として機能していく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%A5%E3%82%A6%E3%83%9E%E3%81%AE%E3%82%AC%E3%82%B4%E3%82%A6"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『リュウマのガゴウ』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2017,
+    "volumeCount": 10
+  },
+  {
+    "id": "garuzuburabo",
+    "title": "GIRLSブラボー",
+    "titleKana": "がーるずぶらぼー",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "mario-kaneda"
+    ],
+    "publisherId": "kadokawa",
+    "labelId": "monthly-shonen-ace",
+    "themeIds": [
+      "comedy",
+      "romance",
+      "isekai"
+    ],
+    "firstPublishedYear": 2000,
+    "status": "completed",
+    "synopsis": "女性恐怖症で、触れると蕁麻疹が出る体質の少年・佐々木雪成は、風呂場から異世界セーレンへ飛ばされてしまう。そこで唯一平気でいられる少女ミハルと出会うが、以後は地球へ押しかけてくる美少女たちに囲まれることになる。お色気の強い学園ラブコメディである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/GIRLS%E3%83%96%E3%83%A9%E3%83%9C%E3%83%BC"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『GIRLSブラボー』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2005,
+    "volumeCount": 10
+  },
+  {
+    "id": "toi",
+    "title": "TO-Y",
+    "titleKana": "とーい",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "kamijou-atsushi"
+    ],
+    "publisherId": "shogakukan",
+    "labelId": "shonen-sunday",
+    "themeIds": [
+      "music",
+      "school",
+      "romance"
+    ],
+    "firstPublishedYear": 1985,
+    "status": "completed",
+    "synopsis": "パンクロックバンドのボーカルとして鮮烈な存在感を放つ高校生トーイは、敏腕マネージャーの目に留まり、一人だけでのデビューを持ちかけられる。バンド内の軋轢を経て、彼は表舞台へ進み出ていく。台詞を削ぎ落とした画面構成で知られる音楽漫画である。音のない紙面で音楽を感じさせる演出が、当時から高く評価された。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/TO-Y"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『TO-Y』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 1987,
+    "volumeCount": 10
+  },
+  {
+    "id": "koedeoshigoto",
+    "title": "こえでおしごと!",
+    "titleKana": "こえでおしごと",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "konno-azure"
+    ],
+    "publisherId": "wani-books",
+    "labelId": "comic-gum",
+    "themeIds": [
+      "entertainment-industry",
+      "romance",
+      "comedy"
+    ],
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "高校一年生の青柳柑奈は、姉に頼まれて会社の仕事を手伝うことになる。だがその会社は成人向けゲームの制作元で、任されたのは声優の仕事だった。悩んだ末に飛び込んだ彼女が、収録の現場で成長していく。声優という職業を題材にした作品である。仕事の内容を隠したまま学校生活を送る、二重生活の緊張も描かれる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%81%93%E3%81%88%E3%81%A7%E3%81%8A%E3%81%97%E3%81%94%E3%81%A8%21"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『こえでおしごと!』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2013,
+    "volumeCount": 10
+  },
+  {
+    "id": "hoshinohitominoshiruetto",
+    "title": "星の瞳のシルエット",
+    "titleKana": "ほしのひとみのしるえっと",
+    "originalAuthorIds": [],
+    "artistIds": [
+      "hiiragi-aoi"
+    ],
+    "publisherId": "shueisha",
+    "labelId": "ribon",
+    "themeIds": [
+      "romance",
+      "school",
+      "slice-of-life"
+    ],
+    "firstPublishedYear": 1985,
+    "status": "completed",
+    "synopsis": "流星に願いをかけた少女・香澄は、想いを寄せる相手と親友の間で揺れることになる。誰も悪者にせず、それぞれの誠実さが噛み合わないまま進む三角関係が丁寧に描かれる。一九八〇年代のりぼんを代表する、少女漫画の恋愛作品である。星に願うという行為が、物語全体を貫く象徴として使われている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%98%9F%E3%81%AE%E7%9E%B3%E3%81%AE%E3%82%B7%E3%83%AB%E3%82%A8%E3%83%83%E3%83%88"
+    },
+    "mediaMix": {
+      "anime": false,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『星の瞳のシルエット』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 1989,
+    "volumeCount": 10
   }
 ]
