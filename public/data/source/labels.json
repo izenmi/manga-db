@@ -6156,5 +6156,45 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "saizensen",
+    "name": "最前線",
+    "nameKana": "さいぜんせん",
+    "publisherId": "seikaisha",
+    "description": "星海社が運営していた作品配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "gemaga",
+    "name": "ゲーマガ",
+    "nameKana": "げーまが",
+    "publisherId": "softbank-creative",
+    "description": "ソフトバンククリエイティブが発行していた遊戯情報誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "nico-asahi",
+    "name": "ニコニコASAHIコミックファンタジー",
+    "nameKana": "にこにこあさひこみっくふぁんたじー",
+    "publisherId": "asahi-shimbun-shuppan",
+    "description": "朝日新聞出版が配信していた漫画媒体。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "comic-shingenjitsu",
+    "name": "Comic新現実",
+    "nameKana": "こみっくしんげんじつ",
+    "publisherId": "kadokawa-shoten",
+    "description": "角川書店が発行していた漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
