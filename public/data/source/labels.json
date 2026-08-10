@@ -3966,5 +3966,35 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "boon",
+    "name": "boon",
+    "nameKana": "ぶーん",
+    "publisherId": "shodensha",
+    "description": "祥伝社が発行していたストリートファッション誌。漫画の連載も掲載していた。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "moe",
+    "name": "MOE",
+    "nameKana": "もえ",
+    "publisherId": "hakusensha",
+    "description": "白泉社が発行する絵本の情報誌。絵本作家による連載も掲載する。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "storia-dash",
+    "name": "ストーリアダッシュ",
+    "nameKana": "すとーりあだっしゅ",
+    "publisherId": "takeshobo",
+    "description": "竹書房が運営するウェブ漫画配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
