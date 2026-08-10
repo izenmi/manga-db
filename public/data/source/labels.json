@@ -4236,5 +4236,35 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "hirari",
+    "name": "ひらり、",
+    "nameKana": "ひらり",
+    "publisherId": "shinshokan",
+    "description": "新書館が発行していた百合作品のアンソロジー誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "mechacomic-fufu",
+    "name": "めちゃコミック×fufu",
+    "nameKana": "めちゃこみっくふふ",
+    "publisherId": "futabasha",
+    "description": "双葉社が電子配信サービスと共同で展開する女性向けの漫画レーベル。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "fandela",
+    "name": "ふぁんデラ",
+    "nameKana": "ふぁんでら",
+    "publisherId": "kadokawa-shoten",
+    "description": "角川書店が発行していた少女向けのファンタジー漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
