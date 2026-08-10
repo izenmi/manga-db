@@ -4836,5 +4836,35 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "monthly-young-king",
+    "name": "月刊ヤングキング",
+    "nameKana": "げっかんやんぐきんぐ",
+    "publisherId": "shonen-gahosha",
+    "description": "少年画報社が刊行していた青年漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "comic-porta",
+    "name": "COMIC ポルタ",
+    "nameKana": "こみっくぽるた",
+    "publisherId": "east-press",
+    "description": "イースト・プレスが運営する漫画配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "dengeki-daioh-genesis",
+    "name": "電撃大王ジェネシス",
+    "nameKana": "でんげきだいおうじぇねしす",
+    "publisherId": "kadokawa",
+    "description": "KADOKAWAが刊行していた漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
