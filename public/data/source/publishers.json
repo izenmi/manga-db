@@ -1229,5 +1229,32 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "live-comics",
+    "name": "ライブコミックス",
+    "nameKana": "らいぶこみっくす",
+    "description": "電子書籍を中心に漫画を刊行する出版社。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "game-field",
+    "name": "ゲーム・フィールド",
+    "nameKana": "げーむふぃーるど",
+    "description": "卓上遊戯関連の雑誌や書籍を刊行する出版社。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "fujin-seikatsusha",
+    "name": "婦人生活社",
+    "nameKana": "ふじんせいかつしゃ",
+    "description": "生活雑誌などを刊行していた出版社。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]

@@ -5376,5 +5376,75 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "shonen-sunday-zokan",
+    "name": "週刊少年サンデー増刊号",
+    "nameKana": "しゅうかんしょうねんさんでーぞうかんごう",
+    "publisherId": "shogakukan",
+    "description": "小学館が刊行していた少年漫画誌の増刊号。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "corocoro-ichiban",
+    "name": "コロコロイチバン!",
+    "nameKana": "ころころいちばん",
+    "publisherId": "shogakukan",
+    "description": "小学館が刊行する低年齢向けの児童漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "ace-momogumi",
+    "name": "エース桃組",
+    "nameKana": "えーすももぐみ",
+    "publisherId": "kadokawa-shoten",
+    "description": "角川書店が刊行していた漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "goraku-egg",
+    "name": "ゴラクエッグ",
+    "nameKana": "ごらくえっぐ",
+    "publisherId": "nihon-bungeisha",
+    "description": "日本文芸社が運営する漫画配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "comic-etoile",
+    "name": "COMICエトワール",
+    "nameKana": "こみっくえとわーる",
+    "publisherId": "live-comics",
+    "description": "電子書籍ストア内で配信される女性向け漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "gamers-field",
+    "name": "ゲーマーズ・フィールド",
+    "nameKana": "げーまーずふぃーるど",
+    "publisherId": "game-field",
+    "description": "卓上遊戯を扱う情報誌。漫画も連載された。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "petit-tanfan",
+    "name": "プチ・タンファン",
+    "nameKana": "ぷちたんふぁん",
+    "publisherId": "fujin-seikatsusha",
+    "description": "婦人生活社が刊行していた育児雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
