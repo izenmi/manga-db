@@ -4626,5 +4626,45 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "comic-blade-zebel",
+    "name": "コミックブレイドZEBEL",
+    "nameKana": "こみっくぶれいどぜべる",
+    "publisherId": "mag-garden",
+    "description": "マッグガーデンが刊行していた漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "josei-seven",
+    "name": "女性セブン",
+    "nameKana": "じょせいせぶん",
+    "publisherId": "shogakukan",
+    "description": "小学館が発行する女性週刊誌。漫画も連載する。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "musume-type",
+    "name": "娘TYPE",
+    "nameKana": "むすめたいぷ",
+    "publisherId": "kadokawa",
+    "description": "KADOKAWAが刊行していた美少女キャラクター誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "gekiga-sonjuku",
+    "name": "コミック劇画村塾",
+    "nameKana": "こみっくげきがそんじゅく",
+    "publisherId": "studio-ship",
+    "description": "スタジオシップが刊行していた漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
