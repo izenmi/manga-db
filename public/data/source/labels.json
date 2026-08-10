@@ -4666,5 +4666,45 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "flos-comic",
+    "name": "FLOS COMIC",
+    "nameKana": "ふろすこみっく",
+    "publisherId": "kadokawa",
+    "description": "KADOKAWAが運営する女性向け漫画配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "dora-dora-flat",
+    "name": "ドラドラふらっと♭",
+    "nameKana": "どらどらふらっと",
+    "publisherId": "kadokawa",
+    "description": "KADOKAWAが運営する漫画配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "darkness-na-onnatachi",
+    "name": "ダークネスな女たち",
+    "nameKana": "だーくねすなおんなたち",
+    "publisherId": "bunkasha",
+    "description": "ぶんか社が刊行する女性向け漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "gene-line",
+    "name": "ジーンLINE",
+    "nameKana": "じーんらいん",
+    "publisherId": "kadokawa",
+    "description": "KADOKAWAが運営していた漫画配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
