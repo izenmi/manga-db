@@ -7198,5 +7198,212 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipedia『輪るピングドラム』記事および人物記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "gungho",
+    "name": "ガンホー・オンライン・エンターテイメント",
+    "nameKana": "がんほーおんらいんえんためいめんと",
+    "description": "ゲームの企画・開発・運営を行う企業。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "namaniku-atk",
+    "name": "なまにくATK",
+    "nameKana": "なまにくえーてぃーけー",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『棺姫のチャイカ』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "takehaya",
+    "name": "健速",
+    "nameKana": "たけはや",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『六畳間の侵略者!?』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "poko",
+    "name": "ポコ",
+    "nameKana": "ぽこ",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『六畳間の侵略者!?』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "yanagita-rikao",
+    "name": "柳田理科雄",
+    "nameKana": "やなぎたりかお",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『空想科学大戦!』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "nanano-riku",
+    "name": "七野りく",
+    "nameKana": "ななのりく",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『公女殿下の家庭教師』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "cura",
+    "name": "cura",
+    "nameKana": "きゅら",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『公女殿下の家庭教師』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "anda-sadanatsu",
+    "name": "庵田定夏",
+    "nameKana": "あんださだなつ",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『ココロコネクト』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "sakatsu-tsukasa",
+    "name": "逆津ツカサ",
+    "nameKana": "さかつつかさ",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『DOCTOR PRICE』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "sunrise",
+    "name": "サンライズ",
+    "nameKana": "さんらいず",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『舞-HiME』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "g-yusuke",
+    "name": "Gユウスケ",
+    "nameKana": "じーゆうすけ",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『ダンタリアンの書架』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "ese",
+    "name": "ESE",
+    "nameKana": "いーえすいー",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『世界でいちばん強くなりたい!』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "hachi-bunta",
+    "name": "蜂文汰",
+    "nameKana": "はちぶんた",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『世界でいちばん強くなりたい!』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "sugiura-jirou",
+    "name": "杉浦次郎",
+    "nameKana": "すぎうらじろう",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『ニセモノの錬金術師』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "jiraigen",
+    "name": "地雷原",
+    "nameKana": "じらいげん",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『マヌケなFPSプレイヤーが異世界へ落ちた場合』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "ugume",
+    "name": "UGUME",
+    "nameKana": "うぐめ",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『マヌケなFPSプレイヤーが異世界へ落ちた場合』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "tachibana-pan",
+    "name": "橘ぱん",
+    "nameKana": "たちばなぱん",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『だから僕は、Hができない。』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "katsurai-yoshiaki",
+    "name": "桂井よしあき",
+    "nameKana": "かつらいよしあき",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『だから僕は、Hができない。』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "taguchi-hajime",
+    "name": "田口一",
+    "nameKana": "たぐちはじめ",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『この中に1人、妹がいる!』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "kasukabe-takeru",
+    "name": "春日部タケル",
+    "nameKana": "かすかべたける",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『俺の脳内選択肢が、学園ラブコメを全力で邪魔している』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "yukiwo",
+    "name": "ユキヲ",
+    "nameKana": "ゆきを",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『俺の脳内選択肢が、学園ラブコメを全力で邪魔している』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "cuteg",
+    "name": "CUTEG",
+    "nameKana": "きゅーてぐ",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『この中に1人、妹がいる!』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "akikaze-hiiro",
+    "name": "秋風緋色",
+    "nameKana": "あきかぜひいろ",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『この中に1人、妹がいる!』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]

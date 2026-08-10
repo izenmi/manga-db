@@ -4996,5 +4996,35 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "comic-dangan",
+    "name": "コミック・ダンガン",
+    "nameKana": "こみっくだんがん",
+    "publisherId": "hobby-japan",
+    "description": "ホビージャパンが刊行していた漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "comic-kai",
+    "name": "コミック怪",
+    "nameKana": "こみっくかい",
+    "publisherId": "kadokawa-shoten",
+    "description": "角川書店が刊行していた妖怪をテーマとする漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "just-comic",
+    "name": "ジャストコミック",
+    "nameKana": "じゃすとこみっく",
+    "publisherId": "kobunsha",
+    "description": "光文社が刊行していた漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
