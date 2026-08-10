@@ -5666,5 +5666,75 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "weekly-spa",
+    "name": "週刊SPA!",
+    "nameKana": "しゅうかんすぱ",
+    "publisherId": "fusosha",
+    "description": "扶桑社が発行する男性向け週刊誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "dengeki-animation-magazine",
+    "name": "電撃Animation Magazine",
+    "nameKana": "でんげきあにめーしょんまがじん",
+    "publisherId": "media-works",
+    "description": "メディアワークスが発行していたアニメ情報誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "bunshun-online",
+    "name": "文春オンライン",
+    "nameKana": "ぶんしゅんおんらいん",
+    "publisherId": "bungeishunju",
+    "description": "文藝春秋が運営するニュースサイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "manga-shonen-asahi",
+    "name": "マンガ少年",
+    "nameKana": "まんがしょうねん",
+    "publisherId": "asahi-sonorama",
+    "description": "朝日ソノラマが発行していた月刊漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "monthly-shonen-magazine-great",
+    "name": "月刊少年マガジン増刊GREAT",
+    "nameKana": "げっかんしょうねんまがじんぞうかんぐれーと",
+    "publisherId": "kodansha",
+    "description": "講談社が発行していた月刊少年マガジンの増刊誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "story-na-onnatachi-black",
+    "name": "ストーリーな女たち ブラック",
+    "nameKana": "すとーりーなおんなたちぶらっく",
+    "publisherId": "bunkasha",
+    "description": "ぶんか社が発行する女性向け漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "manga-town-original",
+    "name": "まんがタウンオリジナル",
+    "nameKana": "まんがたうんおりじなる",
+    "publisherId": "futabasha",
+    "description": "双葉社が発行していた四コマ漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
