@@ -4506,5 +4506,35 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "xoy",
+    "name": "XOY",
+    "nameKana": "こい",
+    "publisherId": "bungeishunju",
+    "description": "文藝春秋が運営していた電子漫画の配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "manga-time-family",
+    "name": "まんがタイムファミリー",
+    "nameKana": "まんがたいむふぁみりー",
+    "publisherId": "houbunsha",
+    "description": "芳文社が発行していた四コマ漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "comic-it",
+    "name": "COMIC it",
+    "nameKana": "こみっくいっと",
+    "publisherId": "kadokawa",
+    "description": "KADOKAWAが配信していた電子漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
