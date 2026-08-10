@@ -4486,5 +4486,25 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "chara-selection",
+    "name": "キャラセレクション",
+    "nameKana": "きゃらせれくしょん",
+    "publisherId": "tokuma-shoten",
+    "description": "徳間書店が発行していたボーイズラブ漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "and-sofa",
+    "name": "&Sofa",
+    "nameKana": "あんどそふぁ",
+    "publisherId": "kodansha",
+    "description": "講談社が運営する女性向けのウェブ漫画配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
