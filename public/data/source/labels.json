@@ -5176,5 +5176,45 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "shosetsu-gendai",
+    "name": "小説現代",
+    "nameKana": "しょうせつげんだい",
+    "publisherId": "kodansha",
+    "description": "講談社が発行する小説誌。漫画も掲載される。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "naver-webtoon",
+    "name": "NAVER WEBTOON",
+    "nameKana": "ねいばーうぇぶとぅーん",
+    "publisherId": "naver",
+    "description": "韓国のウェブ漫画配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "comic-festa",
+    "name": "ComicFesta",
+    "nameKana": "こみっくふぇすた",
+    "publisherId": "screamo",
+    "description": "スクリーモが運営する漫画配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "kojin-blog",
+    "name": "個人ブログ",
+    "nameKana": "こじんぶろぐ",
+    "publisherId": "kadokawa",
+    "description": "雑誌連載を経ず個人のブログで発表された作品。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
