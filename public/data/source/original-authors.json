@@ -10294,5 +10294,158 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipedia『奥さまは魔法少女』記事および人物記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "bau",
+    "name": "ばう",
+    "nameKana": "ばう",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『盟約のリヴァイアサン』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "yamato-takahiro",
+    "name": "山門敬弘",
+    "nameKana": "やまとたかひろ",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『風の聖痕』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "natto-hanamaru",
+    "name": "納都花丸",
+    "nameKana": "なつはなまる",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『風の聖痕』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "aquaplus",
+    "name": "AQUAPLUS",
+    "nameKana": "あくあぷらす",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『うたわれるもの』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "origuchi-yoshino",
+    "name": "折口良乃",
+    "nameKana": "おりぐちよしの",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『モンスター娘のお医者さん』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "z-ton",
+    "name": "Zトン",
+    "nameKana": "ぜっととん",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『モンスター娘のお医者さん』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "iwai-kyouhei",
+    "name": "岩井恭平",
+    "nameKana": "いわいきょうへい",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『ムシウタ』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "ruroo",
+    "name": "るろお",
+    "nameKana": "るろお",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『ムシウタ』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "musashino-animation",
+    "name": "武蔵野アニメーション",
+    "nameKana": "むさしのあにめーしょん",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『SHIROBAKO』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "sugihara-kenji",
+    "name": "杉原研二",
+    "nameKana": "すぎはらけんじ",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『SHIROBAKO』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "akuapurasu",
+    "name": "アクアプラス",
+    "nameKana": "あくあぷらす",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『うたわれるもの 偽りの仮面』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "storyworks",
+    "name": "StoryWorks",
+    "nameKana": "すとーりーわーくす",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『メルヘン・メドヘン』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "kantoku",
+    "name": "カントク",
+    "nameKana": "かんとく",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『メルヘン・メドヘン』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "nakamura-takatoshi",
+    "name": "中村尚儁",
+    "nameKana": "なかむらたかとし",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『メルヘン・メドヘン』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "aku-no",
+    "name": "mothy_悪ノP",
+    "nameKana": "あくの",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『悪ノ娘』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "aisora-manta",
+    "name": "逢空万太",
+    "nameKana": "あいそらまんた",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『這いよれ! ニャル子さん』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "gf",
+    "name": "GF",
+    "nameKana": "じーえふ",
+    "description": "漫画の原作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『機神大戦ギガンティック・フォーミュラ』記事および人物記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]

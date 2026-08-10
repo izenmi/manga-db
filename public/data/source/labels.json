@@ -5776,5 +5776,25 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "comic-ryu-web",
+    "name": "COMICリュウWEB",
+    "nameKana": "こみっくりゅううぇぶ",
+    "publisherId": "tokuma-shoten",
+    "description": "徳間書店が運営する漫画配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "macross-ace",
+    "name": "マクロスエース",
+    "nameKana": "まくろすえーす",
+    "publisherId": "kadokawa-shoten",
+    "description": "角川書店が発行していた作品専門の漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
