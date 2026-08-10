@@ -90120,5 +90120,37 @@
     "updatedAt": "2026-08-10",
     "latestPublishedYear": 2009,
     "volumeCount": 10
+  },
+  {
+    "id": "toukutsuou",
+    "title": "盗掘王",
+    "titleKana": "とうくつおう",
+    "originalAuthorIds": [
+      "sanji-jiksong"
+    ],
+    "artistIds": [
+      "three-b-two-s"
+    ],
+    "publisherId": "kakao-piccoma",
+    "labelId": "piccoma",
+    "themeIds": [
+      "battle-action",
+      "adventure",
+      "dark-fantasy"
+    ],
+    "firstPublishedYear": 2020,
+    "status": "completed",
+    "synopsis": "世界各地に突如現れた巨大な地下迷宮には、所有者に力を与える遺物が眠っていた。仲間もろとも謀られて命を落とした団長は、正体不明の遺物の力で十五年前へ記憶を保ったまま戻る。遺物の価値を誰よりも知る男の逆転劇を描く、韓国発の作品である。未来の知識を使って遺物を先回りで押さえていく手際が痛快である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%9B%97%E6%8E%98%E7%8E%8B"
+    },
+    "mediaMix": {
+      "anime": true,
+      "novelization": false
+    },
+    "sourceNote": "日本語版Wikipedia『盗掘王』記事(2026-08-10閲覧)で作者・掲載誌・連載期間・巻数・アニメ化を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-10",
+    "latestPublishedYear": 2023,
+    "volumeCount": 11
   }
 ]
