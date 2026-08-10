@@ -6346,5 +6346,85 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "canna",
+    "name": "Canna",
+    "nameKana": "かんな",
+    "publisherId": "france-shoin",
+    "description": "フランス書院が発行する男性同士の恋愛を扱う漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "asahi-journal",
+    "name": "朝日ジャーナル",
+    "nameKana": "あさひじゃーなる",
+    "publisherId": "asahi-shimbunsha",
+    "description": "朝日新聞社が発行していた総合週刊誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "rekishi-kaido",
+    "name": "歴史街道増刊 コミック大河",
+    "nameKana": "れきしかいどうぞうかんこみっくたいが",
+    "publisherId": "php-kenkyusho",
+    "description": "PHP研究所が発行していた歴史漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "cyber-comics",
+    "name": "サイバーコミックス",
+    "nameKana": "さいばーこみっくす",
+    "publisherId": "bandai-shuppan",
+    "description": "バンダイが発行していた漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "rutile",
+    "name": "ルチル",
+    "nameKana": "るちる",
+    "publisherId": "gentosha",
+    "description": "幻冬舎コミックスが発行する男性同士の恋愛を扱う漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "young-captain",
+    "name": "ヤング・キャプテン",
+    "nameKana": "やんぐきゃぷてん",
+    "publisherId": "tokuma-shoten",
+    "description": "徳間書店が発行していた漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "morning-magnum-zoukan",
+    "name": "モーニングマグナム増刊",
+    "nameKana": "もーにんぐまぐなむぞうかん",
+    "publisherId": "kodansha",
+    "description": "講談社が発行していたモーニングの増刊誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "shokuotoko",
+    "name": "食男 -食べる男を見るマンガ-",
+    "nameKana": "しょくおとこたべるおとこをみるまんが",
+    "publisherId": "fusion-product",
+    "description": "ふゅーじょんぷろだくとが発行していた作品集。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
