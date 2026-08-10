@@ -5086,5 +5086,45 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "mikosuri-han-gekijo",
+    "name": "みこすり半劇場",
+    "nameKana": "みこすりはんげきじょう",
+    "publisherId": "bunkasha",
+    "description": "ぶんか社が刊行する四コマ漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "pokopoko",
+    "name": "ぽこぽこ",
+    "nameKana": "ぽこぽこ",
+    "publisherId": "ota-shuppan",
+    "description": "太田出版が運営していた漫画配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "hyakuten-comic",
+    "name": "100てんコミック",
+    "nameKana": "ひゃくてんこみっく",
+    "publisherId": "futabasha",
+    "description": "双葉社が刊行していた児童向け漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "comic-blade-brownie",
+    "name": "コミックブレイドBROWNIE",
+    "nameKana": "こみっくぶれいどぶらうにー",
+    "publisherId": "mag-garden",
+    "description": "マッグガーデンが刊行していた漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
