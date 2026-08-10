@@ -4796,5 +4796,35 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "dengeki-hobby-web",
+    "name": "電撃ホビーウェブ",
+    "nameKana": "でんげきほびーうぇぶ",
+    "publisherId": "kadokawa",
+    "description": "KADOKAWAが運営する模型情報サイト。漫画も連載する。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "falcom-magazine",
+    "name": "月刊FALCOM MAGAZINE",
+    "nameKana": "げっかんふぁるこむまがじん",
+    "publisherId": "field-y",
+    "description": "日本ファルコムの公式オンライン誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "famitsu-bros",
+    "name": "ファミ通ブロス",
+    "nameKana": "ふぁみつうぶろす",
+    "publisherId": "enterbrain",
+    "description": "エンターブレインが刊行していた漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
