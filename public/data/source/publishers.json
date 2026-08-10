@@ -986,5 +986,41 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "jive",
+    "name": "ジャイブ",
+    "nameKana": "じゃいぶ",
+    "description": "「月刊コミックラッシュ」などを刊行していた出版社。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "beaglee",
+    "name": "ビーグリー",
+    "nameKana": "びーぐりー",
+    "description": "電子コミック配信サービス「まんが王国」を運営する企業。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "fujimi-shobo",
+    "name": "富士見書房",
+    "nameKana": "ふじみしょぼう",
+    "description": "角川書店系の出版社。「月刊ドラゴンマガジン」「月刊コミックドラゴン」などを刊行していた。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "kakao-piccoma",
+    "name": "カカオピッコマ",
+    "nameKana": "かかおぴっこま",
+    "description": "漫画アプリ「ピッコマ」を運営する企業。韓国発のウェブトゥーンを中心に配信する。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『ピッコマ』記事(2026-08-10閲覧)で運営元を確認。",
+    "updatedAt": "2026-08-10"
   }
 ]

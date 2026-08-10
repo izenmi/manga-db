@@ -3591,7 +3591,7 @@
     "id": "piccoma",
     "name": "ピッコマ",
     "nameKana": "ぴっこま",
-    "publisherId": "coamix",
+    "publisherId": "kakao-piccoma",
     "description": "縦読み漫画を中心に配信する電子コミックサービス。",
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-09閲覧)。",
@@ -3883,6 +3883,66 @@
     "nameKana": "げっかんこみっくのーら",
     "publisherId": "gakken",
     "description": "学習研究社が発行していた月刊漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "monthly-comic-rush",
+    "name": "月刊コミックラッシュ",
+    "nameKana": "げっかんこみっくらっしゅ",
+    "publisherId": "jive",
+    "description": "ジャイブが発行していた月刊漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "comic-high",
+    "name": "コミックハイ!",
+    "nameKana": "こみっくはい",
+    "publisherId": "futabasha",
+    "description": "双葉社が発行していた女性向け作画の青年漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "gaugau-monster",
+    "name": "がうがうモンスター",
+    "nameKana": "がうがうもんすたー",
+    "publisherId": "futabasha",
+    "description": "双葉社が運営するウェブ漫画配信サイト。異世界ファンタジーのコミカライズを多く掲載する。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "kindai-manga",
+    "name": "近代漫画",
+    "nameKana": "きんだいまんが",
+    "publisherId": "takeshobo",
+    "description": "竹書房が発行していた漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "manga-oukoku",
+    "name": "まんが王国",
+    "nameKana": "まんがおうこく",
+    "publisherId": "beaglee",
+    "description": "ビーグリーが運営する電子コミック配信サービス。オリジナル作品の連載も行う。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "monthly-comic-dragon",
+    "name": "月刊コミックドラゴン",
+    "nameKana": "げっかんこみっくどらごん",
+    "publisherId": "fujimi-shobo",
+    "description": "富士見書房が発行していた月刊漫画誌。",
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
