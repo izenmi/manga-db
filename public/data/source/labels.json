@@ -5256,5 +5256,75 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "shin-mimibukuro-atmos",
+    "name": "新耳袋アトモス",
+    "nameKana": "しんみみぶくろあともす",
+    "publisherId": "shueisha",
+    "description": "集英社が運営していた怪談を扱う漫画配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "comic-crimson",
+    "name": "COMIC Crimson",
+    "nameKana": "こみっくくりむぞん",
+    "publisherId": "soubisha",
+    "description": "創美社が刊行していた漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "viva-tales-of-magazine",
+    "name": "ビバ☆テイルズ オブ マガジン",
+    "nameKana": "びばているずおぶまがじん",
+    "publisherId": "ascii-media-works",
+    "description": "アスキー・メディアワークスが刊行していたゲーム関連の漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "dengeki-moeoh",
+    "name": "電撃萌王",
+    "nameKana": "でんげきもえおう",
+    "publisherId": "media-works",
+    "description": "メディアワークスが刊行する美少女キャラクター誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "fb-online",
+    "name": "FB Online",
+    "nameKana": "えふびーおんらいん",
+    "publisherId": "enterbrain",
+    "description": "エンターブレインが運営していた漫画配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "kimi-to-boku",
+    "name": "きみとぼく",
+    "nameKana": "きみとぼく",
+    "publisherId": "sony-magazines",
+    "description": "ソニー・マガジンズが刊行していた漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "kero-kero-ace",
+    "name": "ケロケロエース",
+    "nameKana": "けろけろえーす",
+    "publisherId": "kadokawa-shoten",
+    "description": "角川書店が刊行していた児童向け漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
