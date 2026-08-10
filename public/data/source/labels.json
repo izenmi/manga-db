@@ -5736,5 +5736,35 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "lala-special",
+    "name": "LaLaスペシャル",
+    "nameKana": "ららすぺしゃる",
+    "publisherId": "hakusensha",
+    "description": "白泉社が発行していたLaLaの増刊誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "crazy-manga",
+    "name": "クレイジーマンガ",
+    "nameKana": "くれいじーまんが",
+    "publisherId": "kadokawa",
+    "description": "ウェブコミックを配信していた漫画サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "comic-nettai",
+    "name": "COMIC熱帯",
+    "nameKana": "こみっくねったい",
+    "publisherId": "kobunsha",
+    "description": "光文社が運営する漫画配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
