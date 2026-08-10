@@ -5336,5 +5336,45 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "sengoku-bushou-retsuden",
+    "name": "戦国武将列伝",
+    "nameKana": "せんごくぶしょうれつでん",
+    "publisherId": "leed-sha",
+    "description": "リイド社が刊行していた歴史漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "super-dash-and-go",
+    "name": "スーパーダッシュ&ゴー!",
+    "nameKana": "すーぱーだっしゅあんどごー",
+    "publisherId": "shueisha",
+    "description": "集英社が刊行していた漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "hero-cross-line",
+    "name": "ヒーロークロスライン",
+    "nameKana": "ひーろーくろすらいん",
+    "publisherId": "kodansha",
+    "description": "講談社などが展開していたウェブ漫画の共同企画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "comic-nanitozo",
+    "name": "コミックなにとぞ",
+    "nameKana": "こみっくなにとぞ",
+    "publisherId": "dpn-books",
+    "description": "DPNブックスが運営する漫画配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
+    "updatedAt": "2026-08-10"
   }
 ]
