@@ -731,6 +731,10 @@ h1 {
   border-left-color: #ffc85c;
 }
 
+.sister-site-card--sf {
+  border-left-color: #6e8bff;
+}
+
 
 .source-note {
   color: var(--color-text-muted);
