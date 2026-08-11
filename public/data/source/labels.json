@@ -6736,5 +6736,85 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-11閲覧)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "shonen-oh",
+    "name": "少年王",
+    "nameKana": "しょうねんおう",
+    "publisherId": "kobunsha",
+    "description": "光文社が発行していた少年漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-11閲覧)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "webtoon",
+    "name": "WEBTOON",
+    "nameKana": "うぇぶとぅーん",
+    "publisherId": "naver",
+    "description": "縦読み形式の漫画を配信する媒体。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-11閲覧)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tencent-doman",
+    "name": "テンセント動漫",
+    "nameKana": "てんせんとどうまん",
+    "publisherId": "zhejiang-jinmin",
+    "description": "中国のウェブ漫画配信媒体。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-11閲覧)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "comic-comp",
+    "name": "月刊コミックコンプ",
+    "nameKana": "げっかんこみっくこんぷ",
+    "publisherId": "kadokawa-shoten",
+    "description": "角川書店が発行していた漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-11閲覧)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "shonen-book",
+    "name": "少年ブック",
+    "nameKana": "しょうねんぶっく",
+    "publisherId": "shueisha",
+    "description": "集英社が発行していた月刊少年漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-11閲覧)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "asahi-shimbun-yukan",
+    "name": "朝日新聞夕刊",
+    "nameKana": "あさひしんぶんゆうかん",
+    "publisherId": "asahi-shimbunsha",
+    "description": "朝日新聞社が発行する日刊紙の夕刊。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-11閲覧)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "young-comic",
+    "name": "ヤングコミック",
+    "nameKana": "やんぐこみっく",
+    "publisherId": "shonen-gahosha",
+    "description": "少年画報社が発行していた青年漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-11閲覧)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "shuro",
+    "name": "SHURO",
+    "nameKana": "しゅろ",
+    "publisherId": "magazine-house",
+    "description": "マガジンハウスが運営する漫画配信媒体。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-11閲覧)。",
+    "updatedAt": "2026-08-11"
   }
 ]
