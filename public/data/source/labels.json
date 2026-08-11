@@ -6816,5 +6816,65 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-11閲覧)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "gundam-generation",
+    "name": "ガンダムジェネレーション",
+    "nameKana": "がんだむじぇねれーしょん",
+    "publisherId": "bandai",
+    "description": "バンダイが発行していた作品別の作品集。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-11閲覧)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "sports-i-espn",
+    "name": "スポーツ・アイ ESPN",
+    "nameKana": "すぽーつあいいーえすぴーえぬ",
+    "publisherId": "japan-sports-channel",
+    "description": "運動競技を扱う放送局。公式サイトで漫画も配信していた。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-11閲覧)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tanoshii-youchien",
+    "name": "たのしい幼稚園",
+    "nameKana": "たのしいようちえん",
+    "publisherId": "kodansha",
+    "description": "講談社が発行する幼児向け雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-11閲覧)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ms-saga",
+    "name": "MS SAGA",
+    "nameKana": "えむえすさが",
+    "publisherId": "bandai",
+    "description": "バンダイが発行していた作品別の作品集。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-11閲覧)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "shoujo-club",
+    "name": "少女クラブ",
+    "nameKana": "しょうじょくらぶ",
+    "publisherId": "kodansha",
+    "description": "講談社が発行していた少女向け雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-11閲覧)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "honey-milk",
+    "name": "ハニーミルク",
+    "nameKana": "はにーみるく",
+    "publisherId": "kodansha",
+    "description": "講談社が発行する男性同士の恋愛を扱う漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-11閲覧)。",
+    "updatedAt": "2026-08-11"
   }
 ]
