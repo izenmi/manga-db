@@ -6956,5 +6956,35 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-11閲覧)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ribon-comic",
+    "name": "りぼんコミック",
+    "nameKana": "りぼんこみっく",
+    "publisherId": "shueisha",
+    "description": "集英社が発行していた少女漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-11閲覧)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tv-magazine",
+    "name": "テレビマガジン",
+    "nameKana": "てれびまがじん",
+    "publisherId": "kodansha",
+    "description": "講談社が発行する児童向けの映像作品情報誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-11閲覧)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "weekly-post",
+    "name": "週刊ポスト",
+    "nameKana": "しゅうかんぽすと",
+    "publisherId": "shogakukan",
+    "description": "小学館が発行する男性向け週刊誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-11閲覧)。",
+    "updatedAt": "2026-08-11"
   }
 ]
