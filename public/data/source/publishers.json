@@ -1562,5 +1562,23 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該記事で確認(2026-08-11閲覧)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tencent",
+    "name": "テンセント",
+    "nameKana": "てんせんと",
+    "description": "中国の情報技術企業。漫画の配信も手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該記事で確認(2026-08-11閲覧)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "vivion",
+    "name": "viviON",
+    "nameKana": "びびおん",
+    "description": "電子書籍や漫画の配信を手がける企業。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該記事で確認(2026-08-11閲覧)。",
+    "updatedAt": "2026-08-11"
   }
 ]

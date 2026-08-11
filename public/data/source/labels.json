@@ -6876,5 +6876,85 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-11閲覧)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "rpg-magazine",
+    "name": "月刊RPGマガジン",
+    "nameKana": "げっかんあーるぴーじーまがじん",
+    "publisherId": "hobby-japan",
+    "description": "ホビージャパンが発行していた卓上遊戯の情報誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-11閲覧)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tasogare-shokudo",
+    "name": "たそがれ食堂",
+    "nameKana": "たそがれしょくどう",
+    "publisherId": "gentosha-comics",
+    "description": "幻冬舎コミックスが発行する食を扱う漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-11閲覧)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "dengeki-hobby-magazine",
+    "name": "電撃ホビーマガジン",
+    "nameKana": "でんげきほびーまがじん",
+    "publisherId": "ascii-media-works",
+    "description": "アスキー・メディアワークスが発行していた模型の情報誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-11閲覧)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "fantagienne",
+    "name": "ファンタジェンヌ",
+    "nameKana": "ふぁんたじぇんぬ",
+    "publisherId": "taiyo-tosho",
+    "description": "太陽図書が発行していた成人向け遊戯の情報誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-11閲覧)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tencent-anime",
+    "name": "テンセントアニメ",
+    "nameKana": "てんせんとあにめ",
+    "publisherId": "tencent",
+    "description": "中国のウェブ漫画配信媒体。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-11閲覧)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kagaku-to-gakushu",
+    "name": "科学と学習",
+    "nameKana": "かがくとがくしゅう",
+    "publisherId": "gakken",
+    "description": "学習研究社が発行していた学年別の学習雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-11閲覧)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "naver-series",
+    "name": "Naver Series",
+    "nameKana": "ねいばーしりーず",
+    "publisherId": "naver",
+    "description": "韓国のウェブ小説と漫画の配信媒体。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-11閲覧)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "comipo",
+    "name": "comipo",
+    "nameKana": "こみぽ",
+    "publisherId": "vivion",
+    "description": "漫画の配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-11閲覧)。",
+    "updatedAt": "2026-08-11"
   }
 ]
