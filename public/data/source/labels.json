@@ -6706,5 +6706,35 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-11閲覧)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "mobaflower",
+    "name": "モバフラ",
+    "nameKana": "もばふら",
+    "publisherId": "shogakukan",
+    "description": "小学館が運営していた女性向け漫画の配信媒体。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-11閲覧)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "type-moon-comic-ace",
+    "name": "TYPE-MOONコミックエース",
+    "nameKana": "たいぷむーんこみっくえーす",
+    "publisherId": "kadokawa",
+    "description": "KADOKAWAが運営する作品専門の漫画配信サイト。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-11閲覧)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "comic-sangokushi-magazine",
+    "name": "コミック三国志マガジン",
+    "nameKana": "こみっくさんごくしまがじん",
+    "publisherId": "media-factory",
+    "description": "メディアファクトリーが発行していた歴史漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-11閲覧)。",
+    "updatedAt": "2026-08-11"
   }
 ]
