@@ -6626,5 +6626,85 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-10閲覧)。",
     "updatedAt": "2026-08-10"
+  },
+  {
+    "id": "shonen-gaho",
+    "name": "少年画報",
+    "nameKana": "しょうねんがほう",
+    "publisherId": "shonen-gahosha",
+    "description": "少年画報社が発行していた月刊少年誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-11閲覧)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "million-arthur-app",
+    "name": "拡散性ミリオンアーサー",
+    "nameKana": "かくさんせいみりおんあーさー",
+    "publisherId": "square-enix",
+    "description": "アプリ内で漫画が配信されていた遊戯。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-11閲覧)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "yomban",
+    "name": "YOMBAN",
+    "nameKana": "よんばん",
+    "publisherId": "emotion",
+    "description": "配信されていた漫画媒体。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-11閲覧)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "famitsu-ps2",
+    "name": "ファミ通PS2",
+    "nameKana": "ふぁみつうぴーえすつー",
+    "publisherId": "enterbrain",
+    "description": "エンターブレインが発行していた遊戯情報誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-11閲覧)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "weekly-bokura-magazine",
+    "name": "週刊ぼくらマガジン",
+    "nameKana": "しゅうかんぼくらまがじん",
+    "publisherId": "kodansha",
+    "description": "講談社が発行していた少年漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-11閲覧)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "cakes",
+    "name": "cakes",
+    "nameKana": "けいくす",
+    "publisherId": "piece-of-cake",
+    "description": "文章や漫画を配信していた媒体。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-11閲覧)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "yoiko",
+    "name": "よいこ",
+    "nameKana": "よいこ",
+    "publisherId": "shogakukan",
+    "description": "小学館が発行していた幼児向け雑誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-11閲覧)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "monthly-sunday-gx",
+    "name": "月刊サンデーGX",
+    "nameKana": "げっかんさんでーじーえっくす",
+    "publisherId": "shogakukan",
+    "description": "小学館が発行する月刊青年漫画誌。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該作品記事および雑誌記事で確認(2026-08-11閲覧)。",
+    "updatedAt": "2026-08-11"
   }
 ]
