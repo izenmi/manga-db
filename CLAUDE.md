@@ -6,6 +6,24 @@
 - リポジトリ: `izenmi/manga-db`(public。GitHub Pagesは無料枠だとpublicでないと使えない)
 - スタック: React 18 + TypeScript + Vite 5 + `react-router-dom`(`BrowserRouter`)。ranobe-dbと異なり最初からBrowserRouterで作っているため、旧HashRouter互換のリダイレクト処理は存在しない
 
+
+### 転送量の設計(2026-08-12。**作品をフル展開して埋め込まない**)
+
+原作者・作画家・レーベル・出版社・テーマの各生成ファイルは作品を **`workIds`(id配列、刊行年の
+古い順)** で持ち、表示側は `getWorksByIds()`(works.json の取得済みキャッシュ)から引き直す。
+あらすじと出典メモは作品詳細でしか使わないので **`work-texts.json`** に分けてある。
+
+以前は作品をフル展開して埋め込んでいたため1作品が平均8つのリストに重複して入り、
+`themes.json` だけで gzip 5.25MB あった。現在は gzip で works 1.08MB / work-texts 936KB /
+themes 120KB / artists 187KB / labels 83KB / original-authors 78KB / publishers 58KB。
+トップページは 7.4MB → 1.2MB になった。
+
+- **新しい生成ファイルに作品を埋め込みたくなったら、まずidで足りないかを疑う**
+- **作品詳細ページはあらすじが揃うまで「読み込み中」を出し続ける**こと(`prerender.mjs` が
+  「読み込み中」の消滅を待って静的HTMLを書くため、先に描くとあらすじ抜きのHTMLが焼き付く)
+- **`useMemo` の依存配列に注意**。エンティティのstateだけを見ていると、後から解決する作品配列で
+  再計算されず一覧が空になる
+
 ## データフロー(source → generated)
 
 - `public/data/source/*.json` … 手作業で作成・**コミットする**一次データ(works/original-authors/artists/publishers/labels/themes/awards)

@@ -1,5 +1,5 @@
 import { useParams } from "react-router-dom";
-import { getOriginalAuthor, getArtist, getLabel } from "../../data/manifest";
+import { getOriginalAuthor, getArtist, getLabel, getWorksByIds } from "../../data/manifest";
 import { useAsyncData } from "./useAsyncData";
 import { Loading, ErrorState, EmptyState } from "./Status";
 import { useWorkFilter } from "./useWorkFilter";
@@ -24,7 +24,14 @@ export function PersonDetailPage({ kind }: { kind: PersonKind }) {
   const state = useAsyncData(() => FETCHER[kind](id!), [kind, id]);
   const person = state.status === "ready" ? state.data : undefined;
   const info = LIST_INFO[kind];
-  const { sorted, controls, hasActiveFilters, coverView } = useWorkFilter(person?.works);
+  // 作品の実データは works.json 側にある(エンティティは workIds しか持たない)。
+  // 取得済みならキャッシュから返るので追加の通信はほぼ発生しない。
+  const resolvedWorksState = useAsyncData(
+    () => (person ? getWorksByIds(person.workIds) : Promise.resolve([])),
+    [person],
+  );
+  const resolvedWorks = resolvedWorksState.status === "ready" ? resolvedWorksState.data : undefined;
+  const { sorted, controls, hasActiveFilters, coverView } = useWorkFilter(resolvedWorks);
 
   useSeo({
     title: person?.name,
@@ -68,7 +75,7 @@ export function PersonDetailPage({ kind }: { kind: PersonKind }) {
           )}
           {controls}
           <p className="page-subtitle">
-            {hasActiveFilters ? `${sorted.length}件 / 全${state.data.works.length}件` : `${sorted.length}件`}
+            {hasActiveFilters ? `${sorted.length}件 / 全${state.data.workCount}件` : `${sorted.length}件`}
           </p>
           {sorted.length === 0 && <EmptyState />}
           <WorkGrid works={sorted} coverView={coverView} />

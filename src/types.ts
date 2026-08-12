@@ -109,7 +109,9 @@ export interface AwardSource {
 // ---- generated data (public/data/generated/*.json, built by scripts/generate-manifest.mjs) ----
 
 /** Denormalized work: source fields plus resolved names for direct rendering. */
-export interface WorkGenerated extends WorkSource {
+/** あらすじ・出典メモ・updatedAt は含まない — 作品詳細ページでしか使わないのに works.json の
+ *  3分の1を占めていたので work-texts.json に分けてある(WorkTexts / getWorkTexts)。 */
+export interface WorkGenerated extends Omit<WorkSource, "synopsis" | "sourceNote" | "updatedAt"> {
   originalAuthorNames: string[];
   artistNames: string[];
   publisherName: string;
@@ -137,12 +139,14 @@ export interface PersonOrPublisherGenerated {
   description: string;
   externalLinks: ExternalLinks;
   workCount: number;
-  works: WorkGenerated[];
+  /** 実データは works.json 側。表示側で id から引き直す。 */
+  workIds: string[];
 }
 
 export interface ThemeGenerated extends ThemeSource {
   workCount: number;
-  works: WorkGenerated[];
+  /** 実データは works.json 側。表示側で id から引き直す。 */
+  workIds: string[];
 }
 
 export interface AwardWinner {
@@ -158,6 +162,9 @@ export interface AwardGenerated extends AwardSource {
   workCount: number;
   winners: AwardWinner[];
 }
+
+/** 作品詳細ページだけが読む長文(generated/work-texts.json)。キーは作品id。 */
+export type WorkTexts = Record<string, { synopsis: string; sourceNote: string }>;
 
 export interface Counts {
   works: number;

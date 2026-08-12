@@ -4,6 +4,7 @@ import type {
   PersonOrPublisherGenerated,
   ThemeGenerated,
   WorkGenerated,
+  WorkTexts,
 } from "../types";
 
 function dataUrl(relativePath: string): string {
@@ -31,6 +32,7 @@ export const getPublishers = () => fetchJson<PersonOrPublisherGenerated[]>("publ
 export const getLabels = () => fetchJson<PersonOrPublisherGenerated[]>("labels.json");
 export const getThemes = () => fetchJson<ThemeGenerated[]>("themes.json");
 export const getAwards = () => fetchJson<AwardGenerated[]>("awards.json");
+export const getWorkTexts = () => fetchJson<WorkTexts>("work-texts.json");
 export const getCounts = () => fetchJson<Counts>("counts.json");
 
 export async function getWork(workId: string): Promise<WorkGenerated | undefined> {
@@ -66,4 +68,12 @@ export async function getTheme(themeId: string): Promise<ThemeGenerated | undefi
 export async function getAward(awardId: string): Promise<AwardGenerated | undefined> {
   const awards = await getAwards();
   return awards.find((a) => a.id === awardId);
+}
+
+/** エンティティが持つ workIds から作品を引く。works.json は取得済みならキャッシュから返るので、
+ *  作品を各エンティティに埋め込んでいた頃と違って追加の通信はほぼ発生しない。 */
+export async function getWorksByIds(ids: string[]): Promise<WorkGenerated[]> {
+  const works = await getWorks();
+  const byId = new Map(works.map((w) => [w.id, w]));
+  return ids.map((id) => byId.get(id)).filter((w): w is WorkGenerated => w !== undefined);
 }
