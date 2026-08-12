@@ -871,3 +871,39 @@ h1 {
   font-size: 0.78rem;
   line-height: 1.7;
 }
+
+/* 「好みからおすすめ」(/recommend)。一致度のピルは受賞年バッジと同じ形。 */
+.match-score {
+  display: inline-block;
+  background: var(--color-blue);
+  color: var(--color-ink-on-accent);
+  border-radius: var(--radius-pill);
+  padding: 1px 9px;
+  margin-right: 6px;
+  font-weight: 800;
+  font-variant-numeric: tabular-nums;
+  font-size: 0.82rem;
+}
+
+/* タグ選択チップ。<a> ではなく <button> なので、フォント継承とカーソルだけ足す。 */
+button.chip {
+  font-family: inherit;
+  cursor: pointer;
+}
+
+/* 選択中は .chip:hover と同じ配色を固定化する。 */
+.chip--on {
+  background: var(--color-blue);
+  border-color: var(--color-blue-strong);
+  color: var(--color-ink-on-accent);
+}
+
+/* 上限の3つに達したときの未選択チップ。 */
+.chip:disabled {
+  opacity: 0.45;
+  cursor: default;
+}
+
+.home-section__more + .home-section__more {
+  margin-left: 14px;
+}

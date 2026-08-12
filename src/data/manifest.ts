@@ -4,6 +4,7 @@ import type {
   PersonOrPublisherGenerated,
   ThemeGenerated,
   WorkGenerated,
+  RecommendIndex,
   WorkTexts,
 } from "../types";
 
@@ -32,6 +33,7 @@ export const getPublishers = () => fetchJson<PersonOrPublisherGenerated[]>("publ
 export const getLabels = () => fetchJson<PersonOrPublisherGenerated[]>("labels.json");
 export const getThemes = () => fetchJson<ThemeGenerated[]>("themes.json");
 export const getAwards = () => fetchJson<AwardGenerated[]>("awards.json");
+export const getRecommendIndex = () => fetchJson<RecommendIndex>("recommend-index.json");
 export const getWorkTexts = () => fetchJson<WorkTexts>("work-texts.json");
 export const getCounts = () => fetchJson<Counts>("counts.json");
 
