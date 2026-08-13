@@ -63,15 +63,19 @@ export function themeOptionsOf(works: WorkGenerated[] | undefined, exclude?: str
     .map(([value, e]) => ({ value, label: `${e.label}(${e.n})` }));
 }
 
-export function useWorkFilter(works: WorkGenerated[] | undefined, defaultSort = "year-desc") {
+export function useWorkFilter(
+  works: WorkGenerated[] | undefined,
+  defaultSort = "year-desc",
+  options?: { gallery?: boolean },
+) {
   const [params, setParams] = useSearchParams();
-  const { coverView, gridClassName, toggle } = useCoverView();
+  const { view, coverView, gridClassName, toggle } = useCoverView(options);
   const q = params.get("q") ?? "";
   const status = params.get("status") ?? "";
   const mediaMix = params.get("mediaMix") ?? "";
   const theme = params.get("theme") ?? "";
   const sort = params.get("sort") ?? defaultSort;
-  const options = useMemo(() => themeOptionsOf(works), [works]);
+  const themeOptions = useMemo(() => themeOptionsOf(works), [works]);
 
   const filtered = useMemo(() => {
     if (!works) return [];
@@ -129,10 +133,10 @@ export function useWorkFilter(works: WorkGenerated[] | undefined, defaultSort = 
           </option>
         ))}
       </select>
-      {options.length > 0 && (
+      {themeOptions.length > 0 && (
         <select value={theme} onChange={(e) => updateParam("theme", e.target.value)}>
           <option value="">テーマで絞り込み</option>
-          {options.map((o) => (
+          {themeOptions.map((o) => (
             <option value={o.value} key={o.value}>
               {o.label}
             </option>
@@ -166,5 +170,5 @@ export function useWorkFilter(works: WorkGenerated[] | undefined, defaultSort = 
     </div>
   );
 
-  return { filtered, sorted, controls, hasActiveFilters, coverView, gridClassName };
+  return { filtered, sorted, controls, hasActiveFilters, view, coverView, gridClassName };
 }

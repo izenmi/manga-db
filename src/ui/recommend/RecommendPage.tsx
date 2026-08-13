@@ -7,9 +7,10 @@ import { Loading, ErrorState, EmptyState } from "../common/Status";
 import { BASE_PATH, breadcrumbJsonLd, useSeo } from "../common/useSeo";
 import { WorkCard, WorkCoverCard } from "../common/WorkCard";
 import { gridClassNameFor, useCoverView } from "../common/useCoverView";
+import { WorkRecommendSection } from "./WorkRecommendSection";
 
 const MAX_TAGS = 3;
-const RECOMMEND_COUNT = 20;
+export const RECOMMEND_COUNT = 20;
 
 /** 選んだテーマとの一致度。
  *
@@ -61,11 +62,97 @@ function scoreItems(index: RecommendIndex, selected: string[]) {
  *  id昇順だけに落とすとスラッグのアルファベット順という無意味な並びで20枠が決まってしまうので、
  *  テーマが情報を持たなくなった時点で既存データにある知名度の代理指標に判断を移す。
  *  最後は必ずid昇順で締めて、同じURLが常に同じ並びになるようにする。 */
-function tieBreakKey(item: WorkGenerated): number {
+export function tieBreakKey(item: WorkGenerated): number {
   return (item.mediaMix?.anime ? 2 : 0) + (item.mediaMix?.novelization ? 1 : 0);
 }
 
+/** 一致度%ラベルつきの結果グリッド。テーマ起点・作品起点の両モードで共用する。
+ *  アワード詳細と同じ「カードには手を入れず、上にラベルを添える」`.award-entry` 方式。
+ *  作品起点は制作者の加点でスコアが1.0を超えうるので、%は100で頭打ちにする。 */
+export function RecommendGrid({
+  entries,
+  coverView,
+}: {
+  entries: { work: WorkGenerated; score: number; matchedNames: string[] }[];
+  coverView: boolean;
+}) {
+  return (
+    <div className={gridClassNameFor(coverView)}>
+      {entries.map((e) => (
+        <div className="award-entry" key={e.work.id}>
+          <p className="award-entry__result">
+            <span className="match-score">{Math.min(100, Math.round(e.score * 100))}%</span>
+            {e.matchedNames.join("・")}
+          </p>
+          {coverView ? <WorkCoverCard work={e.work} /> : <WorkCard work={e.work} />}
+        </div>
+      ))}
+    </div>
+  );
+}
+
 export function RecommendPage() {
+  const [params, setParams] = useSearchParams();
+  // `?works=` があれば作品起点(tags= と同居した壊れたURLでも works 優先で一意に決まる)。
+  // `?mode=works` は「作品起点タブでまだ何も選んでいない」状態をタブ切替のために保持するもの。
+  const isWorkMode = params.has("works") || params.get("mode") === "works";
+
+  useSeo({
+    title: "好みからおすすめ",
+    description:
+      "好きなテーマや作品を3つまで選ぶと、傾向の近いコミックを一致度つきで20作品おすすめします。",
+    jsonLd: breadcrumbJsonLd([
+      { name: "まんがDB", path: BASE_PATH },
+      { name: "好みからおすすめ", path: `${BASE_PATH}recommend` },
+    ]),
+  });
+
+  function switchMode(work: boolean) {
+    const p = new URLSearchParams(params);
+    if (work) {
+      p.delete("tags");
+      p.set("mode", "works");
+    } else {
+      p.delete("works");
+      p.delete("mode");
+    }
+    setParams(p, { replace: true });
+  }
+
+  return (
+    <div className="page">
+      <h1>好みからおすすめ</h1>
+      <p className="page-subtitle">
+        {isWorkMode
+          ? `好きな作品を${MAX_TAGS}つまで選ぶと、傾向の近い作品を一致度つきで${RECOMMEND_COUNT}作品おすすめします。`
+          : `好きなテーマを${MAX_TAGS}つまで選ぶと、傾向の近い作品を一致度つきで${RECOMMEND_COUNT}作品おすすめします。`}
+      </p>
+
+      <div className="view-toggle view-toggle--standalone" role="group" aria-label="おすすめの起点">
+        <button
+          type="button"
+          className={isWorkMode ? "view-toggle__btn" : "view-toggle__btn view-toggle__btn--active"}
+          aria-pressed={!isWorkMode}
+          onClick={() => switchMode(false)}
+        >
+          テーマから
+        </button>
+        <button
+          type="button"
+          className={isWorkMode ? "view-toggle__btn view-toggle__btn--active" : "view-toggle__btn"}
+          aria-pressed={isWorkMode}
+          onClick={() => switchMode(true)}
+        >
+          作品から
+        </button>
+      </div>
+
+      {isWorkMode ? <WorkRecommendSection /> : <ThemeRecommendSection />}
+    </div>
+  );
+}
+
+function ThemeRecommendSection() {
   const [params, setParams] = useSearchParams();
   const { coverView, toggle } = useCoverView();
   const [q, setQ] = useState("");
@@ -87,16 +174,6 @@ export function RecommendPage() {
     () => (hasSelection ? getWorks() : Promise.resolve([] as WorkGenerated[])),
     [hasSelection],
   );
-
-  useSeo({
-    title: "好みからおすすめ",
-    description:
-      "好きなテーマを3つまで選ぶと、テーマの重なりが近いコミックを一致度つきで20作品おすすめします。",
-    jsonLd: breadcrumbJsonLd([
-      { name: "まんがDB", path: BASE_PATH },
-      { name: "好みからおすすめ", path: `${BASE_PATH}recommend` },
-    ]),
-  });
 
   function setSelected(next: string[]) {
     const p = new URLSearchParams(params);
@@ -135,12 +212,7 @@ export function RecommendPage() {
   const atLimit = selected.length >= MAX_TAGS;
 
   return (
-    <div className="page">
-      <h1>好みからおすすめ</h1>
-      <p className="page-subtitle">
-        好きなテーマを{MAX_TAGS}つまで選ぶと、傾向の近い作品を一致度つきで{RECOMMEND_COUNT}作品おすすめします。
-      </p>
-
+    <>
       {indexState.status === "loading" && <Loading />}
       {indexState.status === "error" && <ErrorState error={indexState.error} />}
       {index && (
@@ -221,18 +293,14 @@ export function RecommendPage() {
                     {toggle}
                   </div>
                   {results.length === 0 && <EmptyState />}
-                  <div className={gridClassNameFor(coverView)}>
-                    {results.slice(0, RECOMMEND_COUNT).map((r) => (
-                      // アワード詳細と同じ「カードには手を入れず、上にラベルを添える」形
-                      <div className="award-entry" key={r.id}>
-                        <p className="award-entry__result">
-                          <span className="match-score">{Math.round(r.score * 100)}%</span>
-                          {r.matched.map((t) => nameById.get(t)).join("・")}
-                        </p>
-                        {coverView ? <WorkCoverCard work={r.item} /> : <WorkCard work={r.item} />}
-                      </div>
-                    ))}
-                  </div>
+                  <RecommendGrid
+                    entries={results.slice(0, RECOMMEND_COUNT).map((r) => ({
+                      work: r.item,
+                      score: r.score,
+                      matchedNames: r.matched.map((t) => nameById.get(t) ?? t),
+                    }))}
+                    coverView={coverView}
+                  />
                   {results.length > 0 && (
                     <p className="page-subtitle">
                       一致度は、選んだテーマと作品のテーマの重なり具合(珍しいテーマほど重く数えます)です。
@@ -245,6 +313,6 @@ export function RecommendPage() {
           )}
         </>
       )}
-    </div>
+    </>
   );
 }

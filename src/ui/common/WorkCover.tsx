@@ -17,7 +17,7 @@ function colorFor(title: string): (typeof COVER_COLORS)[number] {
  *  そのままだと粗い。表示時にURLを書き換えるだけで済むため、書影の再取得は不要。
  *  `_ex` を持たないURL(BOOK☆WALKER・honto)は不一致で素通りする。 */
 function coverSrc(coverUrl: string, size: string): string {
-  return size === "xl" ? coverUrl.replace(/([?&]_ex=)\d+x\d+/, "$1600x600") : coverUrl;
+  return size === "xl" || size === "gallery" ? coverUrl.replace(/([?&]_ex=)\d+x\d+/, "$1600x600") : coverUrl;
 }
 
 export function WorkCover({
@@ -27,7 +27,7 @@ export function WorkCover({
 }: {
   title: string;
   coverUrl?: string;
-  size?: "sm" | "lg" | "xl";
+  size?: "sm" | "lg" | "xl" | "gallery";
 }) {
   const [broken, setBroken] = useState(false);
   if (coverUrl && !broken) {
@@ -37,6 +37,7 @@ export function WorkCover({
         src={coverSrc(coverUrl, size)}
         alt={title}
         loading="lazy"
+        decoding="async"
         onError={() => setBroken(true)}
       />
     );

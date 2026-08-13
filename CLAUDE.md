@@ -313,3 +313,34 @@ game-db の `scripts/suggest-candidates.mjs`(IGDB版)と同じ発想。
 - 選択状態はURLの `?tags=<id>,<id>,<id>`。知らないidは黙って捨て、3つ上限は未選択チップの無効化で表現
 - **導線はトップの「人気テーマ」節のみ。TopNav には足していない**(ナビを増やす変更は過去に撤去されている)
 - 未選択時に `<Loading />` を出さないこと(`prerender.mjs` が「読み込み中」の消滅を待つため)
+
+### 作品起点モード「作品から」(2026-08-13、ranobe-dbから移植)
+
+`/recommend` 内のタブ切替で、好きな作品を最大3つ選んで似た作品を出す第2モード
+(`src/ui/recommend/WorkRecommendSection.tsx`)。別ルートにはしていない。
+
+- **モード判定は `?works=<id>,<id>,<id>` の有無**(tags= と同居しても works 優先)。`?mode=works` は
+  空選択状態の保持用。タブ切替時は相手側のクエリを消す
+- **データは works.json だけ**。recommend-index.json は読まないし拡張もしない(主要導線の
+  作品詳細「この作品が好きなら」→「この作品からもっと探す」では取得済みキャッシュで追加転送ゼロ)
+- **スコアは各シードとの類似度(ビルド側 relatedIdsFor と同一式: テーマIDFコサイン +
+  同作画家+0.15 + 同原作者+0.1)を個別に計算して算術平均**。シード1件のとき詳細ページの関連6件と
+  同じ順位になる(同点の並びだけは、こちらがアニメ化/ノベライズ→受賞のタイブレークを足すぶん異なる。
+  ビルド側はid昇順のみ)。ボーナスで1.0を超えるので **%表示は `Math.min(100, …)` で頭打ち**
+- 作品検索は `useWorkFilter` の `matchesKeyword` を再利用。結果グリッドとタイブレークは
+  `RecommendPage.tsx` の `RecommendGrid` / `tieBreakKey`(export化)を両モードで共用
+- このモードは works.json ロード中に `<Loading />` を出してよい(プリレンダーが見る素の
+  `/recommend` はテーマ起点のため)
+
+## 作画家詳細のギャラリー表示(2026-08-13、ranobe-dbから移植)
+
+`?view=` の第3モード `gallery`。表紙表示(184px)よりさらに大判(~300px)で表紙を並べる
+鑑賞向けビューで、**作画家詳細だけ**が `useWorkFilter(works, undefined, { gallery: true })` で
+オプトインする(表紙の絵はほぼ作画家の仕事なので、画業をまとめて眺める価値があるのはここ)。
+
+- `useCoverView` が3値(`cards | covers | gallery`)になった。従来の `coverView` boolean も
+  返し続けるので既存呼び出し元は無変更。**gallery が無効なページで `?view=gallery` を
+  開かれたら covers 扱いに落とす**
+- **表紙未解決の作品はギャラリーでは非表示**にし、件数行に注記を出す(件数表示と実表示数が
+  ずれるのはこの仕様のため)
+- 画像は既存 xl と同じ `_ex=600x600` 書き換え + `loading="lazy"`(+`decoding="async"`)

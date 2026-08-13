@@ -65,10 +65,21 @@ export function WorkCard({ work }: { work: WorkGenerated }) {
 /** 表紙表示モード(`?view=covers`)のカード。書影だけを大きく並べる。カード全体がそのまま
  *  <Link> なので WorkCard のような stretched link は要らない。文字が一切出ないぶん、タイトルは
  *  `title`(ホバーで出るツールチップ)と `aria-label`(読み上げ・キーボード操作)の両方で補う。 */
-export function WorkCoverCard({ work: item }: { work: WorkGenerated }) {
+export function WorkCoverCard({
+  work: item,
+  size = "xl",
+}: {
+  work: WorkGenerated;
+  size?: "xl" | "gallery";
+}) {
   return (
-    <Link to={`/works/${item.id}`} className="work-cover-card" title={item.title} aria-label={item.title}>
-      <WorkCover title={item.title} coverUrl={item.coverUrl} size="xl" />
+    <Link
+      to={`/works/${item.id}`}
+      className={size === "gallery" ? "work-cover-card work-cover-card--gallery" : "work-cover-card"}
+      title={item.title}
+      aria-label={item.title}
+    >
+      <WorkCover title={item.title} coverUrl={item.coverUrl} size={size} />
     </Link>
   );
 }

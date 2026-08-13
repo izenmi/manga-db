@@ -178,6 +178,19 @@ h1 {
   border-radius: var(--radius-sm);
 }
 
+/* ギャラリー表示モード(?view=gallery、作画家詳細のみ)。表紙表示よりさらに大判の
+   ~300pxで並べる鑑賞向けビュー。covers と同じく `(100% - gap) / 2` の頭打ちで
+   スマホでも必ず2列は入る。 */
+.work-grid--gallery {
+  grid-template-columns: repeat(auto-fill, minmax(min(300px, calc((100% - 16px) / 2)), 1fr));
+  gap: 16px;
+  justify-items: center;
+}
+
+.work-cover-card--gallery {
+  max-width: 320px;
+}
+
 .work-card {
   position: relative;
   display: flex;
@@ -355,6 +368,17 @@ h1 {
   line-height: 1.35;
 }
 
+/* xl と同じ考え方で、頭打ちだけギャラリーの320pxに上げたもの。表紙未解決の作品は
+   ギャラリーでは非表示にするが、画像の読み込み失敗時のフォールバックはここを通る。 */
+.work-cover--gallery {
+  width: 100%;
+  max-width: 320px;
+  height: auto;
+  aspect-ratio: 92 / 131;
+  font-size: 1.1rem;
+  line-height: 1.4;
+}
+
 .work-cover__title {
   overflow: hidden;
   display: -webkit-box;
@@ -364,7 +388,8 @@ h1 {
 
 /* 表紙が無い作品はここでもプレースホルダになる。xl は高さに余裕があるので、
    長いタイトルを6行で切らずに済ませる。 */
-.work-cover--xl .work-cover__title {
+.work-cover--xl .work-cover__title,
+.work-cover--gallery .work-cover__title {
   -webkit-line-clamp: 8;
 }
 
@@ -479,6 +504,17 @@ h1 {
   border: 1px solid var(--color-outline);
   border-radius: var(--radius-pill);
   overflow: hidden;
+}
+
+/* /recommend のモード切替タブ。.filter-row の外に単独で置くので、全幅に伸びないようにする。 */
+.view-toggle--standalone {
+  display: inline-flex;
+  margin-bottom: 12px;
+}
+
+.view-toggle--standalone .view-toggle__btn {
+  padding: 5px 16px;
+  font-size: 0.85rem;
 }
 
 .view-toggle__btn {
@@ -889,6 +925,44 @@ h1 {
 button.chip {
   font-family: inherit;
   cursor: pointer;
+}
+
+/* 作品起点おすすめの検索候補リスト。work-card と同じ面の作りで、装飾は足さない。 */
+.work-picker {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-bottom: 12px;
+}
+
+.work-picker__item {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  align-items: flex-start;
+  text-align: left;
+  padding: 6px 10px;
+  border-radius: var(--radius-sm);
+  background: var(--color-surface);
+  border: 1px solid var(--color-outline);
+  color: var(--color-text);
+  font-family: inherit;
+  font-size: 0.95rem;
+  cursor: pointer;
+}
+
+.work-picker__item:hover:not(:disabled) {
+  border-color: var(--color-orange-strong);
+}
+
+.work-picker__item:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+
+.work-picker__meta {
+  color: var(--color-text-muted);
+  font-size: 0.82rem;
 }
 
 /* 選択中は .chip:hover と同じ配色を固定化する。 */
