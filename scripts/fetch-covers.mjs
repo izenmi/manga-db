@@ -162,7 +162,9 @@ function authorMatches(text, personNames) {
 
 /** Rakuten serves a generic grey placeholder for items with no real cover — never cache one. */
 function isPlaceholderImage(imageUrl) {
-  return !imageUrl || /noimage/i.test(imageUrl);
+  // 店舗ごとに綴りが違う。楽天ブックスは noimage_01.gif、ブックオフ系は r_noimg.gif を返す。
+  // noimage しか見ていなかったため、noimg のプレースホルダをそのまま表紙として採っていた。
+  return !imageUrl || /no[-_]?im(?:age|g)|now[-_]?printing/i.test(imageUrl);
 }
 
 // Items that are about the series rather than a volume of it. Their "cover" is an art-book jacket
